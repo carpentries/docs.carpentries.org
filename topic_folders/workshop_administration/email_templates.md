@@ -6,10 +6,10 @@ Dear %name%,
 
 Thanks so much for inquiring about a Carpentries workshop at %site_name%.  Here's some background about our programs and how we run.
 
-Software Carpentry (SWC) and Data Carpentry (DC) are two sibling organizations. Both programs offer two day long workshops taught by a team of two instructors, trained and certified by us. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python, your choice). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ).
+Software Carpentry (SWC) and Data Carpentry (DC) are two sibling organizations. Both programs offer two day long workshops taught by a team of two instructors, trained and certified by us. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python, your choice). Read more [here](https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more [here](http://www.datacarpentry.org/lessons/ ).
 
 All workshops have a standard fee of US$2500, plus any costs for instructor travel (which may include airfare, ground travel, hotel, and meals/incidentals).
-You can read more about the costs and how to request a workshop here for Software Carpentry (https://software-carpentry.org/workshops/request/) and here for Data Carpentry (http://www.datacarpentry.org/workshops-host/).
+You can read more about the costs and how to request a workshop here for [Software Carpentry](https://software-carpentry.org/workshops/request/) and here for [Data Carpentry](http://www.datacarpentry.org/workshops-host/).
 
 Workshops are offered on demand, not on a set schedule, and typically require 2-3 months lead time to plan.
 
@@ -32,7 +32,7 @@ Next steps:
 
 Instructors will work directly with %host_first_name% to make travel arrangements. We are not part of this process. This may include airfare, ground travel, hotel, and meals/incidentals. %host_first_name%, it is up to you whether you want to book things directly or have instructors make their own arrangements and get reimbursed. Either way, please keep in mind our instructors are volunteering two days of their time to teach with you, so please support them in making travel as smooth as possible.
 
-You can all read more about the roles of workshop hosts, instructors, and helpers here (https://software-carpentry.org/workshops/operations/). I'll highlight a few things here.
+You can all read more about the roles of workshop hosts, instructors, and helpers [here](https://software-carpentry.org/workshops/operations/). I'll highlight a few things here.
 
 %host_first_name% , can you share a little about who your learners are and what you and they are expecting? That will help our instructors be prepared. We also like to have a couple of helpers at each workshop from the local community. Would you be able to help secure a couple of helpers? They don't need to be connected with us; they just need a good understanding of the technologies we teach and an enthusiasm to help others.
 
