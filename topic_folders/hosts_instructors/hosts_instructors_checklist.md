@@ -23,7 +23,7 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 
 **During the workshop, the host will**
 * Meet the instructors and learners
-* Ensure that the room is set up with all [necessary materials and equiment](workshop_needs.html)
+* Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.html)
 * Periodically check in on the class to be sure things are running smoothly
 
 **After the workshop, the host will**

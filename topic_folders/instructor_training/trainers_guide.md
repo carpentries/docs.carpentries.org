@@ -118,28 +118,42 @@ If you would like to watch an example teaching demo, there is a recording of one
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
 
 *  SWC
-   *  [The Unix Shell 01-intro](https://swcarpentry.github.io/shell-novice/01-intro) - no live coding
-   *  [Version Control with Git 01-basics](https://swcarpentry.github.io/git-novice/01-basics/) - no live coding
-   *  Version Control with Git - anything after [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes) - dependencies
-   *  [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/01-basics/) - no live coding
-   *  Version Control with Mercurial - anything after [Configuring Mercurial](https://swcarpentry.github.io/hg-novice/02-configuration/) - dependencies
-   *  [Databases and SQL 08-hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) - no live coding
-   *  [Programming with Python 09-debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) - no live coding
-   *  [R for Reproducible Scientific Analysis 16-wrap-up](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) - no live coding
-   *  Automation and Make - anything after [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles/) - dependencies
+  * [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
+    * [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) - no live coding
+  * [Version Control with Git](http://swcarpentry.github.io/git-novice/)
+    * [Automated Version Control](https://swcarpentry.github.io/git-novice/01-basics/) - no live coding
+    *  anything after [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes) - dependencies
+  * [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/)
+    *  [Automated Version Control](https://swcarpentry.github.io/hg-novice/01-basics/) - no live coding
+    *  anything after [Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/) - dependencies
+  * [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
+    *  [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) - no live coding
+  * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
+     * [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) - no live coding
+  * [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+     * [Writing Good Software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) - no live coding
+  *  [Automation and Make](http://swcarpentry.github.io/make-novice/) 
+      * anything after [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles/) - dependencies
 
-*  DC (stable lessons only)
-   * Open Refine for Ecology - anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
-   * [SQL for Ecology](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
-   * [R for Ecology](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) - no live coding  
-   * R for Ecology - anything after [Manipulating data frames](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) - dependencies
-   * Python for Ecology - anything after [Data workflows and automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/) - dependencies
-
-*  LC (stable lessons only)
-   * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
-   * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding
-   * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
-
+*  DC (published lessons only)
+  * Ecology
+     * [Data Cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
+        * anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
+    * [Data Management with SQL](http://www.datacarpentry.org/sql-ecology-lesson/)
+      * [Databases using SQL](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
+    * [Data Analysis and Visualization in R](http://www.datacarpentry.org/R-ecology-lesson/)
+        * [Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) - no live coding  
+        * anything after [Manipulating data frames](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) - dependencies
+    * [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/)
+        * anything after [Data workflows and automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/) - dependencies
+   * Genomics 
+      * TBA
+   * Social Sciences
+     * [Data Cleaning with OpenRefine for Social Scientists](http://www.datacarpentry.org/openrefine-socialsci/)
+        * anything after [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) - dependencies
+      * [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/)
+        * [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) - no live coding  
+        * anything after [Introducing dplyr and tidyr](http://www.datacarpentry.org/r-socialsci/03-dplyr-tidyr/) - dependencies
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html

@@ -12,6 +12,6 @@ on Facebook, email [team@carpentries.org](mailto:team@carpentries.org) with
 
 There are also forums where you can speak directly to the community yourself. You can do this via:
 
-- The [Discuss email list](http://lists.software-carpentry.org/listinfo/discuss), which community members are welcome to join and post to
+- The [Discuss email list](http://carpentries.topicbox.com/groups/discuss), which community members are welcome to join and post to
 - Our other email lists, which are a combination of regional and topic-specific lists - they are all listed [here](https://software-carpentry.org/join/)
 - Our [Slack channel](https://swc-slack-invite.herokuapp.com/), which community members are welcome to join and post to

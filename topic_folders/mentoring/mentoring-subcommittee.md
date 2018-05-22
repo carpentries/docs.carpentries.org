@@ -29,8 +29,8 @@ Established in 2015 to develop and maintain a mentoring program, the program sup
 * How can our community be more inclusive?
 
 ### Join the Conversation
-* Mailing list for the mentoring committee: mentoring@lists.software-carpentry.org
-* [Mailing list administration](http://lists.software-carpentry.org/listinfo/mentoring).  Contact [team@carpentries.org](mailto:team@carptentries.org) if you need admin access.
+* Mailing list for the mentoring committee: mentoring@lists.carpentries.org
+* [Mailing list administration](http://carpentries.topicbox.com/groups/mentoring).  Contact [team@carpentries.org](mailto:team@carptentries.org) if you need admin access.
 * [Mentoring Etherpad](http://pad.software-carpentry.org/scf-mentoring)
 * Meeting Minutes: [https://github.com/carpentries/mentoring/tree/master/minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
 * [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com)
@@ -46,7 +46,7 @@ Mentoring committee meetings are a great opportunity to share ideas and support 
 
 #### Attending a mentoring committee meeting
 ##### Before the meeting
-* Join the [mailing list](http://lists.software-carpentry.org/listinfo/mentoring) to get the most updated information about mentoring committee activities and meetings.
+* Join the [mailing list](http://carpentries.topicbox.com/groups/mentoring) to get the most updated information about mentoring committee activities and meetings.
 * Check out the etherpad for details on the next committee meeting and join by adding your name in your preferred time at the top of the [etherpad](http://pad.software-carpentry.org/scf-mentoring).
 * Look out for the email from the chairs to the mentoring committee email list and read/think about any documents/topics they may ask
 * Encourage members of the community to join us

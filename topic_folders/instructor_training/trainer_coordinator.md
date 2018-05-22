@@ -6,7 +6,7 @@ The Trainer Coordinator plays an essential role in The Carpentries community by 
 
 Weekly:
 - Check the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos) to ensure that all events for the next two weeks have Trainers listed. 
-- If any events don’t have a Trainer listed, send out a reminder to the [Trainer Slack channel](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/) and the [Trainer mailing list](mailto:trainers@lists.software-carpentry.org) asking Trainers to sign up. See the [email templates](#teaching-demos-without-hosts) for suggested language.
+- If any events don’t have a Trainer listed, send out a reminder to the [Trainer Slack channel](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/) and the [Trainer mailing list](mailto:trainers@lists.carpentries.org) asking Trainers to sign up. See the [email templates](#teaching-demos-without-hosts) for suggested language.
 - If one week before the demo is scheduled to take place, there is still no Trainer available, email [team@carpentries.org](mailto:team@carpentries.org). The Carpentries staff will try to find a staff member to cover the demo.
 - If three business days before the demo, there is still no one available to lead, send [an email](#teaching-demo-cancelled-trainees) to the trainees who are signed up. Also, change the status to “Cancelled” on the Etherpad and [notify the Trainers group](#teaching-demo-cancelled-trainers) that we had to cancel an event.
 

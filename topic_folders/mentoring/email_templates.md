@@ -4,7 +4,7 @@
 #### Pre-workshop Discussion
 
 
-Software and Data Carpentry Pre-Workshop Discussions
+Subject: Software and Data Carpentry Pre-Workshop Discussions
 
 Dear instructors,
 
@@ -38,6 +38,27 @@ Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each date h
     http://pad.software-carpentry.org/instructor-discussion
 
 In addition to participating in the general discussion, we also welcome past instructors to co-host future discussions. Co-hosting a discussion session is a great way to share your expertise with both new and experienced instructors and is a lot of fun!  To co-host a future discussion, just sign up on the same etherpad above. 
+
+We hope to see you soon!
+
+Cheers,
+[Your name]
+Carpentries Mentoring Committee
+
+
+#### Call for Instructors (to Mentoring Committee)
+
+Subject: Call for Hosts - Carpentries Instructor Discussion Sessions
+
+Hello, 
+
+The Carpentries Mentoring Committee hosts has posted new discussion session dates on the Instructor Discussion Session Etherpad: http://pad.software-carpentry.org/instructor-discussion
+
+The following discussion sessions are in need of discussion hosts!
+* [Date 1, UTC time, time zones - example below]
+* Tuesday, May 1, UTC 21:00 UTC (Wed 7am AEDT, 5pm NYC, 2pm LA) -  Aus/S. America/N. America
+
+Please feel free to browse other discussion sessions to see if there is a date/time that works for you to sign on as a host! If you have questions about hosting, please visit the Mentoring Committee onboarding document's section about host expectations: https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-hosts
 
 We hope to see you soon!
 

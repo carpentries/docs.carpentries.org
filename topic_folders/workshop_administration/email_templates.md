@@ -1,6 +1,6 @@
 ### Email templates
 
-#### From Workshops Administrators
+#### From Workshop Administrators
 
 ##### General inquiry response
 
@@ -10,7 +10,7 @@ Dear [ name ],
 
 Thanks so much for inquiring about hosting a Carpentries workshop at [ site_name ].  Here's some background about our programs and how we run.
 
-Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initaitives). Both programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ).
+Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initiatives). Both programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ).
 
 All workshops have a standard fee of US$2500, plus any costs for instructor travel (which may include airfare, ground travel, hotel, and meals/incidentals).
 You can read more about the costs and how to request a workshop here for Software Carpentry (https://software-carpentry.org/workshops/request/) and here for Data Carpentry (http://www.datacarpentry.org/workshops-host/).
@@ -277,7 +277,7 @@ Thank you for attending our [ Data/Library/Software ] Carpentry workshop. We hop
 
 Please be sure to complete our post-workshop survey [l ink to survey ]. Your answers are essential to allow us to continuously improve our workshops for future learners. 
 
-If you have any other feedback about the workshop, or would like to get involved in the Carpentries community, please contact us (mailto:team@carpentries.org). You can also join the Carpentries Discussion mailing list (http://lists.software-carpentry.org/listinfo/discuss), follow us on Twitter (https://twitter.com/datacarpentry and https://twitter.com/swcarpentry), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
+If you have any other feedback about the workshop, or would like to get involved in the Carpentries community, please contact us (mailto:team@carpentries.org). You can also join the Carpentries Discussion mailing list (http://carpentries.topicbox.com/groups/discuss), follow us on Twitter (https://twitter.com/datacarpentry and https://twitter.com/swcarpentry), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
 
 We hope to see more of you as you continue to develop your data analysis skills!
 

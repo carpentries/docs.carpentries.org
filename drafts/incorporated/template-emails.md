@@ -62,7 +62,7 @@ Hi [name],
 
 Thank you for completing your checkout. I've updated your status in our database and you are now an officially certified [Data/Software] Carpentry instructor. Your certificate is attached. Congratulations!
 
-If you haven't already, please be sure to join the instructors mailing list (http://lists.software-carpentry.org/listinfo/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://lists.software-carpentry.org/listinfo/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
+If you haven't already, please be sure to join the instructors mailing list (http://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
 
 If you would like to be included on our online list of instructors, please 
 

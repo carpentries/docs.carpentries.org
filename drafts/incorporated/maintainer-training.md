@@ -48,7 +48,7 @@ As a Maintainer, you’re part of a team that is responsible for ensuring that y
 
 The new Maintainers for all of the Carpentry lessons will be meeting a few times before {month} for onboarding and training in the Carpentry maintenance workflow. Please fill out this schedule poll {add link to poll} by {deadline} with your general weekly availability. Our first meeting is tentatively set for the first week in {month} and we will be meeting three times. Don't forget to select your timezone before filling out your availability. We have new Maintainers joining the team from all over the world, so please be as flexible as possible. 
 
-New Maintainers will be given write access to their lesson repos after completing the onboarding process. In the meantime, please start becoming familiar with your lesson materials, sign up for the [Maintainer mailing list](http://lists.software-carpentry.org/listinfo/maintainers), and check out the dates of the next [Maintainer general meeting](http://pad.software-carpentry.org/maintainers). You're more than welcome to start attending Maintainer meetings before our onboarding. Please let me know if you have any questions. Looking forward to seeing you in March!
+New Maintainers will be given write access to their lesson repos after completing the onboarding process. In the meantime, please start becoming familiar with your lesson materials, sign up for the [Maintainer mailing list](http://carpentries.topicbox.com/groups/maintainers), and check out the dates of the next [Maintainer general meeting](http://pad.software-carpentry.org/maintainers). You're more than welcome to start attending Maintainer meetings before our onboarding. Please let me know if you have any questions. Looking forward to seeing you in March!
 
 Best,
 {name}
@@ -65,7 +65,7 @@ We will be meeting for three weeks, starting the week of {date}. You can see the
 
 Before our first meeting, please:
 
-1) Sign up for the [Maintainer mailing list](http://lists.software-carpentry.org/listinfo/maintainers). This is a low-volume channel for communicating about issues relevant to the Maintainer community.
+1) Sign up for the [Maintainer mailing list](http://carpentries.topicbox.com/groups/maintainers). This is a low-volume channel for communicating about issues relevant to the Maintainer community.
 
 2) Add Maintainer meetings to your schedule. The meeting times are listed on the [Maintainer Etherpad](http://pad.software-carpentry.org/maintainers) and on the [Community Calendar](https://software-carpentry.org/join/#calendar). The Maintainer monthly meetings are not mandatory, but are encouraged as a way of getting to know the more experienced Maintainers.
 

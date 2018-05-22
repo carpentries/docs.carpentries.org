@@ -32,7 +32,7 @@ Thank you for joining our upcoming instructor training session on  [ training_da
 
 This will be offered online with our instructor trainers, [ trainer1 ]  and [ trainer2 ]. You can read more about what you'll do these two days here: [ webpage ]
 
-If you haven't already, you must complete our online application form here (https://amy.software-carpentry.org/forms/request_training/) so we can officially record your participation and track your progress towards becoming a certified Carpentries instructor. Please use the group code [ group_code ]
+If you haven't already, you must complete our online application form here (https://amy.software-carpentry.org/forms/request_training/) so we can officially record your participation and track your progress towards becoming a certified Carpentries instructor. Please use the group code [ group_code ] 
 
 Participants from each site should be in the same room. Individuals can not join remotely as our training includes partner and group activities. All individual participants should have wifi access.
 
@@ -49,6 +49,8 @@ A videoconferencing link will be shared with the organizers/hosts at each site b
 3. We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
 4. Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet/Chromebook/etc. won't be sufficient). No special setup on your own laptops is necessary.
+
+5. Please complete this pre-assessment survey: https://www.surveymonkey.com/r/D7LM7DW?workshop_id=[workshop_id_value]. This survey, along with our post-assessment, provides valuable information that we use to improve our program and report on our impacts.
 
 Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://carpentries.github.io/instructor-training/checkout/. If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
@@ -181,7 +183,7 @@ Hi [ trainee name ],
 
 Thank you for completing your checkout. I've updated your status in our database and you are now an officially certified [ Data/Software ] Carpentry instructor. Your certificate is attached. Congratulations!
 
-If you haven't already, please be sure to join the instructors mailing list (http://lists.software-carpentry.org/listinfo/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://lists.software-carpentry.org/listinfo/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
+If you haven't already, please be sure to join the instructors mailing list (http://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
 
 If you would like to be included on our online list of instructors, please 
 
@@ -259,7 +261,7 @@ If you're interested in being part of this cohort, please try to complete the fo
 
 5) Please add upcoming Trainer Business and Discussion meetings (http://pad.software-carpentry.org/trainers) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
 
-6) Please sign up for the Trainers email list (http://lists.software-carpentry.org/listinfo/trainers) if you haven't already done so.
+6) Please sign up for the Trainers email list (http://carpentries.topicbox.com/groups/trainers) if you haven't already done so.
 
 7) Please respond to this email with a quick introduction so that we can all get to know each other. I'll send out my introduction as a separate email following this.
 
