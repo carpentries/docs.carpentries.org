@@ -5,8 +5,8 @@ INSTRUCTOR DEVELOPMENT
    :maxdepth: 2
    :glob:
 
-   instructor_development_committee.md
-   community_discussions.md
-   community_discussions_workflow.md
-   mentoring_groups.md
-   mentoring_groups_workflow.md
+   instructor_development_committee
+   community_discussions
+   community_discussions_workflow
+   mentoring_groups
+   mentoring_groups_workflow

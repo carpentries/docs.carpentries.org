@@ -7,9 +7,9 @@ For more information on lesson development with The Carpentries, please visit `T
    :maxdepth: 2
    :glob:
 
-   lesson_development_roles.md
-   bug_bbq.md
-   lesson_release.md
-   email_templates.md
+   lesson_development_roles
+   bug_bbq
+   lesson_release
+   email_templates
 
    

@@ -5,8 +5,8 @@ LESSON MAINTENANCE
    :maxdepth: 2
    :glob:
 
-   maintainers.md
-   github_labels.md
-   email_templates.md
-   contributing.md
+   maintainers
+   github_labels
+   email_templates
+   contributing
    

@@ -8,7 +8,7 @@ HOW-TO GUIDES
    :glob:
 
    
-   adhere-style-guide.md
-   submit_blog_post.md
-   select-blog-tags.md
-   submit-news-item.md
+   adhere-style-guide
+   submit_blog_post
+   select-blog-tags
+   submit-news-item

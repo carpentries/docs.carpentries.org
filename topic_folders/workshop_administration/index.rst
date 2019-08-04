@@ -10,9 +10,9 @@ This section outlines their work specifically as it relates to workshop administ
    :maxdepth: 2
    :glob:
 
-   expectations.md
-   workshop_admin_workflow.md    
-   amy_manual.md
-   survey_monkey.md
-   eventbrite.md
-   email_templates.md
+   expectations
+   workshop_admin_workflow    
+   amy_manual
+   survey_monkey
+   eventbrite
+   email_templates

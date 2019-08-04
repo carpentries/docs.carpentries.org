@@ -7,7 +7,7 @@ TOOLS
    :glob:
    
    
-   etherpads.md
-   newsletter.md
-   slack-and-email.md
-   zoom_rooms.md
+   etherpads
+   newsletter
+   slack-and-email
+   zoom_rooms

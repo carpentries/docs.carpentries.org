@@ -42,8 +42,8 @@ For self organised workshops, the host and instructor are directly responsible f
    :maxdepth: 2
    :glob:
 
-   hosts_instructors_checklist.md
-   instructor_tips.md
-   unofficial_workshops.md
-   workshop_needs.md
-   certificates.md
+   hosts_instructors_checklist
+   instructor_tips
+   unofficial_workshops
+   workshop_needs
+   certificates
