@@ -69,6 +69,9 @@ Review these if you are looking to write about your teaching experiences:
 
 - Jason Bell on February 27, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8)
 - Darya Vanichkina on April 7, [Jumping into digital: Lessons learned while moving live-coding workshops online](https://youtu.be/w0DHye2M1IM)
+- CarpentryCon @ Home sessions 
+  - on July 15 by Angelique van Rensburg and Serah Rono - [Carpentries Instructors' Experiences from Teaching Online - Session One](https://youtu.be/vNIyz__WiM8)
+  - on July 23 by Kelly Barnes and Sher! Hurt - [Carpentries Instructors' Experiences from Teaching Online - Session Two](https://youtu.be/STA9DQF5J3E)
 
 ##### Other Relevant Resources
 
