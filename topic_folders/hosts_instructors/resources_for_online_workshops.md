@@ -61,16 +61,15 @@ Review these if you are looking to write about your teaching experiences:
 
 - Jason Bell on February 27, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8)
 - Darya Vanichkina on April 7, [Jumping into digital: Lessons learned while moving live-coding workshops online](https://youtu.be/w0DHye2M1IM)
+- Themed Discussions: Online Workshop Series
+  - Session One, 1 June 2020
+    - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5)
+    - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929)
+    - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461)
+[Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
 - CarpentryCon @ Home sessions 
   - on July 15 by Angelique van Rensburg and Serah Rono - [Carpentries Instructors' Experiences from Teaching Online - Session One](https://youtu.be/vNIyz__WiM8)
   - on July 23 by Kelly Barnes and Sher! Hurt - [Carpentries Instructors' Experiences from Teaching Online - Session Two](https://youtu.be/STA9DQF5J3E)
- - Themed Discussions: Online Workshop Series
-    - Session One, 1 June 2020
-      - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5)
-      - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929)
-      - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461)
-[Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
-
 
 ##### Other Relevant Resources
 
