@@ -23,7 +23,7 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 
 #### Resources by Community
 
-Carpentries community members have written many blog posts and facilitated several webinars on this topic.
+Carpentries community members have written many blog posts and facilitated several webinars on this topic and they are listed below. If you are looking to write a blog post on your experiences from online workshops, check out the [blog post prompts](#blog-post-prompts) section.  
 
 ##### Blog posts
 
