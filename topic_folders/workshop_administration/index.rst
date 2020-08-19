@@ -13,6 +13,5 @@ This section outlines their work specifically as it relates to workshop administ
    expectations.md
    workshop_admin_workflow.md    
    amy_manual.md
-   survey_monkey.md
    eventbrite.md
    email_templates.md

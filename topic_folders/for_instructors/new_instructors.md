@@ -53,7 +53,7 @@ People train as Instructors for many reasons:
 8. *To join a community* of people who care about inclusive teaching of computational skills. 
 9. *Because it's fun.* It really is !
 
-Read more about Instructor motivations in Dr. Beth Duckles's report, [*Value of Software Carpentry to Instructors*](https://software-carpentry.org/files/bib/duckles-Instructor-engagement-2016.pdf).
+Read more about Instructor motivations in Dr. Beth Duckles's report, [*Value of Software Carpentry to Instructors*](https://software-carpentry.org/files/bib/duckles-instructor-engagement-2016.pdf).
 
 ### Steps to Becoming an Instructor
 

@@ -71,7 +71,7 @@ But <br>
   Render these with initial capitals, _e.g.,_ Gordon and Betty Moore Foundation, Smithsonian Institute, the United Nations, the European Union.
 
   **roles** <br>
-  Roles within The Carpentries are always capitalised. Therefore we use Instructor, 
+  Roles within The Carpentries are always capitalised. Therefore we use Instructor, Supportive Instructor, 
   Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
 
  
@@ -231,7 +231,7 @@ To introduce phrases or single sentence quotations, a comma is preferable, _e.g.
 ## R
  
 ##### roles
-Roles within The Carpentries are always capitalised. Therefore we use Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+Roles within The Carpentries are always capitalised. Therefore we use Instructor, Supportive Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
 
 ---
 

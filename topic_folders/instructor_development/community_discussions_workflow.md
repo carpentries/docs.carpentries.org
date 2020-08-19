@@ -1,6 +1,6 @@
 ## Community Discussions Workflow
 
-This workflow was established for the [Instructor Development Committee Discussion Session Coordinator](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#discussion-session-coordinator) to organise The Carpentries [Community Discussions](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). 
+This workflow was established for the [Instructor Development Committee Discussion Session Coordinator](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#discussion-session-coordinator) to organise The Carpentries [Community Discussions](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Between January 2020 and September 2020, this workflow will be managed by Angelique van Rensburg from Carpentries Core Team.
 
 ### Scheduling Community Discussions
 

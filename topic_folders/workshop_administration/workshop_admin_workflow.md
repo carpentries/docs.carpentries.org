@@ -46,7 +46,7 @@
 1. Regional Coordinator reminds instructors to set up a workshop website using the
 [workshop template](https://github.com/carpentries/workshop-template).
 
-1. Regional Coordinator sets up surveys in Survey Monkey and emails results links to hosts and instructors.
+1. The Workshop Administration Team will share a link to view the survey results with hosts and instructors via email. The survey result link is for instructors/hosts and should not be shared publicly. *As a reminder, learner facing survey links are automatically generated on the workshop's GitHub webpage*.
 
 1. If needed Regional Coordinator sets up registration in Eventbrite. 
     * If there is a registration fee, Regional Coordinator informs the Business Team (finance@carpentries.org) that this will need to be refunded or applied to the workshop invoice.
@@ -69,7 +69,7 @@
 
 1. Regional Coordinator records this in AMY.
 
-1. Regional Coordinator sets up surveys in Survey Monkey and emails results links to hosts and instructors. Explain to the hosts and instructors that this link should not be shared. Regional Coordinator informs hosts and instructors where to find the pre and post survey links to distribute to learners.
+1. The Workshop Administration Team will share a link to view the survey results with hosts and instructors via email. The survey result link is for instructors/hosts and should not be shared publicly. *As a reminder, learner facing survey links are automatically generated on the workshop's GitHub webpage*.
 
 1. In weeks leading up to workshop, Regional Coordinator sends check in emails to be sure planning is progressing smoothly. This is optional as instructors and hosts should not be expecting direct support from us.
 

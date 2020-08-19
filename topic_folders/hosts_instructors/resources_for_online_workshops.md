@@ -23,7 +23,7 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 
 #### Resources by Community
 
-Carpentries community members have written many blog posts and facilitated several webinars on this topic. 
+Carpentries community members have written many blog posts and facilitated several webinars on this topic.
 
 ##### Blog posts
 
@@ -41,9 +41,10 @@ Carpentries community members have written many blog posts and facilitated sever
 - Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer, Angelique van Rensburg on 28 May, [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/)
 - Jane Koh on 15 June, [Outlining a Successful Virtual Software Carpentry Workshop on Zoom](https://carpentries.org/blog/2020/06/virtual-software-carpentry-workshop/)
 - Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/)
- - Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
+- Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
+- Rosa Lönneborg, Omar Khan, and Serah Rono on 2 July, [Lessons Learned - Teaching Carpentries Workshops Online in Sweden, May 2020](https://carpentries.org/blog/2020/07/stockholm-online-workshop/)
  
-##### Online workshop community blog post prompts
+##### blog post prompts
  
 Review these if you are looking to write about your teaching experiences: 
 
@@ -62,6 +63,7 @@ Review these if you are looking to write about your teaching experiences:
     - Were they helpful?
     - How would you adapt the resources post workshop.
 8. Would you be willing to share your experience briefly in a Themed Discussion session around running online workshops in the future? If yes, we would afford you a 5-15 minute slot to share your experiences. How much time would you need?
+
 
 ##### Webinars and Community Calls 
 
