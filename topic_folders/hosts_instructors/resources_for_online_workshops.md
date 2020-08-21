@@ -36,7 +36,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
 - Rosa Lönneborg, Omar Khan, and Serah Rono on 2 July, [Lessons Learned - Teaching Carpentries Workshops Online in Sweden, May 2020](https://carpentries.org/blog/2020/07/stockholm-online-workshop/)
  
-##### blog post prompts
+##### Blog post prompts
  
 Review these if you are looking to write about your teaching experiences: 
 
