@@ -45,20 +45,20 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 ### Scheduling Pre- and Post-Workshop Community Disucssions
 
 1. Coordinate with Infrastructure Team (Maneesha Sane) regarding quarterly sign-ups. This process has been semi-automated with the use of Calendly.
-2. After signups have closed the Coordinator and Infrastructure Team discuss distributions of time slots identified by Discussions Hosts (during sign-up) per week and time zone. This will result in either extending signups (if more are needed), or cancel duplicate/sessions not needed.
+2. After signups have closed the Community Discussions Coordinator and Infrastructure Team discuss distributions of time slots identified by Discussions Hosts (during sign-up) per week and time zone. This will result in either extending signups (if more are needed), or cancel duplicate/sessions not needed.
 3. Once finalised the Infrastructure Team publishes the time slots to the Etherpad.
-4. The CDT will coordinate weekly Tweets and schedule in the Carpentries Clippings regarding upcoming Community Discussion sessions.
+4. In coordination with IDC's Communications Coordinator, the Community Development Team will coordinate weekly Tweets and schedule messages to go out in Carpentries Clippings, our fortnightly newsletter, regarding upcoming Community Discussion sessions.
 5. The final version of the Carpentries Community Calendar is populated from Calendly by the Infrastructure Team.
 6. If any additional sessions are added/sessions are changed at a later stage, this is done manually.
-7. Coordinator checks the Etherpad weekly to view signups (perhaps too few) for sessions as well as if any changes have been made and might impact the Carpentries Community Calendar.
-8. Coordinator will periodically (together with CDT) write blog posts, update mailing lists and provide information via Slack regarding various Community Discussion matters (i.e. quarterly signups, upcoming themed discussions etc)
+7. The Community Discussions Coordinator checks the Etherpad weekly to view signups (perhaps too few) for sessions as well as if any changes have been made and might impact the Carpentries Community Calendar.
+8. The Community Discussions Coordinator will periodically write blog posts, update mailing lists and provide information via Slack regarding various Community Discussion matters (i.e. quarterly signups, upcoming themed discussions etc) and will have as much support from the Community Development Team as needed throughout this process.
 
 ### Preparing to Host a Carpentries Community Discussion
 
 - [Optional] Identify a Community Discussion Moderator
 	- Identify someone to moderator the Community Discussion. This individual will:
     - Introduce the facilitator
-    - Remind participants that we are following The Carpentries CoC
+    - Remind participants that we are following The Carpentries Code of Conduct
     - Request permission from attendees to record the session.
     - Take notes during the discussion
     - Moderate Q&A
