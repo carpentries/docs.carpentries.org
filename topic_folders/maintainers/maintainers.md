@@ -98,7 +98,7 @@ the onboarding process.
 
 ## Maintainer Community Meetings
 
-The Maintainer community meets on the third Wednesday of every month. Times for these meetings can be found on the [Community Calendar](https://static.carpentries.org/community/#community-events). A reminder for these meetings should be sent out to the Maintainers email list one week before the meeting takes place, and the [Maintainers Etherpad](https://pad.carpentries.org/maintainers) should also be updated. Ideally, these meetings will be co-facilitated by a member of [The Carpentries Core Team](https://carpentries.org/team/) and the Maintainer Community Development Lead.
+The Maintainer community meets on the third Wednesday of every month. Times for these meetings can be found on the [Community Calendar](https://carpentries.org/community/#community-events). A reminder for these meetings should be sent out to the Maintainers email list one week before the meeting takes place, and the [Maintainers Etherpad](https://pad.carpentries.org/maintainers) should also be updated. Ideally, these meetings will be co-facilitated by a member of [The Carpentries Core Team](https://carpentries.org/team/) and the Maintainer Community Development Lead.
 
 The following is a Etherpad template that can be used as a Maintainer meeting agenda:
 

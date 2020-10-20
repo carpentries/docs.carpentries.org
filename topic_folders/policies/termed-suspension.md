@@ -27,7 +27,7 @@ Revoke access from the following communication channels and communities:
     - [Data Carpentry](https://datacarpentry.org/blog/)
     - [Software Carpentry](https://software-carpentry.org/blog/)
     - [Library Carpentry](https://librarycarpentry.org/blog/)
-    - [The Carpentries](http://static.carpentries.org/blog/)
+    - [The Carpentries](http://carpentries.org/blog/)
 - GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
 - Gitter - Library Carpentry Lobby
 - [Slack](https://swcarpentry.slack.com/messages)  

@@ -1,6 +1,6 @@
 # The Carpentries Bylaws
 
-[The Executive Council welcomes community feedback on these bylaws. See [our contact information](https://static.carpentries.org/governance/#contacting-the-executive-council).]
+[The Executive Council welcomes community feedback on these bylaws. See [our contact information](https://carpentries.org/governance/#contacting-the-executive-council).]
 
 ## 1. Purpose
 
