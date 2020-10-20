@@ -11,7 +11,7 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 
 *Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrolment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
-A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
+A calendar for upcoming instructor training events is [here](https://carpentries.github.io/instructor-training/training_calendar/).
 
 #### Trainer Checklists
 
@@ -70,10 +70,10 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
-[training-repo]: http://carpentries.github.io/instructor-training/
+[training-repo]: https://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
 [demo-pad]: https://pad.carpentries.org/teaching-demos
-[demo-rubric]: http://carpentries.github.io/instructor-training/demos_rubric/
+[demo-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
 
 

@@ -8,7 +8,7 @@ The purpose of this document is to outline a clear uptake and implementation pla
 
 ### Target audience for this document
 
-This document was originally written for [the core Carpentries team](http://carpentries.org/team), and has now been made available to our community. It is designed as a resource to be referenced regularly, rather than as literature to be studied once and archived after.
+This document was originally written for [the core Carpentries team](https://carpentries.org/team), and has now been made available to our community. It is designed as a resource to be referenced regularly, rather than as literature to be studied once and archived after.
 
 
 Our unique value as The Carpentries is that we have evolved over the last twenty years as a community-led organisation, spanning multiple cultural and disciplinary contexts, and working towards a unified goal - that of equipping researchers and librarians with foundational computational and data science skills. 

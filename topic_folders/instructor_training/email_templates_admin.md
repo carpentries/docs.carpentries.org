@@ -28,14 +28,14 @@ others in your community) to get together.
 
 To register, please direct your team members to our Instructor
 Training workshop registration page
-(http://carpentries.github.io/instructor-training/training_calendar/index.html). 
+(https://carpentries.github.io/instructor-training/training_calendar/index.html). 
 Your trainees should register with the code: [ insert code here in bold ]. 
 This code can be used [ number ] times. Please be sure to share this
 code with your trainees. They should also fill out our application form
 ( https://amy.carpentries.org/forms/request_training/ )
 using the same code. For guidance about how to select your 
 trainees, please visit our Information for Member Organisations page
-at http://carpentries.github.io/instructor-training/members/. 
+at https://carpentries.github.io/instructor-training/members/. 
 
 You can use this email template (https://docs.carpentries.org/topic_folders/instructor_training/email_templates_admin.html#initial-trainee-contact-email-from-member-site-to-their-prospective-trainees-online-training) to send this information to 
 your group. If one of your affiliates is not able to attend after 
@@ -55,7 +55,7 @@ For more information about our Instructor Training program, including
 details about our curriculum, certification process, and logistical 
 details of the training event itself, please visit our Information 
 for Member Organisations page at 
-http://carpentries.github.io/instructor-training/members/. 
+https://carpentries.github.io/instructor-training/members/. 
 
 I’m excited to help you build your team of Carpentries instructors at 
 [ site_name ]. Please let me know once you’ve shared this 
@@ -115,7 +115,7 @@ Dear [ name ],
 We are excited to announce that [ site name ] has become a member of
 The Carpentries!
 
-The Carpentries (http://carpentries.org) is a global group of 
+The Carpentries (https://carpentries.org) is a global group of 
 volunteers who develop and teach two-day, interactive, hands-on 
 workshops on essential computing and data skills that are not part
 of basic research training in most disciplines. 
@@ -183,7 +183,7 @@ Each participant needs their own laptop and earbuds/headphones. Note, unfortunat
 
 For more information about what will 
 be covered at this training, check out our Instructor Training curriculum: 
-http://carpentries.github.io/instructor-training/.
+https://carpentries.github.io/instructor-training/.
 
 Attendance is required for the full two-days of the workshop in order
 to certify as a Carpentries Instructor. Participants who miss more 
@@ -198,7 +198,7 @@ familiar with The Carpentries.
 After your training, you will need to complete three 
 exercises online in order to become a certified Carpentries Instructor. These 
 requirements are detailed at 
-http://carpentries.github.io/instructor-training/checkout/ and will
+https://carpentries.github.io/instructor-training/checkout/ and will
 be discussed at your training.   
 
 We will send periodic reminders when new events are open, but you may
@@ -255,7 +255,7 @@ customise your Etherpad as appropriate.
 
 Get in touch with your co-Trainer(s) to decide who will teach which
 sections of the curriculum: 
-http://carpentries.github.io/instructor-training/. This is also a
+https://carpentries.github.io/instructor-training/. This is also a
 good time to decide how you and your co-Trainer(s) will communicate 
 during the training. We recommend using Slack direct message for 
 this.
@@ -324,7 +324,7 @@ Hello everyone,
 
 Thank you for registering for The Carpentries Instructor Training workshop on [ DATE-TIME-TIMEZONE ]. This email contains important information to help you prepare for the training - please read it carefully and let me know if you have any questions.
 
-This training is for people who want to become certified Carpentries instructors. This workshop will introduce you to evidence-based best-practices of teaching. We will teach you how to create a positive environment for learners at your workshops, provide opportunities for you to practice and build your teaching skills, help you become integrated into the Carpentries community, and prepare you to use these teaching skills in teaching Carpentries workshops. For more information about what will be covered at this training, check out our Instructor Training curriculum: http://carpentries.github.io/instructor-training/.
+This training is for people who want to become certified Carpentries instructors. This workshop will introduce you to evidence-based best-practices of teaching. We will teach you how to create a positive environment for learners at your workshops, provide opportunities for you to practice and build your teaching skills, help you become integrated into the Carpentries community, and prepare you to use these teaching skills in teaching Carpentries workshops. For more information about what will be covered at this training, check out our Instructor Training curriculum: https://carpentries.github.io/instructor-training/.
 
 This is training for teaching, not technical training. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. We will not be covering the contents of our workshop curricula during Instructor Training, but we do provide optional post-training onboarding sessions and mentoring opportunities to help prepare Instructors to teach particular curricula.
 
@@ -338,7 +338,7 @@ Before your training, please:
  - Read this short paper: https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf which provides a brief overview of some key evidence-based results in teaching.
  - Go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/), the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), or the Library Carpentry lessons page (https://librarycarpentry.org/lessons/) to see what we currently teach. Carefully read through one episode of your choice. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson.
 
-After your training, you will be asked to do three follow-up exercises online in order to become a certified Instructor. These requirements are detailed at http://carpentries.github.io/instructor-training/checkout/ and will be discussed at your training. If you have any questions about the workshop, the reading material, or anything else, please don’t hesitate to get in touch.
+After your training, you will be asked to do three follow-up exercises online in order to become a certified Instructor. These requirements are detailed at https://carpentries.github.io/instructor-training/checkout/ and will be discussed at your training. If you have any questions about the workshop, the reading material, or anything else, please don’t hesitate to get in touch.
 
 Happy Training - we are excited to have you on board!
 [ SENDER’S NAME ] 
@@ -413,7 +413,7 @@ to hear about [ reason for emergency ] and would like to extend an
 invitation for you to attend a future online training event at a 
 time that is convenient for you. When you’re able, please look at 
 our calendar of upcoming events here: 
-http://carpentries.github.io/instructor-training/training_calendar/index.html 
+https://carpentries.github.io/instructor-training/training_calendar/index.html 
 and register for an event that matches your availability. If you 
 won’t be able to join an event and would prefer to transfer your 
 seat in Instructor Training to someone else at your institution, 
@@ -440,7 +440,7 @@ hear about [ reason for emergency ] and would like to extend an
 invitation for you to attend a future online training event at a 
 time that is convenient for you. When you’re able, please look at
 our calendar of upcoming events here: 
-http://carpentries.github.io/instructor-training/training_calendar/index.html 
+https://carpentries.github.io/instructor-training/training_calendar/index.html 
 and register for an event that matches your availability. If you
 won’t be able to join an event and would prefer to transfer your 
 seat to someone else on our waiting list, please let us know. 
@@ -513,7 +513,7 @@ Carpentries Instructor Training on [ date of training ]. We’re sorry
 you won’t be able to join us and would like to extend an invitation 
 for you to attend a future online training event at a time that is 
 convenient for you. Please look at our calendar of upcoming events 
-here: http://carpentries.github.io/instructor-training/training_calendar/index.html and register for an event that 
+here: https://carpentries.github.io/instructor-training/training_calendar/index.html and register for an event that 
 matches your availability. If you won’t be able to join an event 
 and would prefer to transfer your seat in Instructor Training to 
 someone else at your institution, please let us know and we will make 
@@ -820,7 +820,7 @@ If you're interested in being part of this cohort, please try to complete the fo
 
 5) Please add upcoming Trainer meetings (http://pad.software-carpentry.org/trainers-backup) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
 
-6) Please sign up for the Trainers email list (http://carpentries.topicbox.com/groups/trainers) if you haven't already done so.
+6) Please sign up for the Trainers email list (https://carpentries.topicbox.com/groups/trainers) if you haven't already done so.
 
 7) Please respond to this email with a quick introduction so that we can all get to know each other. I'll send out my introduction as a separate email following this.
 

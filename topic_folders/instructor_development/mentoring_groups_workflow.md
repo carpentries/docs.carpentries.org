@@ -15,7 +15,7 @@ This workflow was set up to guide the [Instructor Development Committee Mentorin
 - Schedule a Mentoring Groups Info Session
 	- Add the dates for the info session to the community calendar.
 - Use [this templated presentation](https://docs.google.com/presentation/d/1_kXWJ8F-dBdYWU62PrH0B_NltvF7wOqUJp87ALaxYwk/edit#slide=id.p) as a guide
-- Add mentoring group applications to [Carpentries Clippings](http://carpentries.org/newsletter/), our community newsletter
+- Add mentoring group applications to [Carpentries Clippings](https://carpentries.org/newsletter/), our community newsletter
 - Write blog post to recruit mentors and mentees for Carpentries Mentoring Groups
   - [Sample Post 1](https://datacarpentry.org/blog/2018/03/next-round-mentoring)
   - [Sample Post 2](https://carpentries.org/blog/2018/04/mentoring-groups-open/)
@@ -58,4 +58,4 @@ This workflow was set up to guide the [Instructor Development Committee Mentorin
   - Use [the following e-mail template](https://docs.google.com/document/d/1rBtMsRh8Em50LnZsUbHIbPX0dZiTytHtBHSIl9GF3Yg/edit) to collect feedback from mentors and mentees at the end of the program
 - Review Mentoring Groups Post-Program Survey Results and add highlights to the wrap-up blog post.
 - Write wrap-up blog post for mentoring groups
-- Add a summary statement on Mentoring Groups wrap-up to [Carpentries Clippings](http://carpentries.org/newsletter/), our community newsletter 
+- Add a summary statement on Mentoring Groups wrap-up to [Carpentries Clippings](https://carpentries.org/newsletter/), our community newsletter 

@@ -8,7 +8,7 @@ The purpose of this document is to provide a strategy for communications around 
 
 ### Target audience for this document
 
-This document was originally written for [the core Carpentries team](http://carpentries.org/team), and has now been made available to our community. It is designed as a resource to be referenced regularly, rather than as literature to be studied once and archived after.
+This document was originally written for [the core Carpentries team](https://carpentries.org/team), and has now been made available to our community. It is designed as a resource to be referenced regularly, rather than as literature to be studied once and archived after.
 
  
 ## Background

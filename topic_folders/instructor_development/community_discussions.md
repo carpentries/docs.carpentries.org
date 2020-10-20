@@ -85,7 +85,7 @@ We recognise that even after scheduling their own events, Discussion Hosts may h
 * Maintaining focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
 * Ensuring instructors teaching in the near future have urgent questions or concerns addressed.
 * Collecting feedback from instructors who have recently taught.
-* Engaging newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](http://carpentries.github.io/instructor-training/checkout/).
+* Engaging newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
 * Encouraging attendees to create issues or pull requests to correct problems.
 * Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
 

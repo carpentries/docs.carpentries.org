@@ -30,7 +30,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - Add potential Community Discussion to [the community calendar](https://carpentries.org/community/#community-events)
   - If the Community Discussions Facilitator proposed a day/time for the community discussion, add that day/time to the community calendar in UTC and assign the Zoom Room [carpentries room 2](https://carpentries.zoom.us/my/carpentriesroom2) for the call. If they did not provide a time, include that question in your e-mail to them.
 - Add potential Community Discussion to the Community Discussions Page on the website
-  - Submit a PR to update the [Community Discussions page on The Carpentries website](http://carpentries.org/community_discussions/)
+  - Submit a PR to update the [Community Discussions page on The Carpentries website](https://carpentries.org/community_discussions/)
   - The appropriate GitHub repository to submit your Pull Request to [is here](https://github.com/carpentries/carpentries.org/pulls). Add the new community discussion in the upcoming discussions section.
 - Contact potential Community Discussions Facilitator
   - Send [a version of the following templated e-mail](https://docs.google.com/document/d/1Xag1PA5Ya2iEqpYTKjaKR9gh-JqhsS-yKiZaCAA9VUk/edit) to the individual who completed the form. Once the e-mail has been sent, highlight the row in the spreadsheet yellow indicating that you've contacted the individuals. 
