@@ -1,106 +1,261 @@
 # The Carpentries Privacy Policy
 
-*Effective date: 25 May 2018*
 
-This Privacy Policy covers personally identifiable information that may be provided to The Carpentries, including data provided at in-person events (e.g., workshops and conferences) and online. Changes to this Privacy Policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.
-Information obtained and how it is used is described in sections below for
+Last updated: 2020-11-XX
 
-1. [Workshop participants](#section-1-workshop-participants)  
-2. [Instructors](#section-2-instructors)  
-3. [Other volunteers](#section-3-other-volunteers)  
-4. [Online spaces](#section-4-online-spaces)  
-5. [Opt-in surveys](#section-5-opt-in-surveys)  
-6. [All participants](#section-6-all-participants)
+This Privacy Policy applies to The Carpentries and its associated lesson
+programs, Data Carpentry, Software Carpentry, and Library Carpentry
+(collectively, “We”, “Our”, “Us”). This Privacy Policy explains how we collect,
+use, and share the personal information that we gather on the subdomains and
+websites on carpentries.org, datacarpentry.org, software-carpentry.org, and
+librarycarpentry.org (the “Sites”) or through your use of our products and
+services. By continuing to use our Sites, you agree to the terms of this Privacy
+Policy.
 
+This Privacy Policy does not apply to any of the practices of our workshop partners, such as universities and other organizations, other than our practices expressly disclosed below. To understand how our workshop partners process your information, please refer to their privacy policy.
 
-## Definitions
+Please click the following links to learn more about our Privacy Policy:
 
-- *Workshop participants* - people participating, including but not limited to as learner, helper, or instructor in a Carpentries workshop
-- *Hosts* - people organising a workshop at their local site
-- *Instructors and Trainers* - people who are teaching a Carpentries workshop
-- *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification
-- *Lesson contributors and maintainers* - people who contribute to or maintain lessons
-- *The Carpentries Core Team* - people employed by The Carpentries
-- *Authorised administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop or volunteer coordinators
+1.  [What Types of Personal Information Do We Collect?](#what-types-of-personal-information-do-we-collect)
+2.  [How Do We Use Personal Information?](#how-do-we-use-personal-information)
+3.  [How Do We Share Personal Information?](#how-do-we-share-personal-information)
+4.  [How Do We Respond to ‘Do Not Track’ Signals?](#how-do-we-respond-to-do-not-track-signals)
+5.  [Cookies](#cookies)
+6.  [Your Privacy Choices](#your-privacy-choices)
+7.  [Legal Bases for Processing (EEA Individuals)](#legal-bases-for-processing-eea-individuals)
+8.  [EEA Individuals’ Rights](#eea-individuals-rights)
+9.  [International Transfers of Data](#international-transfers-of-data)
+10.  [Children’s Privacy](#childrens-privacy)
+11.  [Change of Control](#change-of-control)
+12.  [How Do We Protect Personal Information?](#how-do-we-protect-personal-information)
+13.  [Policy Changes](#policy-changes)
+14.  [Contact Information](#contact-information)
 
-#### How is personally identifiable information stored?
+## 1. What Types of Personal Information Do We Collect?
 
-Personally identifiable information is stored in secure databases. Refer to [Limitations](#limitations) section below.
+**Information You Give Us.** You may give us information by applying to become an Instructor, a Maintainer, a Trainer; volunteering to serve in one of our committees or task forces; serving as a Regional Coordinator; requesting information on workshops or memberships; participating in any capacity in a workshop or event; entering other information through our online collaborative note taking tools, forms or surveys; entering into a membership agreement; making a donation; providing sponsorship; contacting us by phone or email for information or services, or in person during a workshop or event.
 
+The categories of information include:
 
-#### Who has access to personally identifiable information?
+* Identifiers such as real name, GitHub username, ORCID identifier, and social
+  media account handles 
+* Contact information, such as address, location, email, and telephone number
+* Financial information, such as bank account number, credit card number, or
+  debit card number, for sponsorships, donations, and membership fees
+* If you choose to self-identify, for research purposes, characteristics of
+  protected classifications, such as race, color, national origin, religion,
+  appartenance to volunteer organisations, gender, disability, age, ancestry,
+  medical condition, marital status, or sexual orientation
+* Professional, employment, or education information, such as copies of your
+  resume or CV and any other information required to verify your qualifications,
+  for instructor and Core Team recruitment purposes
+* Inferences regarding your familiarity with programming languages and general
+  computing skills, to help tailor our workshops to you
 
-Access will be limited to The Carpentries Core Team and authorised administrators.
+**Information We Automatically Collect.** Like many website operators, we collect information that your browser sends whenever you visit our website.
 
-## Section 1: Workshop Participants
-Workshop participants include Learners, Helpers and Hosts.
+This includes Log Data, such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Sites that you visit, the time and date of your visit, the time spent on those pages and other statistics, and whether you reached our page via a social media or email campaign. This information may be collected via several technologies, including cookies and other means.
 
-#### What information do we obtain?
-We may obtain the name, email address and event attended of workshop participants. If you are a learner or helper, this information may be provided by you or by the workshop host. See [Section 5: Opt-in Surveys](#section-5-opt-in-surveys) for information on our Opt-In surveys.
+You can control cookies in your browser to enable or disable them. Learn more in our [Cookie Policy](cookie-policy.md).
 
-#### How is this information used?
-We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants publicly or with volunteers, partners or third parties, including but not limited to funding entities.
-See [Section 6: All Participants](#section-6-all-participants) for further information.
+**Information We Collect From Third Parties.** If you access our Sites through third parties (e.g., GitHub or Google), or if you share content from our Sites to a third party social media service, the third party service will send us certain information about you if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
 
-## Section 2: Instructors
+## 2. How Do We Use Personal Information?
 
-Instructors includes Instructors, Trainers, Instructor Trainees and Instructor Applicants.
+**We Never Sell Personal Information.** We will never sell, rent or otherwise provide your Personal Information to any third party for marketing purposes.
 
-#### What information do we obtain?
-We may obtain the name and email address of participants at instructor training events and of current instructors. This information may be provided by the participant or event host. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organisational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
+We use your personal information as follows:
 
-#### How is this information used?
-We use this information to communicate with Instructors, including for instructor training events, training completion materials, communication about the organisation, and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding instructors publicly or with volunteers, partners or third parties, including but not limited to funding entities.
-See [Section 6: All Participants](#section-6-all-participants) for further information.
+* To provide you with the services on our platform, which involves the creation
+  and coordination of coding and data science workshops, discussions, and other
+  events
+* To process donations or workshop administration fees for our programs
+* To assess your qualifications as an applicant for an instructor or other Core
+  Team member position
+* To market our products and/or services to you
+* To analyze Sites usage and improve the services offered
+* For market research, project planning, troubleshooting problems
+* For detecting and protecting against error, fraud or other criminal activity
 
-## Section 3: Other Volunteers
+## 3. How Do We Share Personal Information?
 
-Other Volunteers includes Lesson contributors and maintainers and Volunteers for subcommittees or programs.
+**To the Public with Your Consent.** We may share your name, education, social
+media account handles, and professional affiliation with the public with your
+consent for your role in our community and other Core Team members’ biographies,
+or for lesson testimonials and reviews. The information you choose to provide to
+us will determine how much information is shared with the public. You can opt-in
+or opt-out of sharing your information publicly in your AMY profile.
 
-#### What information do we obtain?
-We may obtain the name and email address of Other volunteers. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organisational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
+**Affiliates and Service Providers.** We share your information with our
+third-party service providers and any subcontractors as required to offer you
+our products and services. For example, we use MailChimp to send our email
+marketing campaigns, HelpScout for communications, Square to process payments,
+and WeDidIt to collect program donations.
 
-#### How is this information used?
-We use this information to communicate with Other volunteers, including communication about the organisation and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding volunteers publicly or with other volunteers, partners or third parties, including but not limited to funding entities.
-See [Section 6: All Participants](#section-6-all-participants) for further information.
+**Third Party Links and Websites.** Our Sites may contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any data to these websites.
 
-## Section 4: Online Spaces
-This Privacy Policy is applicable to information that you provided/collected through physical (such as a paper form) and online means, including through our websites or other external online spaces (including but not limited to GitHub repositories, Etherpads, Google Documents, EventBrite and mailing lists). By using these spaces, you agree to the terms of this Privacy Policy. Some of these tools and services (including but not limited to GitHub, Google Documents, Eventbrite and SurveyMonkey) have their own independent privacy policies. See [Section 5: Opt-In Surveys](#section-5-opt-in-surveys), for information specifically on survey information.
+**Disclosures Required by Law.** We may be required to disclose your data in response to lawful requests by public authorities, including to meet law enforcement requirements. We may be under a duty to disclose or share your personal information in order to comply with any legal obligation, to enforce or apply our terms and conditions and other agreements, to protect our rights, property, or safety, or to protect the rights, property, or safety of others. This includes exchanging information with other companies and organizations for the purposes of fraud protection.
 
-#### What information do we obtain?
-We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.
-In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.
-If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our Core Team or authorised administrators and to the Core Team of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems.
+**Aggregate and De-Identified Information.** We reserve the right to share aggregate or de-identified information about you with our volunteers, workshop partners, and funding partners in order to analyze and improve our programs, and apply for funding.
 
-#### What do we do with this information?
-We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding visitors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.
-See [Section 6: All Participants](#section-6-all-participants) for further information.
+## 4. How Do We Respond to ‘Do Not Track’ Signals?
 
-## Section 5: Opt-in Surveys
-Community and workshop participants are invited to participate in a variety of opt-in surveys to better serve our community. These include but are not limited to pre-workshop and post-workshop surveys of learners and various survey instruments to evaluate programs or events. 
+Do Not Track ("DNT") is a privacy preference that users can set in certain web
+browsers. DNT is a way for users to inform websites and services that they do
+not want certain information about their webpage visits collected over time and
+across websites or online services. When and where possible, we respect DNT
+(e.g., page views on our Sites will not be recorded). However, we cannot
+guarantee your DNT preference will be recognized across our Sites, as the
+Internet industry is currently still working toward defining exactly what DNT
+means, what it means to comply with DNT, and a common approach to responding to
+DNT.
 
-#### What information do we obtain?
-Opt-in surveys are entirely voluntary and information is not collected in a way that it is linked to personally identifiable responses without the respondent’s consent to self-identify.
-Surveys collect information particular to the event or program being evaluated and optional information about the participant. Gender and ethnicity data, when collected, is only collected from participants in the United States.
+## 5. Cookies
 
-#### What do we do with this information?
-We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-identified responses.
-See [Section 6: All Participants](#section-6-all-participants) for further information.
+To make our Sites and services work properly, we sometimes place small data
+files called cookies on your device. A cookie is a small text file that a
+website saves on your computer or mobile device when you visit the site. It
+enables the website to remember your actions and preferences (such as login, or
+other preferences) over a period of time, so you do not have to keep re-entering
+them whenever you come back to the site or browse from one page to another. To
+learn more, please see our [Cookie Policy](cookie-policy.md).
 
-## Section 6: All Participants
+**Matomo.** We use Matomo. We use the information we get from Matomo only to improve our Sites. We configured Matomo so no personal information is collected.
 
-#### Can I decide what communications to receive?
-Yes. All communication with us is opt-in, except for participants receiving information about their program and for instructors, information required to maintain instructor status. You may occasionally be sent emails asking if you would like to opt-in to communication channels that we feel may be of interest to you (for example, a mailing list dedicated to your geographical area). In the absence of specific action from you, we will assume you choose not to join these channels.
+## 6. Your Privacy Choices
 
-#### Removing personal information
-Participants may choose to disallow us from retaining their personal information at any time by notifying [admin@carpentries.org](mailto:admin@carpentries.org). If you choose to exclude your information, we will delete your personal information from our databases. This may interfere with our ability to give you credit for training events you have completed or to contact you about upcoming events in your area.
+Please contact us if you would like to request access and/or make any changes to your personal information.
 
-#### Limitations
-Your privacy is very important to us. However, due to the existing legal and technical environment (e.g., third party interception of information), we cannot ensure that your personally identifiable information will not be disclosed to third parties in ways not described in this policy.
-We may disclose information when we believe such disclosure is necessary to comply with the law; enforce our agreements, or protect the rights, property or safety of our users or others.
+**Marketing Opt-Out:** We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send, or you can contact us using the contact details provided in the “Contact Information” section below.
 
-#### What about third party links on our websites?
-Our websites provide links to third party sites as a service to visitors. We are not responsible for the privacy practices, security measures or data collection practices of third party sites or for their content. The choice to access these sites is at the visitor’s own risk.
+### 6.1 California Privacy Rights
 
-#### Who should be contacted regarding this Privacy Policy?
-For questions or comments about this Privacy Policy, please contact [admin@carpentries.org](mailto:admin@carpentries.org).
+If you are a California consumer, you have the following rights:
+
+* The right to know what personal information is being collected about you.
+* The right to know whether your personal information is sold or disclosed and
+  to whom.
+* The right to say no to the sale of personal information.
+* The right to access your personal information.
+* The right, in certain circumstances, to delete the information you have
+  provided to us.
+* The right to equal service and price, even if you exercise your privacy
+  rights.
+
+**Request for Information and Deletion.** California consumers have the right to request, up to twice in a 12-month period, that a business that collects personal information about the consumer disclose to the consumer the information listed below for the preceding 12 months. We have the right to request verification of your identity for all requests for information.
+
+1. The categories of personal information it has collected about that consumer.
+2. The categories of sources from which the personal information is collected.
+3. The business or commercial purpose for collecting or selling personal
+   information.
+4. The categories of third parties with whom the business shares personal
+   information.
+5. The categories of personal information that the business sold about the
+   consumer and the categories of third parties to whom the personal information
+   was sold, by category or categories of personal information for each third
+   party to whom the personal information was sold.
+6. The categories of personal information that the business disclosed about the
+   consumer for a business purpose.
+7. The specific pieces of personal information it has collected about that
+   consumer.
+
+To make such a request, email us at [privacy@carpentries.org](mailto:privacy@carpentries.org) or visit this webpage [https://carpentries.typeform.com/to/v4RDlibM](https://www.google.com/url?q=https://carpentries.typeform.com/to/v4RDlibM) 
+
+**Do Not Sell My Personal Information.** California consumers have the right to opt out of the sale of the consumer’s personal information. We do not sell your contact information or other personal information to third parties.
+
+**Third Party Marketing.** California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information to third parties for the third parties’ direct marketing purposes. We do not share your information.
+
+## 7. Legal Bases for Processing (EEA Individuals)
+
+If you are from the European Economic Area, our legal bases for collecting and using your Personal Information is as follows:
+
+* The performance of your contract or to enter into the contract and to take
+  action on your requests. For example, the processing of your workshop request
+  and administration fee, facilitating instructor training, and coordinating
+  workshops.
+* Our legitimate business interests. For example, fraud prevention, enforcement
+  of our [Code of Conduct](code-of-conduct.md), maintaining the security of our
+  network and services, direct marketing to you, and improvement of our
+  services.
+* Compliance with a mandatory legal obligation. For example, accounting and tax
+  requirements, which are subject to mandatory retention periods. We may also
+  collect your Personal Information to record your requests to exercise your
+  rights and to verify your identity for such requests.
+* Consent you provide where we do not rely on another legal basis. Consent may
+  be withdrawn at any time.
+* In some limited cases, we may also have a legal obligation to collect Personal
+  Information from you, in response to investigation of breaches to our [Code of
+  Conduct](code-of-conduct.md) that involves violation of local laws, lawful
+  requests by public authorities, including to meet law enforcement
+  requirements, as described above in “How Do We Share Personal Information?”
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Information, please contact us using the contact details provided in the "Contact Information" section below.
+
+## 8. EEA Individuals’ Rights
+
+If you are from the European Economic Area, you have the right, under certain circumstances, to:
+
+* Access your Personal Information;
+* Correct inaccurate Personal Information;
+* Request erasure of your Personal Information without undue delay;
+* Request the restricted processing of your Personal Information;
+* Request portability of the Personal Information that you have given us; and
+* To object to the processing of your Personal Information.
+
+If you are from the European Economic Area, you also have the right to lodge a complaint with a supervisory authority, under certain circumstances.
+
+You may contact us using the contact details provided in the “Contact Information” section below for more information or to exercise your rights.
+
+## 9. International Transfers of Data
+
+Any data that you provide to us may be accessed, shared or processed by us, located in the United States, and service providers located in the United States.
+
+This may entail a transfer of your personal information across international borders. The data protections standards may differ and be lower than the standards enforced in your jurisdiction.
+
+We maintain appropriate safeguards as required by applicable law for any personal information transferred internationally, and as required by applicable law, will seek your consent prior to such transfers.
+
+## 10.  Children’s Privacy
+
+The Sites are not directed at individuals under the age of 16. We do not
+knowingly collect personal information from children under 16. If you become
+aware that a child has provided us with personal information, please contact us
+using the contact details provided in the “Contact Information” section below.
+If we become aware that a child under 16 has provided us with personal
+information, we will take steps to delete such information.
+
+## 11.  Change of Control
+
+Personal information may be transferred to a third party as a result of a
+merger, reorganization or other change in control.
+
+## 12.  How Do We Protect Personal Information?
+    
+We implement a variety of security measures to maintain the safety of your
+personal information when you enter, submit, or access your personal
+information. For example, when possible, we use encryption to transfer and store
+data. We further limit access to this data using access controls and
+confidentiality commitments.
+
+However, no website, application, or transmission can guarantee security. Thus,
+while we have established and maintain what we believe to be reasonable
+procedures to protect the confidentiality, security, and integrity of personal
+information obtained through the Sites, we cannot ensure or warrant the security
+of any information you transmit to us.
+
+## 13.  Policy Changes
+
+We may change our Privacy Policy at any time. We encourage you to periodically review this Privacy Policy to ensure you are familiar with the most current version.
+
+## 14.  Contact Information
+
+If you wish to contact us or have any questions about or complaints in relation to this Privacy Policy, please contact us at the following contact details:
+
+* Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
+* Mailing address:
+
+    The Carpentries c/o Community Initiatives  
+    1000 Broadway, Suite #480  
+    Oakland, CA 94607  
+    USA  
+    
+* Contact form: [https://carpentries.typeform.com/to/v4RDlibM](https://www.google.com/url?q=https://carpentries.typeform.com/to/v4RDlibM)
