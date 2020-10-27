@@ -2,11 +2,13 @@ POLICIES
 =======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
 
-   privacy.md
+   privacy-policy.md
+   terms-and-conditions.md
    cookie-policy.md
+   dmca-policy.md
    instructor-no-show-policy.md
    reimbursement-policy.md
    core-team/professional-development-policy.md
