@@ -1,6 +1,7 @@
 # The Carpentries Cookie Policy
 
-_Last updated: 2021-10-22_
+
+**Last updated:** 2021-10-22
 
 To make our sites work properly, we sometimes place small data files called cookies on your device. A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login or other preferences) over a period of time, so you do not have to keep re-entering them whenever you come back to the site or browse from one page to another.
  
@@ -73,6 +74,4 @@ We will update the list of cookies we use from time to time. If we make any chan
 You can control cookies in your browser to enable or disable them. If you wish
 to restrict or block the cookies which are set by any website, you should do
 this through the web browser settings for each web browser you use, on each
-device you use to access the internet. However, if you use your browser settings
-to block all cookies (including essential cookies) you may not be able to access
-all or parts of our sites.
+device you use to access the internet.
