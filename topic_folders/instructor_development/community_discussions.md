@@ -2,8 +2,6 @@
 
 The Instructor Development Committee leads and organises Community Discussions, sets up mentoring cycles, leads special projects aimed at improving instructor resources in The Carpentries and advocates for activities and initiatives that promote professional development, equity and inclusivity for Carpentries instructors. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
 
-**Note: Discussion host coordination is a role the the Instructor Development Committee, but for now it is being handled by the Core Team in effort to support our community during the COVID-19 pandemic.**
-
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
 1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community.
