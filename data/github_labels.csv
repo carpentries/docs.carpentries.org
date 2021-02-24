@@ -8,7 +8,7 @@ print_order,type,label,color,use_prefix,description,long_description
 7,status,blocked,#E55100,TRUE,Progress on addressing issue blocked,A technical problem is hindering progress. A Maintainer or someone else in the community should be notified to ensure that progress is being made.
 8,status,out of scope,#EEEEEE,TRUE,Proposed changes are out of scope,Changes proposed in the issue or in the pull request doesn't fall within the scope of the lesson
 9,status,duplicate,#BDBDBD,TRUE,Issue or PR already exists,The concern raised in the issue or pull request has already been mentioned. This previous issues/PR should be mentioned in the comment before this label is used.
-10,type,typo text,#F8BAD0,TRUE,"Typo in text for the lesson, ",Typo in the text/code of the lesson
+10,type,typo text,#F8BAD0,TRUE,Typo in text for the lesson,Typo in the text/code of the lesson
 11,type,bug,#EB3F79,TRUE,Code included in the lesson needs to be fixed,"Issue about the code, including challenges, answers."
 12,type,formatting,#AC1357,TRUE,Formatting needs to be fixed,Issue about something being wrong in the formatting of the lesson
 13,type,template and tools,#7985CB,TRUE,Issue about template and tools,"Issue or feature request about a technical aspect of the lesson (e.g., in the scripts used to render the lesson), including the documentation of these tools. Pull requests should probably be directed to https://github.com/carpentries/styles "
