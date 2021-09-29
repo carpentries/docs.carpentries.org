@@ -1,7 +1,6 @@
 # The Carpentries Privacy Policy
 
-
-Last updated: 2020-11-XX
+**Last updated:** 2022-01-15
 
 This Privacy Policy applies to The Carpentries and its associated lesson
 programs, Data Carpentry, Software Carpentry, and Library Carpentry
@@ -12,33 +11,43 @@ librarycarpentry.org (the “Sites”) or through your use of our products and
 services. By continuing to use our Sites, you agree to the terms of this Privacy
 Policy.
 
-This Privacy Policy does not apply to any of the practices of our workshop partners, such as universities and other organizations, other than our practices expressly disclosed below. To understand how our workshop partners process your information, please refer to their privacy policy.
+This Privacy Policy does not apply to any of the practices of our workshop
+partners, such as universities and other organizations, other than our practices
+expressly disclosed below. To understand how our workshop partners process your
+information, please refer to their privacy policy.
 
 Please click the following links to learn more about our Privacy Policy:
 
-1.  [What Types of Personal Information Do We Collect?](#what-types-of-personal-information-do-we-collect)
-2.  [How Do We Use Personal Information?](#how-do-we-use-personal-information)
-3.  [How Do We Share Personal Information?](#how-do-we-share-personal-information)
-4.  [How Do We Respond to ‘Do Not Track’ Signals?](#how-do-we-respond-to-do-not-track-signals)
-5.  [Cookies](#cookies)
-6.  [Your Privacy Choices](#your-privacy-choices)
-7.  [Legal Bases for Processing (EEA Individuals)](#legal-bases-for-processing-eea-individuals)
-8.  [EEA Individuals’ Rights](#eea-individuals-rights)
-9.  [International Transfers of Data](#international-transfers-of-data)
-10.  [Children’s Privacy](#childrens-privacy)
-11.  [Change of Control](#change-of-control)
-12.  [How Do We Protect Personal Information?](#how-do-we-protect-personal-information)
-13.  [Policy Changes](#policy-changes)
-14.  [Contact Information](#contact-information)
+1. [What Types of Personal Information Do We Collect?](#what-types-of-personal-information-do-we-collect)
+2. [How Do We Use Personal Information?](#how-do-we-use-personal-information)
+3. [How Do We Share Personal Information?](#how-do-we-share-personal-information)
+4. [How Do We Respond to ‘Do Not Track’ Signals?](#how-do-we-respond-to-do-not-track-signals)
+5. [Cookies](#cookies)
+6. [Your Privacy Choices](#your-privacy-choices)
+7. [Legal Bases for Processing (EEA Individuals)](#legal-bases-for-processing-eea-individuals)
+8. [EEA Individuals’ Rights](#eea-individuals-rights)
+9. [International Transfers of Data](#international-transfers-of-data)
+10. [Children’s Privacy](#childrens-privacy)
+11. [Change of Control](#change-of-control)
+12. [How Do We Protect Personal Information?](#how-do-we-protect-personal-information)
+13. [Policy Changes](#policy-changes)
+14. [Contact Information](#contact-information)
 
 ## 1. What Types of Personal Information Do We Collect?
 
-**Information You Give Us.** You may give us information by applying to become an Instructor, a Maintainer, a Trainer; volunteering to serve in one of our committees or task forces; serving as a Regional Coordinator; requesting information on workshops or memberships; participating in any capacity in a workshop or event; entering other information through our online collaborative note taking tools, forms or surveys; entering into a membership agreement; making a donation; providing sponsorship; contacting us by phone or email for information or services, or in person during a workshop or event.
+**Information You Give Us.** You may give us information by applying to become
+an Instructor, a Maintainer, a Trainer; volunteering to serve in one of our
+committees or task forces; serving as a Regional Coordinator; requesting
+information on workshops or memberships; participating in any capacity in a
+workshop or event; entering other information through our online collaborative
+note taking tools, forms or surveys; entering into a membership agreement;
+making a donation; providing sponsorship; contacting us by phone or email for
+information or services, or in person during a workshop or event.
 
 The categories of information include:
 
 * Identifiers such as real name, GitHub username, ORCID identifier, and social
-  media account handles 
+  media account handles
 * Contact information, such as address, location, email, and telephone number
 * Financial information, such as bank account number, credit card number, or
   debit card number, for sponsorships, donations, and membership fees
@@ -48,29 +57,43 @@ The categories of information include:
   medical condition, marital status, or sexual orientation
 * Professional, employment, or education information, such as copies of your
   resume or CV and any other information required to verify your qualifications,
-  for instructor and Core Team recruitment purposes
+  for Instructor and Core Team recruitment purposes
 * Inferences regarding your familiarity with programming languages and general
   computing skills, to help tailor our workshops to you
 
-**Information We Automatically Collect.** Like many website operators, we collect information that your browser sends whenever you visit our website.
+**Information We Automatically Collect.** Like many website operators, we
+may collect information that your browser sends whenever you visit one of our websites.
 
-This includes Log Data, such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Sites that you visit, the time and date of your visit, the time spent on those pages and other statistics, and whether you reached our page via a social media or email campaign. This information may be collected via several technologies, including cookies and other means.
+This includes log data, such as your computer’s Internet Protocol (“IP”)
+address, browser type, browser version, the pages of our sites that you visit,
+the time and date of your visit, the time spent on those pages and other
+statistics, and whether you reached our page via a social media or email
+campaign. This information may be collected via several technologies, including
+cookies and other means.
 
-You can control cookies in your browser to enable or disable them. Learn more in our [Cookie Policy](cookie-policy.md).
+You can control cookies in your browser to enable or disable them. Learn more in
+our [Cookie Policy](cookie-policy.md).
 
-**Information We Collect From Third Parties.** If you access our Sites through third parties (e.g., GitHub or Google), or if you share content from our Sites to a third party social media service, the third party service will send us certain information about you if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
+**Information We Collect From Third Parties.** If you access our Sites through
+third-parties (e.g., GitHub or Google), or if you share content from our Sites
+to a third-party social media service, the third party service may send us
+certain information about you if the third party service and your account
+settings allow such sharing. The information we receive will depend on the
+policies and your account settings with the third party service.
 
 ## 2. How Do We Use Personal Information?
 
-**We Never Sell Personal Information.** We will never sell, rent or otherwise provide your Personal Information to any third party for marketing purposes.
+**We Never Sell Personal Information.** We will never sell, rent or otherwise
+provide your Personal Information to any third party for marketing purposes.
 
 We use your personal information as follows:
 
 * To provide you with the services on our platform, which involves the creation
-  and coordination of coding and data science workshops, discussions, and other
-  events
+  and coordination of training events, coding and data science workshops,
+  discussions, and other events
 * To process donations or workshop administration fees for our programs
-* To assess your qualifications as an applicant for an instructor or other Core
+* To assess your qualifications as an applicant for one of our community
+  volunteer position (such as being an Instructor or a Maintainer) or other Core
   Team member position
 * To market our products and/or services to you
 * To analyze Sites usage and improve the services offered
@@ -81,22 +104,38 @@ We use your personal information as follows:
 
 **To the Public with Your Consent.** We may share your name, education, social
 media account handles, and professional affiliation with the public with your
-consent for your role in our community and other Core Team members’ biographies,
-or for lesson testimonials and reviews. The information you choose to provide to
-us will determine how much information is shared with the public. You can opt-in
-or opt-out of sharing your information publicly in your AMY profile.
+consent for your role in our community and other Core Team members’ biographies.
+The information you choose to provide to us will determine how much information
+is shared with the public. You can opt-in or opt-out of sharing your information
+publicly in your AMY profile. With your consent, that you can revoke at any
+time, we may also share testimonials, reviews, alongside your personal
+information.
 
 **Affiliates and Service Providers.** We share your information with our
 third-party service providers and any subcontractors as required to offer you
 our products and services. For example, we use MailChimp to send our email
 marketing campaigns, HelpScout for communications, Square to process payments,
-and WeDidIt to collect program donations.
+and ConnectionPoint Systems and GitHub to collect program donations.
 
-**Third Party Links and Websites.** Our Sites may contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any data to these websites.
+**Third Party Links and Websites.** Our Sites may contain links to and from the
+websites of third parties. If you follow a link to any of these websites, please
+note that these websites have their own privacy policies and that we do not
+accept any responsibility or liability for these policies. Please check these
+policies before you submit any data to these websites.
 
-**Disclosures Required by Law.** We may be required to disclose your data in response to lawful requests by public authorities, including to meet law enforcement requirements. We may be under a duty to disclose or share your personal information in order to comply with any legal obligation, to enforce or apply our terms and conditions and other agreements, to protect our rights, property, or safety, or to protect the rights, property, or safety of others. This includes exchanging information with other companies and organizations for the purposes of fraud protection.
+**Disclosures Required by Law.** We may be required to disclose your data in
+response to lawful requests by public authorities, including to meet law
+enforcement requirements. We may be under a duty to disclose or share your
+personal information in order to comply with any legal obligation, to enforce or
+apply our terms and conditions and other agreements, to protect our rights,
+property, or safety, or to protect the rights, property, or safety of others.
+This includes exchanging information with other companies and organizations for
+the purposes of fraud protection.
 
-**Aggregate and De-Identified Information.** We reserve the right to share aggregate or de-identified information about you with our volunteers, workshop partners, and funding partners in order to analyze and improve our programs, and apply for funding.
+**Aggregate and De-Identified Information.** We reserve the right to share
+aggregate or de-identified information about you with our volunteers, workshop
+partners, and funding partners in order to analyze and improve our programs,
+market our membership program, and apply for funding.
 
 ## 4. How Do We Respond to ‘Do Not Track’ Signals?
 
@@ -120,13 +159,17 @@ other preferences) over a period of time, so you do not have to keep re-entering
 them whenever you come back to the site or browse from one page to another. To
 learn more, please see our [Cookie Policy](cookie-policy.md).
 
-**Matomo.** We use Matomo. We use the information we get from Matomo only to improve our Sites. We configured Matomo so no personal information is collected.
-
 ## 6. Your Privacy Choices
 
-Please contact us if you would like to request access and/or make any changes to your personal information.
+Please contact us if you would like to request access and/or make any changes to
+your personal information.
 
-**Marketing Opt-Out:** We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send, or you can contact us using the contact details provided in the “Contact Information” section below.
+**Marketing Opt-Out:** We may use your personal information to contact you with
+newsletters, marketing or promotional materials and other information that may
+be of interest to you. You may opt out of receiving any, or all, of these
+communications from us by following the unsubscribe instructions provided in any
+email we send, or you can contact us using the contact details provided in the
+“[Contact Information](#contact-information)” section below.
 
 ### 6.1 California Privacy Rights
 
@@ -142,7 +185,11 @@ If you are a California consumer, you have the following rights:
 * The right to equal service and price, even if you exercise your privacy
   rights.
 
-**Request for Information and Deletion.** California consumers have the right to request, up to twice in a 12-month period, that a business that collects personal information about the consumer disclose to the consumer the information listed below for the preceding 12 months. We have the right to request verification of your identity for all requests for information.
+**Request for Information and Deletion.** California consumers have the right to
+request, up to twice in a 12-month period, that a business that collects
+personal information about the consumer disclose to the consumer the information
+listed below for the preceding 12 months. We have the right to request
+verification of your identity for all requests for information.
 
 1. The categories of personal information it has collected about that consumer.
 2. The categories of sources from which the personal information is collected.
@@ -159,15 +206,23 @@ If you are a California consumer, you have the following rights:
 7. The specific pieces of personal information it has collected about that
    consumer.
 
-To make such a request, email us at [privacy@carpentries.org](mailto:privacy@carpentries.org) or visit this webpage [https://carpentries.typeform.com/to/v4RDlibM](https://www.google.com/url?q=https://carpentries.typeform.com/to/v4RDlibM) 
+To make such a request, email us at
+[privacy@carpentries.org](mailto:privacy@carpentries.org) or visit this webpage
+<https://carpentries.typeform.com/to/v4RDlibM>.
 
-**Do Not Sell My Personal Information.** California consumers have the right to opt out of the sale of the consumer’s personal information. We do not sell your contact information or other personal information to third parties.
+**Do Not Sell My Personal Information.** California consumers have the right to
+opt out of the sale of the consumer’s personal information. We do not sell your
+contact information or other personal information to third parties.
 
-**Third Party Marketing.** California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information to third parties for the third parties’ direct marketing purposes. We do not share your information.
+**Third Party Marketing.** California Civil Code Section 1798.83 permits you to
+request information regarding the disclosure of your personal information to
+third parties for the third parties’ direct marketing purposes. We do not share
+your information.
 
 ## 7. Legal Bases for Processing (EEA Individuals)
 
-If you are from the European Economic Area, our legal bases for collecting and using your Personal Information is as follows:
+If you are from the European Economic Area, our legal bases for collecting and
+using your Personal Information are as follows:
 
 * The performance of your contract or to enter into the contract and to take
   action on your requests. For example, the processing of your workshop request
@@ -187,13 +242,17 @@ If you are from the European Economic Area, our legal bases for collecting and u
   Information from you, in response to investigation of breaches to our [Code of
   Conduct](code-of-conduct.md) that involves violation of local laws, lawful
   requests by public authorities, including to meet law enforcement
-  requirements, as described above in “How Do We Share Personal Information?”
+  requirements, as described above in “[How Do We Share Personal
+  Information?](#how-do-we-share-personal-information)”
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Information, please contact us using the contact details provided in the "Contact Information" section below.
+If you have questions about or need further information concerning the legal
+basis on which we collect and use your Personal Information, please contact us
+using the contact details provided in the "Contact Information" section below.
 
 ## 8. EEA Individuals’ Rights
 
-If you are from the European Economic Area, you have the right, under certain circumstances, to:
+If you are from the European Economic Area, you have the right, under certain
+circumstances, to:
 
 * Access your Personal Information;
 * Correct inaccurate Personal Information;
@@ -202,33 +261,60 @@ If you are from the European Economic Area, you have the right, under certain ci
 * Request portability of the Personal Information that you have given us; and
 * To object to the processing of your Personal Information.
 
-If you are from the European Economic Area, you also have the right to lodge a complaint with a supervisory authority, under certain circumstances.
+If you are from the European Economic Area, you also have the right to lodge a
+complaint with a supervisory authority, under certain circumstances.
 
-You may contact us using the contact details provided in the “Contact Information” section below for more information or to exercise your rights.
+You may contact us using the contact details provided in the “[Contact
+Information](#contact-information)” section below for more information or to
+exercise your rights.
 
 ## 9. International Transfers of Data
 
-Any data that you provide to us may be accessed, shared or processed by us, located in the United States, and service providers located in the United States.
+Given the international nature of our organization, to be able to process your
+personal data, it is necessary for us to transfer or share your personal data
+outside the UK/EEA:
 
-This may entail a transfer of your personal information across international borders. The data protections standards may differ and be lower than the standards enforced in your jurisdiction.
+- with Core Team members within our organization who are located outside the
+    UK/EEA;
+- with your and our service providers, (e.g., cloud service providers), who
+  might have servers located outside the UK/EEA;
+- if you are based outside the UK/EEA;
+- where there is a European and/or international dimension to the services we
+    are providing to you.
 
-We maintain appropriate safeguards as required by applicable law for any personal information transferred internationally, and as required by applicable law, will seek your consent prior to such transfers.
+We will only transfer or share your personal data outside the UK/EEA:
 
-## 10.  Children’s Privacy
+- to a country, territory or organization that has been assessed as providing an
+  adequate level of protection for personal data ‘adequacy decision’ by the UK
+  or the EU Commission;
+- By using legally-approved UK or EU Standard Contractual Clauses (SCCS) or
+  Model Clauses, in addition to implementing appropriate supplementary measures
+  to ensure the protection of the personal data.
+
+If you are located in the UK or the EU, you may contact us at
+[privacy@carpentries.org](mailto:privacy@carpentries.org) to request a copy of
+the Standard Contractual Clauses.
+
+By accessing our Sites and using our Services, you acknowledge that your
+personal data may be collected and transferred from your local jurisdiction
+(including those in the European Economic Area and the UK) to the United
+States or other jurisdictions.
+
+## 10. Children’s Privacy
 
 The Sites are not directed at individuals under the age of 16. We do not
 knowingly collect personal information from children under 16. If you become
 aware that a child has provided us with personal information, please contact us
-using the contact details provided in the “Contact Information” section below.
+using the contact details provided in the “[Contact Information](#contact-information)” section below.
 If we become aware that a child under 16 has provided us with personal
 information, we will take steps to delete such information.
 
-## 11.  Change of Control
+## 11. Change of Control
 
 Personal information may be transferred to a third party as a result of a
 merger, reorganization or other change in control.
 
-## 12.  How Do We Protect Personal Information?
+## 12. How Do We Protect Personal Information?
     
 We implement a variety of security measures to maintain the safety of your
 personal information when you enter, submit, or access your personal
@@ -242,13 +328,16 @@ procedures to protect the confidentiality, security, and integrity of personal
 information obtained through the Sites, we cannot ensure or warrant the security
 of any information you transmit to us.
 
-## 13.  Policy Changes
+## 13. Policy Changes
 
-We may change our Privacy Policy at any time. We encourage you to periodically review this Privacy Policy to ensure you are familiar with the most current version.
+We may change our Privacy Policy at any time. We encourage you to periodically
+review this Privacy Policy to ensure you are familiar with the most current
+version.
 
-## 14.  Contact Information
+## 14. Contact Information
 
-If you wish to contact us or have any questions about or complaints in relation to this Privacy Policy, please contact us at the following contact details:
+If you wish to contact us or have any questions about or complaints in relation
+to this Privacy Policy, please contact us at the following contact details:
 
 * Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
 * Mailing address:
@@ -258,4 +347,9 @@ If you wish to contact us or have any questions about or complaints in relation 
     Oakland, CA 94607  
     USA  
     
-* Contact form: [https://carpentries.typeform.com/to/v4RDlibM](https://www.google.com/url?q=https://carpentries.typeform.com/to/v4RDlibM)
+* Contact form: [https://carpentries.typeform.com/to/v4RDlibM](https://carpentries.typeform.com/to/v4RDlibM)
+
+
+## License
+
+Please note our Privacy Policy is released under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.

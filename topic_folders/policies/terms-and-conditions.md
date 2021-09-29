@@ -1,8 +1,8 @@
 # The Carpentries Terms and Conditions
 
-Effective: 2020-11-XX
+**Last updated:** 2022-01-15
 
-The Carpentries teaches foundational coding and data science skills to researchers worldwide. We are a fiscally-sponsored project of Community Initiatives, a 501(c)(3) non-profit organisation. The Carpentries is a diverse, global community that includes [Instructors](https://carpentries.org/instructors/), helpers, [Trainers](https://carpentries.org/trainers), [Maintainers](https://carpentries.org/maintainers), [Mentors](https://carpentries.org/mentors), community champions, [partner organisations](https://carpentries.org/partners), supporters, and workshop organisers. We ask that your participation in the Carpentries community follows our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Additionally, we provide you with these Terms and Conditions to advise and inform you of the legal obligations you assume when you engage with The Carpentries community or otherwise access our Services.
+The Carpentries teaches foundational coding and data science skills to researchers worldwide. We are a fiscally-sponsored project of Community Initiatives, a 501(c)(3) non-profit organisation. The Carpentries is a diverse, global community that includes [Instructors](https://carpentries.org/instructors/), helpers, [Trainers](https://carpentries.org/trainers), [Maintainers](https://carpentries.org/maintainers), [Mentors](https://carpentries.org/mentors), community champions, [member organisations](https://carpentries.org/members), supporters, and workshop organisers. We ask that your participation in the Carpentries community follows our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Additionally, we provide you with these Terms and Conditions to advise and inform you of the legal obligations you assume when you engage with The Carpentries community or otherwise access our Services.
 
 Please read the Terms and Conditions carefully. The Terms and Conditions (“Agreement”) constitute a legal agreement between you and The Carpentries.
 
@@ -10,7 +10,19 @@ Section 15 of this Agreement contains provisions that govern how claims that you
 
 ## 1. Purpose
 
-As a fiscally sponsored project of Community Initiatives, a 501(c)(3) non-profit organization, The Carpentries and its lesson programs (“Carpentries,” “Software Carpentry”, “Data Carpentry”, “Library Carpentry”, “The Carpentries Incubator”, “CarpentriesLab”, “we,” “us,” or “our”) teaches pedagogy, coding and data science skills to researchers worldwide via in-person and online workshops. By using The Carpentries website and any of the information and services offered through the website (“Services”), you agree to be bound by this Agreement. The success of the Services, however, depends on the adherence to the terms of this Agreement by you and other Users (collectively “you,” “your,” or “Users”). While we will do our best to enforce the terms of this Agreement, we cannot warrant or represent that other Users will in fact adhere to this Agreement and cannot act as insurers or accept any liability for their failure to do so.
+As a fiscally-sponsored project of Community Initiatives, a 501(c)(3) non-profit
+organization, The Carpentries and its lesson programs (“The Carpentries,”
+“Software Carpentry”, “Data Carpentry”, “Library Carpentry”, “The Carpentries
+Incubator”, “The Carpentries Lab”, “we,” “us,” or “our”) teaches pedagogy,
+coding and data science skills to researchers worldwide via in-person and online
+workshops. By using The Carpentries website and any of the information and
+services offered through the website (“Services”), you agree to be bound by this
+Agreement. The success of the Services, however, depends on the adherence to the
+terms of this Agreement by you and other Users (collectively “you,” “your,” or
+“Users”). While we will do our best to enforce the terms of this Agreement, we
+cannot warrant or represent that other Users will in fact adhere to this
+Agreement and cannot act as insurers or accept any liability for their failure
+to do so.
 
 ## 2. Eligibility
     
@@ -28,7 +40,6 @@ By accessing or using the Services in any way, clicking on a button or taking si
 
 ## 3. Access
     
-
 1.  **Access.** By entering into this Agreement, you will be granted a revocable
     license to access the website and certain Services without charge. Your
     access privileges, however, are conditioned on your adherence to the terms
@@ -78,8 +89,8 @@ Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.htm
 9. The information you provide to us or otherwise communicate with us is
    accurate.
 10. You will not use the Services in any way that could damage, disable,
-   overburden or impair any of our servers, or the networks connected to any of
-   our servers.
+    overburden or impair any of our servers, or the networks connected to any of
+    our servers.
 11. You will not attempt to gain unauthorized access to any part of the Services
     and/or to any service, account, resource, computer system and/or network
     connected to any of our servers.
@@ -411,23 +422,22 @@ provisions shall survive the termination of this Agreement.
    any third-party provider as a result of this Agreement or use of the
    Services.
 
-2.  **Choice of Law.** This Agreement is governed by the laws of the State of
-    California consistent with the Federal Arbitration Act, without giving
-    effect to any principles that provide for the application of the law of any
-    other jurisdiction.
+2. **Choice of Law.** This Agreement is governed by the laws of the State of
+   California consistent with the Federal Arbitration Act, without giving effect
+   to any principles that provide for the application of the law of any other
+   jurisdiction.
 
-3.  **Severability.** Except as otherwise provided herein, if any provision of
-    this Agreement is found to be invalid, the invalidity of such provision
-    shall not affect the validity of the remaining provisions of this Agreement,
-    which shall remain in full force and effect.
+3. **Severability.** Except as otherwise provided herein, if any provision of
+   this Agreement is found to be invalid, the invalidity of such provision shall
+   not affect the validity of the remaining provisions of this Agreement, which
+   shall remain in full force and effect.
 
-4.  **Electronic Communications.** For contractual purposes, you (1) consent to
- dmca
- receive communications from us in an electronic form; and (2) agree that all
-    terms and conditions, agreements, notices, disclosures, and other
-    communications that we provide to you electronically satisfy any legal
-    requirement that such communications would satisfy if they were in writing.
-    This subparagraph does not affect your statutory rights.
+4. **Electronic Communications.** For contractual purposes, you (1) consent to
+   receive communications from us in an electronic form; and (2) agree that all
+   terms and conditions, agreements, notices, disclosures, and other
+   communications that we provide to you electronically satisfy any legal
+   requirement that such communications would satisfy if they were in writing.
+   This subparagraph does not affect your statutory rights.
 
 5.  **Entire Agreement.** This Agreement is the final, complete and exclusive
     agreement of the parties with respect to the subject matter hereof and
@@ -436,10 +446,20 @@ provisions shall survive the termination of this Agreement.
 
 ## 19. Contact Information
     
-[privacy@carpentries.org](mailto:privacy@carpentries.org)
+* Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
+
+* Mailing address: 
 
 The Carpentries c/o Community Initiatives  
 1000 Broadway, Suite #480  
 Oakland, CA 94607  
 USA
 
+* Contact form: [https://carpentries.typeform.com/to/v4RDlibM](https://carpentries.typeform.com/to/v4RDlibM)
+
+
+
+
+## License
+
+Please note our Terms & Conditions are released under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.

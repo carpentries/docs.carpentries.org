@@ -1,5 +1,7 @@
 # The Carpentries DMCA Policy
 
+**Last updated:** 2022-01-15
+
 We respect the copyright and other intellectual property rights of others and expect users of our website and application (collectively, the "Services") to do the same. In accordance with the United States Digital Millennium Copyright Act (the "DMCA") and other applicable law, we have a policy of terminating, in appropriate circumstances and at our sole discretion, users of the Service who are deemed to be repeat infringers. We also may, in our sole discretion, limit access to the Service and terminate the accounts of any users of the Service who infringe any intellectual property rights of others, whether or not there is any repeat infringement. See our Terms for more information.
 
 ## Notification of Alleged Copyright Infringement
@@ -71,3 +73,8 @@ If you believe your copyrighted material has been removed from the Services as a
   email as set forth above.
 
 If you send us a valid, written Counter Notification meeting the requirements described above, we will restore your removed or disabled material after 10 business days but no later than 14 business days from the date we receive your Counter Notification, unless our Copyright Agent first receives notice from the party filing the original Notification informing us that such party has filed a court action to restrain you from engaging in infringing activity related to the material in question. Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney's fees. Filing a false Counter Notification constitutes perjury.
+
+
+## License
+
+Please note our DMCA Policy is released under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.
