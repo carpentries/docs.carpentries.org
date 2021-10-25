@@ -54,7 +54,7 @@ We use [Matomo](https://matomo.org/) for our site analytics. We set it up to red
 personal information it collects about your visit and no cookies are used. It is
 enabled on <https://carpentries.org>, <https://datacarpentry.org>, <https://librarycarpentry.org>,
 <https://software-carpentry.org>, <https://carpentries-incubator.org>, <https://carpentries-lab.org>, and some
-of our sub-domains including <https://amy.carpentries.org>
+of our sub-domains including <https://amy.carpentries.org>.
 
 ### Other cookies
 
