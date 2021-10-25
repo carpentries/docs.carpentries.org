@@ -7,7 +7,7 @@ To make our sites work properly, we sometimes place small data files called cook
 We have put our cookies into the following categories to make it easier for you to understand why we need them:
  
 1. **Strictly necessary:** These are used to help make our websites work
-   efficiently, provide security features on our website, and provide services
+   efficiently, provide security features on our websites, and provide services
    that are required to provide the services you expect from our websites.
 2. **Performance/analytics:** These are used to analyze the way our websites
    work and how we can improve it.
@@ -25,7 +25,7 @@ cookies.
 ## Cookies and You
  
 If you choose not to enable cookies, you will still be able to browse our
-website, but it will restrict some of the functionality of our website or what
+websites, but it will restrict some of the functionality of our websites or what
 you can do.
 
 
@@ -75,4 +75,4 @@ to restrict or block the cookies which are set by any website, you should do
 this through the web browser settings for each web browser you use, on each
 device you use to access the internet. However, if you use your browser settings
 to block all cookies (including essential cookies) you may not be able to access
-all or parts of our site.
+all or parts of our sites.
