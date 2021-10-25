@@ -52,13 +52,13 @@ table th:nth-of-type(4) {
 
 We use Matomo for our site analytics. We set it up to reduce the amount of
 personal information it collects about your visit and no cookies are used. It is
-enabled on carpentries.org, datacarpentry.org, librarycarpentry.org,
-software-carpentry.org, carpentries-incubator.org, carpentries-lab.org, and some
-of our sub-domains including amy.carpentries.org
+enabled on <https://carpentries.org>, <https://datacarpentry.org>, <https://librarycarpentry.org>,
+<https://software-carpentry.org>, <https://carpentries-incubator.org>, <https://carpentries-lab.org>, and some
+of our sub-domains including <https://amy.carpentries.org>
 
 ### Other cookies
 
-**Cookies on pad.carpentries.org, codimd.carpentries.org, amy.carpentries.org, forum.carpentries.org**
+**Cookies on <https://pad.carpentries.org>, <https://codimd.carpentries.org>, <https://amy.carpentries.org>, <https://forum.carpentries.org>**
 
 Cookies on these sites are only first-party cookies that are strictly necessary or improve the functionality of the sites.
 
