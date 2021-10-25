@@ -50,7 +50,7 @@ table th:nth-of-type(4) {
 
 ### Matomo
 
-We use Matomo for our site analytics. We set it up to reduce the amount of
+We use [Matomo](https://matomo.org/) for our site analytics. We set it up to reduce the amount of
 personal information it collects about your visit and no cookies are used. It is
 enabled on <https://carpentries.org>, <https://datacarpentry.org>, <https://librarycarpentry.org>,
 <https://software-carpentry.org>, <https://carpentries-incubator.org>, <https://carpentries-lab.org>, and some
