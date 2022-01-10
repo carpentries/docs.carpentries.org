@@ -2,7 +2,15 @@
 
 **Last updated:** 2022-01-15
 
-We respect the copyright and other intellectual property rights of others and expect users of our website and application (collectively, the "Services") to do the same. In accordance with the United States Digital Millennium Copyright Act (the "DMCA") and other applicable law, we have a policy of terminating, in appropriate circumstances and at our sole discretion, users of the Service who are deemed to be repeat infringers. We also may, in our sole discretion, limit access to the Service and terminate the accounts of any users of the Service who infringe any intellectual property rights of others, whether or not there is any repeat infringement. See our Terms for more information.
+We respect the copyright and other intellectual property rights of others and
+expect users of our website and application (collectively, the "Services") to do
+the same. In accordance with the United States Digital Millennium Copyright Act
+(the "DMCA") and other applicable law, we have a policy of terminating, in
+appropriate circumstances and at our sole discretion, users of the Service who
+are deemed to be repeat infringers. We also may, in our sole discretion, limit
+access to the Service and terminate the accounts of any users of the Service who
+infringe any intellectual property rights of others, whether or not there is any
+repeat infringement. See our Terms for more information.
 
 ## Notification of Alleged Copyright Infringement
 
@@ -38,7 +46,8 @@ attorney.
   penalty of perjury, that the complaining party is authorized to act on behalf
   of the owner of an exclusive right that is allegedly infringed.
 
-Submit your notice to our designated DMCA agent by mail or email as set forth below:
+Submit your notice to our designated DMCA agent by mail or email as set forth
+below:
 
 * Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
 * Mailing address:  
@@ -47,15 +56,29 @@ Submit your notice to our designated DMCA agent by mail or email as set forth be
      Oakland, CA 94607  
      USA
 
-Please note that you may be liable for damages, including court costs and attorney's fees, if you materially misrepresent that content on the Services is copyright infringing.
+Please note that you may be liable for damages, including court costs and
+attorney's fees, if you materially misrepresent that content on the Services is
+copyright infringing.
 
-Upon receiving a proper notification of alleged copyright infringement, we will remove or disable access to the allegedly infringing material and promptly notify the alleged infringer of your claim. We also will advise the alleged infringer of the DMCA statutory counter-notification procedure described below by which the alleged infringer may respond to your claim and request that we restore this material.
+Upon receiving a proper notification of alleged copyright infringement, we will
+remove or disable access to the allegedly infringing material and promptly
+notify the alleged infringer of your claim. We also will advise the alleged
+infringer of the DMCA statutory counter-notification procedure described below
+by which the alleged infringer may respond to your claim and request that we
+restore this material.
 
-Please note that our furnishing your claim to the alleged infringer will include the personal information you provide in your notification, which the alleged infringer may use to contact you directly. As such, by submitting a notification of alleged copyright infringement, you consent to disclosure of your information in the aforementioned manner.
+Please note that our furnishing your claim to the alleged infringer will include
+the personal information you provide in your notification, which the alleged
+infringer may use to contact you directly. As such, by submitting a notification
+of alleged copyright infringement, you consent to disclosure of your information
+in the aforementioned manner.
 
 ## Counter Notification
 
-If you believe your copyrighted material has been removed from the Services as a result of a mistake or misidentification, you may submit a written counter-notification letter to us. To be an effective counter-notification under the DMCA, your letter must include substantially the following:
+If you believe your copyrighted material has been removed from the Services as a
+result of a mistake or misidentification, you may submit a written
+counter-notification letter to us. To be an effective counter-notification under
+the DMCA, your letter must include substantially the following:
 
 * Identification of the material that has been removed or disabled and the
   location at which the material appeared before it was removed or disabled.
@@ -72,9 +95,19 @@ If you believe your copyrighted material has been removed from the Services as a
 * You may submit your Counter Notification to our Copyright Agent by mail, or
   email as set forth above.
 
-If you send us a valid, written Counter Notification meeting the requirements described above, we will restore your removed or disabled material after 10 business days but no later than 14 business days from the date we receive your Counter Notification, unless our Copyright Agent first receives notice from the party filing the original Notification informing us that such party has filed a court action to restrain you from engaging in infringing activity related to the material in question. Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney's fees. Filing a false Counter Notification constitutes perjury.
+If you send us a valid, written Counter Notification meeting the requirements
+described above, we will restore your removed or disabled material after 10
+business days but no later than 14 business days from the date we receive your
+Counter Notification, unless our Copyright Agent first receives notice from the
+party filing the original Notification informing us that such party has filed a
+court action to restrain you from engaging in infringing activity related to the
+material in question. Please note that if you materially misrepresent that the
+disabled or removed content was removed by mistake or misidentification, you may
+be liable for damages, including costs and attorney's fees. Filing a false
+Counter Notification constitutes perjury.
 
 
 ## License
 
-Please note our DMCA Policy is released under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.
+Please note our DMCA Policy is released under a Creative Commons
+Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.

@@ -2,11 +2,37 @@
 
 **Last updated:** 2022-01-15
 
-The Carpentries teaches foundational coding and data science skills to researchers worldwide. We are a fiscally-sponsored project of Community Initiatives, a 501(c)(3) non-profit organisation. The Carpentries is a diverse, global community that includes [Instructors](https://carpentries.org/instructors/), helpers, [Trainers](https://carpentries.org/trainers), [Maintainers](https://carpentries.org/maintainers), [Mentors](https://carpentries.org/mentors), community champions, [member organisations](https://carpentries.org/members), supporters, and workshop organisers. We ask that your participation in the Carpentries community follows our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Additionally, we provide you with these Terms and Conditions to advise and inform you of the legal obligations you assume when you engage with The Carpentries community or otherwise access our Services.
+The Carpentries teaches foundational coding and data science skills to
+researchers worldwide. We are a fiscally-sponsored project of Community
+Initiatives, a 501(c)(3) non-profit organisation. The Carpentries is a diverse,
+global community that includes
+[Instructors](https://carpentries.org/instructors/), helpers,
+[Trainers](https://carpentries.org/trainers),
+[Maintainers](https://carpentries.org/maintainers),
+[Mentors](https://carpentries.org/mentors), community champions, [member
+organisations](https://carpentries.org/members), supporters, and workshop
+organisers. We ask that your participation in the Carpentries community follows
+our [Code of
+Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Additionally, we provide you with these Terms and Conditions to advise and
+inform you of the legal obligations you assume when you engage with The
+Carpentries community or otherwise access our Services.
 
-Please read the Terms and Conditions carefully. The Terms and Conditions (“Agreement”) constitute a legal agreement between you and The Carpentries.
+Please read the Terms and Conditions carefully. The Terms and Conditions
+(“Agreement”) constitute a legal agreement between you and The Carpentries.
 
-Section 15 of this Agreement contains provisions that govern how claims that you and we have against each other are resolved, including, without limitation, any claims that arose or were asserted before the effective date of this agreement. In particular, Section 15 sets forth our Arbitration Agreement which will, with limited exceptions, require disputes between us to be submitted to binding and final arbitration. Unless you opt out of the Arbitration Agreement: (1) you will only be permitted to pursue claims and seek relief against us on an individual basis, not as a plaintiff or class member in any class or representative action or proceeding; and (2) you are waiving your right to seek relief in a court of law and to have a jury trial on your claims. Please see Section 15 for more information regarding this Arbitration Agreement, the possible effects of this Arbitration Agreement, and how to opt out of the Arbitration Agreement.
+Section 15 of this Agreement contains provisions that govern how claims that you
+and we have against each other are resolved, including, without limitation, any
+claims that arose or were asserted before the effective date of this agreement.
+In particular, Section 15 sets forth our Arbitration Agreement which will, with
+limited exceptions, require disputes between us to be submitted to binding and
+final arbitration. Unless you opt out of the Arbitration Agreement: (1) you will
+only be permitted to pursue claims and seek relief against us on an individual
+basis, not as a plaintiff or class member in any class or representative action
+or proceeding; and (2) you are waiving your right to seek relief in a court of
+law and to have a jury trial on your claims. Please see Section 15 for more
+information regarding this Arbitration Agreement, the possible effects of this
+Arbitration Agreement, and how to opt out of the Arbitration Agreement.
 
 ## 1. Purpose
 
@@ -26,7 +52,9 @@ to do so.
 
 ## 2. Eligibility
     
-By accessing or using the Services in any way, clicking on a button or taking similar action to signify your affirmative acceptance of this Agreement, you hereby represent that:
+By accessing or using the Services in any way, clicking on a button or taking
+similar action to signify your affirmative acceptance of this Agreement, you
+hereby represent that:
 
 1.  You have read, understand, and agree to be bound by this Agreement and any
     future amendments and additions to this Agreement as published from time to
@@ -70,7 +98,8 @@ By using the Services, you agree that:
     fraudulent purposes; you will not send or store any unlawful material.
 2.  You will not use the Services to cause nuisance, annoyance or inconvenience.
 3.  You will follow The Carpentries’s [Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) at all times while using the Services.
+Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+at all times while using the Services.
 4. Except where allowed by the terms of the Creative Commons Attribution
    License, you will not use the Services, or any content accessible through the
    Services, for any commercial purpose.
@@ -116,7 +145,15 @@ Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.htm
 
 ## 5. Information on our Services
     
-While we will always use our best efforts to ensure the accuracy and completeness of information provided on our Services, we cannot guarantee the accuracy, adequacy, quality, or suitability of any data on our Services and expressly disclaim liability for errors and omissions in the contents of our Services. Any use or reliance on any content or materials posted via the Services or obtained by you through the Services is at your own risk. Any link to a website or phone number owned by a third party does not constitute an endorsement, approval, association, sponsorship, or affiliation with the linked site or phone number.
+While we will always use our best efforts to ensure the accuracy and
+completeness of information provided on our Services, we cannot guarantee the
+accuracy, adequacy, quality, or suitability of any data on our Services and
+expressly disclaim liability for errors and omissions in the contents of our
+Services. Any use or reliance on any content or materials posted via the
+Services or obtained by you through the Services is at your own risk. Any link
+to a website or phone number owned by a third party does not constitute an
+endorsement, approval, association, sponsorship, or affiliation with the linked
+site or phone number.
 
 ## 6. User Submissions and Content
  
@@ -235,7 +272,11 @@ Carpentries’s handbook.
 
 ## 9. Copyright Policy
     
-We will terminate the account and access rights of any repeat infringer. If you are a copyright owner or the legal agent of a copyright owner, and you believe that any User Content infringes on your copyrights, you may submit a notification pursuant to the Company Digital Millennium Copyright Act (DMCA) Notice. Please see our [DMCA Policy](dmca-policy.md) for more information.
+We will terminate the account and access rights of any repeat infringer. If you
+are a copyright owner or the legal agent of a copyright owner, and you believe
+that any User Content infringes on your copyrights, you may submit a
+notification pursuant to the Company Digital Millennium Copyright Act (DMCA)
+Notice. Please see our [DMCA Policy](dmca-policy.md) for more information.
 
 
 ## 10. Privacy
@@ -263,25 +304,78 @@ transaction with any third party.
 
 ## 12. Indemnification
     
-You agree to indemnify and hold harmless The Carpentries and its officers, directors, employees, agents and affiliates (each, an “Indemnified Party”), from and against any losses, claims, actions, costs, damages, penalties, fines and expenses, including without limitation attorneys’ fees and expenses, that may be incurred by an Indemnified Party arising out of, relating to or resulting from (a) your User Content; (b) your misuse of the Services; (c) your violation of this Agreement; or (d) your violation of any applicable laws, rules or regulations through or related to the use of the Services. In the event of any claim, allegation, suit or proceeding alleging any matter potentially covered by the agreements in this section, you agree to pay for the defense of the Indemnified Party, including reasonable costs and attorneys’ fees incurred by the Indemnified Party. We reserve the right, at our own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with us in asserting any available defenses. This provision does not require you to indemnify any Indemnified Party for any unconscionable commercial practice by such party, or for such party’s negligence, fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the Services. You agree that the provisions in this section will survive any termination of your account, this Agreement, or your access to the Services.
+You agree to indemnify and hold harmless The Carpentries and its officers,
+directors, employees, agents and affiliates (each, an “Indemnified Party”), from
+and against any losses, claims, actions, costs, damages, penalties, fines and
+expenses, including without limitation attorneys’ fees and expenses, that may be
+incurred by an Indemnified Party arising out of, relating to or resulting from
+(a) your User Content; (b) your misuse of the Services; (c) your violation of
+this Agreement; or (d) your violation of any applicable laws, rules or
+regulations through or related to the use of the Services. In the event of any
+claim, allegation, suit or proceeding alleging any matter potentially covered by
+the agreements in this section, you agree to pay for the defense of the
+Indemnified Party, including reasonable costs and attorneys’ fees incurred by
+the Indemnified Party. We reserve the right, at our own cost, to assume the
+exclusive defense and control of any matter otherwise subject to indemnification
+by you, in which event you will fully cooperate with us in asserting any
+available defenses. This provision does not require you to indemnify any
+Indemnified Party for any unconscionable commercial practice by such party, or
+for such party’s negligence, fraud, deception, false promise, misrepresentation
+or concealment, suppression or omission of any material fact in connection with
+the Services. You agree that the provisions in this section will survive any
+termination of your account, this Agreement, or your access to the Services.
 
 ## 13. Disclaimer of Warranties
     
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE FULLEST EXTENT OF LAW, YOUR USE OF THE SERVICES IS ENTIRELY AT YOUR OWN RISK. CHANGES ARE PERIODICALLY MADE TO THE SERVICES AND MAY BE MADE AT ANY TIME WITHOUT NOTICE TO YOU. THE SERVICES ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY, RELIABILITY, COMPLETENESS OR TIMELINESS OF THE CONTENT MADE AVAILABLE THROUGH THE SERVICES, OR THE TEXT, GRAPHICS OR LINKS.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE FULLEST EXTENT OF LAW, YOUR USE
+OF THE SERVICES IS ENTIRELY AT YOUR OWN RISK. CHANGES ARE PERIODICALLY MADE TO
+THE SERVICES AND MAY BE MADE AT ANY TIME WITHOUT NOTICE TO YOU. THE SERVICES ARE
+PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR
+REPRESENTATIONS ABOUT THE ACCURACY, RELIABILITY, COMPLETENESS OR TIMELINESS OF
+THE CONTENT MADE AVAILABLE THROUGH THE SERVICES, OR THE TEXT, GRAPHICS OR LINKS.
 
-WE DO NOT WARRANT THAT THE SERVICES WILL OPERATE ERROR-FREE OR THAT THE SERVICES ARE FREE OF COMPUTER VIRUSES AND OTHER HARMFUL MALWARE. IF YOUR USE OF THE SERVICES RESULTS IN THE NEED FOR SERVICING OR REPLACING EQUIPMENT OR DATA, WE SHALL NOT BE RESPONSIBLE FOR THOSE ECONOMIC COSTS.
+WE DO NOT WARRANT THAT THE SERVICES WILL OPERATE ERROR-FREE OR THAT THE SERVICES
+ARE FREE OF COMPUTER VIRUSES AND OTHER HARMFUL MALWARE. IF YOUR USE OF THE
+SERVICES RESULTS IN THE NEED FOR SERVICING OR REPLACING EQUIPMENT OR DATA, WE
+SHALL NOT BE RESPONSIBLE FOR THOSE ECONOMIC COSTS.
 
 ## 14. Limitation of Liability
     
 
-UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT, OR OTHERWISE) SHALL THE CARPENTRIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR (A) ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST SALES OR BUSINESS, LOST DATA OR DATA BREACH, OR (B) FOR ANY DIRECT DAMAGES, COSTS, LOSSES OR LIABILITIES (INCLUDING ATTORNEYS’ FEES) IN EXCESS OF THE FEES ACTUALLY PAID BY YOU IN THE TWO (2) MONTHS PRECEDING THE EVENT GIVING RISE TO YOUR CLAIM OR, IF NO FEES APPLY, ONE HUNDRED ($100) U.S. DOLLARS.  THE PROVISIONS OF THIS SECTION ALLOCATE THE RISKS UNDER THIS AGREEMENT BETWEEN THE PARTIES, AND THE PARTIES HAVE RELIED ON THESE LIMITATIONS IN DETERMINING WHETHER TO ENTER INTO THIS AGREEMENT. Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply to you. IN THESE STATES, OUR LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT, OR
+OTHERWISE) SHALL THE CARPENTRIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR (A) ANY
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES,
+INCLUDING LOST PROFITS, LOST SALES OR BUSINESS, LOST DATA OR DATA BREACH, OR (B)
+FOR ANY DIRECT DAMAGES, COSTS, LOSSES OR LIABILITIES (INCLUDING ATTORNEYS’ FEES)
+IN EXCESS OF THE FEES ACTUALLY PAID BY YOU IN THE TWO (2) MONTHS PRECEDING THE
+EVENT GIVING RISE TO YOUR CLAIM OR, IF NO FEES APPLY, ONE HUNDRED ($100) U.S.
+DOLLARS. THE PROVISIONS OF THIS SECTION ALLOCATE THE RISKS UNDER THIS AGREEMENT
+BETWEEN THE PARTIES, AND THE PARTIES HAVE RELIED ON THESE LIMITATIONS IN
+DETERMINING WHETHER TO ENTER INTO THIS AGREEMENT. Some states do not allow the
+exclusion of implied warranties or limitation of liability for incidental or
+consequential damages, which means that some of the above limitations may not
+apply to you. IN THESE STATES, OUR LIABILITY WILL BE LIMITED TO THE GREATEST
+EXTENT PERMITTED BY LAW.
 
-WE MAKE NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THE SERVICES, OR ANY OTHER ITEMS OR SERVICES PROVIDED BY US, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY ARISING BY USAGE OF TRADE, COURSE OF DEALING OR COURSE OF PERFORMANCE, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE AND ANY IMPLIED WARRANTY OF NON-INFRINGEMENT. YOU ACKNOWLEDGE THAT THE SERVICES (INCLUDING ANY SERVERS OR OTHER HARDWARE, SOFTWARE AND ANY OTHER ITEMS USED OR PROVIDED BY US IN CONNECTION WITH THE SERVICES) ARE PROVIDED "AS IS" AND THAT WE MAKE NO WARRANTY THAT THE SERVICES WILL BE FREE FROM BUGS, FAULTS, DEFECTS OR ERRORS OR THAT ACCESS TO THE SERVICES WILL BE UNINTERRUPTED.
+WE MAKE NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THE SERVICES, OR ANY
+OTHER ITEMS OR SERVICES PROVIDED BY US, INCLUDING, WITHOUT LIMITATION, ANY
+IMPLIED WARRANTY ARISING BY USAGE OF TRADE, COURSE OF DEALING OR COURSE OF
+PERFORMANCE, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE AND ANY IMPLIED WARRANTY OF NON-INFRINGEMENT. YOU ACKNOWLEDGE THAT THE
+SERVICES (INCLUDING ANY SERVERS OR OTHER HARDWARE, SOFTWARE AND ANY OTHER ITEMS
+USED OR PROVIDED BY US IN CONNECTION WITH THE SERVICES) ARE PROVIDED "AS IS" AND
+THAT WE MAKE NO WARRANTY THAT THE SERVICES WILL BE FREE FROM BUGS, FAULTS,
+DEFECTS OR ERRORS OR THAT ACCESS TO THE SERVICES WILL BE UNINTERRUPTED.
 
 ## 15. Dispute Resolution
     
-PLEASE READ THE FOLLOWING SECTION CAREFULLY. IT REQUIRES YOU TO ARBITRATE DISPUTES WITH US AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF. THIS SECTION 15 OF THIS AGREEMENT SHALL BE REFERRED TO AS THE “ARBITRATION AGREEMENT.”
+PLEASE READ THE FOLLOWING SECTION CAREFULLY. IT REQUIRES YOU TO ARBITRATE
+DISPUTES WITH US AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF. THIS
+SECTION 15 OF THIS AGREEMENT SHALL BE REFERRED TO AS THE “ARBITRATION
+AGREEMENT.”
 
 1.  **Scope of Arbitration Agreement.** You agree that any dispute or claim
     relating in any way to your access or use of the Services or as a consumer
@@ -448,18 +542,20 @@ provisions shall survive the termination of this Agreement.
     
 * Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
 
-* Mailing address: 
+* Mailing address:
 
 The Carpentries c/o Community Initiatives  
 1000 Broadway, Suite #480  
 Oakland, CA 94607  
 USA
 
-* Contact form: [https://carpentries.typeform.com/to/v4RDlibM](https://carpentries.typeform.com/to/v4RDlibM)
+* Contact form:
+  [https://carpentries.typeform.com/to/v4RDlibM](https://carpentries.typeform.com/to/v4RDlibM)
 
 
 
 
 ## License
 
-Please note our Terms & Conditions are released under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.
+Please note our Terms & Conditions are released under a Creative Commons
+Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.
