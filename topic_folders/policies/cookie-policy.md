@@ -1,7 +1,7 @@
 # The Carpentries Cookie Policy
 
 
-**Last updated:** 2021-10-22
+**Last updated:** 2022-01-15
 
 To make our sites work properly, we sometimes place small data files called cookies on your device. A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login or other preferences) over a period of time, so you do not have to keep re-entering them whenever you come back to the site or browse from one page to another.
  
@@ -51,11 +51,14 @@ table th:nth-of-type(4) {
 
 ### Matomo
 
-We use [Matomo](https://matomo.org/) for our site analytics. We set it up to reduce the amount of
-personal information it collects about your visit and no cookies are used. It is
-enabled on <https://carpentries.org>, <https://datacarpentry.org>, <https://librarycarpentry.org>,
-<https://software-carpentry.org>, <https://carpentries-incubator.org>, <https://carpentries-lab.org>, and some
-of our sub-domains including <https://amy.carpentries.org>.
+We use [Matomo](https://matomo.org/) for our site analytics. We set it up to
+reduce the amount of personal information it collects about your visit and no
+cookies are used. It is enabled on <https://carpentries.org>,
+<https://datacarpentry.org>, <https://librarycarpentry.org>,
+<https://software-carpentry.org>, <https://carpentries-incubator.org>,
+<https://carpentries-lab.org>, <https://carpentrycon.org>,
+<https://carpentryconnect.org>, and some of our sub-domains including
+<https://amy.carpentries.org>.
 
 ### Other cookies
 
