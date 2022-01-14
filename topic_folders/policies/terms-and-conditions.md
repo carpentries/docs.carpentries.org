@@ -284,7 +284,7 @@ Notice. Please see our [DMCA Policy](dmca-policy.md) for more information.
 We have adopted a Privacy Policy outlining our personal data collection and use
 practices. Please refer to it for details about how we collect and use your
 personal information. By agreeing to the terms of this Agreement, you are
-automatically agreeing to our [Privacy Policy](privacy-policy.md), which is
+automatically agreeing to our [Privacy Policy](privacy.md), which is
 incorporated herein by reference.
 
 ## 11. Third-Party Interactions

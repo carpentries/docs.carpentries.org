@@ -5,7 +5,7 @@ POLICIES
    :maxdepth: 1
    :glob:
 
-   privacy-policy.md
+   privacy.md
    terms-and-conditions.md
    cookie-policy.md
    dmca-policy.md
