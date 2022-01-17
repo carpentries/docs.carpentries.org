@@ -7,10 +7,8 @@ For more information on lesson development with The Carpentries, please visit `T
    :maxdepth: 2
    :glob:
 
-   lesson_development_roles.md
+   curriculum_advisory_committees.md
    lesson_sprint_recommendations.md
    lesson_pilots.md
-   bug_bbq.md
    lesson_release.md
-   email_templates.md
    spotlight.md
