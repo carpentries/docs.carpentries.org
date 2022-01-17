@@ -8,6 +8,7 @@ For more information on lesson development with The Carpentries, please visit `T
    :glob:
 
    curriculum_advisory_committees.md
+   lesson_infrastructure_subcommittee.md
    lesson_sprint_recommendations.md
    lesson_pilots.md
    lesson_release.md
