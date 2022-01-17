@@ -1,6 +1,6 @@
 ### Release Process and Schedule
 
-Lessons are released on a 6-month release cycle. Lesson releases are
+Lesson releases are
 named by the year and month they happen, e.g., `2016.05`.
 
 1.  Each lesson lives in the `gh-pages` branch of its own repository.
@@ -13,8 +13,6 @@ the Release Maintainer creates one
 and adds an `index.html` page to it.
 5.  The Release Maintainer adds a submodule to the release directory of [`swc-releases`][swc-releases]
 that points to the newly-created release branch of the lesson.
-
-More information about lesson releases coming soon!
 
 ### Lesson Release Checklist
 
@@ -47,12 +45,5 @@ Checklist of tasks to complete before release:
 - [ ] clean up files (e.g. delete deprecated files, insure filenames are consistent)
 - [ ] update the release notes (NEWS)
 - [ ] tag release on GitHub
-
-
-
-
-### Upcoming Lesson Releases
-
-Information about upcoming lesson releases - coming soon!
 
 [swc-releases]: https://github.com/swcarpentry/swc-releases/
