@@ -29,7 +29,7 @@ can be found on the respective Lesson Program websites.
 - Updates to software/packages that are minor versions (e.g., Python 3.7 -> 3.8) when the new version is backwards compatible with current version
 - Additions of experimental features (e.g., `git checkout` → `git restore` / `git switch`)
 - Any change to a lesson that impacts the content/scope of another lesson in the curriculum
-- For Incubator lessons - Review of a lesson outline where lesson developers would like lesson to be considered for eventual adoption into 
+- For Incubator lessons - Review of a lesson outline where lesson developers would like the lesson to be considered for eventual adoption into 
 a Lesson Program’s official curriculum
 - Issues which are not covered anywhere else in this rubric
 
