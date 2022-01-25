@@ -27,8 +27,8 @@ some information about the objectives and the history of the lesson,
 and a description of how The Carpentries community can best contribute
 to its ongoing development.
 This information will be used by the Core Team
-to create a post for The Carpentries blog,
-an item for the Carpentries Clippings newsletter,
+to create a post for [The Carpentries blog](https://carpentries.org/blog/),
+an item for the [Carpentries Clippings newsletter](https://carpentries.org/newsletter/),
 and related posts to social media.
 When the blog post has been drafted,
 a pull request will be opened to add that post to the website.
