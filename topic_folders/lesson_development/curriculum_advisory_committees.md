@@ -39,7 +39,7 @@ Meetings minutes are available in the committee's GitHub repository:
 - Watch lesson repositories for instances where the CAC is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
 - Generally watch lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
 - Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and Maintainers in touch with CAC members who will assist with implementation. 
-- Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit replacement if needed. 
+- Notify Curriculum Team Lead ([Toby Hodges](mailto:tobyhodges@carpentries.org)) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit replacement if needed. 
 - Approve meeting minutes. 
 - Fulfill all other responsibilities of a CAC member. 
 
