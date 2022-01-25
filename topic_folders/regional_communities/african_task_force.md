@@ -1,5 +1,10 @@
 ## Carpentries in Africa
 
+
+### Looking back at 2021
+
+The Carpentries in Africa grew from strenght to strengh during 2021. During the year the African Carpentries Community participated in **19 workshops** accross **5 countries** (South Africa, Ethiopia, Ghana, Kenya and Mauritius). Also, **more than 25 new instructors were badged** from **10 countries** (South Africa, Kenya, Rwanda, Ethiopia, Ghana, Morocco, Nigeria, Sudan, Tunisia and Uganda). Furthermore, the first virtual [CarpentryConnect South Africa 2021](https://carpentries.org/blog/2021/09/carpentryconnect/) took place from 6 to 17 September 2021. The event included 2 Carpentries workshops, 1 Carpentries instructor training event, 2 networking events, 1 learning session and 1 opening address.
+
 ### What We Do
 
 - **Monthly African Community Meetup**: Our monthly African Carpentries Community meetups have been running since 2017. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
@@ -23,7 +28,7 @@
 
 ### Join Us
 
-To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#african-carpentries](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
+To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#local-africa](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
 
 **We would love to get more people involved in specific activities to support our growing African community** - meet the South African instructors [here](https://carpentries.org/regions_za/)!
 
@@ -41,6 +46,8 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts on Carpentries activities in Africa
 
+- [Glosario: African contributions](https://carpentries.org/blog/2021/11/Glosario-African-Contributions/) by Angelique Trusler
+- [Announcing The Carpentries African Capacity Development Manager, Angelique Trusler](https://carpentries.org/blog/2021/10/announcing-african-capacity-development-manager/) by Kari L. Jordan 
 - [CarpentryConnect South Africa 2021 - A global event](https://carpentries.org/blog/2021/09/carpentryconnect/) by Angelique Trusler
 - [Highlighting our strategic plan efforts to support local community building](https://carpentries.org/blog/2021/07/Highlighting-our-strategic-plan-efforts-to-support-local-community-building/) by Kari L. Jordan and Angelique Trusler
 - [Registration for CarpentryConnect South Africa 2021 now open!](https://carpentries.org/blog/2021/06/CarpentryConnectSouthAfrica/) by Angelique Trusler

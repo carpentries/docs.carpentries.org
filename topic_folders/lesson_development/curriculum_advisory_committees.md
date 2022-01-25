@@ -34,7 +34,7 @@ Meetings minutes are available in the committee's GitHub repository:
 #### Chair
 - Prepare agenda for regular meetings, including time estimates for each item.
 - Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
-- Assign [meeting roles](#meeting-roles).
+- Assign meeting roles.
 - Serve as primary point of contact for Maintainers
 - Watch lesson repositories for instances where the CAC is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
 - Generally watch lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
