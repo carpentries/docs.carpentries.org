@@ -9,13 +9,13 @@ Curriculum Advisors represent The Carpentries community and should strive to emb
 - Recognising the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using The Carpentries model:
   -  Finding what is good. 
-  -  Be specific about improvements needed. 
-  -  Use motivational language.
+  -  Being specific about improvements needed. 
+  -  Using motivational language.
 - Evaluating lesson contributions in light of The Carpentries pedagogical model:
-  - Teach what is most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keep language motivating.
-  - Emphasise the importance of continued learning and improvement.
+  - Teaching what is most relevant and useful for learners.
+  - Avoiding getting bogged down in technical details.
+  - Keeping language motivating.
+  - Emphasising the importance of continued learning and improvement.
 
 ### Meetings
 Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reading and contributing to relevant documents in advance of the meeting. 
