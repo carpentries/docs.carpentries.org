@@ -82,7 +82,7 @@ Check
 [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage)
 for a list of things to take note of during the pilot workshop.
 We recommend assigning a specific person or people
-to keep track of these points, e.g. an Instructor or Helper.
+to keep track of these points (e.g. an Instructor or Helper).
 You may find it helpful to make a copy of
 [the pilot observation notes template](https://codimd.carpentries.org/lesson-pilot-observation-notes-template)
 to use during the workshop.
@@ -111,7 +111,7 @@ try putting a call out on
 [local/regional community mailing lists](https://carpentries.topicbox.com/groups),
 any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these),
 and/or [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
-Please do not post calls for Instructors to the general or instructors channel on Slack, or the discuss and instructors lists on TopicBox: any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
+Please do not post calls for Instructors to the general or instructors channel on Slack, or the discuss and instructors lists on TopicBox. Any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
 for assistance.
 
 #### Creating a Pilot Workshop Webpage
