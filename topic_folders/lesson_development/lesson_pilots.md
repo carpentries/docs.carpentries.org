@@ -2,7 +2,7 @@
 
 ### Purpose
 
-Teaching a lesson for the first time is very rewarding
+Teaching a lesson for the first time is very rewarding, 
 but the experience of the Instructors and learners also
 identifies opportunities to address and further clarify
 parts of the content.
@@ -13,8 +13,8 @@ As well as teaching new and exciting skills to learners,
 the additional purpose of pilot workshops is to collect information
 and feedback that can be used to polish content
 and make the lesson more reusable by other Instructors
-e.g. by recording accurate timings for episodes and exercises,
-expanding Instructor Notes, etc.
+(e.g. by recording accurate timings for episodes and exercises,
+expanding Instructor Notes, etc.).
 
 #### Alpha and Beta Pilots
 
@@ -45,8 +45,8 @@ find hosts and Instructors for pilot workshops.
 
 If you are developing a lesson in The Carpentries Incubator,
 you can recruit pilot hosts by putting out a call via
-[the `discuss` TopicBox list](https://carpentries.topicbox.com/groups),
-[the `general` channel on The Carpentries Slack workspace](https://carpentries.org/connect/),
+[the *discuss* TopicBox list](https://carpentries.topicbox.com/groups),
+[the *general* channel on The Carpentries Slack workspace](https://carpentries.org/connect/),
 [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html),
 and/or by any other communications channel that you think appropriate
 (e.g. the mailing list of a specific community likely to be interested in the lesson topic).
