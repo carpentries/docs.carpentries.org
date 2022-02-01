@@ -65,7 +65,5 @@ To be added.
 
 ### Current Curriculum Advisors
 
-* [Curriculum Advisors, Data Carpentry](https://datacarpentry.org/lesson-leadership/)
-* [Curriculum Advisors, Library Carpentry](https://librarycarpentry.org/cac/)
-* [Curriculum Advisors, Software Carpentry](https://software-carpentry.org/curriculum-advisors/)
+Refer to [The Carpentries Curriculum Advisors page](https://carpentries.org/curriculum-advisors/) for a current list of Curriculum Advisors and contact information.
 
