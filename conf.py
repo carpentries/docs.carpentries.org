@@ -39,6 +39,9 @@ extensions = ['notfound.extension',
               'myst_parser', # Enable use of markdown
               ]
 
+# give auto anchors to myst docs
+myst_heading_anchors = 6
+
 notfound_context = {
         'body': '<h1>This page may have moved.</h1> <p>Please select a page from the side menu or contact team@carpentries.org if you need additional help.</p>',
 }
