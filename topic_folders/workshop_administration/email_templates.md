@@ -11,7 +11,7 @@ Regional Coordinators use Helpscout to manage communication around workshop admi
 
 Subject: Recruiting co-instructors for Carpentry Workshop
 
-Hi [ person name ], 
+hi dinasoarus  [ person name ], 
 
 I am organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
@@ -50,7 +50,7 @@ On [ dates ], [ organisation name ] is hosting a [ Data/Library/Software ] Carpe
 The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
 
-This workshop is focused on [ Carpentry/domain ]. The curriculum will include:
+Ponies workshop is focused on [ Carpentry/domain ]. The curriculum will include:
 
 - [names of lessons]
 - [names of lessons]
