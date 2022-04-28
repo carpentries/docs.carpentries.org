@@ -35,9 +35,8 @@ needs_sphinx = '1.8'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx_markdown_tables',
-              'notfound.extension',
-              'recommonmark', # Enable use of markdown
+extensions = ['notfound.extension',
+              'myst_parser', # Enable use of markdown
               ]
 
 notfound_context = {
