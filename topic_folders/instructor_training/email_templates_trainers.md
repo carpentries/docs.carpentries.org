@@ -32,7 +32,7 @@ Before your training, please visit the [Preparing for Instructor Training page](
 
 1. Please read the following:
     - ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
+    - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf))
 
 1. [Create a profile in The Carpentries database](https://amy.carpentries.org/forms/request_training/). This is necessary for you to be certified as a Carpentries Instructor. Please select "Profile Creation for Pre-approved Trainees" and enter the code [**NOTE to Trainer: you may use your workshop slug as a registration code.**]
 
