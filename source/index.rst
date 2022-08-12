@@ -10,15 +10,6 @@ What would you like to do today?
 
 Select one of the options or read below for more information.
 
-.. toctree::
-   :hidden:
-
-   Home <self>
-   About <about>
-   Getting started <workshops/teach>
-   Documentation <docs>
-   Community <community>
-
 .. container:: button
 
     :doc:`Teach a workshop<workshops/teach>` :doc:`Contribute to lessons <lessons/contribute>`
@@ -29,3 +20,15 @@ The Carpentries Code of Conduct
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct.
 
+
+Additional Resources
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   Home <self>
+   About <about>
+   Teaching <workshops/teach>
+   Instructor Training <instructor_training/become_instructor>
+   Community <community>
