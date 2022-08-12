@@ -1,39 +1,27 @@
-GeoPandas |version|
+The Carpentries
 ===================
 
-GeoPandas is an open source project to make working with geospatial
-data in python easier.  GeoPandas extends the datatypes used by
-`pandas`_ to allow spatial operations on geometric types.  Geometric
-operations are performed by `shapely`_.  Geopandas further depends on
-`fiona`_ for file access and `matplotlib`_ for plotting.
 
-.. _pandas: http://pandas.pydata.org
-.. _shapely: https://shapely.readthedocs.io
-.. _fiona: https://fiona.readthedocs.io
-.. _matplotlib: http://matplotlib.org
+The Carpentries teaches foundational coding and data science skills to researchers worldwide. Software Carpentry, Data Carpentry, and Library Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our Code of Conduct.
 
-Description
------------
 
-The goal of GeoPandas is to make working with geospatial data in
-python easier.  It combines the capabilities of pandas and shapely,
-providing geospatial operations in pandas and a high-level interface
-to multiple geometries to shapely.  GeoPandas enables you to easily do
-operations in python that would otherwise require a spatial database
-such as PostGIS.
+What would you like to do today?
+----------------------------------
+
+Select one of the options or read below for more information.
 
 .. toctree::
-   :hidden:
+
 
    Home <self>
    About <about>
-   Getting started <getting_started>
+   Getting started <workshops/teach>
    Documentation <docs>
    Community <community>
 
 .. container:: button
 
-    :doc:`Getting started <getting_started>` :doc:`Documentation <docs>`
+    :doc:`Teach <workshops/teach>` :doc:`Documentation <docs>`
     :doc:`About GeoPandas <about>` :doc:`Community <community>`
 
 Useful links
