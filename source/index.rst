@@ -1,6 +1,7 @@
-The Carpentries
-===================
+.. image:: https://carpentries.org/assets/img/TheCarpentries.svg
+    :alt: The Carpentries Logo  
 
+-------------------------------------------
 
 The Carpentries teaches foundational coding and data science skills to researchers worldwide. Software Carpentry, Data Carpentry, and Library Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our Code of Conduct.
 
