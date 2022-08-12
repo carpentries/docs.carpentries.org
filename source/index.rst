@@ -11,7 +11,7 @@ What would you like to do today?
 Select one of the options or read below for more information.
 
 .. toctree::
-
+   :hidden:
 
    Home <self>
    About <about>
@@ -21,8 +21,8 @@ Select one of the options or read below for more information.
 
 .. container:: button
 
-    :doc:`Teach <workshops/teach>` :doc:`Documentation <docs>`
-    :doc:`About GeoPandas <about>` :doc:`Community <community>`
+    :doc:`Teach a workshop<workshops/teach>` :doc:`Contribute to lessons <lessons/contribute>`
+    :doc:`Become an Instructor <instructor_training/become_instructor>` :doc:`Connect to community <community>`
 
 Useful links
 ------------
