@@ -24,23 +24,8 @@ Select one of the options or read below for more information.
     :doc:`Teach a workshop<workshops/teach>` :doc:`Contribute to lessons <lessons/contribute>`
     :doc:`Become an Instructor <instructor_training/become_instructor>` :doc:`Connect to community <community>`
 
-Useful links
-------------
+The Carpentries Code of Conduct
+-----------------------------------
 
-`Binary Installers (PyPI) <https://pypi.org/project/geopandas/>`_ | `Source Repository (GitHub) <https://github.com/geopandas/geopandas>`_ | `Issues & Ideas <https://github.com/geopandas/geopandas/issues>`_ | `Q&A Support <https://stackoverflow.com/questions/tagged/geopandas>`_
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct.
 
-
-Supported by
-------------
-
-.. image:: https://numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png
-    :alt: numfocus
-    :width: 400
-    :target: https://numfocus.org
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
