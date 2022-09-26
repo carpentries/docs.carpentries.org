@@ -1,8 +1,19 @@
 ## Meeting Checklist and Email Templates
 
 ### Meeting Checklist
+
 - [Secretary] Create availability poll using [whenisgood](http://whenisgood.net/Create) (or similar service). 
-  Be sure to enable the “use timezones” feature. 
+  Be sure to enable the “use timezones” feature.
+    - This checklist below assumes that you will gather availability from committee members each time,
+      but you may find it easier to schedule several meetings at once. 
+      For example, you might schedule quarterly meetings for a whole year 
+      assuming that the day/time that works for the committee in one quarter 
+      (e.g. 14:00 UTC on the third Tuesday of the month)
+      will also be a good fit 3, 6, and 9 months later.
+      If you would like to take this approach, 
+      make sure to discuss it with the rest of the committee first and
+      be alert to potential complications caused by seasonal clock adjustments
+      (e.g. daylight savings in North America and Europe).
 - [Secretary] Start scheduling meeting using this [email template](#scheduling-meeting). 
 - [Secretary] Determine the best meeting time (or two if needed) from the availability poll. 
   Create an event time announcement using [TimeandDate](https://www.timeanddate.com/worldclock/fixedform.html) 
