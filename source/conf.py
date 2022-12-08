@@ -53,6 +53,11 @@ exclude_patterns = []
 #
 html_theme = 'pydata_sphinx_theme'
 
+html_context = {"default_mode": "light"}
+
+html_theme_options = {
+    "navbar_end" : ['navbar-icon-links', ]
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
