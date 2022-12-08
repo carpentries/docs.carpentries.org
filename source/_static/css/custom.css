@@ -45,7 +45,6 @@ hr {
     border: 1px solid #bbbbbb;
     display: inline-block;
     cursor: pointer;
-    color: #139C5A;
     padding: 1em 1em;
     text-align: center;
     text-decoration: none;
@@ -54,13 +53,11 @@ hr {
     width: 40%;
 }
 
-.button>p>a:hover {
-    border-color: #139C5A;
-    color: #e32e00;
-}
+/* .button>p>a:hover {
+    border: 1px solid #FF4955
+} */
 
 .button>p>a:active {
     position: relative;
     top: 1px;
 }
-
