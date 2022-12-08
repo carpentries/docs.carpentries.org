@@ -37,6 +37,13 @@ hr {
     --pst-color-h2: var(--color-text-base);
 }
 
+
+.bd-header, .bd-footer  {
+    background: #081457 !important; /* important to override theme color */
+    color: #E5E5E5 !important;
+}
+
+
 /* buttons */
 
 .button>p>a {
