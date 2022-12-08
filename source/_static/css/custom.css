@@ -5,11 +5,25 @@
     src: url("./Mulish/Mulish-VariableFont_wght.ttf");
 }
 
-body, h1, h2, h3, h4, h5, h6 {
+body {
     font-family: "Mulish";
+    background:  #E5E5E5;
+    color: #383838
 }
 
+h1 { font-family: "Mulish";
+      color: #383838; }
 
+
+h2 {
+    font-family: "Mulish";
+    color: #001483;
+}
+
+h3, h4, h5, h6 {
+    font-family: "Mulish";
+    color: #719EFF 
+}
 
 /* colors */
 
