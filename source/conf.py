@@ -56,7 +56,32 @@ html_theme = 'pydata_sphinx_theme'
 html_context = {"default_mode": "light"}
 
 html_theme_options = {
-    "navbar_end" : ['navbar-icon-links', ]
+        "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/carpentries/",
+            "icon": "fab fa-github-square",
+            "type": "fontawesome",
+        },
+        {
+            "name": "Mastodon",
+            "url": "https://fosstodon.org/@thecarpentries",
+            "icon": "fab fa-mastodon",
+            "type": "fontawesome",
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/thecarpentries",
+            "icon": "fab fa-twitter-square",
+            # The default for `type` is `fontawesome` so it is not actually required in any of the above examples as it is shown here
+        },
+    ],
+    
+    "navbar_end" : ['navbar-icon-links', ],
+
+
+
+
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
