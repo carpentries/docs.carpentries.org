@@ -25,6 +25,10 @@ h3, h4, h5, h6 {
     color: #719EFF 
 }
 
+
+hr {
+    border: 1px solid #FF4955
+}
 /* colors */
 
 :root {
