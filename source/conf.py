@@ -80,7 +80,7 @@ html_theme_options = {
     ],
     
     "navbar_end" : ['navbar-icon-links', ],
-     "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink"],
+     "secondary_sidebar_items": ["page-toc", "edit-this-page",],
      "primary_sidebar_end": ["sidebar-ethical-ads"],
 
 }
