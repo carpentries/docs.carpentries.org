@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'The Carpentries Test Handbook'
+project = 'The Carpentries Test Beta Handbook'
 copyright = '2022, The Carpentries'
 author = 'The Carpentries'
 
@@ -54,6 +54,8 @@ exclude_patterns = []
 html_theme = 'pydata_sphinx_theme'
 
 html_context = {"default_mode": "light"}
+
+html_title = "The Carpentries Handbook"
 
 html_theme_options = {
         "icon_links": [
