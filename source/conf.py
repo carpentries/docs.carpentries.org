@@ -81,14 +81,16 @@ html_theme_options = {
     
     "navbar_end" : ['navbar-icon-links', ],
      "secondary_sidebar_items": ["page-toc", "edit-this-page",],
-     "primary_sidebar_end": ["sidebar-nav-bs", "last-updated", "page-toc", "search-field",  "sidebar-ethical-ads", "indices"],
+
 
 }
 
-# Make (empty) left sidebar display
+
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_sidebars
 html_sidebars = {
-    "**": ["sidebar-ethical-ads"]
+    "**": ["sidebar-ethical-ads", "sidebar-nav-bs",  'globaltoc.html', 'search-field', 'localtoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html']
 }
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
