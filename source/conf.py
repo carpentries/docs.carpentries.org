@@ -81,7 +81,7 @@ html_theme_options = {
     
     "navbar_end" : ['navbar-icon-links', ],
      "secondary_sidebar_items": ["page-toc", "edit-this-page",],
-     "primary_sidebar_end": ["sidebar-ethical-ads"],
+     "primary_sidebar_end": ["sidebar-nav-bs", "last-updated", "page-toc", "search-field",  "sidebar-ethical-ads", "indices"],
 
 }
 
