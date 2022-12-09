@@ -80,10 +80,14 @@ html_theme_options = {
     ],
     
     "navbar_end" : ['navbar-icon-links', ],
+     "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink"],
+     "primary_sidebar_end": ["sidebar-ethical-ads"],
 
+}
 
-
-
+# Make (empty) left sidebar display
+html_sidebars = {
+    "**": ["sidebar-ethical-ads"]
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -91,3 +95,4 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = ['css/custom.css']
+
