@@ -13,8 +13,10 @@ Select one of the options or read below for more information.
 
 .. container:: button
 
-    :doc:`Teach a workshop<workshops/teach>` :doc:`Contribute to lessons <lessons/contribute>`
-    :doc:`Become an Instructor <instructor_training/become_instructor>` :doc:`Connect to community <community>`
+    :doc:`Teach a workshop<workshops/teach>` 
+    :doc:`Contribute to lessons <lessons/contribute>`
+    :doc:`Become an Instructor <instructor_training/become_instructor>` 
+    :doc:`Connect to community <community>`
 
 The Carpentries Code of Conduct
 -----------------------------------
