@@ -88,7 +88,7 @@ html_theme_options = {
 
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_sidebars
 html_sidebars = {
-    "**": ["sidebar-ethical-ads", "sidebar-nav-bs",  'globaltoc.html', 'search-field', 'localtoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html']
+    "**": ["custom_toc", "sidebar-ethical-ads", "sidebar-nav-bs",  'globaltoc.html', 'search-field', 'localtoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html']
 }
 
 
