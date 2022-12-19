@@ -43,6 +43,10 @@ hr {
     color: #E5E5E5 !important;
 }
 
+.bd-sidebar-primary, .bd-sidebar-secondary {
+    background:  #E5E5E5;
+}
+
 
 /* buttons */
 
