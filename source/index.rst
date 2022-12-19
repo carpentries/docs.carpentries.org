@@ -30,8 +30,10 @@ Additional Resources
 .. toctree::
    :maxdepth: 1
 
-   Home <self>
-   About <about>
-   Teaching <workshops/teach>
-   Instructor Training <instructor_training/become_instructor>
-   Community <community>
+    Instructors <>
+    Community Discussion Hosts <>
+    CarpentryCon <>
+    Lesson Developers <>
+    Maintainers <>
+    Curriculum Advisors <>
+    Trainers <>
