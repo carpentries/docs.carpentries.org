@@ -80,14 +80,21 @@ html_theme_options = {
     ],
     
     "navbar_end" : ['navbar-icon-links', ],
-
-
+     "secondary_sidebar_items": ["page-toc", "edit-this-page",],
 
 
 }
+
+
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_sidebars
+html_sidebars = {
+    "**": ['search-field',  'globaltoc.html',]
+}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = ['css/custom.css']
+
