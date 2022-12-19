@@ -88,7 +88,7 @@ html_theme_options = {
 
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_sidebars
 html_sidebars = {
-    "**": ['search-field',  'globaltoc.html',]
+    "**": ['globaltoc.html', 'search-field',  ]
 }
 
 
