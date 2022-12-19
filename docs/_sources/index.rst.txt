@@ -13,8 +13,10 @@ Select one of the options or read below for more information.
 
 .. container:: button
 
-    :doc:`Teach a workshop<workshops/teach>` :doc:`Contribute to lessons <lessons/contribute>`
-    :doc:`Become an Instructor <instructor_training/become_instructor>` :doc:`Connect to community <community>`
+    :doc:`Teach a workshop<workshops/instructors>` 
+    :doc:`Contribute to lessons <curriculum/maintainers>`
+    :doc:`Instructor Training <instructor_training/trainers>` 
+    :doc:`Connect to community <community/discussion_host>`
 
 The Carpentries Code of Conduct
 -----------------------------------
@@ -28,8 +30,11 @@ Additional Resources
 .. toctree::
    :maxdepth: 1
 
-   Home <self>
-   About <about>
-   Teaching <workshops/teach>
-   Instructor Training <instructor_training/become_instructor>
-   Community <community>
+    Instructors <workshops/instructors>
+    Community Discussion Hosts <community/discussion_host>
+    CarpentryCon <community/carpentrycon>
+    Curriculum Advisors <curriculum/curriculum_advisors>
+    Maintainers <curriculum/maintainers>
+    Lesson Developers <curriculum/lesson_developers>
+    Trainers <instructor_training/trainers>
+
