@@ -18,17 +18,13 @@ Select one of the options or read below for more information.
     :doc:`Instructor Training <instructor_training/trainers>` 
     :doc:`Connect to community <community/discussion_host>`
 
-The Carpentries Code of Conduct
------------------------------------
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct.
-
-
-Additional Resources
+Handbooks
 ----------------------
 
 .. toctree::
    :maxdepth: 1
+   :name: handbooks
 
     Instructors <workshops/instructors>
     Community Discussion Hosts <community/discussion_host>
@@ -37,4 +33,15 @@ Additional Resources
     Maintainers <curriculum/maintainers>
     Lesson Developers <curriculum/lesson_developers>
     Trainers <instructor_training/trainers>
+
+
+General Resources 
+-----------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   :name: genres
+
+    Code of Conduct <pages/coc>
+    Style Guide<pages/style_guide>
 
