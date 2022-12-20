@@ -80,7 +80,7 @@ html_theme_options = {
     ],
     
 "navbar_start": ["navbar-logo"],
-"navbar_center": ["navbar-handbooks", "navbar-icon-links"],
+"navbar_center": ["navbar-handbooks", "navbar-general", "navbar-icon-links"],
 "navbar_end": [],
 "navbar_persistent": [],
      "secondary_sidebar_items": ["page-toc", "edit-this-page",],
