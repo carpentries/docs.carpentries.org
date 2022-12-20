@@ -24,6 +24,7 @@ Handbooks
 
 .. toctree::
    :maxdepth: 1
+   :name: handbooks
 
     Instructors <workshops/instructors>
     Community Discussion Hosts <community/discussion_host>
@@ -34,9 +35,13 @@ Handbooks
     Trainers <instructor_training/trainers>
 
 
-Additional Resources 
+General Resources 
 -----------------------------------
 
+.. toctree::
+   :maxdepth: 1
+   :name: genres
 
-:doc:`Code of Conduct <pages/coc>`
+    Code of Conduct <pages/coc>
+    Style Guide<pages/style_guide>
 
