@@ -53,7 +53,14 @@ exclude_patterns = []
 #
 html_theme = 'pydata_sphinx_theme'
 
-html_context = {"default_mode": "light"}
+html_context = {
+    "default_mode": "light",
+    "display_github": True, # Integrate GitHub
+    "github_user": "carpentries", # Username
+    "github_repo": "handbook-beta", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root    
+    }
 
 html_title = "The Carpentries Handbook"
 
@@ -87,7 +94,7 @@ html_theme_options = {
     "navbar_center": ["navbar-handbooks", "navbar-general", "navbar-icon-links"],
     # Set where center area aligns to
     # https://pydata-sphinx-theme.readthedocs.io/en/v0.7.2/user_guide/configuring.html#configure-the-navbar-center-alignment
-    "navbar_align": "content"
+    "navbar_align": "content",
 
     # Set nothing to be in right section of top nav bar
     "navbar_end": [],
