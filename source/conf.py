@@ -53,12 +53,19 @@ exclude_patterns = []
 #
 html_theme = 'pydata_sphinx_theme'
 
-html_context = {"default_mode": "light"}
+html_context = {
+    "default_mode": "light",
+    "display_github": True, # Integrate GitHub
+    "github_user": "carpentries", # Username
+    "github_repo": "handbook-beta", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root    
+    }
 
 html_title = "The Carpentries Handbook"
 
 html_theme_options = {
-        "icon_links": [
+    "icon_links": [
         {
             "name": "GitHub",
             "url": "https://github.com/carpentries/",
@@ -78,20 +85,32 @@ html_theme_options = {
             # The default for `type` is `fontawesome` so it is not actually required in any of the above examples as it is shown here
         },
     ],
-    
-"navbar_start": ["navbar-logo"],
-"navbar_center": ["navbar-handbooks", "navbar-general", "navbar-icon-links"],
-"navbar_end": [],
-"navbar_persistent": [],
-     "secondary_sidebar_items": ["page-toc", "edit-this-page",],
-
-     "header_links_before_dropdown": 0,
-     "navbar_align": "content"
 
 
+    # Set Carpentries title to show up at left section of top nav bar
+    "navbar_start": ["navbar-logo"],
+
+    # Set Handbooks menu, General menu, and icon links to be in center section of top nav bar
+    "navbar_center": ["navbar-handbooks", "navbar-general", "navbar-icon-links"],
+    # Set where center area aligns to
+    # https://pydata-sphinx-theme.readthedocs.io/en/v0.7.2/user_guide/configuring.html#configure-the-navbar-center-alignment
+    "navbar_align": "content",
+
+    # Set nothing to be in right section of top nav bar
+    "navbar_end": [],
+
+    # Set nothing to always be in top nav bar
+    "navbar_persistent": [],
+
+    # Set what goes in secondary sidebar (right side)
+    "secondary_sidebar_items": ["page-toc", "edit-this-page",],
+
+    # Not actually needed when header menus are hard coded/custom built
+    "header_links_before_dropdown": 0,
 }
 
 
+# Set what is displayed in main sidebar (left side)
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_sidebars
 html_sidebars = {
     "**": ['globaltoc.html', 'search-field',  ]
