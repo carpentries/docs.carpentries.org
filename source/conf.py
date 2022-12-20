@@ -79,8 +79,14 @@ html_theme_options = {
         },
     ],
     
-    "navbar_end" : ['navbar-icon-links', ],
+"navbar_start": ["navbar-logo"],
+"navbar_center": ["navbar-nav", "navbar-icon-links"],
+"navbar_end": [],
+"navbar_persistent": [],
      "secondary_sidebar_items": ["page-toc", "edit-this-page",],
+
+     "header_links_before_dropdown": 0,
+     "navbar_align": "content"
 
 
 }
