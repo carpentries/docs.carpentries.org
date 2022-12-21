@@ -36,9 +36,11 @@ Note `build` can be in `.gitignore` but `docs` should not be as long as we want 
 
 ## Changes to `conf.py`
 
-After setting the theme, the additional following changes were needed to `conf.py`:
+After setting the theme, the additional following changes were needed to `conf.py`.  Note this list does not include changes that only reflect The Carpentries identity (setting the name, social media handles, etc.).  The list includes changes that affect the site functionality.
 
 * To make the template render markdown files properly, add `.md` to the `source_suffix` list and add `myst_parser` to the `extensions` list
 * To use a custon style sheet, set `html_static_path = ['_static']` and `html_css_files = ['css/custom.css']`
 * Add an empty `.nojekyll` file to the `docs` folder to enable the build on GitHub pages
+* Add GitHub identifies to `html_context`. This is supposed to enable the "Edit on GitHub" button, but does not work.
+* Add navbar and sidebar settings to `html_context`
 
