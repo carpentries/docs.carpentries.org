@@ -11,6 +11,8 @@ This is an early prototype of what The Carpentries Handbook might look like.  Ev
     * folders with markdown files with content for each page
     * `conf.py` - site settings
     * `index.rst` - sets structure for home page
+* `.gitignore` Standard gitignore file
+* `Makefile` - includes custom Make commands and inherits general Sphinx Make commands.
 
 ## Editing content
 
