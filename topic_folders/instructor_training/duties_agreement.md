@@ -12,31 +12,39 @@ discussions about Instructor training. Trainers have opportunities to influence 
 community, through leadership roles. Trainers often play leadership roles in their home communities, mentoring local Instructors, and modeling best practices.
 
 
-##### Certification Renewal Process
+##### Active Status Renewal Process
 
-Version 1.0.0 -- Approved 16 February, 2022
+Version 1.0.1 -- Draft
 
-NOTE: This documentation replaces the prior Trainer Agreement. Membership documents that referred to the Trainer Agreement should continue to follow its specifications. 
-[Complete language for the Trainer Agreement version 2.0.0 may be found in the repository for this site](https://github.com/carpentries/docs.carpentries.org/blob/11d31e22a52c1347d8eb36dad0298d266cdfa485/topic_folders/instructor_training/duties_agreement.md).
+Active status for Instructor Trainers is renewed annually in March. 
 
-Trainer Certification will expire and be renewed annually in March. New Trainers who have not yet been certified for a full year in March will be automatically renewed for another year.
+New Trainers who have not yet been certified for a full year and Trainers who have returned to Active status within the past year 
+will automatically be renewed.
 
-Certification may be renewed by:  
-A) (automatic) participating in curriculum and community activities during the prior year, as described below OR  
-B) (within 1 year of expiration) meeting with the Director of Instructor Training (DIT) to discuss curriculum and community as well as plans for participation in the coming year OR  
-C) (>1 year post expiration) re-activation as currently detailed in Handbook (review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.)  
+Active status may be renewed by either:  
+A) participating in curriculum and community activities during the prior year, as described below OR  
+B) meeting with the Director of Instructor Training (DIT) to catch up on curriculum and community changes and discuss plans for the coming year  
 
-In the case of A, above, certification will be automatically renewed when activities are self-reported and approved by Trainers Leadership.
+Trainers who do not renew their Active status before the deadline will have their status changed to Alumni. Instructions for Alumni returning to 
+Active status are detailed below.
 
-###### Participation Requirements
-Participation requirements for automatic renewal are at least:
+In the case of option A, above, certification will be renewed automatically when records indicate that Trainers have completed all activities expected 
+for Active Trainers, detailed below. If records are incomplete, Trainers may self-report their activities via a form. The Trainers Leadership Committee 
+will review form responses and recommend either renewal or a meeting (option B) based on reported activities.
 
-- teaching 1 Instructor Training event, and  
-- hosting 2 teaching demos, and  
-- attending 4 Trainer community meetings  
+###### Participation Expectations for Active Instructor Trainers
+In order to be renewed based on prior participation, a Trainer is expected to participate as follows during the 1 year period prior to renewal:
+
+- teach at least 1 Instructor Training event, and  
+- host at least 2 teaching demos, and  
+- attend at least 4 Trainer community meetings  
+
 OR  
 
-- equivalent engagement with curriculum, trainees, or the Trainer community, as approved by the Trainers Leadership
+- equivalent engagement with curriculum, trainees, or the Trainer community, as approved by the Trainers Leadership Committee
+
+As a general rule, equivalent activities must be self-reported via form submission. Trainers Leadership will provide guidance to help Trainers choose
+what to share in the form, and when to select a meeting instead.
 
 ##### Trainer Alumni Status
 
