@@ -35,9 +35,9 @@ will review form responses and recommend either renewal or a meeting (option B) 
 ###### Participation Expectations for Active Instructor Trainers
 In order to be renewed based on prior participation, a Trainer is expected to participate as follows during the 1 year period prior to renewal:
 
-- teach 1 Instructor Training event, and  
-- host 2 teaching demos, and  
-- attend 4 Trainer community meetings  
+- teach at least 1 Instructor Training event, and  
+- host at least 2 teaching demos, and  
+- attend at least 4 Trainer community meetings  
 
 OR  
 
