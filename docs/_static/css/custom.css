@@ -43,9 +43,10 @@ hr {
     color: #E5E5E5 !important;
 }
 
-.bd-sidebar-primary, .bd-sidebar-secondary {
-    background:  #E5E5E5;
+p.title.logo__title, p.copyright, p.theme-version, p.sphinx-version, .bd-sidebar-primary, .bd-sidebar-secondary, .fa-github-square:before, .fa-square-github:before, .fa-mastodon:before, .fa-square-twitter:before, .fa-twitter-square:before {
+    color: white;
 }
+
 
 
 /* buttons */
@@ -71,4 +72,12 @@ hr {
 .button>p>a:active {
     position: relative;
     top: 1px;
+}
+
+
+
+.bd-header .navbar-nav .dropdown button {
+    /* border: none; */
+    color: white;
+    display: unset;
 }
