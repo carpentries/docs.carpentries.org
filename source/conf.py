@@ -15,10 +15,14 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 
+# Get year for copyright
+from datetime import date
+current_year = str(date.today().year)
+
 # -- Project information -----------------------------------------------------
 
 project = 'The Carpentries Test Beta Handbook'
-copyright = '2022, The Carpentries'
+copyright = '{}, The Carpentries'.format(current_year)
 author = 'The Carpentries'
 
 # The full version, including alpha/beta/rc tags
