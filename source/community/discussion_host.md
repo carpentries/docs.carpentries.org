@@ -71,9 +71,9 @@ This section includes step-by-step guides to support you in your role as a Commu
 
 ### Signing Up to Host a Community Discussion
 
-Please note that this guide is for signing up to host any community discussion **_except Regional Community Calls_**. If you are a Community Coordinator and wish to host a Regional Community Call, please follow the instructions in the [Signing Up to Host a Regional Community Call section](discussion_host.md#signing-up-to-host-a-regional-community-call). To learn more about becoming a Community Coordinator, please visit[the FAQs section](#faq).
+Please note that this guide is for signing up to host any community discussion **_except Regional Community Calls_**. If you are a Community Coordinator and wish to host a Regional Community Call, please follow the instructions in the [Signing Up to Host a Regional Community Call section](discussion_host.md#signing-up-to-host-a-regional-community-call). To learn more about becoming a Community Coordinator, please visit [the FAQs section](#faq).
 
-* Each quarter, communications will be shared from the Community Development Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit   [the Communication and Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces) for instructions on joining one or both of these communication channels.
+* Each quarter, communications will be shared from the Community Development Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit [the Communication and Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces) for instructions on joining one or both of these communication channels.
 
 <table>
   <tr>
