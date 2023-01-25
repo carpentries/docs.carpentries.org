@@ -31,6 +31,7 @@ A community member can serve as a community discussion host for any length of ti
 * Complete [a brief form](https://forms.gle/N74pFuGkRLawpCHh7) following each session you host. **It is important that when you copy attendance into this form, you include the word ‘checkout’ next to the names where it appears in the sign-up on the Etherpad. The Core Team uses this information to record participation in AMY, The Carpentries internal database. This is the primary way future Instructors get credit for completing this checkout step.  **
 
 ### Onboarding
+
 If you are interested in becoming a community discussion host, you can [email the Community Development Team](mailto:community@carpentries.org) to inform them of your interest. They will provide you with the date and time of the next onboarding session. Onboarding sessions are offered in multiple time zones each quarter as a themed community discussion. [A video](https://youtu.be/VrWdzlD2dlE) and [accompanying slides](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing) that include the content covered in the onboarding are available as references to support you as you serve in this role. Once you are onboarded, you may want to first attend a community discussion as an observer or co-host before leading a call as the host. 
 
 ### Offboarding
@@ -41,11 +42,9 @@ If you are no longer interested in serving as a Community Discussion Host, pleas
 
 This section includes a list of communication channels and collaboration spaces that support Community Discussion Hosts. Participants in these spaces are expected to follow The Carpentries [code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). A description of the tools listed can be found in [the community glossary](https://github.com/carpentries/community-development/blob/main/glossary.md). 
 
-
 ### Community Calendar
 
 Once you have scheduled to host a call, a calendar invite will be sent to the email address that you used when signing up. All community discussions will also be listed on our [Community Calendar](https://carpentries.org/community/#community-events). 
-
 
 ### Etherpad
 
@@ -53,7 +52,6 @@ A list of Etherpads relevant to serving as a Community Discussion Host include:
 
 * [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions): This Etherpad contains a list of all upcoming community discussions where community members can sign up to attend and find login information for joining a session.
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of The Carpentries most commonly used Etherpads and other resources.
-
 
 ### Messaging and Communication
 
@@ -63,17 +61,13 @@ Slack is the software platform used by The Carpentries to support synchronous an
 
 If Slack is new to you, our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide) will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
 
-
 ### Mailing List
 
 You can access all The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). The [Community Discussion Host mailing list](https://carpentries.topicbox.com/groups/discussion-hosts) is the one relevant to serving in this role. To join one or more Carpentries mailing lists, you will need to [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can review the list of groups and select “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval).
 
-
-
 ##  Step-by-Step Guides 
 
 This section includes step-by-step guides to support you in your role as a Community Discussion Host. 
-
 
 ### Signing Up to Host a Community Discussion
 
@@ -133,19 +127,14 @@ Please note that this guide is for signing up to host any community discussion *
   </tr>
 </table>
 
-
-
-
 * Community Discussion Hosts will sign up using [Calendly](https://calendly.com/thecarpentries) during the signup period. Calendly allows you to select dates and times in your timezone for the sessions you plan to host. Dates and times already selected will not display. 
 * Once hosts have scheduled themselves for a Community Discussion via Calendly, an automated workflow will add each event to the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) and the [Community Calendar](https://carpentries.org/community/#community-events). Another communication from the Community Development Team will inform hosts when the sessions have been added.
 * In the rare instance that you need to schedule a session outside of the quarterly scheduling period, the Community Discussion Host should complete the [Request to Schedule and Facilitate Carpentries Community Discussion form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). The session is not confirmed until the host is contacted by a member of the Community Development Team.
-
 
 ### Signing Up to Host a Regional Community Call
 
 Community Coordinators are responsible for scheduling and hosting Regional Community Calls. These calls are currently listed, with their date and time, at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) and include a link to where the group records their call notes. If a Community Coordinator is interested in listing a Regional Community Call there and having it added to The Carpentries Community Calendar, they should email [community@carpentries.org](mailto:community@carpentries.org). If they instead want to have the call added to the Community Discussion Etherpad where individuals can sign up to attend and collaboratively take notes, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Discussion Session section of this handbook](#signing-up-to-host-a-community-discussion). This will automatically add the event to the Community Calendar and to the Etherpad. To learn more about becoming a Community Coordinator, please visit 
 [the FAQs section of this handbook](#faq). 
-
 
 ### Checklist for Hosting a Community Discussion
 
@@ -182,10 +171,7 @@ Community discussions use the [Community Discussions Etherpad](https://pad.carpe
 * Take notes or identify someone to take notes.
 * For pre-and post-workshop discussions: If there are more than 5 workshops represented by attendees, we recommend splitting participants into two groups using breakout rooms to make sure everyone has enough time to share. When dividing attendees into two groups, try to balance the number of people who are de-briefing, who are there for pre-workshop help, and who are instructor trainees. [Learn more about how to set up and use breakout rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#creating-breakout-rooms).  
 
-
 #### After the Discussion Session
-
-
 
 * Archive the Etherpad by selecting “Save Revision” (Note: displays as a star in the top right menu).
 * Fill out the [host form](https://forms.gle/N74pFuGkRLawpCHh7).
@@ -194,37 +180,28 @@ Community discussions use the [Community Discussions Etherpad](https://pad.carpe
 * Clear the information from the session (date/time, attendees, notes) from the Etherpad.
 * (Optional) [Write a blog post](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html) about interesting points that came up in discussion.
 
-
 #### Cancelling a Discussion Session
 
 We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event. If this happens, please contact [community@carpentries.org](mailto:community@carpentries.org) as soon as possible so a Core Team member can ensure another host is able to cover the event. You can also post to one or more of the [Communication and Collaboration Spaces](#communication-and-collaboration-spaces) to learn if another host is available to lead the call.
-
 
 ##  Resources 
 
 ### Onboarding Presentation
 
-
 ##### About this resource
 
 _This is the onboarding presentation given during a Community Discussion Host onboarding session._
 
-
-
 * [Onboarding presentation with notes](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing)
 * [Onboarding video](https://youtu.be/VrWdzlD2dlE) 
 
-
 ### Script for Starting a Community Discussion
-
 
 ##### About this resource
 
 _Community Discussion Hosts can use or adapt this script at the start of their community discussion._
 
 Welcome everyone! My name is [insert name], and I am [role and affiliation]. In just a minute, we are going to do a round of introductions, but I want to cover a few logistics before we get started. 
-
-
 
 * We will be using the Etherpad for collaborative note-taking. Everyone is welcome to take notes during the call today, but [name] will also be serving as a designated note-taker.
     * _Host should share the link in chat: [https://pad.carpentries.org/community-discussions](https://pad.carpentries.org/community-discussions)_
@@ -244,18 +221,13 @@ Welcome everyone! My name is [insert name], and I am [role and affiliation]. In 
 
 Does anyone have any questions before we get started?
 
-
 ### Sample Agendas
 
-
 #### Agenda: Pre- and Post-Workshop Discussion Sessions
-
 
 ##### About this resource
 
 _Community Discussion Hosts can use this agenda as a template for pre and post-workshop discussion sessions. All Pre- and Post-Workshop Discussion Sessions are 60 minutes. Hosts are welcomed and encouraged to guide the discussion as they wish; below are some prompts that can be used._
-
-
 
 * Welcome, introductions, and a reminder of Code of Conduct (5 minutes)
     * [Script for starting a community discussion](#script-for-starting-a-community-discussion)
@@ -282,17 +254,13 @@ _Community Discussion Hosts can use this agenda as a template for pre and post-w
         * Example announcement: If they would like to provide feedback on their experience as a participant, they can complete the attendee feedback form. [_share link: [https://goo.gl/forms/aNZhcVnq4iPAz4GE3](https://goo.gl/forms/aNZhcVnq4iPAz4GE3) _]
         * Example announcement: If they are Interested in publishing a blog post about their experiences as a member of the community, they should fill out the form [_share link: [https://forms.gle/eUQoSPRXrsyBibRf8](https://forms.gle/eUQoSPRXrsyBibRf8) _] or email their blog post idea or draft to community@carpentries.org. 
 
-
 #### Agenda: Themed Community Discussions and Community Conversations
-
 
 ##### About this resource
 
 _Community Discussion Hosts can use this agenda as a template for themed community discussions and community conversations._
 
 Most Community Discussions are 60 minutes and can be formatted as follows:
-
-
 
 * [Welcome, Introductions and Code of Conduct](/pages/coc) (5 minutes) 
 * Presentation from the facilitator or presenting group (20 minutes) 
@@ -369,9 +337,7 @@ Notes from all sessions can be taken on the Community Discussions Etherpad and w
 
 A Community Coordinator is a member of the community who serves as the leader of a subcommunity within The Carpentries. This role is being formalized through the Community Development Program. If you are interested in learning more, please email [community@carpentries.org](mailto:community@carpentries.org). 
 
-
 ##  Glossary
-
 
 * Accessibility
 * Blog Post
@@ -392,7 +358,6 @@ A Community Coordinator is a member of the community who serves as the leader of
 * Themed Discussion Session
 * TopicBox
 * Zoom
-
 
 ##  About 
 
