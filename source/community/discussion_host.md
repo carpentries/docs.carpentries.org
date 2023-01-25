@@ -77,15 +77,9 @@ This section includes step-by-step guides to support you in your role as a Commu
 
 ### Signing Up to Host a Community Discussion
 
-Please note that this guide is for signing up to host any community discussion **_except Regional Community Calls_**. If you are a Community Coordinator and wish to host a Regional Community Call, please follow the instructions in the [Signing Up to Host a Regional Community Call section](#heading=h.k3y13et0iyjl). To learn more about becoming a Community Coordinator, please visit[the FAQs section.](#heading=h.r4ij2bie859f)_ _
+Please note that this guide is for signing up to host any community discussion **_except Regional Community Calls_**. If you are a Community Coordinator and wish to host a Regional Community Call, please follow the instructions in the [Signing Up to Host a Regional Community Call section](discussion_host.md#signing-up-to-host-a-regional-community-call). To learn more about becoming a Community Coordinator, please visit[the FAQs section](#faq).
 
-
-
-* Each quarter, communications will be shared from the Community Development Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the Communication and Collaboration Spaces section of this handbook"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the Communication and Collaboration Spaces section of this handbook](#heading=h.heu8vr1gkq1) for instructions on joining one or both of these communication channels.
+* Each quarter, communications will be shared from the Community Development Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit   [the Communication and Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces) for instructions on joining one or both of these communication channels.
 
 <table>
   <tr>
@@ -149,15 +143,8 @@ Please note that this guide is for signing up to host any community discussion *
 
 ### Signing Up to Host a Regional Community Call
 
-Community Coordinators are responsible for scheduling and hosting Regional Community Calls. These calls are currently listed, with their date and time, at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) and include a link to where the group records their call notes. If a Community Coordinator is interested in listing a Regional Community Call there and having it added to The Carpentries Community Calendar, they should email [community@carpentries.org](mailto:community@carpentries.org). If they instead want to have the call added to the Community Discussion Etherpad where individuals can sign up to attend and collaboratively take notes, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Signing Up to Host a Community Discussion Session section of this handbook"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Signing Up to Host a Community Discussion Session section of this handbook](#heading=h.220aesiapg26). This will automatically add the event to the Community Calendar and to the Etherpad. To learn more about becoming a Community Coordinator, please visit 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the FAQs section of this handbook"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the FAQs section of this handbook](#heading=h.r4ij2bie859f). 
+Community Coordinators are responsible for scheduling and hosting Regional Community Calls. These calls are currently listed, with their date and time, at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) and include a link to where the group records their call notes. If a Community Coordinator is interested in listing a Regional Community Call there and having it added to The Carpentries Community Calendar, they should email [community@carpentries.org](mailto:community@carpentries.org). If they instead want to have the call added to the Community Discussion Etherpad where individuals can sign up to attend and collaboratively take notes, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Discussion Session section of this handbook](#signing-up-to-host-a-community-discussion). This will automatically add the event to the Community Calendar and to the Etherpad. To learn more about becoming a Community Coordinator, please visit 
+[the FAQs section of this handbook](#faq). 
 
 
 ### Checklist for Hosting a Community Discussion
@@ -179,15 +166,15 @@ Community discussions use the [Community Discussions Etherpad](https://pad.carpe
     * Zoom provides automatic captioning of calls. Accuracy of captioning may be limited due to factors such as sound quality, accents, dialects, and jargon.
     * [Learn about how to enable automatic captioning.](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services)
 * Confirm that the fellow host is present (if there is one) and who will be leading/taking notes.
-* If relevant, the host can copy the template agendas for all session types from the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) to the space under the sign up for the session. [Template agendas](#heading=h.i9qcivmidv4q) are also available in this handbook. 
+* If relevant, the host can copy the template agendas for all session types from the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) to the space under the sign up for the session. [Template agendas](#sample-agendas) are also available in this handbook. 
 
 
 #### During the Discussion Session
 
 
 
-* Use or adapt the [Script for Starting a Community Discussion](#heading=h.h7ak1zqn9dgq).
-* If relevant, follow the sample agendas provided at the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) and also available in the [resources section of this handbook](#heading=h.vmvayfjut5l9). 
+* Use or adapt the [Script for Starting a Community Discussion](#script-for-starting-a-community-discussion).
+* If relevant, follow the sample agendas provided at the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) and also available in the [resources section of this handbook](#resources). 
     * We recommend following the main points of the agenda, but you can let the discussion go where people want. Not all the questions need to be answered by everyone.
     * The host should not feel like they have to answer all the questions. They should draw on the other discussion participants to answer each other’s questions.
     * If someone is attending as part of their training checkout, prompt them to ask a question.
@@ -210,7 +197,7 @@ Community discussions use the [Community Discussions Etherpad](https://pad.carpe
 
 #### Cancelling a Discussion Session
 
-We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event. If this happens, please contact [community@carpentries.org](mailto:community@carpentries.org) as soon as possible so a Core Team member can ensure another host is able to cover the event. You can also post to one or more of the [Communication and Collaboration Spaces](#heading=h.heu8vr1gkq1) to learn if another host is available to lead the call.
+We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event. If this happens, please contact [community@carpentries.org](mailto:community@carpentries.org) as soon as possible so a Core Team member can ensure another host is able to cover the event. You can also post to one or more of the [Communication and Collaboration Spaces](#communication-and-collaboration-spaces) to learn if another host is available to lead the call.
 
 
 ##  Resources 
@@ -271,7 +258,7 @@ _Community Discussion Hosts can use this agenda as a template for pre and post-w
 
 
 * Welcome, introductions, and a reminder of Code of Conduct (5 minutes)
-    * [Script for starting a community discussion](#heading=h.h7ak1zqn9dgq)
+    * [Script for starting a community discussion](#script-for-starting-a-community-discussion)
     * Attendee introductions
         * Name, affiliation/position, motivation for attending
 * Participants report out from previous workshops they led (10 minutes)
@@ -307,7 +294,7 @@ Most Community Discussions are 60 minutes and can be formatted as follows:
 
 
 
-* [Welcome, Introductions and Code of Conduct](#heading=h.4oenbsj3fgx) (5 minutes) 
+* [Welcome, Introductions and Code of Conduct](/pages/coc) (5 minutes) 
 * Presentation from the facilitator or presenting group (20 minutes) 
 * Small group breakout sessions for discussion questions from the facilitator (15 minutes)
 * Recap in the main room to discuss responses to questions (10 minutes)
@@ -328,11 +315,7 @@ It is totally fine if you do not know all the answers. This is a great time to d
 
 **What if the host/co-host has a poor internet connection and is unable to communicate? What if Zoom fails to work (e.g. your internet connection fails)?**
 
-It is very important to test your internet connection beforehand and to make sure that you as a host are able to communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "our communication channels"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[our communication channels](#heading=h.heu8vr1gkq1) to find out if someone could take over as host for the session. 
+It is very important to test your internet connection beforehand and to make sure that you as a host are able to communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via [our communication channels](#communication-and-collaboration-spaces) to find out if someone could take over as host for the session. 
 
 **What if no one shows up?**
 
@@ -413,4 +396,4 @@ A Community Coordinator is a member of the community who serves as the leader of
 
 ##  About 
 
-The Community Discussion Host Handbook is a resource for members of The Carpentries community who are serving as a Community Discussion Host. This handbook provides information on how to receive relevant communications and includes step-by-step guides for serving in this role. The Carpentries Community Development Team manages the content of this handbook. To provide feedback, please email [community@carpentries.org](mailto:community@carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our Glossary of Terms.
+The Community Discussion Host Handbook is a resource for members of The Carpentries community who are serving as a Community Discussion Host. This handbook provides information on how to receive relevant communications and includes step-by-step guides for serving in this role. The Carpentries Community Development Team manages the content of this handbook. To provide feedback, please email [community@carpentries.org](mailto:community@carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our [Glossary of Terms](#glossary).
