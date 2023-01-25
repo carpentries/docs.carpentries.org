@@ -6,6 +6,8 @@ title: "Instructors"
 
 ##  Description  
 
+Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
+
 Lemon drops halvah apple pie halvah pudding muffin. Cupcake chupa chups tart fruitcake chocolate cake apple pie soufflé powder. Icing donut chocolate candy canes danish sesame snaps macaroon. Macaroon sugar plum gummies gummies jelly beans topping. 
 
 ##  Communication
