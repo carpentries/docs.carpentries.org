@@ -45,4 +45,8 @@ After setting the theme, the additional following changes were needed to `conf.p
 * Add an empty `.nojekyll` file to the `docs` folder to enable the build on GitHub pages
 * Add GitHub identifies to `html_context`. This is supposed to enable the "Edit on GitHub" button, but does not work.
 * Add navbar and sidebar settings to `html_context`
+* To use headers as anchor links, add `myst_heading_anchors = 6` to conf.py
 
+## Previews on Netlify
+
+This site is set up to preview all pull requests via [Netlify](https://app.netlify.com/sites/carpentries-beta-handbook-preview/overview). [Section needs updating.]
