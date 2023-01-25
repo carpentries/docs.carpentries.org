@@ -26,6 +26,22 @@ Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are i
 
 Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are them called in `html_theme_options[navbar_center]` in `conf.py`. 
 
+## Editing anchor links
+
+An anchor link will link to another section of the page you are on (as opposed to going to a different page).  Anchor links can be derived from section header titles (beginning with 1-6 `#` signs in markdown).  The anchor link text is a single `#` sign followed by the section header text, in all lowercase, with spaces replaced by hyphens.
+
+For example, this header:
+
+```
+## Welcome to The Carpentries
+```
+
+could be linked to in markdown as follows:
+
+```
+Read more by reviewing our [welcome page](#welcome-to-the-carpentries).
+```
+
 ## Building the handbook
 
 The handbook is built using Sphinx and the `pydata_sphinx_theme`.
