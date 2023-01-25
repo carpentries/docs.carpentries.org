@@ -38,6 +38,10 @@ extensions = [
     'myst_parser'
 ]
 
+# Needed to use headings as anchor links
+# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#auto-generated-header-anchors
+myst_heading_anchors = 6
+
 # The suffix of source filenames.
 source_suffix = [".rst", ".md"]
 
