@@ -49,4 +49,4 @@ After setting the theme, the additional following changes were needed to `conf.p
 
 ## Previews on Netlify
 
-This site is set up to preview all pull requests via Netlify. [Section needs updating.]
+This site is set up to preview all pull requests via [Netlify](https://app.netlify.com/sites/carpentries-beta-handbook-preview/overview). [Section needs updating.]
