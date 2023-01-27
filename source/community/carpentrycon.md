@@ -6,12 +6,12 @@ title: "Virtual CarpentryCon Handbook"
 
 ## Description of CarpentryCon
 
-CarpentryCon is The Carpentries key biennial community-building and networking event that brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities. **_This handbook details what is needed to run a fully virtual event with a focus on accessibility and inclusivity. _**A handbook detailing a hybrid event will be developed and made available at a later time.  
+CarpentryCon is The Carpentries key biennial community-building and networking event that brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities. This handbook details what is needed to run a fully virtual event with a focus on accessibility and inclusivity. A handbook detailing a hybrid event will be developed and made available at a later time.  
 
 
 ### Roles and Responsibilities of Committee Members
 
-The CarpentryCon Committee for a virtual event should include no more than ten community members and two primary Core Team liaisons. To support planning across time zones, there should be an Eastern Committee and Western Committee that has members located in time zones within the eastern and western hemispheres. Each group will include individuals serving in the following roles:[Committee Chair](#chairs), [Program Lead](#program-lead), [Communications Lead](#communications-lead),[Accessibility Lead](#accessibility-lead), and [Core Team Liaison](#core-team-members). 
+The CarpentryCon Committee for a virtual event should include no more than ten community members and two primary Core Team liaisons. To support planning across time zones, there should be an Eastern Committee and Western Committee that has members located in time zones within the eastern and western hemispheres. Each group will include individuals serving in the following roles: [Committee Chair](#chairs), [Program Lead](#program-lead), [Communications Lead](#communications-lead), [Accessibility Lead](#accessibility-lead), and [Core Team Liaison](#core-team-members). 
 
 This section of the handbook includes the roles and responsibilities of each committee member with a link to relevant guides and resources and the time commitment required. All time estimates are approximated based on implementation of past events.
 
@@ -403,7 +403,7 @@ Members of the Core Team support all aspects of conference planning and implemen
    </td>
   </tr>
   <tr>
-   <td>Create data collection instruments (Resources: [Post Conference Survey](#post-conference-survey), [Committee Member Feedback Form(#committee-member-feedback-form)) 
+   <td>Create data collection instruments (Resources: [Post Conference Survey](#post-conference-survey), [Committee Member Feedback Form](#committee-member-feedback-form)) 
    </td>
    <td>2 hours
    </td>
@@ -441,7 +441,7 @@ Members of the Core Team support all aspects of conference planning and implemen
    </td>
   </tr>
   <tr>
-   <td>Set up and support maintenance of conference website (Resource: <a href="https://github.com/carpentrycon/carpentrycon2022">GitHub Repository</a>)
+   <td>Set up and support maintenance of conference website (Resource: [GitHub Repository](#conference-website))
    </td>
    <td>4 hours to set up; 4 hours / month maintenance 
    </td>
@@ -483,7 +483,7 @@ The following tasks need to be completed by the Core Team liaisons to onboard ne
 * Tasks to complete before onboarding Committee members at their first meeting.
     * Set up a project in Asana using the CarpentryCon template. Make adjustments as needed.
     * Set up a Google drive folder with relevant files, copying over templates from previous years.
-    * Set up a mailing list for the committee and Core Team liaisons. Only have **one mailing list **or other communication channel to increase transparency and streamline communications. 
+    * Set up a mailing list for the committee and Core Team liaisons. Only have **one mailing list** or other communication channel to increase transparency and streamline communications. 
 * Schedule a one-hour meeting for east and west Committee members. You will likely need to have two meetings.
     * You can adapt the [CarpentryCon 2022 Committee Onboarding Presentation](#carpentrycon-2022-committee-onboarding-presentation).
     * In the meeting, you should inform committee members that you will be adding them to the Asana project, Google drive folder, and the mailing list. Do not send invitations to Committee members before this meeting to avoid confusion. This will ensure they know to watch out for communications to join these various platforms and how they will be used.
