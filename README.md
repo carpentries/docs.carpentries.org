@@ -91,3 +91,9 @@ After setting the theme, the additional following changes were needed to `conf.p
 ## Previews on Netlify
 
 This site is set up to preview all pull requests via [Netlify](https://app.netlify.com/sites/carpentries-beta-handbook-preview/overview). [Section needs updating.]
+
+## Useful links
+
+* [Pydata Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
+* [General Sphinx Documentation](https://www.sphinx-doc.org/en/master/usage/configuration.html#module-conf)
+
