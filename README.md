@@ -42,6 +42,31 @@ could be linked to in markdown as follows:
 Read more by reviewing our [welcome page](#welcome-to-the-carpentries).
 ```
 
+### Translating Google Docs to Markdown
+
+If you use a tool to convert a Google Doc to Markdown, headers may not get generated properly.  You may see content like in your generated `.md` file:
+
+```
+Visit 
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the Communication and Collaboration Spaces section of this handbook"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[the Communication and Collaboration Spaces section of this handbook](#heading=h.heu8vr1gkq1) for instructions on joining one or both of these communication channels.
+```
+
+This can be edited to the necessary syntax by doing the following: 
+
+* removing all content inside and including `<p>...</p>`
+* Replacing the `(#heading...)` with `(#name-of-linked-heading)` following the convention described above.  
+* Remove extra white space
+
+The above content would then look like this:
+
+```
+Visit [the Communication and Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces) for instructions on joining one or both of these communication channels.
+```
+
+
 ## Building the handbook
 
 The handbook is built using Sphinx and the `pydata_sphinx_theme`.
