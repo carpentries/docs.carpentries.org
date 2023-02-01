@@ -66,6 +66,14 @@ The above content would then look like this:
 Visit [the Communication and Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces) for instructions on joining one or both of these communication channels.
 ```
 
+## Using Images
+
+Images should be stored in each handbook section's folder in a folder called `img`.  Images can be inserted into the markdown file using the following syntax. 
+
+```
+![Alt text goes here](./img/filename.png)
+```
+
 
 ## Building the handbook
 
