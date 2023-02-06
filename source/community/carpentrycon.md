@@ -572,8 +572,6 @@ A website for each year’s CarpentryCon will be created and administered throug
 
 ## Step-by-Step Guides
 
-Please add step-by-step guides to follow when doing tasks associated with this role. This may also include checklists.
-
 
 ### Adding Committee Members to Mailing List
 
@@ -620,7 +618,7 @@ Please add step-by-step guides to follow when doing tasks associated with this r
 
 
 
-1. The Program Chairs and other Committee members should identify potential keynote speakers, considering the event theme and review criteria listed in the README tab of [TEMPLATE: Keynote Presenter Review](#template-keynote-presenter-review).
+1. The Program Chairs and other Committee members should identify potential keynote speakers, considering the event theme and review criteria listed in the README tab of [TEMPLATE: Keynote Presenter Review](#template:-keynote-presenter-review).
 2. Once identified, the Program Chairs should record the relevant information into the speaker review tab of the template (i.e., Speaker Recommendation, URL, Speaker Fee) and any notes you would like the Committee Chairs to know as part of their review.
 3. The Committee Chairs should review the speakers recommended following the guidelines in the README tab of the template. 
 4. Following the review, Committee Chairs will [send invitation letters](#template:-keynote-speaker-invitation-letter) to those identified with a “yes” in the “Invite?” column. Those listed as “backups” should be invited only if one or more of the primary invitees are unable to attend the event. 
@@ -638,26 +636,26 @@ Please add step-by-step guides to follow when doing tasks associated with this r
 3. Any submission not including all required content should be automatically rejected.
 4. Each proposal should be assigned a minimum of two reviewers, with a third review brought in if the first two reviewers disagree on whether a proposal should be accepted.
 5. The following criteria should be considered by all reviewers. Each criterion should be given a score of 1 to indicate if a proposal is not ready, 2 if the proposal has potential and 3 if the proposal is a good fit. It is up to the discretion of the Program Leads, in consultation with other Committee members, as to whether to request an updated proposal for those submissions initially rejected. 
-    4. Level of Preparation
+    1. Level of Preparation
         1. 1 (not ready) The proposal is unclear or not well developed
         2. 2 (has potential) The proposed session needs minor revisions to meet carpentries’ expectations and available evidence of expertise suggests the applicant can do so successfully
         3. 3 (good fit) The applicant’s proposal and other evidence of expertise suggests they understand how their session fits into the event and can make an achievable contribution with the session
-    5. Scope of Session
-        4. 1 (not ready) Scope of session is either too broad to be reasonably covered in session, or too narrow to reasonably fill any of the conference session types
-        5. 2 (has potential) Scope is clear but may need tailoring to fit in conference sessions
-        6. 3 (good fit) Scope of planned material fits well within the framework of conference sessions
-    6. Fit with theme
-        7. 1 (not ready) The proposal is not well aligned or too vague to determine if it fits the theme of “Expanding data frontiers”
-        8. 2 (has potential) Has potential to be valuable and could be appropriate for theme, with revision or elaboration
-        9. 3 (good fit) Proposed topic resonates/fits well with the conference theme and is likely to help wider community
-    7. Fit with Carpentries’ mission and values
-        10. 1 (not ready) Value of session is unclear, misaligned, or in conflict with Carpentries’ mission and values
-        11. 2 (has potential) Session does not conflict with Carpentries’ mission and values, has potential to advance them with refinement
-        12. 3 (good fit) Proposed topic clearly upholds and/or advances Carpentries’ mission and values
-    8. Openness to collaboration
-        13. 1 (not ready) Seems closed to collaborative ways of working
-        14. 2 (has potential) Seems open to involving others but without clear ways of doing so
-        15. 3 (good fit) Sees value in involving others and proposes workable ways of engagement
+    2. Scope of Session
+        1. 1 (not ready) Scope of session is either too broad to be reasonably covered in session, or too narrow to reasonably fill any of the conference session types
+        2. 2 (has potential) Scope is clear but may need tailoring to fit in conference sessions
+        3. 3 (good fit) Scope of planned material fits well within the framework of conference sessions
+    3. Fit with theme
+        1. 1 (not ready) The proposal is not well aligned or too vague to determine if it fits the theme of “Expanding data frontiers”
+        2. 2 (has potential) Has potential to be valuable and could be appropriate for theme, with revision or elaboration
+        3. 3 (good fit) Proposed topic resonates/fits well with the conference theme and is likely to help wider community
+    4. Fit with Carpentries’ mission and values
+        1. 1 (not ready) Value of session is unclear, misaligned, or in conflict with Carpentries’ mission and values
+        2. 2 (has potential) Session does not conflict with Carpentries’ mission and values, has potential to advance them with refinement
+        3. 3 (good fit) Proposed topic clearly upholds and/or advances Carpentries’ mission and values
+    5. Openness to collaboration
+        1. 1 (not ready) Seems closed to collaborative ways of working
+        2. 2 (has potential) Seems open to involving others but without clear ways of doing so
+        3. 3 (good fit) Sees value in involving others and proposes workable ways of engagement
 6. Reviewers are also asked whether they would recommend an application. The available answers are "No", "Yes", "Unsure" or "Wild-Card/Red-Flag (request to discuss)". Proposals who have ratings of "No" or "Unsure" across all reviewers will be rejected. All other candidates will be discussed at the panel selection.
 7. Section should be included for reviewers to write comments if needed. 
 8. We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the selection panel discussion.
@@ -701,7 +699,7 @@ There are many ways that someone can pull together the program and schedule once
 
 ### Conducting Conference Evaluation 
 
-**Prior to the start of event planning: **
+**Prior to the start of event planning:**
 
 
 
@@ -720,17 +718,17 @@ There are many ways that someone can pull together the program and schedule once
             * Social Media engagement from Twitter, YouTube, etc. 
             * Net promoter score and others from Survey 
 
-**One month prior to the start of the event: **
+**One month prior to the start of the event:**
 
 
 
 3. Create/adapt survey questions and build survey in Typeform. Review [previous year’s survey](#post-conference-survey) in Typeform.  
 
-        **Note. **Where possible, use questions from previous years’ surveys. This will: (1) allow for comparisons across years, (2) save time as previous surveys can be duplicated in Typeform and R scripts can be reused to analyse data. 
+        **Note. Where possible, use questions from previous years’ surveys. This will: (1) allow for comparisons across years, (2) save time as previous surveys can be duplicated in Typeform and R scripts can be reused to analyse data.** 
 
 4. Create/adapt a form to collect feedback from Committee members. Review [previous year’s form](#committee-member-feedback-form). 
 
-**Two weeks prior to the start of the event: **
+**Two weeks prior to the start of the event:**
 
 
 
@@ -741,7 +739,7 @@ There are many ways that someone can pull together the program and schedule once
     3. Send an email to attendees on the last day of the conference
     4. Send a follow up/reminder email when you see responses start to slow down (about 3 days later) 
 
-**After the event: **
+**After the event:**
 
 
 
