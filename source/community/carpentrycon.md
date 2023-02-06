@@ -772,7 +772,7 @@ There are many ways that someone can pull together the program and schedule once
 
 ##### About this resource
 
-_Timeline for major activities happening each month during conference planning. _
+_Timeline for major activities happening each month during conference planning._
 
 MONTH 0-1
 
@@ -922,7 +922,10 @@ _Links to external resources that can support planning for CarpentryCon._
 * [OpenCider](https://www.opencider.org/what-we-do/resources/tools-and-computational-infrastructure)
 * [The Future of Meetings](https://thefutureofmeetings.wordpress.com/)
 * [The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources)](https://discover-cookbook.numfocus.org/)
-* Add CSCCE resources
+* [CSCCE A guide to using virtual events to facilitate community building: Curated resources](https://zenodo.org/record/4270106#.Y-GCHOzMI-Q)
+* [CSCCE A guide to using virtual events to facilitate community building: Event formats](https://zenodo.org/record/3934385#.Y-GCRuzMI-Q)
+* [CSCCE A guide to using virtual events to facilitate community building: Making a PACT for more engaging virtual meetings and events](https://zenodo.org/record/4987666#.Y-GCf-zMI-Q)
+* [CSCCE A guide to using virtual events to facilitate community building: Selecting and testing online tools](https://zenodo.org/record/4521211#.Y-GCouzMI-Q)
 
 
 #### Email Templates for Committee Members
