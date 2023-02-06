@@ -514,14 +514,12 @@ This section includes a list of communication channels and collaboration spaces 
 
 ### Task Management
 
-Until an open source platform is identified that supports the committee’s task management needs, Asana will be used. Asana is a project management tool used by The Carpentries Core Team that allows access to external project contributos. All members of the Committee will be added to the CarpentryCon Asana project for that year and be given an overview of the tool as part of onboarding. The project will include a list of tasks to complete, an assignee to each task, and a deadline. Weekly updates will be posted to the project by a Core Team liaison to ensure the project stays on track. 
+Until an open source platform is identified that supports the committee’s task management needs, Asana will be used. Asana is a project management tool used by The Carpentries Core Team that allows access to external project contributors. All members of the Committee will be added to the CarpentryCon Asana project for that year and be given an overview of the tool as part of onboarding. The project will include a list of tasks to complete, an assignee to each task, and a deadline. Weekly updates will be posted to the project by a Core Team liaison to ensure the project stays on track. 
 
 
 ### Collaborative Notetaking
 
-Etherpads are used for collaborative notetaking for the Committee and for a space to take notes during CarpentryCon sessions. You will need to follow the instructions for [creating an Etherpad for the Committee meetings](#setting-up-etherpad-for-committee-meetings) and 
-
-[creating Etherpads for CarpentryCon sessions](#setting-up-conference-session-etherpads) found in the step-by-step guides. Once the Etherpads have been created for each year, they should be linked here. 
+Etherpads are used for collaborative notetaking for the Committee and for a space to take notes during CarpentryCon sessions. You will need to follow the instructions for [creating an Etherpad for the Committee meetings](#setting-up-etherpad-for-committee-meetings) and [creating Etherpads for CarpentryCon sessions](#setting-up-conference-session-etherpads) found in the step-by-step guides. Once the Etherpads have been created for each year, they should be linked here. 
 
  
 
