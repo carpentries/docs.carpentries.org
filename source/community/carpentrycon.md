@@ -722,9 +722,7 @@ There are many ways that someone can pull together the program and schedule once
 
 
 
-3. Create/adapt survey questions and build survey in Typeform. Review [previous year’s survey](#post-conference-survey) in Typeform.  
-
-        **Note. Where possible, use questions from previous years’ surveys. This will: (1) allow for comparisons across years, (2) save time as previous surveys can be duplicated in Typeform and R scripts can be reused to analyse data.** 
+3. Create/adapt survey questions and build survey in Typeform. Review [previous year’s survey](#post-conference-survey) in Typeform. **Note. Where possible, use questions from previous years’ surveys. This will: (1) allow for comparisons across years, (2) save time as previous surveys can be duplicated in Typeform and R scripts can be reused to analyse data.** 
 
 4. Create/adapt a form to collect feedback from Committee members. Review [previous year’s form](#committee-member-feedback-form). 
 
@@ -972,7 +970,7 @@ _Guidelines to be sent to all presenters to improve the accessibility of present
 
 ##### About this resource
 
-_This audit was conducted by the Accessibility Manager for The Carpentries for CarpentryCon 2022. It assessed the accessibility of all platforms used for the event, including Zoom, Etherpad, and YouTube. _
+_This audit was conducted by the Accessibility Manager for The Carpentries for CarpentryCon 2022. It assessed the accessibility of all platforms used for the event, including Zoom, Etherpad, and YouTube._
 
 Context
 
@@ -1020,7 +1018,7 @@ Users can choose background and font text and colour.
 
 Related to videos on YouTube, captions can be added to videos and in a variety of languages. Youtube also has automated captions that can help provide a transcript of a file and then be edited for accuracy. It is The Carpentries practice to add captions in at least one language. 
 
-During the Conference_ _
+During the Conference
 
 To support accessibility during CarpentryCon we provide Sign Language interpreters for the Keynote sessions and would have provided them for other sessions as requested. All sessions were closed captioned in English. Spanish translation was provided as requested. There was one keynote presented in Spanish, this was captioned in Spanish and English and Interpreted into American Sign Language.
 
@@ -1079,7 +1077,7 @@ Please let me know if you have any questions.
 
 ##### About this resource
 
-_Template for communications templates to share with the community to help spread the word about CarpentryCon. _
+_Template for communications templates to share with the community to help spread the word about CarpentryCon._
 
 **General Blurb**
 
@@ -1179,7 +1177,7 @@ Learn more about the types of proposals we are seeking in this blog post [LINK].
 
 ##### About this resource
 
-_Template for generating a communications schedule around significant activities surrounding CarpentryCon. _
+_Template for generating a communications schedule around significant activities surrounding CarpentryCon._
 
 
 
@@ -1194,7 +1192,7 @@ _Template for generating a communications schedule around significant activities
 
 ##### About this resource
 
-_Google Sheets template that can be used for selecting keynote presenters to invite to the conference. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well. _
+_Google Sheets template that can be used for selecting keynote presenters to invite to the conference. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well._
 
 
 
@@ -1206,7 +1204,7 @@ _Google Sheets template that can be used for selecting keynote presenters to inv
 
 ##### About this resource
 
-_Template letter that can be used for sending invitations to potential keynote speakers. _
+_Template letter that can be used for sending invitations to potential keynote speakers._
 
 Dear [NAME],
 
@@ -1248,7 +1246,7 @@ _Google Form template that can be used to collect CarpentryCon proposal submissi
 
 ##### About this resource
 
-_Email templates that can be used for contacting individuals who submitted a proposal for CarpentryCon about the decision of the review panel. _
+_Email templates that can be used for contacting individuals who submitted a proposal for CarpentryCon about the decision of the review panel._
 
 **Email Template for Session Proposal Acceptance**
 
@@ -1306,7 +1304,7 @@ The CarpentryCon Committee
 
 ##### About this resource
 
-_Google Form template that can be used for confirming the date and time scheduled for a session with the session leads. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well. _
+_Google Form template that can be used for confirming the date and time scheduled for a session with the session leads. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well._
 
 
 
@@ -1318,7 +1316,7 @@ _Google Form template that can be used for confirming the date and time schedule
 
 ##### About this resource
 
-_Google Sheet to support developing a schedule for the program across three primary time blocks. Please copy the spreadsheet to use for each year of the event. _
+_Google Sheet to support developing a schedule for the program across three primary time blocks. Please copy the spreadsheet to use for each year of the event._
 
 
 
@@ -1391,7 +1389,7 @@ Thanks again for your support of CarpentryCon. We look forward to welcoming you 
 
 ###### About this resource
 
-_Example email sent to session leads reminding them to upload their session materials to make the event more accessible. _
+_Example email sent to session leads reminding them to upload their session materials to make the event more accessible._
 
 Hey CarpentryCon Session Leads and Co-Leads,
 
@@ -1405,7 +1403,7 @@ Many thanks, The CarpentryCon Committee
 
 ###### About this resource
 
-_Example email sent to session leads one week prior to the start of the event. _
+_Example email sent to session leads one week prior to the start of the event._
 
 Hey CarpentryCon Session Leads and Co-Leads,
 
@@ -1444,7 +1442,7 @@ _This Etherpad template should be used when [setting up conference session Ether
 
 ##### About this resource
 
-_A template to use for conference registration. This form is also available to members of the Core Team in Eventbrite. _
+_A template to use for conference registration. This form is also available to members of the Core Team in Eventbrite._
 
 Please complete the information requested below to register to attend CarpentryCon [YEAR]. Sessions will be held virtually throughout the day in multiple time zones from [DATES OF EVENT]. Registration is free and will be open the day up until the event, [REGISTRATION DEADLINE]. The program and schedule are available on the conference website [CONFERENCE WEBSITE]. If you need any support completing this form, would like to view the form in another language, or have any questions, please email [carpentrycon@carpentries.org](mailto:carpentrycon@carpentries.org).
 
@@ -1536,7 +1534,7 @@ There is no registration fee for attending CarpentryCon. We are accepting donati
 
 ###### About this resource
 
-_Email communication sent to registrants two weeks from the start of CarpentryCon 2022. _
+_Email communication sent to registrants two weeks from the start of CarpentryCon 2022._
 
 	
 
@@ -1568,7 +1566,7 @@ The CarpentryCon Committee
 
 ###### About this resource
 
-_Email communication sent to registrants requesting they take the post conference survey. _
+_Email communication sent to registrants requesting they take the post conference survey._
 
 		
 
@@ -1713,7 +1711,7 @@ _Report summarizing findings from evaluation of CarpentryCon 2022._
 
 ##### About this resource
 
-_This is the post conference survey distributed to those who registered for CarpentryCon in 2022. Surveys are available in TypeForm. _
+_This is the post conference survey distributed to those who registered for CarpentryCon in 2022. Surveys are available in TypeForm._
 
 
 
@@ -1818,7 +1816,7 @@ Thanks for providing input on your CarpentryCon experience!
 
 ##### About this resource
 
-_[R script](https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R) used to analyse the 2022 Post Conference Survey and produce the figures for the 2022 CarpentryCon Evaluation Report. _
+_[R script](https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R) used to analyse the 2022 Post Conference Survey and produce the figures for the 2022 CarpentryCon Evaluation Report._
 
 
 
@@ -1830,7 +1828,7 @@ _[R script](https://github.com/carpentries/assessment/blob/main/carpentrycon/202
 
 ##### About this resource
 
-_Google Form distributed to Committee members to get feedback on their experience supporting CarpentryCon. _
+_Google Form distributed to Committee members to get feedback on their experience supporting CarpentryCon._
 
 
 
@@ -1873,11 +1871,7 @@ You can record your video using Zoom and download the recording directly from yo
 
 **How much time will I have to invest in this role?**
 
-The amount of time required for all the primary duties of each Committee member role is included in the 
-
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Roles and Responsibilities section of this handbook"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Roles and Responsibilities section of this handbook](#heading=h.cfpn7zd12am3).
+The amount of time required for all the primary duties of each Committee member role is included in the [Roles and Responsibilities section of this handbook](#roles-and-responsibilities-of-committee-members).
 
 **What are the areas I can be involved in?**
 
