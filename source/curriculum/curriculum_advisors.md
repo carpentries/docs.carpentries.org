@@ -2,66 +2,8 @@
 title: "Curriculum Advisors"
 ---
 
-# Curriculum Advisors
+# Curriculum Advisors Handbook
 
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 3
-* WARNINGs: 0
-* ALERTS: 3
-
-Conversion time: 1.78 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Mon Feb 06 2023 13:14:28 GMT-0800 (PST)
-* Source doc: Curriculum Advisor Handbook
-
-ERROR:
-undefined internal link to this URL: "#heading=h.wzxzlela8d3g".link text: email template
-?Did you generate a TOC with blue links?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.ow005373mkfj".link text: email template
-?Did you generate a TOC with blue links?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.us0jz28uydpu".link text: email template
-?Did you generate a TOC with blue links?
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 3; WARNINGs: 0; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-Curriculum Advisor Handbook
-
-
-[TOC]
-
-
-
-## 
 
 
 ## Description of Role
@@ -92,8 +34,8 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Prepare agenda for regular meetings, including time estimates for each item.
 * Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
 * Assign meeting roles.
-* Serve as primary point of contact for Maintainers
-* Review lesson repositories for instances where the CAC is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
+* Serve as primary point of contact for Maintainers.
+* Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
 * Generally review lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
 * Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and Maintainers in contact with CAC members who will assist with implementation.
 * Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit a replacement if needed.
@@ -130,21 +72,21 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 
 
 * CAC recruitment takes place annually, based on term limits and turnover within committees.
-* Rounds of recruitment will be announced on[ The Carpentries blog](https://carpentries.org/blog/).
+* Rounds of recruitment will be announced on [The Carpentries blog](https://carpentries.org/blog/).
 * Volunteers will be asked to apply for the role by filling in a short webform describing their expertise and motivation for joining a committee.
-* Templates and workflows for CAC recruitment and onboarding are maintained in[ the Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
+* Templates and workflows for CAC recruitment and onboarding are maintained in [the Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
 * Onboarding aims to provide new Curriculum Advisors with context for the role and how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
 * Onboarding for Curriculum Advisors takes place in two parts:
     1. A general onboarding for all Curriculum Advisors
     2. An additional onboarding for the committee officers (_Roles and responsibilities_)
 * Both onboardings are delivered by the Curriculum Team over Zoom, with the possibility to be onboarded through a recording of the sessions available for those who cannot attend synchronously.
 * Onboarding slides:
-    3. [general onboarding slides](https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing)
-    4. [officer onboarding slides](https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing)
+    1. [general onboarding slides](https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing)
+    2. [officer onboarding slides](https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing)
 * After these onboarding sessions, Curriculum Advisors should complete the following steps:
-    5. [Log into AMY](https://amy.carpentries.org/) with GitHub credentials and update their profile.
+    1. [Log into AMY](https://amy.carpentries.org/) with GitHub credentials and update their profile.
         * When updating their AMY profile, it is essential that Advisors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
-    6. Join the mailing list for their committee on[ The Carpentries TopicBox](https://carpentries.topicbox.com/groups). CAC mailing lists are named with the prefix “curriculum-advisors-“.
+    6. Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups). CAC mailing lists are named with the prefix “curriculum-advisors-“.
         * These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
     7. Subscribe to notifications from the GitHub repositories for the lessons in their curriculum.
         * This is only _required_ for CAC chairs, but is recommended for all Curriculum Advisors as a way to stay up-to-date about discussions and developments taking place on their curriculum.
