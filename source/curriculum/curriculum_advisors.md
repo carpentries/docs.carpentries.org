@@ -126,7 +126,7 @@ Each Curriculum Advisory Committee will meet at least quarterly, and preferably 
 
 ### GitHub Repositories
 
-These repositories serve as a public record of meeting notes and decisions made by each of the following Curriculum Advisory Committees (CACs).
+These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
 
 
 
