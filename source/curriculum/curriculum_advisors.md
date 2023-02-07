@@ -197,11 +197,7 @@ Below is a step-by-step guide to support you in your role as a Curriculum Adviso
 
 
 * [Secretary] Create availability poll using whenisgood (or similar service). Be sure to enable the “use timezones” feature.
-* [Secretary] Start scheduling the meeting using the 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "email template"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[email template](#heading=h.wzxzlela8d3g).
+* [Secretary] Start scheduling the meeting using the [email template](#scheduling-a-meeting).
 * [Secretary] Determine the best meeting time (or two if needed) from the availability poll. Create an event time announcement using TimeandDate (or similar service). Include event time announcement link in all communications about meeting times.
 * [Secretary] Set up a meeting room with Zoom (or similar service). If you need a room provided by The Carpentries, contact [The Carpentries](mailto:team@carpentries.org).
 * [Secretary] Set up Etherpad. For the first meeting, create Etherpad by visiting your desired URL starting with https://pad.carpentries.org/ (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
@@ -211,11 +207,7 @@ Below is a step-by-step guide to support you in your role as a Curriculum Adviso
     * Meeting roles (leave blank for Chair to fill in)
     * Agenda (leave blank for Chair to fill in)
 * [Secretary] Send meeting invitations on Google Calendar. Include Etherpad and Zoom connection link in invite.
-* [Secretary] Send meeting announcement using this 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "email template"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[email template](#heading=h.ow005373mkfj).
+* [Secretary] Send meeting announcement using this [email template](#meeting-announcement).
 * [Chair] Determine meeting roles using a [randomizer](http://random.com) or something similar 
 * [Chair] Create agenda on Etherpad, collecting agenda items from:
 * Issues and pull requests tagged to the CAC on GitHub.
@@ -224,11 +216,7 @@ Below is a step-by-step guide to support you in your role as a Curriculum Adviso
     * Other agenda items brought to Chair by CAC members.
     * Each agenda item should include links to relevant conversations or information, as well as an approximate length of time for discussion. Notify Secretary when agenda is ready to share.
 * [Chair] Maintain open agenda items as issues to the CAC GitHub repository. Update these with links to relevant conversations (e.g. tagging other issues in various lessons, or copying in emails from community members), re-opening/closing issues as needed.
-* [Secretary] Send meeting reminder using this 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "email template"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[email template](#heading=h.us0jz28uydpu).
+* [Secretary] Send meeting reminder using this [email template](#meeting-reminder).
 * [Chair] Ensure that meeting proceeds smoothly using the assigned meeting roles.
 * [Secretary] Compile meeting minutes from notes. Add minutes as a PR to the GH repository using file format MONTH-minutes.md. Include in minutes:
     * Date and time of meeting
