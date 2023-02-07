@@ -57,14 +57,6 @@ If the developers wish to remove the lesson from The Carpentries Incubator, the 
 
 
 
-* Slack:
-    * <span style="text-decoration:underline;">The [#lesson-dev channel on The Carpentries Slack workspace](https://swcarpentry.slack.com/archives/C3KUTT5V3)</span> is a platform for the whole community to ask questions and engage in discussions around the subject of lesson development.
-    * We recommend that Lesson Developers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
-    * It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
-* The Carpentries Curriculum Team organises monthly Lesson Development Coworking Sessions. 
-* [The incubator-developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers) is used for announcements relevant to Lesson Developers working in The Carpentries Incubator.
-
-
 ### Community Calendar
 
 Once scheduled, all Lesson Development Coworking Sessions are listed on our [Community Calendar](https://carpentries.org/community/#community-events). You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.
@@ -86,9 +78,6 @@ Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
 * [The Carpentries Incubator Proposals repository](https://github.com/carpentries-incubator/proposals): a place for The Carpentries community to propose new lessons for development in the Incubator.
 * [The Carpentries Lab Reviews repository](https://github.com/carpentries-lab/reviews): a place for Lesson Developers to submit lessons for open peer review and acceptance to The Carpentries Lab. 
-
-
-### Google Documents
 
 
 ### Slack
