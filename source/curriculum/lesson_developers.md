@@ -325,7 +325,7 @@ A lesson designed to teach skills and good practices in lesson design, lesson we
 
 #### About this resource
 
-The standard Carpentries pre- and post-workshop surveys do not support lesson pilots so you will need to create your own surveys to send out before/after a pilot workshop. Although surveys for pilot workshops will frequently include questions that are specific to the particular lesson being piloted, there are some standard feedback questions that can be asked after a pilot to assess the design and flow of the lesson. This[ ](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)template post-pilot workshop survey can be copied and adapted to suit the needs of your lesson, and shared with learners in place of the standard post-workshop survey.
+The standard Carpentries pre- and post-workshop surveys do not support lesson pilots so you will need to create your own surveys to send out before/after a pilot workshop. Although surveys for pilot workshops will frequently include questions that are specific to the particular lesson being piloted, there are some standard feedback questions that can be asked after a pilot to assess the design and flow of the lesson. [This template post-pilot workshop survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) can be copied and adapted to suit the needs of your lesson, and shared with learners in place of the standard post-workshop survey.
 
 
 ### Beta Announcement Templates
@@ -338,7 +338,6 @@ A [template beta announcement blog post](https://docs.google.com/document/d/1z8Q
 
 ## FAQs
 
-List of frequently asked questions relevant to the content in the handbook. 
 
 **Question 1**
 
@@ -350,8 +349,6 @@ Response 2
 
 
 ## Glossary of Terms
-
-This section will include definitions for terms used in the handbook and related to the role. For now, list the terms to be included and do no include the definition. If a term is missing in [the existing glossary](https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing), please add it and provide a definition approved by your team. 
 
 Carpentries Incubator
 
