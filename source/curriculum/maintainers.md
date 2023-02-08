@@ -4,39 +4,6 @@ title: "Maintainers"
 
 # Maintainers Handbook
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.181 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Wed Feb 08 2023 07:14:07 GMT-0800 (PST)
-* Source doc: Lesson Maintainer Handbook
-* Tables are currently converted to HTML tables.
------>
-
-
-Lesson Maintainer Handbook
-
-
-[TOC]
-
-
-
-## 
-
-
 ## Description of Community Role
 
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavour to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
