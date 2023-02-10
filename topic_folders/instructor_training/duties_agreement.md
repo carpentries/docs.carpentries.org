@@ -14,7 +14,7 @@ community, through leadership roles. Trainers often play leadership roles in the
 
 ##### Active Status Renewal Process
 
-Version 1.0.1 -- Draft
+Version 1.0.1 -- Approved 8 February, 2023
 
 Active status for Instructor Trainers is renewed annually in March. 
 
