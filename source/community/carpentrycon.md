@@ -29,13 +29,17 @@ The Committee Chairs provide overall leadership for the committee, ensuring the 
    </td>
   </tr>
   <tr>
-   <td>Set agenda and chair CarpentryCon Committee meetings (Guide: [Setting Up Etherpad for Committee Meetings](#setting-up-etherpad-for-committee-meetings)</a>)
+   <td>Set agenda and chair CarpentryCon Committee meetings 
+   
+   (Guide: [Setting Up Etherpad for Committee Meetings](#setting-up-etherpad-for-committee-meetings)</a>)
    </td>
    <td>1-2 hours / week
    </td>
   </tr>
   <tr>
-   <td>Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed (Information: [Communication and Collaboration Spaces](#communication-and-collaboration-spaces)
+   <td>Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed 
+
+   (Information: [Communication and Collaboration Spaces](#communication-and-collaboration-spaces))
    </td>
    <td>2-3  hours / month
    </td>
@@ -47,7 +51,9 @@ The Committee Chairs provide overall leadership for the committee, ensuring the 
    </td>
   </tr>
   <tr>
-   <td>Review keynote speaker recommendations from Program Leads and identify who will be invited (Guide: [Process for Review of Keynote Speaker Recommendations](#process-for-review-of-keynote-speaker-recommendations) 
+   <td>Review keynote speaker recommendations from Program Leads and identify who will be invited 
+   
+   (Guide: [Process for Review of Keynote Speaker Recommendations](#process-for-review-of-keynote-speaker-recommendations)) 
    </td>
    <td>2 hours; 1 hour of independent review and another hour of discussion with other Chair
    </td>
@@ -93,19 +99,26 @@ The Program Leads support the development and implementation of the conference p
    </td>
   </tr>
   <tr>
-   <td>Lead identification and selection of keynote speakers in consultation with other Committee members (Guide: [Process for Review of Keynote Speaker Recommendations](#process-for-review-of-keynote-speaker-recommendations)
+   <td>Lead identification and selection of keynote speakers in consultation with other Committee members 
+   
+   (Guide: [Process for Review of Keynote Speaker Recommendations](#process-for-review-of-keynote-speaker-recommendations))
    </td>
    <td>4 hours
    </td>
   </tr>
   <tr>
-   <td>Send invitations to top candidates for keynote speakers, inviting backups as needed (Resource: [Template: Keynote Speaker Invitation Letter](#template:-keynote-speaker-invitation-letter)
+   <td>Send invitations to top candidates for keynote speakers, inviting backups as needed 
+   
+   (Resource: [Template: Keynote Speaker Invitation Letter](#template:-keynote-speaker-invitation-letter))
    </td>
    <td>1-2 hour / presenter
    </td>
   </tr>
   <tr>
-   <td>Develop submission and selection criteria for conference session proposals (Resource: [Proposal Submission Form Template](#proposal-submission-form-template) (Guide: [Process for Review of Proposal Submissions](#process-for-review-of-proposal-submissions)
+   <td>Develop submission and selection criteria for conference session proposals 
+   
+   (Resource: [Proposal Submission Form Template](#proposal-submission-form-template)) 
+   (Guide: [Process for Review of Proposal Submissions](#process-for-review-of-proposal-submissions))
    </td>
    <td>2 hours
    </td>
@@ -117,31 +130,41 @@ The Program Leads support the development and implementation of the conference p
    </td>
   </tr>
   <tr>
-   <td>Manage proposal review process, including assigning reviewers and scheduling review panel discussion (Guide: [Process for Review of Proposal Submissions](#process-for-review-of-proposal-submissions)
+   <td>Manage proposal review process, including assigning reviewers and scheduling review panel discussion 
+   
+   (Guide: [Process for Review of Proposal Submissions](#process-for-review-of-proposal-submissions))
    </td>
    <td>4 hours / week with minimum of two weeks
    </td>
   </tr>
   <tr>
-   <td>Send communications to session leads on decision for proposal submission (Resource: [Proposal Decision Email Templates](#proposal-decision-email-templates)
+   <td>Send communications to session leads on decision for proposal submission 
+   
+   (Resource: [Proposal Decision Email Templates](#proposal-decision-email-templates))
    </td>
    <td>4-5 hours / week with minimum of two weeks
    </td>
   </tr>
   <tr>
-   <td>Develop final program, one to share publicly and another with details for volunteers (Guide: [Creating Program and Schedule](#creating-program-and-schedule)
+   <td>Develop final program, one to share publicly and another with details for volunteers 
+   
+   (Guide: [Creating Program and Schedule](#creating-program-and-schedule))
    </td>
    <td>10-12 hours
    </td>
   </tr>
   <tr>
-   <td>Recruit volunteers to support program, with each session requiring a session facilitator and Zoom helper (Resource: [Email Communications for Recruiting Volunteers](#email-communications-for-recruiting-volunteers)
+   <td>Recruit volunteers to support program, with each session requiring a session facilitator and Zoom helper 
+
+   (Resource: [Email Communications for Recruiting Volunteers](#email-communications-for-recruiting-volunteers))
    </td>
    <td>4 hours
    </td>
   </tr>
   <tr>
-   <td>Onboard session facilitators and Zoom helpers (Resources: [Instructions for Session Facilitators](#instructions-for-session-facilitators, [Instructions for Zoom Helpers(#instructions-for-zoom-helpers)
+   <td>Onboard session facilitators and Zoom helpers 
+   
+    (Resources: [Instructions for Session Facilitators](#instructions-for-session-facilitators), [Instructions for Zoom Helpers](#instructions-for-zoom-helpers))
    </td>
    <td>1 hour
    </td>
@@ -175,7 +198,10 @@ The Communications Leads support communications leading up to and during the con
    </td>
   </tr>
   <tr>
-   <td>Draft communications, including social media and blog posts (Guide: [Sharing Content with Communications Manager](#sharing-content-with-communications-manager)
+   <td>Draft communications, including social media and blog posts 
+   
+   (Guide: [Sharing Content with Communications Manager](#sharing-content-with-communications-manager))
+
    </td>
    <td>3 hours / month
    </td>
@@ -187,13 +213,18 @@ The Communications Leads support communications leading up to and during the con
    </td>
   </tr>
   <tr>
-   <td>Ensure transparency of CarpentryCon Committee activities (e.g., make minutes available) (Resource: [Setting up Etherpad for Committee Meetings](#setting-up-etherpad-for-committee-meetings))
+   <td>Ensure transparency of CarpentryCon Committee activities (e.g., make minutes available) 
+   
+   (Resource: [Setting up Etherpad for Committee Meetings](#setting-up-etherpad-for-committee-meetings))
    </td>
    <td>2 hours / month
    </td>
   </tr>
   <tr>
-   <td>Recruit and onboard volunteers to support communications as needed (Resource: [Information for Communication Support](#information-for-communication-support))
+   <td>Recruit and onboard volunteers to support communications as needed 
+   
+   (Resource: [Information for Communication Support](#information-for-communication-support))
+
    </td>
    <td>2 hours for each recruitment and onboarding
    </td>
@@ -227,25 +258,33 @@ The Accessibility Leads ensure the event is accessible and inclusive to the comm
    </td>
   </tr>
   <tr>
-   <td>Conduct accessibility audit (i.e., review and test accessibility features) of all conference platforms (Resource: [Accessibility Audit for CarpentryCon 2022](#accessibility-audit-for-carpentrycon-2022))
+   <td>Conduct accessibility audit (i.e., review and test accessibility features) of all conference platforms 
+   
+   (Resource: [Accessibility Audit for CarpentryCon 2022](#accessibility-audit-for-carpentrycon-2022))
    </td>
    <td>2 hours per each platform adopted
    </td>
   </tr>
   <tr>
-   <td>Update accessibility/accommodation questions to include in conference registration (Resource: [Registration Form Template](#registration-form-template))
+   <td>Update accessibility/accommodation questions to include in conference registration 
+   
+   (Resource: [Registration Form Template](#registration-form-template))
    </td>
    <td>30 minutes
    </td>
   </tr>
   <tr>
-   <td>Update accessibility guidelines for presenters (Resource: [Accessibility Guidelines for Presenters](#accessibility-guidelines-for-presenters))
+   <td>Update accessibility guidelines for presenters 
+   
+   (Resource: [Accessibility Guidelines for Presenters](#accessibility-guidelines-for-presenters))
    </td>
    <td>1 hour
    </td>
   </tr>
   <tr>
-   <td>Review and implement accessibility guidelines outlined in the Toolkit of IDEAS around accessibility (Resource: [Toolkit of IDEAS](#toolkit-of-ideas))
+   <td>Review and implement accessibility guidelines outlined in the Toolkit of IDEAS around accessibility 
+   
+   (Resource: [Toolkit of IDEAS](#toolkit-of-ideas))
    </td>
    <td>30 minutes to review; 2 hours / month for implementation
    </td>
@@ -301,7 +340,9 @@ Members of the Core Team support all aspects of conference planning and implemen
    </td>
   </tr>
   <tr>
-   <td>Respond to inquiries sent to <a href="mailto:carpentrycon@carpentries.org">carpentrycon@carpentries.org</a> (Information: [Communication and Collaboration Spaces](#communication-and-collaboration-spaces))
+   <td>Respond to inquiries sent to <a href="mailto:carpentrycon@carpentries.org">carpentrycon@carpentries.org</a> 
+   
+   (Information: [Communication and Collaboration Spaces](#communication-and-collaboration-spaces))
    </td>
    <td>1 hour / week
    </td>
@@ -313,7 +354,9 @@ Members of the Core Team support all aspects of conference planning and implemen
    </td>
   </tr>
   <tr>
-   <td>Send thank you gifts out to Committee members after the conference ends (Resource: [Email templates for committee members](#email-templates-for-committee-members))
+   <td>Send thank you gifts out to Committee members after the conference ends 
+   
+   (Resource: [Email templates for committee members](#email-templates-for-committee-members))
    </td>
    <td>2 hours
    </td>
@@ -397,19 +440,25 @@ Members of the Core Team support all aspects of conference planning and implemen
    </td>
   </tr>
   <tr>
-   <td>Develop evaluation plan (Resources: [CarpentryCon 2022 Evaluation Report](#carpentrycon-2022-evaluation-report)) 
+   <td>Develop evaluation plan 
+   
+   (Resources: [CarpentryCon 2022 Evaluation Report](#carpentrycon-2022-evaluation-report)) 
    </td>
    <td>8 hours
    </td>
   </tr>
   <tr>
-   <td>Create data collection instruments (Resources: [Post Conference Survey](#post-conference-survey), [Committee Member Feedback Form](#committee-member-feedback-form)) 
+   <td>Create data collection instruments 
+   
+   (Resources: [Post Conference Survey](#post-conference-survey), [Committee Member Feedback Form](#committee-member-feedback-form)) 
    </td>
    <td>2 hours
    </td>
   </tr>
   <tr>
-   <td>Analyze data and write report (Resources: [CarpentryCon 2022 Evaluation Report](#carpentrycon-2022-evaluation-report), [R Script to Analyse Post Conference Survey](#r-script-to-analyze-post-conference-survey)) 
+   <td>Analyze data and write report 
+   
+   (Resources: [CarpentryCon 2022 Evaluation Report](#carpentrycon-2022-evaluation-report), [R Script to Analyse Post Conference Survey](#r-script-to-analyze-post-conference-survey)) 
    </td>
    <td>20 hours
    </td>
@@ -441,7 +490,9 @@ Members of the Core Team support all aspects of conference planning and implemen
    </td>
   </tr>
   <tr>
-   <td>Set up and support maintenance of conference website (Resource: [GitHub Repository](#conference-website))
+   <td>Set up and support maintenance of conference website 
+   
+   (Resource: [GitHub Repository](#conference-website))
    </td>
    <td>4 hours to set up; 4 hours / month maintenance 
    </td>
@@ -522,9 +573,6 @@ Until an open source platform is identified that supports the committee’s task
 Etherpads are used for collaborative notetaking for the Committee and for a space to take notes during CarpentryCon sessions. You will need to follow the instructions for [creating an Etherpad for the Committee meetings](#setting-up-etherpad-for-committee-meetings) and [creating Etherpads for CarpentryCon sessions](#setting-up-conference-session-etherpads) found in the step-by-step guides. Once the Etherpads have been created for each year, they should be linked here. 
 
  
-
-
-
 * Add link: Committee meeting notes
 * Add link: CarpentryCon Session Etherpad template
 
