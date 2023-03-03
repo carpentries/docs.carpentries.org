@@ -35,6 +35,7 @@ Handbooks
     Maintainers <curriculum/maintainers>
     Lesson Developers <curriculum/lesson_developers>
     Trainers <instructor_training/trainers>
+    Trainers Leadership <instructor_training/trainers_leadership>
 
 
 General Resources 
