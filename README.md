@@ -42,6 +42,26 @@ could be linked to in markdown as follows:
 Read more by reviewing our [welcome page](#welcome-to-the-carpentries).
 ```
 
+### Mixing html and markdown
+
+Tables can be created inside a markdown document using html syntax.  If the table text contains hyperlinks, the links must either be formatted in html OR must be on a separate line.  If you do not want the link to be on its own line, html syntax is recommended.  For example:
+
+```
+<tr>
+<td>
+Read more about <a href="https://carpentries.org">The Carpentries</a>
+</td>
+</tr>
+```
+
+OR 
+
+```
+Read more about The Carpentries:
+
+[Carpentries Website](https://carpentries.org)
+```
+
 ### Translating Google Docs to Markdown
 
 If you use a tool to convert a Google Doc to Markdown, headers may not get generated properly.  You may see content like in your generated `.md` file:
