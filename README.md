@@ -118,7 +118,7 @@ After setting the theme, the additional following changes were needed to `conf.p
 
 ## Previews on Netlify
 
-This site is set up to preview all pull requests via [Netlify](https://app.netlify.com/sites/carpentries-beta-handbook-preview/overview). [Section needs updating.]
+This site is set up to preview all pull requests via [Netlify](https://app.netlify.com/sites/carpentries-beta-handbook-preview/overview). Note Netlify login is required to setup and manage Netlify.  All PRs will offer a public Netlify preview link.
 
 ## Useful links
 
