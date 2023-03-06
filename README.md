@@ -42,6 +42,26 @@ could be linked to in markdown as follows:
 Read more by reviewing our [welcome page](#welcome-to-the-carpentries).
 ```
 
+### Mixing html and markdown
+
+Tables can be created inside a markdown document using html syntax.  If the table text contains hyperlinks, the links must either be formatted in html OR must be on a separate line.  If you do not want the link to be on its own line, html syntax is recommended.  For example:
+
+```
+<tr>
+<td>
+Read more about <a href="https://carpentries.org">The Carpentries</a>
+</td>
+</tr>
+```
+
+OR 
+
+```
+Read more about The Carpentries:
+
+[Carpentries Website](https://carpentries.org)
+```
+
 ### Translating Google Docs to Markdown
 
 If you use a tool to convert a Google Doc to Markdown, headers may not get generated properly.  You may see content like in your generated `.md` file:
@@ -83,7 +103,7 @@ The handbook is built using Sphinx and the `pydata_sphinx_theme`.
 * `make html` Builds the site and publishes html content to the build directory
 * `make github` Builds the site and publishes html content to the build directory. This also creates a copy in the docs directory, enabling the site to render at https://carpentries.github.io/handbook-beta/
 
-Note `build` can be in `.gitignore` but `docs` should not be as long as we want this built directly from GitHub.  These settings may need to be changed once the site is ready to go live.
+This process is necessary to separate out the Netlify preview build from the live beta build.  GitHub pages uses the `docs` directory, while Netlify uses the `build/html` directory. Note `build` can be in `.gitignore` but `docs` should not be as long as we want this built directly from GitHub.  These settings may need to be changed once the site is ready to go live.
 
 ## Changes to `conf.py`
 
