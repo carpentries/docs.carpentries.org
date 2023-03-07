@@ -1,48 +1,6 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 1
-* WARNINGs: 0
-* ALERTS: 1
-
-Conversion time: 2.908 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Tue Feb 28 2023 13:35:30 GMT-0800 (PST)
-* Source doc: Instructor Trainer Handbook
-
-ERROR:
-undefined internal link to this URL: "#heading=h.cp4it9i4qwtc".link text: renew their Active status
-?Did you generate a TOC with blue links?
-
-* Tables are currently converted to HTML tables.
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 1; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-Instructor Trainer Handbook
-
-
-[TOC]
-
-
+---
+title: "Instructor Trainer Handbook"
+---
 
 ## 
 
@@ -57,7 +15,7 @@ Trainers join a global community of skilled professionals with a passion for evi
 
 Trainers can assume leadership roles within the Trainer community, as Instructor Training Curriculum Maintainers, or members of the Trainers Leadership Committee.
 
-Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. In most cases Trainers do not self-organise private Instructor Training events for a single local community, but these are allowed in certain circumstances.
+Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. In most cases Trainers do not self-organise private Instructor Training events for a single local community, but these are allowed in certain circumstances. More information on [Self-Organise a Private Instructor Training Event](#self-organise-a-private-instructor-training-event).
 
 
 ### Roles and responsibilities
@@ -168,33 +126,33 @@ As a general rule, equivalent activities must be self-reported via form submissi
 
 Trainer Alumni Status
 
-Active Trainers may elect to become inactive by requesting Trainer Alumni status at any time by contacting instructor-training@carpentries.org. Alumni may also submit re-activation requests to the same address.
+Active Trainers may elect to become inactive by requesting Trainer Alumni status at any time by contacting [Instructor Training](mailto:instructor-training@carpentries.org). Alumni may also submit re-activation requests to the same address.
 
 
 #### Trainer Alumni will not be permitted to:
 
-teach Carpentries Instructor Training workshops
+* Teach Carpentries Instructor Training workshops
 
-host teaching demonstrations
+* Host teaching demonstrations
 
-vote in Trainer community elections
+* Vote in Trainer community elections
 
 Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact team@carpentries.org.
 
 
 #### Trainer Alumni may select to:
 
-continue to receive Topicbox Instructor Training emails & participate in conversations
+* Continue to receive Topicbox Instructor Training emails & participate in conversations
 
-continue to participate in the Slack private Trainers channel
+* Continue to participate in the Slack private Trainers channel
 
-receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status.
+* Receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status.
 
-A Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
+* A Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
 
-0-12 months: meet with Director of Instructor Training to catch up on latest news & discuss plans for re-activating
+* 0-12 months: meet with Director of Instructor Training to catch up on latest news & discuss plans for re-activating
 
-more than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.
+* More than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.
 
 
 ### Offboarding
@@ -212,17 +170,17 @@ Trainer Alumni will not be permitted to:
 
 
 
-* teach Carpentries Instructor Training workshops, 
-* host teaching demonstrations, or 
-* vote in Trainer community elections
+* Teach Carpentries Instructor Training workshops, 
+* Host teaching demonstrations, or 
+* Vote in Trainer community elections
 
 Trainer Alumni may elect to:
 
 
 
-* continue to receive Topicbox Instructor Training emails & participate in conversations
-* remain in the Slack private Trainers channel
-* attend Trainer meetings
+* Continue to receive Topicbox Instructor Training emails & participate in conversations
+* Remain in the Slack private Trainers channel
+* Attend Trainer meetings
 
 
 ## Communication and Collaboration Space
@@ -237,7 +195,7 @@ Below is a list of Etherpads relevant to serving as an Instructor Trainer.
 
 
 * [Trainer Meetings](https://pad.carpentries.org/trainers): Used for monthly Trainer meetings. 
-* [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, instructions below.(#)
+* [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, [instructions](#teaching-demonstrations)
 * [Instructor Training Etherpad Template](https://pad.carpentries.org/ttt-template): Structured template that may be copied and pasted to create an Etherpad for any Instructor Training event.
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
 
@@ -288,7 +246,7 @@ To join or view the archives of one or more Carpentries mailing lists, you will 
 
 Trainer meetings are scheduled at two time slots, twice monthly. Each month includes a primary, “discussion” meeting, where Trainers are invited to discuss upcoming trainings or events they have recently led, and receive updates on recent developments from the community and Core Team. The second time slot is used on an “as needed” basis, and may be used for focused discussion on a specific topic or cancelled.
 
-Meetings are open to Instructor Trainers, Trainer trainees, and invited guests. Anyone else with interest in attending a Trainer meeting should first contact the[ Instructor Training Team](mailto:instructor.training@carpentries.org).
+Meetings are open to Instructor Trainers, Trainer trainees, and invited guests. Anyone else with interest in attending a Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
 Meeting notes are recorded in the [Trainers Etherpad](carpentries/trainers) and [archived in the Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
 
@@ -402,7 +360,7 @@ In limited circumstances, Trainers may self-organise an Instructor Training even
 * **Approved trainees**, either paid through membership or admitted as a sponsored group*
 * **Advance notice**: find quarterly scheduling dates for events that use Carpentries infrastructure, or 30 days for fully independent events
 
-*To inquire about group sponsorship, contact the [instructor training team](mailto:instructor.training@carpentries.org).
+*To inquire about group sponsorship, contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
 
 ##### Use The Carpentries’ infrastructure
@@ -421,7 +379,7 @@ If you would like to make use of these, we ask that you provide notice of your e
 
 ##### How to Request a Self-Organised Instructor Training Event
 
-If your event meets the requirements noted above, please [use this google form to submit your request](https://forms.gle/WQGh5GVwhCBaY7xk6). For questions, please contact instructor.training@carpentries.org.
+If your event meets the requirements noted above, please [use this google form to submit your request](https://forms.gle/WQGh5GVwhCBaY7xk6). For questions, email the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
 
 ### Teaching Demonstrations
@@ -484,7 +442,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 
 1. Remove the event from the [Etherpad](http://pad.carpentries.org/trainers). It is important to do this first to prevent anyone from signing up! You have permission to remove your own demo and do not need to ask.
-2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+2. Notify [Instructor Training](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
 
 **If trainees have signed up:**
 
@@ -492,11 +450,11 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 1. If there is enough time, post a message in the #trainers Slack channel and/or send an email to [trainers@lists.carpentries.org](mailto:trainers@lists.carpentries.org) to findsomeone can take your place. (You may choose to skip this step, e.g. if there are only 1-2 people signed up.)
     1. If someone <span style="text-decoration:underline;">can</span> take your place, make sure to confirm with them and have them add their information on the Etherpad. 
-    2. Make sure someone on the Core Team knows so they can be added to the calendar invitation. When in doubt, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+    2. Make sure someone on the Core Team knows so they can be added to the calendar invitation. When in doubt, email [Instructor Training](mailto:instructor.training@carpentries.org).
     3. You are done!- Disregard steps 2+ below!
 2. If step 1 is skipped or unsuccessful, email the trainees (#) to let them know that the demo has been cancelled, and ask them to sign up for a different session.
 3. Remove the event from the [Etherpad](http://pad.carpentries.org/trainers).
-4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+4. Notify [Instructor Training](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
 
 
 ### Trainer Community
@@ -574,7 +532,7 @@ Co-host:
 
 #### Private Events Only: Pre-Training (1 week before) Email Sent by Trainer or Member Contact to Trainees
 
-Note: For most events, the Core Team manages communications with trainees. This template is to be used for private events when Trainers or local organisers are handling communications with trainees. For any questions about how or when to use this template, email instructor.training@carpentries.org.
+Note: For most events, the Core Team manages communications with trainees. This template is to be used for private events when Trainers or local organisers are handling communications with trainees. For any questions about how or when to use this template, email [Instructor Training](mailto:instructor.training@carpentries.org).
 
 Subject: Information for Your Upcoming Instructor Training with The Carpentries on DATE_TIME
 
@@ -681,7 +639,7 @@ Thank you for doing a teaching demonstration. While you demonstrated good [ some
 
 We are excited about having you as a Carpentries instructor and we want to have you on board! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional practice and feedback to be worthwhile.
 
-I have contacted our Core Team to indicate that this session should be repeated. If you are close to the end of your checkout period, you can email instructor.training@carpentries.org to request an extension if you need one.
+I have contacted our Core Team to indicate that this session should be repeated. If you are close to the end of your checkout period, you can email [Instructor Training](mailto:instructor.training@carpentries.org) to request an extension if you need one.
 
 Please contact us  with questions!
 
@@ -702,7 +660,7 @@ Gracias por realizar tu demostración de enseñanza. A pesar de que has demostra
 
 Esta no ha sido una decisión fácil de tomar – nos encantaría tenerte como instructor en Carpentries! Sé que es complicado hacer tiempo para este tipo de sesiones pero espero que consideres este tiempo adicional de práctica y feedback como una oportunidad.
 
-Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email a instructor.training@carpentries.org para solicitar una extensión si la necesitas.
+Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email [Instructor Training](mailto:instructor.training@carpentries.org) para solicitar una extensión si la necesitas.
 
 No dudes en ponerte en contacto si tienes cualquier pregunta!
 
