@@ -111,7 +111,7 @@ To join one or more Carpentries listservs, you will need to [create a login on t
 
 
 1. Decide on the order of the lessons and who will teach what modules
-2. Set up the workshop website using the workshop template and send it to The Carpentries Workshop Administration Team. Detailed instructions are in this repo’s README.
+2. Set up the workshop website using the workshop template and send it to The Carpentries Workshop Administration Team. Detailed instructions are in this repo’s [README](#).
 3. Create a collaborative document for the workshop (e.g. an Etherpad)
 4. Assist the host in recruiting helpers if possible
 5. Assist the host in ensuring the workshop location is accessible
@@ -121,37 +121,24 @@ To join one or more Carpentries listservs, you will need to [create a login on t
 9. Join a community discussion
 10. Confirm criteria for reimbursement (per diem or save receipts)
 
-From: [https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
+From the [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist).
 
 
 ### Setting Up a Workshop Website
 
 For instructions on setting up a website for a workshop, please see the [workshop template home page](https://github.com/carpentries/workshop-template#readme).
 
-
-### [Self-Organised Workshops Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit)
-
-A guide to help Instructors/Workshop Hosts teach Self-Organised workshops. This provides a high level overview of all the steps needed to successfully coordinate a Carpentries workshop from beginning to end. 
+[Self-Organised Workshops Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit) a guide to help Instructors/Workshop Hosts teach Self-Organised workshops. This provides a high level overview of all the steps needed to successfully coordinate a Carpentries workshop from beginning to end. 
 
 
-#### These pages have an assortment of practical tips for instructors.
+
+### [Tips For Instructors — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
 
 
-#### [Tips For Instructors — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
-
-
-## 
-    **Tips For Instructors**
-
-This page has an assortment of practical tips for instructors.
-
-
-### 
-    **Handling Software Installation**
+### Handling Software Installation
 
 Installing software on laptops has gotten a lot better over the years, but it can still be a huge challenge at the start of a workshop. Here are some suggestions for making the process go as smoothly as possible.
 
-Software installation can be frustrating, but in the end, it almost always gets done. Be positive, and when it finally works, you can feel proud.
 
 **What you can do in advance:**
 
@@ -179,7 +166,7 @@ Software installation can be frustrating, but in the end, it almost always gets 
 If there is absolutely no way that you will be able to install the software locally on someone’s computer, consider using the [following solutions](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds):
 
 
-    Read our [blog post, “Scaffolding Installation for Online Workshops”](https://carpentries.org/blog/2020/04/scaffolds/)
+Read our blog post, [Scaffolding Installation for Online Workshops](https://carpentries.org/blog/2020/04/scaffolds/)
 
 
 
@@ -188,19 +175,19 @@ If there is absolutely no way that you will be able to install the software loca
 * If your institution’s library does laptop rentals, rent 1-2 laptops and set them up with the software before the workshop and keep them on hand as loaners during the workshop.
 
 ### 
-    **Talking About the Code of Conduct**
+**About the Code of Conduct**
 
 
 The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) is a key tool for fostering and upholding an inclusive, respectful learning environment. But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about. Here is a sample of how you might introduce the Code of Conduct – please do not use this verbatim, but adapt it to your own audience and style of introduction:
 
 
-    The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
+The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 
 
-    What kinds of behaviours are expected?
+What kinds of behaviours are expected?
 
 
-    All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
 
 
@@ -210,11 +197,11 @@ The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/pol
 * Focus on what is best for the community
 * Show courtesy and respect towards other community members
 
-    Examples of unacceptable behaviour by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the details on how to handle Code of Conduct violations.
+Examples of unacceptable behaviour by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the details on how to handle Code of Conduct violations.
 
 
 ### 
-    **Using Exercises**
+**Using Exercises**
 
 
 When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
@@ -248,9 +235,9 @@ The introduction is one of the most important pieces of the workshop! It sets th
 
 **[The Carpentries Toolkit of IDEAS | Zenodo](https://zenodo.org/record/7041935#.Y4on_svMJD_)**
 
-Before you start, review our accessibility checklist.
+Before you start, review our [accessibility checklist](https://carpentries.org/files/pdf/accessibility-checklist-virtual-events.pdf).
 
-** Varying Skill Level**
+**Varying Skill Level**
 
 Carpentries workshops frequently include many people with widely varying skills and experiences.  The end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) has some strategies when working with a   diverse classroom.
 
@@ -260,23 +247,23 @@ Carpentries workshops frequently include many people with widely varying skills 
 
 #### This official set of recommendations will be updated as we receive feedback from the community
 
-[TEACHING AND HOSTING — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html#resources-for-online-workshops)
+[Teaching and Hosting — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html#resources-for-online-workshops)
 
 [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/)
 
 
-### An updated guide for teaching online workshops. This guide provides tips on all aspects of workshop planning starting before the workshop through the end of the workshop. 
+An updated guide for teaching online workshops. This guide provides tips on all aspects of workshop planning starting before the workshop through the end of the workshop. 
 
 
-### [https://docs.google.com/document/d/1Q8re6o0HO32mYyV0SgY3boFiAFxjjdSl3SKT5_WtTH8/edit](https://docs.google.com/document/d/1Q8re6o0HO32mYyV0SgY3boFiAFxjjdSl3SKT5_WtTH8/edit)
+### [Online Planning Resources](#)
 
 
 ### Community resources
 
 
-#### This material is for current and aspiring Carpentries Instructors. Find material here on becoming an Instructor, how you can develop as an Instructor, and what networking opportunities our community offers.
+#### This material is for current and aspiring Carpentries Instructors. Find material here on becoming an Instructor, how you can develop as an Instructor, and what networking opportunities our community offer (#).
 
-[https://docs.carpentries.org/topic_folders/for_instructors/new_instructors.html](https://docs.carpentries.org/topic_folders/for_instructors/new_instructors.html) 
+
 
 
 ## FAQs
