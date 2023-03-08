@@ -5,8 +5,6 @@ title: "Instructors"
 
 ## Description of Community Role
 
-_Provide a detailed description of the community role, written for someone not familiar with The Carpentries. You may add the same information as you did for the website but may want to include more details not needed there._
-
 Carpentries Instructors are volunteers who are certified through the Carpentries Instructor Training program to teach live-coding and data skills to learners through evidence based-teaching practices.
 
 
@@ -14,8 +12,6 @@ Carpentries Instructors are volunteers who are certified through the Carpentries
 
 
 
-* _Include a list of responsibilities, being as detailed as possible. _
-* _Include a time expectation for serving in the role (e.g., one-time, specific dates, flexible, 1 hour per month)_
 * Organise and facilitate Self-Organised Workshops
 * Volunteer to facilitate Centrally-Organised Workshops
 
@@ -32,14 +28,6 @@ For a **Centrally-Organised Workshop** Instructors should expect to dedicate the
 
 
 
-* _Add detailed information relevant to onboarding procedures, including steps to get involved/signed up (e.g., “Send an email to XXX@carpentries.org to be notified when applications open.”) _
-* _Add the onboarding schedule if one exists_
-* _Add information on recruitment frequency. Some examples include:_
-    * _Twice a year (March & September)_
-    * _Quarterly_
-    * _Specific Dates_
-    * _On a rolling basis_
-* _If you do not currently have onboarding procedures, write “We currently do not have any formal onboarding procedures at this time.”_
 
 Steps to becoming an Instructor.
 
@@ -52,34 +40,24 @@ Steps to becoming an Instructor.
 ### Offboarding
 
 
-
-* Add detailed information relevant to offboarding procedures 
-* Add the offboarding schedule if one exists
-* If you do not currently have onboarding procedures, write “We currently do not have any formal onboarding procedures at this time.”
-
-If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at [workshops@carpentries.org](mailto:workshops@carpentries.org) to unsubscribe from the Instructor Teaching Opportunities list.
+If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at [Workshops](mailto:workshops@carpentries.org) to unsubscribe from the Instructor Teaching Opportunities list.
 
 
 ## Communication and Collaboration Spaces
 
-This section should provide a list of communication channels and collaboration spaces that support the community role, including information on regular meetings for community members serving in these roles. 
-
-A list of channels and spaces to consider are listed below with some template language to use. Please remove those that are not relevant. 
-
-
 ### Monthly Instructor Meetings
 
-Join the Workshop Administration Team every month on XX at XX UTC to learn more about what updates and 
+Join the Workshop Administration Team every month on the second Tuesday at 3:00 pm and 9:00 pm UTC. During monthly meetings we will share updates, tips and most of all gather feedback from Instructors. Please signup on the [Etherpad](https://pad.carpentries.org/InstructorMeetings). 
 
 
 ### Upcoming Workshops
 
-If you are an Active Instructor and would like to see a list of teaching opportunities that need Instructors, please go to your[ AMY profile](amy.carpentries.org/) to see a list of upcoming workshops that you can sign up to teach. 
+If you are an Active Instructor and would like to see a list of teaching opportunities that need Instructors, please go to your [AMY profile](amy.carpentries.org/) to see a list of upcoming workshops that you can sign up to teach. 
 
 
 ### Community Calendar
 
-Once scheduled, all _[[Community Discussions](https://pad.carpentries.org/community-discussions) (i.e pre- and post workshop discussions, Themed Discussions and Carpentries Conversations) and [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos)]_ are listed on our [Community Calendar](https://carpentries.org/community/#community-events). You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.
+Once scheduled, all _[Community Discussions](https://pad.carpentries.org/community-discussions) (i.e pre- and post workshop discussions, Themed Discussions and Carpentries Conversations) and [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos)_ are listed on our [Community Calendar](https://carpentries.org/community/#community-events). You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.
 
 
 ### Etherpad
@@ -89,17 +67,16 @@ Below is a list of Etherpads relevant to serving as a _Instructor_.
 
 
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
-* _[https://pad.carpentries.org/community-discussions](https://pad.carpentries.org/community-discussions)_
-* _[The Carpentries Etherpad](https://pad.carpentries.org/teaching-demos)_
-* 
+* [Community Discussions](https://pad.carpentries.org/community-discussions)
+* [Teaching Demo](https://pad.carpentries.org/teaching-demos)
 
 
 ### GitHub
 
 
 
-* _[carpentries/glosario: A multilingual glossary for computing and data science terms. (github.com)](https://github.com/carpentries/glosario)_
-* _[carpentries/workshop-template: The Carpentries Workshop Template (github.com)](https://github.com/carpentries/workshop-template)_
+* [Glosario](https://github.com/carpentries/glosario): A multilingual glossary for computing and data science terms
+* [Workshop Template](https://github.com/carpentries/workshop-template)
 
 
 ### Slack
