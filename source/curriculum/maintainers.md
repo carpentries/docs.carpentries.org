@@ -95,7 +95,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
 
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
-* [Maintainer Community Call Notes](https://codimd.carpentries.org/maintainers): Signup information, connection details, and notes taken from monthly coworking sessions (CodiMD),
+* [Maintainer Community Call Notes](https://codimd.carpentries.org/maintainers): Signup information, connection details, and notes taken from monthly coworking sessions (CodiMD).
 
 
 ### GitHub
@@ -257,7 +257,7 @@ If you plan to temporarily step away from the role of Maintainer, e.g. parental 
 
 ## Resources
 
-Please add a list of resources relevant to the content in the handbook (e.g., communication templates). Each resource should include a section “about this resource” which provide a brief description
+Please add a list of resources relevant to the content in the handbook (e.g., communication templates). Each resource should include a section “about this resource” which provide a brief description.
 
 
 ### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
