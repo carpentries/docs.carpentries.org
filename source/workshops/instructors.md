@@ -132,7 +132,7 @@ For instructions on setting up a website for a workshop, please see the [worksho
 
 
 
-### [Tips For Instructors — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
+ **[Tips For Instructors — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)**
 
 
 ### Handling Software Installation
@@ -151,7 +151,7 @@ Installing software on laptops has gotten a lot better over the years, but it ca
 * If you anticipate issues (or want to be extra prepared), have some of the emergency options listed below ready to go.
 * If you are teaching for an organisation where participants are bringing work laptops where they do not have administrative access (common in government organisations) – ask about it. Try to plan ahead either with their central IT organisation or with the “emergency exits” listed below.
 * Will you have decent Wi-Fi? A bunch of people installing software at once can kill a poor internet connection. If this is the case, prep a few flash drives with the relevant installers.
-* Attend a [Community Discussion session](https://pad.carpentries.org/community-discussions), where you can talk to other Instructors to ask questions and get feedback to help you prepare to teach.
+* Attend a [Community Discussion](https://pad.carpentries.org/community-discussions), where you can talk to other Instructors to ask questions and get feedback to help you prepare to teach.
 
 **On the day of:**
 
@@ -225,7 +225,7 @@ Once you have selected exercises, there are several ways to actually display the
 In all of these examples, you will have to switch from the tool you are using for live coding to however you are showing the exercises. For something like R or Python, one way to reduce the amount of switching is to put all the exercises in an R script / Python notebook and have that open alongside your main working script/notebook so that it is relatively easy to switch back and forth.
 
 
-### **General Tips**
+## **General Tips**
 
 **Introductions**
 
@@ -274,7 +274,6 @@ This material is for current and aspiring Carpentries Instructors. Find material
 
 * **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
     * There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one instructor must be identified. If the instructors change, we will get notified and will be able to make the update. 
-
 * **If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive the AWS Instances?**
     * A member of the Workshop Administration Team will contact the hosts/instructors approximately 2-3 weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of instructors, helpers and learners. Approximately 1 week, prior to the workshop, the Workshop Administration Team will provide you with test instances for each instructor and helper for testing/practice. Approximately 3 days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshop Administration Team will provide you with instances for each instructor, helper and attendee for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop. The AWS Instances will be terminated the day after the workshop. Please submit your workshop request/notification form at least 21 days in advance.
 * **What is a slug? And how should I use it to name my workshop website?**
@@ -303,9 +302,10 @@ This material is for current and aspiring Carpentries Instructors. Find material
 
 * **If I am only teaching portions of the Carpentries curriculum, do I still need to register my workshop?**
     * It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops we can not provide support or share information with instructors. 
-    * If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/)(https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-organised workshops are required to follow the Core Curricula.
+    * If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. 
+    **This option is only available for Self-Organised workshops. Centrally-organised workshops are required to follow the Core Curricula.**
 * **When a workshop is taught, how closely should it  stick to the Carpentries lesson plans?**
-    * To be considered an official Carpentries workshop, you must follow the [Core Curricula] ([https://carpentries.org/workshops/#workshop-core](https://carpentries.org/workshops/#workshop-core)). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
+    * To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core)). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 * **When will I be considered an Experienced Instructor?**
     * Ater being an Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries workshop. 
 
@@ -329,7 +329,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **Will I be provided with a Zoom room to teach my online workshop?**
     * If your institution has a videoconferencing  platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
 * **I have never taught an online workshop, where should I begin?**
-    * All Instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online]([https://carpentries.org/online-workshop-recommendations/](https://carpentries.org/online-workshop-recommendations/)). This will give you the foundation for online Carpentries styled workshops. 
+    * All Instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/)). This will give you the foundation for online Carpentries styled workshops. 
 * **How do I indicate my workshop will be online in the workshop website template?**
     * We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online.
 * **How many instructors are needed to teach an online workshop?**
@@ -344,12 +344,12 @@ This material is for current and aspiring Carpentries Instructors. Find material
 
 * **Do Instructors pay for travel?**
     * As a volunteer Instructor who is not paid for their time teaching,  we ask the host to cover travel and accommodation costs. We recommend that the host budgets approximately $1000 per Instructor for all travel expenses. 
-* **What if I am no longer comfortable teaching an in-person workshop after the travel has been purchased? **
+* **What if I am no longer comfortable teaching an in-person workshop after the travel has been purchased?**
     * We encourage the purchase of insurance where possible. This will help ensure that most funds will be recouped in the event of cancellation.  In the event an Instructor is being reimbursed for expenses and cancels, the host will not be held responsible for insurance. 
     * We would ask that the Instructor teaches virtually if they are no longer comfortable teaching in-person. Learners will participate either fully online or fully in-person
-* **What if the in-person event policy changes before the workshop takes place? **
+* **What if the in-person event policy changes before the workshop takes place?**
     * We understand that policies change regularly and sometimes unexpectedly. We ask that the host provide any changes immediately to all involved parties so that the coordination can align with those changes. 	
-* **What are The Carpentries' in-person event procedures for in-person workshops? **
+* **What are The Carpentries' in-person event procedures for in-person workshops?**
     * We will follow the in-person event guidelines of the host institution. This will differ between organisations and we will ensure that all parties involved are aware of any policies that are in place.
 
 
@@ -357,11 +357,11 @@ This material is for current and aspiring Carpentries Instructors. Find material
 
 
 
-* **How do I get survey data/links for previous workshops? **
-    * The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshop Administration Team (via [workshops@carpentries.org](mailto:workshops@carpentries.org)) with your request and include a link to the workshop website(s) and/or slug(s).
+* **How do I get survey data/links for previous workshops?**
+    * The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the [Workshop Administration Team](mailto:workshops@carpentries.org) with your request and include a link to the workshop website(s) and/or slug(s).
 * **How many times a year do I have to teach to be eligible to vote?**
     * Instructors are required to teach at least one time per year to be eligible for voting. Please find our [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#individual-voting-membership) for more information. 
-* **What happens if I need to make changes to my workshop website? **
+* **What happens if I need to make changes to my workshop website?**
     * Please feel free to make changes to your website. You do not need to let us know, these changes are updated manually each week. However, if you change your workshop repo name (or link), please do let us know as we will not be able to pull information from your website without updating the link in our database.
 
 
@@ -394,4 +394,4 @@ This section will include definitions for terms used in the handbook and related
 * Who is responsible for updating its content? 
     * The Workshop Administration Team
 * How can someone provide feedback on its content?
-    * workshops@carpentries.org
+    * Email the [Workhop Administration Tream](mailto:workshops@carpentries.org)
