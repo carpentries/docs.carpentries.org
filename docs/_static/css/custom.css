@@ -1,0 +1,83 @@
+/* FONTS */
+
+@font-face {
+    font-family: "Mulish";
+    src: url("./Mulish/Mulish-VariableFont_wght.ttf");
+}
+
+body {
+    font-family: "Mulish";
+    background:  #E5E5E5;
+    color: #383838
+}
+
+h1 { font-family: "Mulish";
+      color: #383838; }
+
+
+h2 {
+    font-family: "Mulish";
+    color: #001483;
+}
+
+h3, h4, h5, h6 {
+    font-family: "Mulish";
+    color: #719EFF 
+}
+
+
+hr {
+    border: 1px solid #FF4955
+}
+/* colors */
+
+:root {
+    --pst-color-primary: 19, 156, 90;
+    --pst-color-active-navigation: 19, 156, 90;
+    --pst-color-h2: var(--color-text-base);
+}
+
+
+.bd-header, .bd-footer  {
+    background: #081457 !important; /* important to override theme color */
+    color: #E5E5E5 !important;
+}
+
+p.title.logo__title, p.copyright, p.theme-version, p.sphinx-version, .bd-sidebar-primary, .bd-sidebar-secondary, .fa-github-square:before, .fa-square-github:before, .fa-mastodon:before, .fa-square-twitter:before, .fa-twitter-square:before {
+    color: white;
+}
+
+
+
+/* buttons */
+
+.button>p>a {
+    box-shadow: 0px 4px 14px -7px #999999;
+    background-color: white;
+    border: 1px solid #bbbbbb;
+    display: inline-block;
+    cursor: pointer;
+    padding: 1em 1em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 140%;
+    margin: 2%;
+    width: 40%;
+}
+
+/* .button>p>a:hover {
+    border: 1px solid #FF4955
+} */
+
+.button>p>a:active {
+    position: relative;
+    top: 1px;
+}
+
+
+
+.bd-header .navbar-nav .dropdown button {
+    /* border: none; */
+    color: white;
+    display: unset;
+}
