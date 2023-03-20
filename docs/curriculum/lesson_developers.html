@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
 
-    <title>Lesson Developers &#8212; The Carpentries Handbook</title>
+    <title>Lesson Developers Handbook &#8212; The Carpentries Handbook</title>
   
   
   
@@ -486,42 +486,321 @@
             
             <article class="bd-article" role="main">
               
-  <section id="lesson-developers">
-<h1>Lesson Developers<a class="headerlink" href="#lesson-developers" title="Permalink to this heading">#</a></h1>
-<section id="description">
-<h2>Description<a class="headerlink" href="#description" title="Permalink to this heading">#</a></h2>
-<p>Lemon drops halvah apple pie halvah pudding muffin. Cupcake chupa chups tart fruitcake chocolate cake apple pie soufflé powder. Icing donut chocolate candy canes danish sesame snaps macaroon. Macaroon sugar plum gummies gummies jelly beans topping.</p>
+  <section id="lesson-developers-handbook">
+<h1>Lesson Developers Handbook<a class="headerlink" href="#lesson-developers-handbook" title="Permalink to this heading">#</a></h1>
+<section id="description-of-community-role">
+<h2>Description of Community Role<a class="headerlink" href="#description-of-community-role" title="Permalink to this heading">#</a></h2>
+<p>Lesson Developers create new lessons using The Carpentries open source lesson infrastructure. This lesson development takes place in The Carpentries Incubator, a space for the community to collaborate on lesson projects.</p>
+<section id="roles-and-responsibilities">
+<h3>Roles and responsibilities<a class="headerlink" href="#roles-and-responsibilities" title="Permalink to this heading">#</a></h3>
+<p>Beyond ensuring that the lesson remains compliant with <a class="reference external" href="https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator">the requirements for inclusion in The Carpentries Incubator</a>, there are no formal responsibilities associated with developing a lesson there: lesson projects in the Incubator are community efforts that belong to the individual developers contributing to them. These Developers can choose to manage them and commit time to them according to their preferences and availability.</p>
+<p>To ensure the continuing health and sustainability of their lesson project, The Carpentries recommends that Lesson Developers make themselves responsible for the following tasks:</p>
+<ul class="simple">
+<li><p>Managing the design and development of the lesson.</p></li>
+<li><p>Reading, responding to, and (where necessary) handling issues reported by community members.</p></li>
+<li><p>Welcoming and reviewing pull requests and other contributions made by community members.</p></li>
+<li><p>Communicating with the community about the ongoing development of the lesson.</p></li>
+<li><p>Recruiting Instructors to beta test the lesson, supporting preparations for pilot workshops, and incorporating feedback from those workshops.</p></li>
+<li><p>Submitting the lesson for open peer review and acceptance to <a class="reference external" href="https://carpentries-lab.org/">The Carpentries Lab</a>.</p></li>
+</ul>
 </section>
-<section id="communication">
-<h2>Communication<a class="headerlink" href="#communication" title="Permalink to this heading">#</a></h2>
-<p>Jujubes caramels cheesecake gummi bears danish cheesecake cake tiramisu. Chocolate cake carrot cake tart cake cupcake jelly-o gummi bears chocolate cookie.</p>
+<section id="onboarding">
+<h3>Onboarding<a class="headerlink" href="#onboarding" title="Permalink to this heading">#</a></h3>
+<p>Lesson Developers can start a new lesson any time by <a class="reference external" href="https://github.com/carpentries-incubator/proposals/issues/new?assignees=&amp;labels=&amp;template=issue_proposal.md">opening a new issue on The Carpentries Incubator Proposals repository</a>. The issue template includes several questions, which should be answered to help the Curriculum Team set up the lesson repository correctly in the Incubator.</p>
+<p>Community members with an idea for a new lesson can also apply to join Collaborative Lesson Development Training, which will be scheduled periodically starting in 2023.</p>
 </section>
-<section id="guides">
-<h2>Guides<a class="headerlink" href="#guides" title="Permalink to this heading">#</a></h2>
-<p>Chocolate croissant sesame snaps powder pie tiramisu tiramisu gummies jelly-o. Donut sweet macaroon pudding biscuit croissant. Candy canes powder sugar plum chocolate muffin soufflé gummi bears.</p>
+<section id="offboarding">
+<h3>Offboarding<a class="headerlink" href="#offboarding" title="Permalink to this heading">#</a></h3>
+<p>There is no formal offboarding process for Lesson Developers working on projects in The Carpentries Incubator.</p>
+<p>To ensure the continuing health and sustainability of the project, The Carpentries recommends that Lesson Developers take the following actions when stepping away from a lesson:</p>
+<ul class="simple">
+<li><p>Communicate the decision to the other developers of the lesson, so that they can redistribute tasks and plan the project accordingly.</p></li>
+<li><p>Re-assign any issues assigned to them, to another member of the lesson development team.</p></li>
+<li><p>Remove their name from the lesson README file and anywhere else where authors of the lesson are listed.</p></li>
+<li><p>Ask the project owner (a developer with Admin access to the repository) to revoke the outgoing developer’s privileges on the lesson repository.</p></li>
+<li><p>If the sole remaining developer of the lesson is leaving the project, add a notice to the top of the repository README and the lesson front page (<code class="docutils literal notranslate"><span class="pre">index.md</span></code>) to inform visitors that the lesson is not being actively maintained/developed. In these circumstances, consider:</p>
+<ul>
+<li><ol class="arabic simple">
+<li><p>contacting the <a class="reference external" href="mailto:incubator&#37;&#52;&#48;carpentries&#46;org">Incubator administrator team</a> to let them know that the lesson will be unmaintained, and</p></li>
+</ol>
+</li>
+<li><ol class="arabic simple" start="2">
+<li><p>archiving the lesson repository.</p></li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+<p>If the developers wish to remove the lesson from The Carpentries Incubator, the project owner (a developer with Admin access) can transfer the lesson repository out of the <code class="docutils literal notranslate"><span class="pre">carpentries-incubator</span></code> GitHub organisation via <strong>Settings</strong>-&gt;<strong>General</strong>-&gt;<strong>Danger Zone</strong>-&gt;<strong>Transfer Ownership</strong>.</p>
+</section>
+</section>
+<section id="communication-and-collaboration-spaces">
+<h2>Communication and Collaboration Spaces<a class="headerlink" href="#communication-and-collaboration-spaces" title="Permalink to this heading">#</a></h2>
+<section id="community-calendar">
+<h3>Community Calendar<a class="headerlink" href="#community-calendar" title="Permalink to this heading">#</a></h3>
+<p>Once scheduled, all Lesson Development Coworking Sessions are listed on our <a class="reference external" href="https://carpentries.org/community/#community-events">Community Calendar</a>. You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.</p>
+</section>
+<section id="etherpad">
+<h3>Etherpad<a class="headerlink" href="#etherpad" title="Permalink to this heading">#</a></h3>
+<p>Below is a list of Etherpads relevant to serving as a Lesson Developer.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://pad.carpentries.org/pad-of-pads">Pad-of-pads</a>: A list of our most commonly used Etherpads and other resources.</p></li>
+<li><p><a class="reference external" href="https://codimd.carpentries.org/lessondev-coworking">Lesson Development Coworking Session Notes</a>: Signup information, connection details, and notes taken from monthly coworking sessions (CodiMD),</p></li>
+</ul>
+</section>
+<section id="github">
+<h3>GitHub<a class="headerlink" href="#github" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/carpentries-incubator/proposals">The Carpentries Incubator Proposals repository</a>: a place for The Carpentries community to propose new lessons for development in the Incubator.</p></li>
+<li><p><a class="reference external" href="https://github.com/carpentries-lab/reviews">The Carpentries Lab Reviews repository</a>: a place for Lesson Developers to submit lessons for open peer review and acceptance to The Carpentries Lab.</p></li>
+</ul>
+</section>
+<section id="slack">
+<h3>Slack<a class="headerlink" href="#slack" title="Permalink to this heading">#</a></h3>
+<p><a class="reference external" href="https://swc-slack-invite.herokuapp.com/">Join The Carpentries Slack workspace.</a> To follow conversations relevant to this role, you should join the following channels:</p>
+<ul class="simple">
+<li><p><span style="text-decoration:underline;">The <a class="reference external" href="https://swcarpentry.slack.com/archives/C3KUTT5V3">#lesson-dev channel on The Carpentries Slack workspace</a></span> is a platform for the whole community to ask questions and engage in discussions around the subject of lesson development.</p></li>
+<li><p>We recommend that Lesson Developers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.</p></li>
+<li><p>It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.</p></li>
+</ul>
+<p>If Slack is new to you, our <a class="reference external" href="https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide">Slack Quick Start Guide</a> will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.</p>
+</section>
+<section id="mailing-list">
+<h3>Mailing List<a class="headerlink" href="#mailing-list" title="Permalink to this heading">#</a></h3>
+<p>You can access The Carpentries mailing lists from <a class="reference external" href="https://carpentries.topicbox.com/latest">TopicBox</a>. The <a class="reference external" href="https://carpentries.topicbox.com/groups/incubator-developers">incubator-developers mailing list</a> is the one relevant to serving in this role.</p>
+<p>To join one or more Carpentries mailing lists, you will need to <a class="reference external" href="https://carpentries.topicbox.com/latest">create a login on the site</a>. Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval).</p>
+</section>
+</section>
+<section id="step-by-step-guides">
+<h2>Step-by-Step Guides<a class="headerlink" href="#step-by-step-guides" title="Permalink to this heading">#</a></h2>
+<section id="adapting-existing-lessons-for-the-carpentries">
+<h3>Adapting Existing Lessons for The Carpentries<a class="headerlink" href="#adapting-existing-lessons-for-the-carpentries" title="Permalink to this heading">#</a></h3>
+<p>Lessons must use The Carpentries template and infrastructure to be included in the Incubator or Lab. The Curriculum Development Handbook includes <a class="reference external" href="https://cdh.carpentries.org/adapting-existing-lessons-for-the-carpentries.html">a guide for adapting existing lessons to use The Carpentries lesson template</a>.</p>
+</section>
+<section id="using-issue-labels-to-promote-collaboration">
+<h3>Using Issue Labels to Promote Collaboration<a class="headerlink" href="#using-issue-labels-to-promote-collaboration" title="Permalink to this heading">#</a></h3>
+<p>GitHub allows the maintainers of a repository to add contextual information to Issues and Pull Requests in the form of labels. Two labels, used by The Carpentries and in many repositories across GitHub, can be deployed to increase the visibility of your lesson and encourage community members to contribute to its development.</p>
+<p>The <strong>“help wanted”</strong> label should be used to highlight issues with which you would welcome additional help. The Carpentries website includes <a class="reference external" href="https://carpentries.org/help-wanted-issues/">a Help Wanted page</a>, which can automatically list every issue labelled “help wanted” on repositories from The Carpentries, Software Carpentry, Data Carpentry, Library Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how to include issues from your lesson repository on the Help Wanted page by reviewing the <a class="reference external" href="https://carpentries.org/help-wanted-issues/#for-maintainers">Information for Maintainers</a> on the page itself.</p>
+<p>The <strong>“good first issue”</strong> label should be used to identify issues that would make a good entry point for newcomers searching for a way to contribute to your lesson. The work needed to close an issue with this label would typically not require an extensive knowledge of the structure or intricacies of your lesson repository, or an expert understanding of the content. The “good first issue” label is used so extensively that GitHub provides a page at<a class="reference external" href="https://github.com/swcarpentry/r-novice-gapminder/contribute"> [repository URL]/contribute</a> for every repository, listing issues with this label.</p>
+</section>
+<section id="adding-topic-tags-to-a-lesson-repository">
+<h3>Adding Topic Tags to a Lesson Repository<a class="headerlink" href="#adding-topic-tags-to-a-lesson-repository" title="Permalink to this heading">#</a></h3>
+<p><a class="reference external" href="https://carpentries.org/community-lessons/">Lessons under community development in the Carpentries Incubator</a> are listed on The Carpentries website, based on metadata describing the lesson. This metadata is added in the form of topic tags on the lesson repository. These topic tags should be set as soon as possible after the lesson has been created or added to the Incubator. Some are essential and taken from a limited set of values, while others are more flexible. The table below has guidance about the types and number of topic tags each lesson repository should have.</p>
+<table>
+  <tr>
+   <td><strong>Category</strong>
+   </td>
+   <td><strong>Example</strong>
+   </td>
+   <td><strong>Number</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Lesson*
+   </td>
+   <td>lesson
+   </td>
+   <td>1
+   </td>
+   <td>Must be lesson to be listed on the Community Developed Lessons page.
+   </td>
+  </tr>
+  <tr>
+   <td>Location*
+   </td>
+   <td>carpentries-incubator
+   </td>
+   <td>1
+   </td>
+   <td>carpentries-incubator or carpentrieslab.
+   </td>
+  </tr>
+  <tr>
+   <td>Language*
+   </td>
+   <td>español
+   </td>
+   <td>>0
+   </td>
+   <td>The language(s) the lesson is available in.
+   </td>
+  </tr>
+  <tr>
+   <td>Stage*
+   </td>
+   <td>alpha
+   </td>
+   <td>1
+   </td>
+   <td><a href="https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle">The current development stage for the lesson</a>.
+   </td>
+  </tr>
+  <tr>
+   <td>Domain
+   </td>
+   <td>microbial-ecology
+   </td>
+   <td>1-2
+   </td>
+   <td>The high-level domain(s) of the lesson, for a general categorization.
+   </td>
+  </tr>
+  <tr>
+   <td>Tools
+   </td>
+   <td>python
+   </td>
+   <td>1-3
+   </td>
+   <td>The main tool(s) taught in the lesson.
+   </td>
+  </tr>
+  <tr>
+   <td>Skills
+   </td>
+   <td>taxonomic-classification
+   </td>
+   <td>1-3
+   </td>
+   <td>The main skill(s) taught in the lesson.
+   </td>
+  </tr>
+</table>
+<p><em>Categories marked with an asterisk (*) are required in order for a lesson to appear and be appropriately sorted on the <a class="reference external" href="https://carpentries.org/community-lessons/">Community Developed Lessons page</a>.</em></p>
+<p>The Curriculum Team will support you in setting appropriate topic tags for your lesson. To help ensure consistency across all lesson repositories developed by The Carpentries community, please refer to this <a class="reference external" href="https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing">listing of topic tags currently in use</a> in The Carpentries Incubator, and re-use these values where appropriate, creating new topic tags where no pre-existing label exists for your lesson.</p>
+</section>
+<section id="how-to-organise-a-lesson-development-sprint">
+<h3>How to Organise a Lesson Development Sprint<a class="headerlink" href="#how-to-organise-a-lesson-development-sprint" title="Permalink to this heading">#</a></h3>
+<p>Many Lesson Developers find it helpful to organise a dedicated event to make progress and enhance collaboration on their lesson projects. The Curriculum Development Handbook includes <a class="reference external" href="https://cdh.carpentries.org/lesson-sprint-recommendations.html">a set of recommendations for how to organise an effective and inclusive lesson development sprint event</a>.</p>
+</section>
+<section id="promoting-your-project-in-the-incubator-lesson-spotlight">
+<h3>Promoting Your Project in The Incubator Lesson Spotlight<a class="headerlink" href="#promoting-your-project-in-the-incubator-lesson-spotlight" title="Permalink to this heading">#</a></h3>
+<p>The Incubator Lesson Spotlight is a regular feature in The Carpentries blog and newsletter, highlighting a lesson currently under community development. The purpose of the Spotlight series is to raise the visibility of that lesson among the broader community, and to encourage community members to contribute to the further development of that lesson.</p>
+<p>Any lesson in <a class="reference external" href="https://github.com/carpentries-incubator/">The Carpentries Incubator</a> is eligible to be included in the series, regardless of the stage of development that lesson is currently in. It is a good way for lessons in the early stages of development to attract new collaborators, and for those in later stages to invite others to informally review the lesson and to try teaching the material. To submit your lesson to be featured in the series, follow the steps below.</p>
+<ol class="arabic simple">
+<li><p>Think about how you can prepare your lesson for new contributors before the feature is published. This might mean labelling existing issues (e.g. to appear on <a class="reference external" href="https://carpentries.org/help-wanted-issues/">the Help Wanted page</a>) or creating new ones, making sure that your CONTRIBUTING.md is up-to-date, and/or planning publication of the Spotlight feature to fit with a relatively quiet period in your schedule so that you can respond promptly to any new issues and pull requests.</p></li>
+<li><p>Fill in <a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLScJimGMtzqAFE-Tii-LvbfGZqtKj0OC4ken7_Qdlta8uZXAUA/viewform">the Incubator Lesson Spotlight content submission form</a>, providing details of the lesson to be included in the feature. It may be beneficial to collaborate on this content with other developers working on the lesson. The Carpentries Core Team will use the content provided in the form to create a post for <a class="reference external" href="https://carpentries.org/blog/">The Carpentries blog</a> and an item for the<a class="reference external" href="https://carpentries.org/newsletter/"> Carpentries Clippings newsletter</a>.</p></li>
+<li><p>When the blog post has been drafted, a pull request will be opened to add that post to the website. You will be tagged for an (optional) review of this pull request before it is published. To review the blog post, read through the post content and comment on the issue thread to request any changes to the feature.</p></li>
+</ol>
+</section>
+<section id="submitting-a-lesson-to-the-carpentries-lab">
+<h3>Submitting a Lesson to The Carpentries Lab<a class="headerlink" href="#submitting-a-lesson-to-the-carpentries-lab" title="Permalink to this heading">#</a></h3>
+<p>The Carpentries Lab hosts community-developed lessons that have been peer reviewed and can be relied upon by Instructors to meet a high standard of quality and stability. The Lab provides a platform for open peer review of lessons, and to promote the lessons that have entered the collection.</p>
+<p>To submit a lesson for peer review in The Carpentries Lab, follow these steps:</p>
+<ol class="arabic simple">
+<li><p>Check <a class="reference external" href="https://github.com/carpentries-lab/reviews#what-makes-a-lesson-a-good-candidate-for-the-carpentries-lab">the eligibility criteria for lessons to be reviewed in the Lab</a>.</p></li>
+<li><p><a class="reference external" href="https://github.com/carpentries-lab/reviews/issues/new?assignees=&amp;labels=new-submission&amp;template=submission.md&amp;title=%5BREV%5D%3A+">Open a new issue on the Reviews repository</a> and answer the questions in the issue template to tell the Editors about the lesson.</p></li>
+</ol>
+</section>
+<section id="piloting-a-lesson">
+<h3>Piloting a Lesson<a class="headerlink" href="#piloting-a-lesson" title="Permalink to this heading">#</a></h3>
+<p>Teaching a lesson for the first time is very rewarding, but the experience of the Instructors and learners also identifies opportunities to address and further clarify parts of the content. This makes early lesson teachings, which we refer to as <em>lesson pilots</em>, crucial milestones in the development of a high-quality lesson. As well as teaching new and exciting skills to learners, the additional purpose of pilot workshops is to collect information and feedback that can be used to polish content and make the lesson more reusable by other Instructors (e.g. by recording accurate timings for episodes and exercises, expanding Instructor Notes, etc.).</p>
+<section id="alpha-and-beta-pilots">
+<h4>Alpha and Beta Pilots<a class="headerlink" href="#alpha-and-beta-pilots" title="Permalink to this heading">#</a></h4>
+<p>The lesson development process includes pilot workshops at two different stages, which we refer to as <em>alpha</em> and <em>beta</em> pilots. Alpha pilots are the first workshops where the lesson is taught, almost always by some or all of the original developers of the lesson.</p>
+<p>After the feedback from these alpha pilots has been used to improve the lesson, it can enter the beta stage, where other Instructors - who did not have a major part in the previous development of the lesson - teach it and provide feedback.</p>
+<p>Information about these pilots, and the requirements for piloting official Carpentries lessons, can be found in the <a class="reference external" href="https://cdh.carpentries.org/the-lesson-life-cycle.html">Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook</a>.</p>
+</section>
+<section id="information-for-lesson-developers">
+<h4>Information for Lesson Developers<a class="headerlink" href="#information-for-lesson-developers" title="Permalink to this heading">#</a></h4>
+<section id="finding-hosts-for-beta-pilots">
+<h5>Finding Hosts for Beta Pilots<a class="headerlink" href="#finding-hosts-for-beta-pilots" title="Permalink to this heading">#</a></h5>
+<p>If you are developing a new official Carpentries lesson - a lesson developed based on prior agreement with The Carpentries, and is intended to become another lesson/curriculum offered in centrally-organised workshops - the Curriculum Team will help you find hosts and Instructors for pilot workshops.</p>
+<p>If you are developing a lesson in The Carpentries Incubator, you can recruit pilot hosts by putting out a call via <a class="reference external" href="https://carpentries.topicbox.com/groups/discuss">the discuss TopicBox list</a>, <a class="reference external" href="https://carpentries.org/connect/">the general channel on The Carpentries Slack workspace</a>, <a class="reference external" href="https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html">by publishing a post on our blog</a>, and/or by any other communications channel that you think appropriate (e.g. the mailing list of a specific community likely to be interested in the lesson topic). You may find this <a class="reference external" href="https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing">template blog post</a> and/or this <a class="reference external" href="https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing">template email message</a> helpful starting points. If after taking these steps, you need help finding hosts to pilot your lesson, or if you have any questions about the lesson pilot process for lessons in The Carpentries Incubator, you can contact the <a class="reference external" href="mailto:incubator&#37;&#52;&#48;carpentries&#46;org">Incubator administrator team</a>.</p>
+</section>
+<section id="collecting-feedback-on-the-lesson">
+<h5>Collecting Feedback on the Lesson<a class="headerlink" href="#collecting-feedback-on-the-lesson" title="Permalink to this heading">#</a></h5>
+<p>Feedback from learners will be a valuable source of information about and suggestions for how your lesson could be further improved after the pilot. The standard Carpentries pre- and post-workshop surveys do not support lesson pilots so you will need to create your own surveys to send out before/after a pilot workshop. Although surveys for pilot workshops will frequently include questions that are specific to the particular lesson being piloted, there are some standard feedback questions that can be asked after a pilot to assess the design and flow of the lesson. This <a class="reference external" href="https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview">template post-pilot workshop survey</a> can be copied and adapted to your lesson, and shared with learners in place of the standard post-workshop survey.</p>
+<p>It is also important to gather information about the lesson while it is being taught. Check <a class="reference external" href="https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage">the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook</a> for a list of things to take note of during the pilot workshop. We recommend assigning a specific person or people to keep track of these points (e.g. an Instructor or Helper). You may find it helpful to make a copy of <a class="reference external" href="https://codimd.carpentries.org/lesson-pilot-observation-notes-template">the pilot observation notes template</a> to use during the workshop.</p>
+</section>
+</section>
+<section id="information-for-hosts">
+<h4>Information for Hosts<a class="headerlink" href="#information-for-hosts" title="Permalink to this heading">#</a></h4>
+<section id="recruiting-instructors-for-beta-pilots">
+<h5>Recruiting Instructors for Beta Pilots<a class="headerlink" href="#recruiting-instructors-for-beta-pilots" title="Permalink to this heading">#</a></h5>
+<p>If you are hosting a pilot of a new official Carpentries lesson - a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops - the Curriculum Team will help you find Instructors for pilot workshops.</p>
+<p>The Carpentries is also keen to support the development and piloting of lessons in The Carpentries Incubator. If you are hosting a pilot of a lesson in the Incubator, we ask that you <strong>first</strong> try to find Instructors for pilot workshops yourself. Often, hosts are able to recruit certified Instructors from their local community with relevant knowledge of the lesson topic, but in some cases this will not be possible. If you wish to recruit Instructors for a pilot workshop, try putting a call out on <a class="reference external" href="https://carpentries.topicbox.com/groups">local/regional community mailing lists</a>, any relevant channels on <a class="reference external" href="https://carpentries.org/connect/">The Carpentries Slack workspace</a> (the lesson authors may be able to direct you to these), and/or <a class="reference external" href="https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html">by publishing a post on our blog</a>. Please do not post calls for Instructors to the general or instructors channel on Slack, or the discuss and instructors lists on TopicBox. Any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can email the <a class="reference external" href="mailto:incubator&#37;&#52;&#48;carpentries&#46;org">Incubator administrator team</a> for assistance.</p>
+</section>
+<section id="creating-a-pilot-workshop-webpage">
+<h5>Creating a Pilot Workshop Webpage<a class="headerlink" href="#creating-a-pilot-workshop-webpage" title="Permalink to this heading">#</a></h5>
+<p><a class="reference external" href="https://github.com/carpentries/workshop-template">The Carpentries workshop webpage template</a> supports the creation of webpages for pilot workshops. <a class="reference external" href="https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml">The Customisation page of the template documentation</a> has instructions on how to configure the webpage for a pilot workshop.</p>
+<p>If you are piloting a new official Carpentries lesson - a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops - please <a class="reference external" href="https://amy.carpentries.org/forms/self-organised/">register your pilot as a Self-Organised Workshop</a>. If you do not find the lesson/curriculum being piloted listed as one of the choices on that form, please contact <a class="reference external" href="mailto:team&#37;&#52;&#48;carpentries&#46;org">The Carpentries Core Team</a>.</p>
+<p>For workshops teaching lessons in The Carpentries Incubator, you should create a workshop webpage but should not submit the workshop details to The Carpentries team via the form linked above. Instead, if you want to tell the community about your event you can do so by filling in the form under <em>Workshops</em> on <a class="reference external" href="https://carpentries-incubator.org/">The Incubator homepage</a>. Workshops submitted there will be processed by the Curriculum Team and will be listed in the table on that page.</p>
+</section>
+</section>
+</section>
 </section>
 <section id="resources">
 <h2>Resources<a class="headerlink" href="#resources" title="Permalink to this heading">#</a></h2>
-<p>Apple pie jelly-o chocolate croissant topping gummies macaroon lollipop wafer. Fruitcake lollipop cupcake oat cake dessert topping marshmallow jelly-o toffee. Sweet roll dragée gingerbread gummies donut carrot cake cheesecake sweet. Dessert jelly-o topping tart caramels halvah carrot cake gingerbread.</p>
+<p>Please add a list of resources relevant to the content in the handbook (e.g., communication templates). Each resource should include a section “about this resource” which provide a brief description</p>
+<section id="introduction-to-the-carpentries-workbench">
+<h3><a class="reference external" href="https://carpentries.github.io/sandpaper-docs/">Introduction to The Carpentries Workbench</a><a class="headerlink" href="#introduction-to-the-carpentries-workbench" title="Permalink to this heading">#</a></h3>
+<section id="about-this-resource">
+<h4>About this resource<a class="headerlink" href="#about-this-resource" title="Permalink to this heading">#</a></h4>
+<p>Documentation for The Carpentries Workbench, open source infrastructure for lesson websites. The documentation explains how to install the Workbench so that Lesson Developers can edit and preview their lessons on their own computer, how to initialise a new lesson and use the various elements of the lesson template, and how to keep up to date with the latest changes to the infrastructure.</p>
 </section>
-<section id="faq">
-<h2>FAQ<a class="headerlink" href="#faq" title="Permalink to this heading">#</a></h2>
-<ol class="arabic simple">
-<li><p>How do I do this?</p></li>
-</ol>
-<p>Cookie macaroon tootsie roll chocolate bear claw jelly.</p>
-<ol class="arabic simple">
-<li><p>How do I do that?</p></li>
-</ol>
-<p>Sweet roll fruitcake cookie lollipop shortbread powder.</p>
 </section>
-<section id="glossary">
-<h2>Glossary<a class="headerlink" href="#glossary" title="Permalink to this heading">#</a></h2>
-<p>Muffin lemon drops gummi bears cookie pastry jelly beans candy cake tart. Bonbon pudding cotton candy dessert chocolate bar jelly beans jujubes candy canes. Cookie carrot cake toffee candy chupa chups halvah fruitcake gingerbread. Dragée pastry halvah gummi bears fruitcake.</p>
+<section id="curriculum-development-handbook">
+<h3><a class="reference external" href="https://cdh.carpentries.org/">Curriculum Development Handbook</a><a class="headerlink" href="#curriculum-development-handbook" title="Permalink to this heading">#</a></h3>
+<section id="id1">
+<h4>About this resource<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h4>
+<p>A guide to the lesson design process recommended by The Carpentries. The CDH provides details of the curriculum structure used by our Lesson Programs, the vocabulary we use to describe <a class="reference external" href="https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle">the life cycle stages of the lesson</a>, and the steps we encourage Lesson Developers to take through those stages. <strong>Note: the Curriculum Team is in the process of replacing the content of the CDH with this handbook and <a class="reference external" href="https://carpentries.github.io/lesson-development-training/">the Collaborative Lesson Development Training curriculum</a>, and it is no longer actively updated.</strong></p>
 </section>
-<section id="about">
-<h2>About<a class="headerlink" href="#about" title="Permalink to this heading">#</a></h2>
-<p>Cake carrot cake jelly beans shortbread cotton candy topping liquorice toffee biscuit. Cake shortbread gummi bears chocolate bonbon jelly-o dragée. Powder sugar plum sesame snaps sweet sweet jelly pie gummies shortbread. Cupcake bonbon tiramisu brownie jelly. Marzipan ice cream pudding jujubes jelly powder. Dragée jelly beans candy ice cream marshmallow jelly lollipop. Jujubes wafer bear claw halvah cupcake lemon drops gummies chupa chups. Fruitcake soufflé tootsie roll jelly-o dessert candy canes.</p>
+</section>
+<section id="collaborative-lesson-development-training-curriculum">
+<h3><a class="reference external" href="https://carpentries.github.io/lesson-development-training/">Collaborative Lesson Development Training Curriculum</a><a class="headerlink" href="#collaborative-lesson-development-training-curriculum" title="Permalink to this heading">#</a></h3>
+<section id="id2">
+<h4>About this resource<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h4>
+<p>A lesson designed to teach skills and good practices in lesson design, lesson website development, and collaboration via GitHub. Community members can apply to join this training, and/or follow the curriculum in their own time.</p>
+</section>
+</section>
+<section id="pilot-workshop-feedback-survey-template">
+<h3><a class="reference external" href="https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview">Pilot Workshop Feedback Survey Template</a><a class="headerlink" href="#pilot-workshop-feedback-survey-template" title="Permalink to this heading">#</a></h3>
+<section id="id3">
+<h4>About this resource<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h4>
+<p>The standard Carpentries pre- and post-workshop surveys do not support lesson pilots so you will need to create your own surveys to send out before/after a pilot workshop. Although surveys for pilot workshops will frequently include questions that are specific to the particular lesson being piloted, there are some standard feedback questions that can be asked after a pilot to assess the design and flow of the lesson. <a class="reference external" href="https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview">This template post-pilot workshop survey</a> can be copied and adapted to suit the needs of your lesson, and shared with learners in place of the standard post-workshop survey.</p>
+</section>
+</section>
+<section id="beta-announcement-templates">
+<h3>Beta Announcement Templates<a class="headerlink" href="#beta-announcement-templates" title="Permalink to this heading">#</a></h3>
+<section id="id4">
+<h4>About this resource<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h4>
+<p>A <a class="reference external" href="https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing">template beta announcement blog post</a> and <a class="reference external" href="https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing">template beta announcement email message</a> to publicise the beta version of a lesson. These can be used to call for community members to volunteer to host a beta pilot workshop to aid the ongoing development of the lesson.</p>
+</section>
+</section>
+</section>
+<section id="faqs">
+<h2>FAQs<a class="headerlink" href="#faqs" title="Permalink to this heading">#</a></h2>
+<p><strong>Question 1</strong></p>
+<p>Response 1</p>
+<p><strong>Question 2</strong></p>
+<p>Response 2</p>
+</section>
+<section id="glossary-of-terms">
+<h2>Glossary of Terms<a class="headerlink" href="#glossary-of-terms" title="Permalink to this heading">#</a></h2>
+<p>Carpentries Incubator</p>
+<p>Carpentries Lab</p>
+<p>Curriculum</p>
+<p>Curriculum Development Handbook</p>
+<p>Curriculum Team</p>
+<p>Episode</p>
+<p>Incubator Lesson</p>
+<p>Incubator Lesson Spotlight</p>
+<p>Lab Lesson</p>
+<p>Lesson</p>
+<p>Lesson Developer</p>
+<p>Lesson Development Sprint</p>
+<p>Lesson Infrastructure</p>
+<p>Maintainer</p>
+<p>Pilot Workshop</p>
+<p>Slack</p>
+<p>TopicBox</p>
+</section>
+<section id="about-this-handbook">
+<h2>About This Handbook<a class="headerlink" href="#about-this-handbook" title="Permalink to this heading">#</a></h2>
+<p>This handbook is designed to support members of The Carpentries community who are developing new lessons in The Carpentries Incubator. It is maintained by The Carpentries Curriculum Team. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the <a class="reference external" href="mailto:curriculum&#37;&#52;&#48;carpentries&#46;org">Curriculum Team</a>, or open an issue on [the source repository of this handbook](URL of handbook repo).</p>
 </section>
 </section>
 
@@ -564,38 +843,222 @@
 <nav id="bd-toc-nav" class="page-toc">
     <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#description">
-   Description
+  <a class="reference internal nav-link" href="#description-of-community-role">
+   Description of Community Role
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#roles-and-responsibilities">
+     Roles and responsibilities
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#onboarding">
+     Onboarding
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#offboarding">
+     Offboarding
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#communication">
-   Communication
+  <a class="reference internal nav-link" href="#communication-and-collaboration-spaces">
+   Communication and Collaboration Spaces
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#community-calendar">
+     Community Calendar
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#etherpad">
+     Etherpad
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#github">
+     GitHub
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#slack">
+     Slack
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#mailing-list">
+     Mailing List
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#guides">
-   Guides
+  <a class="reference internal nav-link" href="#step-by-step-guides">
+   Step-by-Step Guides
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#adapting-existing-lessons-for-the-carpentries">
+     Adapting Existing Lessons for The Carpentries
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#using-issue-labels-to-promote-collaboration">
+     Using Issue Labels to Promote Collaboration
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#adding-topic-tags-to-a-lesson-repository">
+     Adding Topic Tags to a Lesson Repository
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#how-to-organise-a-lesson-development-sprint">
+     How to Organise a Lesson Development Sprint
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#promoting-your-project-in-the-incubator-lesson-spotlight">
+     Promoting Your Project in The Incubator Lesson Spotlight
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#submitting-a-lesson-to-the-carpentries-lab">
+     Submitting a Lesson to The Carpentries Lab
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#piloting-a-lesson">
+     Piloting a Lesson
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#alpha-and-beta-pilots">
+       Alpha and Beta Pilots
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#information-for-lesson-developers">
+       Information for Lesson Developers
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#finding-hosts-for-beta-pilots">
+         Finding Hosts for Beta Pilots
+        </a>
+       </li>
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#collecting-feedback-on-the-lesson">
+         Collecting Feedback on the Lesson
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#information-for-hosts">
+       Information for Hosts
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#recruiting-instructors-for-beta-pilots">
+         Recruiting Instructors for Beta Pilots
+        </a>
+       </li>
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#creating-a-pilot-workshop-webpage">
+         Creating a Pilot Workshop Webpage
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#resources">
    Resources
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#introduction-to-the-carpentries-workbench">
+     Introduction to The Carpentries Workbench
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#about-this-resource">
+       About this resource
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#curriculum-development-handbook">
+     Curriculum Development Handbook
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#id1">
+       About this resource
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#collaborative-lesson-development-training-curriculum">
+     Collaborative Lesson Development Training Curriculum
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#id2">
+       About this resource
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pilot-workshop-feedback-survey-template">
+     Pilot Workshop Feedback Survey Template
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#id3">
+       About this resource
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#beta-announcement-templates">
+     Beta Announcement Templates
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#id4">
+       About this resource
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#faq">
-   FAQ
+  <a class="reference internal nav-link" href="#faqs">
+   FAQs
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#glossary">
-   Glossary
+  <a class="reference internal nav-link" href="#glossary-of-terms">
+   Glossary of Terms
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#about">
-   About
+  <a class="reference internal nav-link" href="#about-this-handbook">
+   About This Handbook
   </a>
  </li>
 </ul>
