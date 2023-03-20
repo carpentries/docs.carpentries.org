@@ -394,5 +394,4 @@ This section will include definitions for terms used in the handbook and related
 * Who is responsible for updating its content? 
     * The Workshop Administration Team
 * How can someone provide feedback on its content?
-    * Email the [Workhop Administration Team](mailto:workshops@carpentries.org)
-
+    * Email the [Workhop Administration Tream](mailto:workshops@carpentries.org)
