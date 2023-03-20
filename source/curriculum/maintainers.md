@@ -2,6 +2,9 @@
 title: "Maintainers"
 ---
 
+
+# Maintainers Handbook
+
 ## Description of Community Role
 
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavour to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
@@ -14,6 +17,7 @@ The Carpentries teaches 400–600 workshops each year, meaning our lesson materi
 A secondary (but still extremely important!) goal is ensuring that the spaces we use for lesson development and maintenance are just as welcoming and inclusive as our workshops.
 
 Ensuring that our lessons are on the cutting-edge of new technology and tooling is _not_ a priority for The Carpentries. Although we do want our materials to stay relevant, it is far more important that our lessons remain pedagogically sound and technically viable, than that they represent the latest and greatest new developments in the field.
+
 
 With these goals in mind, The Carpentries expectations of Maintainers are to:
 
@@ -57,7 +61,6 @@ Maintainers represent The Carpentries community and should strive to embody The 
     * Keep language motivating.
     * Emphasise the importance of continued learning and improvement.
 
-
 ### Onboarding
 
 New Maintainers go through an onboarding process, led by a member of The Carpentries Curriculum Team and the Maintainer Community Lead. Maintainer Onboarding takes place at least once per year. New rounds of onboarding will be announced on The Carpentries blog and main communications channels (discuss TopicBox, general Slack channel).
@@ -96,6 +99,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
 * [Maintainer Community Call Notes](https://codimd.carpentries.org/maintainers): Signup information, connection details, and notes taken from monthly coworking sessions (CodiMD).
+
 
 
 ### GitHub
@@ -260,6 +264,7 @@ If you plan to temporarily step away from the role of Maintainer, e.g. parental 
 Please add a list of resources relevant to the content in the handbook (e.g., communication templates). Each resource should include a section “about this resource” which provide a brief description.
 
 
+
 ### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
 
 
@@ -300,6 +305,19 @@ A guide to the lesson design process recommended by The Carpentries. The CDH pro
 A lesson designed to teach skills and good practices in lesson design, lesson website development, and collaboration via GitHub. Community members can apply to join this training, and/or follow the curriculum in their own time.
 
 
+## FAQs
+
+List of frequently asked questions relevant to the content in the handbook. 
+
+**Question 1**
+
+Response 1
+
+**Question 2**
+
+Response 2
+
+
 ## Glossary of Terms
 
 This section will include definitions for terms used in the handbook and related to the role. For now, list the terms to be included and do not include the definition. If a term is missing in [the existing glossary](https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing), please add it and provide a definition approved by your team. 
@@ -324,3 +342,4 @@ Slack
 ## About This Handbook
 
 This handbook is designed to support Maintainers - members of The Carpentries community who maintain one or more lesson repositories for our lesson programs. It is maintained by The Carpentries Curriculum Team. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please send an message to the [Curriculum Team](mailto:curriculum@carpentries.org) or open an issue on [the source repository of this handbook](#).
+
