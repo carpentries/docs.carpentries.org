@@ -4,13 +4,9 @@ title: "Curriculum Advisors"
 
 # Curriculum Advisors Handbook
 
-
-
 ## Description of Role
 
 Curriculum Advisors are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. Curriculum Advisors represent The Carpentries community and should strive to embody The Carpentries philosophy by:
-
-
 
 * Recognising the importance of communication and being welcoming to all contributors.
 * Giving feedback to contributors using The Carpentries model:
@@ -23,13 +19,9 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
     * Keeping language motivating.
     * Emphasising the importance of continued learning and improvement.
 
-
 ### Member roles and responsibilities
 
-
 #### Chair
-
-
 
 * Prepare agenda for regular meetings, including time estimates for each item.
 * Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
@@ -42,10 +34,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Approve meeting minutes.
 * Fulfill all other responsibilities of a CAC member.
 
-
 #### Secretary
-
-
 
 * Schedule regular meetings.
 * Arrange meeting room logistics.
@@ -54,10 +43,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Prepare meeting minutes and post to the appropriate CAC repository.
 * Fulfill all other responsibilities of a CAC member.
 
-
 #### Other members
-
-
 
 * Notify Chair of potential agenda items as they arise.
 * Review agenda and other relevant documents sent by Chair prior to meeting.
@@ -66,10 +52,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Work with community members and Maintainers to implement voted upon changes as needed.
 * (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned.
 
-
 ### Onboarding
-
-
 
 * CAC recruitment takes place annually, based on term limits and turnover within committees.
 * Rounds of recruitment will be announced on [The Carpentries blog](https://carpentries.org/blog/).
@@ -95,51 +78,36 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
             * [Library Carpentry](https://librarycarpentry.org/lessons/)
             * [Software Carpentry](https://software-carpentry.org/lessons/)
 
-
 ### Term Length
 
 Curriculum Advisors are expected to serve a two-year term.
-
 
 ### Offboarding
 
 We understand that circumstances can change and priorities must be re-evaluated. If a Curriculum Advisor needs to step away from the role before the end of their two-year term, the Curriculum Team will support them to do this.
 
-
-
 1. After the first year, the Curriculum Team will approach Curriculum Advisors to confirm that they wish to continue in the role or to step back.
 2. If an Advisor needs to step away from the role outside this schedule, they should inform their committee Chair and [the Curriculum Team](mailto:curriculum@carpentries.org).
-
-
----
-
 
 ## Communication and Collaboration Spaces
 
 Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our [code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).  
 
-
 ### Meetings
 
 Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reviewing and contributing to relevant documents in advance of the meeting.
-
 
 ### GitHub Repositories
 
 These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
 
-
-
 * [Data Carpentry Curriculum Advisors](https://github.com/datacarpentry/curriculum-advisors)
 * [Library Carpentry Curriculum Advisors](https://github.com/LibraryCarpentry/curriculum-advisors)
 * [Software Carpentry Curriculum Advisors](https://github.com/swcarpentry/curriculum-advisors)
 
-
 ### Collaborative Notetaking
 
 The Carpentries uses [Etherpad](https://etherpad.org/) as a collaborative note-taking tool during workshops, trainings, and other Carpentries related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor. 
-
-
 
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
 * [Software Carpentry CAC pad](https://pad.carpentries.org/swc-cac)
@@ -150,11 +118,9 @@ The Carpentries uses [Etherpad](https://etherpad.org/) as a collaborative note-t
 
 Please note that use of this service is restricted to members of The Carpentries community; it is not for general purpose use. All Etherpad content is publicly available under the [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/4.0/). 
 
-
 ### Messaging and Communication
 
 The Carpentries uses two primary tools for supporting communications among our members: Slack and TopicBox. We know that everyone has different communication preferences, so announcements and updates coming from members of the Core Team are posted to both channels.
-
 
 #### Slack
 
@@ -164,12 +130,9 @@ There are many curriculum-specific channels. We recommend that Curriculum Adviso
 
 [To join The Carpentries Slack workspace, you can follow this link.](https://swc-slack-invite.herokuapp.com/) 
 
-
 #### Mailing List
 
 You can access all The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). There are numerous mailing lists you can join based on the volunteer roles you are supporting and your interests. Below is a list of mailing lists relevant to the activities and programs covered by this handbook.
-
-
 
 * [curriculum-advisors-all | TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-all) - a general list for communication with and between all Curriculum Advisors
 * [curriculum-advisors-astronomy | Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-astronomy) - DC Astronomy
@@ -183,18 +146,11 @@ You can access all The Carpentries mailing lists from [TopicBox](https://carpent
 
 To join one or more Carpentries listservs, you will need to [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open listservs) or “Request to Join” (for those listservs requiring administrator approval). 
 
-
----
-
-
 ## Step-by-Step Guides
 
 Below is a step-by-step guide to support you in your role as a Curriculum Advisor. 
 
-
 ### Meeting Checklist
-
-
 
 * [Secretary] Create availability poll using whenisgood (or similar service). Be sure to enable the “use timezones” feature.
 * [Secretary] Start scheduling the meeting using the [email template](#scheduling-a-meeting).
@@ -227,24 +183,15 @@ Below is a step-by-step guide to support you in your role as a Curriculum Adviso
 * [Chair] Communicate about decisions with relevant Maintainers or other community members as needed using individual lesson repositories, mailing lists, or other channels as appropriate.
 * [Secretary] Set reminder to self to schedule next meeting.
 
-
----
-
-
 ## Resources
 
-
 ### Curriculum Advisory Committee Consultation Rubric
-
 
 #### About this resource
 
 _This rubric defines the division of responsibilities between The Carpentries Maintainers and The Carpentries Curriculum Advisory Committees (CACs)._
 
-
 #### Issues over which Maintainers have full authority and which do not need CAC involvement
-
-
 
 * Addition or removal of exercises
 * Reorganisation of material within episodes
@@ -253,19 +200,13 @@ _This rubric defines the division of responsibilities between The Carpentries Ma
 * Changes to episode timings
 * Changes to lesson text
 
-
 #### Issues about which Maintainers should consult the CAC
-
-
 
 * Any new versions of a dataset (either a new release or a modification of existing data)
 * Any major adjustments to the lesson (e.g., episode order, passwordless access)
 * Any updates to a lesson that Maintainers wish to share for informational purposes
 
-
 #### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority
-
-
 
 * Addition of a new library or package
 * Introduction of a new topic / learning objective (e.g., adding file permissions to LC shell lesson)
@@ -275,10 +216,7 @@ _This rubric defines the division of responsibilities between The Carpentries Ma
 * For Incubator lessons - Review of a lesson outline where lesson developers would like the lesson to be considered for eventual adoption into a Lesson Program’s official curriculum
 * Issues which are not covered anywhere else in this rubric
 
-
 #### Issues for which Maintainers must seek CAC approval
-
-
 
 * Replacing the dataset used in the lesson with a different dataset. This does not include cases in which the data being used in the lesson is being updated to a new version (e.g., a new data release) or is modified to make it more suitable for the teaching environment (e.g., introduction of messiness to the dataset).
 * Changing the software being used in the lesson. This does not include updating to a new stable, backwards-compatible version of the existing software (e.g., Python 3.6 → 3.7.x), but does include:
@@ -295,14 +233,11 @@ _This rubric defines the division of responsibilities between The Carpentries Ma
 * Adding or removing prerequisites from a lesson (for curricula with multiple lessons)
 * Promotion or graduation of a lesson from alpha to beta to stable. Decisions on approval can be based on recommendations from the Curriculum Team, CAC member involvement in lesson pilot workshops, and/or open peer review of lessons in The Carpentries Lab.
 
-
 ### Email templates
-
 
 #### About this resource
 
 _Curriculum Advisors can use these email templates for planning their meetings._
-
 
 #### Scheduling a meeting
 
@@ -315,7 +250,6 @@ I’d like to get us started on setting up our meeting for [ QUARTER YEAR ]. Thi
 To help schedule the meeting, could everyone please add their availability to this [whenisgood](link to whenisgood poll) by this coming Friday ([ DATE ])? Please make sure to put in your time zone at the top of the poll. I’ll review the results and let everyone know the meeting time by [ DATE ] so that you can clear up any holds on your calendar.
 
 Best, [ sender name ]
-
 
 #### Meeting announcement
 
@@ -330,7 +264,6 @@ A week before the meeting, I will send out our full agenda as well as meeting ro
 Please let me know if you have any questions in the meantime or if you didn’t get the GCal invite.
 
 Best, [ sender name ]
-
 
 #### Meeting reminder
 
@@ -354,7 +287,6 @@ Excited to meet with you all soon.
 
 Best, [ sender name ]
 
-
 #### Meeting followup
 
 Subject: Follow-up from [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum Advisory Committee
@@ -371,23 +303,13 @@ Please let me know if you have any questions or comments.
 
 Best, [ sender name ]
 
-
----
-
-
 ## Frequently Asked Questions
 
 **How do the responsibilities of Curriculum Advisors differ from Maintainers?**
 
 Please review the [Curriculum Advisory Committee Consultation Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
 
-
----
-
-
 ## Glossary of Terms
-
-
 
 * Carpentries Incubator
 * Carpentries Lab
@@ -415,10 +337,6 @@ Please review the [Curriculum Advisory Committee Consultation Rubric](https://do
 * Slack
 * TopicBox
 * Workshop
-
-
----
-
 
 ## About This Handbook
 
