@@ -158,7 +158,7 @@ The Carpentries uses two primary tools for supporting communications among our m
 
 #### Slack
 
-[Slack](slack.com) is a communications platform adopted by The Carpentries for instant messaging as well as synchronous and asynchronous collaboration. If you are new to Slack, please checkout our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide). 
+[Slack](https://slack.com) is a communications platform adopted by The Carpentries for instant messaging as well as synchronous and asynchronous collaboration. If you are new to Slack, please checkout our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide). 
 
 There are many curriculum-specific channels. We recommend that Curriculum Advisors join the channels for all lessons within their curriculum. Lesson-specific channels can usually be found based on a common prefix based on the lesson program they belong to (“swc-” for Software Carpentry, “lc-” for Library Carpentry, and “dc-” for Data Carpentry)
 

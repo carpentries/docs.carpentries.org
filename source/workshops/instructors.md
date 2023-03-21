@@ -53,7 +53,7 @@ Join the Workshop Administration Team every month on the second Tuesday at 3:00 
 
 ### Upcoming Workshops
 
-If you are an Active Instructor and would like to see a list of teaching opportunities that need Instructors, please go to your [AMY profile](amy.carpentries.org/) to see a list of upcoming workshops that you can sign up to teach. 
+If you are an Active Instructor and would like to see a list of teaching opportunities that need Instructors, please go to your [AMY profile](https://amy.carpentries.org/) to see a list of upcoming workshops that you can sign up to teach. 
 
 
 ### Community Calendar
