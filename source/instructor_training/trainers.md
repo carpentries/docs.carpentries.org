@@ -1,8 +1,7 @@
 ---
 title: "Instructor Trainer Handbook"
 ---
-
-## 
+# Trainers
 
 
 ## Description of Community Role
