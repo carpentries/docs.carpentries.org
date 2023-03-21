@@ -101,9 +101,6 @@ The handbook is built using Sphinx and the `pydata_sphinx_theme`.
 
 * `make clean` Removes all files in the `build` directory
 * `make html` Builds the site and publishes html content to the build directory
-* `make github` Builds the site and publishes html content to the build directory. This also creates a copy in the docs directory, enabling the site to render at https://carpentries.github.io/handbook-beta/
-
-This process is necessary to separate out the Netlify preview build from the live beta build.  GitHub pages uses the `docs` directory, while Netlify uses the `build/html` directory. Note `build` can be in `.gitignore` but `docs` should not be as long as we want this built directly from GitHub.  These settings may need to be changed once the site is ready to go live.
 
 ## Changes to `conf.py`
 
