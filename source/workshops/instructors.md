@@ -82,7 +82,7 @@ To join one or more Carpentries listservs, you will need to [create a login on t
 ### Planning & Organising a workshop
 
 1. Decide on the order of the lessons and who will teach what modules
-2. Set up the workshop website using the workshop template and send it to The Carpentries Workshop Administration Team. Detailed instructions are in this repo’s [README](#).
+2. Set up the workshop website using the workshop template and send it to The Carpentries Workshop Administration Team. Detailed instructions are in this repo’s [README](https://github.com/carpentries/workshop-template).
 3. Create a collaborative document for the workshop (e.g. an Etherpad)
 4. Assist the host in recruiting helpers if possible
 5. Assist the host in ensuring the workshop location is accessible
