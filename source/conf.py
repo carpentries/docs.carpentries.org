@@ -98,16 +98,17 @@ html_theme_options = {
     # Set Carpentries title to show up at left section of top nav bar
     "navbar_start": ["navbar-logo"],
 
-    # Set Handbooks menu, General menu, and icon links to be in center section of top nav bar
-    "navbar_center": ["navbar-handbooks", "navbar-general", "navbar-icon-links"],
+    # Set nothing e in center section of top nav bar
+    "navbar_center": [],
+
     # Set where center area aligns to
     # https://pydata-sphinx-theme.readthedocs.io/en/v0.7.2/user_guide/configuring.html#configure-the-navbar-center-alignment
     "navbar_align": "content",
 
-    # Set nothing to be in right section of top nav bar
-    "navbar_end": [],
+    # Set social media links right section of top nav bar
+    "navbar_end": ["navbar-icon-links"],
 
-    # Set nothing to always be in top nav bar
+    # Set nothing to always be in top nav bar, otherwise search is in nav bar
     "navbar_persistent": [],
 
     # Set what goes in secondary sidebar (right side)
