@@ -1961,5 +1961,5 @@ The CarpentryCon Committee Member Handbook is a resource for members of The Carp
 ---
 
 
+## Acknowledgement
 Funding to develop this handbook was provided by the [Alfred P. Sloan Foundation](https://sloan.org/). 
-
