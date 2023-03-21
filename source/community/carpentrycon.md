@@ -8,18 +8,15 @@ title: "Virtual CarpentryCon Handbook"
 
 CarpentryCon is The Carpentries key biennial community-building and networking event that brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities. This handbook details what is needed to run a fully virtual event with a focus on accessibility and inclusivity. A handbook detailing a hybrid event will be developed and made available at a later time.  
 
-
 ### Roles and Responsibilities of Committee Members
 
 The CarpentryCon Committee for a virtual event should include no more than ten community members and two primary Core Team liaisons. To support planning across time zones, there should be an Eastern Committee and Western Committee that has members located in time zones within the eastern and western hemispheres. Each group will include individuals serving in the following roles: [Committee Chair](#chairs), [Program Lead](#program-lead), [Communications Lead](#communications-lead), [Accessibility Lead](#accessibility-lead), and [Core Team Liaison](#core-team-members). 
 
 This section of the handbook includes the roles and responsibilities of each committee member with a link to relevant guides and resources and the time commitment required. All time estimates are approximated based on implementation of past events.
 
-
 #### Chairs
 
 The Committee Chairs provide overall leadership for the committee, ensuring the event is community driven. They work directly with the Core Team Liaisons. 
-
 
 <table>
   <tr>
@@ -78,12 +75,9 @@ The Committee Chairs provide overall leadership for the committee, ensuring the 
   </tr>
 </table>
 
-
-
 #### Program Lead
 
 The Program Leads support the development and implementation of the conference program and schedule. They work closely with the Chairs who coordinate across all Committee members.
-
 
 <table>
   <tr>
@@ -177,12 +171,9 @@ The Program Leads support the development and implementation of the conference p
   </tr>
 </table>
 
-
-
 #### Communications Lead
 
 The Communications Leads support communications leading up to and during the conference. They work directly with the Core Team’s Communications Manager. 
-
 
 <table>
   <tr>
@@ -237,12 +228,9 @@ The Communications Leads support communications leading up to and during the con
   </tr>
 </table>
 
-
-
 #### Accessibility Lead
 
 The Accessibility Leads ensure the event is accessible and inclusive to the community. They work directly with the Core Team’s Accessibility Manager. 
-
 
 <table>
   <tr>
@@ -297,12 +285,9 @@ The Accessibility Leads ensure the event is accessible and inclusive to the comm
   </tr>
 </table>
 
-
-
 #### Core Team Members
 
 Members of the Core Team support all aspects of conference planning and implementation while ensuring the event is community driven. Two Core Team members serve as liaisons to the East and West groups. The Communications Manager supports the Communications Leads, and the Accessilibity Manager supports the Accessibility Leads. The Infrastructure Team leads website development and the adoption of platforms used for the event. All other Core Team members propose and lead sessions and provide support as needed. 
-
 
 <table>
   <tr>
@@ -521,15 +506,11 @@ Members of the Core Team support all aspects of conference planning and implemen
   </tr>
 </table>
 
-
-
 ### Onboarding Committee Members
 
 When onboarding new members, roles and responsibilities need to be clearly defined and communicated. This is especially important for distinguishing tasks that need to be community-led and those tasks that should be the responsibility of the Core Team. Considerations include: ensuring the event is driven by community needs and interests, what are appropriate contributions for volunteers, and who can access planning and event platforms. It will be important to document how decisions will be made to bring further clarity to how Committee members will collaborate. 
 
 The following tasks need to be completed by the Core Team liaisons to onboard new Committee members.
-
-
 
 * Tasks to complete before onboarding Committee members at their first meeting.
     * Set up a project in Asana using the CarpentryCon template. Make adjustments as needed.
@@ -542,46 +523,33 @@ The following tasks need to be completed by the Core Team liaisons to onboard ne
     * Add all Committee members to Asana, Google Drive (provide edit access), and the mailing list.
     * Send a communication via the mailing list that they have been added to the various platforms and to contact the Core Team liaisons if there are any issues with access.
 
-
 ### Offboarding Committee Members
 
 The following tasks need to be completed by the Core Team liaisons after the event ends.
-
-
 
 * [Send a communication](#email-to-send-to-committee-members-after-event-ends) to the Committee shortly after the event ends thanking them for their service and providing information on any next steps, including offboarding procedures. 
 * Send a communication to the Committee to get feedback on their experience. Send reminder emails out as needed to improve response rate. You can adopt or adapt [the 2022 feedback form](#committee-member-feedback-form). 
 * Begin processing thank you gifts to be sent out to Committee members and reimbursements for conference participants. These tasks can take some time so best to start as early as possible. You should also check that these expenses fit into the conference budget.
 * When access is no longer needed, Committee members should be removed from all conference platforms (e.g., mailing list, Google drive, Asana projects). 
 
-
----
-
-
 ## Communication and Collaboration Spaces
 
 This section includes a list of communication channels and collaboration spaces that support members of the CarpentryCon Committee. Participants in these spaces are expected to follow The Carpentries [code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). A description of the tools listed can be found in [the community glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
-
 
 ### Task Management
 
 Until an open source platform is identified that supports the committee’s task management needs, Asana will be used. Asana is a project management tool used by The Carpentries Core Team that allows access to external project contributors. All members of the Committee will be added to the CarpentryCon Asana project for that year and be given an overview of the tool as part of onboarding. The project will include a list of tasks to complete, an assignee to each task, and a deadline. Weekly updates will be posted to the project by a Core Team liaison to ensure the project stays on track. 
 
-
 ### Collaborative Notetaking
 
 Etherpads are used for collaborative notetaking for the Committee and for a space to take notes during CarpentryCon sessions. You will need to follow the instructions for [creating an Etherpad for the Committee meetings](#setting-up-etherpad-for-committee-meetings) and [creating Etherpads for CarpentryCon sessions](#setting-up-conference-session-etherpads) found in the step-by-step guides. Once the Etherpads have been created for each year, they should be linked here. 
-
  
 * Add link: Committee meeting notes
 * Add link: CarpentryCon Session Etherpad template
 
-
 ### Messaging and Communication
 
 Slack is the software platform used by The Carpentries to support synchronous and asynchronous communications. Channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose. You can [join The Carpentries Slack workspace](https://swc-slack-invite.herokuapp.com/) to follow conversations on the channel relevant to this role:
-
-
 
 * #cc[year]-planning: channel used by the Committee members and Core Team liaisons for planning the event 
 * #carpentrycon: channel used for making announcements, facilitating discussions around sessions, and to ask general questions about the event
@@ -590,68 +558,44 @@ Slack is the software platform used by The Carpentries to support synchronous an
 
 If you are new to Slack, please check out our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
 
-
 ### Mailing List
 
 You can access all The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Here, you will find the [Committee mailing list](https://carpentries.topicbox.com/groups/carpentrycon). Emails sent to [carpentrycon@lists.carpentries.org](mailto:carpentrycon@lists.carpentries.org) will be received by all members and Core Team liaisons. All new members of the Committee will be added to the mailing list and outgoing members will be removed by a Core Team liaison.  
-
 
 ### File Sharing
 
 A Google Drive folder for each event will be created by a Core Team liaison. All Committee members will be invited and given access to the folder. Once the Google drive folder has been created for each year, it should be linked here. 
 
-
-
 * Add link: CarpentryCon [Year] Google Drive
-
 
 ### Conference Website
 
 A website for each year’s CarpentryCon will be created and administered through GitHub. Members of the Committee will be able to create Pull Requests or Issues. For more information about using GitHub please follow [these guides](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). Once the year’s website has been created, please add a link to both the website and its GitHub repository.
 
-
-
 * Add link: GitHub repository
 * Add link: CarpentryCon website
 
-
----
-
-
 ## Step-by-Step Guides
 
-
 ### Adding Committee Members to Mailing List
-
-
 
 1. Go to the TopicBox mailing list for CarpentryCon: [https://carpentries.topicbox.com/groups/carpentrycon](https://carpentries.topicbox.com/groups/carpentrycon).
 2. Select “Edit Members.”
 3. Select “Add Members.”
 4. Add email addresses in the “Choose to Add” box. You can also upload email addresses as a .txt or .csv file.
 
-
 ### Setting Up Etherpad for Committee Meetings
-
-
 
 1. Type in https://pad.carpentries.org/carpentrycon[year] to create a new Etherpad for that year’s event.
 2. You may want to use and review the [Etherpad from the CarpentryCon 2022 Committee](https://pad.carpentries.org/carpentrycon2022) as an example. 
 
-
 ### Sharing Content with Communications Manager
-
 
 #### Creating and Sharing Content for Social Media
 
-
-
 1. The [communications resources section of this handbook](#communications-resources) links to appropriate documentation.
 
-
 #### Creating and Sharing Blog Post Drafts
-
-
 
 1. You can submit the blog post by creating a pull request in GitHub or by sharing a text-only draft with the Communications Manager. 
     1. If you are creating the blog post draft using Markdown in GitHub, please follow [the guide located within the Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html#how-to-contribute-a-blog-post-to-the-carpentries-blog) for information about proper setup of headers and formatting.
@@ -661,20 +605,14 @@ A website for each year’s CarpentryCon will be created and administered throug
             2. Teaser (text that shows up under the title on the blog page)
             3. Date you want it posted
 
-
 ### Process for Review of Keynote Speaker Recommendations
-
-
 
 1. The Program Chairs and other Committee members should identify potential keynote speakers, considering the event theme and review criteria listed in the README tab of [TEMPLATE: Keynote Presenter Review](#template-keynote-speaker-review-spreadsheet).
 2. Once identified, the Program Chairs should record the relevant information into the speaker review tab of the template (i.e., Speaker Recommendation, URL, Speaker Fee) and any notes you would like the Committee Chairs to know as part of their review.
 3. The Committee Chairs should review the speakers recommended following the guidelines in the README tab of the template. 
 4. Following the review, Committee Chairs will [send invitation letters](#template-keynote-speaker-invitation-letter) to those identified with a “yes” in the “Invite?” column. Those listed as “backups” should be invited only if one or more of the primary invitees are unable to attend the event. 
 
-
 ### Process for Review of Proposal Submissions
-
-
 
 1. Preparation: 
     1. A decision should be made prior to the review of proposals on how many can be accepted in each category to fill the program.
@@ -709,12 +647,9 @@ A website for each year’s CarpentryCon will be created and administered throug
 8. We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the selection panel discussion.
 9. A selection panel discussion should be scheduled to discuss those proposals, focusing on those proposals without reviewer alignment in the recommendation on the proposal.
 
-
 ### Creating Program and Schedule
 
 There are many ways that someone can pull together the program and schedule once all the sessions have been identified. This guide is a recommendation so Program Leads should feel free to modify it to what works best for them.
-
-
 
 1. Use the [Time Blocks and Scheduling Spreadsheet](#time-blocks-and-scheduling-spreadsheet) to record information on each accepted session by type. Selection will have been based on the number of sessions needed by type to feel the program (Step 1 of [Process for Review of Proposal Submissions)](#process-for-review-of-proposal-submissions).
 2. Transfer the relevant information for each session from the [Proposal Confirmation of Acceptance Form Template](#proposal-confirmation-of-acceptance-form-template) into the spreadsheet as described in the README tab. 
@@ -732,10 +667,7 @@ There are many ways that someone can pull together the program and schedule once
 8. Monitor responses to the [Proposal Confirmation of Acceptance Form](#proposal-confirmation-of-acceptance-form-template) so communications can be sent out quickly to reschedule sessions. 
 9. Once all sessions have been confirmed, finalize schedule and add to conference website.
 
-
 ### Setting Up Conference Session Etherpads
-
-
 
 1. Create a new Etherpad by typing https://pad.carpentries.org/cc[year]-[session short title] into your browser. For example, https://pad.carpentries.org/cc2022-informal-meetup-au-nz. If a session is repeated, you do not need to create an Etherpad for each repeated session.
 2. Copy the Etherpad link for each session into Column G of the detailed schedule next to the appropriate session.
@@ -744,18 +676,13 @@ There are many ways that someone can pull together the program and schedule once
 5. Remove colour from the Etherpad by clicking the button at the top left that looks like an eye with a line through it.
 6. If you have questions about this process, please email [carpentrycon@carpentries.org](mailto:carpentrycon@carpentries.org).
 
-
 ### Conducting Conference Evaluation 
 
 **Prior to the start of event planning:**
 
-
-
 1. Begin by reviewing [evaluation report from previous year’s event](#carpentrycon-2022-evaluation-report) and use results to inform planning of this year’s event. 
 
 **Two months prior to the start of the event:**
-
-
 
 2. Develop an evaluation plan that centers on measuring the intended outcomes of the conference. 
 * Consider building a basic logic model or theory of change to guide this process and ensure you are capturing all outputs and outcomes of interest.
@@ -768,15 +695,11 @@ There are many ways that someone can pull together the program and schedule once
 
 **One month prior to the start of the event:**
 
-
-
 3. Create/adapt survey questions and build survey in Typeform. Review [previous year’s survey](#post-conference-survey) in Typeform. **Note. Where possible, use questions from previous years’ surveys. This will: (1) allow for comparisons across years, (2) save time as previous surveys can be duplicated in Typeform and R scripts can be reused to analyse data.** 
 
 4. Create/adapt a form to collect feedback from Committee members. Review [previous year’s form](#committee-member-feedback-form). 
 
 **Two weeks prior to the start of the event:**
-
-
 
 5. Write/adapt communications templates to request feedback after the conference.
 6. Send out communications requesting feedback. See communications templates.  
@@ -786,8 +709,6 @@ There are many ways that someone can pull together the program and schedule once
     4. Send a follow up/reminder email when you see responses start to slow down (about 3 days later) 
 
 **After the event:**
-
-
 
 7. Collect data and store in a central location
 * Download data from Eventbrite 
@@ -803,26 +724,17 @@ There are many ways that someone can pull together the program and schedule once
 * Committee Feedback Form  
 9. Synthesise results and write conference evaluation report. See report template and previous year’s report.  
 
-
----
-
-
 ## Resources
-
 
 ### Planning and Onboarding/ Offboarding Resources
 
-
 #### Planning Timeline
-
 
 ##### About this resource
 
 _Timeline for major activities happening each month during conference planning._
 
 MONTH 0-1
-
-
 
 * Create skeleton of website for adding content from Communications Leads
 * Set up Asana project with detailed tasks and milestones
@@ -833,8 +745,6 @@ MONTH 0-1
 * Develop event budget, including accessibility costs
 
 MONTH 2
-
-
 
 * Set up communications for all committee members
 * Finalize communications and accessibility plans
@@ -847,22 +757,16 @@ MONTH 2
 
 MONTH 3
 
-
-
 * Finalize keynote speakers who will be presenting
 * Early bird proposal submission open 
 * Recruit volunteers to review proposals
 
 MONTH 4
 
-
-
 * Close early bird proposal submission
 * Onboard proposal reviewers
 
 MONTH 5
-
-
 
 * Proposal review
 * Program development
@@ -871,97 +775,67 @@ MONTH 5
 
 MONTH 6
 
-
-
 * [Optional] Latebreaking proposal submission open for new community members and if needed to fill gaps in program; close after 3-4 weeks
 
 MONTH 7
-
-
 
 * Program finalized and added to website
 * Set up infrastructure around final program (website, Etherpads, etc.)
 
 MONTH 8
 
-
-
 * Open registration, include a way to accept accommodation requests and provide a deadline for those requests to receive full consideration
 
 MONTH 9
-
-
 
 * Review registrations and identify participation gaps for marketing event
 * All event contracts need to be in place at least three months before the conference
 
 MONTH 10
 
-
-
 * Recruit volunteers to support event implementation
 
 MONTH 11
 
-
-
 * Onboard conference volunteers
 
 MONTH 12
-
-
 
 * Host event; registration open until last day of event
 * Evaluation and assessment
 * Committee member offboarding
 * Finish processing fund reimbursements for accommodation requests
 
-
 #### Budget Template
-
 
 ##### About this resource
 
 _This spreadsheet can be used to develop a budget for the event. An example is provided from CarpentryCon 2022._
 
-
-
 * [Virtual event budget](https://docs.google.com/spreadsheets/d/1FJVqwWhteoyXyJO6Fu2aSdLP_sxMFy4fMZuSi1U70Ys/edit?usp=sharing)
 * [Example budget from 2022](https://docs.google.com/spreadsheets/u/0/d/1QxM5Iq4poTE5LcAQzXaHCbKeNE9NqcezcjMsVlRXDxA/edit)
 
-
 #### CarpentryCon Committee Member Application Template
-
 
 ##### About this resource
 
 _Google Form template that can be used for receiving applications to serve on the CarpentryCon Committee. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well._ 
 
-
-
 * [Template: CarpentryCon Committee Application](https://docs.google.com/forms/d/1RsPg6RfH5BhfehnYpY1FAszvWqcORYb0muiiFszUbgA/edit)
 
-
 #### CarpentryCon 2022 Committee Onboarding Presentation
-
 
 ##### About this resource
 
 _This presentation was given at the onboarding meeting for Committee members supporting CarpentryCon 2022._
 
-
-
 * [Committee Onboarding Presentation](https://docs.google.com/presentation/d/1_qMK9Kd5eVh626KPY25Ad8TkNFdT8rUWlTQoVS6Ojgc/edit?usp=sharing)
 
-
 #### External Conference Planning Resources
-
 
 ##### About this resource
 
 _Links to external resources that can support planning for CarpentryCon._
-
-
 
 * [UseR! Knowledgebase](https://bit.ly/knowledgebase-carpentries)
 * [UseR! Information Board](https://bit.ly/infoboard-carpentries)
@@ -973,12 +847,9 @@ _Links to external resources that can support planning for CarpentryCon._
 * [CSCCE A guide to using virtual events to facilitate community building: Making a PACT for more engaging virtual meetings and events](https://zenodo.org/record/4987666#.Y-GCf-zMI-Q)
 * [CSCCE A guide to using virtual events to facilitate community building: Selecting and testing online tools](https://zenodo.org/record/4521211#.Y-GCouzMI-Q)
 
-
 #### Email Templates for Committee Members
 
-
 ##### Email to send to committee members after event ends
-
 
 ###### About this resource
 
@@ -990,31 +861,22 @@ Thanks to all of you for your support of CarpentryCon! We could not have done it
 
 There are a couple of follow-up requests I have for you:
 
-
-
 * Please take some time to provide your feedback on your experience as a Committee member [LINK TO [COMMITTEE MEMBER FEEDBACK FORM](#committee-member-feedback-form]. This really helps us improve the experience for future Committee members and should not take more than 5-10 minutes, depending on the amount of feedback you want to provide. If you prefer, I'm also happy to set up a phone call to chat.
 * We would also like to send a thank you gift to each of you for your service. Please send us your name and mailing address for shipping the items to carpentrycon@carpentries.org.
 
 Many thanks again for your contributions to this important event for our community. It is so very much appreciated, [NAME]
 
-
 ### Accessibility Resources
 
-
 #### Accessibility Guidelines for Presenters
-
 
 ##### About this resource
 
 _Guidelines to be sent to all presenters to improve the accessibility of presentations and sessions. Please update as needed._
 
-
-
 * [Accessibility Guidelines for Presenters](https://docs.google.com/document/d/1t2MVnpOU1zv1xJZN74L9AkE257hnEhP6nQ-CpS41rSY/edit?usp=share_link) 
 
-
 #### Accessibility Audit for CarpentryCon 2022
-
 
 ##### About this resource
 
@@ -1072,21 +934,15 @@ To support accessibility during CarpentryCon we provide Sign Language interprete
 
 During the conference Zoom helpers were given information on how to turn captioning on and how to identify and assign the captioner to type. During the interpreted session, a Carpentries CoreCare Team member was in charge of pinning the speaker and the interpreter in zoom so they could be easily seen. 
 
-
 #### Toolkit of IDEAS
-
 
 ##### About this resource
 
 _The Toolkit of IDEAS (Inclusion, Diversity, Equity and Accessibility Strategies) is a practical resource for Carpentries’ Instructors, helpers, and workshop hosts running workshops. The guidelines provided for workshops can be applied to other events like CarpentryCon._
 
-
-
 * [Toolkit of IDEAS (Inclusion, Diversity, Equity and Accessibility Strategies)](https://zenodo.org/record/7041935#.Y5NJ4uzMJB3)
 
-
 #### Email Template: Information for Participants Requesting Accommodations
-
 
 ##### About this resource
 
@@ -1100,9 +956,7 @@ You are requesting [AMOUNT] USD for [REASON]. This has been approved. You will n
 
 Please let me know if you have any questions.
 
-
 #### Email Template: Paperwork Submission Deadline for Participants Requesting Accommodations
-
 
 ##### About this resource
 
@@ -1116,12 +970,9 @@ If you requested funds for Mobile Data, Childcare, or Caregiver Services while y
 
 Please let me know if you have any questions.
 
-
 ### Communications Resources 
 
-
 #### Communication Templates to Share
-
 
 ##### About this resource
 
@@ -1219,36 +1070,25 @@ We invite you to submit proposals [LINK] to share your knowledge and skills to h
 
 Learn more about the types of proposals we are seeking in this blog post [LINK].
 
-
 #### Communications Schedule
-
 
 ##### About this resource
 
 _Template for generating a communications schedule around significant activities surrounding CarpentryCon._
 
-
-
 * [Template: CarpentryCon Communications Schedule](https://docs.google.com/spreadsheets/d/1r-aYEKOUiftvZyByQ1qEMb07_h0mz-xEEOQpFETLjco/edit?usp=sharing)
-
 
 ### Program Development and Communication Resources
 
-
 #### Template: Keynote Speaker Review Spreadsheet
-
 
 ##### About this resource
 
 _Google Sheets template that can be used for selecting keynote presenters to invite to the conference. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well._
 
-
-
 * [Template: Keynote Speaker Review](https://docs.google.com/spreadsheets/u/0/d/13OJQM5r3GKTlvAMGKTl4FAuSEes1PH_Oey96DUvGS9I/edit)
 
-
 #### Template: Keynote Speaker Invitation Letter 
-
 
 ##### About this resource
 
@@ -1276,21 +1116,15 @@ Thanks for your consideration,
 
 [The Carpentries](https://carpentries.org/) is an open, global community teaching the skills and perspectives to turn data into knowledge. We build capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We believe in a world where more people have the computational skills and perspectives to work with data to address their questions in science, scholarship and society. We aim to build that world by scaling evidence-based teaching, creating inclusive environments, and building communities of practice based on open principles. We have a large community of instructors and contributors, and a much larger community of users. We use evidence-based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible research and open science/open source widely. All interactions in The Carpentries community and spaces, both virtual and in-person, are governed by our Code of Conduct and guided by our core values.
 
-
 #### Proposal Submission Form Template
-
 
 ##### About this resource
 
 _Google Form template that can be used to collect CarpentryCon proposal submissions. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well._
 
-
-
 * [Template: CarpentryCon Proposal Submission Form](https://docs.google.com/forms/d/1KqV-eipLizfnV_RJON4mpl58Ug0ObcNTuTjefNwE1y4/edit)
 
-
 #### Proposal Decision Email Templates
-
 
 ##### About this resource
 
@@ -1346,36 +1180,25 @@ Sincerely,
 
 The CarpentryCon Committee
 
-
 #### Proposal Confirmation of Acceptance Form Template
-
 
 ##### About this resource
 
 _Google Form template that can be used for confirming the date and time scheduled for a session with the session leads. Please copy the template and make updates for each year of the event. If needed, updates to the template can be made as well._
 
-
-
 * [Template: CarpentryCon Proposal Confirmation of Acceptance Form](https://docs.google.com/forms/d/1KbZ9gndZXNJ6NQCc6Ddmgi4uHou_R7srUp7nHhYIpBA/edit)
 
-
 #### Time Blocks and Scheduling Spreadsheet
-
 
 ##### About this resource
 
 _Google Sheet to support developing a schedule for the program across three primary time blocks. Please copy the spreadsheet to use for each year of the event._
 
-
-
 * [Time Blocks and Scheduling Spreadsheet](https://docs.google.com/spreadsheets/d/1qs7oBIrXa8R1JyX0f_C73eCLH9QFDZRqEJyI_VVdbO0/edit?usp=sharing)
-
 
 #### Email Communications for Lightning Talk Presenters
 
-
 ##### Email on how lightning talk sessions will run
-
 
 ###### About this resource
 
@@ -1385,8 +1208,6 @@ Hi everyone,
 
 This email is being sent to all lightning talk presenters, facilitators, Zoom helpers, and their backups to provide you with detailed information about how those sessions will be ran. As a reminder, the lightning talks sessions are going to be repeated three times during each of our three primary time blocks set up for CarpentryCon. This is to make the event more accessible to our global audience. For many of us, the first session will be hosted Sunday night, which is Monday morning in Oceania. Lightning talk presenters have been asked to attend the sessions in which their presentation is being aired, but this is not a requirement because it could be aired in the middle of the night for them. Therefore, these sessions are being set up a bit differently than the others. I wanted to provide these details for you so you have them, but members of the Core Team will be the primary facilitators for these sessions and will be there to provide support as needed.
 
-
-
 * The main facilitator (a member of the Core Team) will live stream the videos of each lightning talk from their computer. All videos will include Spanish and English captions. More languages will be added once the videos have been uploaded to YouTube.
 * After the videos have been aired, we will be going into breakout rooms so attendees can discuss the content from the presentations. The number of breakout rooms will be dependent on the number of attendees, but the rooms will be set up where attendees can choose the room they want to join:
     * Room 1 will be named "Captioner," and the live captioner will join this room for anyone needing live closed captioning.
@@ -1395,9 +1216,7 @@ This email is being sent to all lightning talk presenters, facilitators, Zoom he
 
 Thanks again everyone for all of your efforts to support CarpentryCon and please email carpentrycon@carpentries.org if you have any questions.
 
-
 ##### Email reminding presenters to upload lightning talk
-
 
 ###### About this resource
 
@@ -1405,12 +1224,9 @@ _An example email for communicating with lightning talk presenters and session s
 
 Thanks again for your participation in CarpentryCon [YEAR] as a lightning talk presenter! As a reminder, the video of your lightning talk should be uploaded to this Google drive [LINK TO GOOGLE DRIVE] by [DATE] in a digital format with high-quality audio and discernable speech. This will allow us time to add captioning in multiple languages to your videos and get them uploaded to YouTube before the start of the event on [DATE]. Lightning talks are strictly limited to 5 minutes and we ask all presenters to follow these guidelines to ensure their presentation is accessible to all attendees [LINK TO ACCESSIBILITY GUIDELINES FOR PRESENTERS]. Please let us know if you have any questions and don't forget to register if you have not already done so [LINK TO REGISTRATION]. Thanks again, [NAME]
 
-
 #### Email Communications for Session Leads
 
-
 ##### Informational Email to Session Leads: Two Weeks Out
-
 
 ###### About this resource
 
@@ -1419,8 +1235,6 @@ _Example email sent to session leads two weeks prior to the start of the event._
 Hey CarpentryCon Session Leads and Co-Leads,
 
 Thanks again for your support of CarpentryCon [YEAR]. As of today, we have [NUMBER REGISTERED] people who have registered to attend so we're looking forward to an exciting event. I want to share some information with all of you as you prepare for your sessions over the next two weeks.
-
-
 
 * If you have not already done so, be sure to register for the event (it is free!) [LINK TO REGISTRATION]. Please note that you will need to register separately for any sessions that you would like to attend that have an attendance cap. They are marked with an R on the schedule.
 * If your session is one that had an attendance cap, we will send you information on who has registered no later than 24 hours before the start of your event. If you need that information sooner, please email carpentrycon@carpentries.org.
@@ -1431,9 +1245,7 @@ Thanks again for your support of CarpentryCon [YEAR]. As of today, we have [NUMB
 
 Thanks again for your support of CarpentryCon. We look forward to welcoming you to the event in a couple of weeks.
 
-
 ##### Reminder Email to Upload Session Materials
-
 
 ###### About this resource
 
@@ -1445,9 +1257,7 @@ Sending a reminder to please upload your presentations and any related materials
 
 Many thanks, The CarpentryCon Committee
 
-
 ##### Informational Email to Session Leads: One Week Out
-
 
 ###### About this resource
 
@@ -1456,8 +1266,6 @@ _Example email sent to session leads one week prior to the start of the event._
 Hey CarpentryCon Session Leads and Co-Leads,
 
 With CarpentryCon only five days away, I wanted to provide you with some additional information to help you adequately prepare for your sessions. As of today, we have 391 individuals who have registered to attend.
-
-
 
 * Unfortunately, we were not able to find a volunteer facilitator and Zoom helper for all sessions. You can find the sign-up sheet here [LINK TO VOLUNTEER SCHEDULE]. If you currently do not have a volunteer listed to support your session in either of these roles, please consider adding a name of a member of your team if anyone has the capacity to serve as a facilitator or Zoom helper during your session. You can view the Instructions for Facilitators [LINK TO INSTRUCTIONS FOR FACILITATORS] and Instructions for Zoom Helpers [LINK TO INSTRUCTIONS FOR ZOOM HELPERS] to see what is involved. Members of the Core Team will be filling in the remaining slots as needed.
 * Zoom helpers and facilitators have been asked to log in at least ten minutes before the start of your session. Please use this time to coordinate with them to make sure your session runs smoothly (e.g., when to start/stop recording, needs for breakout rooms, identifying a notetaker). If you need more time, or would like to connect with your facilitator or Zoom helper directly to discuss details about your session, please email carpentrycon@carpentries.org so we can send out a communication to connect all of you.
@@ -1469,24 +1277,17 @@ With CarpentryCon only five days away, I wanted to provide you with some additio
 
 Thanks again for your support of CarpentryCon. We look forward to welcoming you to the event next week!
 
-
 #### Etherpad Template for CarpentryCon Sessions
-
 
 ##### About this resource
 
 _This Etherpad template should be used when [setting up conference session Etherpads](#setting-up-conference-session-etherpads)._
 
-
-
 * [Etherpad Template](https://pad.carpentries.org/carpentrycon-template)
-
 
 ### Registration Resources
 
-
 #### Template: Registration Form
-
 
 ##### About this resource
 
@@ -1504,21 +1305,15 @@ The Carpentries is collecting and processing personal data collected with this f
 
 *Did you submit a proposal to lead or co-lead a session at CarpentryCon?
 
-
-
 * Yes
 * No
 
 *Do you commit to abiding by The Carpentries Code of Conduct as a conference participant? You can review our Code of Conduct in our handbook: [https://docs.carpentries.org/topic_folders/policies/index_coc.html](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
 
-
-
 * Yes
 * No
 
 Would you like your name included in a daily raffle drawing? If you answer yes, your name will be announced during the event and we will be asked to provide your mailing address for shipping your prize. 
-
-
 
 * Yes
 * No
@@ -1526,8 +1321,6 @@ Would you like your name included in a daily raffle drawing? If you answer yes, 
 **Volunteer for CarpentryCon**
 
 Would you be willing to volunteer to serve in one or more of the following roles while attending the event? We will send out a form to sign-up for supporting specific sessions and will provide any necessary training. Select all that apply. 
-
-
 
 * Lead facilitator: will open session, make relevant announcements, and support session leads by monitoring questions and comments from attendees
 * Zoom support: will assign hosts, create breakout rooms, mute participants, and provide technical support as needed
@@ -1539,26 +1332,17 @@ We strive to host inclusive, accessible events that enable all individuals, incl
 
 Please let us know what you need to fully participate by selecting from the options below. 
 
-
-
 * Electronic copies of materials in advance
 * Sign Language Interpreters 
 * Closed Captions 
 * Translation services
     * Language Preference
-
-    ________________________________________________________________
-
 * Other 
-    * Please specify ________________________________________________________________________________________________________________________________
-
- 
+    * Please specify 
 
 **Funding Support**
 
 Funding is available through [list funding sources] for conference attendees who require access to specific services to fully attend the event. All requests for support will be reviewed and funds will be distributed dependent on the number of requests and availability of funds. Session leads, co-leads, moderators, and helpers will be given priority access to this support. Please select the services you would like to request funds for below:
-
-
 
 * Mobile data
 * Caregiver services
@@ -1567,24 +1351,18 @@ Funding is available through [list funding sources] for conference attendees who
 
 Please provide an estimate of the amount you are requesting.
 
-_________________________________
 
 **Consider Contributing to our Accessibility Fund**
 
 There is no registration fee for attending CarpentryCon. We are accepting donations of any amount to our Accessibility Fund. Donations to this fund will be used to support access to this and future events hosted by The Carpentries. This includes, but is not limited to, the following services: live closed captioning, translation services, caregiver services, and providing mobile data. To give to this fund, please visit the Accessibility Fund website [include link to website].
 
-
 #### Templates: Emails to Registrants
 
-
 ##### Email to send to registrants two weeks prior to event
-
 
 ###### About this resource
 
 _Email communication sent to registrants two weeks from the start of CarpentryCon 2022._
-
-	
 
 We’re excited to have you joining us next week to launch CarpentryCon 2022!
 
@@ -1608,15 +1386,11 @@ If you have any questions, please submit those to carpentrycon@carpentries.org. 
 
 The CarpentryCon Committee
 
-
 ##### Emails to registrants to take post conference survey
-
 
 ###### About this resource
 
 _Email communication sent to registrants requesting they take the post conference survey._
-
-		
 
 As a reminder and if you have not already, please take a little bit of your time today to provide us with feedback on your experience as a participant in CarpentryCon. The original email request can be found below. Your feedback helps our organisation plan future events, so thanks so much for your time. 
 
@@ -1632,51 +1406,35 @@ Many thanks,
 
 The Carpentries Community Development Team  
 
-
 ### Volunteer Management Resources
 
-
 #### Instructions for Session Facilitators
-
 
 ##### About this resource
 
 _This document provides a template for instructions, including an opening script, for facilitators supporting sessions at CarpentryCon. This resource can be updated for use in future events._
 
-
-
 * [Template: Instructions for Session Facilitators](https://docs.google.com/document/d/15mOnKNqZSGCWZsuLAUTdNrSXXYA8WGMDjrrlylSw0oc/edit?usp=sharing)
 
-
 #### Instructions for Zoom Helpers
-
 
 ##### About this resource
 
 _This document provides a template for instructions for Zoom helpers supporting sessions at CarpentryCon. This resource can be updated for use in future events._
 
-
-
 * [Template: Instructions for Zoom Helpers](https://docs.google.com/document/d/1t5A7Xq8fOKAY4MEKnp6Yr_zJOLHQqOOR5nZ58b-wzeo/edit?usp=sharing)
 
-
 #### Information for Communication Support
-
 
 ##### About this resource
 
 _This document provides a template for information for individuals supporting communications during CarpentryCon. This resource can be updated for use in future events._
 
-
-
 * [Template: Information for Communications Support](https://docs.google.com/document/d/1T6_cMGlrRAQClIGpqZ0L3O5DlXlTBdwAj8oer5_6-Co/edit?usp=sharing)
-
 
 #### Email Communications for Recruiting Volunteers
 
-
 ##### Email recruiting session facilitators
-
 
 ###### About this resource
 
@@ -1686,17 +1444,13 @@ Hey everyone,
 
 We are still looking for volunteers to help facilitate sessions during CarpentryCon. See below for communication that went out on [DATE] with details. If possible, please sign up no later than [DEADLINE] so we have plenty of time to coordinate with everyone supporting each session. Thanks so much for your support, The CarpentryCon Committee
 
---------------------------------------------------------------------
-
 Thanks for informing us of your interest in serving as a facilitator for one or more CarpentyCon sessions. You can find a full schedule and details of each session on the CarpentryCon website [LINK TO WEBSITE].
 
 Please visit this spreadsheet to sign up for sessions that you would be interested in facilitating by [DEADLINE]. Each tab of the spreadsheet provides a detailed schedule for each day of CarpentryCon. Add your name next to those sessions you can support following the guidelines provided in the README tab. You do not need to provide an email as we can retrieve that information from your registration.
 
 Once you have added your name as a primary or a backup, a calendar invite will be sent to you for the session you are assigned. We will also send a communication out to you, the Zoom helper, and the session co-leads so you can coordinate as needed. All the information you need to support you in your role will be sent to you no later than [DATE], a week before the start of the event. If you have any questions, please email carpentrycon@carpentries.org.
 
-
 ##### Email recruiting Zoom helpers
-
 
 ###### About this resource
 
@@ -1705,8 +1459,6 @@ _Email communications sent to individuals who indicated interest in serving as a
 Hey everyone,
 
 We are still looking for volunteers to help with Zoom during sessions for CarpentryCon. See below for communication that went out on [DATE] with details. If possible, please sign up no later than [DEADLINE] so we have plenty of time to coordinate with everyone supporting each session. Thanks so much for your support, The CarpentryCon [YEAR] Committee
-
-------------------------------------------------------------------------------
 
 Thanks for informing us of your interest in serving as a Zoom helper for one or more CarpentyCon [YEAR] sessions. You can find a full schedule and details of each session on the CarpentryCon website [LINK TO WEBSITE].
 
@@ -1718,17 +1470,13 @@ Best,
 
 The CarpentryCon Committee
 
-
 #### Informational Email for Conference Volunteers
-
 
 ##### About this resource
 
 _Email communications sent to individuals who indicated interest in serving as a session facilitator when registering for CarpentryCon. The first paragraph includes a follow up communication with the original pasted following it._
 
 Thank you for indicating that you are willing to volunteer as a Facilitator or Zoom helper during CarpentryCon! With the event only a couple of days away, we wanted to provide you with some additional information to help you adequately prepare for your session.
-
-
 
 * If you have not signed up yet as a Facilitator or Zoom helper, you can find the sign-up sheet here. [LINK TO VOLUNTEER SCHEDULE]
 * You can view the Instructions for Facilitators [LINK TO INSTRUCTIONS FOR FACILITATORS] and Instructions for Zoom Helpers [LINK TO INSTRUCTIONS FOR ZOOM HELPERS] to see what is involved.
@@ -1738,30 +1486,21 @@ Thank you for indicating that you are willing to volunteer as a Facilitator or Z
 
 Thanks again for your support of CarpentryCon. We look forward to welcoming you to the event next week!
 
-
 ### Evaluation Resources 
 
-
 #### CarpentryCon 2022 Evaluation Report
-
 
 ##### About this resource
 
 _Report summarizing findings from evaluation of CarpentryCon 2022._
 
-
-
 * [CarpentryCon 2022 Evaluation Report](https://docs.google.com/document/u/0/d/1NYlrzXy_ZQjVxZLtXc6eXOGohn6BTzR7y45kvtutt_M/edit) 
 
-
 #### Post Conference Survey
-
 
 ##### About this resource
 
 _This is the post conference survey distributed to those who registered for CarpentryCon in 2022. Surveys are available in TypeForm._
-
-
 
 * [Post Conference Survey in Typeform](https://admin.typeform.com/form/l2Kgj1tH/create?block=b2acfa2f-2e9d-439b-be15-3c13c0fcf715)
 
@@ -1779,8 +1518,6 @@ Prior to attending the conference, how involved were you in The Carpentries? Ple
 
 Please select how strongly you agree with the following statements: Please select on a scale from 1 (Strongly disagree) to 5 (Strongly agree).
 
-
-
 * The Carpentries met my expectations
 * Participation in the conference was worth my time
 * My personal goals for attending the conference were met
@@ -1795,8 +1532,6 @@ Please provide any comments relevant to your above responses.
 
 Please select how satisfied you were with each of the following components of the conference.  Please select on a scale from 1 (Not at all satisfied) to 5 (Extremely satisfied).
 
-
-
 * The use of Zoom for streaming sessions
 * The use of Etherpad for collaborative note taking
 * The use of YouTube for asynchronous viewing of sessions
@@ -1807,8 +1542,6 @@ Please select how satisfied you were with each of the following components of th
 Please provide any comments relative to your above responses.
 
 Please select the types of accommodations you requested during registration.
-
-
 
 * I did not request accommodations
 * Funds for mobile data
@@ -1821,8 +1554,6 @@ Please select the types of accommodations you requested during registration.
 
 Please select which types of accommodations you used during the conference
 
-
-
 * I did not use any accommodations
 * Closed captions
 * Translation services
@@ -1833,8 +1564,6 @@ Please select which types of accommodations you used during the conference
 * Other accommodations
 
 How satisfied were you with the following accommodation: Please select on a scale from 1 (Not at all satisfied) to 5 (Extremely satisfied)
-
-
 
 * Electronic copies of materials in advance
 * Sign language interpreters
@@ -1858,33 +1587,21 @@ Please provide any additional comments relevant to your experience as a Carpentr
 
 Thanks for providing input on your CarpentryCon experience!
 
-
 #### R Script to Analyse Post Conference Survey 
-
 
 ##### About this resource
 
 _[R script](https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R) used to analyse the 2022 Post Conference Survey and produce the figures for the 2022 CarpentryCon Evaluation Report._
 
-
-
 * [R script for analyzing post conference survey data](https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R)
 
-
 #### Committee Member Feedback Form
-
 
 ##### About this resource
 
 _Google Form distributed to Committee members to get feedback on their experience supporting CarpentryCon._
 
-
-
 * [Template: CarpentryCon Committee Member Feedback](https://docs.google.com/forms/d/10IPn7yQCylVj72-0dBGPEVuRsgrQw9nf4HYjElpq_UY/edit)
-
-
----
-
 
 ## Frequently Asked Questions
 
@@ -1895,8 +1612,6 @@ We understand that unexpected personal and professional life events happen and m
 **What file format should you use for recording a lightning talk?**
 
 No specific video file format is required; however, please ensure that the file has one of the following extensions:  
-
-
 
 * .MOV
 * .MPEG-1
@@ -1929,13 +1644,7 @@ There are four primary Committee Member roles (Chair, Program Lead, Communicatio
 
 The roles and responsibilities of each committee member is outlined in the [Roles and Responsibilities of Committee Members](#roles-and-responsibilities-of-committee-members).
 
-
----
-
-
 ## Glossary of Terms
-
-
 
 * Accessibility
 * Blog Post
@@ -1949,17 +1658,9 @@ The roles and responsibilities of each committee member is outlined in the [Role
 * TopicBox
 * Zoom
 
-
----
-
-
 ## About This Handbook
 
 The CarpentryCon Committee Member Handbook is a resource for members of The Carpentries community who are serving as a member of the CarpentryCon Committee. This handbook provides information on how to receive relevant communications and includes step-by-step guides for serving in this role. The Carpentries Community Development Team manages the content of this handbook. It is reviewed before planning starts for CarpentryCon and updated after each event. To provide feedback, please email [community@carpentries.org](mailto:community@carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our Glossary of Terms.
-
-
----
-
 
 ## Acknowledgement
 Funding to develop this handbook was provided by the [Alfred P. Sloan Foundation](https://sloan.org/). 
