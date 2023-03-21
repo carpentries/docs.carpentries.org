@@ -8,10 +8,7 @@ title: "Instructors"
 
 Carpentries Instructors are volunteers who are certified through the Carpentries Instructor Training program to teach live-coding and data skills to learners through evidence based-teaching practices.
 
-
 ### Roles and responsibilities
-
-
 
 * Organise and facilitate Self-Organised Workshops
 * Volunteer to facilitate Centrally-Organised Workshops
@@ -24,25 +21,16 @@ For a **Self-Organised Workshop** Instructors should expect to dedicate the dura
 
 For a **Centrally-Organised Workshop** Instructors should expect to dedicate the duration of the workshop which is approximately 16 hours, in addition to approximately 1-3 hours of pre-planning meetings.
 
-
 ### Onboarding
 
-
-
-
 Steps to becoming an Instructor.
-
-
 
 1. **Attend an Instructor Training event** The training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the **[Instructor training curriculum page](https://carpentries.github.io/instructor-training/)**.
 2. **Complete the checkout process** You must complete three short tasks after the training in order to complete certification as a Carpentries Instructor. See our **[Checkout Instructions](https://carpentries.github.io/instructor-training/checkout/index.html)** page for more details.
 
-
 ### Offboarding
 
-
 If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at [Workshops](mailto:workshops@carpentries.org) to unsubscribe from the Instructor Teaching Opportunities list.
-
 
 ## Communication and Collaboration Spaces
 
@@ -50,66 +38,48 @@ If you are no longer interested in receiving emails about upcoming teaching oppo
 
 Join the Workshop Administration Team every month on the second Tuesday at 3:00 pm and 9:00 pm UTC. During monthly meetings we will share updates, tips and most of all gather feedback from Instructors. Please signup on the [Etherpad](https://pad.carpentries.org/InstructorMeetings). 
 
-
 ### Upcoming Workshops
 
 If you are an Active Instructor and would like to see a list of teaching opportunities that need Instructors, please go to your [AMY profile](https://amy.carpentries.org/) to see a list of upcoming workshops that you can sign up to teach. 
-
 
 ### Community Calendar
 
 Once scheduled, all _[Community Discussions](https://pad.carpentries.org/community-discussions) (i.e pre- and post workshop discussions, Themed Discussions and Carpentries Conversations) and [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos)_ are listed on our [Community Calendar](https://carpentries.org/community/#community-events). You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.
 
-
 ### Etherpad
 
 Below is a list of Etherpads relevant to serving as a _Instructor_. 
-
-
 
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
 * [Community Discussions](https://pad.carpentries.org/community-discussions)
 * [Teaching Demo](https://pad.carpentries.org/teaching-demos)
 
-
 ### GitHub
-
-
 
 * [Glosario](https://github.com/carpentries/glosario): A multilingual glossary for computing and data science terms
 * [Workshop Template](https://github.com/carpentries/workshop-template)
 
-
 ### Slack
 
 [To join The Carpentries Slack workspace, you can follow this link.](https://swc-slack-invite.herokuapp.com/) To follow conversations relevant to this role, you should join the following channels:
-
-
 
 * [The Carpentries General Channel](https://swcarpentry.slack.com/archives/C03LE48AY) 
 * [The Carpentries Instructor Channel ](https://swcarpentry.slack.com/archives/C08BVNU00)
 
 If you are new to Slack, please check out our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
 
-
 ### TopicBox
 
 You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.
-
-
 
 * [discuss | Topicbox](https://carpentries.topicbox.com/groups/discuss)
 * [instructors | Topicbox](https://carpentries.topicbox.com/groups/instructors)
 
 To join one or more Carpentries listservs, you will need to [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). 
 
-
 ## Step-by-Step Guides
 
-
 ### Planning & Organising a workshop
-
-
 
 1. Decide on the order of the lessons and who will teach what modules
 2. Set up the workshop website using the workshop template and send it to The Carpentries Workshop Administration Team. Detailed instructions are in this repo’s [README](#).
@@ -124,26 +94,19 @@ To join one or more Carpentries listservs, you will need to [create a login on t
 
 From the [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist).
 
-
 ### Setting Up a Workshop Website
 
 For instructions on setting up a website for a workshop, please see the [workshop template home page](https://github.com/carpentries/workshop-template#readme).
 
 [Self-Organised Workshops Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit) a guide to help Instructors/Workshop Hosts teach Self-Organised workshops. This provides a high level overview of all the steps needed to successfully coordinate a Carpentries workshop from beginning to end. 
 
-
-
  **[Tips For Instructors — The Carpentries Handbook documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)**
-
 
 ### Handling Software Installation
 
 Installing software on laptops has gotten a lot better over the years, but it can still be a huge challenge at the start of a workshop. Here are some suggestions for making the process go as smoothly as possible.
 
-
 **What you can do in advance:**
-
-
 
 * Plan for installation help at the start of both workshop days. Put it on the schedule and make sure it is clear that people can and should show up during that time.
 * Email the participants a week in advance and the day before to remind them to install the needed software before the workshops.
@@ -156,8 +119,6 @@ Installing software on laptops has gotten a lot better over the years, but it ca
 
 **On the day of:**
 
-
-
 * Refer to our [Wiki page with common problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
 * If someone has come in early and the software still cannot be installed by the time the workshop starts, try one of the “emergency exits” below or keep working with them one-on-one until they are able to start.
 * If someone comes in late or is having such trouble with installation that they cannot start, have them watch (and maybe work with a neighbour) until the first coffee break, when you can keep working on installation issues.
@@ -166,10 +127,7 @@ Installing software on laptops has gotten a lot better over the years, but it ca
 
 If there is absolutely no way that you will be able to install the software locally on someone’s computer, consider using the [following solutions](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds):
 
-
 Read our blog post, [Scaffolding Installation for Online Workshops](https://carpentries.org/blog/2020/04/scaffolds/)
-
-
 
 * Pre-configured “scaffolds” for [RStudio Cloud](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#rstudio-cloud) and [My Binder](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#my-binder) (hosting Jupyter and OpenRefine).
 * [Microsoft Azure](https://notebooks.azure.com/) gives you a cloud based Jupyter notebook with many languages and platforms installed. It also includes a shell terminal with git.
@@ -178,19 +136,13 @@ Read our blog post, [Scaffolding Installation for Online Workshops](https://carp
 ### 
 **About the Code of Conduct**
 
-
 The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) is a key tool for fostering and upholding an inclusive, respectful learning environment. But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about. Here is a sample of how you might introduce the Code of Conduct – please do not use this verbatim, but adapt it to your own audience and style of introduction:
-
 
 The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 
-
 What kinds of behaviours are expected?
 
-
 All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
-
-
 
 * Use welcoming and inclusive language
 * Be respectful of different viewpoints and experiences
@@ -200,16 +152,12 @@ All interactions should be professional regardless of platform: either online or
 
 Examples of unacceptable behaviour by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the details on how to handle Code of Conduct violations.
 
-
 ### 
 **Using Exercises**
-
 
 When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
 
 Once you have selected exercises, there are several ways to actually display them to the participants during the workshop. Any of these options may be the best choice depending on the tool you are using or the kind of exercises you want to use.
-
-
 
 * From the lesson website (zoomed in)
     * This is the least effort, but requires having the right lesson page open + finding the right exercise
@@ -224,7 +172,6 @@ Once you have selected exercises, there are several ways to actually display the
     * Requires time to set up, but is great for multiple choice and T/F questions and promotes participation
 
 In all of these examples, you will have to switch from the tool you are using for live coding to however you are showing the exercises. For something like R or Python, one way to reduce the amount of switching is to put all the exercises in an R script / Python notebook and have that open alongside your main working script/notebook so that it is relatively easy to switch back and forth.
-
 
 ## **General Tips**
 
@@ -242,9 +189,7 @@ Before you start, review our [accessibility checklist](https://carpentries.org/f
 
 Carpentries workshops frequently include many people with widely varying skills and experiences.  The end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) has some strategies when working with a   diverse classroom.
 
-
 ### Resources for online workshops
-
 
 This official set of recommendations will be updated as we receive feedback from the community
 
@@ -252,26 +197,17 @@ This official set of recommendations will be updated as we receive feedback from
 
 [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/)
 
-
 An updated guide for teaching [online workshops](https://docs.google.com/document/d/1Q8re6o0HO32mYyV0SgY3boFiAFxjjdSl3SKT5_WtTH8/edit). This guide provides tips on all aspects of workshop planning starting before the workshop through the end of the workshop. 
-
 
 ### Community resources
 
-
 This material is for current and aspiring Carpentries Instructors. Find material here on becoming an Instructor, how you can develop as an Instructor, and what networking opportunities our community offer (#).
-
-
-
 
 ## FAQs
 
 [List of frequently asked questions](https://carpentries.org/workshop_faq/) relevant to the content in the handbook. 
 
-
 ### Pre-workshop
-
-
 
 * **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
     * There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one instructor must be identified. If the instructors change, we will get notified and will be able to make the update. 
@@ -296,10 +232,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **How do I sign up to teach a  Centrally-Organised Workshop?**
     * In order to sign-up to teach a Centrally-Organised Workshop you must login to AMY using your GitHub credentials. The [handbook has instructions](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#teaching) on how to sign-up. 
 
-
 ### Curriculum
-
-
 
 * **If I am only teaching portions of the Carpentries curriculum, do I still need to register my workshop?**
     * It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops we can not provide support or share information with instructors. 
@@ -310,10 +243,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **When will I be considered an Experienced Instructor?**
     * Ater being an Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries workshop. 
 
-
 ### Centrally-Organised
-
-
 
 * **Are Instructors paid a stipend?**
     * The instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time we require the Host to cover travel expenses. If you would like to support the instructors, you are encouraged to make a targeted [donation](https://carpentries.org/donate/) to support instructor development
@@ -322,10 +252,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **Will I be notified if a workshop is canceled or postponed?**
     * A Workshop Administrator will notify Instructors as soon as a workshop has been canceled or postponed by the Host. Confirmed Instructors for the original workshop dates will be given priority selection when the new dates are confirmed. 
 
-
 #### Online workshop
-
-
 
 * **Will I be provided with a Zoom room to teach my online workshop?**
     * If your institution has a videoconferencing  platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
@@ -338,10 +265,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **How do I sign-up to teach a Centrally-Organised Workshops?**
     * In order to sign-up to teach a Centrally-Organised Workshop you must login to AMY using your GitHub credentials. The [handbook has instructions](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#teaching) on how to sign-up. 
 
-
 #### In-person workshop
-
-
 
 * **Do Instructors pay for travel?**
     * As a volunteer Instructor who is not paid for their time teaching,  we ask the host to cover travel and accommodation costs. We recommend that the host budgets approximately $1000 per Instructor for all travel expenses. 
@@ -353,10 +277,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **What are The Carpentries' in-person event procedures for in-person workshops?**
     * We will follow the in-person event guidelines of the host institution. This will differ between organisations and we will ensure that all parties involved are aware of any policies that are in place.
 
-
 ### General
-
-
 
 * **How do I get survey data/links for previous workshops?**
     * The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the [Workshop Administration Team](mailto:workshops@carpentries.org) with your request and include a link to the workshop website(s) and/or slug(s).
@@ -365,12 +286,9 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **What happens if I need to make changes to my workshop website?**
     * Please feel free to make changes to your website. You do not need to let us know, these changes are updated manually each week. However, if you change your workshop repo name (or link), please do let us know as we will not be able to pull information from your website without updating the link in our database.
 
-
 ## Glossary of Terms
 
 This section will include definitions for terms used in the handbook and related to the role. For now, list the terms to be included and do not include the definition. If a term is missing in [the existing glossary](https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing), please add it and provide a definition approved by your team. 
-
-
 
 * Instructor
 * Helper
@@ -385,10 +303,7 @@ This section will include definitions for terms used in the handbook and related
 * Workshop Administration Team
 * Host Organisation
 
-
 ## About This Handbook
-
-
 
 * What is the handbook for? Why does it exist? 
     * To provide understanding of a Carpentries workshop and how they are organised/managed
