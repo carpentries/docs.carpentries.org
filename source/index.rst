@@ -26,14 +26,14 @@ Handbooks
    :maxdepth: 1
    :name: handbooks
 
-    Instructors <workshops/instructors>
-    Community Discussion Hosts <community/discussion_host>
     CarpentryCon <community/carpentrycon>
+    Community Discussion Hosts <community/discussion_host>
     Curriculum Advisors <curriculum/curriculum_advisors>
-    Maintainers <curriculum/maintainers>
     Lesson Developers <curriculum/lesson_developers>
+    Maintainers <curriculum/maintainers>
     Trainers <instructor_training/trainers>
     Trainers Leadership <instructor_training/trainers_leadership>
+    Instructors <workshops/instructors>
 
 
 General Resources 
