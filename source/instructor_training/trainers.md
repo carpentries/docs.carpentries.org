@@ -159,11 +159,7 @@ Exceptions may be made at the discretion of The Carpentries Core Team. To reques
 
 #### Trainer Alumni 
 
-Active Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Trainer Roles and Responsibilities for 1 year or more. Active Trainers may also have their role changed to Trainer Alumni if they do not 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "renew their Active status"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[renew their Active status](#heading=h.cp4it9i4qwtc) during the annual renewal period. 
+Active Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Trainer Roles and Responsibilities for 1 year or more. Active Trainers may also have their role changed to Trainer Alumni if they do not [renew their Active status](#active-status-renewal-process) during the annual renewal period. 
 
 Trainer Alumni will not be permitted to:
 
@@ -247,7 +243,7 @@ Trainer meetings are scheduled at two time slots, twice monthly. Each month incl
 
 Meetings are open to Instructor Trainers, Trainer trainees, and invited guests. Anyone else with interest in attending a Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
-Meeting notes are recorded in the [Trainers Etherpad](carpentries/trainers) and [archived in the Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
+Meeting notes are recorded in the [Trainers Etherpad](https://pad.carpentries.org/trainers) and [archived in the Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
 
 
 ## Step-by-Step Guides

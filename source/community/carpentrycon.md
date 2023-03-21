@@ -109,7 +109,7 @@ The Program Leads support the development and implementation of the conference p
   <tr>
    <td>Send invitations to top candidates for keynote speakers, inviting backups as needed 
    
-   (Resource: [Template: Keynote Speaker Invitation Letter](#template:-keynote-speaker-invitation-letter))
+   (Resource: [Template: Keynote Speaker Invitation Letter](#template-keynote-speaker-invitation-letter))
    </td>
    <td>1-2 hour / presenter
    </td>
@@ -268,7 +268,7 @@ The Accessibility Leads ensure the event is accessible and inclusive to the comm
   <tr>
    <td>Update accessibility/accommodation questions to include in conference registration 
    
-   (Resource: [Registration Form Template](#registration-form-template))
+   (Resource: [Registration Form Template](#template-registration-form))
    </td>
    <td>30 minutes
    </td>
@@ -458,7 +458,7 @@ Members of the Core Team support all aspects of conference planning and implemen
   <tr>
    <td>Analyze data and write report 
    
-   (Resources: [CarpentryCon 2022 Evaluation Report](#carpentrycon-2022-evaluation-report), [R Script to Analyse Post Conference Survey](#r-script-to-analyze-post-conference-survey)) 
+   (Resources: [CarpentryCon 2022 Evaluation Report](#carpentrycon-2022-evaluation-report), [R Script to Analyse Post Conference Survey](#r-script-to-analyse-post-conference-survey)) 
    </td>
    <td>20 hours
    </td>
@@ -666,10 +666,10 @@ A website for each year’s CarpentryCon will be created and administered throug
 
 
 
-1. The Program Chairs and other Committee members should identify potential keynote speakers, considering the event theme and review criteria listed in the README tab of [TEMPLATE: Keynote Presenter Review](#template:-keynote-presenter-review).
+1. The Program Chairs and other Committee members should identify potential keynote speakers, considering the event theme and review criteria listed in the README tab of [TEMPLATE: Keynote Presenter Review](#template-keynote-speaker-review-spreadsheet).
 2. Once identified, the Program Chairs should record the relevant information into the speaker review tab of the template (i.e., Speaker Recommendation, URL, Speaker Fee) and any notes you would like the Committee Chairs to know as part of their review.
 3. The Committee Chairs should review the speakers recommended following the guidelines in the README tab of the template. 
-4. Following the review, Committee Chairs will [send invitation letters](#template:-keynote-speaker-invitation-letter) to those identified with a “yes” in the “Invite?” column. Those listed as “backups” should be invited only if one or more of the primary invitees are unable to attend the event. 
+4. Following the review, Committee Chairs will [send invitation letters](#template-keynote-speaker-invitation-letter) to those identified with a “yes” in the “Invite?” column. Those listed as “backups” should be invited only if one or more of the primary invitees are unable to attend the event. 
 
 
 ### Process for Review of Proposal Submissions
@@ -725,7 +725,7 @@ There are many ways that someone can pull together the program and schedule once
     3. Do not run programming for more than 3 consecutive hours. Three hours is a long time to be attentive in a virtual space even with breaks.
     4. Leave time for participant breaks, lasting a minimum of ten minutes.
     5. Leave time to transition virtual rooms between sessions. In some cases, the volunteers supporting the next session will be rotating and will need time to get set up.
-    6. Lightning talks can be grouped by theme. In 2022, each lightning talk session lasted 50 minutes. Five 5-minute talks were aired followed by a breakout discussion (Resource: [Email on how lightning talk session will run](#email-on-how-lightning-talk-session-will-run)).
+    6. Lightning talks can be grouped by theme. In 2022, each lightning talk session lasted 50 minutes. Five 5-minute talks were aired followed by a breakout discussion (Resource: [Email on how lightning talk session will run](#email-on-how-lightning-talk-sessions-will-run)).
 5. Have all members of the CarpentryCon Committee review the draft schedule at the next meeting, identifying any concerns or changes that need to be made.
 6. Finalize the draft schedule based on the meeting discussion.
 7. [Send an email](#proposal-decision-email-templates) to the session lead to confirm the date and time of the session(s) they will be leading.
@@ -1441,7 +1441,7 @@ _Example email sent to session leads reminding them to upload their session mate
 
 Hey CarpentryCon Session Leads and Co-Leads,
 
-Sending a reminder to please upload your presentations and any related materials for your sessions by [DEADLINE] to the appropriate folders in our gDrive [LINK TO FOLDER]. This will support accessibility of our event by making materials available in advance for those that have requested them. Please also review the additional requests we sent out on [DATE OF FINAL INFORMATIONAL EMAIL](#informational-email-to-leads:-two-weeks-out) found below. As of today, we have [NUMBER REGISTERED] people who have registered to attend. Questions? Please send them to carpentrycon@carpentries.org.
+Sending a reminder to please upload your presentations and any related materials for your sessions by [DEADLINE] to the appropriate folders in our gDrive [LINK TO FOLDER]. This will support accessibility of our event by making materials available in advance for those that have requested them. Please also review the additional requests we sent out on [DATE OF FINAL INFORMATIONAL EMAIL](#informational-email-to-session-leads-two-weeks-out) found below. As of today, we have [NUMBER REGISTERED] people who have registered to attend. Questions? Please send them to carpentrycon@carpentries.org.
 
 Many thanks, The CarpentryCon Committee
 

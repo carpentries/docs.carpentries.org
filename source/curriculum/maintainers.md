@@ -341,5 +341,6 @@ Slack
 
 ## About This Handbook
 
-This handbook is designed to support Maintainers - members of The Carpentries community who maintain one or more lesson repositories for our lesson programs. It is maintained by The Carpentries Curriculum Team. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please send an message to the [Curriculum Team](mailto:curriculum@carpentries.org) or open an issue on [the source repository of this handbook](#).
+This handbook is designed to support Maintainers - members of The Carpentries community who maintain one or more lesson repositories for our lesson programs. It is maintained by The Carpentries Curriculum Team. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please send an message to the [Curriculum Team](mailto:curriculum@carpentries.org) or open an issue on [the source repository of this handbook](https://github.com/carpentries/handbook-beta).
+
 
