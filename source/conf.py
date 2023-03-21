@@ -115,6 +115,9 @@ html_theme_options = {
 
     # Not actually needed when header menus are hard coded/custom built
     "header_links_before_dropdown": 0,
+
+    # Do not show prev/next navigation at bottom, as handbooks are not sequential
+    "show_prev_next": False
 }
 
 
