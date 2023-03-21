@@ -5,8 +5,6 @@
 
 This is a prototype of the new Carpentries Handbook and does not contain current information.  For more information please visit `The Carpentries main website <https://carpentries.org/>`_ or `The Carpentries current handbook <https://docs.carpentries.org/>`_.  The Carpentries teaches foundational coding and data science skills to researchers worldwide. Software Carpentry, Data Carpentry, and Library Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our Code of Conduct. 
 
-Soufflé shortbread chupa chups lollipop carrot cake lollipop gingerbread. Chocolate cake topping caramels cupcake chocolate bar apple pie. Cotton candy pastry fruitcake shortbread jelly-o gummi bears. Icing fruitcake dragée pie cheesecake pastry.
-
 
 What would you like to do today?
 ----------------------------------
