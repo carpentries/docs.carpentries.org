@@ -237,7 +237,7 @@ Below is a step-by-step guide to support you in your role as a Curriculum Adviso
 ### Curriculum Advisory Committee Consultation Rubric
 
 
-##### About this resource
+#### About this resource
 
 _This rubric defines the division of responsibilities between The Carpentries Maintainers and The Carpentries Curriculum Advisory Committees (CACs)._
 
@@ -299,7 +299,7 @@ _This rubric defines the division of responsibilities between The Carpentries Ma
 ### Email templates
 
 
-##### About this resource
+#### About this resource
 
 _Curriculum Advisors can use these email templates for planning their meetings._
 

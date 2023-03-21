@@ -188,7 +188,7 @@ We recognise that even after scheduling community discussions, the host may have
 
 ### Onboarding Presentation
 
-##### About this resource
+#### About this resource
 
 _This is the onboarding presentation given during a Community Discussion Host onboarding session._
 
@@ -197,7 +197,7 @@ _This is the onboarding presentation given during a Community Discussion Host on
 
 ### Script for Starting a Community Discussion
 
-##### About this resource
+#### About this resource
 
 _Community Discussion Hosts can use or adapt this script at the start of their community discussion._
 
