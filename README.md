@@ -1,6 +1,6 @@
 # The Carpentries Handbook (BETA)
 
-This is an early prototype of what The Carpentries Handbook might look like.  Everything is a work in progress and does not currently contain any actual Carpentries documentation.
+This is an early prototype of what The Carpentries Handbook might look like.  Everything is a work in progress and does not currently contain any actual Carpentries documentation.  The site can be [previewed at this Netlify link](https://carpentries-beta-handbook-preview.netlify.app/).
 
 ## File structure
 
