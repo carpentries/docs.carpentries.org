@@ -140,10 +140,7 @@ Community Coordinators are responsible for scheduling and hosting Regional Commu
 
 Community discussions use the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) where community members can sign up to attend and collaboratively take notes during the call. Many regional subcommunities use their own notetaking platform for Regional Community Calls, and links to where they record notes can be found at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) and are also available in the [Community Calendar](https://carpentries.org/community/#community-events) listing. 
 
-
 #### Before the Discussion Session
-
-
 
 * Sign on at least 5 minutes before the beginning of the discussion session.
 * It is recommended to create a waiting room. This enables the host to explicitly let people in, rather than allowing anyone to enter. 
@@ -157,10 +154,7 @@ Community discussions use the [Community Discussions Etherpad](https://pad.carpe
 * Confirm that the fellow host is present (if there is one) and who will be leading/taking notes.
 * If relevant, the host can copy the template agendas for all session types from the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) to the space under the sign up for the session. [Template agendas](#sample-agendas) are also available in this handbook. 
 
-
 #### During the Discussion Session
-
-
 
 * Use or adapt the [Script for Starting a Community Discussion](#script-for-starting-a-community-discussion).
 * If relevant, follow the sample agendas provided at the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) and also available in the [resources section of this handbook](#resources). 
