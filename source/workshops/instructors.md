@@ -133,8 +133,7 @@ Read our blog post, [Scaffolding Installation for Online Workshops](https://carp
 * [Microsoft Azure](https://notebooks.azure.com/) gives you a cloud based Jupyter notebook with many languages and platforms installed. It also includes a shell terminal with git.
 * If your institution’s library does laptop rentals, rent 1-2 laptops and set them up with the software before the workshop and keep them on hand as loaners during the workshop.
 
-### 
-**About the Code of Conduct**
+### About the Code of Conduct
 
 The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) is a key tool for fostering and upholding an inclusive, respectful learning environment. But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about. Here is a sample of how you might introduce the Code of Conduct – please do not use this verbatim, but adapt it to your own audience and style of introduction:
 
@@ -152,8 +151,7 @@ All interactions should be professional regardless of platform: either online or
 
 Examples of unacceptable behaviour by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the details on how to handle Code of Conduct violations.
 
-### 
-**Using Exercises**
+### Using Exercises
 
 When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
 
@@ -173,7 +171,7 @@ Once you have selected exercises, there are several ways to actually display the
 
 In all of these examples, you will have to switch from the tool you are using for live coding to however you are showing the exercises. For something like R or Python, one way to reduce the amount of switching is to put all the exercises in an R script / Python notebook and have that open alongside your main working script/notebook so that it is relatively easy to switch back and forth.
 
-## **General Tips**
+## General Tips
 
 **Introductions**
 
