@@ -2,6 +2,9 @@
 title: "Instructor Trainer Handbook"
 ---
 
+## 
+
+
 ## Description of Community Role
 
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries Instructor Training events, the first step in certification for Carpentries Instructors. Trainers also support [Instructor certification](https://carpentries.github.io/instructor-training/checkout/index.html), also known as Checkout, evaluating trainees’ teaching demonstrations. 
@@ -825,4 +828,3 @@ Please include the following information:
 * What is the handbook for? Why does it exist? 
 * Who is responsible for updating its content? 
 * How can someone provide feedback on its content?
-
