@@ -378,9 +378,6 @@ Resources
 Curriculum Advisory Committee Consultation Rubric
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-About this resource
-^^^^^^^^^^^^^^^^^^^
-
 *This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs).*
@@ -463,11 +460,6 @@ Issues for which Maintainers must seek CAC approval
 
 Email templates
 ~~~~~~~~~~~~~~~
-
-.. _about-this-resource-1:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 *Curriculum Advisors can use these email templates for planning their
 meetings.*
