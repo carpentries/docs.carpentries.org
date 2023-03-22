@@ -2,13 +2,11 @@
 title: "Instructors"
 ---
 
-# Instructors 
-
-## Description of Community Role
+# Instructors Handbook
 
 Carpentries Instructors are volunteers who are certified through the Carpentries Instructor Training program to teach live-coding and data skills to learners through evidence based-teaching practices.
 
-### Roles and responsibilities
+## Roles and Responsibilities
 
 * Organise and facilitate Self-Organised Workshops
 * Volunteer to facilitate Centrally-Organised Workshops
@@ -21,14 +19,14 @@ For a **Self-Organised Workshop** Instructors should expect to dedicate the dura
 
 For a **Centrally-Organised Workshop** Instructors should expect to dedicate the duration of the workshop which is approximately 16 hours, in addition to approximately 1-3 hours of pre-planning meetings.
 
-### Onboarding
+## Onboarding
 
 Steps to becoming an Instructor.
 
 1. **Attend an Instructor Training event** The training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the **[Instructor training curriculum page](https://carpentries.github.io/instructor-training/)**.
 2. **Complete the checkout process** You must complete three short tasks after the training in order to complete certification as a Carpentries Instructor. See our **[Checkout Instructions](https://carpentries.github.io/instructor-training/checkout/index.html)** page for more details.
 
-### Offboarding
+## Offboarding
 
 If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at [Workshops](mailto:workshops@carpentries.org) to unsubscribe from the Instructor Teaching Opportunities list.
 
@@ -171,7 +169,7 @@ Once you have selected exercises, there are several ways to actually display the
 
 In all of these examples, you will have to switch from the tool you are using for live coding to however you are showing the exercises. For something like R or Python, one way to reduce the amount of switching is to put all the exercises in an R script / Python notebook and have that open alongside your main working script/notebook so that it is relatively easy to switch back and forth.
 
-## General Tips
+### General Tips
 
 **Introductions**
 
@@ -187,7 +185,7 @@ Before you start, review our [accessibility checklist](https://carpentries.org/f
 
 Carpentries workshops frequently include many people with widely varying skills and experiences.  The end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) has some strategies when working with a   diverse classroom.
 
-### Resources for online workshops
+## Resources
 
 This official set of recommendations will be updated as we receive feedback from the community
 
@@ -201,7 +199,7 @@ An updated guide for teaching [online workshops](https://docs.google.com/documen
 
 This material is for current and aspiring Carpentries Instructors. Find material here on becoming an Instructor, how you can develop as an Instructor, and what networking opportunities our community offer (#).
 
-## FAQs
+## FAQ
 
 [List of frequently asked questions](https://carpentries.org/workshop_faq/) relevant to the content in the handbook. 
 
@@ -284,7 +282,7 @@ This material is for current and aspiring Carpentries Instructors. Find material
 * **What happens if I need to make changes to my workshop website?**
     * Please feel free to make changes to your website. You do not need to let us know, these changes are updated manually each week. However, if you change your workshop repo name (or link), please do let us know as we will not be able to pull information from your website without updating the link in our database.
 
-## Glossary of Terms
+## Glossary
 
 This section will include definitions for terms used in the handbook and related to the role. For now, list the terms to be included and do not include the definition. If a term is missing in [the existing glossary](https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing), please add it and provide a definition approved by your team. 
 
