@@ -34,7 +34,19 @@ The Committee Chairs provide overall leadership for the committee,
 ensuring the event is community driven. They work directly with the Core
 Team Liaisons.
 
-**Insert table here**
+.. csv-table:: 
+   :widths: 70, 30
+   :delim: ,
+   :header-rows: 1
+
+   Roles and Responsibilities,Time Commitment
+   "Set agenda and chair CarpentryCon Committee meetings (Guide: Setting Up Etherpad for Committee Meetings)", 1-2 hours / week
+   "Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed(Information: Communication and Collaboration Spaces)", 2-3 hours / month
+   "Lead selection of event theme in consultation with other Committee members",	1 hour
+   "Review keynote speaker recommendations from Program Leads and identify who will be invited (Guide: Process for Review of Keynote Speaker Recommendations)", 2 hours; 1 hour of independent review and another hour of discussion with other Chair
+   "Develop and lead opening and closing ceremonies for conference",	4 hours
+   "Support work of other committee members as needed", 1 hour / week
+   "Support event implementation as needed (e.g., notify backups or step in if a volunteer does not show up for a session, respond to questions about the event)",8 hours during the week of the event
 
 Program Lead
 ~~~~~~~~~~~~
@@ -43,13 +55,42 @@ The Program Leads support the development and implementation of the
 conference program and schedule. They work closely with the Chairs who
 coordinate across all Committee members.
 
-**Insert table here**
+.. csv-table::  
+   :widths: 70, 30
+   :delim: ,
+   :header-rows: 1
+
+   Roles and Responsibilities, Time Commitment
+   "Attend weekly Committee meetings", 1 hour / week
+   "Lead identification and selection of keynote speakers in consultation with other Committee members (Guide: Process for Review of Keynote Speaker Recommendations)", 4 hours
+   "Send invitations to top candidates for keynote speakers, inviting backups as needed (Resource: Template: Keynote Speaker Invitation Letter)", 1-2 hour / presenter
+   "Develop submission and selection criteria for conference session proposals (Resource: Proposal Submission Form Template) (Guide: Process for Review of Proposal Submissions)", 2 hours
+   "Recruit volunteers to support proposal review process; number of volunteers needed will be dependent on the number of proposals received", 4 hours
+   "Manage proposal review process, including assigning reviewers and scheduling review panel discussion (Guide: Process for Review of Proposal Submissions)", 4 hours / week with minimum of two weeks
+   "Send communications to session leads on decision for proposal submission (Resource: Proposal Decision Email Templates)", 4-5 hours / week with minimum of two weeks
+   "Develop final program, one to share publicly and another with details for volunteers (Guide: Creating Program and Schedule)", 10-12 hours
+   "Recruit volunteers to support program, with each session requiring a session facilitator and Zoom helper (Resource: Email Communications for Recruiting Volunteers)", 4 hours
+   "Onboard session facilitators and Zoom helpers (Resources: [Instructions for Session Facilitators](#instructions-for-session-facilitators), [Instructions for Zoom Helpers](#instructions-for-zoom-helpers))", 1 hour
+   "Support event implementation as needed (e.g., notify backups or step in if a volunteer does not show up for a session, respond to questions about the program and schedule)",	8 hours during the week of the event
 
 
 Communications Lead
 ~~~~~~~~~~~~~~~~~~~
 
-**Insert table here**
+The Communications Leads support communications leading up to and during the conference. They work directly with the Core Team’s Communications Manager.
+
+.. csv-table::  
+   :widths: 70, 30
+   :delim: ,
+   :header-rows: 1
+
+   Roles and Responsibilities, Time Commitment
+   "Attend weekly Committee meetings",	1 hour / week
+   "Draft communications, including social media and blog posts (Guide: Sharing Content with Communications Manager)", 3 hours / month
+   "Draft content for conference website",	3 hours / month
+   "Ensure transparency of CarpentryCon Committee activities (e.g., make minutes available) (Resource: Setting up Etherpad for Committee Meetings)", 2 hours / month
+   "Recruit and onboard volunteers to support communications as needed (Resource: Information for Communication Support)", 2 hours for each recruitment and onboarding
+   "Support communications during the event as needed (e.g., post announcements to Slack, write content for social media)", 5 hours during the week of the event
 
 Accessibility Lead
 ~~~~~~~~~~~~~~~~~~
@@ -58,7 +99,18 @@ The Accessibility Leads ensure the event is accessible and inclusive to
 the community. They work directly with the Core Team’s Accessibility
 Manager.
 
-**Insert table here**
+.. csv-table::
+   :widths: 70, 30
+   :delim: ,
+   :header-rows: 1
+
+   Roles and Responsibilities, Time Commitment
+   "Attend weekly Committee meetings", 1 hour / week
+   "Conduct accessibility audit (i.e., review and test accessibility features) of all conference platforms (Resource: Accessibility Audit for CarpentryCon 2022)", 2 hours per each platform adopted
+   "Update accessibility/accommodation questions to include in conference registration (Resource: Registration Form Template)", 30 minutes
+   "Update accessibility guidelines for presenters (Resource: Accessibility Guidelines for Presenters)", 1 hour
+   "Review and implement accessibility guidelines outlined in the Toolkit of IDEAS around accessibility (Resource: Toolkit of IDEAS)", 30 minutes to review; 2 hours / month for implementation
+   "Support translators and interpreters during conference", On call during event for relevant time zones
 
 Core Team Members
 ~~~~~~~~~~~~~~~~~
@@ -72,7 +124,47 @@ Infrastructure Team leads website development and the adoption of
 platforms used for the event. All other Core Team members propose and
 lead sessions and provide support as needed.
 
-**Insert table here**
+.. csv-table::
+   :widths: 70, 30
+   :delim: ,
+   :header-rows: 1
+
+   Roles and Responsibilities,Time Commitment
+   **Committee Liaisons**,
+   "Recruit CarpentryCon Committee members: includes drafting social media and blog posts, hosting two community discussions, interviews with applicants", 8 hours dependent on community interest
+   Set timeline and major milestones for all Committee members in Asana before Committee onboarding, 4 hours
+   Set agenda and chair CarpentryCon Committee meetings in absence of chair, As needed
+   Attend weekly Committee meetings, 1 hour / week
+   "Respond to inquiries sent to carpentrycon@carpentries.org (Information: Communication and Collaboration Spaces)", 1 hour / week
+   "Track task completion, timeline, and milestones and write weekly updates in Asana", 1 hour / week
+   "Send thank you gifts out to Committee members after the conference ends (Resource: Email templates for committee members)", 2 hours
+   **Communications Manager**,
+   "Develop communications plan in collaboration with Communications Leads, building on plans from previous years, updating timeline with detailed tasks and deliverables in Asana", 4 hours during first two months of conference planning
+   Scheduling and posting content from Communications Leads, 2 hours / month
+   Monitoring relevant social media accounts, 2 hours / month
+   Communicating and meeting with Communications Leads, 1 hour / month
+   Develop graphics and images surrounding event theme, 4 hours
+   Fundraising support if needed, 1 hour / month
+   Uploading session recordings to YouTube, 1 hour per bulk upload; 2 hours / month (with captions)
+   **Accessibility Manager**
+   "Develop accessibility plan in collaboration with Accessibility Leads, updating timeline with detailed tasks and deliverables in Asana", 8 hours during first two months of conference planning
+   "Identify contractors for accommodations (i.e., transcribers, interpreters, translations)",	20 hours to research and complete contracts workflow; start process ten months before the conference
+   Process accommodation requests from registration, 1 hour / week starting when registration opens and ending two weeks following event
+   Support translators and interpreters during conference, On call during event for relevant time zones
+   **Director of Assessment**,
+   Develop evaluation plan (Resources: CarpentryCon 2022 Evaluation Report), 8 hours
+   "Create data collection instruments (Resources: Post Conference Survey, Committee Member Feedback Form)", 2 hours
+   "Analyze data and write report (Resources: CarpentryCon 2022 Evaluation Report, R Script to Analyse Post Conference Survey)", 20 hours
+   **Business Team**,
+   Review and finalize budget, 1 month
+   Process event contracts, 1-2 months from start of each contract
+   Process reimbursement requests, 20 minutes per reimbursement
+   **Infrastructure Team**, 
+   Set up and support maintenance of conference website (Resource: GitHub Repository), 4 hours to set up; 4 hours / month maintenance
+   **All Core Team members**,
+   "Support event implementation, stepping in to help with tasks as they arise", 8 hours during the week of the event
+   "Attend sessions as participant and/or volunteer", 8 hours during the week of the event
+   "Support translators and interpreters during conference (as needed to support Accessibility Leads and Accessibility Manager)",On call during event for relevant time zones
 
 Onboarding Committee Members
 ----------------------------
