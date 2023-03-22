@@ -40,10 +40,10 @@ Team Liaisons.
    :header-rows: 1
 
    Roles and Responsibilities,Time Commitment
-   "Set agenda and chair CarpentryCon Committee meetings (Guide: Setting Up Etherpad for Committee Meetings)", 1-2 hours / week
-   "Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed(Information: Communication and Collaboration Spaces)", 2-3 hours / month
+   "Set agenda and chair CarpentryCon Committee meetings (Guide: :ref:`Setting Up Etherpad for Committee Meetings`)", 1-2 hours / week
+   "Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed(Information: :ref:`Communication and Collaboration Spaces`)", 2-3 hours / month
    "Lead selection of event theme in consultation with other Committee members",	1 hour
-   "Review keynote speaker recommendations from Program Leads and identify who will be invited (Guide: Process for Review of Keynote Speaker Recommendations)", 2 hours; 1 hour of independent review and another hour of discussion with other Chair
+   "Review keynote speaker recommendations from Program Leads and identify who will be invited (Guide: :ref:`Process for Review of Keynote Speaker Recommendations`)", 2 hours; 1 hour of independent review and another hour of discussion with other Chair
    "Develop and lead opening and closing ceremonies for conference",	4 hours
    "Support work of other committee members as needed", 1 hour / week
    "Support event implementation as needed (e.g., notify backups or step in if a volunteer does not show up for a session, respond to questions about the event)",8 hours during the week of the event
@@ -62,15 +62,15 @@ coordinate across all Committee members.
 
    Roles and Responsibilities, Time Commitment
    "Attend weekly Committee meetings", 1 hour / week
-   "Lead identification and selection of keynote speakers in consultation with other Committee members (Guide: Process for Review of Keynote Speaker Recommendations)", 4 hours
-   "Send invitations to top candidates for keynote speakers, inviting backups as needed (Resource: Template: Keynote Speaker Invitation Letter)", 1-2 hour / presenter
-   "Develop submission and selection criteria for conference session proposals (Resource: Proposal Submission Form Template) (Guide: Process for Review of Proposal Submissions)", 2 hours
+   "Lead identification and selection of keynote speakers in consultation with other Committee members (Guide: :ref:`Process for Review of Keynote Speaker Recommendations`)", 4 hours
+   "Send invitations to top candidates for keynote speakers, inviting backups as needed (Resource: `Template: Keynote Speaker Invitation Letter <#template-keynote-speaker-invitation>`_)", 1-2 hour / presenter
+   "Develop submission and selection criteria for conference session proposals (Resource: :ref:`Proposal Submission Form Template`) (Guide: :ref:`Process for Review of Proposal Submissions`)", 2 hours
    "Recruit volunteers to support proposal review process; number of volunteers needed will be dependent on the number of proposals received", 4 hours
-   "Manage proposal review process, including assigning reviewers and scheduling review panel discussion (Guide: Process for Review of Proposal Submissions)", 4 hours / week with minimum of two weeks
-   "Send communications to session leads on decision for proposal submission (Resource: Proposal Decision Email Templates)", 4-5 hours / week with minimum of two weeks
-   "Develop final program, one to share publicly and another with details for volunteers (Guide: Creating Program and Schedule)", 10-12 hours
-   "Recruit volunteers to support program, with each session requiring a session facilitator and Zoom helper (Resource: Email Communications for Recruiting Volunteers)", 4 hours
-   "Onboard session facilitators and Zoom helpers (Resources: [Instructions for Session Facilitators](#instructions-for-session-facilitators), [Instructions for Zoom Helpers](#instructions-for-zoom-helpers))", 1 hour
+   "Manage proposal review process, including assigning reviewers and scheduling review panel discussion (Guide: :ref:`Process for Review of Proposal Submissions`)", 4 hours / week with minimum of two weeks
+   "Send communications to session leads on decision for proposal submission (Resource: :ref:`Proposal Decision Email Templates`)", 4-5 hours / week with minimum of two weeks
+   "Develop final program, one to share publicly and another with details for volunteers (Guide: :ref:`Creating Program and Schedule`)", 10-12 hours
+   "Recruit volunteers to support program, with each session requiring a session facilitator and Zoom helper (Resource: :ref:`Email Communications for Recruiting Volunteers`)", 4 hours
+   "Onboard session facilitators and Zoom helpers (Resources: :ref:`Instructions for Session Facilitators`, :ref:`Instructions for Zoom Helpers`", 1 hour
    "Support event implementation as needed (e.g., notify backups or step in if a volunteer does not show up for a session, respond to questions about the program and schedule)",	8 hours during the week of the event
 
 
@@ -86,10 +86,10 @@ The Communications Leads support communications leading up to and during the con
 
    Roles and Responsibilities, Time Commitment
    "Attend weekly Committee meetings",	1 hour / week
-   "Draft communications, including social media and blog posts (Guide: Sharing Content with Communications Manager)", 3 hours / month
+   "Draft communications, including social media and blog posts (Guide: :ref:`Sharing Content with Communications Manager`)", 3 hours / month
    "Draft content for conference website",	3 hours / month
-   "Ensure transparency of CarpentryCon Committee activities (e.g., make minutes available) (Resource: Setting up Etherpad for Committee Meetings)", 2 hours / month
-   "Recruit and onboard volunteers to support communications as needed (Resource: Information for Communication Support)", 2 hours for each recruitment and onboarding
+   "Ensure transparency of CarpentryCon Committee activities (e.g., make minutes available) (Resource: :ref:`Setting up Etherpad for Committee Meetings`)", 2 hours / month
+   "Recruit and onboard volunteers to support communications as needed (Resource: :ref:`Information for Communication Support`)", 2 hours for each recruitment and onboarding
    "Support communications during the event as needed (e.g., post announcements to Slack, write content for social media)", 5 hours during the week of the event
 
 Accessibility Lead
@@ -106,10 +106,10 @@ Manager.
 
    Roles and Responsibilities, Time Commitment
    "Attend weekly Committee meetings", 1 hour / week
-   "Conduct accessibility audit (i.e., review and test accessibility features) of all conference platforms (Resource: Accessibility Audit for CarpentryCon 2022)", 2 hours per each platform adopted
-   "Update accessibility/accommodation questions to include in conference registration (Resource: Registration Form Template)", 30 minutes
-   "Update accessibility guidelines for presenters (Resource: Accessibility Guidelines for Presenters)", 1 hour
-   "Review and implement accessibility guidelines outlined in the Toolkit of IDEAS around accessibility (Resource: Toolkit of IDEAS)", 30 minutes to review; 2 hours / month for implementation
+   "Conduct accessibility audit (i.e., review and test accessibility features) of all conference platforms (Resource: :ref:`Accessibility Audit for CarpentryCon 2022`)", 2 hours per each platform adopted
+   "Update accessibility/accommodation questions to include in conference registration (Resource: `Registration Form Template <#template-registration-form>`_)", 30 minutes
+   "Update accessibility guidelines for presenters (Resource: :ref:`Accessibility Guidelines for Presenters`)", 1 hour
+   "Review and implement accessibility guidelines outlined in the Toolkit of IDEAS around accessibility (Resource: :ref:`Toolkit of IDEAS`)", 30 minutes to review; 2 hours / month for implementation
    "Support translators and interpreters during conference", On call during event for relevant time zones
 
 Core Team Members
@@ -135,9 +135,9 @@ lead sessions and provide support as needed.
    Set timeline and major milestones for all Committee members in Asana before Committee onboarding, 4 hours
    Set agenda and chair CarpentryCon Committee meetings in absence of chair, As needed
    Attend weekly Committee meetings, 1 hour / week
-   "Respond to inquiries sent to carpentrycon@carpentries.org (Information: Communication and Collaboration Spaces)", 1 hour / week
+   "Respond to inquiries sent to carpentrycon@carpentries.org (Information: :ref:`Communication and Collaboration Spaces`)", 1 hour / week
    "Track task completion, timeline, and milestones and write weekly updates in Asana", 1 hour / week
-   "Send thank you gifts out to Committee members after the conference ends (Resource: Email templates for committee members)", 2 hours
+   "Send thank you gifts out to Committee members after the conference ends (Resource: :ref:`Email templates for committee members`)", 2 hours
    **Communications Manager**,
    "Develop communications plan in collaboration with Communications Leads, building on plans from previous years, updating timeline with detailed tasks and deliverables in Asana", 4 hours during first two months of conference planning
    Scheduling and posting content from Communications Leads, 2 hours / month
@@ -152,15 +152,15 @@ lead sessions and provide support as needed.
    Process accommodation requests from registration, 1 hour / week starting when registration opens and ending two weeks following event
    Support translators and interpreters during conference, On call during event for relevant time zones
    **Director of Assessment**,
-   Develop evaluation plan (Resources: CarpentryCon 2022 Evaluation Report), 8 hours
+   Develop evaluation plan (Resources: :ref:`CarpentryCon 2022 Evaluation Report`), 8 hours
    "Create data collection instruments (Resources: Post Conference Survey, Committee Member Feedback Form)", 2 hours
-   "Analyze data and write report (Resources: CarpentryCon 2022 Evaluation Report, R Script to Analyse Post Conference Survey)", 20 hours
+   "Analyze data and write report (Resources: :ref:`CarpentryCon 2022 Evaluation Report`, :ref:`R Script to Analyse Post Conference Survey`)", 20 hours
    **Business Team**,
    Review and finalize budget, 1 month
    Process event contracts, 1-2 months from start of each contract
    Process reimbursement requests, 20 minutes per reimbursement
    **Infrastructure Team**, 
-   Set up and support maintenance of conference website (Resource: GitHub Repository), 4 hours to set up; 4 hours / month maintenance
+   Set up and support maintenance of conference website (Resource: :ref:`GitHub repo<Conference Website>`), 4 hours to set up; 4 hours / month maintenance
    **All Core Team members**,
    "Support event implementation, stepping in to help with tasks as they arise", 8 hours during the week of the event
    "Attend sessions as participant and/or volunteer", 8 hours during the week of the event
@@ -347,7 +347,7 @@ Adding Committee Members to Mailing List
 4. Add email addresses in the “Choose to Add” box. You can also upload
    email addresses as a .txt or .csv file.
 
-Setting Up Etherpad for Committee Meetings
+Setting up Etherpad for Committee Meetings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Type in https://pad.carpentries.org/carpentrycon[year] to create a
@@ -657,9 +657,6 @@ Planning and Onboarding/ Offboarding Resources
 Planning Timeline
 ^^^^^^^^^^^^^^^^^
 
-About this resource
-'''''''''''''''''''
-
 *Timeline for major activities happening each month during conference
 planning.*
 
@@ -748,10 +745,6 @@ MONTH 12
 Budget Template
 ^^^^^^^^^^^^^^^
 
-.. _about-this-resource-1:
-
-About this resource
-'''''''''''''''''''
 
 *This spreadsheet can be used to develop a budget for the event. An
 example is provided from CarpentryCon 2022.*
@@ -764,11 +757,6 @@ example is provided from CarpentryCon 2022.*
 CarpentryCon Committee Member Application Template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-2:
-
-About this resource
-'''''''''''''''''''
-
 *Google Form template that can be used for receiving applications to
 serve on the CarpentryCon Committee. Please copy the template and make
 updates for each year of the event. If needed, updates to the template
@@ -780,11 +768,6 @@ can be made as well.*
 CarpentryCon 2022 Committee Onboarding Presentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-3:
-
-About this resource
-'''''''''''''''''''
-
 *This presentation was given at the onboarding meeting for Committee
 members supporting CarpentryCon 2022.*
 
@@ -793,11 +776,6 @@ members supporting CarpentryCon 2022.*
 
 External Conference Planning Resources
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-4:
-
-About this resource
-'''''''''''''''''''
 
 *Links to external resources that can support planning for
 CarpentryCon.*
@@ -828,11 +806,6 @@ Email Templates for Committee Members
 
 Email to send to committee members after event ends
 '''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. _about-this-resource-5:
-
-About this resource
-                   
 
 *Email communication sent to committee members following CarpentryCon.
 It requests that they complete the feedback form and send their address
@@ -868,11 +841,6 @@ Accessibility Resources
 Accessibility Guidelines for Presenters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-6:
-
-About this resource
-'''''''''''''''''''
-
 *Guidelines to be sent to all presenters to improve the accessibility of
 presentations and sessions. Please update as needed.*
 
@@ -881,11 +849,6 @@ presentations and sessions. Please update as needed.*
 
 Accessibility Audit for CarpentryCon 2022
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-7:
-
-About this resource
-'''''''''''''''''''
 
 *This audit was conducted by the Accessibility Manager for The
 Carpentries for CarpentryCon 2022. It assessed the accessibility of all
@@ -978,11 +941,6 @@ could be easily seen.
 Toolkit of IDEAS
 ^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-8:
-
-About this resource
-'''''''''''''''''''
-
 *The Toolkit of IDEAS (Inclusion, Diversity, Equity and Accessibility
 Strategies) is a practical resource for Carpentries’ Instructors,
 helpers, and workshop hosts running workshops. The guidelines provided
@@ -993,11 +951,6 @@ for workshops can be applied to other events like CarpentryCon.*
 
 Email Template: Information for Participants Requesting Accommodations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-9:
-
-About this resource
-'''''''''''''''''''
 
 *Email communication sent to individuals who requested funding support
 to attend CarpentryCon.*
@@ -1019,11 +972,6 @@ Please let me know if you have any questions.
 
 Email Template: Paperwork Submission Deadline for Participants Requesting Accommodations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-10:
-
-About this resource
-'''''''''''''''''''
 
 *Email communication sent to individuals who requested funding support
 to attend CarpentryCon.*
@@ -1047,11 +995,6 @@ Communications Resources
 
 Communication Templates to Share
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-11:
-
-About this resource
-'''''''''''''''''''
 
 *Template for communications templates to share with the community to
 help spread the word about CarpentryCon.*
@@ -1156,11 +1099,6 @@ Learn more about the types of proposals we are seeking in this blog post
 Communications Schedule
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-12:
-
-About this resource
-'''''''''''''''''''
-
 *Template for generating a communications schedule around significant
 activities surrounding CarpentryCon.*
 
@@ -1173,11 +1111,6 @@ Program Development and Communication Resources
 Template: Keynote Speaker Review Spreadsheet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-13:
-
-About this resource
-'''''''''''''''''''
-
 *Google Sheets template that can be used for selecting keynote
 presenters to invite to the conference. Please copy the template and
 make updates for each year of the event. If needed, updates to the
@@ -1186,13 +1119,9 @@ template can be made as well.*
 -  `Template: Keynote Speaker
    Review <https://docs.google.com/spreadsheets/u/0/d/13OJQM5r3GKTlvAMGKTl4FAuSEes1PH_Oey96DUvGS9I/edit>`__
 
-Template: Keynote Speaker Invitation Letter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Template: Keynote Speaker Invitation 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-14:
-
-About this resource
-'''''''''''''''''''
 
 *Template letter that can be used for sending invitations to potential
 keynote speakers.*
@@ -1256,10 +1185,6 @@ Code of Conduct and guided by our core values.
 Proposal Submission Form Template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-15:
-
-About this resource
-'''''''''''''''''''
 
 *Google Form template that can be used to collect CarpentryCon proposal
 submissions. Please copy the template and make updates for each year of
@@ -1270,11 +1195,6 @@ the event. If needed, updates to the template can be made as well.*
 
 Proposal Decision Email Templates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-16:
-
-About this resource
-'''''''''''''''''''
 
 *Email templates that can be used for contacting individuals who
 submitted a proposal for CarpentryCon about the decision of the review
@@ -1387,11 +1307,6 @@ The CarpentryCon Committee
 Proposal Confirmation of Acceptance Form Template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-17:
-
-About this resource
-'''''''''''''''''''
-
 *Google Form template that can be used for confirming the date and time
 scheduled for a session with the session leads. Please copy the template
 and make updates for each year of the event. If needed, updates to the
@@ -1402,11 +1317,6 @@ template can be made as well.*
 
 Time Blocks and Scheduling Spreadsheet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-18:
-
-About this resource
-'''''''''''''''''''
 
 *Google Sheet to support developing a schedule for the program across
 three primary time blocks. Please copy the spreadsheet to use for each
@@ -1420,11 +1330,6 @@ Email Communications for Lightning Talk Presenters
 
 Email on how lightning talk sessions will run
 '''''''''''''''''''''''''''''''''''''''''''''
-
-.. _about-this-resource-19:
-
-About this resource
-                   
 
 *An example email for communicating with lightning talk presenters and
 session supporters on how the lightning talk sessions will run.*
@@ -1477,10 +1382,6 @@ and please email carpentrycon@carpentries.org if you have any questions.
 Email reminding presenters to upload lightning talk
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. _about-this-resource-20:
-
-About this resource
-                   
 
 *An example email for communicating with lightning talk presenters and
 session supporters on how the lightning talk sessions will run.*
@@ -1504,11 +1405,6 @@ Email Communications for Session Leads
 
 Informational Email to Session Leads: Two Weeks Out
 '''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. _about-this-resource-21:
-
-About this resource
-                   
 
 *Example email sent to session leads two weeks prior to the start of the
 event.*
@@ -1564,11 +1460,6 @@ welcoming you to the event in a couple of weeks.
 Reminder Email to Upload Session Materials
 ''''''''''''''''''''''''''''''''''''''''''
 
-.. _about-this-resource-22:
-
-About this resource
-                   
-
 *Example email sent to session leads reminding them to upload their
 session materials to make the event more accessible.*
 
@@ -1589,11 +1480,6 @@ Many thanks, The CarpentryCon Committee
 
 Informational Email to Session Leads: One Week Out
 ''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. _about-this-resource-23:
-
-About this resource
-                   
 
 *Example email sent to session leads one week prior to the start of the
 event.*
@@ -1660,11 +1546,6 @@ welcoming you to the event next week!
 Etherpad Template for CarpentryCon Sessions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-24:
-
-About this resource
-'''''''''''''''''''
-
 *This Etherpad template should be used when*\ `setting up conference
 session Etherpads <#setting-up-conference-session-etherpads>`__\ *.*
 
@@ -1676,11 +1557,6 @@ Registration Resources
 
 Template: Registration Form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-25:
-
-About this resource
-'''''''''''''''''''
 
 *A template to use for conference registration. This form is also
 available to members of the Core Team in Eventbrite.*
@@ -1798,10 +1674,6 @@ Templates: Emails to Registrants
 Email to send to registrants two weeks prior to event
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. _about-this-resource-26:
-
-About this resource
-                   
 
 *Email communication sent to registrants two weeks from the start of
 CarpentryCon 2022.*
@@ -1854,11 +1726,6 @@ The CarpentryCon Committee
 Emails to registrants to take post conference survey
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. _about-this-resource-27:
-
-About this resource
-                   
-
 *Email communication sent to registrants requesting they take the post
 conference survey.*
 
@@ -1901,11 +1768,6 @@ Volunteer Management Resources
 Instructions for Session Facilitators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-28:
-
-About this resource
-'''''''''''''''''''
-
 *This document provides a template for instructions, including an
 opening script, for facilitators supporting sessions at CarpentryCon.
 This resource can be updated for use in future events.*
@@ -1916,11 +1778,6 @@ This resource can be updated for use in future events.*
 Instructions for Zoom Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-29:
-
-About this resource
-'''''''''''''''''''
-
 *This document provides a template for instructions for Zoom helpers
 supporting sessions at CarpentryCon. This resource can be updated for
 use in future events.*
@@ -1930,11 +1787,6 @@ use in future events.*
 
 Information for Communication Support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-30:
-
-About this resource
-'''''''''''''''''''
 
 *This document provides a template for information for individuals
 supporting communications during CarpentryCon. This resource can be
@@ -1948,11 +1800,6 @@ Email Communications for Recruiting Volunteers
 
 Email recruiting session facilitators
 '''''''''''''''''''''''''''''''''''''
-
-.. _about-this-resource-31:
-
-About this resource
-                   
 
 *Email communications sent to individuals who indicated interest in
 serving as a session facilitator when registering for CarpentryCon. The
@@ -1989,11 +1836,6 @@ you have any questions, please email carpentrycon@carpentries.org.
 
 Email recruiting Zoom helpers
 '''''''''''''''''''''''''''''
-
-.. _about-this-resource-32:
-
-About this resource
-                   
 
 *Email communications sent to individuals who indicated interest in
 serving as a Zoom helper when registering for CarpentryCon. The first
@@ -2037,11 +1879,6 @@ The CarpentryCon Committee
 Informational Email for Conference Volunteers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-33:
-
-About this resource
-'''''''''''''''''''
-
 *Email communications sent to individuals who indicated interest in
 serving as a session facilitator when registering for CarpentryCon. The
 first paragraph includes a follow up communication with the original
@@ -2080,11 +1917,6 @@ Evaluation Resources
 CarpentryCon 2022 Evaluation Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-34:
-
-About this resource
-'''''''''''''''''''
-
 *Report summarizing findings from evaluation of CarpentryCon 2022.*
 
 -  `CarpentryCon 2022 Evaluation
@@ -2092,11 +1924,6 @@ About this resource
 
 Post Conference Survey
 ^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-35:
-
-About this resource
-'''''''''''''''''''
 
 *This is the post conference survey distributed to those who registered
 for CarpentryCon in 2022. Surveys are available in TypeForm.*
@@ -2210,11 +2037,6 @@ Thanks for providing input on your CarpentryCon experience!
 R Script to Analyse Post Conference Survey
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _about-this-resource-36:
-
-About this resource
-'''''''''''''''''''
-
 `R
 script <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__\ *used
 to analyse the 2022 Post Conference Survey and produce the figures for
@@ -2225,11 +2047,6 @@ the 2022 CarpentryCon Evaluation Report.*
 
 Committee Member Feedback Form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-37:
-
-About this resource
-'''''''''''''''''''
 
 *Google Form distributed to Committee members to get feedback on their
 experience supporting CarpentryCon.*
