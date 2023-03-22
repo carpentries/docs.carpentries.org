@@ -60,6 +60,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'pydata_sphinx_theme'
+html_favicon = "img/logo.ico"
 
 html_context = {
     "default_mode": "light",
