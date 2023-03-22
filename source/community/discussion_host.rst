@@ -182,7 +182,10 @@ FAQs section <#faq>`__.
    handbook <#communication-and-collaboration-spaces>`__ for
    instructions on joining one or both of these communication channels.
 
-**Insert table here**
+.. csv-table:: Schedule 
+   :widths: 20, 20, 20, 20, 20
+   :file: ../_includes/calendar.csv
+   :header-rows: 1
 
 -  Community Discussion Hosts will sign up using
    `Calendly <https://calendly.com/thecarpentries>`__ during the signup
