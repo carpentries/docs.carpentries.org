@@ -4,11 +4,9 @@ title: "Lesson Developers"
 
 # Lesson Developers Handbook
 
-## Description of Community Role
-
 Lesson Developers create new lessons using The Carpentries open source lesson infrastructure. This lesson development takes place in The Carpentries Incubator, a space for the community to collaborate on lesson projects. 
 
-### Roles and responsibilities
+## Roles and Responsibilities
 
 Beyond ensuring that the lesson remains compliant with [the requirements for inclusion in The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator), there are no formal responsibilities associated with developing a lesson there: lesson projects in the Incubator are community efforts that belong to the individual developers contributing to them. These Developers can choose to manage them and commit time to them according to their preferences and availability.
 
@@ -21,13 +19,13 @@ To ensure the continuing health and sustainability of their lesson project, The 
 * Recruiting Instructors to beta test the lesson, supporting preparations for pilot workshops, and incorporating feedback from those workshops.
 * Submitting the lesson for open peer review and acceptance to [The Carpentries Lab](https://carpentries-lab.org/).
 
-### Onboarding
+## Onboarding
 
 Lesson Developers can start a new lesson any time by [opening a new issue on The Carpentries Incubator Proposals repository](https://github.com/carpentries-incubator/proposals/issues/new?assignees=&labels=&template=issue_proposal.md). The issue template includes several questions, which should be answered to help the Curriculum Team set up the lesson repository correctly in the Incubator.
 
 Community members with an idea for a new lesson can also apply to join Collaborative Lesson Development Training, which will be scheduled periodically starting in 2023.
 
-### Offboarding
+## Offboarding
 
 There is no formal offboarding process for Lesson Developers working on projects in The Carpentries Incubator.
 
@@ -282,7 +280,7 @@ The standard Carpentries pre- and post-workshop surveys do not support lesson pi
 
 A [template beta announcement blog post](https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing) and [template beta announcement email message](https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing) to publicise the beta version of a lesson. These can be used to call for community members to volunteer to host a beta pilot workshop to aid the ongoing development of the lesson.
 
-## FAQs
+## FAQ
 
 **Question 1**
 
@@ -292,7 +290,7 @@ Response 1
 
 Response 2
 
-## Glossary of Terms
+## Glossary
 
 Carpentries Incubator
 
