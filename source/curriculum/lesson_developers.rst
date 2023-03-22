@@ -220,12 +220,24 @@ from a limited set of values, while others are more flexible. The table
 below has guidance about the types and number of topic tags each lesson
 repository should have.
 
-**Insert table here**
+.. csv-table::
+   :widths: 20,20,10,50
+   :delim: ,
+   :header-rows: 1
+
+   Category, Example, Number, Description
+   Lesson*,lesson,1,Must be lesson to be listed on the Community Developed Lessons page.
+   Location*,carpentries-incubator,1,carpentries-incubator or carpentrieslab.
+   Language*,español,">0",The language(s) the lesson is available in.
+   Stage*,alpha,1,The current development stage for the lesson.
+   Domain,microbial-ecology,1-2,The high-level domain(s) of the lesson for a general categorization.
+   Tools,python,1-3,The main tool(s) taught in the lesson.
+   Skills,taxonomic-classification,1-3,The main skill(s) taught in the lesson.
 
 
-\_Categories marked with an asterisk (*) are required in order for a
+Categories marked with an asterisk (\*) are required in order for a
 lesson to appear and be appropriately sorted on the `Community Developed
-Lessons page <https://carpentries.org/community-lessons/>`__.\_
+Lessons page <https://carpentries.org/community-lessons/>`_.
 
 The Curriculum Team will support you in setting appropriate topic tags
 for your lesson. To help ensure consistency across all lesson
