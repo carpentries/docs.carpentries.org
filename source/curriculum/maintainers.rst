@@ -335,15 +335,8 @@ absence/unavailability:
 Resources
 ---------
 
-Please add a list of resources relevant to the content in the handbook
-(e.g., communication templates). Each resource should include a section
-“about this resource” which provide a brief description.
-
 `Maintainer Onboarding Curriculum <https://carpentries.github.io/maintainer-onboarding/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 The curriculum used at Maintainer Onboarding. This resource can be a
 helpful reference for Maintainers after they have completed onboarding.
@@ -357,11 +350,6 @@ onboarding.
 `Introduction to The Carpentries Workbench <https://carpentries.github.io/sandpaper-docs/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _about-this-resource-1:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
-
 Documentation for The Carpentries Workbench, open source infrastructure
 for lesson websites. The documentation explains how to install the
 Workbench so that Lesson Maintainers can edit and preview their lessons
@@ -372,11 +360,6 @@ the latest changes to the infrastructure.
 `Curriculum Advisory Committee Consultation Rubric <https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _about-this-resource-2:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
-
 This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs). It can be used by Maintainers to help determine
@@ -385,11 +368,6 @@ their lesson.
 
 `Curriculum Development Handbook <https://cdh.carpentries.org/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _about-this-resource-3:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 A guide to the lesson design process recommended by The Carpentries. The
 CDH provides details of the curriculum structure used by our Lesson
@@ -405,11 +383,6 @@ and it is no longer actively updated.**
 
 `Collaborative Lesson Development Training Curriculum <https://carpentries.github.io/lesson-development-training/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _about-this-resource-4:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
