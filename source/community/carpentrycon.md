@@ -4,17 +4,15 @@ title: "Virtual CarpentryCon Handbook"
 
 # Virtual CarpentryCon Handbook
 
-## Description of CarpentryCon
-
 CarpentryCon is The Carpentries key biennial community-building and networking event that brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities. This handbook details what is needed to run a fully virtual event with a focus on accessibility and inclusivity. A handbook detailing a hybrid event will be developed and made available at a later time.  
 
-### Roles and Responsibilities of Committee Members
+## Roles and Responsibilities of Committee Members
 
 The CarpentryCon Committee for a virtual event should include no more than ten community members and two primary Core Team liaisons. To support planning across time zones, there should be an Eastern Committee and Western Committee that has members located in time zones within the eastern and western hemispheres. Each group will include individuals serving in the following roles: [Committee Chair](#chairs), [Program Lead](#program-lead), [Communications Lead](#communications-lead), [Accessibility Lead](#accessibility-lead), and [Core Team Liaison](#core-team-members). 
 
 This section of the handbook includes the roles and responsibilities of each committee member with a link to relevant guides and resources and the time commitment required. All time estimates are approximated based on implementation of past events.
 
-#### Chairs
+### Chairs
 
 The Committee Chairs provide overall leadership for the committee, ensuring the event is community driven. They work directly with the Core Team Liaisons. 
 
@@ -75,7 +73,7 @@ The Committee Chairs provide overall leadership for the committee, ensuring the 
   </tr>
 </table>
 
-#### Program Lead
+### Program Lead
 
 The Program Leads support the development and implementation of the conference program and schedule. They work closely with the Chairs who coordinate across all Committee members.
 
@@ -171,7 +169,7 @@ The Program Leads support the development and implementation of the conference p
   </tr>
 </table>
 
-#### Communications Lead
+### Communications Lead
 
 The Communications Leads support communications leading up to and during the conference. They work directly with the Core Team’s Communications Manager. 
 
@@ -228,7 +226,7 @@ The Communications Leads support communications leading up to and during the con
   </tr>
 </table>
 
-#### Accessibility Lead
+### Accessibility Lead
 
 The Accessibility Leads ensure the event is accessible and inclusive to the community. They work directly with the Core Team’s Accessibility Manager. 
 
@@ -285,7 +283,7 @@ The Accessibility Leads ensure the event is accessible and inclusive to the comm
   </tr>
 </table>
 
-#### Core Team Members
+### Core Team Members
 
 Members of the Core Team support all aspects of conference planning and implementation while ensuring the event is community driven. Two Core Team members serve as liaisons to the East and West groups. The Communications Manager supports the Communications Leads, and the Accessilibity Manager supports the Accessibility Leads. The Infrastructure Team leads website development and the adoption of platforms used for the event. All other Core Team members propose and lead sessions and provide support as needed. 
 
@@ -506,7 +504,7 @@ Members of the Core Team support all aspects of conference planning and implemen
   </tr>
 </table>
 
-### Onboarding Committee Members
+## Onboarding Committee Members
 
 When onboarding new members, roles and responsibilities need to be clearly defined and communicated. This is especially important for distinguishing tasks that need to be community-led and those tasks that should be the responsibility of the Core Team. Considerations include: ensuring the event is driven by community needs and interests, what are appropriate contributions for volunteers, and who can access planning and event platforms. It will be important to document how decisions will be made to bring further clarity to how Committee members will collaborate. 
 
@@ -523,7 +521,7 @@ The following tasks need to be completed by the Core Team liaisons to onboard ne
     * Add all Committee members to Asana, Google Drive (provide edit access), and the mailing list.
     * Send a communication via the mailing list that they have been added to the various platforms and to contact the Core Team liaisons if there are any issues with access.
 
-### Offboarding Committee Members
+## Offboarding Committee Members
 
 The following tasks need to be completed by the Core Team liaisons after the event ends.
 

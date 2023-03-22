@@ -4,8 +4,6 @@ title: "Curriculum Advisors"
 
 # Curriculum Advisors Handbook
 
-## Description of Role
-
 Curriculum Advisors are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. Curriculum Advisors represent The Carpentries community and should strive to embody The Carpentries philosophy by:
 
 * Recognising the importance of communication and being welcoming to all contributors.
@@ -19,9 +17,9 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
     * Keeping language motivating.
     * Emphasising the importance of continued learning and improvement.
 
-### Member roles and responsibilities
+## Roles and Responsibilities
 
-#### Chair
+### Chair
 
 * Prepare agenda for regular meetings, including time estimates for each item.
 * Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
@@ -34,7 +32,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Approve meeting minutes.
 * Fulfill all other responsibilities of a CAC member.
 
-#### Secretary
+### Secretary
 
 * Schedule regular meetings.
 * Arrange meeting room logistics.
@@ -43,7 +41,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Prepare meeting minutes and post to the appropriate CAC repository.
 * Fulfill all other responsibilities of a CAC member.
 
-#### Other members
+### Other members
 
 * Notify Chair of potential agenda items as they arise.
 * Review agenda and other relevant documents sent by Chair prior to meeting.
@@ -52,7 +50,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 * Work with community members and Maintainers to implement voted upon changes as needed.
 * (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned.
 
-### Onboarding
+## Onboarding
 
 * CAC recruitment takes place annually, based on term limits and turnover within committees.
 * Rounds of recruitment will be announced on [The Carpentries blog](https://carpentries.org/blog/).
@@ -82,7 +80,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 
 Curriculum Advisors are expected to serve a two-year term.
 
-### Offboarding
+## Offboarding
 
 We understand that circumstances can change and priorities must be re-evaluated. If a Curriculum Advisor needs to step away from the role before the end of their two-year term, the Curriculum Team will support them to do this.
 
@@ -303,13 +301,13 @@ Please let me know if you have any questions or comments.
 
 Best, [ sender name ]
 
-## Frequently Asked Questions
+## FAQ
 
 **How do the responsibilities of Curriculum Advisors differ from Maintainers?**
 
 Please review the [Curriculum Advisory Committee Consultation Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
 
-## Glossary of Terms
+## Glossary
 
 * Carpentries Incubator
 * Carpentries Lab

@@ -4,11 +4,9 @@ title: "Maintainers"
 
 # Maintainers Handbook
 
-## Description of Community Role
-
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavour to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
 
-### Roles and responsibilities
+## Roles and Responsibilities
 
 The Carpentries teaches 400–600 workshops each year, meaning our lesson materials are being used practically every day for synchronous, guided learning. Making sure our lessons keep working without interruptions is therefore our number one goal for maintenance.
 
@@ -52,13 +50,13 @@ Maintainers represent The Carpentries community and should strive to embody The 
     * Keep language motivating.
     * Emphasise the importance of continued learning and improvement.
 
-### Onboarding
+## Onboarding
 
 New Maintainers go through an onboarding process, led by a member of The Carpentries Curriculum Team and the Maintainer Community Lead. Maintainer Onboarding takes place at least once per year. New rounds of onboarding will be announced on The Carpentries blog and main communications channels (discuss TopicBox, general Slack channel).
 
 The curriculum for onboarding new Maintainers is available as a [Maintainer Onboarding Lesson](https://carpentries.github.io/maintainer-onboarding/).
 
-### Offboarding
+## Offboarding
 
 A yearly email with a one-question survey will be sent to Maintainers in mid-to-late January. If the Maintainer responds “yes” to this survey, they will remain a Maintainer for the next year. If a Maintainer replies “no” or does not respond within a month of receiving the survey, they will become an alumnus Maintainer and their permissions to their repository will be revoked. Active Maintainer status can be restored at any time by contacting the Maintainer Community Lead. [The proposal for yearly Maintainer check ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has more detailed information. If a Maintainer would like to step away from the role outside this schedule, they should inform the Maintainer Community Lead and the other Maintainers on their lesson(s).
 
@@ -260,7 +258,7 @@ A guide to the lesson design process recommended by The Carpentries. The CDH pro
 
 A lesson designed to teach skills and good practices in lesson design, lesson website development, and collaboration via GitHub. Community members can apply to join this training, and/or follow the curriculum in their own time.
 
-## FAQs
+## FAQ
 
 List of frequently asked questions relevant to the content in the handbook. 
 
@@ -272,7 +270,7 @@ Response 1
 
 Response 2
 
-## Glossary of Terms
+## Glossary
 
 This section will include definitions for terms used in the handbook and related to the role. For now, list the terms to be included and do not include the definition. If a term is missing in [the existing glossary](https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing), please add it and provide a definition approved by your team. 
 
