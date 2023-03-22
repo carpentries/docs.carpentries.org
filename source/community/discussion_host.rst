@@ -343,9 +343,6 @@ Resources
 Onboarding Presentation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-About this resource
-^^^^^^^^^^^^^^^^^^^
-
 *This is the onboarding presentation given during a Community Discussion
 Host onboarding session.*
 
@@ -355,11 +352,6 @@ Host onboarding session.*
 
 Script for Starting a Community Discussion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _about-this-resource-1:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 *Community Discussion Hosts can use or adapt this script at the start of
 their community discussion.*
@@ -415,11 +407,6 @@ Sample Agendas
 
 Agenda: Pre- and Post-Workshop Discussion Sessions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-2:
-
-About this resource
-'''''''''''''''''''
 
 *Community Discussion Hosts can use this agenda as a template for pre
 and post-workshop discussion sessions. All Pre- and Post-Workshop
@@ -482,11 +469,6 @@ used.*
 
 Agenda: Themed Community Discussions and Community Conversations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _about-this-resource-3:
-
-About this resource
-'''''''''''''''''''
 
 *Community Discussion Hosts can use this agenda as a template for themed
 community discussions and community conversations.*
