@@ -1,9 +1,8 @@
 ---
 title: "Instructor Trainer Handbook"
 ---
-# Trainers
 
-## Description of Community Role
+# Trainers Handbook
 
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries Instructor Training events, the first step in certification for Carpentries Instructors. Trainers also support [Instructor certification](https://carpentries.github.io/instructor-training/checkout/index.html), also known as Checkout, evaluating trainees’ teaching demonstrations. 
 
@@ -15,7 +14,7 @@ Trainers can assume leadership roles within the Trainer community, as Instructor
 
 Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. In most cases Trainers do not self-organise private Instructor Training events for a single local community, but these are allowed in certain circumstances. More information on [Self-Organise a Private Instructor Training Event](#self-organise-a-private-instructor-training-event).
 
-### Roles and responsibilities
+## Roles and Responsibilities
 
 Trainers teach Instructor Training events, host teaching demonstrations, and attend Trainer community meetings. In order to remain active, we ask that Trainers annually: 
 
@@ -31,11 +30,11 @@ The estimated time investment for these activities is 25-30 hours per year, depe
 
 Trainers whose service is included in a member agreement may have additional requirements – please refer to your member agreement for details.
 
-### Onboarding
+## Onboarding
 
-#### Trainer Training Program
+### Trainer Training Program
 
-##### Admission
+#### Admission
 
 The Trainer community periodically accepts new members via application. 
 
@@ -47,7 +46,7 @@ The Trainer community periodically accepts new members via application.
 * Members can reserve Trainer Training seats for a fee. In these cases, while the seat is reserved for someone from the member institution, individual candidates must still apply and be approved.
 * The Carpentries keeps a list of interested applicants and member contacts who would like to be notified when the next round of Trainer Training applications open. To be added to this list, please email the [Instructor Training Team](mailto:instructor.training@carpentries.org)
 
-##### Training and Initial Certification
+#### Training and Initial Certification
 
 In order to be certified as an Instructor Trainer, all trainees must:
 
@@ -133,9 +132,9 @@ Exceptions may be made at the discretion of The Carpentries Core Team. To reques
 
 * More than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.
 
-### Offboarding
+## Offboarding
 
-#### Trainer Alumni 
+### Trainer Alumni 
 
 Active Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Trainer Roles and Responsibilities for 1 year or more. Active Trainers may also have their role changed to Trainer Alumni if they do not [renew their Active status](#active-status-renewal-process) during the annual renewal period. 
 
@@ -151,7 +150,7 @@ Trainer Alumni may elect to:
 * Remain in the Slack private Trainers channel
 * Attend Trainer meetings
 
-## Communication and Collaboration Space
+## Communication and Collaboration Spaces
 
 ### Community Calendar
 
@@ -608,9 +607,7 @@ Sincerely,
 
 [Name]
 
-### Trainers Leadership Documentation
-
-## FAQs
+## FAQ
 
 List of frequently asked questions relevant to the content in the handbook. 
 
@@ -618,7 +615,7 @@ List of frequently asked questions relevant to the content in the handbook.
 
 Check your Calendly confirmation email for the Host Key. This key is also available in a message in the [Trainers Topicbox channel](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code). If you have difficulty, you can post in the #trainers channel on Slack.
 
-## Glossary of Terms
+## Glossary
 
 This section will include definitions for terms used in the handbook and related to the role. For now, list the terms to be included and do not include the definition. If a term is missing in [the existing glossary](https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing), please add it and provide a definition approved by your team. 
 
