@@ -13,10 +13,10 @@ Select one of the options or read below for more information.
 
 .. container:: button
 
-    :doc:`Teach a workshop<workshops/instructors>` 
-    :doc:`Contribute to lessons <curriculum/maintainers>`
-    :doc:`Instructor Training <instructor_training/trainers>` 
-    :doc:`Connect to community <community/discussion_host>`
+    :doc:`Onboard or Offboard<pages/onboarding_offboarding>` 
+    :doc:`Learn how to...<pages/learn_how>`
+    :doc:`Find a Resource <pages/resources>` 
+    :doc:`Connect with others <pages/connect>`
 
 
 Resources
