@@ -2,9 +2,7 @@
 title: "Discussion Hosts"
 ---
 
-# Community Discussion Hosts 
-
-##  Description of Community Role  
+# Community Discussion Hosts Handbook
 
 Hosting a community discussion is a great way to meet more people in The Carpentries community, get to know the organisation better, learn from the experiences of others and share your own knowledge and experience with an even greater number of people. 
 
@@ -19,7 +17,7 @@ Topics covered during community discussions range from teaching workshops and de
 
 **Note.** Any of these four types of Community Discussions can be attended to meet the requirement as part of [Instructor Training Certification (‘Checkout’)](https://carpentries.github.io/instructor-training/checkout/).
 
-### Roles and Responsibilities
+## Roles and Responsibilities
 
 A community member can serve as a community discussion host for any length of time, considering their availability and interest. Specific responsibilities include:
 
@@ -30,11 +28,11 @@ A community member can serve as a community discussion host for any length of ti
 * Make space for participation from anyone attending as part of ‘Checkout’. While participation is not a requirement for checkout, we want to make sure new community members feel welcome and get their questions answered. On the sign up list, these people will have included the word checkout next to their name.
 * Complete [a brief form](https://forms.gle/N74pFuGkRLawpCHh7) following each session you host. **It is important that when you copy attendance into this form, you include the word ‘checkout’ next to the names where it appears in the sign-up on the Etherpad. The Core Team uses this information to record participation in AMY, The Carpentries internal database. This is the primary way future Instructors get credit for completing this checkout step.  **
 
-### Onboarding
+## Onboarding
 
 If you are interested in becoming a community discussion host, you can [email the Community Development Team](mailto:community@carpentries.org) to inform them of your interest. They will provide you with the date and time of the next onboarding session. Onboarding sessions are offered in multiple time zones each quarter as a themed community discussion. [A video](https://youtu.be/VrWdzlD2dlE) and [accompanying slides](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing) that include the content covered in the onboarding are available as references to support you as you serve in this role. Once you are onboarded, you may want to first attend a community discussion as an observer or co-host before leading a call as the host. 
 
-### Offboarding
+## Offboarding
 
 If you are no longer interested in serving as a Community Discussion Host, please send an [email to the Community Development Team](mailto:community@carpentries.org). They will remove you from the #discussion-host Slack channel and unsubscribe you from the Discussion Host mailing list. 
 
@@ -353,6 +351,6 @@ A Community Coordinator is a member of the community who serves as the leader of
 * TopicBox
 * Zoom
 
-##  About 
+## About This Handbook
 
 The Community Discussion Host Handbook is a resource for members of The Carpentries community who are serving as a Community Discussion Host. This handbook provides information on how to receive relevant communications and includes step-by-step guides for serving in this role. The Carpentries Community Development Team manages the content of this handbook. To provide feedback, please email [community@carpentries.org](mailto:community@carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our [Glossary of Terms](#glossary).
