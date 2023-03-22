@@ -384,7 +384,10 @@ Instructor Training events and Teaching Demonstrations are scheduled on
 a quarterly basis. Refer to this schedule for planning and signing up to
 support events, using instructions below.
 
-**Insert table here**
+.. csv-table:: Schedule 
+   :widths: 20, 20, 20, 20, 20
+   :file: ../_includes/calendar.csv
+   :header-rows: 1
 
 Training events
 ~~~~~~~~~~~~~~~
