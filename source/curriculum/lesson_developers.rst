@@ -472,15 +472,8 @@ table on that page.
 Resources
 ---------
 
-Please add a list of resources relevant to the content in the handbook
-(e.g., communication templates). Each resource should include a section
-“about this resource” which provide a brief description
-
 `Introduction to The Carpentries Workbench <https://carpentries.github.io/sandpaper-docs/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 Documentation for The Carpentries Workbench, open source infrastructure
 for lesson websites. The documentation explains how to install the
@@ -491,11 +484,6 @@ the latest changes to the infrastructure.
 
 `Curriculum Development Handbook <https://cdh.carpentries.org/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _about-this-resource-1:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 A guide to the lesson design process recommended by The Carpentries. The
 CDH provides details of the curriculum structure used by our Lesson
@@ -512,11 +500,6 @@ and it is no longer actively updated.**
 `Collaborative Lesson Development Training Curriculum <https://carpentries.github.io/lesson-development-training/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _about-this-resource-2:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
-
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
@@ -524,11 +507,6 @@ their own time.
 
 `Pilot Workshop Feedback Survey Template <https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _about-this-resource-3:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 The standard Carpentries pre- and post-workshop surveys do not support
 lesson pilots so you will need to create your own surveys to send out
@@ -543,11 +521,6 @@ with learners in place of the standard post-workshop survey.
 
 Beta Announcement Templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _about-this-resource-4:
-
-About this resource
-^^^^^^^^^^^^^^^^^^^
 
 A `template beta announcement blog
 post <https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing>`__
