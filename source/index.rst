@@ -19,30 +19,35 @@ Select one of the options or read below for more information.
     :doc:`Connect to community <community/discussion_host>`
 
 
-Handbooks
+Resources
 ----------------------
 
 .. toctree::
    :maxdepth: 1
-   :name: handbooks
+   :name: resources
 
-    CarpentryCon <community/carpentrycon>
-    Community Discussion Hosts <community/discussion_host>
-    Curriculum Advisors <curriculum/curriculum_advisors>
-    Lesson Developers <curriculum/lesson_developers>
-    Maintainers <curriculum/maintainers>
-    Trainers <instructor_training/trainers>
-    Trainers Leadership <instructor_training/trainers_leadership>
-    Instructors <workshops/instructors>
+    Carpentries Commons <https://docs.carpentries.org/topic_folders/communications/resources/commons.html>
+    Code of Conduct <https://carpentries.org>
+    Community Calendar <https://carpentries.org>
+    Community Glossary <https://carpentries.org>
+    Style Guide <https://carpentries.org>
+    Welcome Tip Sheet <https://carpentries.org>
 
 
-General Resources 
+
+Quick Links
 -----------------------------------
 
 .. toctree::
    :maxdepth: 1
    :name: genres
 
-    Code of Conduct <pages/coc>
-    Style Guide<pages/style_guide>
+    AMY database <https://amy.carpentries.org/>
+    Carpentries Incubator <https://carpentries.org/community-lessons/#the-carpentries-incubator>
+    Carpentries Lab <https://carpentries.org/community-lessons/#the-carpentries-lab>
+    Etherpad Pad of Pads <https://pad.carpentries.org/pad-of-pads>
+    Self Organised Workshop Notification Form <https://amy.carpentries.org/forms/self-organised/>
+    Training Website Template <https://github.com/carpentries/training-template>
+    Workshop Website Template <https://github.com/carpentries/workshop-template>
+
 
