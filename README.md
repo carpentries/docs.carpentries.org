@@ -5,7 +5,6 @@ This is an early prototype of what The Carpentries Handbook might look like.  Ev
 ## File structure
 
 * `/build/` Used to build local website. In `.gitignore` so this will not show up in the repo.  Do not edit these files.
-* `/docs/`  Used to build the github pages site.  It is not necessary to use this during local development. Do not edit these files.
 * `/source/` Contains all the files needed to build the site.  Includes:
     * css files and page templates that override styles and templates in the theme
     * folders with markdown files with content for each page
@@ -16,7 +15,7 @@ This is an early prototype of what The Carpentries Handbook might look like.  Ev
 
 ## Editing content
 
-Content is organized in the `source` directory.  There is one folder for each team's work, with markdown files in each folder for each handbook.  Edits to content should be made to these files.  Do not edit files in the `build` or `docs` folders.
+Content is organized in the `source` directory.  There is one folder for each team's work, with markdown files in each folder for each handbook.  Edits to content should be made to these files.  Do not edit files in the `build` folder.
 
 ## Editing styles
 
@@ -108,7 +107,6 @@ After setting the theme, the additional following changes were needed to `conf.p
 
 * To make the template render markdown files properly, add `.md` to the `source_suffix` list and add `myst_parser` to the `extensions` list
 * To use a custon style sheet, set `html_static_path = ['_static']` and `html_css_files = ['css/custom.css']`
-* Add an empty `.nojekyll` file to the `docs` folder to enable the build on GitHub pages
 * Add GitHub identifies to `html_context`. This is supposed to enable the "Edit on GitHub" button, but does not work.
 * Add navbar and sidebar settings to `html_context`
 * To use headers as anchor links, add `myst_heading_anchors = 6` to conf.py
