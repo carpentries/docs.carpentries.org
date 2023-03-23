@@ -31,7 +31,7 @@ Resources
     Carpentries Commons <https://docs.carpentries.org/topic_folders/communications/resources/commons.html>
     Code of Conduct <https://carpentries.org>
     Community Calendar <https://carpentries.org>
-    Community Glossary <https://carpentries.org>
+    Community Glossary <pages/glossary>
     Style Guide <https://carpentries.org>
     Welcome Tip Sheet <https://carpentries.org>
 
