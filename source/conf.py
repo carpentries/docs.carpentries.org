@@ -37,6 +37,7 @@ release = '0.0.1'
 extensions = [
     'myst_parser',
     'sphinx.ext.autosectionlabel',
+    'sphinx_panels',
 ]
 
 # Needed to use headings as anchor links
