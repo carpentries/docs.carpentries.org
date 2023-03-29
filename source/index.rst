@@ -53,3 +53,21 @@ Quick Links
     Workshop Website Template <https://github.com/carpentries/workshop-template>
 
 
+.. toctree::
+    :hidden:
+
+    workshops/instructors
+    pages/sample
+    instructor_training/trainers 
+    pages/style_guide
+    pages/resources
+    pages/onboarding_offboarding
+    pages/learn_how
+    pages/connect
+    pages/coc
+    instructor_training/trainers_leadership
+    curriculum/maintainers
+    curriculum/lesson_developers
+    curriculum/curriculum_advisors
+    community/discussion_host
+    community/carpentrycon
