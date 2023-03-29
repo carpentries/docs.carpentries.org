@@ -7,7 +7,7 @@ This is an early prototype of what The Carpentries Handbook might look like.  Ev
 * `/build/` Used to build local website. In `.gitignore` so this will not show up in the repo.  Do not edit these files.
 * `/source/` Contains all the files needed to build the site.  Includes:
     * css files and page templates that override styles and templates in the theme
-    * folders with markdown files with content for each page
+    * folders with `rst` files with content for each page. This includes one folder for each area of work, plus a folder called `pages` for general pages such as the style guide, glossary, and other landing pages.
     * `conf.py` - site settings
     * `index.rst` - sets structure for home page
 * `.gitignore` Standard gitignore file
@@ -15,7 +15,7 @@ This is an early prototype of what The Carpentries Handbook might look like.  Ev
 
 ## Editing content
 
-Content is organized in the `source` directory.  There is one folder for each team's work, with markdown files in each folder for each handbook.  Edits to content should be made to these files.  Do not edit files in the `build` folder.
+Content is organized in the `source` directory.  Edits to content should be made to these files.  Do not edit files in the `build` folder.
 
 ## Editing styles
 
@@ -23,8 +23,7 @@ Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are i
 
 ## Editing templates and layouts
 
-Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are them called in `html_theme_options[navbar_center]` in `conf.py`. 
-
+Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are them called in `html_theme_options` in `conf.py`.
 
 ## Building the handbook
 
