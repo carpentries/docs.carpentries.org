@@ -8,6 +8,9 @@ This is an early prototype of what The Carpentries Handbook might look like.  Ev
 * `/source/` Contains all the files needed to build the site.  Includes:
     * css files and page templates that override styles and templates in the theme
     * folders with `rst` files with content for each page. This includes one folder for each area of work, plus a folder called `pages` for general pages such as the style guide, glossary, and other landing pages.
+    * `/_includes/` - text blocks and other content to be included in other pages
+    * `/_templates/` - templates for specialized content such as the table of contents in the sidebar
+    * `/_static/` - contains custom css styles 
     * `conf.py` - site settings
     * `index.rst` - sets structure for home page
 * `.gitignore` Standard gitignore file
@@ -40,7 +43,8 @@ After setting the theme, the additional following changes were needed to `conf.p
 * To use a custon style sheet, set `html_static_path = ['_static']` and `html_css_files = ['css/custom.css']`
 * Add GitHub identifies to `html_context`. This is supposed to enable the "Edit on GitHub" button, but does not work.
 * Add navbar and sidebar settings to `html_context`
-* To use headers as anchor links, add `myst_heading_anchors = 6` to conf.py
+* To use headers as anchor links, add `myst_heading_anchors = 6`
+* To suppress warnings about duplicate headers across documents, add `suppress_warnings = ['autosectionlabel.*']`
 
 ## Previews on Netlify
 
