@@ -25,74 +25,6 @@ Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are i
 
 Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are them called in `html_theme_options[navbar_center]` in `conf.py`. 
 
-## Editing anchor links
-
-An anchor link will link to another section of the page you are on (as opposed to going to a different page).  Anchor links can be derived from section header titles (beginning with 1-6 `#` signs in markdown).  The anchor link text is a single `#` sign followed by the section header text, in all lowercase, with spaces replaced by hyphens.
-
-For example, this header:
-
-```
-## Welcome to The Carpentries
-```
-
-could be linked to in markdown as follows:
-
-```
-Read more by reviewing our [welcome page](#welcome-to-the-carpentries).
-```
-
-### Mixing html and markdown
-
-Tables can be created inside a markdown document using html syntax.  If the table text contains hyperlinks, the links must either be formatted in html OR must be on a separate line.  If you do not want the link to be on its own line, html syntax is recommended.  For example:
-
-```
-<tr>
-<td>
-Read more about <a href="https://carpentries.org">The Carpentries</a>
-</td>
-</tr>
-```
-
-OR 
-
-```
-Read more about The Carpentries:
-
-[Carpentries Website](https://carpentries.org)
-```
-
-### Translating Google Docs to Markdown
-
-If you use a tool to convert a Google Doc to Markdown, headers may not get generated properly.  You may see content like in your generated `.md` file:
-
-```
-Visit 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the Communication and Collaboration Spaces section of this handbook"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the Communication and Collaboration Spaces section of this handbook](#heading=h.heu8vr1gkq1) for instructions on joining one or both of these communication channels.
-```
-
-This can be edited to the necessary syntax by doing the following: 
-
-* removing all content inside and including `<p>...</p>`
-* Replacing the `(#heading...)` with `(#name-of-linked-heading)` following the convention described above.  
-* Remove extra white space
-
-The above content would then look like this:
-
-```
-Visit [the Communication and Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces) for instructions on joining one or both of these communication channels.
-```
-
-## Using Images
-
-Images should be stored in each handbook section's folder in a folder called `img`.  Images can be inserted into the markdown file using the following syntax. 
-
-```
-![Alt text goes here](./img/filename.png)
-```
-
 
 ## Building the handbook
 
@@ -119,4 +51,3 @@ This site is set up to preview all pull requests via [Netlify](https://app.netli
 
 * [Pydata Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
 * [General Sphinx Documentation](https://www.sphinx-doc.org/en/master/usage/configuration.html#module-conf)
-
