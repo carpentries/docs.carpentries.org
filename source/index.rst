@@ -13,12 +13,37 @@ What would you like to do today?
 
 Select one of the options or read below for more information.
 
-.. container:: button
+.. panels::
 
-    :doc:`Onboard or Offboard<pages/onboarding_offboarding>` 
-    :doc:`Learn how to...<pages/learn_how>`
-    :doc:`Find a Resource <pages/resources>` 
-    :doc:`Connect with others <pages/connect>`
+    ---
+
+    .. link-button:: pages/onboarding_offboarding
+        :type: ref
+        :text: Onboard or Offboard 
+        :classes: btn-outline-primary btn-block stretched-link
+    
+    ---
+
+    .. link-button:: pages/learn_how
+        :type: ref
+        :text: Learn how to...
+        :classes: btn-outline-primary btn-block stretched-link
+    
+    ---
+
+    .. link-button:: pages/resources
+        :type: ref
+        :text: Find a Resource
+        :classes: btn-outline-primary btn-block stretched-link
+
+    ---
+
+    .. link-button:: pages/connect
+        :type: ref
+        :text: Connect with others
+        :classes: btn-outline-primary btn-block stretched-link
+
+
 
 
 Resources
