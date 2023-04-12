@@ -2136,10 +2136,8 @@ serving in this role. The Carpentries Community Development Team manages
 the content of this handbook. It is reviewed before planning starts for
 CarpentryCon and updated after each event. To provide feedback, please
 email community@carpentries.org. If you are unfamiliar with any of the
-terms used in this handbook, please refer to our Glossary of Terms.
-
-Acknowledgement
----------------
-
-Funding to develop this handbook was provided by the `Alfred P. Sloan
+terms used in this handbook, please refer to our Glossary of Terms.  
+Funding to develop this handbook was provided in part by the `Alfred P. Sloan
 Foundation <https://sloan.org/>`__.
+
+
