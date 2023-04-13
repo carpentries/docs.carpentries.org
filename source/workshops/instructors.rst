@@ -66,7 +66,7 @@ Upcoming Workshops
 
 If you are an Active Instructor and would like to see a list of teaching
 opportunities that need Instructors, please go to your `AMY
-profile <https://amy.carpentries.org/>`__ to see a list of upcoming
+profile <amy_link_>`_ to see a list of upcoming
 workshops that you can sign up to teach.
 
 Community Calendar

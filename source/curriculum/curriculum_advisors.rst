@@ -112,7 +112,7 @@ Onboarding
 -  After these onboarding sessions, Curriculum Advisors should complete
    the following steps:
 
-   1. `Log into AMY <https://amy.carpentries.org/>`__ with GitHub
+   1. `Log into AMY <amy_link_>`_ with GitHub
       credentials and update their profile.
 
       -  When updating their AMY profile, it is essential that Advisors
