@@ -41,7 +41,7 @@ Team Liaisons.
 
    Roles and Responsibilities,Time Commitment
    "Set agenda and chair CarpentryCon Committee meetings (Guide: :ref:`Setting Up Etherpad for Committee Meetings`)", 1-2 hours / week
-   "Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed(Information: :ref:`Communication and Collaboration Spaces`)", 2-3 hours / month
+   "Lead communication (i.e., send emails, post to Slack) with Committee members, following up with Committee leads on tasks as needed (Information: :ref:`Communication and Collaboration Spaces`)", 2-3 hours / month
    "Lead selection of event theme in consultation with other Committee members",	1 hour
    "Review keynote speaker recommendations from Program Leads and identify who will be invited (Guide: :ref:`Process for Review of Keynote Speaker Recommendations`)", 2 hours; 1 hour of independent review and another hour of discussion with other Chair
    "Develop and lead opening and closing ceremonies for conference",	4 hours
@@ -833,7 +833,9 @@ There are a couple of follow-up requests I have for you:
    the items to carpentrycon@carpentries.org.
 
 Many thanks again for your contributions to this important event for our
-community. It is so very much appreciated, [NAME]
+community. It is so very much appreciated, 
+
+[NAME]
 
 Accessibility Resources
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -982,7 +984,7 @@ I hope you enjoyed CarpentryCon!
 
 If you requested funds for Mobile Data, Childcare, or Caregiver Services
 while you attended CarpentryCon Sessions, all reimbursement documents
-must be submitted by `DATE <CarpentryCon%202022>`__. If documents are
+must be submitted by [DATE]. If documents are
 submitted after this time, you will not be reimbursed. You will need to
 provide a receipt as well as fill out the forms sent previously to be
 reimbursed. Once the form has been submitted, reimbursement will take
@@ -1005,7 +1007,7 @@ Join us for CarpentryCon [YEAR]!
 
 Themed [THEME], CarpentryCon is returning as a fully virtual event.
 
-Happening from `DATE <CarpentryCon%202022>`__, CarpentryCon will be
+Happening from [DATE] CarpentryCon will be
 filled with a variety of sessions allowing participants to network,
 build community, and enhance their technical skills. Visit our website
 [LINK TO WEBSITE] to sign up to receive relevant announcements and
@@ -1389,10 +1391,10 @@ session supporters on how the lightning talk sessions will run.*
 Thanks again for your participation in CarpentryCon [YEAR] as a
 lightning talk presenter! As a reminder, the video of your lightning
 talk should be uploaded to this Google drive [LINK TO GOOGLE DRIVE] by
-`DATE <CarpentryCon%202022>`__ in a digital format with high-quality
+[DATE] in a digital format with high-quality
 audio and discernable speech. This will allow us time to add captioning
 in multiple languages to your videos and get them uploaded to YouTube
-before the start of the event on `DATE <CarpentryCon%202022>`__.
+before the start of the event on [DATE].
 Lightning talks are strictly limited to 5 minutes and we ask all
 presenters to follow these guidelines to ensure their presentation is
 accessible to all attendees [LINK TO ACCESSIBILITY GUIDELINES FOR
@@ -1445,7 +1447,7 @@ weeks.
    for collaborative note-taking throughout your session.
 -  As a reminder, we have set up a folder for each CarpentryCon session
    so you can upload your presentations and any related materials.
-   Please do this by `DATE <CarpentryCon%202022>`__. Members of the
+   Please do this by [DATE]. Members of the
    community who have already registered have requested access to
    materials in advance so this will ensure we make the event as
    accessible as possible. A README is available in the parent folder
@@ -1476,7 +1478,8 @@ below. As of today, we have [NUMBER REGISTERED] people who have
 registered to attend. Questions? Please send them to
 carpentrycon@carpentries.org.
 
-Many thanks, The CarpentryCon Committee
+Many thanks, 
+The CarpentryCon Committee
 
 Informational Email to Session Leads: One Week Out
 ''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -1735,8 +1738,6 @@ participant in CarpentryCon. The original email request can be found
 below. Your feedback helps our organisation plan future events, so
 thanks so much for your time.
 
---------------
-
 Thank you for joining us for CarpentryCon 2022! If you joined one
 session or many over the two-week period, we were happy to have you with
 us.
@@ -1810,7 +1811,7 @@ Hey everyone,
 
 We are still looking for volunteers to help facilitate sessions during
 CarpentryCon. See below for communication that went out on
-`DATE <CarpentryCon%202022>`__ with details. If possible, please sign up
+[DATE] with details. If possible, please sign up
 no later than [DEADLINE] so we have plenty of time to coordinate with
 everyone supporting each session. Thanks so much for your support, The
 CarpentryCon Committee
@@ -1831,7 +1832,7 @@ invite will be sent to you for the session you are assigned. We will
 also send a communication out to you, the Zoom helper, and the session
 co-leads so you can coordinate as needed. All the information you need
 to support you in your role will be sent to you no later than
-`DATE <CarpentryCon%202022>`__, a week before the start of the event. If
+[DATE], a week before the start of the event. If
 you have any questions, please email carpentrycon@carpentries.org.
 
 Email recruiting Zoom helpers
@@ -2038,11 +2039,11 @@ R Script to Analyse Post Conference Survey
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `R
-script <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__\ *used
+script used
 to analyse the 2022 Post Conference Survey and produce the figures for
-the 2022 CarpentryCon Evaluation Report.*
+the 2022 CarpentryCon Evaluation Report. <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__
 
--  `R script for analyzing post conference survey
+`R script for analyzing post conference survey
    data <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__
 
 Committee Member Feedback Form
