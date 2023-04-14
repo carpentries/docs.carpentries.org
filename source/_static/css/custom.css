@@ -41,7 +41,7 @@ hr {
     color: #E5E5E5 !important;
 }
 
-p.title.logo__title, p.copyright, p.theme-version, p.sphinx-version, .bd-sidebar-primary, .bd-sidebar-secondary, .fa-github-square:before, .fa-square-github:before, .fa-mastodon:before, .fa-square-twitter:before, .fa-twitter-square:before {
+p.footer-left,  p.title.logo__title, p.copyright, p.theme-version, p.sphinx-version, .bd-sidebar-primary, .bd-sidebar-secondary, .fa-github-square:before, .fa-square-github:before, .fa-mastodon:before, .fa-square-twitter:before, .fa-twitter-square:before {
     color: white;
 }
 

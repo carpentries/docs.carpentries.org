@@ -1,0 +1,24 @@
+
+{% if show_copyright and copyright %}
+  <p class="copyright">
+    {% if hasdoc('copyright') %}
+      {% trans path=pathto('copyright'), copyright=copyright|e %}© <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}
+      <br/>
+    {% else %}
+      {% trans copyright=copyright|e %}© Copyright {{ copyright }}.{% endtrans %}
+      <br/>
+    {% endif %}
+  </p>
+{% endif %}
+
+<p class="theme-version">
+    {% trans theme_version=theme_version|e %}Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> {{ theme_version }}.{% endtrans %}
+  </p>
+  
+  {% if show_sphinx %}
+  <p class="sphinx-version">
+    {% trans sphinx_version=sphinx_version|e %}Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
+    <br/>
+  </p>
+{% endif %}
+
