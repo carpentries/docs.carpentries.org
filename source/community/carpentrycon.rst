@@ -2043,8 +2043,7 @@ script used
 to analyse the 2022 Post Conference Survey and produce the figures for
 the 2022 CarpentryCon Evaluation Report. <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__
 
-`R script for analyzing post conference survey
-   data <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__
+`R script for analyzing post conference survey data <https://github.com/carpentries/assessment/blob/main/carpentrycon/2022/carpentrycon_survey_analysis_template.R>`__
 
 Committee Member Feedback Form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
