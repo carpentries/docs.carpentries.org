@@ -7,6 +7,9 @@ Community Glossary
    accessibility
       design of products, devices, services, or environments to be usable by people who experience disabilities; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility
 
+   Award
+      definition goes here 
+
    AMY
       the internal database of The Carpentries; it allows the organisation to track programmatic activity including: workshops, Instructor Trainings, individual roles and badges, and institutional memberships
   
@@ -14,6 +17,9 @@ Community Glossary
       indicator of a role in The Carpentries community that requires certification; typically, a certificate will be sent by email when a badge is conferred; see also :term:`Certification`
 
    blog post
+      definition goes here 
+
+   Bonus Module
       definition goes here 
 
    Carpentries Clippings
@@ -35,7 +41,7 @@ Community Glossary
       process of earning a badge; see also :term:`Badge`
 
    Checkout
-      definition goes here 
+      a process consisting of steps to be completed after or in addition to a training in order to complete certification. Most often, this refers to the `Instructor checkout process <https://carpentries.github.io/instructor-training/checkout/index.html>`__, but may also refer to `steps required for Trainer certification <https://carpentries.github.io/trainer-training/01-week1_discussion_questions/index.html#trainer-checkout>`__. 
 
    Code of Conduct
       definition goes here 
@@ -79,6 +85,9 @@ Community Glossary
    Curriculum Team
       definition goes here 
 
+   Demo
+      definition goes here 
+
    Discussion Host
       definition goes here 
 
@@ -103,6 +112,27 @@ Community Glossary
 
    Incubator Lesson Spotlight
       definition goes here 
+
+   Instructor Trainees 
+      Individuals who are in the process of being certified as an Instructor.
+
+   Instructor Trainers
+      community members who have been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Trainer meetings, and teach Instructor Training Bonus Modules
+
+   Instructor Training
+      training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step to complete Instructor checkout and certification.
+
+   Instructor Training Bonus Modules
+      additional optional training that may be offered to Instructors
+
+   Instructor Training Curriculum
+      community-maintained `curriculum used for teaching Instructor Training <https://carpentries.github.io/instructor-training/>`__
+
+   Instructor Training Team
+      members of The Carpentries Core Team who support the growth and development of The manage our Instructor Training and Trainer Training program. administration, oversee curricula, and work closely with the Trainer community
+
+   Instructors
+      community members who teach Carpentries workshops. Certified Carpentries Instructors receive a badge after completing Instructor Training and checkout and are eligible to self-organise branded Carpentries workshops as well as volunteer to teach centrally-organised workshops worldwide.
 
    Lab Lesson
       definition goes here 
@@ -161,11 +191,29 @@ Community Glossary
    Task Force
       group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period of time
 
+   Teaching Demo
+      a session where Instructor trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
+
    Themed Discussion Session
       definition goes here 
 
    Topicbox 
       definition goes here 
+
+   Trainees
+      individuals who are undergoing, but have not yet completed, Instructor Training individuals who have taken a Carpentries Training and are working toward certification.
+
+   Trainer Training
+      training in how to teach Instructor Training; a necessary step to complete Trainer checkout and certification.
+
+   Trainer Training Curriculum
+      community-maintained curriculum used for teaching Trainer Training
+
+   Trainers Leadership
+      committee of Instructor Trainers responsible for community oversight and governance
+
+   Training
+      an event that provides instruction (and/or training) on specific competencies, knowledge, or skills. The individuals who complete training become eligible for certification upon completion of the program requirements
 
    Workshop
       definition goes here 
