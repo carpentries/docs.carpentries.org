@@ -19,19 +19,35 @@ Community Glossary
    Carpentries Clippings
       bi-weekly newsletter sent to an opt-in email list, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations
 
+   Carpentries Conversations
+      definition goes here 
+
    CarpentryCon
       definition goes here 
 
    Certification
       process of earning a badge; see also :term:`Badge`
 
+   Checkout
+      definition goes here 
+
    Code of Conduct
       definition goes here 
 
    Community
       definition goes here 
+
+   Community Coordinator
+      definition goes here 
    
    Community Development Team
+      definition goes here 
+
+   Community Discussion
+      definition goes here 
+
+
+   Discussion Host
       definition goes here 
 
    Equity
@@ -53,11 +69,23 @@ Community Glossary
    Mentoring Program
       program supporting Instructors who are new to our community by matching them with a personal Mentor and will help Mentees gain the confidence, technical skills, and teaching skills needed to reach their goal
 
+   Pre- and Post-Workshop Discussions
+      definition goes here 
+
+   Regional Community Call 
+      definition goes here 
+
    Slack
+      definition goes here 
+
+   Subcommunity
       definition goes here 
 
    Task Force
       group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period of time
+
+   Themed Discussion Session
+      definition goes here 
 
    Topicbox 
       definition goes here 
