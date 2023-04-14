@@ -38,6 +38,7 @@ extensions = [
     'myst_parser',
     'sphinx.ext.autosectionlabel',
     'sphinx_panels',
+    'sphinx.ext.extlinks'
 ]
 
 # Needed to use headings as anchor links
@@ -139,3 +140,42 @@ html_static_path = ['_static']
 html_css_files = ['css/custom.css']
 
 suppress_warnings = ['autosectionlabel.*']
+
+
+# rst_prolog = """
+# .. |psf| replace:: Python Software Foundation
+# .. |amy_link| replace:: https://amy.carpentries.org/ 
+# """
+
+
+# These links can be used anywhere in this documentation.  
+# Sample syntax in the rst file: 
+# Log in to `your amy profile <amy_link_>`_ to view your profile.
+
+rst_prolog = """
+"""
+
+# AMY Links 
+rst_prolog += """
+.. _amy_link: https://amy.carpentries.org
+.. _amy_workshop_request: https://amy.carpentries.org/forms/workshop/
+.. _amy_training_application: https://amy.carpentries.org/forms/request_training/
+"""
+
+# Other Carpentries websites 
+rst_prolog += """
+.. _main_carpentries_site: https://carpentries.org 
+.. _datacarpentry_site: https://datacarpentry.org
+.. _librarycarpentry_site: https://librarycarpentry.org
+.. _softwarecarpentry_site: https://software-carpentry.org/
+"""
+
+# Note that extlinks must be added to extensions above.
+# Sample syntax in the rst file:
+# Complete the :amy_url:`workshop request form <forms/workshop/>`.
+# or
+# Log in to :amy_url:`your profile <>` in AMY.
+
+extlinks = {
+    'amy_url' : ('https://amy.carpentries.org/%s', None)
+}

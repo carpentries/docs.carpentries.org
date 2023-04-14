@@ -66,7 +66,7 @@ Upcoming Workshops
 
 If you are an Active Instructor and would like to see a list of teaching
 opportunities that need Instructors, please go to your `AMY
-profile <https://amy.carpentries.org/>`__ to see a list of upcoming
+profile <amy_link_>`_ to see a list of upcoming
 workshops that you can sign up to teach.
 
 Community Calendar
@@ -390,7 +390,7 @@ Pre-workshop
    -  There are 3 things that must happen in order for a workshop to
       appear on The Carpentries webpage. You must complete the `workshop
       request/notification
-      form <https://amy.carpentries.org/forms/workshop/>`__, the
+      form <amy_workshop_request_>`__, the
       workshop website must include the venue, and at least one
       instructor must be identified. If the instructors change, we will
       get notified and will be able to make the update.
@@ -492,8 +492,8 @@ Curriculum
       the workshop does not align with the `Core
       Curriculum <https://carpentries.org/workshops/#workshop-core>`__
       we ask that you still
-      `register <https://amy.carpentries.org/forms/self-organised/>`__
-      your workshop and select the “Mix & Match” option for the question
+      `register <amy_workshop_request_>`__
+      your self-organised workshop and select the “Mix & Match” option for the question
       “Which Carpentries workshop are you teaching?”. **This option is
       only available for Self-Organised workshops. Centrally-organised
       workshops are required to follow the Core Curricula.**
