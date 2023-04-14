@@ -61,6 +61,9 @@ Community Glossary
    Curriculum
       definition goes here 
 
+   Curriculum Development Handbook
+      definition goes here 
+
    Curriculum Advisor
       definition goes here 
 
@@ -98,6 +101,9 @@ Community Glossary
    Incubator Lesson
       definition goes here 
 
+   Incubator Lesson Spotlight
+      definition goes here 
+
    Lab Lesson
       definition goes here 
 
@@ -106,6 +112,12 @@ Community Glossary
 
    Lesson Developer
       member of the community who creates lesson content; may use Curriculum Development Handbook as a primary resource
+
+   Lesson Development Sprint
+      definition goes here 
+
+   Lesson Infrastructure
+      definition goes here 
 
    Lesson Program
       definition goes here 
