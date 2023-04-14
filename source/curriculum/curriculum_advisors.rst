@@ -585,36 +585,6 @@ Maintainers?**
 Please review the `Curriculum Advisory Committee Consultation
 Rubric <https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html>`__.
 
-Glossary
---------
-
--  Carpentries Incubator
--  Carpentries Lab
--  Committee
--  Core Team
--  Curriculum
--  Curriculum Advisor
--  Curriculum Advisory Committee
--  Curriculum Development Handbook
--  Curriculum Module
--  Curriculum Team
--  Episode
--  Etherpad
--  Governance
--  Incubator Lesson
--  Lab Lesson
--  Lesson
--  Lesson Program
--  Lesson Program Governance Committee
--  Listserv
--  Mailing List
--  Maintainer
--  Official Lesson
--  Pilot Workshop
--  Slack
--  TopicBox
--  Workshop
-
 About This Handbook
 -------------------
 
