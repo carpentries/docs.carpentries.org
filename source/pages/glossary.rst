@@ -22,6 +22,12 @@ Community Glossary
    Carpentries Conversations
       definition goes here 
 
+   Carpentries Incubator
+      definition goes here 
+
+   Carpentries Lab
+      definition goes here 
+
    CarpentryCon
       definition goes here 
 
@@ -32,6 +38,9 @@ Community Glossary
       definition goes here 
 
    Code of Conduct
+      definition goes here 
+
+   Committee
       definition goes here 
 
    Community
@@ -46,8 +55,31 @@ Community Glossary
    Community Discussion
       definition goes here 
 
+   Core Team
+      definition goes here 
+
+   Curriculum
+      definition goes here 
+
+   Curriculum Advisor
+      definition goes here 
+
+   Curriculum Advisory Committee
+      definition goes here 
+
+   Curriculum Development Handbook
+      definition goes here 
+
+   Curriculum Module
+      definition goes here 
+
+   Curriculum Team
+      definition goes here 
 
    Discussion Host
+      definition goes here 
+
+   Episode
       definition goes here 
 
    Equity
@@ -56,18 +88,51 @@ Community Glossary
    Etherpad
       definition goes here 
 
+   Governance
+      definition goes here 
+
 
    Inclusion
       active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community
 
+   Incubator Lesson
+      definition goes here 
+
+   Lab Lesson
+      definition goes here 
+
+   Lesson
+      definition goes here 
+
    Lesson Developer
       member of the community who creates lesson content; may use Curriculum Development Handbook as a primary resource
+
+   Lesson Program
+      definition goes here 
+
+   Lesson Program Governance Committee
+      definition goes here 
+
+   Listserv
+      definition goes here 
+
+   Mailing List
+      definition goes here 
+
+   Maintainer
+      definition goes here 
 
    Mentor
       instructor who volunteers to guide small groups of mentees toward a particular outcome
 
    Mentoring Program
       program supporting Instructors who are new to our community by matching them with a personal Mentor and will help Mentees gain the confidence, technical skills, and teaching skills needed to reach their goal
+
+   Official Lesson
+      definition goes here 
+
+   Pilot Workshop
+      definition goes here 
 
    Pre- and Post-Workshop Discussions
       definition goes here 
@@ -88,6 +153,9 @@ Community Glossary
       definition goes here 
 
    Topicbox 
+      definition goes here 
+
+   Workshop
       definition goes here 
 
    Zoom 
