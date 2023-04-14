@@ -455,7 +455,7 @@ developed based on prior agreement with The Carpentries, and which is
 intended to become another lesson/curriculum offered in
 centrally-organised workshops - please `register your pilot as a
 Self-Organised
-Workshop <https://amy.carpentries.org/forms/self-organised/>`__. If you
+Workshop <amy_workshop_request_>`_. If you
 do not find the lesson/curriculum being piloted listed as one of the
 choices on that form, please contact `The Carpentries Core
 Team <mailto:team@carpentries.org>`__.

@@ -62,12 +62,13 @@ responsibilities include:
    questions answered. On the sign up list, these people will have
    included the word checkout next to their name.
 -  Complete `a brief form <https://forms.gle/N74pFuGkRLawpCHh7>`__
-   following each session you host. **It is important that when you copy
+   following each session you host. It is important that when you copy
    attendance into this form, you include the word ‘checkout’ next to
    the names where it appears in the sign-up on the Etherpad. The Core
-   Team uses this information to record participation in AMY, The
+   Team uses this information to record participation in  `AMY
+   <amy_link_>`_, The
    Carpentries internal database. This is the primary way future
-   Instructors get credit for completing this checkout step.**
+   Instructors get credit for completing this checkout step.
 
 Onboarding
 ----------
