@@ -2110,21 +2110,6 @@ The roles and responsibilities of each committee member is outlined in
 the `Roles and Responsibilities of Committee
 Members <#roles-and-responsibilities-of-committee-members>`__.
 
-Glossary of Terms
------------------
-
--  Accessibility
--  Blog Post
--  CarpentryCon
--  Code of Conduct
--  Community
--  Community Development Team
--  Equity
--  Etherpad
--  Slack
--  TopicBox
--  Zoom
-
 About This Handbook
 -------------------
 
