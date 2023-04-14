@@ -653,27 +653,6 @@ General
       do let us know as we will not be able to pull information from
       your website without updating the link in our database.
 
-Glossary
---------
-
-This section will include definitions for terms used in the handbook and
-related to the role. For now, list the terms to be included and do not
-include the definition. If a term is missing in `the existing
-glossary <https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing>`__,
-please add it and provide a definition approved by your team.
-
--  Instructor
--  Helper
--  Host
--  Learner
--  Centrally-Organised Workshop
--  Self-Organised Workshop
--  Lesson Program
--  Workshop
--  Workshop Format
--  Workshop Administrator
--  Workshop Administration Team
--  Host Organisation
 
 About This Handbook
 -------------------
