@@ -541,42 +541,6 @@ Response 1
 
 Response 2
 
-Glossary
---------
-
-Carpentries Incubator
-
-Carpentries Lab
-
-Curriculum
-
-Curriculum Development Handbook
-
-Curriculum Team
-
-Episode
-
-Incubator Lesson
-
-Incubator Lesson Spotlight
-
-Lab Lesson
-
-Lesson
-
-Lesson Developer
-
-Lesson Development Sprint
-
-Lesson Infrastructure
-
-Maintainer
-
-Pilot Workshop
-
-Slack
-
-TopicBox
 
 About This Handbook
 -------------------
