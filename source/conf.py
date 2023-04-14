@@ -122,6 +122,13 @@ html_theme_options = {
     # Set what goes in secondary sidebar (right side)
     "secondary_sidebar_items": ["page-toc", "edit-this-page",],
 
+    # Set what goers in the footer
+    "footer_start": ["footer_start.html",],
+
+    # "footer_end": ["copyright.html","theme-version.html", "sphinx-version.html",],
+    "footer_end": ["footer_end.html"],
+
+
     # Not actually needed when header menus are hard coded/custom built
     "header_links_before_dropdown": 0,
 
