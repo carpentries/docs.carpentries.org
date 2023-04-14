@@ -403,31 +403,6 @@ Response 1
 
 Response 2
 
-Glossary
---------
-
-This section will include definitions for terms used in the handbook and
-related to the role. For now, list the terms to be included and do not
-include the definition. If a term is missing in `the existing
-glossary <https://docs.google.com/document/d/1mD-U02mv-Kd4V_KgQTn3A3c4DxFCkvqMavug0LVIBeU/edit?usp=sharing>`__,
-please add it and provide a definition approved by your team.
-
-Curriculum Advisor
-
-Curriculum Advisory Committee
-
-Curriculum Team
-
-Etherpad
-
-Lesson Program
-
-Maintainer
-
-Official Lesson
-
-Slack
-
 About This Handbook
 -------------------
 
