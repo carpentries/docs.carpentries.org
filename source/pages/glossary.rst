@@ -36,6 +36,9 @@ Community Glossary
 
    CarpentryCon
       definition goes here 
+   
+   Centrally-Organised Workshop
+      definition goes here 
 
    Certification
       process of earning a badge; see also :term:`Badge`
@@ -103,6 +106,14 @@ Community Glossary
    Governance
       definition goes here 
 
+   Helper
+      definition goes here 
+
+   Host
+      definition goes here 
+
+   Host Organisation
+      definition goes here
 
    Inclusion
       active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community
@@ -135,6 +146,9 @@ Community Glossary
       community members who teach Carpentries workshops. Certified Carpentries Instructors receive a badge after completing Instructor Training and checkout and are eligible to self-organise branded Carpentries workshops as well as volunteer to teach centrally-organised workshops worldwide.
 
    Lab Lesson
+      definition goes here 
+
+   Learner
       definition goes here 
 
    Lesson
@@ -182,6 +196,9 @@ Community Glossary
    Regional Community Call 
       definition goes here 
 
+   Self-Organised Workshop
+      definition goes here 
+
    Slack
       definition goes here 
 
@@ -216,6 +233,15 @@ Community Glossary
       an event that provides instruction (and/or training) on specific competencies, knowledge, or skills. The individuals who complete training become eligible for certification upon completion of the program requirements
 
    Workshop
+      definition goes here 
+
+   Workshop Administration Team 
+      definition goes here 
+
+   Workshop Administrator
+      definition goes here 
+
+   Workshop Format
       definition goes here 
 
    Zoom 
