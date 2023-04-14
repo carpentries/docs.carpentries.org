@@ -71,8 +71,12 @@ html_context = {
     "github_user": "carpentries", # Username
     "github_repo": "handbook-beta", # Repo name
     "github_version": "main", # Version
-    "conf_py_path": "/source/", # Path in the checkout to the docs root    
+    "doc_path": "source",
+    "conf_py_path": "/source/", # Path in the checkout to the docs root
+    "edit_page_url_template": "{{gh_repo}}{{file_name}}",
+    "gh_repo":"https://github.com/carpentries/handbook-beta/blob/main/source/"    
     }
+
 
 html_title = "The Carpentries Handbook"
 
@@ -122,7 +126,13 @@ html_theme_options = {
     "header_links_before_dropdown": 0,
 
     # Do not show prev/next navigation at bottom, as handbooks are not sequential
-    "show_prev_next": False
+    "show_prev_next": False,
+
+    # Show the "edit on github" button
+    # See https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html#add-an-edit-button 
+    "use_edit_page_button": True,
+
+
 }
 
 
@@ -179,3 +189,7 @@ rst_prolog += """
 extlinks = {
     'amy_url' : ('https://amy.carpentries.org/%s', None)
 }
+
+
+print("**********************")
+print(html_context["edit_page_url_template"])
