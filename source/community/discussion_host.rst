@@ -629,28 +629,6 @@ leader of a subcommunity within The Carpentries. This role is being
 formalized through the Community Development Program. If you are
 interested in learning more, please email community@carpentries.org.
 
-Glossary
---------
-
--  Accessibility
--  Blog Post
--  Carpentries Conversations
--  Certification
--  Checkout
--  Code of Conduct
--  Community
--  Community Coordinator
--  Community Development Team
--  Community Discussion
--  Discussion Host
--  Etherpad
--  Pre- and Post-Workshop Discussions
--  Regional Community Call
--  Slack
--  Subcommunity
--  Themed Discussion Session
--  TopicBox
--  Zoom
 
 About This Handbook
 -------------------
