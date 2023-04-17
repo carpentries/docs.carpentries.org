@@ -80,7 +80,14 @@ html_context = {
 
 html_title = "The Carpentries Handbook"
 
+announcement_text = "<b>This is a prototype of the new Carpentries Handbook and does not contain current information.  For more information please visit <a href='https://carpentries.org/'>The Carpentries main website</a> or <a href='https://docs.carpentries.org/'>The Carpentries current handbook</a></b>"
+
+
+
 html_theme_options = {
+    "announcement": announcement_text,
+
+
     "icon_links": [
         {
             "name": "GitHub",
