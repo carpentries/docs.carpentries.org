@@ -26,7 +26,7 @@ Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are i
 
 ## Editing templates and layouts
 
-Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are them called in `html_theme_options` in `conf.py`.
+Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are then called in `html_theme_options` in `conf.py`.
 
 ## Building the handbook
 
