@@ -79,3 +79,8 @@ p.footer-left,  p.title.logo__title, p.copyright, p.theme-version, p.sphinx-vers
     color: white;
     display: unset;
 }
+
+
+.bd-header-announcement {
+    background-color: orangered;
+}
