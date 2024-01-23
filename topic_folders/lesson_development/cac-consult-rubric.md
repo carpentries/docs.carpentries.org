@@ -3,9 +3,7 @@
 This rubric defines the division of responsibilities between The Carpentries Maintainers and The Carpentries Curriculum Advisory Committees (CACs).
 [Roles and responsibilities](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)
 of Curriculum Advisory Committee members are documented elsewhere in this Handbook.
-Current committee membership for [Data Carpentry](https://datacarpentry.org/curriculum-advisors/),
-[Library Carpentry](https://librarycarpentry.org/cac/), and [Software Carpentry](https://software-carpentry.org/curriculum-advisors/)
-can be found on the respective Lesson Program websites.
+[Current committee membership can be found on The Carpentries website](https://carpentries.org/curriculum-advisors/).
 
 ### Issues over which Maintainers have full authority and which do not need CAC involvement
 
