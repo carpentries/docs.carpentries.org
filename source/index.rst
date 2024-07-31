@@ -9,7 +9,7 @@ Welcome to The Carpentries Handbook! Here, you will find a collection of informa
 What would you like to do today?
 -----------------------------------
 
-Select one of the options or read below for more information.
+Select one of the options or read below for more information.  We can decide what we want these 4 buttons to do.
 
 .. panels::
 
