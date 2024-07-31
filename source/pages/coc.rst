@@ -4,6 +4,28 @@ Code of Conduct
 Code of Conduct Incident Response Guidelines
 --------------------------------------------
 
+NOW Log in to `amy_link`_ to view your profile.
+Log in to `your amy profile <amy_link_>`_ to view your profile.
+
+|RST|_ is a little annoying to type over and over, especially
+when writing about |RST| itself, and spelling out the
+bicapitalized word `the link here <RST_>`_ every time isn't really necessary for
+|RST| source readability.
+
+.. |RST| replace:: reStructuredText
+.. _RST: https://docutils.sourceforge.io/rst.html
+
+Ext Links
+---------------------
+
+Log in to :amy_url:`your profile <>` in AMY.
+
+Visit the `main Carpentries site <main_carpentries_site_>`_
+
+
+Placeholder text
+-------------------------------------------
+
 Tiramisu marzipan jelly sweet croissant. Bonbon caramels gummi bears
 apple pie halvah cupcake. Lemon drops pastry fruitcake donut powder.
 Sesame snaps cake gingerbread cotton candy marzipan jelly soufflé
