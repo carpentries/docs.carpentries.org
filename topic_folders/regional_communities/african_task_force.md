@@ -29,7 +29,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * ~~18 April, Topic of the Month: Glosario Hackathon~~
 * ~~23 May, Topic of the Month: Networking Session~~
 * ~~25 July, Topic of the Month: Setting up your Carpentries Workshop Website with Jannetta Steyn~~
-* 22 August, Topic of the month: Open Life Science with Tajuddeen Gwadabe
+* ~~22 August, Topic of the month: Open Life Science with Tajuddeen Gwadabe~~
 * 26 September, Topic of the month: TBA
 * 24 October, Topic of the month: Networking session 
 * 28 November, Topic of the month: 2024 Retrospective
