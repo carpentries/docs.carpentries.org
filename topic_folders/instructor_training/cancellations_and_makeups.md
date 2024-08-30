@@ -26,7 +26,7 @@ When re-taking a training, trainees who miss more than 2 hours may be marked abs
 
 #### Ineligibility for Makeup Opportunities
 
-Trainees who miss an event in full without cancelling within 7 days (no-show) or who miss part of an event but do not request a makeup opportunity within 30 days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
+Trainees who miss an event in full without cancelling within 7 days (no-show) or who miss part of an event but do not request a makeup opportunity within 7 days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
 
 
 ## Checkout Extensions Policy
