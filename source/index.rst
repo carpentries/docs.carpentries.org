@@ -93,4 +93,3 @@ Quick Links
     curriculum/lesson_developers
     curriculum/curriculum_advisors
     community/community_session_host
-    community/carpentrycon
