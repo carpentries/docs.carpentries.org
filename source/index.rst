@@ -92,5 +92,4 @@ Quick Links
     curriculum/maintainers
     curriculum/lesson_developers
     curriculum/curriculum_advisors
-    community/discussion_host
-    community/carpentrycon
+    community/community_session_host

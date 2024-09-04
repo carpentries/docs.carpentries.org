@@ -1,4 +1,4 @@
-Community Discussion Hosts Handbook
+Community Session Hosts Handbook
 ===================================
 
 Hosting a community discussion is a great way to meet more people in The

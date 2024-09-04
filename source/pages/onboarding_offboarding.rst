@@ -3,7 +3,7 @@ Onboarding and Offboarding
 
 How can I join or step down from various community roles?
 
-Community Discussion Hosts
+Community Session Hosts
 --------------------------
 
 -  Onboarding

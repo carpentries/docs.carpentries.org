@@ -12,7 +12,7 @@ Connect with general activities
 Connect with specific communities
 ---------------------------------
 
--  Community Discussion Hosts
+-  Community Session Hosts
 -  Curriculum Advisors
 -  Lesson Developers
 -  Maintainers
