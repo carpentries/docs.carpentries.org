@@ -27,7 +27,7 @@ General Resources
 Community Role Resources
 ------------------------
 
--  Community Discussion Hosts
+-  Community Session Hosts
 -  Curriculum Advisors
 -  Lesson Developers
 -  Maintainers

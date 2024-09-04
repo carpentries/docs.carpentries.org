@@ -20,7 +20,7 @@ Participate in general activities
 Take on a community role
 ------------------------
 
--  Community Discussion Hosts
+-  Community Session Hosts
 -  Curriculum Advisors
 -  Lesson Developers
 -  Maintainers
