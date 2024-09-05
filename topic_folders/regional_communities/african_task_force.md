@@ -30,8 +30,8 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * ~~23 May, Topic of the Month: Networking Session~~
 * ~~25 July, Topic of the Month: Setting up your Carpentries Workshop Website with Jannetta Steyn~~
 * ~~22 August, Topic of the month: Open Life Science with Tajuddeen Gwadabe~~
-* 26 September, Topic of the month: TBA
-* 24 October, Topic of the month: Networking session 
+* 26 September, Topic of the month: Networking session
+* 24 October, Topic of the month: TBA
 * 28 November, Topic of the month: 2024 Retrospective
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that works best for you.
