@@ -23,14 +23,24 @@ two different stages, which we refer to as _alpha_ and _beta_ pilots.
 Alpha pilots are the first workshops where the lesson is taught,
 almost always by some or all of the original developers of the lesson.
 
-After the feedback from these alpha pilots has been used to improve
-the lesson, it can enter the beta stage, where other Instructors -
-who did not have a major part in the previous development of the lesson -
-teach it and provide feedback.
+Alpha pilots should be repeated until lesson content reaches a relatively stable state, 
+typically when lesson developers are satisfied that the lesson teaches the most important concepts and skills to its intended audience. 
+At this point, the wider community can be invited to test and provide feedback on the lesson’s broader teachability in  _beta pilots_. 
 
-For more information about these pilots,
-and the requirements for piloting official Carpentries lessons,
-see [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html).
+It is always easier for the creator of a set of curricular materials to use those materials, 
+but more difficult to communicate all of the relevant details to enable others to deliver the curriculum efficiently. 
+In order to ensure that our lessons are able to be taught by all appropriately experienced certified Instructors, 
+a lesson should be beta piloted at least twice outside of the institution in which it was developed, ideally in two different countries.
+
+##### Requirements for Piloting New Lessons
+Lessons/curricula that is being considered for adoption into a Lesson Program of The Carpentries 
+(i.e. that will become official curricula to be taught in Carpentries workshops) 
+should be tested in at least two pilot workshops.
+At least one of these beta pilots should be observed by a member of the Curriculum Team.
+
+Beta pilots are recommended but not required before a community-owned lesson in [The Carpentries Incubator](https://carpentries-incubator.org/) can be marked as stable.
+However, lessons should be tested in at least one beta pilot before they are submitted for open peer review in [The Carpentries Lab](https://carpentries-lab.org).
+
 
 ### Information for Lesson Developers
 
