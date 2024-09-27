@@ -1,4 +1,4 @@
-name: check, build, deploy beta.docs.carpentries.org
+name: S3/CloudFront deployment beta.docs.carpentries.org
 
 on:
   push:
@@ -6,7 +6,6 @@ on:
   schedule:
     - cron: '30 */6 * * *'
   workflow_dispatch:
-  
 
 jobs:
   build-website:
