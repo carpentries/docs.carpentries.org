@@ -21,7 +21,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Build site
-        run: make html
+        uses: ammaraskar/sphinx-action@master
+        with:
+          docs-folder: "source/"
+          build-command: "sphinx-build -b html . _build"
 
       - name: Deploy to AWS S3
         id: deploy
@@ -32,7 +35,7 @@ jobs:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          SOURCE_DIR: build/
+          SOURCE_DIR: _build/
 
       - name: Invalidate CloudFront
         uses: chetan/invalidate-cloudfront-action@master
