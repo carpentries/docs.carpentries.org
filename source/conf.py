@@ -37,9 +37,11 @@ release = '0.0.1'
 extensions = [
     'myst_parser',
     'sphinx.ext.autosectionlabel',
-    'sphinx_panels',
-    'sphinx.ext.extlinks'
+    'sphinx.ext.extlinks',
+    'sphinx_design'
 ]
+
+myst_enable_extensions = ["colon_fence"]
 
 # Needed to use headings as anchor links
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#auto-generated-header-anchors
