@@ -20,6 +20,10 @@ jobs:
       - name: Checkout the Repository
         uses: actions/checkout@v2
 
+      - name: Install sphinx dependencies
+        run: |
+          pip install sphinx_panels myst_parser
+
       - name: Build site
         uses: Kjuly/sphinx-builder@main
         with:
