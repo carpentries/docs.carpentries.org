@@ -1,4 +1,4 @@
-Sphinx==8.0.2
+Sphinx==7.1.2
 sphinx_design==0.6.1
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==2.0.0
