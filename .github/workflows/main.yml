@@ -25,10 +25,9 @@ jobs:
           pip install sphinx_panels myst_parser
 
       - name: Build site
-        uses: Kjuly/sphinx-builder@main
+        uses: ammaraskar/sphinx-action@master
         with:
-          source_root: "source/"
-          build_root: "build/"
+          docs-folder: "source/"
 
       - name: Deploy to AWS S3
         id: deploy
@@ -39,7 +38,7 @@ jobs:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          SOURCE_DIR: build/
+          SOURCE_DIR: build/html/
 
       - name: Invalidate CloudFront
         uses: chetan/invalidate-cloudfront-action@master
