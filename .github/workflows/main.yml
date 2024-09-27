@@ -25,6 +25,7 @@ jobs:
         with:
           docs-folder: "source/"
           build-command: "sphinx-build -b html . _build"
+          pre-build-command: "pip install myst_parser"
 
       - name: Deploy to AWS S3
         id: deploy
