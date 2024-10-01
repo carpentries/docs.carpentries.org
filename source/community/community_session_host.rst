@@ -3,7 +3,7 @@ Community Session Hosts Handbook
 
 Hosting a community discussion is a great way to meet more people in The
 Carpentries community, get to know the organisation better, learn from
-the experiences of others and share your own knowledge and experience
+the experiences of others and share your knowledge and experience
 with an even greater number of people.
 
 Community discussions are also an integral part of our `Instructor
@@ -31,10 +31,10 @@ assessing the impact of our workshops globally. There are four types:
    of our Committees or Task Forces to provide the community with the
    opportunity to learn about and discuss new developments and programs
    in our organisation.
-4. **Regional Community Calls:** These calls are hosted by our local and
-   regional subcommunities. A list of local and regional calls can be
+4. **Regional Community Calls:** Our local and
+regional subcommunities host these calls. A list of local and regional calls can be
    found at the top of the `Community Discussions
-   Etherpad <https://pad.carpentries.org/community-discussions>`__
+   Etherpad <https://pad.carpentries.org/community-sessions-2024>`__
 
 **Note.** Any of these four types of Community Discussions can be
 attended to meet the requirement as part of `Instructor Training
@@ -49,7 +49,7 @@ length of time, considering their availability and interest. Specific
 responsibilities include:
 
 -  Attend one onboarding session, lasting one hour.
--  Sign-up to receive relevant communications for serving in this role.
+-  Sign up to receive relevant communications for serving in this role.
    Instructions for signing up can be found in the [Communication and
    Collaboration Spaces section of this handbook]
 -  During a quarterly scheduling period, schedule one or more community
@@ -57,11 +57,11 @@ responsibilities include:
 -  Facilitate one-hour community discussion sessions that you have
    signed up to host.
 -  Make space for participation from anyone attending as part of
-   ‘Checkout’. While participation is not a requirement for checkout, we
-   want to make sure new community members feel welcome and get their
+   ‘Checkout’. While participation is not required for checkout, we
+want to ensure new community members feel welcome and get their
    questions answered. On the sign up list, these people will have
    included the word checkout next to their name.
--  Complete `a brief form <https://forms.gle/N74pFuGkRLawpCHh7>`__
+-  Complete a brief form <https://forms.gle/N74pFuGkRLawpCHh7>`__
    following each session you host. It is important that when you copy
    attendance into this form, you include the word ‘checkout’ next to
    the names where it appears in the sign-up on the Etherpad. The Core
@@ -81,7 +81,7 @@ onboarding session. Onboarding sessions are offered in multiple time
 zones each quarter as a themed community discussion. `A
 video <https://youtu.be/VrWdzlD2dlE>`__ and `accompanying
 slides <https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing>`__
-that include the content covered in the onboarding are available as
+that include the content covered in the onboarding and are available as
 references to support you as you serve in this role. Once you are
 onboarded, you may want to first attend a community discussion as an
 observer or co-host before leading a call as the host.
@@ -191,7 +191,7 @@ FAQs section <#faq>`__.
 -  Community Discussion Hosts will sign up using
    `Calendly <https://calendly.com/thecarpentries>`__ during the signup
    period. Calendly allows you to select dates and times in your
-   timezone for the sessions you plan to host. Dates and times already
+   time zone for the sessions you plan to host. Dates and times already
    selected will not display.
 -  Once hosts have scheduled themselves for a Community Discussion via
    Calendly, an automated workflow will add each event to the `Community
@@ -215,7 +215,7 @@ Signing Up to Host a Regional Community Call
 Community Coordinators are responsible for scheduling and hosting
 Regional Community Calls. These calls are currently listed, with their
 date and time, at the top of the `Community Discussions
-Etherpad <https://pad.carpentries.org/community-discussions>`__ and
+Etherpad <https://pad.carpentries.org/community-sessions-2024>`__ and
 include a link to where the group records their call notes. If a
 Community Coordinator is interested in listing a Regional Community Call
 there and having it added to The Carpentries Community Calendar, they
@@ -226,7 +226,7 @@ events using `Calendly <https://calendly.com/thecarpentries>`__ during
 the signup period as described in the `Signing Up to Host a Community
 Discussion Session section of this
 handbook <#signing-up-to-host-a-community-discussion>`__. This will
-automatically add the event to the Community Calendar and to the
+automatically add the event to the Community Calendar and the
 Etherpad. To learn more about becoming a Community Coordinator, please
 visit `the FAQs section of this handbook <#faq>`__.
 
@@ -236,7 +236,7 @@ Checklist for Hosting a Community Discussion
 Community discussions use the `Community Discussions
 Etherpad <https://pad.carpentries.org/community-discussions>`__ where
 community members can sign up to attend and collaboratively take notes
-during the call. Many regional subcommunities use their own notetaking
+during the call. Many regional subcommunities use their notetaking
 platform for Regional Community Calls, and links to where they record
 notes can be found at the top of the `Community Discussions
 Etherpad <https://pad.carpentries.org/community-discussions>`__ and are
@@ -253,7 +253,7 @@ Before the Discussion Session
    explicitly let people in, rather than allowing anyone to enter.
 
    -  `Learn about how to enable and use a waiting room as
-      host. <https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd>`__
+      a host. <https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd>`__
 
 -  Gain host access.
 
@@ -319,7 +319,7 @@ After the Discussion Session
 
    -  Please copy the list of attendees (including all attendees but
       removing no-shows) and paste it into the form. Be sure that anyone
-      who attended for checkout has checkout written next to their name.
+      who attended checkout has checkout written next to their name.
    -  When submitted, this form will automatically send an email to
       instructor.training@carpentries.org so all checkout requirements
       can be recorded.
@@ -328,7 +328,7 @@ After the Discussion Session
    from the Etherpad.
 -  (Optional) `Write a blog
    post <https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html>`__
-   about interesting points that came up in discussion.
+   about interesting points that came up in the discussion.
 
 Cancelling a Discussion Session
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -336,7 +336,7 @@ Cancelling a Discussion Session
 We recognise that even after scheduling community discussions, the host
 may have conflicts that arise that require cancelling a scheduled event.
 If this happens, please contact community@carpentries.org as soon as
-possible so a Core Team member can ensure another host is able to cover
+possible so a Core Team member can ensure another host can cover
 the event. You can also post to one or more of the `Communication and
 Collaboration Spaces <#communication-and-collaboration-spaces>`__ to
 learn if another host is available to lead the call.
@@ -414,11 +414,11 @@ Agenda: Pre- and Post-Workshop Discussion Sessions
 
 *Community Discussion Hosts can use this agenda as a template for pre
 and post-workshop discussion sessions. All Pre- and Post-Workshop
-Discussion Sessions are 60 minutes. Hosts are welcomed and encouraged to
+Discussion Sessions are 60 minutes. Hosts are welcome and encouraged to
 guide the discussion as they wish; below are some prompts that can be
 used.*
 
--  Welcome, introductions, and a reminder of Code of Conduct (5 minutes)
+-  Welcome, introductions, and a reminder of the Code of Conduct (5 minutes)
 
    -  `Script for starting a community
       discussion <#script-for-starting-a-community-discussion>`__
@@ -426,9 +426,9 @@ used.*
 
       -  Name, affiliation/position, motivation for attending
 
--  Participants report out from previous workshops they led (10 minutes)
+-  Participants report from previous workshops they led (10 minutes)
 
-   -  Ask participant to share some significant accomplishments and
+   -  Ask the participant to share some significant accomplishments and
       obstacles
    -  Any changes or additions to lesson material?
 
@@ -436,7 +436,7 @@ used.*
 
    -  Specific questions about teaching and/or lessons?
    -  How are Instructors sharing roles/responsibilities? Is there a
-      designated “lead Instructor”, or will you act as co-Instructors?
+      designated “lead Instructor”, or will you act as co-instructor?
 
 -  Participants discuss instructor training checkout (5 minutes)
 
@@ -494,16 +494,16 @@ follows:
       their experience as a participant, they can complete the attendee
       feedback form. [*share
       link:*\ https://goo.gl/forms/aNZhcVnq4iPAz4GE3]
-   -  Example announcement: If they are Interested in publishing a blog
+   -  Example announcement: If they are interested in publishing a blog
       post about their experiences as a member of the community, they
       should fill out the form [*share
       link:*\ https://forms.gle/eUQoSPRXrsyBibRf8] or email their blog
-      post idea or draft to community@carpentries.org.
+      post an idea or draft to community@carpentries.org.
 
 FAQ
 ---
 
-**What if I am hosting a discussion and there are no pre/post workshop
+**What if I am hosting a discussion and there are no pre and post-workshop
 debriefs?**
 
 You could start by introducing the session and what it should be about.
@@ -513,7 +513,7 @@ workshops and/or upcoming workshops that you are a part of.
 **What if I do not know the answer to someone’s questions and no one in
 the room does either?**
 
-It is totally fine if you do not know all the answers. This is a great
+It is fine if you do not know all the answers. This is a great
 time to demonstrate how someone in the community can get their questions
 answered by posting the question to Slack or one of The Carpentries
 mailing list. Questions can always be sent to team@carpentries.org and a
@@ -524,7 +524,7 @@ to communicate? What if Zoom fails to work (e.g. your internet
 connection fails)?**
 
 It is very important to test your internet connection beforehand and to
-make sure that you as a host are able to communicate. The host is the
+make sure that you as a host can communicate. The host is the
 session leader and should have a stable connection. If, however, when
 you test your connection, you find that you do not have a good
 connection, contact the community via `our communication
@@ -534,7 +534,7 @@ someone could take over as host for the session.
 **What if no one shows up?**
 
 If no one shows up, send out a reminder email to participants who signed
-up and wait for a few minutes. If now one shows up by :10 after the
+up and wait for a few minutes. If no one shows up by 10 minutes after the
 start of the session, then fill in `the host
 form <https://forms.gle/N74pFuGkRLawpCHh7>`__ and indicate that no one
 showed up for your session.
@@ -596,7 +596,7 @@ that they need answering.
 complete their instructor checkout session and it is already full?**
 
 Participants can email the host and ask to join the session even though
-it is fully booked. It is up to your personal discretion as to whether
+it is fully booked. It is up to your discretion as to whether
 or not you accept additional participants.
 
 **What if someone is loud/obnoxious and/or talks down to other people?**
@@ -618,7 +618,7 @@ well if the microphone is too soft.
 Notes from all sessions can be taken on the Community Discussions
 Etherpad and will be archived following each discussion. However, if you
 think another Etherpad is needed for notetaking during your session, a
-new Etherpad can be created by appending a descriptive name to the url
+new Etherpad can be created by appending a descriptive name to the URL
 https://pad.carpentries.org/, such as
 https://pad.carpentries.org/themed-discussion-15-09-2022.
 
