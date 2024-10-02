@@ -5,7 +5,7 @@ Hosting a community discussion is a great way to meet more people in The Carpent
 share your knowledge, and learn from others' experiences.
 
 Community discussions are also an important part of our [Instructor Training Certification Process](https://carpentries.github.io/instructor-training/checkout/), 
-also known as "Checkout." As a Community Discussion Host, you will welcome new Instructors to our global community and introduce them 
+also known as "Checkout." As a Community Discussion Host, you will welcome new InsFtructors to our global community and introduce them 
 to community discussions as a resource for ongoing support and advice as they develop their teaching skills.
 
 Community discussions cover a wide range of topics, such as teaching workshops, developing curricula, building local communities, 
@@ -140,12 +140,10 @@ Before the Discussion Session
    - [Learn how to enable and use a waiting room](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd).
 
 - Gain host access.
-
    - Two days before the event, you’ll receive an email from Calendly with the host key.
    - [Learn how to use the host key to claim access](https://support.zoom.us/hc/en-us/articles/115001315866).
 
 - Enable closed captioning for accessibility.
-
    - Zoom provides automatic captioning, but its accuracy may vary due to sound quality and accents.
    - [Learn how to enable automatic captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
 
@@ -157,7 +155,6 @@ During the Discussion Session
 
 - Use or adapt the [Script for Starting a Community Discussion](#script-for-starting-a-community-discussion).
 - If relevant, follow the sample agendas from the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-sessions-2024) and in the [resources section](#resources).
-
    - Follow the agenda but let the discussion flow naturally. Not all questions need to be answered by everyone.
    - The host doesn’t have to answer every question; encourage participants to help each other.
    - If someone is attending for training checkout, prompt them to ask questions.
@@ -171,7 +168,6 @@ After the Discussion Session
 
 - Archive the Etherpad by selecting “Save Revision” (it appears as a star in the top right).
 - Fill out the [host form](https://forms.gle/N74pFuGkRLawpCHh7).
-
    - Copy the attendee list (including everyone except no-shows) into the form. Make sure to add “checkout” next to those attending for checkout.
    - Submitting this form will email instructor.training@carpentries.org to record all checkout requirements.
 
