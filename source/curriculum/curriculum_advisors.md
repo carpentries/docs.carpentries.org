@@ -1,116 +1,81 @@
-Curriculum Advisors Handbook
-============================
+# Curriculum Advisors Handbook
 
 Curriculum Advisors are part of a team that provides the oversight,
 vision, and leadership for a particular set of lessons. Curriculum
 Advisors represent The Carpentries community and should strive to embody
 The Carpentries philosophy by:
 
--  Recognising the importance of communication and being welcoming to
+- Recognising the importance of communication and being welcoming to
    all contributors.
--  Giving feedback to contributors using The Carpentries model:
+- Giving feedback to contributors using The Carpentries model:
 
-   -  Finding what is good.
-   -  Being specific about improvements needed.
-   -  Using motivational language.
+   - Finding what is good.
+   - Being specific about improvements needed.
+   - Using motivational language.
 
--  Evaluating lesson contributions in light of The Carpentries
+- Evaluating lesson contributions in light of The Carpentries
    pedagogical model:
 
-   -  Teaching what is most relevant and useful for learners.
-   -  Avoiding getting bogged down in technical details.
-   -  Keeping language motivating.
-   -  Emphasising the importance of continued learning and improvement.
+   - Teaching what is most relevant and useful for learners.
+   - Avoiding getting bogged down in technical details.
+   - Keeping language motivating.
+   - Emphasising the importance of continued learning and improvement.
 
-Roles and Responsibilities
---------------------------
+## Roles and Responsibilities
 
-Chair
-~~~~~
+### Chair
 
--  Prepare agenda for regular meetings, including time estimates for
-   each item.
--  Set the agenda and send it out along with any other relevant
-   documents to committee members at least one week in advance of
-   meeting.
--  Assign meeting roles.
--  Serve as primary point of contact for Maintainers.
--  Review lesson repositories for instances where the Curriculum
-   Advisory Committee (CAC) is mentioned. Respond in a timely fashion,
-   including letting Maintainers and contributors know when items are
-   going to be considered at the next meeting.
--  Generally review lesson repositories for items that may come under
-   the CAC’s purview, according to the CAC consultation rubric, even if
-   not mentioned.
--  Communicate with lesson Maintainers and contributors, through GitHub
-   issues, about decisions made by the CAC. Put contributors and
-   Maintainers in contact with CAC members who will assist with
-   implementation.
--  Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to
-   step down mid-term or becomes unresponsive to communications, so that
-   Core Team can help recruit a replacement if needed.
--  Approve meeting minutes.
--  Fulfill all other responsibilities of a CAC member.
+- Prepare agenda for regular meetings, including time estimates for each item.
+- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
+- Assign meeting roles.
+- Serve as primary point of contact for Maintainers.
+- Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion,including letting Maintainers and contributors know when items are going to be considered at the next meeting.
+- Generally review lesson repositories for items that may come underthe CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
+- Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and
+Maintainers in contact with CAC members who will assist with
+implementation.
+- Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit a replacement if needed.
+- Approve meeting minutes.
+- Fulfill all other responsibilities of a CAC member.
 
-Secretary
-~~~~~~~~~
+### Secretary
 
--  Schedule regular meetings.
--  Arrange meeting room logistics.
--  Send calendar invites.
--  Send meeting reminders.
--  Prepare meeting minutes and post to the appropriate CAC repository.
--  Fulfill all other responsibilities of a CAC member.
+- Schedule regular meetings.
+- Arrange meeting room logistics.
+- Send calendar invites.
+- Send meeting reminders.
+- Prepare meeting minutes and post to the appropriate CAC repository.
+- Fulfill all other responsibilities of a CAC member.
 
-Other members
-~~~~~~~~~~~~~
+### Other members
 
--  Notify Chair of potential agenda items as they arise.
--  Review agenda and other relevant documents sent by Chair prior to
-   meeting.
--  Attend and actively participate in regular meetings by being
-   attentive, sharing knowledge, expertise, ideas, and information.
--  Participate in asynchronous voting through GitHub as needed.
--  Work with community members and Maintainers to implement voted upon
-   changes as needed.
--  (Optional) Be involved in discussions on GitHub with Maintainers and
-   community members when CAC is mentioned.
+- Notify Chair of potential agenda items as they arise.
+- Review agenda and other relevant documents sent by Chair prior to meeting.
+- Attend and actively participate in regular meetings by being attentive, sharing knowledge, expertise, ideas, and information.
+- Participate in asynchronous voting through GitHub as needed.
+- Work with community members and Maintainers to implement voted upon changes as needed.
+- (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned.
 
-Onboarding
-----------
+## Onboarding
 
--  CAC recruitment takes place annually, based on term limits and
-   turnover within committees.
--  Rounds of recruitment will be announced on `The Carpentries
-   blog <https://carpentries.org/blog/>`__.
--  Volunteers will be asked to apply for the role by filling in a short
-   webform describing their expertise and motivation for joining a
-   committee.
--  Templates and workflows for CAC recruitment and onboarding are
-   maintained in `the Core Team wiki (internal access
-   only) <https://github.com/carpentries/core-team-wiki/tree/main/curriculum>`__.
--  Onboarding aims to provide new Curriculum Advisors with context for
-   the role and how CACs fit into The Carpentries model for curriculum
-   development and maintenance, and what they can expect as they prepare
-   to join their first committee meeting.
--  Onboarding for Curriculum Advisors takes place in two parts:
-
+- CAC recruitment takes place annually, based on term limits and turnover within committees.
+- Rounds of recruitment will be announced on `The Carpentries blog <https://carpentries.org/blog/>`__.
+- Volunteers will be asked to apply for the role by filling in a short webform describing their expertise and motivation for joining a committee.
+- Templates and workflows for CAC recruitment and onboarding are maintained in `the Core Team wiki (internal access only) <https://github.com/carpentries/core-team-wiki/tree/main/curriculum>`__.
+- Onboarding aims to provide new Curriculum Advisors with context for the role and how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
+- Onboarding for Curriculum Advisors takes place in two parts:
    1. A general onboarding for all Curriculum Advisors
-   2. An additional onboarding for the committee officers (*Roles and
-      responsibilities*)
+   2. An additional onboarding for the committee officers (*Roles and responsibilities*)
 
--  Both onboardings are delivered by the Curriculum Team over Zoom, with
-   the possibility to be onboarded through a recording of the sessions
-   available for those who cannot attend synchronously.
--  Onboarding slides:
+- Both onboardings are delivered by the Curriculum Team over Zoom, with the possibility to be onboarded through a recording of the sessions available for those who cannot attend synchronously.
+- Onboarding slides:
 
    1. `general onboarding
       slides <https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing>`__
    2. `officer onboarding
       slides <https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing>`__
 
--  After these onboarding sessions, Curriculum Advisors should complete
-   the following steps:
+- After these onboarding sessions, Curriculum Advisors should complete the following steps:
 
    1. `Log into AMY <amy_link_>`_ with GitHub
       credentials and update their profile.
@@ -144,50 +109,29 @@ Onboarding
          -  `Software
             Carpentry <https://software-carpentry.org/lessons/>`__
 
-Term Length
-~~~~~~~~~~~
+## Term Length
 
 Curriculum Advisors are expected to serve a two-year term.
 
-Offboarding
------------
+## Offboarding
 
-We understand that circumstances can change and priorities must be
-re-evaluated. If a Curriculum Advisor needs to step away from the role
-before the end of their two-year term, the Curriculum Team will support
-them to do this.
+We understand that circumstances can change and priorities must be re-evaluated. If a Curriculum Advisor needs to step away from the role before the end of their two-year term, the Curriculum Team will support them to do this.
 
-1. After the first year, the Curriculum Team will approach Curriculum
-   Advisors to confirm that they wish to continue in the role or to step
-   back.
-2. If an Advisor needs to step away from the role outside this schedule,
-   they should inform their committee Chair and `the Curriculum
-   Team <mailto:curriculum@carpentries.org>`__.
+1. After the first year, the Curriculum Team will approach Curriculum Advisors to confirm that they wish to continue in the role or to step back.
+2. If an Advisor needs to step away from the role outside this schedule, they should inform their committee Chair and `the Curriculum Team <mailto:curriculum@carpentries.org>`__.
 
-Communication and Collaboration Spaces
---------------------------------------
+## Communication and Collaboration Spaces
 
-Below is a list of communication channels and collaboration spaces that
-support Curriculum Advisors. Participants in these channels and spaces
-are expected to follow our `code of
-conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`__.
 
-Meetings
-~~~~~~~~
+Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our `code of conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`__.
 
-Each Curriculum Advisory Committee will meet at least quarterly, and
-preferably every two months. These meetings are the primary avenue
-through which CAC members will interact, and should follow best
-practices for The Carpentries meetings, including having meeting roles,
-taking notes, and creating and holding a space for everyone to
-contribute. CAC members should prepare for meetings by reviewing and
-contributing to relevant documents in advance of the meeting.
+### Meetings
 
-GitHub Repositories
-~~~~~~~~~~~~~~~~~~~
+Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reviewing and contributing to relevant documents in advance of the meeting.
 
-These repositories serve as a public record of meeting notes and
-decisions made by each of the following CACs.
+### GitHub Repositories
+
+These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
 
 -  `Data Carpentry Curriculum
    Advisors <https://github.com/datacarpentry/curriculum-advisors>`__
@@ -196,8 +140,7 @@ decisions made by each of the following CACs.
 -  `Software Carpentry Curriculum
    Advisors <https://github.com/swcarpentry/curriculum-advisors>`__
 
-Collaborative Notetaking
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Collaborative Notetaking
 
 The Carpentries uses `Etherpad <https://etherpad.org/>`__ as a
 collaborative note-taking tool during workshops, trainings, and other
@@ -221,16 +164,15 @@ Carpentries community; it is not for general purpose use. All Etherpad
 content is publicly available under the `Creative Commons Attribution
 Licence <https://creativecommons.org/licenses/by/4.0/>`__.
 
-Messaging and Communication
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#### Messaging and Communication
+
 
 The Carpentries uses two primary tools for supporting communications
 among our members: Slack and TopicBox. We know that everyone has
 different communication preferences, so announcements and updates coming
 from members of the Core Team are posted to both channels.
 
-Slack
-^^^^^
+##### Slack
 
 `Slack <https://slack.com>`__ is a communications platform adopted by
 The Carpentries for instant messaging as well as synchronous and
@@ -248,8 +190,8 @@ Carpentry)
 `To join The Carpentries Slack workspace, you can follow this
 link. <https://swc-slack-invite.herokuapp.com/>`__
 
-Mailing List
-^^^^^^^^^^^^
+##### Mailing List
+
 
 You can access all The Carpentries mailing lists from
 `TopicBox <https://carpentries.topicbox.com/latest>`__. There are
@@ -292,14 +234,12 @@ have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open listservs) or “Request to Join” (for
 those listservs requiring administrator approval).
 
-Step-by-Step Guides
--------------------
+## Step-by-Step Guides
 
 Below is a step-by-step guide to support you in your role as a
 Curriculum Advisor.
 
-Meeting Checklist
-~~~~~~~~~~~~~~~~~
+### Meeting Checklist
 
 -  `Secretary <#secretary>`__ Create availability poll using whenisgood
    (or similar service). Be sure to enable the “use timezones” feature.
@@ -372,18 +312,16 @@ Meeting Checklist
 -  `Secretary <#secretary>`__ Set reminder to self to schedule next
    meeting.
 
-Resources
----------
+## Resources
 
-Curriculum Advisory Committee Consultation Rubric
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Curriculum Advisory Committee Consultation Rubric
 
 *This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs).*
 
-Issues over which Maintainers have full authority and which do not need CAC involvement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Issues over which Maintainers have full authority and which do not need CAC involvement
+
 
 -  Addition or removal of exercises
 -  Reorganisation of material within episodes
@@ -392,8 +330,8 @@ Issues over which Maintainers have full authority and which do not need CAC invo
 -  Changes to episode timings
 -  Changes to lesson text
 
-Issues about which Maintainers should consult the CAC
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Issues about which Maintainers should consult the CAC
+
 
 -  Any new versions of a dataset (either a new release or a modification
    of existing data)
@@ -402,8 +340,8 @@ Issues about which Maintainers should consult the CAC
 -  Any updates to a lesson that Maintainers wish to share for
    informational purposes
 
-Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority
+
 
 -  Addition of a new library or package
 -  Introduction of a new topic / learning objective (e.g., adding file
@@ -420,8 +358,7 @@ Issues that may benefit from Maintainers consulting with the CAC, but over which
    adoption into a Lesson Program’s official curriculum
 -  Issues which are not covered anywhere else in this rubric
 
-Issues for which Maintainers must seek CAC approval
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Issues for which Maintainers must seek CAC approval
 
 -  Replacing the dataset used in the lesson with a different dataset.
    This does not include cases in which the data being used in the
@@ -458,14 +395,13 @@ Issues for which Maintainers must seek CAC approval
    Curriculum Team, CAC member involvement in lesson pilot workshops,
    and/or open peer review of lessons in The Carpentries Lab.
 
-Email templates
-~~~~~~~~~~~~~~~
+### Email templates
 
 *Curriculum Advisors can use these email templates for planning their
 meetings.*
 
-Scheduling a meeting
-^^^^^^^^^^^^^^^^^^^^
+#### Scheduling a meeting
+
 
 Subject: Scheduling [ QUARTER YEAR ] Meeting of the [ Data Carpentry /
 Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
@@ -485,8 +421,7 @@ calendar.
 
 Best, [ sender name ]
 
-Meeting announcement
-^^^^^^^^^^^^^^^^^^^^
+#### Meeting announcement
 
 Subject: [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library
 Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
@@ -508,8 +443,7 @@ didn’t get the GCal invite.
 
 Best, [ sender name ]
 
-Meeting reminder
-^^^^^^^^^^^^^^^^
+#### Meeting reminder
 
 Subject: [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library
 Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
@@ -546,8 +480,7 @@ Excited to meet with you all soon.
 
 Best, [ sender name ]
 
-Meeting followup
-^^^^^^^^^^^^^^^^
+#### Meeting followup
 
 Subject: Follow-up from [ QUARTER YEAR ] Meeting of the [ Data Carpentry
 / Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ]
@@ -576,8 +509,8 @@ Please let me know if you have any questions or comments.
 
 Best, [ sender name ]
 
-FAQ
----
+## FAQ
+
 
 **How do the responsibilities of Curriculum Advisors differ from
 Maintainers?**
@@ -585,8 +518,8 @@ Maintainers?**
 Please review the `Curriculum Advisory Committee Consultation
 Rubric <https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html>`__.
 
-About This Handbook
--------------------
+## About This Handbook
+
 
 The Curriculum Advisor Handbook is a resource for members of The
 Carpentries community who are serving on a Curriculum Advisory
