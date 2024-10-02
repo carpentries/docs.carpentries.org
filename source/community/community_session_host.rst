@@ -1,7 +1,7 @@
 Community Session Hosts Handbook
 ================================
 
-Hosting a community discussion is a great way to meet more people in The Carpentries community, learn more about the organization, 
+Hosting a community discussion is a great way to meet more people in The Carpentries community, learn more about the organisation, 
 share your knowledge, and learn from others' experiences.
 
 Community discussions are also an important part of our <a href="https://carpentries.github.io/instructor-training/checkout/">Instructor Training Certification Process</a>., 
@@ -13,7 +13,7 @@ and assessing the impact of our workshops globally. There are four types of disc
 
 1. **Pre- and Post-Workshop Discussions:** For those preparing to teach or who have recently taught, to discuss their workshop experience with the community.
 2. **Themed Community Discussions:** Focused on specific topics, such as teaching your first workshop or community-building strategies. Each month, the Community Development Team also hosts **Welcome Sessions** for new members to meet the Core Team and learn how to get involved.
-3. **Carpentries Conversations:** Hosted by one of our Committees or Task Forces to discuss new developments and programs in our organization.
+3. **Carpentries Conversations:** Hosted by one of our Committees or Task Forces to discuss new developments and programs in our organisation.
 4. **Regional Community Calls:** Hosted by local and regional subcommunities. You can find a list of these calls at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024).
 
 **Note:** Attending any of these four types of discussions fulfils the requirement for [Instructor Training Certification ("Checkout")](https://carpentries.github.io/instructor-training/checkout/).
@@ -242,7 +242,7 @@ Agenda: Pre- and Post-Workshop Discussion Sessions
    - How are instructors sharing roles? Is there a lead instructor, or are you co-instructors?
 
 - Participants discuss instructor training checkout (5 minutes)
-   - Questions about the checkout process or workshop organization?
+   - Questions about the checkout process or workshop organisation?
    - Have you asked a question here yet?
 
 - Breakout Rooms (15 minutes)
