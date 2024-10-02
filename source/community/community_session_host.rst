@@ -200,16 +200,13 @@ Script for Starting a Community Discussion
 Welcome everyone! My name is [insert name], and I am [role and affiliation]. Before we start with introductions, let’s go over a few important details.
 
 - We will use the Etherpad for note-taking. Everyone can take notes during the call, but [name] will be our main note-taker.
-
    - *Host should share the link in chat:* https://pad.carpentries.org/community-sessions-2024
 
 - Automated closed captioning is turned on. You can display it using the captioning feature.
 - If you have a question, please use the “raise hand” reaction in Zoom.
 - Everyone participating in The Carpentries activities must follow our Code of Conduct.
-
    - *Host should share the link in chat:* https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
    - Behavior that excludes, intimidates or makes others uncomfortable violates the Code of Conduct. To create a positive learning environment, please:
-
       - Use welcoming and inclusive language
       - Respect different viewpoints and experiences
       - Accept constructive criticism gracefully
@@ -217,7 +214,6 @@ Welcome everyone! My name is [insert name], and I am [role and affiliation]. Bef
       - Be courteous and respectful to other members
 
    - If you see someone violating the Code of Conduct, please report it to The Carpentries Code of Conduct Committee by filling out this form.
-
       - *Host should share the link in chat:* https://goo.gl/forms/KoUfO53Za3apOuOK2
 
 - If you are here for Instructor Training Checkout, please add “checkout” next to your name on the Etherpad so you get credit for attending.
