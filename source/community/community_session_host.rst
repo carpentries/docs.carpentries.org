@@ -137,7 +137,6 @@ Before the Discussion Session
 
 - Log in at least 5 minutes before the session starts.
 - Create a waiting room to control who enters.
-
    - [Learn how to enable and use a waiting room](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd).
 
 - Gain host access.
