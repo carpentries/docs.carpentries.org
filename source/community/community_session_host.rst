@@ -4,7 +4,7 @@ Community Session Hosts Handbook
 Hosting a community discussion is a great way to meet more people in The Carpentries community, learn more about the organization, 
 share your knowledge, and learn from others' experiences.
 
-Community discussions are also an important part of our [Instructor Training Certification Process](https://carpentries.github.io/instructor-training/checkout/), 
+Community discussions are also an important part of our <a href="https://carpentries.github.io/instructor-training/checkout/">Instructor Training Certification Process</a>., 
 also known as "Checkout." As a Community Discussion Host, you will welcome new InsFtructors to our global community and introduce them 
 to community discussions as a resource for ongoing support and advice as they develop their teaching skills.
 
