@@ -20,14 +20,21 @@ jobs:
       - name: Checkout the Repository
         uses: actions/checkout@v2
 
-      - name: Install sphinx dependencies
+      - name: Install Sphinx
         run: |
           pip install sphinx sphinx_design myst-parser pydata-sphinx-theme
 
-      - name: Build site
-        uses: ammaraskar/sphinx-action@master
-        with:
-          docs-folder: "source/"
+      # - name: Build site
+      #   uses: ammaraskar/sphinx-action@master
+      #   with:
+      #     docs-folder: "source/"
+
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+      - name: Build Documentation
+        run: make html
+      - name: list
+        run: ls "$GITHUB_WORKSPACE/build/html"
 
       - name: Deploy to AWS S3
         id: deploy
