@@ -29,7 +29,7 @@ Roles and Responsibilities
 A community member can be a community discussion host for any length of time, based on their availability and interest. Responsibilities include:
 
 - Attend a one-hour onboarding session.
-- Sign up to receive relevant communications for this role. Instructions are in the [#Communication and Collaboration Spaces section of this handbook].
+- Sign up to receive relevant communications for this role. Instructions are in the Communication and Collaboration Spaces section of this handbook.
 - Schedule one or more community discussions during the quarterly scheduling period.
 - Facilitate the one-hour discussions you sign up to host.
 - Encourage participation from anyone attending for "Checkout." While it's not required, we want new members to feel welcome and get their questions answered. These attendees will have "checkout" next to their name on the sign-up list.
