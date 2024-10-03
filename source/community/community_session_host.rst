@@ -4,7 +4,9 @@ Community Session Hosts Handbook
 Hosting a community discussion is a great way to meet more people in The Carpentries community, learn more about the organisation, 
 share your knowledge, and learn from others' experiences.
 
-Community discussions are also an important part of our <a href="https://carpentries.github.io/instructor-training/checkout/">Instructor Training Certification Process</a>., 
+Community discussions are also an important part of our `Instructor
+Training Certification
+Process <https://carpentries.github.io/instructor-training/checkout/>`__, 
 also known as "Checkout." As a Community Discussion Host, you will welcome new InsFtructors to our global community and introduce them 
 to community discussions as a resource for ongoing support and advice as they develop their teaching skills.
 
@@ -14,9 +16,11 @@ and assessing the impact of our workshops globally. There are four types of disc
 1. **Pre- and Post-Workshop Discussions:** For those preparing to teach or who have recently taught, to discuss their workshop experience with the community.
 2. **Themed Community Discussions:** Focused on specific topics, such as teaching your first workshop or community-building strategies. Each month, the Community Development Team also hosts **Welcome Sessions** for new members to meet the Core Team and learn how to get involved.
 3. **Carpentries Conversations:** Hosted by one of our Committees or Task Forces to discuss new developments and programs in our organisation.
-4. **Regional Community Calls:** Hosted by local and regional subcommunities. You can find a list of these calls at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024).
+4. **Regional Community Calls:** Hosted by local and regional subcommunities. You can find a list of these calls at the top of the `Community Discussions
+   Etherpad <https://pad.carpentries.org/community-sessions-2024>`__.
 
-**Note:** Attending any of these four types of discussions fulfils the requirement for [Instructor Training Certification ("Checkout")](https://carpentries.github.io/instructor-training/checkout/).
+**Note:** Attending any of these four types of discussions fulfils the requirement for `Instructor Training
+Certification (‘Checkout’) <https://carpentries.github.io/instructor-training/checkout/>`__.
 
 
 Roles and Responsibilities
@@ -25,39 +29,39 @@ Roles and Responsibilities
 A community member can be a community discussion host for any length of time, based on their availability and interest. Responsibilities include:
 
 - Attend a one-hour onboarding session.
-- Sign up to receive relevant communications for this role. Instructions are in the [Communication and Collaboration Spaces section of this handbook].
+- Sign up to receive relevant communications for this role. Instructions are in the [#Communication and Collaboration Spaces section of this handbook].
 - Schedule one or more community discussions during the quarterly scheduling period.
 - Facilitate the one-hour discussions you sign up to host.
 - Encourage participation from anyone attending for "Checkout." While it's not required, we want new members to feel welcome and get their questions answered. These attendees will have "checkout" next to their name on the sign-up list.
-- Complete a [brief form](https://forms.gle/N74pFuGkRLawpCHh7) after each session you host. When copying attendance into the form, include the word "checkout" next to names as listed on the Etherpad. The Core Team uses this information to record participation in `AMY`, The Carpentries' internal database, which is how future Instructors get credit for this step.
+- Complete `a brief form <https://forms.gle/N74pFuGkRLawpCHh7>`__ after each session you host. When copying attendance into the form, include the word "checkout" next to names as listed on the Etherpad. The Core Team uses this information to record participation in `AMY`, The Carpentries' internal database, which is how future Instructors get credit for this step.
 
 Onboarding
 ----------
 
-If you want to become a community discussion host, [email the Community Development Team](mailto:community@carpentries.org) to let them know. 
+If you want to become a community discussion host, `email the Community Development Team <mailto:community@carpentries.org>`__ to let them know. 
 They will give you the date and time of the next onboarding session. Onboarding sessions are offered quarterly in multiple time zones as themed 
-community discussions. You can also refer to a [video](https://youtu.be/VrWdzlD2dlE) and [slides](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing) covering the onboarding content. After onboarding, you may want to attend a community 
+community discussions. You can also refer to a `video <https://youtu.be/VrWdzlD2dlE>`__ and `slides <https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing>`__ covering the onboarding content. After onboarding, you may want to attend a community 
 discussion as an observer or co-host before hosting on your own.
 
 
 Offboarding
 -----------
 
-If you no longer want to be a Community Discussion Host, [email the Community Development Team](mailto:community@carpentries.org). 
+If you no longer want to be a Community Discussion Host, email the `Community Development Team <mailto:community@carpentries.org>`_. 
 They will remove you from the #discussion-host Slack channel and unsubscribe you from the mailing list.
 
 
 Communication and Collaboration Spaces
 --------------------------------------
 
-This section lists the communication channels and collaboration spaces for Community Discussion Hosts. Participants must follow The Carpentries [code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Descriptions of the tools can be found in [the community glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
+This section lists the communication channels and collaboration spaces for Community Discussion Hosts. Participants must follow The Carpentries `code of conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_. Descriptions of the tools can be found in `the community glossary <https://github.com/carpentries/community-development/blob/main/glossary.md>`_.
 
 
 Community Calendar
 ~~~~~~~~~~~~~~~~~~
 
 After scheduling a call, you will receive a calendar invite at the email address you used to sign up. All community discussions are also 
-listed on our [Community Calendar](https://carpentries.org/community/#community-events).
+listed on our `Community Calendar <https://carpentries.org/community/#community-events>`_.
 
 
 Etherpad
@@ -65,30 +69,31 @@ Etherpad
 
 Here are some useful Etherpads for Community Discussion Hosts:
 
-- [Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024): Lists all upcoming community discussions, 
+-`Community Discussions Etherpad <https://pad.carpentries.org/community-sessions-2024>`_: Lists all upcoming community discussions, 
 where members can sign up and find session login information.
-- [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of The Carpentries' most commonly used Etherpads and resources.
+
+-`Pad-of-pads <https://pad.carpentries.org/pad-of-pads>`_: A list of The Carpentries' most commonly used Etherpads and resources.
 
 
 Messaging and Communication
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Slack is the platform used by The Carpentries for real-time and ongoing communication. Channels help community members collaborate based 
-on the channel's purpose. You can [join The Carpentries Slack workspace](https://swc-slack-invite.herokuapp.com/) to participate in 
+on the channel's purpose. You can `join The Carpentries Slack workspace <https://swc-slack-invite.herokuapp.com/>`_ to participate in 
 discussions relevant to your role:
 
 - **#discussion-hosts**: A channel for Community Discussion Hosts and those interested in hosting discussions.
 
-If you’re new to Slack, our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide) 
+If you’re new to Slack, our `Slack Quick Start Guide <https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide>`_ 
 will help you set up your profile and provide an overview of how we use the platform daily.
 
 
 Mailing List
 ~~~~~~~~~~~~
 
-You can find all of The Carpentries mailing lists on [TopicBox](https://carpentries.topicbox.com/latest). The [Community Discussion Host mailing list](https://carpentries.topicbox.com/groups/discussion-hosts) is specifically for this role. 
+You can find all of The Carpentries mailing lists on `TopicBox <https://carpentries.topicbox.com/latest>`_. The `Community Discussion Host mailing list <https://carpentries.topicbox.com/groups/discussion-hosts>`_ is specifically for this role. 
 
-To join any mailing list, you need to [create a login on the site](https://carpentries.topicbox.com/latest). After that, you can browse the groups and 
+To join any mailing list, you need to `create a login on the site <https://carpentries.topicbox.com/latest>`_. After that, you can browse the groups and 
 select “Join the Conversation” for open mailing lists or “Request to Join” for those that need admin approval.
 
 
@@ -101,83 +106,82 @@ Signing Up to Host a Community Discussion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This guide is for signing up to host any community discussion **except Regional Community Calls**. If you're a Community Coordinator wanting to host a 
-Regional Community Call, please follow the instructions in the [Signing Up to Host a Regional Community Call section](discussion_host.md#signing-up-to-host-a-regional-community-call). To learn more about becoming a Community Coordinator, visit the [FAQs section](#faq).
+Regional Community Call, please follow the instructions in the `Signing Up to Host a Regional Community Call section <discussion_host.md#signing-up-to-host-a-regional-community-call>`_. To learn more about becoming a Community Coordinator, visit the `FAQs section <#faq>`_.
 
-- Each quarter, the Community Development Team will share signup instructions via Slack and TopicBox. Check the [Communication and Collaboration Spaces section](#communication-and-collaboration-spaces) for joining these channels.
+- Each quarter, the Community Development Team will share signup instructions via Slack and TopicBox. Check the `Communication and Collaboration Spaces section <#communication-and-collaboration-spaces>`_ for joining these channels.
 
 .. csv-table:: Schedule 
    :widths: 20, 20, 20, 20, 20
    :file: ../_includes/calendar.csv
    :header-rows: 1
 
-- Community Discussion Hosts can sign up using [Calendly](https://calendly.com/thecarpentries) during the signup period. Calendly allows you to 
-choose dates and times in your time zone. Dates already chosen won’t show up.
-- After scheduling a discussion on Calendly, the event will automatically be added to the [Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024) and the [Community Calendar](https://carpentries.org/community/#community-events). The Community Development Team will notify 
+- Community Discussion Hosts can sign up using `Calendly <https://calendly.com/thecarpentries>`_ during the signup period. Calendly allows you to choose dates and times in your time zone. Dates already chosen won’t show up.
+- After scheduling a discussion on Calendly, the event will automatically be added to the `Community Discussions Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ and the `Community Calendar <https://carpentries.org/community/#community-events>`_. The Community Development Team will notify 
 hosts when the sessions are added.
-- If you need to schedule a session outside the quarterly period, fill out the [Request to Schedule and Facilitate Carpentries Community Discussion form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). The session isn’t confirmed until a 
+- If you need to schedule a session outside the quarterly period, fill out the `Request to Schedule and Facilitate Carpentries Community Discussion form <https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform>`_. The session isn’t confirmed until a 
 Community Development Team member contacts you.
 
 Signing Up to Host a Regional Community Call
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Community Coordinators are in charge of scheduling Regional Community Calls. Dates and times for these calls are listed at the top of the 
-[Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024) along with links for call notes. If a Community Coordinator 
+`Community Discussions Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ along with links for call notes. If a Community Coordinator 
 wants to list a Regional Community Call and have it added to The Carpentries Community Calendar, they should email community@carpentries.org. 
-If they want to add the call to the Community Discussion Etherpad for signups and notes, they can use [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Discussion Session section](#signing-up-to-host-a-community-discussion). 
-This will automatically add the event to the Community Calendar and the Etherpad. To learn more about becoming a Community Coordinator, check the [FAQs section](#faq).
+If they want to add the call to the Community Discussion Etherpad for signups and notes, they can use `Calendly <https://calendly.com/thecarpentries>`_ during the signup period as described in the `Signing Up to Host a Community Discussion Session section <#signing-up-to-host-a-community-discussion>`_. 
+This will automatically add the event to the Community Calendar and the Etherpad. To learn more about becoming a Community Coordinator, check the `FAQs section <#faq>`_.
 
 Checklist for Hosting a Community Discussion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Community discussions use the [Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024) for member signups and note-taking. 
-Regional subcommunities often have their platforms for call notes, which can be found at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-sessions-2024) and in the [Community Calendar](https://carpentries.org/community/#community-events).
+Community discussions use the `Community Discussions Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ for member signups and note-taking. 
+Regional subcommunities often have their platforms for call notes, which can be found at the top of the `Community Discussions Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ and in the `Community Calendar <https://carpentries.org/community/#community-events>`_.
 
 Before the Discussion Session
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Log in at least 5 minutes before the session starts.
 - Create a waiting room to control who enters.
-   - [Learn how to enable and use a waiting room](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd).
+   - `Learn how to enable and use a waiting room <https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd>`_.
 
 - Gain host access.
    - Two days before the event, you’ll receive an email from Calendly with the host key.
-   - [Learn how to use the host key to claim access](https://support.zoom.us/hc/en-us/articles/115001315866).
+   - `Learn how to use the host key to claim access <https://support.zoom.us/hc/en-us/articles/115001315866>`_.
 
 - Enable closed captioning for accessibility.
    - Zoom provides automatic captioning, but its accuracy may vary due to sound quality and accents.
-   - [Learn how to enable automatic captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
+   - `Learn how to enable automatic captioning <https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services>`_.
 
 - Confirm that your co-host (if any) is present and discuss who will lead and take notes.
-- If needed, copy template agendas for session types from the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-sessions-2024) to the session's signup space. [Template agendas](#sample-agendas) are also available in this handbook.
+- If needed, copy template agendas for session types from the bottom of the `Community Discussion Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ to the session's signup space. `Template agendas <#sample-agendas>`_ are also available in this handbook.
 
 During the Discussion Session
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Use or adapt the [Script for Starting a Community Discussion](#script-for-starting-a-community-discussion).
-- If relevant, follow the sample agendas from the bottom of the [Community Discussion Etherpad](https://pad.carpentries.org/community-sessions-2024) and in the [resources section](#resources).
+- Use or adapt the `Script for Starting a `Community Discussion <#script-for-starting-a-community-discussion>`_.
+- If relevant, follow the sample agendas from the bottom of the `Community Discussion Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ and in the `resources section <#resources>`_.
    - Follow the agenda but let the discussion flow naturally. Not all questions need to be answered by everyone.
    - The host doesn’t have to answer every question; encourage participants to help each other.
    - If someone is attending for training checkout, prompt them to ask questions.
    - Leave time for Q&A and any important announcements at the end.
 
 - Take notes or find someone to take notes.
-- For pre-and post-workshop discussions, if more than 5 workshops are represented, consider splitting into two groups using breakout rooms. This ensures everyone has enough time to share. Balance the groups for diverse participation. [Learn how to set up and use breakout rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#creating-breakout-rooms).
+- For pre-and post-workshop discussions, if more than 5 workshops are represented, consider splitting into two groups using breakout rooms. This ensures everyone has enough time to share. Balance the groups for diverse participation. `Learn how to set up and use breakout rooms <https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#creating-breakout-rooms>`_.
 
 After the Discussion Session
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Archive the Etherpad by selecting “Save Revision” (it appears as a star in the top right).
-- Fill out the [host form](https://forms.gle/N74pFuGkRLawpCHh7).
+- Fill out the `host form <https://forms.gle/N74pFuGkRLawpCHh7>`_.
    - Copy the attendee list (including everyone except no-shows) into the form. Make sure to add “checkout” next to those attending for checkout.
    - Submitting this form will email instructor.training@carpentries.org to record all checkout requirements.
 
 - Clear the session information (date/time, attendees, notes) from the Etherpad.
-- (Optional) [Write a blog post](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html) about interesting points from the discussion.
+- (Optional) `Write a blog post <https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html>`_ about interesting points from the discussion.
 
 Cancelling a Discussion Session
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you need to cancel a scheduled community discussion due to conflicts, please contact community@carpentries.org as soon as possible. A Core Team member will help find another host for the event. You can also post in the [Communication and Collaboration Spaces](#communication-and-collaboration-spaces) to see if another host is available.
+If you need to cancel a scheduled community discussion due to conflicts, please contact community@carpentries.org as soon as possible. A Core Team member will help find another host for the event. You can also post in the `Communication and Collaboration Spaces <#communication-and-collaboration-spaces>`_ to see if another host is available.
 
 
 Resources
@@ -188,8 +192,8 @@ Onboarding Presentation
 
 *This presentation is used during the Community Discussion Host onboarding session.*
 
-- [Onboarding presentation with notes](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing)
-- [Onboarding video](https://youtu.be/VrWdzlD2dlE)
+- `Onboarding presentation with notes <https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing>`_
+- `Onboarding video <https://youtu.be/VrWdzlD2dlE>`_
 
 
 Script for Starting a Community Discussion
@@ -327,7 +331,7 @@ They can email you to ask to join, but it’s up to you whether to accept more p
 
 **What if someone is loud or talks down to others?**
 
-Remind everyone of the Code of Conduct at the start of the session. Such behavior is not allowed, and you can ask the person to leave if needed.
+Remind everyone of the Code of Conduct at the start of the session. Such behaviour is not allowed, and you can ask the person to leave if needed.
 
 **What if I have trouble understanding someone?**
 
