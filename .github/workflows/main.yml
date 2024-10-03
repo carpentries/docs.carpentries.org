@@ -33,7 +33,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Build Documentation
         run: make html
-      - name: list
+      - name: List Built Files
         run: ls "$GITHUB_WORKSPACE/build/html"
 
       - name: Deploy to AWS S3
