@@ -1,0 +1,57 @@
+name: S3/CloudFront deployment beta.docs.carpentries.org
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: '30 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-website:
+    if: github.repository_owner == 'carpentries'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout the Repository
+        uses: actions/checkout@v2
+
+      - name: Install Sphinx
+        run: |
+          pip install sphinx sphinx_design myst-parser pydata-sphinx-theme
+
+      # - name: Build site
+      #   uses: ammaraskar/sphinx-action@master
+      #   with:
+      #     docs-folder: "source/"
+
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+      - name: Build Documentation
+        run: make html
+      - name: List Built Files
+        run: ls "$GITHUB_WORKSPACE/build/html"
+
+      - name: Deploy to AWS S3
+        id: deploy
+        uses: fmichonneau/s3-sync-action@log-output
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: build/html/
+
+      - name: Invalidate CloudFront
+        uses: chetan/invalidate-cloudfront-action@master
+        env:
+          PATHS: /*
+          AWS_REGION: 'us-east-1'
+          DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
