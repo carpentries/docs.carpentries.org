@@ -1,17 +1,16 @@
-Lesson Developers Handbook
-==========================
+# Lesson Developers Handbook
 
 Lesson Developers create new lessons using The Carpentries open source
 lesson infrastructure. This lesson development takes place in The
 Carpentries Incubator, a space for the community to collaborate on
 lesson projects.
 
-Roles and Responsibilities
---------------------------
+## Roles and Responsibilities
 
-Beyond ensuring that the lesson remains compliant with `the requirements
-for inclusion in The Carpentries
-Incubator <https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator>`__,
+
+Beyond ensuring that the lesson remains compliant with the requirements
+for inclusion in [The Carpentries
+Incubator](https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator),
 there are no formal responsibilities associated with developing a lesson
 there: lesson projects in the Incubator are community efforts that
 belong to the individual developers contributing to them. These
@@ -32,15 +31,14 @@ themselves responsible for the following tasks:
 -  Recruiting Instructors to beta test the lesson, supporting
    preparations for pilot workshops, and incorporating feedback from
    those workshops.
--  Submitting the lesson for open peer review and acceptance to `The
-   Carpentries Lab <https://carpentries-lab.org/>`__.
+-  Submitting the lesson for open peer review and acceptance to [The
+   Carpentries Lab](https://carpentries-lab.org).
 
-Onboarding
-----------
+## Onboarding
 
-Lesson Developers can start a new lesson any time by `opening a new
-issue on The Carpentries Incubator Proposals
-repository <https://github.com/carpentries-incubator/proposals/issues/new?assignees=&labels=&template=issue_proposal.md>`__.
+Lesson Developers can start a new lesson any time by opening a new
+issue on [The Carpentries Incubator Proposals
+repository](https://github.com/carpentries-incubator/proposals/issues/new?assignees=&labels=&template=issue_proposal.md).
 The issue template includes several questions, which should be answered
 to help the Curriculum Team set up the lesson repository correctly in
 the Incubator.
@@ -49,8 +47,7 @@ Community members with an idea for a new lesson can also apply to join
 Collaborative Lesson Development Training, which will be scheduled
 periodically starting in 2023.
 
-Offboarding
------------
+## Offboarding
 
 There is no formal offboarding process for Lesson Developers working on
 projects in The Carpentries Incubator.
