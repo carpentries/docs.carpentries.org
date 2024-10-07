@@ -1,14 +1,13 @@
-Community Session Hosts Handbook
-===================================
+# Community Session Hosts Handbook
 
 Hosting a community discussion is a great way to meet more people in The
 Carpentries community, get to know the organisation better, learn from
 the experiences of others and share your own knowledge and experience
 with an even greater number of people.
 
-Community discussions are also an integral part of our `Instructor
+Community discussions are also an integral part of our [Instructor
 Training Certification
-Process <https://carpentries.github.io/instructor-training/checkout/>`__,
+Process](https://carpentries.github.io/instructor-training/checkout/),
 also known as ‘Checkout’. As a Community Discussion Host, you get to
 welcome new Instructors into our global community and introduce them to
 community discussions as an ongoing resource for support and advice as
@@ -33,16 +32,16 @@ assessing the impact of our workshops globally. There are four types:
    in our organisation.
 4. **Regional Community Calls:** These calls are hosted by our local and
    regional subcommunities. A list of local and regional calls can be
-   found at the top of the `Community Discussions
-   Etherpad <https://pad.carpentries.org/community-discussions>`__
+   found at the top of the [Community Discussions
+   Etherpad](https://pad.carpentries.org/community-discussions)
 
 **Note.** Any of these four types of Community Discussions can be
-attended to meet the requirement as part of `Instructor Training
+attended to meet the requirement as part of [Instructor Training
 Certification
-(‘Checkout’) <https://carpentries.github.io/instructor-training/checkout/>`__.
+(‘Checkout’)](https://carpentries.github.io/instructor-training/checkout/)
 
-Roles and Responsibilities
---------------------------
+## Roles and Responsibilities
+
 
 A community member can serve as a community discussion host for any
 length of time, considering their availability and interest. Specific
