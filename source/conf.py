@@ -171,5 +171,6 @@ suppress_warnings = ['autosectionlabel.*']
 # These links can be used anywhere in this documentation.  
 
 myst_substitutions = {
-  "amy_link": "https://amy.carpentries.org"
+  "amy_link": "https://amy.carpentries.org",
+  "instructor_training_email":"instructor.training@carpentries.org"
 }
