@@ -1,17 +1,16 @@
-Lesson Developers Handbook
-==========================
+# Lesson Developers Handbook
 
 Lesson Developers create new lessons using The Carpentries open source
 lesson infrastructure. This lesson development takes place in The
 Carpentries Incubator, a space for the community to collaborate on
 lesson projects.
 
-Roles and Responsibilities
---------------------------
+## Roles and Responsibilities
 
-Beyond ensuring that the lesson remains compliant with `the requirements
-for inclusion in The Carpentries
-Incubator <https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator>`__,
+
+Beyond ensuring that the lesson remains compliant with the requirements
+for inclusion in [The Carpentries
+Incubator](https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator),
 there are no formal responsibilities associated with developing a lesson
 there: lesson projects in the Incubator are community efforts that
 belong to the individual developers contributing to them. These
@@ -32,15 +31,14 @@ themselves responsible for the following tasks:
 -  Recruiting Instructors to beta test the lesson, supporting
    preparations for pilot workshops, and incorporating feedback from
    those workshops.
--  Submitting the lesson for open peer review and acceptance to `The
-   Carpentries Lab <https://carpentries-lab.org/>`__.
+-  Submitting the lesson for open peer review and acceptance to [The
+   Carpentries Lab](https://carpentries-lab.org).
 
-Onboarding
-----------
+## Onboarding
 
-Lesson Developers can start a new lesson any time by `opening a new
-issue on The Carpentries Incubator Proposals
-repository <https://github.com/carpentries-incubator/proposals/issues/new?assignees=&labels=&template=issue_proposal.md>`__.
+Lesson Developers can start a new lesson any time by opening a new
+issue on [The Carpentries Incubator Proposals
+repository](https://github.com/carpentries-incubator/proposals/issues/new?assignees=&labels=&template=issue_proposal.md).
 The issue template includes several questions, which should be answered
 to help the Curriculum Team set up the lesson repository correctly in
 the Incubator.
@@ -49,8 +47,7 @@ Community members with an idea for a new lesson can also apply to join
 Collaborative Lesson Development Training, which will be scheduled
 periodically starting in 2023.
 
-Offboarding
------------
+## Offboarding
 
 There is no formal offboarding process for Lesson Developers working on
 projects in The Carpentries Incubator.
@@ -70,71 +67,59 @@ when stepping away from a lesson:
    lesson repository.
 -  If the sole remaining developer of the lesson is leaving the project,
    add a notice to the top of the repository README and the lesson front
-   page (``index.md``) to inform visitors that the lesson is not being
+   page (`index.md`) to inform visitors that the lesson is not being
    actively maintained/developed. In these circumstances, consider:
 
-   -  
-
-      1. contacting the `Incubator administrator
-         team <mailto:incubator@carpentries.org>`__ to let them know
-         that the lesson will be unmaintained, and
-
-   -  
-
-      2. archiving the lesson repository.
+   1. contacting the [Incubator administratorteam](mailto:incubator@carpentries.org) to let them know that the lesson will be unmaintained, and
+   2. archiving the lesson repository.
 
 If the developers wish to remove the lesson from The Carpentries
 Incubator, the project owner (a developer with Admin access) can
-transfer the lesson repository out of the ``carpentries-incubator``
+transfer the lesson repository out of the `carpentries-incubator`
 GitHub organisation via **Settings**->\ **General**->\ **Danger
 Zone**->\ **Transfer Ownership**.
 
-Communication and Collaboration Spaces
---------------------------------------
+## Communication and Collaboration Spaces
 
-Community Calendar
-~~~~~~~~~~~~~~~~~~
+### Community Calendar
 
 Once scheduled, all Lesson Development Coworking Sessions are listed on
-our `Community
-Calendar <https://carpentries.org/community/#community-events>`__. You
+our [Community
+Calendar](https://carpentries.org/community/#community-events). You
 can add relevant events to your personal calendar from there by clicking
 on the event you would like to attend.
 
-Etherpad
-~~~~~~~~
+### Etherpad
 
 Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
--  `Pad-of-pads <https://pad.carpentries.org/pad-of-pads>`__: A list of
+-  [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
    our most commonly used Etherpads and other resources.
--  `Lesson Development Coworking Session
-   Notes <https://codimd.carpentries.org/lessondev-coworking>`__: Signup
+-  [Lesson Development Coworking Session
+   Notes](https://codimd.carpentries.org/lessondev-coworking): Signup
    information, connection details, and notes taken from monthly
    coworking sessions (CodiMD),
 
-GitHub
-~~~~~~
+### GitHub
 
--  `The Carpentries Incubator Proposals
-   repository <https://github.com/carpentries-incubator/proposals>`__: a
+-  [The Carpentries Incubator Proposals
+   repository](https://github.com/carpentries-incubator/proposals): a
    place for The Carpentries community to propose new lessons for
    development in the Incubator.
--  `The Carpentries Lab Reviews
-   repository <https://github.com/carpentries-lab/reviews>`__: a place
+-  [The Carpentries Lab Reviews
+   repository](https://github.com/carpentries-lab/reviews): a place
    for Lesson Developers to submit lessons for open peer review and
    acceptance to The Carpentries Lab.
 
-Slack
-~~~~~
+### Slack
 
-`Join The Carpentries Slack
-workspace. <https://swc-slack-invite.herokuapp.com/>`__ To follow
+Join [The Carpentries Slack
+workspace](https://swc-slack-invite.herokuapp.com/). To follow
 conversations relevant to this role, you should join the following
 channels:
 
--  The\ `#lesson-dev channel on The Carpentries Slack
-   workspace <https://swcarpentry.slack.com/archives/C3KUTT5V3>`__ is a
+-  The [#lesson-dev channel on The Carpentries Slack
+   workspace](https://swcarpentry.slack.com/archives/C3KUTT5V)3 is a
    platform for the whole community to ask questions and engage in
    discussions around the subject of lesson development.
 -  We recommend that Lesson Developers browse existing channels in the
@@ -144,40 +129,34 @@ channels:
    space for you to discuss the development process with collaborators,
    and for community members to ask questions about the lesson.
 
-If Slack is new to you, our `Slack Quick Start
-Guide <https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide>`__
+If Slack is new to you, our [Slack Quick Start
+Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide)
 will help you to set up your profile and give you an overview of how we
 use the platform on a day-to-day basis.
 
-Mailing List
-~~~~~~~~~~~~
+### Mailing List
 
 You can access The Carpentries mailing lists from
-`TopicBox <https://carpentries.topicbox.com/latest>`__. The
-`incubator-developers mailing
-list <https://carpentries.topicbox.com/groups/incubator-developers>`__
+[TopicBox](https://carpentries.topicbox.com/latest). The
+[incubator-developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers)
 is the one relevant to serving in this role.
 
-To join one or more Carpentries mailing lists, you will need to `create
-a login on the site <https://carpentries.topicbox.com/latest>`__. Once
+To join one or more Carpentries mailing lists, you will need to [create
+a login on the site](https://carpentries.topicbox.com/latest). Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
 those mailing lists requiring administrator approval).
 
-Step-by-Step Guides
--------------------
+## Step-by-Step Guides
 
-Adapting Existing Lessons for The Carpentries
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Adapting Existing Lessons for The Carpentries
 
 Lessons must use The Carpentries template and infrastructure to be
 included in the Incubator or Lab. The Curriculum Development Handbook
-includes `a guide for adapting existing lessons to use The Carpentries
-lesson
-template <https://cdh.carpentries.org/adapting-existing-lessons-for-the-carpentries.html>`__.
+includes a guide for adapting existing lessons to use [The Carpentries
+lesson template](https://cdh.carpentries.org/adapting-existing-lessons-for-the-carpentries.html).
 
-Using Issue Labels to Promote Collaboration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Using Issue Labels to Promote Collaboration
 
 GitHub allows the maintainers of a repository to add contextual
 information to Issues and Pull Requests in the form of labels. Two
@@ -187,14 +166,14 @@ community members to contribute to its development.
 
 The **“help wanted”** label should be used to highlight issues with
 which you would welcome additional help. The Carpentries website
-includes `a Help Wanted
-page <https://carpentries.org/help-wanted-issues/>`__, which can
+includes a [Help Wanted
+page](https://carpentries.org/help-wanted-issues/), which can
 automatically list every issue labelled “help wanted” on repositories
 from The Carpentries, Software Carpentry, Data Carpentry, Library
 Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
 to include issues from your lesson repository on the Help Wanted page by
-reviewing the `Information for
-Maintainers <https://carpentries.org/help-wanted-issues/#for-maintainers>`__
+reviewing the [Information for
+Maintainers](https://carpentries.org/help-wanted-issues/#for-maintainers)
 on the page itself.
 
 The **“good first issue”** label should be used to identify issues that
@@ -207,11 +186,10 @@ extensively that GitHub provides a page at\ `[repository
 URL]/contribute <https://github.com/swcarpentry/r-novice-gapminder/contribute>`__
 for every repository, listing issues with this label.
 
-Adding Topic Tags to a Lesson Repository
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Adding Topic Tags to a Lesson Repository
 
-`Lessons under community development in the Carpentries
-Incubator <https://carpentries.org/community-lessons/>`__ are listed on
+Lessons under community development in the [Carpentries
+Incubator](https://carpentries.org/community-lessons/) are listed on
 The Carpentries website, based on metadata describing the lesson. This
 metadata is added in the form of topic tags on the lesson repository.
 These topic tags should be set as soon as possible after the lesson has
@@ -236,29 +214,27 @@ repository should have.
 
 
 Categories marked with an asterisk (\*) are required in order for a
-lesson to appear and be appropriately sorted on the `Community Developed
-Lessons page <https://carpentries.org/community-lessons/>`_.
+lesson to appear and be appropriately sorted on the [Community Developed
+Lessons page](https://carpentries.org/community-lessons/).
 
 The Curriculum Team will support you in setting appropriate topic tags
 for your lesson. To help ensure consistency across all lesson
 repositories developed by The Carpentries community, please refer to
-this `listing of topic tags currently in
-use <https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing>`__
+this [listing of topic tags currently in
+use](https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing)
 in The Carpentries Incubator, and re-use these values where appropriate,
 creating new topic tags where no pre-existing label exists for your
 lesson.
 
-How to Organise a Lesson Development Sprint
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### How to Organise a Lesson Development Sprint
 
 Many Lesson Developers find it helpful to organise a dedicated event to
 make progress and enhance collaboration on their lesson projects. The
-Curriculum Development Handbook includes `a set of recommendations for
-how to organise an effective and inclusive lesson development sprint
-event <https://cdh.carpentries.org/lesson-sprint-recommendations.html>`__.
+Curriculum Development Handbook includes a set of recommendations for
+[how to organise an effective and inclusive lesson development sprint
+event](https://cdh.carpentries.org/lesson-sprint-recommendations.html).
 
-Promoting Your Project in The Incubator Lesson Spotlight
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Promoting Your Project in The Incubator Lesson Spotlight
 
 The Incubator Lesson Spotlight is a regular feature in The Carpentries
 blog and newsletter, highlighting a lesson currently under community
@@ -267,8 +243,8 @@ visibility of that lesson among the broader community, and to encourage
 community members to contribute to the further development of that
 lesson.
 
-Any lesson in `The Carpentries
-Incubator <https://github.com/carpentries-incubator/>`__ is eligible to
+Any lesson in [The Carpentries
+Incubator](https://github.com/carpentries-incubator/) is eligible to
 be included in the series, regardless of the stage of development that
 lesson is currently in. It is a good way for lessons in the early stages
 of development to attract new collaborators, and for those in later
@@ -278,29 +254,27 @@ series, follow the steps below.
 
 1. Think about how you can prepare your lesson for new contributors
    before the feature is published. This might mean labelling existing
-   issues (e.g. to appear on `the Help Wanted
-   page <https://carpentries.org/help-wanted-issues/>`__) or creating
+   issues (e.g. to appear on [the Help Wanted
+   page](https://carpentries.org/help-wanted-issues/)) or creating
    new ones, making sure that your CONTRIBUTING.md is up-to-date, and/or
    planning publication of the Spotlight feature to fit with a
    relatively quiet period in your schedule so that you can respond
    promptly to any new issues and pull requests.
-2. Fill in `the Incubator Lesson Spotlight content submission
-   form <https://docs.google.com/forms/d/e/1FAIpQLScJimGMtzqAFE-Tii-LvbfGZqtKj0OC4ken7_Qdlta8uZXAUA/viewform>`__,
+2. Fill in the [Incubator Lesson Spotlight content submission
+   form](https://docs.google.com/forms/d/e/1FAIpQLScJimGMtzqAFE-Tii-LvbfGZqtKj0OC4ken7_Qdlta8uZXAUA/viewform),
    providing details of the lesson to be included in the feature. It may
    be beneficial to collaborate on this content with other developers
    working on the lesson. The Carpentries Core Team will use the content
-   provided in the form to create a post for `The Carpentries
-   blog <https://carpentries.org/blog/>`__ and an item for
-   the\ `Carpentries Clippings
-   newsletter <https://carpentries.org/newsletter/>`__.
+   provided in the form to create a post for [The Carpentries
+   blog](https://carpentries.org/blog/) and an item for
+   the [Carpentries Clippings newsletter](https://carpentries.org/newsletter/).
 3. When the blog post has been drafted, a pull request will be opened to
    add that post to the website. You will be tagged for an (optional)
    review of this pull request before it is published. To review the
    blog post, read through the post content and comment on the issue
    thread to request any changes to the feature.
 
-Submitting a Lesson to The Carpentries Lab
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Submitting a Lesson to The Carpentries Lab
 
 The Carpentries Lab hosts community-developed lessons that have been
 peer reviewed and can be relied upon by Instructors to meet a high
@@ -311,15 +285,14 @@ collection.
 To submit a lesson for peer review in The Carpentries Lab, follow these
 steps:
 
-1. Check `the eligibility criteria for lessons to be reviewed in the
-   Lab <https://github.com/carpentries-lab/reviews#what-makes-a-lesson-a-good-candidate-for-the-carpentries-lab>`__.
-2. `Open a new issue on the Reviews
-   repository <https://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+>`__
+1. Check the [eligibility criteria for lessons to be reviewed in the
+   Lab](https://github.com/carpentries-lab/reviews#what-makes-a-lesson-a-good-candidate-for-the-carpentries-lab).
+2. Open a new issue on the [Reviews
+   repository]h(ttps://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+)
    and answer the questions in the issue template to tell the Editors
    about the lesson.
 
-Piloting a Lesson
-~~~~~~~~~~~~~~~~~
+### Piloting a Lesson
 
 Teaching a lesson for the first time is very rewarding, but the
 experience of the Instructors and learners also identifies opportunities
@@ -332,8 +305,7 @@ to polish content and make the lesson more reusable by other Instructors
 (e.g. by recording accurate timings for episodes and exercises,
 expanding Instructor Notes, etc.).
 
-Alpha and Beta Pilots
-^^^^^^^^^^^^^^^^^^^^^
+#### Alpha and Beta Pilots
 
 The lesson development process includes pilot workshops at two different
 stages, which we refer to as *alpha* and *beta* pilots. Alpha pilots are
@@ -347,14 +319,12 @@ it and provide feedback.
 
 Information about these pilots, and the requirements for piloting
 official Carpentries lessons, can be found in the `Lesson Life Cycle
-chapter of The Carpentries Curriculum Development
-Handbook <https://cdh.carpentries.org/the-lesson-life-cycle.html>`__.
+chapter of [The Carpentries Curriculum Development
+Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html).
 
-Information for Lesson Developers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Information for Lesson Developers
 
-Finding Hosts for Beta Pilots
-'''''''''''''''''''''''''''''
+##### Finding Hosts for Beta Pilots
 
 If you are developing a new official Carpentries lesson - a lesson
 developed based on prior agreement with The Carpentries, and is intended
@@ -363,26 +333,24 @@ workshops - the Curriculum Team will help you find hosts and Instructors
 for pilot workshops.
 
 If you are developing a lesson in The Carpentries Incubator, you can
-recruit pilot hosts by putting out a call via `the discuss TopicBox
-list <https://carpentries.topicbox.com/groups/discuss>`__, `the general
-channel on The Carpentries Slack
-workspace <https://carpentries.org/connect/>`__, `by publishing a post
-on our
-blog <https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html>`__,
+recruit pilot hosts by putting out a call via the discuss[ TopicBox
+list](https://carpentries.topicbox.com/groups/discuss), the general
+channel on [The Carpentries Slack
+workspace](https://carpentries.org/connect/), by publishing a [post
+on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html),
 and/or by any other communications channel that you think appropriate
 (e.g. the mailing list of a specific community likely to be interested
-in the lesson topic). You may find this `template blog
-post <https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing>`__
-and/or this `template email
-message <https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing>`__
+in the lesson topic). You may find this [template blog
+post](https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing)
+and/or this [template email
+message](https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing)
 helpful starting points. If after taking these steps, you need help
 finding hosts to pilot your lesson, or if you have any questions about
 the lesson pilot process for lessons in The Carpentries Incubator, you
-can contact the `Incubator administrator
-team <mailto:incubator@carpentries.org>`__.
+can [contact the Incubator administrator
+team](mailto:incubator@carpentries.org).
 
-Collecting Feedback on the Lesson
-'''''''''''''''''''''''''''''''''
+##### Collecting Feedback on the Lesson
 
 Feedback from learners will be a valuable source of information about
 and suggestions for how your lesson could be further improved after the
@@ -392,27 +360,25 @@ send out before/after a pilot workshop. Although surveys for pilot
 workshops will frequently include questions that are specific to the
 particular lesson being piloted, there are some standard feedback
 questions that can be asked after a pilot to assess the design and flow
-of the lesson. This `template post-pilot workshop
-survey <https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview>`__
+of the lesson. This [template post-pilot workshop
+survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
 can be copied and adapted to your lesson, and shared with learners in
 place of the standard post-workshop survey.
 
 It is also important to gather information about the lesson while it is
-being taught. Check `the Lesson Life Cycle chapter of The Carpentries
+being taught. Check the Lesson Life Cycle chapter of[ The Carpentries
 Curriculum Development
-Handbook <https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage>`__
+Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage)
 for a list of things to take note of during the pilot workshop. We
 recommend assigning a specific person or people to keep track of these
 points (e.g. an Instructor or Helper). You may find it helpful to make a
-copy of `the pilot observation notes
-template <https://codimd.carpentries.org/lesson-pilot-observation-notes-template>`__
+copy of the [pilot observation notes
+template](https://codimd.carpentries.org/lesson-pilot-observation-notes-template)
 to use during the workshop.
 
-Information for Hosts
-^^^^^^^^^^^^^^^^^^^^^
+#### Information for Hosts
 
-Recruiting Instructors for Beta Pilots
-''''''''''''''''''''''''''''''''''''''
+##### Recruiting Instructors for Beta Pilots
 
 If you are hosting a pilot of a new official Carpentries lesson - a
 lesson developed based on prior agreement with The Carpentries, and
@@ -427,53 +393,49 @@ Instructors for pilot workshops yourself. Often, hosts are able to
 recruit certified Instructors from their local community with relevant
 knowledge of the lesson topic, but in some cases this will not be
 possible. If you wish to recruit Instructors for a pilot workshop, try
-putting a call out on `local/regional community mailing
-lists <https://carpentries.topicbox.com/groups>`__, any relevant
-channels on `The Carpentries Slack
-workspace <https://carpentries.org/connect/>`__ (the lesson authors may
-be able to direct you to these), and/or `by publishing a post on our
-blog <https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html>`__.
+putting a call out on [local/regional community mailing
+lists](https://carpentries.topicbox.com/groups), any relevant
+channels on [The Carpentries Slack
+workspace](https://carpentries.org/connect/) (the lesson authors may
+be able to direct you to these), and/or by [publishing a post on our
+blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
 Please do not post calls for Instructors to the general or instructors
 channel on Slack, or the discuss and instructors lists on TopicBox. Any
 messages to recruit Instructors will be removed from those channels. If
 after taking these steps, you find that you need help finding
-Instructors for your lesson pilot, you can email the `Incubator
-administrator team <mailto:incubator@carpentries.org>`__ for assistance.
+Instructors for your lesson pilot, you can email the [Incubator
+administrator team](mailto:incubator@carpentries.org) for assistance.
 
-Creating a Pilot Workshop Webpage
-'''''''''''''''''''''''''''''''''
+##### Creating a Pilot Workshop Webpage
 
-`The Carpentries workshop webpage
-template <https://github.com/carpentries/workshop-template>`__ supports
-the creation of webpages for pilot workshops. `The Customisation page of
-the template
-documentation <https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml>`__
+The Carpentries [workshop webpage
+template](https://github.com/carpentries/workshop-template) supports
+the creation of webpages for pilot workshops. [The Customisation page of
+the template documentation](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml)
 has instructions on how to configure the webpage for a pilot workshop.
 
 If you are piloting a new official Carpentries lesson - a lesson
 developed based on prior agreement with The Carpentries, and which is
 intended to become another lesson/curriculum offered in
-centrally-organised workshops - please `register your pilot as a
-Self-Organised
-Workshop <amy_workshop_request_>`_. If you
+centrally-organised workshops - please register your pilot as a
+[Self-Organised Workshop](#). If you
 do not find the lesson/curriculum being piloted listed as one of the
-choices on that form, please contact `The Carpentries Core
-Team <mailto:team@carpentries.org>`__.
+choices on that form, please contact [The Carpentries Core
+Team](mailto:team@carpentries.org).
 
 For workshops teaching lessons in The Carpentries Incubator, you should
 create a workshop webpage but should not submit the workshop details to
 The Carpentries team via the form linked above. Instead, if you want to
 tell the community about your event you can do so by filling in the form
-under *Workshops* on `The Incubator
-homepage <https://carpentries-incubator.org/>`__. Workshops submitted
+under *Workshops* on [The Incubator
+homepage](https://carpentries-incubator.org/). Workshops submitted
 there will be processed by the Curriculum Team and will be listed in the
 table on that page.
 
-Resources
----------
+## Resources
 
-`Introduction to The Carpentries Workbench <https://carpentries.github.io/sandpaper-docs/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
 
 Documentation for The Carpentries Workbench, open source infrastructure
 for lesson websites. The documentation explains how to install the
@@ -482,56 +444,53 @@ on their own computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
 
-`Curriculum Development Handbook <https://cdh.carpentries.org/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Curriculum Development Handbook](https://cdh.carpentries.org/)
 
 A guide to the lesson design process recommended by The Carpentries. The
 CDH provides details of the curriculum structure used by our Lesson
-Programs, the vocabulary we use to describe `the life cycle stages of
+Programs, the vocabulary we use to describe the [life cycle stages of
 the
-lesson <https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle>`__,
+lesson](https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle),
 and the steps we encourage Lesson Developers to take through those
 stages. **Note: the Curriculum Team is in the process of replacing the
-content of the CDH with this handbook and**\ `the Collaborative Lesson
+content of the CDH with this handbook and the [Collaborative Lesson
 Development Training
-curriculum <https://carpentries.github.io/lesson-development-training/>`__\ **,
-and it is no longer actively updated.**
+curriculum](https://carpentries.github.io/lesson-development-training/),
+and it is no longer actively updated.
 
-`Collaborative Lesson Development Training Curriculum <https://carpentries.github.io/lesson-development-training/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
+
 
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
 their own time.
 
-`Pilot Workshop Feedback Survey Template <https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Pilot Workshop Feedback Survey Template](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
 
 The standard Carpentries pre- and post-workshop surveys do not support
 lesson pilots so you will need to create your own surveys to send out
 before/after a pilot workshop. Although surveys for pilot workshops will
 frequently include questions that are specific to the particular lesson
 being piloted, there are some standard feedback questions that can be
-asked after a pilot to assess the design and flow of the lesson. `This
-template post-pilot workshop
-survey <https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview>`__
+asked after a pilot to assess the design and flow of the lesson. This
+[template post-pilot workshop
+survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
 can be copied and adapted to suit the needs of your lesson, and shared
 with learners in place of the standard post-workshop survey.
 
-Beta Announcement Templates
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Beta Announcement Templates
 
-A `template beta announcement blog
-post <https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing>`__
-and `template beta announcement email
-message <https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing>`__
+
+A [template beta announcement blog
+post](https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing)
+and [template beta announcement email
+message](https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing)
 to publicise the beta version of a lesson. These can be used to call for
 community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
-FAQ
----
+## FAQ
 
 **Question 1**
 
@@ -542,13 +501,12 @@ Response 1
 Response 2
 
 
-About This Handbook
--------------------
+## About This Handbook
 
 This handbook is designed to support members of The Carpentries
 community who are developing new lessons in The Carpentries Incubator.
 It is maintained by The Carpentries Curriculum Team. If you believe
 anything needs to be added or updated here, or if you would like to
-provide feedback on the content, please email the `Curriculum
-Team <mailto:curriculum@carpentries.org>`__, or open an issue on `the
-source repository of this handbook <URL%20of%20handbook%20repo>`__.
+provide feedback on the content, please email the [Curriculum
+Team](mailto:curriculum@carpentries.org), or open an issue on the
+[source repository of this handbook](#).

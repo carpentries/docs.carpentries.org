@@ -3,55 +3,7 @@
 
 -------------------------------------------
 
-Welcome to The Carpentries Handbook! Here, you will find a collection of information with everything you need to know about our organisation and how to engage. Get started by selecting an option from the navigation bar, clicking on the table of contents, typing a keyword into the search engine, or selecting a response to the question “What would you like to do today?” There are many ways to get you where you want to go.
-
-
-What would you like to do today?
------------------------------------
-
-Select one of the options or read below for more information.  We can decide what we want these 4 buttons to do.
-
-.. grid:: 1 2 2 2
-    :gutter: 2
-
-    .. grid-item-card::
-
-        .. button-ref:: pages/onboarding_offboarding
-            :class: btn-outline-primary
-            :click-parent:
-            :expand:
-
-            Onboard or Offboard
-
-    .. grid-item-card::
-
-        .. button-ref:: pages/learn_how
-            :class: btn-outline-primary
-            :click-parent:
-            :expand:
-
-            Learn how to...
-
-    .. grid-item-card::
-
-        .. button-ref:: pages/resources
-            :class: btn-outline-primary
-            :click-parent:
-            :expand:
-
-            Find a Resource
-
-    .. grid-item-card::
-
-        .. button-ref:: pages/connect
-            :class: btn-outline-primary
-            :click-parent:
-            :expand:
-
-            Connect with others
-
-
-
+Welcome to The Carpentries Handbook! Here, you will find a collection of information with everything you need to know about our organisation and how to engage. 
 
 Resources
 ----------------------
