@@ -427,7 +427,7 @@ to certify your trainees.
 ##### How to Request a Self-Organised Instructor Training Event
 
 If your event meets the requirements noted above, please use [this
-google form to submit your request](https://forms.gle/WQGh5GVwhCBaY7xk6). For questions, [email the Instructor Training Team](mailto:instructor.training@carpentries.org).
+google form to submit your request](https://forms.gle/WQGh5GVwhCBaY7xk6). For questions, {{'[email the Instructor Training Team](mailto:{})'.format(instructor_training_email)}}.
 
 ### Teaching Demonstrations
 
