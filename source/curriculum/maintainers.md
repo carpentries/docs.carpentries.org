@@ -1,5 +1,4 @@
-Maintainers Handbook
-====================
+# Maintainers Handbook
 
 The Carpentries Maintainers work with the community to make sure that
 lessons stay up-to-date, accurate, functional and cohesive. Maintainers
@@ -10,8 +9,7 @@ welcoming and supportive of contributions from all members of the
 community. This community of practice is a great place to learn to
 collaborate effectively in Git and GitHub.
 
-Roles and Responsibilities
---------------------------
+## Roles and Responsibilities
 
 The Carpentries teaches 400–600 workshops each year, meaning our lesson
 materials are being used practically every day for synchronous, guided
@@ -85,8 +83,8 @@ embody The Carpentries philosophy, by:
    -  Keep language motivating.
    -  Emphasise the importance of continued learning and improvement.
 
-Onboarding
-----------
+## Onboarding
+
 
 New Maintainers go through an onboarding process, led by a member of The
 Carpentries Curriculum Team and the Maintainer Community Lead.
@@ -98,8 +96,7 @@ The curriculum for onboarding new Maintainers is available as a
 `Maintainer Onboarding
 Lesson <https://carpentries.github.io/maintainer-onboarding/>`__.
 
-Offboarding
------------
+## Offboarding
 
 A yearly email with a one-question survey will be sent to Maintainers in
 mid-to-late January. If the Maintainer responds “yes” to this survey,
@@ -114,8 +111,7 @@ more detailed information. If a Maintainer would like to step away from
 the role outside this schedule, they should inform the Maintainer
 Community Lead and the other Maintainers on their lesson(s).
 
-Communication and Collaboration Spaces
---------------------------------------
+## Communication and Collaboration Spaces
 
 -  Slack:
 
@@ -146,8 +142,7 @@ Communication and Collaboration Spaces
       `maintainer-resources
       repository <https://github.com/carpentries/maintainer-resources>`__.
 
-Community Calendar
-~~~~~~~~~~~~~~~~~~
+### Community Calendar
 
 Once scheduled, all Maintainer Community Calls are listed on our
 `Community
@@ -155,8 +150,7 @@ Calendar <https://carpentries.org/community/#community-events>`__. You
 can add relevant events to your personal calendar from there by clicking
 on the event you would like to attend.
 
-Collaborative Notes
-~~~~~~~~~~~~~~~~~~~
+### Collaborative Notes
 
 Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
@@ -167,8 +161,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
    information, connection details, and notes taken from monthly
    coworking sessions (CodiMD).
 
-GitHub
-~~~~~~
+### GitHub
 
 -  `Maintainer
    Resources <https://github.com/carpentries/maintainer-resources>`__ a
@@ -179,11 +172,9 @@ GitHub
    for comment for technology changes and other issues affecting lesson
    Maintainers.
 
-Google Documents
-~~~~~~~~~~~~~~~~
+### Google Documents
 
-Slack
-~~~~~
+### Slack
 
 `Join <https://swc-slack-invite.herokuapp.com/>`__ the Carpentries Slack
 workspace. To follow conversations relevant to this role, you should
@@ -205,8 +196,7 @@ join the following channels:
 If you are new to Slack, please check out our `Slack Quick Start
 Guide <https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide>`__.
 
-TopicBox
-~~~~~~~~
+### TopicBox
 
 You can access The Carpentries mailing lists from
 `TopicBox <https://carpentries.topicbox.com/latest>`__. Below is a list
@@ -223,11 +213,9 @@ you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
 those mailing lists requiring administrator approval).
 
-Step-by-Step Guides
--------------------
+## Step-by-Step Guides
 
-Using Issue Labels to Promote Collaboration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Using Issue Labels to Promote Collaboration
 
 GitHub allows the Maintainers of a repository to add contextual
 information to Issues and Pull Requests in the form of labels. Two
@@ -257,8 +245,7 @@ extensively that GitHub provides a page at\ `[repository
 URL]/contribute <https://github.com/swcarpentry/r-novice-gapminder/contribute>`__
 for every repository, listing issues with this label.
 
-Adding Topic Tags to a Lesson Repository
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Adding Topic Tags to a Lesson Repository
 
 `Official Lessons in The Carpentries Lesson
 Programs <https://carpentries.org>`__
@@ -295,8 +282,7 @@ of topic tags currently in use in The Carpentries Incubator, and re-use
 these values where appropriate, creating new topic tags where no
 pre-existing label exists for your lesson.
 
-Informing Community Members about a Period of Absence
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Informing Community Members about a Period of Absence
 
 If you plan to temporarily step away from the role of Maintainer,
 e.g. parental leave, exam season, etc, it can be helpful to your fellow
@@ -332,11 +318,10 @@ absence/unavailability:
    8. If you need help finding contact information for any of your
       fellow Maintainers, contact the Maintainer Community Lead.
 
-Resources
----------
+## Resources
 
-`Maintainer Onboarding Curriculum <https://carpentries.github.io/maintainer-onboarding/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
+
 
 The curriculum used at Maintainer Onboarding. This resource can be a
 helpful reference for Maintainers after they have completed onboarding.
@@ -347,8 +332,7 @@ requests <https://carpentries.github.io/maintainer-onboarding/03-communicate-mai
 and plenty of other useful information you might want to return to after
 onboarding.
 
-`Introduction to The Carpentries Workbench <https://carpentries.github.io/sandpaper-docs/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
 
 Documentation for The Carpentries Workbench, open source infrastructure
 for lesson websites. The documentation explains how to install the
@@ -357,8 +341,7 @@ on their own computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
 
-`Curriculum Advisory Committee Consultation Rubric <https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Curriculum Advisory Committee Consultation Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html)
 
 This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
@@ -366,8 +349,7 @@ Committees (CACs). It can be used by Maintainers to help determine
 whether to notify or ask the relevant CAC about a proposed change to
 their lesson.
 
-`Curriculum Development Handbook <https://cdh.carpentries.org/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### [Curriculum Development Handbook](https://cdh.carpentries.org/)
 
 A guide to the lesson design process recommended by The Carpentries. The
 CDH provides details of the curriculum structure used by our Lesson
@@ -381,16 +363,14 @@ Development Training
 curriculum <https://carpentries.github.io/lesson-development-training/>`__\ **,
 and it is no longer actively updated.**
 
-`Collaborative Lesson Development Training Curriculum <https://carpentries.github.io/lesson-development-training/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
 
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
 their own time.
 
-FAQ
----
+## FAQ
 
 List of frequently asked questions relevant to the content in the
 handbook.
@@ -403,14 +383,13 @@ Response 1
 
 Response 2
 
-About This Handbook
--------------------
+## About This Handbook
 
 This handbook is designed to support Maintainers - members of The
 Carpentries community who maintain one or more lesson repositories for
 our lesson programs. It is maintained by The Carpentries Curriculum
 Team. If you believe anything needs to be added or updated here, or if
 you would like to provide feedback on the content, please send an
-message to the `Curriculum Team <mailto:curriculum@carpentries.org>`__
-or open an issue on `the source repository of this
-handbook <https://github.com/carpentries/handbook-beta>`__.
+message to the [Curriculum Team](mailto:curriculum@carpentries.org)
+or open an issue on [the source repository of this
+handbook](https://github.com/carpentries/handbook-beta).
