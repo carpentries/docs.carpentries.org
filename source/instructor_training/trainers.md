@@ -420,7 +420,7 @@ of your event prior to the quarterly scheduling deadlines.
 
 **If you do not use The Carpentries’ Eventbrite template**, please
 consider adding a prompt that directs registrants to complete our
-[profile creation form](https://amy.carpentries.org/forms/request_training/) in your
+{{'[profile creation form]({}/forms/request_training/)'.format(amy_link)}} in your
 own registration system. This will ensure that we have the data we need
 to certify your trainees.
 
