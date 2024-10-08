@@ -2,16 +2,11 @@
 
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries
 Instructor Training events, the first step in certification for
-Carpentries Instructors. Trainers also support [Instructor
-certification](https://carpentries.github.io/instructor-training/checkout/index.html),
+Carpentries Instructors. Trainers also support 
+{{'[Instructor certification]({}/checkout)'.format(instructor_training_curriculum)}},
 also known as Checkout, evaluating trainees’ teaching demonstrations.
 
-The Trainer community plays a leading role in The Carpentries,
-maintaining our flagship [Instructor Training
-Curriculum](https://carpentries.github.io/instructor-training/),
-supporting policy development around training, and bringing Carpentries
-instructional practices to leadership roles across our local and global
-communities.
+The Trainer community plays a leading role in The Carpentries, maintaining our flagship {{'[Instructor Training Curriculum]({})'.format(instructor_training_curriculum)}}, supporting policy development around training, and bringing Carpentries instructional practices to leadership roles across our local and global communities.
 
 Trainers join a global community of skilled professionals with a passion
 for evidence-based teaching and a shared goal of expanding access to
@@ -121,10 +116,9 @@ certification](https://carpentries.org/become-instructor/), with all
 steps completed or scheduled prior to badging.
 
 **Total time estimate** for previously certified Instructors to become
-certified Instructor Trainers: 35 hours (minimum) over a 3 month period
+certified Instructor Trainers: 35 hours (minimum) over a 3 month period.
 
-For more information, [The Carpentries Trainer Training
-Curriculum](https://carpentries.github.io/trainer-training/).
+For more information, see the {{'[Instructor Training Curriculum]({})'.format(instructor_training_curriculum)}}.
 
 ### Active Status Renewal Process
 
@@ -365,7 +359,8 @@ support events, using instructions below.
 -  When signups open, Trainers will receive an email via Topicbox asking them to share their availability for the upcoming quarter in a Google form.
 -  After the response deadline has passed, a Carpentries Core Team member will create a draft schedule and confirm events with individual Trainers.
 -  We ask that Trainers keep available dates open until they have received confirmation of a training date or notification that they have not been scheduled for the quarter.
--  Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/index.html).
+-  Once all events have been confirmed, the schedule is posted to the 
+{{'[Instructor Training Calendar]({}/training_calendar)'.format(instructor_training_curriculum)}}
 
 In rare instances events may be cancelled due to low enrolment. If this happens, Trainers will be notified of potential cancellation two weeks before the event.
 
@@ -380,7 +375,7 @@ If you need to cancel after signing up to teach an Instructor Training event, em
 
 ##### Preparation and Instruction
 
-Guidelines on preparing to teach an Instructor Training Event can be found in the Trainer Notes section of the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/guide/index.html).
+Guidelines on preparing to teach an Instructor Training Event can be found in the Trainer Notes section of the {{'[Instructor Training Curriculum]({}/instructor/instructor-notes.html)'.format(instructor_training_curriculum)}}.
 
 ##### Tracking Training Event Attendance
 
