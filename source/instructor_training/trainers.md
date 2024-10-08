@@ -1,6 +1,5 @@
 # Trainers Handbook
 
-
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries
 Instructor Training events, the first step in certification for
 Carpentries Instructors. Trainers also support [Instructor
@@ -411,7 +410,7 @@ Carpentries infrastructure. This includes:
 
 -  **Eventbrite registration**, using our event template. This template
    includes a prompt for trainees to fill out the Profile Creation Form
-   in [AMY](#), an essential step to tracking their progress through
+   in {{'[AMY]({})'.format(amy_link)}}, an essential step to tracking their progress through
    checkout. Trainers will have access to registration data and can make
    changes to the Eventbrite page as needed.
 -  **Carpentries Zoom** room to use for virtual events
