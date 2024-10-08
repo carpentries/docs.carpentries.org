@@ -1,5 +1,5 @@
-Trainers Handbook
-=================
+# Trainers Handbook
+
 
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries
 Instructor Training events, the first step in certification for
@@ -32,8 +32,8 @@ single local community, but these are allowed in certain circumstances.
 More information on `Self-Organise a Private Instructor Training
 Event <#self-organise-a-private-instructor-training-event>`__.
 
-Roles and Responsibilities
---------------------------
+## Roles and Responsibilities
+
 
 Trainers teach Instructor Training events, host teaching demonstrations,
 and attend Trainer community meetings. In order to remain active, we ask
@@ -55,14 +55,11 @@ Trainers whose service is included in a member agreement may have
 additional requirements – please refer to your member agreement for
 details.
 
-Onboarding
-----------
+## Onboarding
 
-Trainer Training Program
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Trainer Training Program
 
-Admission
-^^^^^^^^^
+#### Admission
 
 The Trainer community periodically accepts new members via application.
 
@@ -91,8 +88,8 @@ The Trainer community periodically accepts new members via application.
    the `Instructor Training
    Team <mailto:instructor.training@carpentries.org>`__
 
-Training and Initial Certification
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Training and Initial Certification
+
 
 In order to be certified as an Instructor Trainer, all trainees must:
 
@@ -133,13 +130,12 @@ certified Instructor Trainers: 35 hours (minimum) over a 3 month period
 For more information, `The Carpentries Trainer Training
 Curriculum <https://carpentries.github.io/trainer-training/>`__.
 
-Active Status Renewal Process
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Active Status Renewal Process
+
 
 Version 1.0.1 – Approved 8 February, 2023
 
-Active status for Instructor Trainers is renewed annually in March.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Active status for Instructor Trainers is renewed annually in March.
 
 New Trainers who have not yet been certified for a full year and
 Trainers who have returned to Active status within the past year will
@@ -193,8 +189,8 @@ Alumni status at any time by contacting `Instructor
 Training <mailto:instructor-training@carpentries.org>`__. Alumni may
 also submit re-activation requests to the same address.
 
-Trainer Alumni will not be permitted to:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Trainer Alumni will not be permitted to:
+
 
 -  Teach Carpentries Instructor Training workshops
 
@@ -206,8 +202,7 @@ Exceptions may be made at the discretion of The Carpentries Core Team.
 To request permission to teach or host a demo, contact
 team@carpentries.org.
 
-Trainer Alumni may select to:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Trainer Alumni may select to:
 
 -  Continue to receive Topicbox Instructor Training emails & participate
    in conversations
@@ -229,11 +224,10 @@ Trainer Alumni may select to:
    re-introduction to the Trainer community via meetings or other
    arrangements.
 
-Offboarding
------------
+## Offboarding
 
-Trainer Alumni
-~~~~~~~~~~~~~~
+### Trainer Alumni
+
 
 Active Trainers may elect to become inactive at any time if they expect
 to be unavailable to participate in the Trainer Roles and
@@ -255,11 +249,10 @@ Trainer Alumni may elect to:
 -  Remain in the Slack private Trainers channel
 -  Attend Trainer meetings
 
-Communication and Collaboration Spaces
---------------------------------------
+## Communication and Collaboration Spaces
 
-Community Calendar
-~~~~~~~~~~~~~~~~~~
+
+### Community Calendar
 
 All regularly scheduled Trainer community meetings and teaching
 demonstrations hosted by Trainers are listed on The Carpentries
@@ -284,8 +277,8 @@ Trainer.
 -  `Pad-of-pads <https://pad.carpentries.org/pad-of-pads>`__: A list of
    our most commonly used Etherpads and other resources.
 
-GitHub Repositories
-~~~~~~~~~~~~~~~~~~~
+### GitHub Repositories
+
 
 -  `carpentries/instructor-training <https://github.com/carpentries/instructor-training>`__:
    the Instructor Training Curriculum. Specific suggestions or
@@ -304,8 +297,8 @@ GitHub Repositories
    repository that has been used to test changes to Instructor Training
    course material.
 
-Slack
-~~~~~
+### Slack
+
 
 `Join <https://swc-slack-invite.herokuapp.com/>`__ The Carpentries Slack
 workspace. To follow conversations relevant to this role, you should
@@ -328,8 +321,8 @@ Trainers may also wish to join:
 New to Slack? Check out our `Slack Quick Start
 Guide <https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide>`__!
 
-TopicBox
-~~~~~~~~
+### TopicBox
+
 
 You can access The Carpentries mailing lists from
 `TopicBox <https://carpentries.topicbox.com/latest>`__. Below is a list
@@ -354,8 +347,8 @@ done this, you can scroll through the list of groups and select “Join
 the Conversation” (for open mailing) or “Request to Join” (for those
 mailing lists requiring administrator approval).
 
-Meetings
-~~~~~~~~
+### Meetings
+
 
 Trainer meetings are scheduled at two time slots, twice monthly. Each
 month includes a primary, “discussion” meeting, where Trainers are
@@ -374,11 +367,9 @@ Etherpad <https://pad.carpentries.org/trainers>`__ and `archived in the
 Trainers repository on
 GitHub <https://github.com/carpentries/trainers/tree/main/minutes>`__.
 
-Step-by-Step Guides
--------------------
+## Step-by-Step Guides
 
-Quarterly Scheduling Calendar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Quarterly Scheduling Calendar
 
 Instructor Training events and Teaching Demonstrations are scheduled on
 a quarterly basis. Refer to this schedule for planning and signing up to
@@ -389,11 +380,10 @@ support events, using instructions below.
    :file: ../_includes/calendar.csv
    :header-rows: 1
 
-Training events
-~~~~~~~~~~~~~~~
+### Training events
 
-Sign up to Teach an Instructor Training Event
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#### Sign up to Teach an Instructor Training Event
 
 -  When signups open, Trainers will receive an email via Topicbox asking
    them to share their availability for the upcoming quarter in a Google
@@ -412,8 +402,8 @@ In rare instances events may be cancelled due to low enrolment. If this
 happens, Trainers will be notified of potential cancellation two weeks
 before the event.
 
-Cancel a Teaching Signup
-^^^^^^^^^^^^^^^^^^^^^^^^
+#### Cancel a Teaching Signup
+
 
 Once events have been scheduled, any Trainer who needs to cancel will
 normally be replaced by another Trainer from the community or The
@@ -427,18 +417,16 @@ For last minute emergencies (e.g. illness on the day of an event),
 additionally consider using Slack to the #trainers channel, tagging
 members of the `Core Team <https://carpentries.org/team/>`__.
 
-Teach Instructor Training
-^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Teach Instructor Training
 
-Preparation and Instruction
-'''''''''''''''''''''''''''
+
+##### Preparation and Instruction
 
 Guidelines on preparing to teach an Instructor Training Event can be
 found in the `Trainer Notes section of the Instructor Training
 Curriculum <https://carpentries.github.io/instructor-training/guide/index.html>`__
 
-Tracking Training Event Attendance
-''''''''''''''''''''''''''''''''''
+##### Tracking Training Event Attendance
 
 During an Instructor Training event, Trainers are asked to record
 attendance for all trainees using `a spreadsheet similar to
@@ -451,11 +439,9 @@ sheet if a trainee is absent for more than 1 hour on any day. Accurate
 records of time missed will allow the Core Team to determine appropriate
 makeup options for trainees who wish to complete checkout.
 
-Self-Organise a Private Instructor Training Event
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Self-Organise a Private Instructor Training Event
 
-Requirements
-''''''''''''
+##### Requirements
 
 In limited circumstances, Trainers may self-organise an Instructor
 Training event for a specific group. This requires:
@@ -470,8 +456,7 @@ Training event for a specific group. This requires:
 \*To inquire about group sponsorship, contact the `Instructor Training
 Team <mailto:instructor.training@carpentries.org>`__.
 
-Use The Carpentries’ infrastructure
-'''''''''''''''''''''''''''''''''''
+##### Use The Carpentries’ infrastructure
 
 Self-organised trainings can choose whether or not to make use of
 Carpentries infrastructure. This includes:
@@ -493,8 +478,8 @@ form <https://amy.carpentries.org/forms/request_training/>`__ in your
 own registration system. This will ensure that we have the data we need
 to certify your trainees.
 
-How to Request a Self-Organised Instructor Training Event
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+##### How to Request a Self-Organised Instructor Training Event
+
 
 If your event meets the requirements noted above, please `use this
 google form to submit your
@@ -502,11 +487,9 @@ request <https://forms.gle/WQGh5GVwhCBaY7xk6>`__. For questions, email
 the `Instructor Training
 Team <mailto:instructor.training@carpentries.org>`__.
 
-Teaching Demonstrations
-~~~~~~~~~~~~~~~~~~~~~~~
+### Teaching Demonstrations
 
-Sign up to Host a Demo
-^^^^^^^^^^^^^^^^^^^^^^
+#### Sign up to Host a Demo
 
 Signups for teaching demonstrations are normally announced with
 Instructor Training event signups, but may be opened at other times if
@@ -522,8 +505,8 @@ there is a need for additional sessions.
    Demonstrations
    Etherpad <https://pad.carpentries.org/teaching-demos>`__.
 
-Prepare for a Demo
-^^^^^^^^^^^^^^^^^^
+#### Prepare for a Demo
+
 
 -  If you would like to review an example teaching demo, there is a
    `recording of one
@@ -558,8 +541,7 @@ Prepare for a Demo
    it anyway. Be sure the start point does not require any setup or rely
    on any dependencies from prior episodes.
 
-Host a Demo
-^^^^^^^^^^^
+#### Host a Demo
 
 -  Go to the Zoom room. The link is in the
    `Etherpad <https://pad.carpentries.org/teaching-demos>`__.
@@ -601,8 +583,7 @@ Host a Demo
    notes <https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips>`__
    of the instructor training website.
 
-After a Demo: Report and Etherpad Cleanup
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### After a Demo: Report and Etherpad Cleanup
 
 -  Fill out `this form <https://forms.gle/ZusNhyhNh4rvCmxH8>`__ to
    notify The Carpentries of who passed and who did not pass.
@@ -614,8 +595,7 @@ After a Demo: Report and Etherpad Cleanup
    the teaching demo. If needed, let them know the reason they did not
    pass and asking them to retry.
 
-Cancel a Demo
-^^^^^^^^^^^^^
+#### Cancel a Demo
 
 **If no trainees have signed up:**
 
@@ -652,11 +632,9 @@ Cancel a Demo
    know that your event needs to be removed from the `Community
    Calendar <https://carpentries.org/community/#community-events>`__.
 
-Trainer Community
-~~~~~~~~~~~~~~~~~
+### Trainer Community
 
-Share lessons learned from a Training event or Demo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Share lessons learned from a Training event or Demo
 
 Sharing after teaching or hosting a demo helps everyone to think about
 their practice, learn from what you have learned, and consider ways we
@@ -688,8 +666,7 @@ Don’t remember? You’ll be surprised how much you can refresh in 5
 minutes! A quick review of your Etherpad, notes, etc. really helps to
 get ideas flowing before the meeting.
 
-Propose a Meeting Topic
-^^^^^^^^^^^^^^^^^^^^^^^
+#### Propose a Meeting Topic
 
 If you’d like to connect with others from the community on a particular
 topic, you do not need to wait for someone else to host a meeting!
@@ -715,8 +692,8 @@ Example discussion topics (always worthy of a repeat by request!):
 -  Supporting trainees in a local community
 -  Teaching demo hosting practices
 
-(Co-)Host a Trainer Meeting
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### (Co-)Host a Trainer Meeting
+
 
 To host a meeting, review the meetings that are already scheduled
 (“Upcoming Meetings” tab) and those that have yet to be scheduled
@@ -752,11 +729,10 @@ Co-host:
 -  Takes notes
 -  Assumes host role if host loses connection
 
-Resources
----------
+## Resources
 
-Community-developed Resources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Community-developed Resources
+
 
 -  `Trainers
    Folder <https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t?usp=sharing>`__:
@@ -774,11 +750,11 @@ Community-developed Resources
    community-developed resource can lighten the load of preparing for
    your teaching demonstration.
 
-Email Templates for Trainers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Email Templates for Trainers
 
-Private Events Only: Pre-Training (1 week before) Email Sent by Trainer or Member Contact to Trainees
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#### Private Events Only: Pre-Training (1 week before) Email Sent by Trainer or Member Contact to Trainees
+
 
 Note: For most events, the Core Team manages communications with
 trainees. This template is to be used for private events when Trainers
@@ -869,8 +845,8 @@ Excited for the workshop!
 
 Best, [Name]
 
-Reminder Teaching Demo
-^^^^^^^^^^^^^^^^^^^^^^
+#### Reminder Teaching Demo
+
 
 Note: There are instructions under “Preparing for a Demo”
 
@@ -909,8 +885,8 @@ checkout step is considered complete.
 
 [ sender name ]
 
-Bilingual Demo: Reminder Teaching Demo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Bilingual Demo: Reminder Teaching Demo
+
 
 Subject: Carpentries instructor training: Teaching Demo
 
@@ -946,8 +922,8 @@ Best/Saludos,
 
 [ sender name ]
 
-Trainee Invited to Repeat Teaching Demo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Trainee Invited to Repeat Teaching Demo
+
 
 Note to Trainers: Even with a template, these emails can be hard to
 compose and send! When in doubt, do not hesitate to connect with the
@@ -982,8 +958,8 @@ Best wishes,
 
 [ sender name ]
 
-Spanish: Trainee Invited to Repeat Teaching Demo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Spanish: Trainee Invited to Repeat Teaching Demo
+
 
 Nota a los Trainers: Incluso con un template, este tipo de emails son
 difíciles de redactar y enviar! Si tienes preguntas, no dudes en
@@ -1020,8 +996,7 @@ Saludos,
 
 [nombre del remitente]
 
-Trainee Passed Teaching Demo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Trainee Passed Teaching Demo
 
 Subject: Carpentries Instructor Training: Teaching Demo
 
@@ -1044,8 +1019,8 @@ Best wishes,
 
 Email Templates (Trainers: Spanish)
 
-Spanish: Trainee Did Pass Teaching Demo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Spanish: Trainee Did Pass Teaching Demo
+
 
 Subject: Formación para instructor de las Carpentries: Demostración de
 enseñanza
@@ -1070,8 +1045,8 @@ Saludos,
 
 [nombre del remitente]
 
-Teaching demo cancelled - trainees
-''''''''''''''''''''''''''''''''''
+##### Teaching demo cancelled - trainees
+
 
 Subject: Teaching demo cancelled - please reschedule
 
@@ -1091,11 +1066,7 @@ Sincerely,
 
 [Name]
 
-FAQ
----
-
-List of frequently asked questions relevant to the content in the
-handbook.
+## FAQ
 
 **Help! I’m hosting a teaching demo but I don’t have Host access on
 Zoom, so can’t enable screen sharing.**
@@ -1105,10 +1076,7 @@ also available in a message in the `Trainers Topicbox
 channel <https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code>`__.
 If you have difficulty, you can post in the #trainers channel on Slack.
 
-
-
-About This Handbook
--------------------
+## About This Handbook
 
 Please include the following information:
 
