@@ -49,7 +49,6 @@ Quick Links
     pages/learn_how
     pages/connect
     pages/coc
-    instructor_training/trainers_leadership
     curriculum/maintainers
     curriculum/lesson_developers
     curriculum/curriculum_advisors
