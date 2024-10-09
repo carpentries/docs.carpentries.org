@@ -103,9 +103,9 @@ they will remain a Maintainer for the next year. If a Maintainer replies
 “no” or does not respond within a month of receiving the survey, they
 will become an alumnus Maintainer and their permissions to their
 repository will be revoked. Active Maintainer status can be restored at
-any time by contacting the Maintainer Community Lead. `The proposal for
-yearly Maintainer check
-ins <https://github.com/carpentries/maintainer-RFCs/issues/19>`__ has
+any time by contacting the Maintainer Community Lead. 
+
+[The proposal for yearly Maintainer check ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
 more detailed information. If a Maintainer would like to step away from
 the role outside this schedule, they should inform the Maintainer
 Community Lead and the other Maintainers on their lesson(s).
@@ -114,24 +114,11 @@ Community Lead and the other Maintainers on their lesson(s).
 
 -  Slack:
 
-   -  `The invite-only #maintainers
-      channel <https://swcarpentry.slack.com/archives/C8H5LN44V>`__ on
-      The Carpentries Slack workspace is a platform for the whole
-      community to ask questions and engage in discussions around the
-      subject of lesson maintenance. The Maintainer Community Lead and
-      Curriculum Team members will also cross-post announcements
-      relevant to the community to this channel.
-   -  We recommend that Lesson Maintainers browse existing channels in
-      the Slack workspace, for any that are relevant to the topic/domain
-      of their lesson.
-   -  It can also be helpful to create a new channel for your lesson, as
-      a space for you to discuss the development process with
-      collaborators, and for community members to ask questions about
-      the lesson.
+   - {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. The Maintainer Community Lead and  Curriculum Team members will also cross-post announcements relevant to the community to this channel.
+   -  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
+   -  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
 
--  `The Maintainers mailing
-   list <https://carpentries.topicbox.com/groups/maintainers>`__ is used
-   for announcements relevant to Lesson Maintainers.
+-   {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
 -  Monthly Calls:
 
    -  The Carpentries Curriculum Team organises monthly Maintainer
