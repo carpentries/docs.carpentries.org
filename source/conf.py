@@ -182,6 +182,7 @@ myst_substitutions = {
   "etherpad": "https://pad.carpentries.org",
   "codimd": "https://codimd.carpentries.org",
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
+  "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
 
   
 }
