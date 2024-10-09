@@ -93,8 +93,7 @@ onboarding will be announced on The Carpentries blog and main
 communications channels (discuss TopicBox, general Slack channel).
 
 The curriculum for onboarding new Maintainers is available as a
-`Maintainer Onboarding
-Lesson <https://carpentries.github.io/maintainer-onboarding/>`__.
+{{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
 
 ## Offboarding
 
@@ -104,9 +103,9 @@ they will remain a Maintainer for the next year. If a Maintainer replies
 “no” or does not respond within a month of receiving the survey, they
 will become an alumnus Maintainer and their permissions to their
 repository will be revoked. Active Maintainer status can be restored at
-any time by contacting the Maintainer Community Lead. `The proposal for
-yearly Maintainer check
-ins <https://github.com/carpentries/maintainer-RFCs/issues/19>`__ has
+any time by contacting the Maintainer Community Lead. 
+
+[The proposal for yearly Maintainer check ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
 more detailed information. If a Maintainer would like to step away from
 the role outside this schedule, they should inform the Maintainer
 Community Lead and the other Maintainers on their lesson(s).
@@ -115,77 +114,46 @@ Community Lead and the other Maintainers on their lesson(s).
 
 -  Slack:
 
-   -  `The invite-only #maintainers
-      channel <https://swcarpentry.slack.com/archives/C8H5LN44V>`__ on
-      The Carpentries Slack workspace is a platform for the whole
-      community to ask questions and engage in discussions around the
-      subject of lesson maintenance. The Maintainer Community Lead and
-      Curriculum Team members will also cross-post announcements
-      relevant to the community to this channel.
-   -  We recommend that Lesson Maintainers browse existing channels in
-      the Slack workspace, for any that are relevant to the topic/domain
-      of their lesson.
-   -  It can also be helpful to create a new channel for your lesson, as
-      a space for you to discuss the development process with
-      collaborators, and for community members to ask questions about
-      the lesson.
+   - {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. The Maintainer Community Lead and  Curriculum Team members will also cross-post announcements relevant to the community to this channel.
+   -  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
+   -  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
 
--  `The Maintainers mailing
-   list <https://carpentries.topicbox.com/groups/maintainers>`__ is used
-   for announcements relevant to Lesson Maintainers.
+-   {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
 -  Monthly Calls:
 
    -  The Carpentries Curriculum Team organises monthly Maintainer
       Community Calls on the third Wednesday of the month at two times
       to allow maintainers from around the globe to join during more
       convenient hours. Minutes are recorded in the
-      `maintainer-resources
-      repository <https://github.com/carpentries/maintainer-resources>`__.
+      [maintainer-resources repository](https://github.com/carpentries/maintainer-resources).
 
 ### Community Calendar
 
 Once scheduled, all Maintainer Community Calls are listed on our
-`Community
-Calendar <https://carpentries.org/community/#community-events>`__. You
-can add relevant events to your personal calendar from there by clicking
-on the event you would like to attend.
+{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.
 
 ### Collaborative Notes
 
 Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
--  `Pad-of-pads <https://pad.carpentries.org/pad-of-pads>`__: A list of
+- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of
    our most commonly used Etherpads and other resources.
--  `Maintainer Community Call
-   Notes <https://codimd.carpentries.org/maintainers>`__: Signup
-   information, connection details, and notes taken from monthly
-   coworking sessions (CodiMD).
+- {{'[Maintainer Community Call Notes]({}/maintainers)'.format(codimd)}}: Signup information, connection details, and notes taken from monthly   coworking sessions (CodiMD).
 
 ### GitHub
 
--  `Maintainer
-   Resources <https://github.com/carpentries/maintainer-resources>`__ a
-   place to record minutes from the Maintainer Community Calls and
-   helpful tips in flight rules.
--  `Maintainer Requests for Comments
-   (RFCs) <https://github.com/carpentries/maintainer-RFCs>`__ Requests
-   for comment for technology changes and other issues affecting lesson
-   Maintainers.
+-  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips in flight rules.
+-  [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
 
 ### Google Documents
 
 ### Slack
 
-`Join <https://swc-slack-invite.herokuapp.com/>`__ the Carpentries Slack
-workspace. To follow conversations relevant to this role, you should
+
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should
 join the following channels:
 
--  `The invite-only #maintainers
-   channel <https://swcarpentry.slack.com/archives/C8H5LN44V>`__ on The
-   Carpentries Slack workspace is a platform for the whole community to
-   ask questions and engage in discussions around the subject of lesson
-   maintenance. If you are a Maintainer and do not already have access
-   to this channel, please contact the Maintainer Community Lead.
+-  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
 -  We recommend that Lesson Maintainers browse existing channels in the
    Slack workspace, for any that are relevant to the topic/domain of
    their lesson.
@@ -193,22 +161,19 @@ join the following channels:
    space for you to discuss the development process with collaborators,
    and for community members to ask questions about the lesson.
 
-If you are new to Slack, please check out our `Slack Quick Start
-Guide <https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide>`__.
+If you are new to Slack, please check out our [Slack Quick Start
+Guide](#).
 
 ### TopicBox
 
 You can access The Carpentries mailing lists from
-`TopicBox <https://carpentries.topicbox.com/latest>`__. Below is a list
+{{'[Topicbox]({}/latest)'.format(topicbox)}}. Below is a list
 of those relevant to the activities and programs covered by this
 handbook.
 
--  `The Maintainers mailing
-   list <https://carpentries.topicbox.com/groups/maintainers>`__ is used
-   for announcements relevant to Lesson Maintainers.
+- {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
 
-To join one or more Carpentries mailing lists, you will need to `create
-a login on the site <https://carpentries.topicbox.com/latest>`__. Once
+To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
 those mailing lists requiring administrator approval).
@@ -225,14 +190,12 @@ community members to contribute to its development.
 
 The **“help wanted”** label should be used to highlight issues with
 which you would welcome additional help. The Carpentries website
-includes\ `a Help Wanted
-page <https://carpentries.org/help-wanted-issues/>`__, which can
+includes {{'[a Help Wanted page]({}/lessons/help_wanted)'.format(carpentries_website)}}, which can
 automatically list every issue labelled “help wanted” on repositories
 from The Carpentries, Software Carpentry, Data Carpentry, Library
 Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
 to include issues from your lesson repository on the Help Wanted page by
-reading the\ `Information for
-Maintainers <https://carpentries.org/help-wanted-issues/#for-maintainers>`__
+reading the  {{'[information for Maintainers]({}/lessons/help_wanted#information-for-maintainers)'.format(carpentries_website)}}
 on the page itself.
 
 The **“good first issue”** label should be used to identify issues that
@@ -241,22 +204,12 @@ contribute to your lesson. The work needed to close an issue with this
 label would typically not require an extensive knowledge of the
 structure or intricacies of your lesson repository, or an expert
 understanding of the content. The “good first issue” label is used so
-extensively that GitHub provides a page at\ `[repository
-URL]/contribute <https://github.com/swcarpentry/r-novice-gapminder/contribute>`__
-for every repository, listing issues with this label.
+extensively that GitHub provides a page at `[repository
+URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/contribute>) for every repository, listing issues with this label.
 
 ### Adding Topic Tags to a Lesson Repository
 
-`Official Lessons in The Carpentries Lesson
-Programs <https://carpentries.org>`__
-are\ ` <https://carpentries.org/community-lessons/>`__\ listed on The
-Carpentries website, based on metadata describing the lesson. This
-metadata is added in the form of topic tags on the lesson repository.
-These topic tags should be set as soon as possible after the lesson has
-been created or added to the Incubator. Some are essential and taken
-from a limited set of values, while others are more flexible. The table
-below has guidance about the types and number of topic tags each lesson
-repository should have.
+{{'[Official Lessons in The Carpentries Lesson Programs]({}/lessons/)'.format(carpentries_website)}} are listed on The Carpentries website, based on metadata describing the lesson. This metadata is added in the form of topic tags on the lesson repository. These topic tags should be set as soon as possible after the lesson has been created or added to the Incubator. Some are essential and taken from a limited set of values, while others are more flexible. The table below has guidance about the types and number of topic tags each lesson repository should have.
 
 
 .. csv-table::
@@ -276,8 +229,7 @@ repository should have.
 The Curriculum Team will support you in setting appropriate topic tags
 for your lesson. To help ensure consistency across all lesson
 repositories developed by The Carpentries community, please refer
-to\ `this
-listing <https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing>`__
+to [this listing](https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing)
 of topic tags currently in use in The Carpentries Incubator, and re-use
 these values where appropriate, creating new topic tags where no
 pre-existing label exists for your lesson.
@@ -320,15 +272,15 @@ absence/unavailability:
 
 ## Resources
 
-### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
-
+### {{'[Maintainer Onboarding Curriculum]({})'.format(maintainer_onboarding)}}
 
 The curriculum used at Maintainer Onboarding. This resource can be a
 helpful reference for Maintainers after they have completed onboarding.
-It includes `tips for managing issues on a
-repository <https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors/index.html#top-ten-tips-for-managing-issues-and-prs>`__,
-guidance for `tagging the Curriculum Team on issues and pull
-requests <https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers/index.html#tagging-in-the-curriculum-team>`__,
+It includes 
+{{'[tips for managing issues on a repository]({}/02-communicate-contributors/index.html#top-ten-tips-for-managing-issues-and-prs)'.format(maintainer_onboarding)}},
+guidance for 
+{{'[tagging the Curriculum Team on issues and pull
+requests]({}/03-communicate-maintainers/index.html#tagging-in-the-curriculum-team)'.format(maintainer_onboarding)}},
 and plenty of other useful information you might want to return to after
 onboarding.
 
@@ -353,14 +305,13 @@ their lesson.
 
 A guide to the lesson design process recommended by The Carpentries. The
 CDH provides details of the curriculum structure used by our Lesson
-Programs, the vocabulary we use to describe `the life cycle stages of
-the
-lesson <https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle>`__,
+Programs, the vocabulary we use to describe the [life cycle stages of
+the lesson](https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle),
 and the steps we encourage Lesson Maintainers to take through those
 stages. **Note: the Curriculum Team is in the process of replacing the
-content of the CDH with this handbook and**\ `the Collaborative Lesson
-Development Training
-curriculum <https://carpentries.github.io/lesson-development-training/>`__\ **,
+content of the CDH with this handbook and
+the [Collaborative Lesson
+Development Training curriculum](https://carpentries.github.io/lesson-development-training/),
 and it is no longer actively updated.**
 
 [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)

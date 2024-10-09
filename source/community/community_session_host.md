@@ -5,9 +5,7 @@ Carpentries community, get to know the organisation better, learn from
 the experiences of others and share your own knowledge and experience
 with an even greater number of people.
 
-Community discussions are also an integral part of our [Instructor
-Training Certification
-Process](https://carpentries.github.io/instructor-training/checkout/),
+Community discussions are also an integral part of our {{'[Instructor Training Certification Process]({}/checkout)'.format(instructor_training_curriculum)}},
 also known as ‘Checkout’. As a Community Discussion Host, you get to
 welcome new Instructors into our global community and introduce them to
 community discussions as an ongoing resource for support and advice as
@@ -32,13 +30,11 @@ assessing the impact of our workshops globally. There are four types:
    in our organisation.
 4. **Regional Community Calls:** These calls are hosted by our local and
    regional subcommunities. A list of local and regional calls can be
-   found at the top of the [Community Discussions
-   Etherpad](https://pad.carpentries.org/community-discussions)
+   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
+
 
 **Note.** Any of these four types of Community Discussions can be
-attended to meet the requirement as part of [Instructor Training
-Certification
-(‘Checkout’)](https://carpentries.github.io/instructor-training/checkout/)
+attended to meet the requirement as part of {{'[Instructor Training Certification]({}/checkout)'.format(instructor_training_curriculum)}}.
 
 ## Roles and Responsibilities
 
@@ -63,7 +59,7 @@ responsibilities include:
    following each session you host. It is important that when you copy
    attendance into this form, you include the word ‘checkout’ next to
    the names where it appears in the sign-up on the Etherpad. The Core
-   Team uses this information to record participation in [AMY](#), The 
+   Team uses this information to record participation in {{'[AMY]({})'.format(amy_link)}}, The 
    Carpentries internal database. This is the primary way future
    Instructors get credit for completing this checkout step.
 
@@ -95,7 +91,7 @@ Discussion Host mailing list.
 This section includes a list of communication channels and collaboration
 spaces that support Community Discussion Hosts. Participants in these
 spaces are expected to follow [The Carpentries code of
-conduct](#).
+conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 A description of the tools listed can be found in [the community
 glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
 
@@ -103,7 +99,7 @@ glossary](https://github.com/carpentries/community-development/blob/main/glossar
 
 Once you have scheduled to host a call, a calendar invite will be sent
 to the email address that you used when signing up. All community
-discussions will also be listed on our [Community Calendar](https://carpentries.org/community/#community-events).
+discussions will also be listed on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}.
 
 ### Etherpad
 
@@ -111,43 +107,31 @@ discussions will also be listed on our [Community Calendar](https://carpentries.
 A list of Etherpads relevant to serving as a Community Discussion Host
 include:
 
--  [Community Discussions
-   Etherpad](https://pad.carpentries.org/community-discussions): This
-   Etherpad contains a list of all upcoming community discussions where
-   community members can sign up to attend and find login information
-   for joining a session.
--  [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
-   The Carpentries most commonly used Etherpads and other resources.
+-  {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}: This Etherpad contains a list of all upcoming community discussions where community members can sign up to attend and find login informationfor joining a session.
+-  {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries most commonly used Etherpads and other resources.
 
 ### Messaging and Communication
 
 Slack is the software platform used by The Carpentries to support
 synchronous and asynchronous communications. Channels support
 communications, collaboration and co-creation among a subset of
-community members, depending on the channel’s purpose. You can join[ The
-Carpentries Slack workspace](https://swc-slack-invite.herokuapp.com/)
+community members, depending on the channel’s purpose. You can {{'[join The Carpentries Slack workspace]({})'.format(slack_invite)}}
 to follow conversations on the channel relevant to this role:
 
 -  #discussion-hosts: channel for Community Discussion Hosts and those
    interested in hosting community discussions
 
-If Slack is new to you, our [Slack Quick Start
-Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide)
-will help you to set up your profile and give you an overview of how we
-use the platform on a day-to-day basis.
+If Slack is new to you, our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide) will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
 
 ### Mailing List
 
-You can access all The Carpentries mailing lists from
-[TopicBox](https://carpentries.topicbox.com/latest). The `Community
-[Discussion Host mailing
-list](https://carpentries.topicbox.com/groups/discussion-hosts) is
-the one relevant to serving in this role. To join one or more
-Carpentries mailing lists, you will need to [create a login on the
-site](https://carpentries.topicbox.com/latest). Once you have done
-this, you can review the list of groups and select “Join the
-Conversation” (for open mailing) or “Request to Join” (for those mailing
-lists requiring administrator approval).
+You can access The Carpentries mailing lists from
+{{'[Topicbox]({}/latest)'.format(topicbox)}}.
+{{'[The Discussion Host mailing list]({}/groups/discussion-hosts)'.format(topicbox)}} is used for announcements relevant to Discussion Hosts.
+To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
+you have done this, you can scroll through the list of groups and click
+“Join the Conversation” (for open mailing) or “Request to Join” (for
+those mailing lists requiring administrator approval).
 
 ## Step-by-Step Guides
 
@@ -160,8 +144,8 @@ Please note that this guide is for signing up to host any community
 discussion **except Regional Community Calls**. If you are a Community
 Coordinator and wish to host a Regional Community Call, please follow
 the instructions in the [Signing Up to Host a Regional Community Call
-section](discussion_host.md#signing-up-to-host-a-regional-community-call).
-To learn more about becoming a Community Coordinator, please visit `the
+section](#signing-up-to-host-a-regional-community-call).
+To learn more about becoming a Community Coordinator, please visit the
 [FAQs section](#faq).
 
 -  Each quarter, communications will be shared from the Community
@@ -172,7 +156,7 @@ To learn more about becoming a Community Coordinator, please visit `the
    instructions on joining one or both of these communication channels.
 
 -  Community Discussion Hosts will sign up using
-   [Calendly](https://calendly.com/thecarpentrie)s during the signup
+   [Calendly](https://calendly.com/thecarpentries) during the signup
    period. Calendly allows you to select dates and times in your
    timezone for the sessions you plan to host. Dates and times already
    selected will not display.
@@ -196,8 +180,7 @@ To learn more about becoming a Community Coordinator, please visit `the
 
 Community Coordinators are responsible for scheduling and hosting
 Regional Community Calls. These calls are currently listed, with their
-date and time, at the top of the [Community Discussions
-Etherpad](https://pad.carpentries.org/community-discussions) and
+date and time, at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}} and
 include a link to where the group records their call notes. If a
 Community Coordinator is interested in listing a Regional Community Call
 there and having it added to The Carpentries Community Calendar, they
@@ -214,16 +197,12 @@ visit the [FAQs section of this handbook](#faq).
 
 ### Checklist for Hosting a Community Discussion
 
-Community discussions use the [Community Discussions
-Etherpad](https://pad.carpentries.org/community-discussions) where
+Community discussions use the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}} where
 community members can sign up to attend and collaboratively take notes
 during the call. Many regional subcommunities use their own notetaking
 platform for Regional Community Calls, and links to where they record
-notes can be found at the top of the [Community Discussions
-Etherpad](https://pad.carpentries.org/community-discussions) and are
-also available in the [Community
-Calendar](https://carpentries.org/community/#community-events)
-listing.
+notes can be found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}} and are
+also available in the {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}} listing.
 
 #### Before the Discussion Session
 
@@ -254,8 +233,7 @@ listing.
 -  Confirm that the fellow host is present (if there is one) and who
    will be leading/taking notes.
 -  If relevant, the host can copy the template agendas for all session
-   types from the bottom of the [Community Discussion
-   Etherpad](https://pad.carpentries.org/community-discussions) to
+   types from the bottom of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}} to
    the space under the sign up for the session. [Template
    agendas](#sample-agendas) are also available in this handbook.
 
@@ -264,8 +242,7 @@ listing.
 -  Use or adapt the Script for Starting a [Community
    Discussion](#script-for-starting-a-community-discussion).
 -  If relevant, follow the sample agendas provided at the bottom of the
-   [Community Discussion
-   Etherpad](https://pad.carpentries.org/community-discussion)s and
+   {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}} and
    also available in the [resources section of this
    handbook](#resources).
 
@@ -346,7 +323,7 @@ started.
    be serving as a designated note-taker.
 
    -  *Host should share the link in
-      chat:* https://pad.carpentries.org/community-discussions
+      chat:*{{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
 
 -  I have enabled automated closed captioning that you can display on
    your screen using the captioning feature.
@@ -473,8 +450,7 @@ follows:
       link](https://forms.gle/eUQoSPRXrsyBibRf8) or email their blog
       post idea or draft to community@carpentries.org.
 
-FAQ
----
+## FAQ
 
 **What if I am hosting a discussion and there are no pre/post workshop
 debriefs?**
@@ -612,5 +588,4 @@ communications and includes step-by-step guides for serving in this
 role. The Carpentries Community Development Team manages the content of
 this handbook. To provide feedback, please email
 community@carpentries.org. If you are unfamiliar with any of the terms
-used in this handbook, please refer to our [Glossary of
-Terms](#glossary).
+used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.

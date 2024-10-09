@@ -173,5 +173,16 @@ suppress_warnings = ['autosectionlabel.*']
 myst_substitutions = {
   "amy_link": "https://amy.carpentries.org",
   "instructor_training_email":"instructor.training@carpentries.org",
-  "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/"
+  "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/",
+  "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/",
+  "topicbox": "https://carpentries.topicbox.com/groups",
+  "slack": "https://carpentries.slack.com",
+  "slack_invite": "https://slack-invite.carpentries.org/",
+  "carpentries_website": "https://carp-new-website.netlify.app",
+  "etherpad": "https://pad.carpentries.org",
+  "codimd": "https://codimd.carpentries.org",
+  "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
+  "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
+
+  
 }
