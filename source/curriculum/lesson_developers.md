@@ -418,7 +418,7 @@ If you are piloting a new official Carpentries lesson - a lesson
 developed based on prior agreement with The Carpentries, and which is
 intended to become another lesson/curriculum offered in
 centrally-organised workshops - please register your pilot as a
-[Self-Organised Workshop](#). If you
+{{'[Self-Organised Workshop]({}/forms/workshop/)'.format(amy_link)}}. If you
 do not find the lesson/curriculum being piloted listed as one of the
 choices on that form, please contact [The Carpentries Core
 Team](mailto:team@carpentries.org).
@@ -509,4 +509,4 @@ It is maintained by The Carpentries Curriculum Team. If you believe
 anything needs to be added or updated here, or if you would like to
 provide feedback on the content, please email the [Curriculum
 Team](mailto:curriculum@carpentries.org), or open an issue on the
-[source repository of this handbook](#).
+[source repository of this handbook](https://github.com).

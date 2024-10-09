@@ -59,7 +59,7 @@ signup on the
 ### Upcoming Workshops
 
 If you are an Active Instructor and would like to see a list of teaching
-opportunities that need Instructors, please go to your [AMY profile]()
+opportunities that need Instructors, please go to your {{'[AMY profile]({})'.format(amy_link)}}
 to see a list of upcoming workshops that you can sign up to teach.
 
 ### Community Calendar
@@ -355,7 +355,7 @@ content in the handbook.
     the**[carpentries.org](http://carpentries.org)**webpage?**
     -   There are 3 things that must happen in order for a workshop to
         appear on The Carpentries webpage. You must complete the
-        [workshop request/notification form](), the workshop website
+        {{'[Workshop Request Form]({}/forms/workshop/)'.format(amy_link)}}, the workshop website
         must include the venue, and at least one instructor must be
         identified. If the instructors change, we will get notified and
         will be able to make the update.
@@ -444,7 +444,7 @@ content in the handbook.
     -   If you are teaching a portion of The Carpentries curriculum or
         if the workshop does not align with the [Core
         Curriculum](https://carpentries.org/workshops/#workshop-core) we
-        ask that you still [register]() your self-organised workshop and
+        ask that you still {{'[register]({}/forms/workshop/)'.format(amy_link)}} your self-organised workshop and
         select the "Mix & Match" option for the question "Which
         Carpentries workshop are you teaching?". **This option is only
         available for Self-Organised workshops. Centrally-organised

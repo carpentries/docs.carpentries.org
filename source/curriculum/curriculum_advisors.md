@@ -59,7 +59,7 @@ implementation.
 ## Onboarding
 
 - CAC recruitment takes place annually, based on term limits and turnover within committees.
-- Rounds of recruitment will be announced on [The Carpentries blog] (https://carpentries.org/blog/).
+- Rounds of recruitment will be announced on {{'[The Carpentries blog]({}/blog)'.format(carpentries_website)}}.
 - Volunteers will be asked to apply for the role by filling in a short webform describing their expertise and motivation for joining a committee.
 - Templates and workflows for CAC recruitment and onboarding are maintained in the [Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
 - Onboarding aims to provide new Curriculum Advisors with context for the role and how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
@@ -77,16 +77,14 @@ implementation.
 
 - After these onboarding sessions, Curriculum Advisors should complete the following steps:
 
-   1. [Log into AMY](#) with GitHub
+   1. {{'[Log into AMY]({})'.format(amy_link)}} with GitHub
       credentials and update their profile.
 
       -  When updating their AMY profile, it is essential that Advisors
          give consent for The Carpentries to publish their profile so
          that they can be listed on The Carpentries websites.
 
-   2. Join the mailing list for their committee on [The Carpentries
-      TopicBox](https://carpentries.topicbox.com/groups). CAC mailing
-      lists are named with the prefix “curriculum-advisors-“.
+   2. Join the mailing list for their committee on {{'[Topicbox]({}/latest)'.format(topicbox)}}. CAC mailing lists are named with the prefix “curriculum-advisors-“.
 
       -  These mailing lists are configured so that anyone can send a
          message to them, but list membership is moderated so that only
@@ -137,20 +135,19 @@ These repositories serve as a public record of meeting notes and decisions made 
 
 ### Collaborative Notetaking
 
-The Carpentries uses [Etherpad](https://etherpad.org/) as a
+The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
 collaborative note-taking tool during workshops, trainings, and other
 Carpentries related events. Pads are synchronised as you type so that
 everyone viewing the page sees the same text. This allows everyone to
 collaborate simultaneously on documents. Below is a list of Etherpads
 relevant to serving as a Curriculum Advisor.
 
--  [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
-   our most commonly used Etherpads and other resources.
--  [Software Carpentry CAC pad](https://pad.carpentries.org/swc-cac)
--  [Library Carpentry CAC pad](https://pad.carpentries.org/lc-cac)
--  [DC Image CAC pad (CodiMD)](https://codimd.carpentries.org/92xFxRMKQhqnoeb6Bo_iXw#)
--  [DC Geospatial CAC pad](https://pad.carpentries.org/geospatialCAC)
--  [DC Genomics CAC pad](https://pad.carpentries.org/genomics_CAC_meetin)g
+- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list ofour most commonly used Etherpads and other resources.
+- {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
+- {{'[Library Carpentry CAC pad]({}/lc-cac)'.format(etherpad)}}
+- {{'[DC Image CAC pad (CodiMD)]({}/92xFxRMKQhqnoeb6Bo_iXw#)'.format(codimd)}}
+- {{'[DC Geospatial CAC pad]({}/geospatialCAC)'.format(etherpad)}}
+- {{'[DC Genomics CAC pad]({}/genomics_CAC_meeting)'.format(etherpad)}}
 
 Please note that use of this service is restricted to members of The
 Carpentries community; it is not for general purpose use. All Etherpad
@@ -166,7 +163,7 @@ from members of the Core Team are posted to both channels.
 
 ##### Slack
 
-[Slack](https://slack.co)m is a communications platform adopted by
+{{'[Slack]({})'.format(slack)}} is a communications platform adopted by
 The Carpentries for instant messaging as well as synchronous and
 asynchronous collaboration. If you are new to Slack, please checkout our
 [Slack Quick Start
@@ -179,13 +176,12 @@ common prefix based on the lesson program they belong to (“swc-” for
 Software Carpentry, “lc-” for Library Carpentry, and “dc-” for Data
 Carpentry)
 
-To join The Carpentries Slack workspace, you can [follow this
-link](https://swc-slack-invite.herokuapp.com/)
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} using this invite link.
 
 ##### Mailing List
 
-You can access all The Carpentries mailing lists from
-[TopicBox](https://carpentries.topicbox.com/latest). There are
+You can access The Carpentries mailing lists from
+{{'[Topicbox]({}/latest)'.format(topicbox)}}. There are
 numerous mailing lists you can join based on the volunteer roles you are
 supporting and your interests. Below is a list of mailing lists relevant
 to the activities and programs covered by this handbook.
@@ -210,8 +206,7 @@ to the activities and programs covered by this handbook.
 - [curriculum-advisors-swc Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-swc)
    - Software Carpentry
 
-To join one or more Carpentries listservs, you will need to [create a
-login on the site](https://carpentries.topicbox.com/latest). Once you
+To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once you
 have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open listservs) or “Request to Join” (for
 those listservs requiring administrator approval).
@@ -236,8 +231,7 @@ Curriculum Advisor.
    contact [The Carpentries]mailto:team@carpentries.org>.
 -  [Secretary](#secretary) Set up Etherpad. For the first meeting,
    create Etherpad by visiting your desired URL starting with
-   https://pad.carpentries.org/
-   (e.g. https://pad.carpentries.org/my-cac-name). This will create an
+   {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an
    Etherpad pre-populated with standard language about The Carpentries.
    For subsequent meetings, use the same Etherpad. The history will
    automatically archive. Include on Etherpad:
