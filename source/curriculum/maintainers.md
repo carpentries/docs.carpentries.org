@@ -93,8 +93,7 @@ onboarding will be announced on The Carpentries blog and main
 communications channels (discuss TopicBox, general Slack channel).
 
 The curriculum for onboarding new Maintainers is available as a
-`Maintainer Onboarding
-Lesson <https://carpentries.github.io/maintainer-onboarding/>`__.
+{{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
 
 ## Offboarding
 
