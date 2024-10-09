@@ -110,11 +110,6 @@ Regional Community Call, please follow the instructions in the `Signing Up to Ho
 
 - Each quarter, the Community Development Team will share signup instructions via Slack and TopicBox. Check the `Communication and Collaboration Spaces section <#communication-and-collaboration-spaces>`_ for joining these channels.
 
-.. csv-table:: Schedule 
-   :widths: 20, 20, 20, 20, 20
-   :file: ../_includes/calendar.csv
-   :header-rows: 1
-
 - Community Discussion Hosts can sign up using `Calendly <https://calendly.com/thecarpentries>`_ during the signup period. Calendly allows you to choose dates and times in your time zone. Dates already chosen won’t show up.
 - After scheduling a discussion on Calendly, the event will automatically be added to the `Community Discussions Etherpad <https://pad.carpentries.org/community-sessions-2024>`_ and the `Community Calendar <https://carpentries.org/community/#community-events>`_. The Community Development Team will notify 
 hosts when the sessions are added.
