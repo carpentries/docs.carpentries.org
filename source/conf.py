@@ -174,6 +174,9 @@ myst_substitutions = {
   "amy_link": "https://amy.carpentries.org",
   "instructor_training_email":"instructor.training@carpentries.org",
   "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/",
-  "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/"
+  "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/",
+  "topicbox": "https://carpentries.topicbox.com/groups",
+  "slack": "https://carpentries.slack.com",
+  
   
 }
