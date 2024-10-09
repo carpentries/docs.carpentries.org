@@ -177,6 +177,11 @@ myst_substitutions = {
   "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/",
   "topicbox": "https://carpentries.topicbox.com/groups",
   "slack": "https://carpentries.slack.com",
-  
+  "slack_invite": "https://slack-invite.carpentries.org/",
+  "carpentries_website": "https://carp-new-website.netlify.app",
+  "etherpad": "https://pad.carpentries.org",
+  "codimd": "https://codimd.carpentries.org",
+  "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
+
   
 }
