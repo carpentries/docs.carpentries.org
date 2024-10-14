@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install Sphinx
         run: |
