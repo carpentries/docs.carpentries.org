@@ -35,7 +35,7 @@ a lesson should be beta piloted at least twice outside of the institution in whi
 ##### Requirements for Piloting New Lessons
 Lessons/curricula that is being considered for adoption into a Lesson Program of The Carpentries 
 (i.e. that will become official curricula to be taught in Carpentries workshops) 
-should be tested in at least two pilot workshops.
+should be tested in at least two beta pilot workshops.
 At least one of these beta pilots should be observed by a member of the Curriculum Team.
 
 Beta pilots are recommended but not required before a community-owned lesson in [The Carpentries Incubator](https://carpentries-incubator.org/) can be marked as stable.
