@@ -40,16 +40,16 @@ Quick Links
 .. toctree::
     :hidden:
 
-    workshops/instructors
+    handbooks/instructors
     pages/sample
-    instructor_training/trainers
+    handbooks/trainers
     pages/style_guide
     pages/resources
     pages/onboarding_offboarding
     pages/learn_how
     pages/connect
     pages/coc
-    curriculum/maintainers
-    curriculum/lesson_developers
-    curriculum/curriculum_advisors
-    community/community_session_host
+    handbooks/maintainers
+    handbooks/lesson_developers
+    handbooks/curriculum_advisors
+    handbooks/community_session_host

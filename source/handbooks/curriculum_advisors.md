@@ -105,7 +105,7 @@ implementation.
          - [Library Carpentry](https://librarycarpentry.org/lessons/)
          - [Software Carpentry](https://software-carpentry.org/lessons/)
 
-## Term Length
+### Term Length
 
 Curriculum Advisors are expected to serve a two-year term.
 
