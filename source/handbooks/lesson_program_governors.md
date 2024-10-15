@@ -83,8 +83,8 @@ Lesson Program Governor offboarding includes the following steps, which will be 
 ### Etherpad
 Below is a list of Etherpads relevant to serving as a Lesson Program Governor. 
 
-* [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
-* [Community discussions](https://pad.carpentries.org/community-discussions): an etherpad for signing up to upcoming discussion events. If the LPGC schedules any discussions e.g. to consult with the lesson program community on a topic, these events will be listed here.
+*  {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries most commonly used Etherpads and other resources.
+* {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}: an etherpad for signing up to upcoming discussion events. If the LPGC schedules any discussions e.g. to consult with the lesson program community on a topic, these events will be listed here.
 
 ### GitHub
 The following LPGC repositories exist on GitHub, for collecting meeting minutes, managing discussion issues, etc:
@@ -94,20 +94,21 @@ The following LPGC repositories exist on GitHub, for collecting meeting minutes,
 * Software Carpentry: <https://github.com/swcarpentry/governance>
 
 ### Slack
-[To join The Carpentries Slack workspace, you can follow this link](https://slack-invite.carpentries.org/). 
-Although decision-making should be done in meetings and/or publicly-visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
+
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. Although decision-making should be done in meetings and/or publicly-visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
 If you are new to Slack, please check out our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
 
 ### TopicBox
-You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Each LPGC has a dedicated mailing list on TopicBox:
+You can access The Carpentries mailing lists from
+{{'[Topicbox]({}/latest)'.format(topicbox)}}. Each LPGC has a dedicated mailing list on TopicBox:
 
-* Data Carpentry: <https://carpentries.topicbox.com/groups/dc-governors>
-* Library Carpentry: <https://carpentries.topicbox.com/groups/lc-governors>
-* Software Carpentry: <https://carpentries.topicbox.com/groups/swc-governors>
+* {{'[Data Carpentry]({}/dc-governors)'.format(topicbox)}}
+* {{'[Library Carpentry]({}/lc-governors)'.format(topicbox)}}
+* {{'[Software Carpentry]({}/swc-governors)'.format(topicbox)}}
 
 These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
 
-To join one or more Carpentries mailing lists, you will need to [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). 
+To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. . Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). 
 
 ## Step-by-Step Guides
 
