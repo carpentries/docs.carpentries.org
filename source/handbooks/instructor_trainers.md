@@ -1,4 +1,4 @@
-# Trainers Handbook
+# Instructor Trainers Handbook
 
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries
 Instructor Training events, the first step in certification for

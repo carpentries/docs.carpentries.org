@@ -121,26 +121,29 @@ The Curriculum Team can help LPGCs draft and publish blog posts.
 
 ## Resources
 
-## [Lesson Program Governor Onboarding Presentation](https://docs.google.com/presentation/d/1oDanpPZfEYgdg5yk0kKPMkFyBQ4nQN2ZyLru2SPIlBo/edit?usp=sharing)
+### [Lesson Program Governor Onboarding Presentation](https://docs.google.com/presentation/d/1oDanpPZfEYgdg5yk0kKPMkFyBQ4nQN2ZyLru2SPIlBo/edit?usp=sharing)
 
-## About this resource
+#### About this resource
 The slide deck for LPGC Onboarding in March and April 2023. This was a general onboarding session for all incoming Governance Committee members, providing information on The Carpentries, the history and structure of lesson program governance, the powers and responsibilities of LPGCs, and some of the logistics of committee operations.
 
-#### [LPGC Officer Onboarding Presentation](https://docs.google.com/presentation/d/1Fd6aANyU3mh_RbIBh9t2G5GR7DKVEfSXBrgVqos9-_E/edit?usp=sharing)
-##### About this resource
+### [LPGC Officer Onboarding Presentation](https://docs.google.com/presentation/d/1Fd6aANyU3mh_RbIBh9t2G5GR7DKVEfSXBrgVqos9-_E/edit?usp=sharing)
+
+#### About this resource
 The slide deck for onboarding LPGC Officers (chairs and secretaries) in March and April 2023. This session looked in more detail at these officer roles and the responsibilities that come with them, as well as discussing some of the logistics of organising and running committee meetings and some first steps officers could take to get started with their committees.
 
-#### [How to Run a Meeting Presentation](https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit?usp=sharing)
-##### About this resource
+### [How to Run a Meeting Presentation](https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit?usp=sharing)
+
+#### About this resource
 The slide deck from Greg Wilson’s How to Run a Meeting session delivered to incoming LPGC members as part of onboarding in March and April 2023. This session provided some advice and guidance to follow to help ensure that time spent in committee meetings is used as effectively as possible.
 
-#### [Lesson Program Governance Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy)
-##### About this resource
+### [Lesson Program Governance Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy)
+
+#### About this resource
 Official policy from The Carpentries Executive Council describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs
 
-#### [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
-##### About this resource
+### [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
+#### About this resource
 The Carpentries general policy for committees, provided by the Executive Council. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
 
-### About This Section
+## About This Section
 This section of the handbook is designed to support members of Lesson Program Governance Committees within The Carpentries community. It is maintained by The Carpentries Curriculum Team. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please send an message to the team at <curriculum@carpentries.org>, or open an issue on [the source repository of this handbook](https://github.com/carpentries/docs.carpentries.org).
