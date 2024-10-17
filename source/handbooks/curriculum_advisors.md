@@ -17,7 +17,7 @@ The Carpentries philosophy by:
    pedagogical model:
 
    - Teaching what is most relevant and useful for learners.
-   - Avoiding getting bogged down in technical details.
+   - Avoid getting bogged down in technical details.
    - Keeping language motivating.
    - Emphasising the importance of continued learning and improvement.
 
@@ -26,15 +26,15 @@ The Carpentries philosophy by:
 ### Chair
 
 - Prepare agenda for regular meetings, including time estimates for each item.
-- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
+- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of the meeting.
 - Assign meeting roles.
-- Serve as primary point of contact for Maintainers.
-- Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion,including letting Maintainers and contributors know when items are going to be considered at the next meeting.
-- Generally review lesson repositories for items that may come underthe CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
+- Serve as a primary point of contact for Maintainers.
+- Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
+- Generally review lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
 - Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and
 Maintainers in contact with CAC members who will assist with
 implementation.
-- Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit a replacement if needed.
+- Notify the Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications so that the Core Team can help recruit a replacement if needed.
 - Approve meeting minutes.
 - Fulfill all other responsibilities of a CAC member.
 
@@ -44,25 +44,25 @@ implementation.
 - Arrange meeting room logistics.
 - Send calendar invites.
 - Send meeting reminders.
-- Prepare meeting minutes and post to the appropriate CAC repository.
+- Prepare meeting minutes and post them to the appropriate CAC repository.
 - Fulfill all other responsibilities of a CAC member.
 
 ### Other members
 
-- Notify Chair of potential agenda items as they arise.
-- Review agenda and other relevant documents sent by Chair prior to meeting.
-- Attend and actively participate in regular meetings by being attentive, sharing knowledge, expertise, ideas, and information.
+- Notify the Chair of potential agenda items as they arise.
+- Review the agenda and other relevant documents sent by the Chair before the meeting.
+- Attend and actively participate in regular meetings by being attentive, and sharing knowledge, expertise, ideas, and information.
 - Participate in asynchronous voting through GitHub as needed.
-- Work with community members and Maintainers to implement voted upon changes as needed.
+- Work with community members and Maintainers to implement voted-upon changes as needed.
 - (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned.
 
 ## Onboarding
 
 - CAC recruitment takes place annually, based on term limits and turnover within committees.
 - Rounds of recruitment will be announced on {{'[The Carpentries blog]({}/blog)'.format(carpentries_website)}}.
-- Volunteers will be asked to apply for the role by filling in a short webform describing their expertise and motivation for joining a committee.
+- Volunteers will be asked to apply for the role by filling in a short web form describing their expertise and motivation for joining a committee.
 - Templates and workflows for CAC recruitment and onboarding are maintained in the [Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
-- Onboarding aims to provide new Curriculum Advisors with context for the role and how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
+- Onboarding aims to provide new Curriculum Advisors with context for the role how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
 - Onboarding for Curriculum Advisors takes place in two parts:
    1. A general onboarding for all Curriculum Advisors
    2. An additional onboarding for the committee officers (*Roles and responsibilities*)
@@ -87,7 +87,7 @@ implementation.
    2. Join the mailing list for their committee on {{'[Topicbox]({}/latest)'.format(topicbox)}}. CAC mailing lists are named with the prefix “curriculum-advisors-“.
 
       -  These mailing lists are configured so that anyone can send a
-         message to them, but list membership is moderated so that only
+         message to them, but the list membership is moderated so that only
          current members of the committee will receive messages sent to
          the group.
 
@@ -96,7 +96,7 @@ implementation.
 
       -  This is only *required* for CAC chairs, but is recommended for
          all Curriculum Advisors as a way to stay up-to-date about
-         discussions and developments taking place on their curriculum.
+         discussions and developments taking place in their curriculum.
       -  Repositories are linked from the “Repository” column of the
          lesson tables in the “Lessons” page of each Lesson Program
          website:
@@ -123,7 +123,7 @@ Below is a list of communication channels and collaboration spaces that support 
 
 ### Meetings
 
-Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reviewing and contributing to relevant documents in advance of the meeting.
+Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reviewing and contributing to relevant documents in advance of the meeting.
 
 ### GitHub Repositories
 
@@ -136,13 +136,13 @@ These repositories serve as a public record of meeting notes and decisions made 
 ### Collaborative Notetaking
 
 The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
-collaborative note-taking tool during workshops, trainings, and other
-Carpentries related events. Pads are synchronised as you type so that
+collaborative note-taking tool during workshops, training, and other
+Carpentries-related events. Pads are synchronised as you type so that
 everyone viewing the page sees the same text. This allows everyone to
 collaborate simultaneously on documents. Below is a list of Etherpads
 relevant to serving as a Curriculum Advisor.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list ofour most commonly used Etherpads and other resources.
+- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of our most commonly used Etherpads and other resources.
 - {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
 - {{'[Library Carpentry CAC pad]({}/lc-cac)'.format(etherpad)}}
 - {{'[DC Image CAC pad (CodiMD)]({}/92xFxRMKQhqnoeb6Bo_iXw#)'.format(codimd)}}
@@ -218,13 +218,13 @@ Curriculum Advisor.
 
 ### Meeting Checklist
 
--  [Secretary](#secretary) Create availability poll using whenisgood
-   (or similar service). Be sure to enable the “use timezones” feature.
+-  [Secretary](#secretary) Create an availability poll using whenisgood
+   (or a similar service). Be sure to enable the “use timezones” feature.
 -  [Secretary](#secretary) Start scheduling the meeting using the
    email template#scheduling-a-meeting.
 -  [Secretary](#secretary) Determine the best meeting time (or two if
    needed) from the availability poll. Create an event time announcement
-   using TimeandDate (or similar service). Include event time
+   using TimeandDate (or a similar service). Include an event time
    announcement link in all communications about meeting times.
 -  [Secretary](#secretary) Set up a meeting room with Zoom (or
    similar service). If you need a room provided by The Carpentries,
@@ -236,14 +236,14 @@ Curriculum Advisor.
    For subsequent meetings, use the same Etherpad. The history will
    automatically archive. Include on Etherpad:
 
-   -  Meeting connection information (Zoom link and dial in options)
+   -  Meeting connection information (Zoom link and dial-in options)
    -  Time zone converter link for meeting time
    -  Sign-in
-   -  Meeting roles (leave blank for Chair to fill in)
+   -  Meeting roles (leave blank for the Chair to fill in)
    -  Agenda (leave blank for Chair to fill in)
 
 -  [Secretary](#secretary) Send meeting invitations on Google
-   Calendar. Include Etherpad and Zoom connection link in invite.
+   Calendar. Include Etherpad and Zoom connection links in the invite.
 -  [Secretary](#secretary) Send meeting announcement using this
    [email template](#meeting-announcement).
 -  [Chair](#chair) Determine meeting roles using a
@@ -256,10 +256,10 @@ Curriculum Advisor.
       Carpentries Core Team.
    -  Upcoming changes to software or changes in practice occurring in
       the field that should be considered by CAC.
-   -  Other agenda items brought to Chair by CAC members.
+   -  Other agenda items brought to the Chair by CAC members.
    -  Each agenda item should include links to relevant conversations or
       information, as well as an approximate length of time for
-      discussion. Notify Secretary when agenda is ready to share.
+      discussion. Notify the Secretary when the agenda is ready to share.
 
 -  [Chair](#chair) Maintain open agenda items as issues to the CAC
    GitHub repository. Update these with links to relevant conversations
@@ -270,7 +270,7 @@ Curriculum Advisor.
 -  [Chair](#chair) Ensure that meeting proceeds smoothly using the
    assigned meeting roles.
 -  [Secretary](#secretary) Compile meeting minutes from notes. Add
-   minutes as a PR to the GH repository using file format
+   minutes as a PR to the GH repository using the file format
    MONTH-minutes.md. Include in minutes:
 
    -  Date and time of meeting
@@ -279,8 +279,8 @@ Curriculum Advisor.
       of any votes taken
 
 -  [Chair](#chair) Review and edit or approve minutes. Merge PR.
--  [Secretary](#secretary) Send meeting follow-up to group using this
-   email template. Include link to minutes and information about any
+-  [Secretary](#secretary) Send meeting follow-up to the group using this
+   email template. Include a link to minutes and information about any
    follow-up tasks.
 -  [Chair](#chair) Communicate about decisions with relevant
    Maintainers or other community members as needed using individual
@@ -320,16 +320,16 @@ Committees (CACs).*
 
 
 -  Addition of a new library or package
--  Introduction of a new topic / learning objective (e.g., adding file
+-  Introduction of a new topic/learning objective (e.g., adding file
    permissions to LC shell lesson)
 -  Updates to software/packages that are minor versions (e.g., Python
-   3.7 -> 3.8) when the new version is backwards compatible with current
+   3.7 -> 3.8) when the new version is backward compatible with the current
    version
 -  Additions of experimental features (e.g., git checkout → git restore
    / git switch)
 -  Any change to a lesson that impacts the content/scope of another
    lesson in the curriculum
--  For Incubator lessons - Review of a lesson outline where lesson
+-  For Incubator lessons - Review a lesson outline where a lesson
    developers would like the lesson to be considered for eventual
    adoption into a Lesson Program’s official curriculum
 -  Issues which are not covered anywhere else in this rubric
@@ -338,7 +338,7 @@ Committees (CACs).*
 
 -  Replacing the dataset used in the lesson with a different dataset.
    This does not include cases in which the data being used in the
-   lesson is being updated to a new version (e.g., a new data release)
+   the lesson is being updated to a new version (e.g., a new data release)
    or is modified to make it more suitable for the teaching environment
    (e.g., introduction of messiness to the dataset).
 -  Changing the software being used in the lesson. This does not include
@@ -349,13 +349,13 @@ Committees (CACs).*
       software (e.g., Python 2.x → 3.x, R 3.x → 4.x)
    -  Change in plotting library (e.g., Matplotlib, Plotly, Seaborn,
       ggplot, Altair)
-   -  Change in libraries / packages taught (i.e., removal or
+   -  Change in libraries/packages taught (i.e., removal or
       replacement)
    -  Change in SQL dialect (e.g., SQLite, MySQL, PostgreSQL, MSSQL
       Server)
    -  Change in IDE being used to teach the lessons (RStudio, Jupyter
       Notebook)
-   -  Change from GitHub as remote hosting platform to a different
+   -  Change from GitHub as a remote hosting platform to a different
       remote hosting platform, e.g., GitLab
 
 -  Removal of an entire episode’s worth of content
@@ -429,7 +429,7 @@ Hi everyone,
 
 Just a reminder that we’ll be meeting on [ DATE AND TIME IN UTC ONLY ].
 You should have a Google Calendar invite for the meeting with connection
-information. You can double check the meeting time in your local time
+information. You can double-check the meeting time in your local time
 zone by following this link.
 
 [ NAME OF CHAIR ] has prepared an agenda for our meeting. Please review
@@ -442,15 +442,15 @@ or comfortable with carrying out your assigned role, please contact [
 NAME OF CHAIR ].
 
 Facilitator - Introduces each agenda item. Monitors both the chat and
-the visual meeting window for “hands”, keeps track of order, and
-acknowledges whose turn it is to speak. Makes sure everyone has a chance
+the visual meeting window for “hands”, keeps track of the order, and
+acknowledges whose turn it is to speak. Make sure everyone has a chance
 to share their views.
 
 Notetaker - Records meeting attendance and major points of discussion.
 Especially takes note of decisions and action items.
 
-Timekeeper - monitors time and notifies the group when time for specific
-agenda items is short.
+Timekeeper - monitors time and notifies the group when the time for specific
+agenda items are short.
 
 Excited to meet with you all soon.
 
@@ -472,7 +472,7 @@ made.
 
 Please review and respond to the minutes and
 let me know by `DATE AND TIME
-UTC if you findany
+UTC if you find any
 problems or have any objections to the decisions and action items. At
 that point, [ CHAIR NAME ] will follow up with the Maintainers on the
 next steps.
