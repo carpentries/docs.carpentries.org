@@ -5,8 +5,7 @@
 This Privacy Policy applies to The Carpentries and its associated lesson
 programs, Data Carpentry, Software Carpentry, and Library Carpentry
 (collectively, “We”, “Our”, “Us”). This Privacy Policy explains how we collect,
-use, and share the personal information that we gather in our organisational
-database [AMY](https://amy.carpentries.org), on the subdomains and websites on 
+use, and share the personal information that we gather in our organisational database {{'[AMY]({})'.format(amy_link)}}, on the subdomains and websites on 
 carpentries.org, datacarpentry.org, software-carpentry.org, and librarycarpentry.org 
 (the “Sites”), or through your use of our products and services. By continuing to 
 use our Sites, you agree to the terms of this Privacy Policy.
