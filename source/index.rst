@@ -10,7 +10,7 @@ Resources
 
 .. toctree::
    :maxdepth: 1
-   :name: resources
+   :name: general_resources
 
     Carpentries Commons <https://docs.carpentries.org/topic_folders/communications/resources/commons.html>
     Code of Conduct <policies/coc/index>
