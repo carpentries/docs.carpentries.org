@@ -36,3 +36,10 @@ Quick Links
     Training Website Template <https://github.com/carpentries/training-template>
     Workshop Website Template <https://github.com/carpentries/workshop-template>
 
+.. toctree::
+    :hidden:
+    :glob:
+
+    handbooks/**
+    policies/**
+    resources/**
