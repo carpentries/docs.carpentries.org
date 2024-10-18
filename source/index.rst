@@ -13,10 +13,10 @@ Resources
    :name: resources
 
     Carpentries Commons <https://docs.carpentries.org/topic_folders/communications/resources/commons.html>
-    Code of Conduct <pages/coc>
+    Code of Conduct <policies/coc/index>
     Community Calendar <https://carpentries.org>
-    Community Glossary <pages/glossary>
-    Style Guide <pages/style_guide>
+    Community Glossary <https://github.com/carpentries/community-engagement/blob/main/glossary.md>
+    Style Guide <resources/communications/style-guide>
     Welcome Tip Sheet <https://carpentries.org>
 
 
