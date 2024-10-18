@@ -1,5 +1,9 @@
 ### Slack and Mailing Lists
 
+#### Topicbox
+
+The Carpentries uses Topicbox to manage email lists.
+
 There are many ways in which you can join our conversations:
 
 - The [Discuss email list](https://carpentries.topicbox.com/groups/discuss), which community members are welcome to join and post to.
