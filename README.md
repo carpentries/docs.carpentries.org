@@ -2,6 +2,21 @@
 
 This is an early prototype of what The Carpentries Handbook might look like.  Everything is a work in progress and does not currently contain any actual Carpentries documentation.  The site can be [previewed at this Netlify link](https://carpentries-beta-handbook-preview.netlify.app/).
 
+## Site Organization
+
+This handbook has three main sections: 
+
+* **Handbooks**.  This contains handbooks for each community role (Community Session Host, Instructor, etc.).  Each community role has the same following sections, to ensure users have a consisent experience as they explore each role.
+    * Roles and Responsibilities
+    * Onboarding
+    * Offboarding
+    * Communication and Collaboration Spaces
+    * Step by step guides
+    * Resources
+    * FAQ
+ * **Resources**.  This is a listing of general resources available to The Carpentries community (Style guide, Communication resources, etc.).
+ * **Policies**.  This is a listing of all Carpentries policies (Code of Conduct, Privacy, etc.)
+
 ## File structure
 
 * `/build/` Used to build local website. In `.gitignore` so this will not show up in the repo.  Do not edit these files.
