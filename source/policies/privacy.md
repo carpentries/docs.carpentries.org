@@ -454,7 +454,7 @@ newsletters, marketing or promotional materials and other information that may
 be of interest to you. You may opt-out of receiving any, or all, of these
 communications from us by following the unsubscribe instructions provided in any
 email we send, or you can contact us using the contact details provided in the
-“[Contact Information](#contact-information)” section below.
+“[Contact Information](#14-contact-information)” section below.
 
 ### 6.1 California Privacy Rights
 
@@ -533,7 +533,7 @@ using your Personal Information are as follows:
   Information from you, in response to investigation of breaches to our {{'[Code of Conduct]({})'.format(code_of_conduct)}} that involves violation of local laws, lawful
   requests by public authorities, including to meet law enforcement
   requirements, as described above in “[How Do We Share Personal
-  Information?](#how-do-we-share-personal-information)”
+  Information?](#3-how-do-we-share-personal-information)”
 
 If you have questions about or need further information concerning the legal
 basis on which we collect and use your Personal Information, please contact us
@@ -555,7 +555,7 @@ If you are from the European Economic Area, you also have the right to lodge a
 complaint with a supervisory authority, under certain circumstances.
 
 You may contact us using the contact details provided in the “[Contact
-Information](#contact-information)” section below for more information or to
+Information](#14-contact-information)” section below for more information or to
 exercise your rights.
 
 ## 9. International Transfers of Data
@@ -591,7 +591,7 @@ States or other jurisdictions.
 The Sites are not directed at individuals under the age of 16. We do not
 knowingly collect personal information from children under 16. If you become
 aware that a child has provided us with personal information, please contact us
-using the contact details provided in the “[Contact Information](#contact-information)”
+using the contact details provided in the “[Contact Information](#14-contact-information)”
 section below. If we become aware that a child under 16 has provided us with personal
 information, we will take immediate steps to delete such information and notify the
 individual.
