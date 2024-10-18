@@ -1,6 +1,6 @@
-### CodiMD
+# CodiMD
 
-#### General Usage
+## General Usage
 
 The Carpentries also offers [CodiMD](https://codimd.carpentries.org/) as another collaborative note taking platform. CodiMD recognises [Markdown](https://www.markdownguide.org/cheat-sheet/) syntax,
 allowing users to utilise simple markup to format the content they add to the shared document.
@@ -38,7 +38,7 @@ Users are expected to follow our [code of conduct]( https://docs.carpentries.org
 All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
 
-#### Document Access Levels & Accounts
+## Document Access Levels & Accounts
 
 Account creation and login is not required to create and edit CodiMD documents.
 
@@ -65,12 +65,12 @@ Account holders gain access to two features:
    and organised into folders.
 
 
-#### Troubleshooting
+## Troubleshooting
 
 If you encounter issues with the CodiMD platform,
 please contact us at team@carpentries.org and a team member will help you troubleshoot.
 
 
-#### See Also
+## See Also
 
 [Etherpad](https://docs.carpentries.org/topic_folders/communications/tools/etherpads.html) is another collaborative note taking platform used by the community members.
