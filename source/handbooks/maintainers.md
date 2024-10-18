@@ -1,9 +1,9 @@
 # Maintainers Handbook
 
-The Carpentries Maintainers work with the community to make sure that
+The Carpentries Maintainers work with the community to ensure
 lessons stay up-to-date, accurate, functional and cohesive. Maintainers
-monitor their lesson repository, make sure that pull requests and issues
-are addressed in a timely manner, and participate in the lesson
+monitor their lesson repository, ensure that pull requests and issues
+are addressed on time, and participate in the lesson
 development cycle including lesson releases. They endeavour to be
 welcoming and supportive of contributions from all members of the
 community. This community of practice is a great place to learn to
@@ -20,23 +20,23 @@ A secondary (but still extremely important!) goal is ensuring that the
 spaces we use for lesson development and maintenance are just as
 welcoming and inclusive as our workshops.
 
-Ensuring that our lessons are on the cutting-edge of new technology and
+Ensuring that our lessons are on the cutting edge of new technology and
 tooling is *not* a priority for The Carpentries. Although we do want our
 materials to stay relevant, it is far more important that our lessons
 remain pedagogically sound and technically viable, than that they
 represent the latest and greatest new developments in the field.
 
-With these goals in mind, The Carpentries expectations of Maintainers
+With these goals in mind, The Carpentries' expectations of Maintainers
 are to:
 
 -  Monitor the lesson repository and make sure that pull requests (PRs)
-   and Issues are responded to in a timely manner (even if that response
+   and Issues are responded to promptly (even if that response
    is “sorry, this is out of scope”),
 -  Do not introduce new errors into the lesson
 -  Quickly fix anything that is unambiguously an error or that
    negatively affects workshop learners
 -  Be receptive and welcoming to suggestions for improving the lessons
--  Evaluate all contributions in view of The Carpentries pedagogical
+-  Evaluate all contributions given The Carpentries pedagogical
    model:
 
    -  Teach what is most relevant and useful for learners.
@@ -105,7 +105,7 @@ will become an alumnus Maintainer and their permissions to their
 repository will be revoked. Active Maintainer status can be restored at
 any time by contacting the Maintainer Community Lead. 
 
-[The proposal for yearly Maintainer check ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
+[The proposal for yearly Maintainer check-ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
 more detailed information. If a Maintainer would like to step away from
 the role outside this schedule, they should inform the Maintainer
 Community Lead and the other Maintainers on their lesson(s).
@@ -130,7 +130,7 @@ Community Lead and the other Maintainers on their lesson(s).
 ### Community Calendar
 
 Once scheduled, all Maintainer Community Calls are listed on our
-{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can add relevant events to your personal calendar from there by clicking on the event you would like to attend.
+{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
 
 ### Collaborative Notes
 
@@ -142,7 +142,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
 ### GitHub
 
--  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips in flight rules.
+-  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
 -  [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
 
 ### Google Documents
@@ -289,7 +289,7 @@ onboarding.
 Documentation for The Carpentries Workbench, open source infrastructure
 for lesson websites. The documentation explains how to install the
 Workbench so that Lesson Maintainers can edit and preview their lessons
-on their own computer, how to initialise a new lesson and use the
+on their computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
 
@@ -304,7 +304,7 @@ their lesson.
 ### [Curriculum Development Handbook](https://cdh.carpentries.org/)
 
 A guide to the lesson design process recommended by The Carpentries. The
-CDH provides details of the curriculum structure used by our Lesson
+CDH provides details of the curriculum structure used in our Lesson
 Programs, the vocabulary we use to describe the [life cycle stages of
 the lesson](https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle),
 and the steps we encourage Lesson Maintainers to take through those
