@@ -2,8 +2,8 @@
 
 ## Collaborative Documents
 
- * [Etherpads](#)
- * [Codimd](#)
+ * [Etherpads](etherpads.md)
+ * [Codimd](codimd.md)
 
 ## Styles, logos, and additional materials
 
