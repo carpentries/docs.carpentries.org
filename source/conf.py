@@ -104,12 +104,14 @@ html_theme_options = {
             "icon": "fab fa-mastodon",
             "type": "fontawesome",
         },
+
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/thecarpentries",
-            "icon": "fab fa-twitter-square",
-            # The default for `type` is `fontawesome` so it is not actually required in any of the above examples as it is shown here
+            "name": "Zenodo",
+            "url": "https://zenodo.org/communities/carpentries/records",
+            "icon": "_static/zenodo-logo.svg",
+            "type": "local"
         },
+
     ],
 
 
