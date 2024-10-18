@@ -13,8 +13,8 @@
 
 ## Communication spaces
 
-* [Slack](#)
-* [Mailing lists (Topicbox)](#)
+* [Slack](slack-and-email.md#slack-quick-start-guide)
+* [Mailing lists (Topicbox)](slack-and-email.md#topicbox)
 
 ## Carpentries Commons
 
