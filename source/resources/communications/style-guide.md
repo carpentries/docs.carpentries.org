@@ -4,7 +4,7 @@ This guide aims to provide a standard reference point when questions arise about
 
 We will adhere to a similar style  on our website and in other material we make widely available such as blog posts. Lesson contributors and maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
 
-Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+Please note, as outlined in [section C](#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
 ---
 
@@ -201,9 +201,9 @@ Avoid "click here", "more", and "read more" when embedding a link in text. Use w
 
 ###### names
 Do not use the terms Christian name, first name, or forename. Instead use given name or personal name. We will defer to people's chosen spelling, choice of given name, punctuation, capitalisation, and name order (when known or obtainable).<br>
-_See also [non-English names](#non-English-names)._
+_See also [non-English names](#non-english-names)._
 
-##### non-english names
+##### non-English names
 The French (or French origin) de, d’, des, la, les or le and the Dutch van are normally lowercase when the name is fully written out, _e.g.,_ Marianne d’Alpuget, Erik van der Walden, but capitalised when written without forenames, _e.g.,_ D’Alpuget, Van der Walden.
 
 ##### non-English words and phrases
