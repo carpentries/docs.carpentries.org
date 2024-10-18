@@ -1,4 +1,4 @@
-### Code of Conduct Incident Response Guidelines
+# Code of Conduct Incident Response Guidelines
 
 Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md).
 
@@ -11,15 +11,15 @@ Ideally, we would all be able to defuse an incident. In practice, we have varyin
 If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report via the [Code of Conduct incident report form][reporting-form] to the CoCc.
 For in person events, please immediately contact a workshop host or instructor so that they can assist you in implementing the **Immediate Response Checklist** as listed below, and help submit a report to the CoCc.
 
-##### Immediate Response 
+## Immediate Response 
 
 The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  
 
-##### Ongoing Incidents
+## Ongoing Incidents
 
 If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the CoCc for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
 
-##### Checklists for Responding to an Incident
+## Checklists for Responding to an Incident
 
 **Immediate Response Checklist**
 * Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.
@@ -47,7 +47,7 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 - It is not your job to reassure or forgive them.
 - Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
 
-#### Incidents involving Core Team members
+## Incidents involving Core Team members
 
 * If there are CoC reports either about or from (or in any way involving) Core
   Team members who are Community Initiatives (CI) employees, and those reports

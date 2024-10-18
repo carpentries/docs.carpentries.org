@@ -332,8 +332,8 @@ started.
 -  To make clear what is expected, everyone participating in The
    Carpentries activities is required to abide by our Code of Conduct.
 
-   -  *Host should share the link in
-      chat:* https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+   -  *Host should share the link in the
+      chat: *{{'[Code of Conduct]({})'.format(code_of_conduct)}} 
    -  Any form of behaviour to exclude, intimidate, or cause discomfort
       is a violation of the Code of Conduct. In order to foster a
       positive and professional learning environment, we encourage you
@@ -430,7 +430,7 @@ community discussions and community conversations.*
 Most Community Discussions are 60 minutes and can be formatted as
 follows:
 
--  Welcome, Introductions and [Code of Conduct](/pages/coc) (5
+-  Welcome, Introductions and *{{'[Code of Conduct]({})'.format(code_of_conduct)}} (5
    minutes)
 -  Presentation from the facilitator or presenting group (20 minutes)
 -  Small group breakout sessions for discussion questions from the

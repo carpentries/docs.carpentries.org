@@ -1,4 +1,4 @@
-### Presentations
+# Presentations
 
 It is great for community members to give presentations on The Carpentries!
 Include your work with The Carpentries in a presentation, or you are more than welcome

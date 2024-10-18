@@ -70,9 +70,6 @@ Community Glossary
    Curriculum
       definition goes here 
 
-   Curriculum Development Handbook
-      definition goes here 
-
    Curriculum Advisor
       definition goes here 
 

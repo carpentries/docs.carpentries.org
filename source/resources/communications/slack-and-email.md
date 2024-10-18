@@ -1,6 +1,6 @@
-### Slack and Mailing Lists
+# Slack and Mailing Lists
 
-#### Topicbox
+## Topicbox
 
 The Carpentries uses Topicbox to manage email lists.
 
@@ -41,9 +41,9 @@ Below are descriptions of selected channels found on TopicBox (as discussed in t
 - [**Vancouver, Canada**](https://carpentries.topicbox.com/groups/local-vancouver)
 - [**Washington, DC**](https://carpentries.topicbox.com/groups/local-dc)
 
-#### Slack Quick Start Guide
+## Slack Quick Start Guide
 
-##### About the Guide
+### About the Guide
 Note: these instructions are created for the desktop version of Slack. There are also browser and mobile apps that may have minor differences.
 
 Welcome to The Carpentries Slack group – a place for members to ask questions, share resources, opportunities and more.
@@ -58,7 +58,7 @@ For more detailed information on getting started with or using Slack, including 
 
 Any questions? Email: [community@carpentries.org](mailto:community@carpentries.org)
 
-##### 1. Configuring Your Account
+### 1. Configuring Your Account
 **A. PROFILE**
 When you set up your profile there are three things to bear in mind:
 
@@ -75,7 +75,7 @@ To update your status, click your avatar in the top right of the screen and your
 
 You can clear a status update at any time by clicking on your avatar and selecting “clear status” from the dropdown.
 
-##### 2. Adjusting the Volume-Notification Settings
+### 2. Adjusting the Volume-Notification Settings
 **A. HOW TO FIND AND JOIN CHANNELS**
 By default, you are automatically added to the #general channel which is the shared community of practice that everyone belongs to. You’re also added to #welcome – and encouraged to introduce yourself there.
 
@@ -107,7 +107,7 @@ Slack has lots of options for you to determine how and when you are informed abo
   - Mute it: When you’re in a channel, click the channel name in the center panel. Choose “Get Notifications for @ Mentions” and select "Mute channel."
   - Leave it: When you’re in a channel, click the channel name in the center panel. Scroll down and click “Leave channel."
 
-##### Communicating with others
+### Communicating with others
 **A. A FEW POINTS OF ETIQUETTE**
 - Use threads to continue conversations
   - When someone posts a brand new item in a channel, anyone in the channel can reply directly to it, creating a thread. Threads allow separate conversations to take place in the group without confusion - and for members to choose which of those conversations to follow more closely.
@@ -123,7 +123,7 @@ It can be helpful to others when you're sharing resources and brainstorming solu
 
 However, sometimes you want to start a private conversation. To do this, go to the direct messages section on the bottom left of the left-hand side bar. Click the + icon to start a new message. You can add more than one recipient to create a group message.
 
-##### Acknowledgments
+### Acknowledgments
 The content of this guide was based upon the Center for Scientific Collaboration and Community Engagement “Slack quick start guide” by Lou Woodley and Katie Pratt, licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) license.
 
 The original guide is cited as: Center for Scientific Collaboration and Community Engagement. (2020) Slack quick start guide. Woodley and Pratt doi: 10.5281/zenodo.3763730

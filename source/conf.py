@@ -170,6 +170,8 @@ suppress_warnings = ['autosectionlabel.*']
 
 # These links can be used anywhere in this documentation.  
 
+handbook_url = "https://carpentries-beta-handbook-preview.netlify.app/"
+
 myst_substitutions = {
   "amy_link": "https://amy.carpentries.org",
   "instructor_training_email":"instructor.training@carpentries.org",
@@ -183,6 +185,7 @@ myst_substitutions = {
   "codimd": "https://codimd.carpentries.org",
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
   "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
+  "code_of_conduct": handbook_url + "/policies/coc/"
 
   
 }

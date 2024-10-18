@@ -10,13 +10,13 @@ Resources
 
 .. toctree::
    :maxdepth: 1
-   :name: resources
+   :name: general_resources
 
     Carpentries Commons <https://docs.carpentries.org/topic_folders/communications/resources/commons.html>
-    Code of Conduct <pages/coc>
+    Code of Conduct <policies/coc/index>
     Community Calendar <https://carpentries.org>
-    Community Glossary <pages/glossary>
-    Style Guide <pages/style_guide>
+    Community Glossary <https://github.com/carpentries/community-engagement/blob/main/glossary.md>
+    Style Guide <resources/communications/style-guide>
     Welcome Tip Sheet <https://carpentries.org>
 
 
@@ -36,20 +36,10 @@ Quick Links
     Training Website Template <https://github.com/carpentries/training-template>
     Workshop Website Template <https://github.com/carpentries/workshop-template>
 
-
 .. toctree::
     :hidden:
+    :glob:
 
-    handbooks/instructors
-    pages/sample
-    handbooks/trainers
-    pages/style_guide
-    pages/resources
-    pages/onboarding_offboarding
-    pages/learn_how
-    pages/connect
-    pages/coc
-    handbooks/maintainers
-    handbooks/lesson_developers
-    handbooks/curriculum_advisors
-    handbooks/community_session_host
+    handbooks/**
+    policies/**
+    resources/**
