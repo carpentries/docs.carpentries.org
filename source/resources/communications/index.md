@@ -7,7 +7,7 @@
 
 ## Styles, logos, and additional materials
 
-* [Style Guide](#)
+* [Style Guide](style-guide.md)
 * [Branding](#)
 * Carpentries logos
     * [Data Carpentry Logos](#)
