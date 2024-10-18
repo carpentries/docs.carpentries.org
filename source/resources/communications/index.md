@@ -15,11 +15,12 @@
 
 * [Slack](slack-and-email.md#slack-quick-start-guide)
 * [Mailing lists (Topicbox)](slack-and-email.md#topicbox)
+* [Zoom](zoom_rooms.md)
 
 ## Carpentries Commons
 
-*  [Carpentries Commons](#)
+* [The Carpentries Commons](https://github.com/carpentries/commons) 
 
 ## Presentations
 
-* [Presentations](#)
+* [Presentations](presentations.md)
