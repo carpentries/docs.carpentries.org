@@ -520,7 +520,7 @@ using your Personal Information are as follows:
   and administration fee, facilitating instructor training, and coordinating
   workshops.
 * Our legitimate business interests. For example, fraud prevention, enforcement
-  of our [Code of Conduct](code-of-conduct.md), maintaining the security of our
+  of our {{'[Code of Conduct]({})'.format(code_of_conduct)}}, maintaining the security of our
   network and services, direct marketing to you, and improvement of our
   services.
 * Compliance with a mandatory legal obligation. For example, accounting and tax
@@ -530,8 +530,7 @@ using your Personal Information are as follows:
 * Consent you provide where we do not rely on another legal basis. Consent may
   be withdrawn at any time.
 * In some limited cases, we may also have a legal obligation to collect Personal
-  Information from you, in response to investigation of breaches to our [Code of
-  Conduct](code-of-conduct.md) that involves violation of local laws, lawful
+  Information from you, in response to investigation of breaches to our {{'[Code of Conduct]({})'.format(code_of_conduct)}} that involves violation of local laws, lawful
   requests by public authorities, including to meet law enforcement
   requirements, as described above in “[How Do We Share Personal
   Information?](#how-do-we-share-personal-information)”
