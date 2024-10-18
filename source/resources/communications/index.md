@@ -5,7 +5,7 @@
  * [Etherpads](etherpads.md)
  * [Codimd](codimd.md)
 
-## Styles, logos, and additional materials
+## Styles, branding, and logos
 
 * [Style Guide](style-guide.md)
 * [Branding](brand_identity.md)
