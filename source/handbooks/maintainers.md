@@ -180,6 +180,27 @@ those mailing lists requiring administrator approval).
 
 ## Step-by-Step Guides
 
+### Keeping the Lesson Infrastructure Up-to-date on Your Repository
+New versions of the lesson infrastructure are released periodically, to fix bugs and introduce new features. 
+All of The Carpentries lesson repositories are configured to receive automated pull requests soon after release. 
+These pull requests will be opened by the `carpentries-bot` account, with a title similar to “Workflows to Version x.y.z”. 
+To ensure that your lesson site builds with the latest version of the Workbench, please merge these pull requests as soon as possible after they have been opened.
+Lessons based on R Markdown source files will also receive pull requests from the `carpentries-bot` account to update the versions of the R packages used in the lesson, titled “Update NN packages” where NN is the number of packages. 
+Similarly to the workflow updates, these pull requests should be merged quickly to ensure that the lesson builds correctly.
+
+The GitHub Actions workflows that create these pull requests are configured to run once per week. 
+Sometimes you might want to trigger the process before the next scheduled run, e.g. if the new version of the workflows or packages will fix a problem that is preventing your lesson from building. 
+To trigger these workflows manually, visit the Actions tab of your repository and select the workflow from the list on the left of the screen: both workflows include ‘Maintain’ in their name.
+
+![The side menu of a lesson repository's Actions tab, annotated to highlight the location of the two Maintain workflows](../img/maintain-workflows.png)
+
+After selecting the workflow you want to run, select ‘run workflow’ near the top right corner of the history of workflow runs. You can leave the default values in the small dropdown menu unchanged, and select ‘Run Workflow’ again.
+
+![The interface to manually run a workflow, annotated to highlight the most relevant part of the interface](../img/run-workflow.png)
+
+If this process does not work, or you receive error messages from the workflow and it fails to complete, contact the [Curriculum Team](mailto:curriculum@carpentries.org) and/or ask for help in the [#workbench channel on Slack](https://carpentries.slack.com/archives/C03DEQ5T2DA).
+
+
 ### Using Issue Labels to Promote Collaboration
 
 GitHub allows the Maintainers of a repository to add contextual
