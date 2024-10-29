@@ -16,11 +16,11 @@ Workshop or support a Centrally-Organised Workshop.
 
 For a **Self-Organised Workshop** Instructors should expect to dedicate
 the duration of the workshop which is approximately 16 hours, in
-addition to at least 5 hours to organise a workshop.
+addition to at least five hours to organise a workshop.
 
 For a **Centrally-Organised Workshop** Instructors should expect to
 dedicate the duration of the workshop which is approximately 16 hours,
-in addition to approximately 1-3 hours of pre-planning meetings.
+in addition to approximately one to three hours of pre-planning meetings.
 
 ## Onboarding
 
@@ -353,7 +353,7 @@ content in the handbook.
 
 -   **Why isn't my workshop listed on
     the**[carpentries.org](http://carpentries.org)**webpage?**
-    -   There are 3 things that must happen in order for a workshop to
+    -   There are three things that must happen in order for a workshop to
         appear on The Carpentries webpage. You must complete the
         {{'[Workshop Request Form]({}/forms/workshop/)'.format(amy_link)}}, the workshop website
         must include the venue, and at least one instructor must be
@@ -363,7 +363,7 @@ content in the handbook.
     Instances will be provided and when will we receive the AWS
     Instances?**
     -   A member of the Workshop Administration Team will contact the
-        hosts/instructors approximately 2-3 weeks prior to the workshop
+        hosts/instructors approximately two to three weeks prior to the workshop
         to find out how many instances are needed. You will be asked to
         provide the total number of instructors, helpers and learners.
         Approximately 1 week, prior to the workshop, the Workshop
@@ -414,7 +414,7 @@ content in the handbook.
         Administration Team of your planned workshop using the [workshop
         request form](https://amy.carpentries.org/forms/workshop/). The
         Workshop Administration Team will send the link to view results
-        of the survey 1-2 weeks prior to the workshop. If there are more
+        of the survey one to two weeks prior to the workshop. If there are more
         than 10 survey responses, you will have the option to download
         the survey data, using the 'Download CSV' link at the bottom
         right of the survey results page.
