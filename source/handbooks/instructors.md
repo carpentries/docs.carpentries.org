@@ -35,7 +35,7 @@ Steps to becoming an Instructor.
 2.  **Complete the checkout process** You must complete three short
     tasks after the training in order to complete certification as a
     Carpentries Instructor. See our [Checkout
-    Instructions](https://carpentries.github.io/instructor-training/checkout/index.html)
+    Instructions](https://carpentries.github.io/instructor-training/checkout.html)
     page for more details.
 
 ## Offboarding
