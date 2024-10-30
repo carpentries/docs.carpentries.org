@@ -65,9 +65,9 @@ for a list of upcoming workshops that are open for recruitment.
 ### Community Calendar
 
 Once scheduled, all [Community
-Discussions](https://pad.carpentries.org/community-discussions)*(i.e
+Sessions](https://pad.carpentries.org/community-discussions) (i.e
 pre- and post workshop discussions, Themed Discussions and Carpentries
-Conversations) and*[Teaching
+Conversations) and [Teaching
 Demonstrations](https://pad.carpentries.org/teaching-demos) are listed
 on our [Community
 Calendar](https://carpentries.org/community/#community-events). You can
