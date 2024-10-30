@@ -33,9 +33,9 @@ Steps to becoming an Instructor.
     visit the [Instructor training curriculum
     page](https://carpentries.github.io/instructor-training/).
 2.  **Complete the checkout process** You must complete three short
-    tasks after the training in order to complete certification as a
+    tasks after the training to complete certification as a
     Carpentries Instructor. See our [Checkout
-    Instructions](https://carpentries.github.io/instructor-training/checkout.html)
+    Instructions](https://carpentries.github.io/instructor-training/checkout/index.html)
     page for more details.
 
 ## Offboarding
@@ -48,12 +48,12 @@ Instructor Teaching Opportunities list.
 ## Communication and Collaboration Spaces
 
 
-### Monthly Instructor Meetings
+### Instructor Meetings
 
-Join the Workshop Administration Team every month on the second Tuesday
-at 3:00 pm and 9:00 pm UTC. During monthly meetings we will share
-updates, tips and most of all gather feedback from Instructors. Please
-signup on the
+Join the Workshop Administration Team every other month on the second Tuesday
+at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
+updates and tips, learn from community members, and enjoy networking opportunities. Please
+sign up on the
 [Etherpad](https://pad.carpentries.org/InstructorMeetings).
 
 ### Upcoming Workshops
