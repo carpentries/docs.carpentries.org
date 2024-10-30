@@ -58,9 +58,9 @@ signup on the
 
 ### Upcoming Workshops
 
-If you are an Active Instructor and would like to see a list of teaching
-opportunities that need Instructors, please go to your {{'[AMY profile]({})'.format(amy_link)}}
-to see a list of upcoming workshops that you can sign up to teach.
+If you are a [Carpentries Certified Instructor](https://carpentries.org/become-instructor/) and would like to view teaching
+opportunities that need Instructors, please log in to your {{'[AMY profile]({})'.format(amy_link)}}
+for a list of upcoming workshops that are open for recruitment.
 
 ### Community Calendar
 
