@@ -65,9 +65,9 @@ to see a list of upcoming workshops that you can sign up to teach.
 ### Community Calendar
 
 Once scheduled, all [Community
-Discussions](https://pad.carpentries.org/community-discussions)*(i.e
+Sessions](https://pad.carpentries.org/community-discussions)*(i.e
 pre- and post workshop discussions, Themed Discussions and Carpentries
-Conversations) and*[Teaching
+Conversations) and *[Teaching
 Demonstrations](https://pad.carpentries.org/teaching-demos) are listed
 on our [Community
 Calendar](https://carpentries.org/community/#community-events). You can
