@@ -1,4 +1,5 @@
 # Curriculum Structure
+
 The Carpentries contains multiple _Lesson Programs_ (Data Carpentry, Library Carpentry, Software Carpentry). Each _Lesson Program_ contains at least one _curriculum_. A curriculum is composed of one or more _lessons_.
 Lessons are built from a series of _episodes_.
 
