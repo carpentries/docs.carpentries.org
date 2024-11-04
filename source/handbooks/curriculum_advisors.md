@@ -66,7 +66,7 @@ implementation.
 
 ## Onboarding
 
-- CAC recruitment takes place annually, based on term limits and turnover within committees.
+- *Due to restricted capacity in the Curriculum Team, regular Curriculum Advisor Onboarding is currently suspended.* Individual Curriculum Advisory Committees may choose to recruit new members independently, making use of the process and any/all of the resources described below as needed. If you are interested in joining an existing Curriculum Advisory Committee, we recommend that you contact the relevant group [via their mailing list on TopicBox](#mailing-list).
 - Rounds of recruitment will be announced on {{'[The Carpentries blog]({}/blog)'.format(carpentries_website)}}.
 - Volunteers will be asked to apply for the role by filling in a short web form describing their expertise and motivation for joining a committee.
 - Templates and workflows for CAC recruitment and onboarding are maintained in the [Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
@@ -127,7 +127,7 @@ We understand that circumstances can change and priorities must be re-evaluated.
 ## Communication and Collaboration Spaces
 
 
-Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our (code of conduct)[https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html].
+Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
 
 ### Meetings
 
@@ -138,7 +138,7 @@ Each Curriculum Advisory Committee will meet at least quarterly, and preferably 
 These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
 
 -  [Data Carpentry Curriculum Advisors](https://github.com/datacarpentry/curriculum-advisors)
--  [Library Carpentry Curriculum Advisors(https://github.com/LibraryCarpentry/)curriculum-advisors]
+-  [Library Carpentry Curriculum Advisors](https://github.com/LibraryCarpentry/curriculum-advisors)
 -  [Software Carpentry Curriculum Advisors](https://github.com/swcarpentry/curriculum-advisors)
 
 ### Collaborative Notetaking
@@ -254,8 +254,7 @@ Curriculum Advisor.
    Calendar. Include Etherpad and Zoom connection links in the invite.
 -  [Secretary](#secretary) Send meeting announcement using this
    [email template](#meeting-announcement).
--  [Chair](#chair) Determine meeting roles using a
-   [randomizer](http://random.com) or something similar
+-  [Chair](#chair) Determine meeting roles using random assignment
 -  [Chair](#chair) Create agenda on Etherpad, collecting agenda items
    from:
 -  Issues and pull requests tagged to the CAC on GitHub.
@@ -500,5 +499,5 @@ Best, [ sender name ]
 Maintainers?**
 
 Please review the [Curriculum Advisory Committee Consultation
-Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
+Rubric](#curriculum-advisory-committee-consultation-rubric).
 
