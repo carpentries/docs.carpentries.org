@@ -187,6 +187,8 @@ myst_substitutions = {
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
   "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
   "code_of_conduct": handbook_url + "/policies/coc/",
+  "handbook_url": handbook_url,
+
   "team_email": "team@carpentries.org",
   "instructor_training_email": "instructor.training@carpentries.org",
   "workshops_email": "workshops@carpentries.org",
@@ -194,6 +196,7 @@ myst_substitutions = {
   "community_email": "community@carpentries.org",
   "curriculum_email": "curriculum@carpentries.org",
   "gh_repo": "https://github.com/carpentries/handbook-beta",
+
 
   
 }
