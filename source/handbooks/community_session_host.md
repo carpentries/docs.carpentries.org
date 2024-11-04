@@ -143,6 +143,9 @@ a community discussion host.
    period. Calendly allows you to select dates and times in your
    timezone for the sessions you plan to host. Dates and times already
    selected will not display.
+
+![Calendly signup animation](/images/calendly.gif)
+
 -  Once hosts have scheduled themselves for a Community Discussion via
    Calendly, an automated workflow will add each event to the [Community
    Discussions
