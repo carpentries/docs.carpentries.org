@@ -329,20 +329,7 @@ Committees (CACs). It can be used by Maintainers to help determine
 whether to notify or ask the relevant CAC about a proposed change to
 their lesson.
 
-### [Curriculum Development Handbook](https://cdh.carpentries.org/)
-
-A guide to the lesson design process recommended by The Carpentries. The
-CDH provides details of the curriculum structure used in our Lesson
-Programs, the vocabulary we use to describe the [life cycle stages of
-the lesson](https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle),
-and the steps we encourage Lesson Maintainers to take through those
-stages. **Note: the Curriculum Team is in the process of replacing the
-content of the CDH with this handbook and
-the [Collaborative Lesson
-Development Training curriculum](https://carpentries.github.io/lesson-development-training/),
-and it is no longer actively updated.**
-
-[Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
+### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
 
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
