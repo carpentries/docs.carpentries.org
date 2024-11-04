@@ -240,19 +240,16 @@ URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/co
 {{'[Official Lessons in The Carpentries Lesson Programs]({}/lessons/)'.format(carpentries_website)}} are listed on The Carpentries website, based on metadata describing the lesson. This metadata is added in the form of topic tags on the lesson repository. These topic tags should be set as soon as possible after the lesson has been created or added to the Incubator. Some are essential and taken from a limited set of values, while others are more flexible. The table below has guidance about the types and number of topic tags each lesson repository should have.
 
 
-.. csv-table::
-   :widths: 20,20,10,50
-   :delim: ,
-   :header-rows: 1
+| Category   | Example            | Number | Description        |
+|------------|-------------------|--------|--------------------|
+| Lesson     | lesson             | 1      | Must be lesson to be listed on the Community Developed Lessons page     |
+| Location   | data-carpentry     | 1      | A description of what lesson program the lesson belongs to with words separated by hyphens (i.e software-carpentry, data-carpentry, and library-carpentry) |
+| Language   | español            | >0     | The language(s) the lesson is available in |
+| Stage      | stable             | 1      | The current development stage for the lesson |
+| Domain     | microbial-ecology  | 1-2    | The high-level domain(s) of the lesson for a general categorization |
+| Tools      | python             | 1-3    | The main tool(s) taught in the lesson   |
+| Skills     | taxonomic-classification | 1-3    | The main skill(s) taught in the lesson    |
 
-   Category, Example, Number, Description
-   Lesson, lesson, 1, Must be lesson to be listed on the Community Developed Lessons page
-   Location, data-carpentry, 1, "A description of what lesson program the lesson belongs to with words separated by hyphens (i.e software-carpentry, data-carpentry, and library-carpentry)"
-   Language,español,>0,The language(s) the lesson is available in
-   Stage,stable,1,The current development stage for the lesson
-   Domain,microbial-ecology,1-2,The high-level domain(s) of the lesson for a general categorization
-   Tools,python,1-3,The main tool(s) taught in the lesson
-   Skills,taxonomic-classification,1-3,The main skill(s) taught in the lesson
 
 The Curriculum Team will support you in setting appropriate topic tags
 for your lesson. To help ensure consistency across all lesson
