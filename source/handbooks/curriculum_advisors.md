@@ -66,7 +66,7 @@ implementation.
 
 ## Onboarding
 
-- CAC recruitment takes place annually, based on term limits and turnover within committees.
+- *Due to restricted capacity in the Curriculum Team, regular Curriculum Advisor Onboarding is currently suspended.* Individual Curriculum Advisory Committees may choose to recruit new members independently, making use of the process and any/all of the resources described below as needed. If you are interested in joining an existing Curriculum Advisory Committee, we recommend that you contact the relevant group [via their mailing list on TopicBox](#mailing-list).
 - Rounds of recruitment will be announced on {{'[The Carpentries blog]({}/blog)'.format(carpentries_website)}}.
 - Volunteers will be asked to apply for the role by filling in a short web form describing their expertise and motivation for joining a committee.
 - Templates and workflows for CAC recruitment and onboarding are maintained in the [Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
