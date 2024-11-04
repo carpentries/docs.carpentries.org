@@ -1,5 +1,12 @@
 # Community Session Hosts Handbook
 
+## About This Handbook
+
+The Community Discussion Host Handbook is designed to support members of The
+Carpentries community who are serving as a Community Discussion Host. It is maintained by The Carpentries Community Engagement Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Community Engagement Team](mailto:{})'.format(community_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+
+## Introduction
+
 Hosting a community discussion is a great way to meet more people in The
 Carpentries community, get to know the organisation better, learn from
 the experiences of others and share your knowledge and experience
@@ -518,13 +525,3 @@ formalized through the Community Development Program. If you are
 interested in learning more, please email community@carpentries.org.
 
 
-## About This Handbook
-
-The Community Discussion Host Handbook is a resource for members of The
-Carpentries community who are serving as a Community Discussion Host.
-This handbook provides information on how to receive relevant
-communications and includes step-by-step guides for serving in this
-role. The Carpentries Community Engagement Team manages the content of
-this handbook. To provide feedback, please email
-community@carpentries.org. If you are unfamiliar with any of the terms
-used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.

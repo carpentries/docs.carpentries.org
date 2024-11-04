@@ -176,7 +176,6 @@ handbook_url = "https://carpentries-beta-handbook-preview.netlify.app/"
 
 myst_substitutions = {
   "amy_link": "https://amy.carpentries.org",
-  "instructor_training_email":"instructor.training@carpentries.org",
   "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/",
   "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/",
   "topicbox": "https://carpentries.topicbox.com/groups",
@@ -187,7 +186,14 @@ myst_substitutions = {
   "codimd": "https://codimd.carpentries.org",
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
   "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
-  "code_of_conduct": handbook_url + "/policies/coc/"
+  "code_of_conduct": handbook_url + "/policies/coc/",
+  "team_email": "team@carpentries.org",
+  "instructor_training_email": "instructor.training@carpentries.org",
+  "workshops_email": "workshops@carpentries.org",
+  "membership_email": "membership@carpentries.org",
+  "community_email": "community@carpentries.org",
+  "curriculum_email": "curriculum@carpentries.org",
+  "gh_repo": "https://github.com/carpentries/handbook-beta",
 
   
 }

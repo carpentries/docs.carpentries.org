@@ -17,7 +17,7 @@ Users are expected to follow our [code of conduct]( https://docs.carpentries.org
 
 While Etherpads are generally reliable, you may find an Etherpad not loading as expected.  In this case, you can try appending `/export/html` to an Etherpad's url.  For example, if `https://pad.carpentries.org/committeename` is not loading, it may be possible to recover its text by going to `https://pad.carpentries.org/committeename/export/html`. This text content can then be copied and pasted to a new Etherpad. Note this will not preserve the Etherpad's history.  The chat will often still be active in the broken Etherpad, so it is recommended that you link to the new Etherpad in the broken Etherpad's chat.
 
-If other Etherpad issues arise, please contact us at team@carpentries.org and a team member will help you troubleshoot.
+If other Etherpad issues arise, please contact us at {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will help you troubleshoot.
 
 
 ## See Also
