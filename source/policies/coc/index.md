@@ -22,7 +22,7 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 ## Code of Conduct (Detailed View)
 
-Part 1. Introduction 
+### Part 1. Introduction 
 
 The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 
@@ -31,13 +31,13 @@ To make clear what is expected, everyone participating in The Carpentries activi
 The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). 
 All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. 
  
-Part 2. The Carpentries Code of Conduct
+### Part 2. The Carpentries Code of Conduct
 
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level. 
 
 Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which The Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information. 
 
-Part 2.1 Expected behaviour
+#### Part 2.1 Expected behaviour
 
 All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
@@ -49,7 +49,7 @@ All participants in our events and communications are expected to show respect a
 
 Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
-Part 2.2 Unacceptable behaviour
+#### Part 2.2 Unacceptable behaviour
 
 Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
 
@@ -67,7 +67,7 @@ Examples of unacceptable behaviour by participants at any Carpentries event/plat
 - continuing to initiate interaction (including photography or recording) with someone after being asked to stop  
 - publication of private communication without consent  
 
-Part 2.3 Consequences of Unacceptable behaviour
+#### Part 2.3 Consequences of Unacceptable behaviour
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
