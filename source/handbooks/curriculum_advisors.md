@@ -1,5 +1,13 @@
 # Curriculum Advisors Handbook
 
+## About This Handbook
+
+The Curriculum Advisor Handbook is designed to support members of The
+Carpentries community who are serving on a Curriculum Advisory
+Committee. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+
+## Introduction 
+
 Curriculum Advisors are part of a team that provides the oversight,
 vision, and leadership for a particular set of lessons. Curriculum
 Advisors represent The Carpentries community and should strive to embody
@@ -494,15 +502,3 @@ Maintainers?**
 Please review the [Curriculum Advisory Committee Consultation
 Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
 
-## About This Handbook
-
-
-The Curriculum Advisor Handbook is a resource for members of The
-Carpentries community who are serving on a Curriculum Advisory
-Committee. This handbook will provide you with information on how to
-receive relevant communications and includes a step-by-step guide for
-serving in this role. The Carpentries Curriculum Team manages the
-content of this handbook. To provide feedback, please email the
-[Curriculum Team](mailto:team@carpentries.org). If you are unfamiliar
-with any of the terms used in this handbook, please refer to our
-Glossary of Terms.
