@@ -1,6 +1,7 @@
 # Curriculum Overview Pages
+
 By default, The Carpentries Workbench is designed to build [lesson websites consisting of multiple episode pages](./curriculum-structure.md), reflecting the typical structure of our lessons.
-However, it is sometimes helpful to be able to provide a single-page "lesson" site, typically as an overview or "landing page" for a collection of lessons that belong together ([we call this a _curriculum_](./curriculum-structure.md#curriculum)).
+However, it is sometimes helpful to be able to provide a single-page "lesson" site, typically as an overview or "landing page" for a collection of lessons that belong together ([we call this a _curriculum_](./curriculum-structure.md)).
 
 In the Workbench, this is supported with the optional `overview` parameter in the global configuration file (`config.yaml`).
 Adding `overview: true` as a new line to `config.yaml` prevents the infrastructure from raising an error if no files are present in the `episodes` folder. The front page of the overview site is built from the `index.md` and `learners/setup.md` as usual.
