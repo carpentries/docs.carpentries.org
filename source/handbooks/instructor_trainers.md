@@ -1,5 +1,13 @@
 # Instructor Trainers Handbook
 
+## About This Handbook
+
+The Instructor Trainers Handbook is designed to support members of The
+Carpentries community who are serving as an Instructor Trainer. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(instructor_training_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+
+
+## Introduction 
+
 Instructor Trainers (‘Trainers’) are certified to co-teach Carpentries
 Instructor Training events, the first step in certification for
 Carpentries Instructors. Trainers also support 
@@ -908,10 +916,6 @@ Sincerely,
 Check your Calendly confirmation email for the Host Key. This key is
 also available in a message in the [Trainers Topicbox channel](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code). If you have difficulty, you can post in the #trainers channel on Slack.
 
-## About This Handbook
 
-Please include the following information:
 
--  What is the handbook for? Why does it exist?
--  Who is responsible for updating its content?
--  How can someone provide feedback on its content?
+

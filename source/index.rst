@@ -12,13 +12,14 @@ Resources
    :maxdepth: 1
    :name: general_resources
 
-    Carpentries Commons <https://docs.carpentries.org/topic_folders/communications/resources/commons.html>
     Code of Conduct <policies/coc/index>
-    Community Calendar <https://carpentries.org>
     Community Glossary <https://github.com/carpentries/community-engagement/blob/main/glossary.md>
     Style Guide <resources/communications/style-guide>
-    Welcome Tip Sheet <https://carpentries.org>
-
+    Welcome Tip Sheet <https://zenodo.org/records/10785524>
+    A Guide for Collaborating with The Carpentries on Grants <https://docs.carpentries.org/topic_folders/fundraising/collaborating-on-grants.html>
+    Donation Request Resources <https://docs.carpentries.org/topic_folders/fundraising/donation-request-resources.html>
+    Mastodon Quick Start Guide  <https://zenodo.org/records/10019853>
+    Toolkit of IDEAS  <https://zenodo.org/records/10391883>
 
 
 Quick Links
@@ -28,13 +29,12 @@ Quick Links
    :maxdepth: 1
    :name: genres
 
-    AMY database <https://amy.carpentries.org/>
-    Carpentries Incubator <https://carpentries.org/community-lessons/#the-carpentries-incubator>
-    Carpentries Lab <https://carpentries.org/community-lessons/#the-carpentries-lab>
+    Community Calendar <https://carpentries.org>
     Etherpad Pad of Pads <https://pad.carpentries.org/pad-of-pads>
     Self Organised Workshop Notification Form <https://amy.carpentries.org/forms/self-organised/>
     Training Website Template <https://github.com/carpentries/training-template>
     Workshop Website Template <https://github.com/carpentries/workshop-template>
+
 
 .. toctree::
     :hidden:

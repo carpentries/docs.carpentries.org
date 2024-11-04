@@ -1,5 +1,12 @@
 # Maintainers Handbook
 
+## About This Handbook 
+
+The Maintainers Handbook is designed to support members of The
+Carpentries community who are serving as a Lesson Maintainer. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+
+## Introduction
+
 The Carpentries Maintainers work with the community to ensure
 lessons stay up-to-date, accurate, functional and cohesive. Maintainers
 monitor their lesson repository, ensure that pull requests and issues
@@ -321,26 +328,5 @@ lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
 their own time.
 
-## FAQ
 
-List of frequently asked questions relevant to the content in the
-handbook.
 
-**Question 1**
-
-Response 1
-
-**Question 2**
-
-Response 2
-
-## About This Handbook
-
-This handbook is designed to support Maintainers - members of The
-Carpentries community who maintain one or more lesson repositories for
-our lesson programs. It is maintained by The Carpentries Curriculum
-Team. If you believe anything needs to be added or updated here, or if
-you would like to provide feedback on the content, please send an
-message to the [Curriculum Team](mailto:curriculum@carpentries.org)
-or open an issue on [the source repository of this
-handbook](https://github.com/carpentries/handbook-beta).
