@@ -191,6 +191,8 @@ myst_substitutions = {
   "instructor_training_email": "instructor.training@carpentries.org",
   "workshops_email": "workshops@carpentries.org",
   "membership_email": "membership@carpentries.org",
+  "community_email": "community@carpentries.org",
+  "curriculum _email": "curriculum@carpentries.org",
 
   
 }
