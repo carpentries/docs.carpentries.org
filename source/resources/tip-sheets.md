@@ -1,3 +1,4 @@
 # The Carpentries Tip Sheets
 
-A list of tip sheets will be on this page.  What other information should be on this page? 
+* [Welcome Tip Sheet](https://zenodo.org/records/10785524)
+* [Instructor Onboarding](https://zenodo.org/doi/10.5281/zenodo.8125137)
