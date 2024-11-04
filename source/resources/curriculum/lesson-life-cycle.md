@@ -36,7 +36,7 @@ The life cycle stage of lessons belonging to a Carpentries lesson program should
 Consultation is especially important before marking a lesson as beta or stable.
 
 ## What happens at each stage of the life cycle?
-[Pilot workshops](./lesson-pilots.md) are probably the most important events that take place before a lesson reaches stability. 
+[Pilot workshops](lesson-pilots.md) are probably the most important events that take place before a lesson reaches stability. 
 However, here are some other actions that lesson developers can take at different stages:
 
 * **Pre-alpha:**
@@ -46,10 +46,10 @@ However, here are some other actions that lesson developers can take at differen
   * If you intend the new lesson to join an existing Carpentries curriculum or lesson program, consult the relevant [Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) or [Lesson Program Governance Committee](https://carpentries.org/lesson-program-governance/) as early as possible.
 	These community governance groups can provide feedback on your plans and offer guidance on how to ensure successful integration of the new lesson.
 * **Alpha:**
-  * Run [alpha pilot workshops](./lesson-pilots.md#alpha-and-beta-pilots) and iterate on the design and content of the lesson.
+  * Run [alpha pilot workshops](lesson-pilots.md#alpha-and-beta-pilots) and iterate on the design and content of the lesson.
   * Raise awareness of the lesson in The Carpentries community
 * **Beta:**
-  * Find Instructors who can teach the lesson in [beta pilot workshops](./lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further. 
+  * Find Instructors who can teach the lesson in [beta pilot workshops](lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further. 
     Consider inviting those [beta pilot instructors](./lesson-development-roles.md#beta-pilot-instructors) to join the team developing/maintaining the lesson.
   * [Publish the lesson to Zenodo and obtain a DOI](./lesson-release.md)
   * [Submit the lesson for peer review in The Carpentries Lab](https://github.com/carpentries-lab/reviews/)

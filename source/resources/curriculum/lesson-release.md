@@ -1,6 +1,6 @@
 # Releasing a Lesson
 Making regular releases of your lesson gives you and your contributors an opportunity to celebrate the improvements that have been made, and make it easier for them to receive credit and recognition for the work they have put in.
-It is particularly important to release the lesson when it reaches key milestones in its development, e.g. before [beta pilot workshops](./lesson-pilots.md) or when it reaches [a stable state](./lesson-life-cycle.md).
+It is particularly important to release the lesson when it reaches key milestones in its development, e.g. before [beta pilot workshops](lesson-pilots.md) or when it reaches [a stable state](./lesson-life-cycle.md).
 
 If you [publish the lesson on Zenodo](#publishing-the-lesson-on-zenodo) when you release it, you will receive a Digital Object Identifier that you and others can use to refer to the lesson and/or a particular version.
 Publishing the lesson makes it more findable by other people, and -- if you include your [ORCID iD](https://info.orcid.org/what-is-orcid/) identifier in the information about its authors -- helps you list the project on your public profile.
