@@ -75,7 +75,7 @@ Provide practical tips and more theoretical guidance about how to:
 
 - **Create a resource for good practices for lesson design.** This resource should be shared with all the participants to assist them in designing lessons to be as effective as possible.
   Consult [the _Collaborative Lesson Development Training_ curriculum](https://carpentries.github.io/lesson-development-training/) for a process and recommendations that you and your collaborators can follow when creating the lesson material during the sprint.
-  Some of the other [_Curriculum Resources_](../curriculum.md) provided in this handbook, as well as the [_Lesson Developer Handbook_](../../handbooks/lesson_developers.md), may also be helpful.
+  Some of the other {{'[_Curriculum Resources_]({}/resources/curriculum)'.format(handbook_url)}} provided in this handbook, as well as the [_Lesson Developer Handbook_](../../handbooks/lesson_developers.md), may also be helpful.
 
 - **Prepare a video call link for all sprint sessions.**
   **[Online]** If your sprint is taking place across multiple sessions, or will include multiple video calls between participants, try to provide a single meeting link for them all.
