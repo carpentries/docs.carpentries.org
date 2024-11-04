@@ -326,12 +326,5 @@ Committees (CACs). It can be used by Maintainers to help determine
 whether to notify or ask the relevant CAC about a proposed change to
 their lesson.
 
-### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
-
-A lesson designed to teach skills and good practices in lesson design,
-lesson website development, and collaboration via GitHub. Community
-members can apply to join this training, and/or follow the curriculum in
-their own time.
-
 
 
