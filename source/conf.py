@@ -187,7 +187,8 @@ myst_substitutions = {
   "codimd": "https://codimd.carpentries.org",
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
   "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
-  "code_of_conduct": handbook_url + "/policies/coc/"
+  "code_of_conduct": handbook_url + "/policies/coc/",
+  "handbook_url": handbook_url,
 
   
 }
