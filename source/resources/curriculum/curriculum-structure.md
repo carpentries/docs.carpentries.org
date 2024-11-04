@@ -5,7 +5,7 @@ Lessons are built from a series of _episodes_.
 More detailed definitions of these terms are available in [the community glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
 
 
-![The structure of curricula in The Carpentries](curriculum-structure.png "schematic showing that a lesson program includes one or more curricula, which each include one or more lessons, which each include one or more episodes.")
+![The structure of curricula in The Carpentries](img/curriculum-structure.png "schematic showing that a lesson program includes one or more curricula, which each include one or more lessons, which each include one or more episodes.")
 
 The table below provides some examples of lessons and episodes that exist within each of our lesson programs. 
 
