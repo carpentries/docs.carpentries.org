@@ -51,7 +51,7 @@ While lesson developers and Maintainers handle the day-to-day improvement and up
 If a new lesson is intended to be incorporated into an existing curriculum, the lesson developers should consult the existing Curriculum Advisory Committee about their plans as early in the development process as possible. For example, lesson developers might share an overview of the planned design and content of the lesson before investing a lot of time in creating material. This early consultation allows Curriculum Advisors to comment on the planned lesson, evaluate how easily it will fit into the existing curriculum, and consider the impact it may have on other lessons therein.
 
 ### Resources for Curriculum Advisors
-The [Curriculum Advisors Handbook](../../handbooks/curriculum-advisors.md) includes more information on the role, the logistics of how Curriculum Advisory Committees are run, etc.
+The {{'[Curriculum Advisors Handbook]({}/handbooks/curriculum_advisors)'.format(handbook_url)}} includes more information on the role, the logistics of how Curriculum Advisory Committees are run, etc.
 
 
 ## Reviewers
