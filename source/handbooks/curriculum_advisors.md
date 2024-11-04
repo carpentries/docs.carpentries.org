@@ -254,8 +254,7 @@ Curriculum Advisor.
    Calendar. Include Etherpad and Zoom connection links in the invite.
 -  [Secretary](#secretary) Send meeting announcement using this
    [email template](#meeting-announcement).
--  [Chair](#chair) Determine meeting roles using a
-   [randomizer](http://random.com) or something similar
+-  [Chair](#chair) Determine meeting roles using random assignment
 -  [Chair](#chair) Create agenda on Etherpad, collecting agenda items
    from:
 -  Issues and pull requests tagged to the CAC on GitHub.
