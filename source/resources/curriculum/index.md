@@ -7,5 +7,5 @@
 * [**The Life Cycle of Lessons**](lesson-life-cycle.md): A description of the "life cycle" model we use to describe the maturity of lessons under development, and a list of resources and activities that can be helpful at each stage of the process.
 * [**Releasing a Lesson**](lesson-release.md): A description of how to prepare a lesson release and publish it to Zenodo.
 * [**Carpentries Curriculum Structure**](curriculum-structure.md): An overview of how lessons and curricula are organised in The Carpentries.
-
+* [**Lesson Pilot Workshops**](lesson-pilots)
 

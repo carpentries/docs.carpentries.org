@@ -478,6 +478,10 @@ survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48
 can be copied and adapted to suit the needs of your lesson, and shared
 with learners in place of the standard post-workshop survey.
 
+### {{'[Lesson Pilot Workshops]({}/resources/curriculum/lesson-pilots.html)'.format(handbook_url)}}
+
+
+
 ### Beta Announcement Templates
 
 
