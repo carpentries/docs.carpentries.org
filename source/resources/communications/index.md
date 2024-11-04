@@ -21,7 +21,7 @@
 
 * [Presentations](presentations.md)
 
-## Carpentries Commons
+## Carpentries Commons and Zenodo
 
 * [The Carpentries Commons](https://github.com/carpentries/commons) and [Zenodo](https://zenodo.org/communities/carpentries/records?q=&l=list&p=1&s=10&sort=newest)
 
