@@ -6,4 +6,6 @@
 * [**Lesson Sprint Recommendations**](lesson-sprint-recommendations.md): A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
 * [**The Life Cycle of Lessons**](lesson-life-cycle.md): A description of the "life cycle" model we use to describe the maturity of lessons under development, and a list of resources and activities that can be helpful at each stage of the process.
 * [**Releasing a Lesson**](lesson-release.md): A description of how to prepare a lesson release and publish it to Zenodo.
+* [**Carpentries Curriculum Structure**](curriculum-structure.md): An overview of how lessons and curricula are organised in The Carpentries.
+
 
