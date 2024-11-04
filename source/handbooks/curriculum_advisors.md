@@ -500,5 +500,5 @@ Best, [ sender name ]
 Maintainers?**
 
 Please review the [Curriculum Advisory Committee Consultation
-Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
+Rubric](#curriculum-advisory-committee-consultation-rubric).
 
