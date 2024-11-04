@@ -193,6 +193,7 @@ myst_substitutions = {
   "membership_email": "membership@carpentries.org",
   "community_email": "community@carpentries.org",
   "curriculum _email": "curriculum@carpentries.org",
+  "gh_repo": "https://github.com/carpentries/handbook-beta",
 
   
 }
