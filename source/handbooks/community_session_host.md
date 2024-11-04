@@ -149,7 +149,7 @@ a community discussion host.
 -  Once hosts have scheduled themselves for a Community Discussion via
    Calendly, an automated workflow will add each event to the [Community
    Discussions
-   Etherpad]((https://pad.carpentries.org/community-sessions-2024)) and
+   Etherpad](https://pad.carpentries.org/community-sessions-2024) and
    the [Community
    Calendar](https://carpentries.org/community/#community-events).
    Another communication from the Community Engagement Team will inform
@@ -176,7 +176,7 @@ sign up to attend and collaboratively take notes, they can add the
 events using [Calendly](https://calendly.com/thecarpentries) during
 the signup period as described in the [Signing Up to Host a Community
 Discussion Session section of this
-handbook](#signing-up-to-host-a-community-discussion). This will
+handbook](#step-by-step-guides). This will
 automatically add the event to the Community Calendar and the
 Etherpad. To learn more about becoming a Community Coordinator, please
 visit the [FAQs section of this handbook](#faq).
