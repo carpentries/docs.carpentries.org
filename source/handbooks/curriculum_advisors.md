@@ -127,7 +127,7 @@ We understand that circumstances can change and priorities must be re-evaluated.
 ## Communication and Collaboration Spaces
 
 
-Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our (code of conduct)[https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html].
+Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
 
 ### Meetings
 
