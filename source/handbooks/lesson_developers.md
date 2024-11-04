@@ -489,23 +489,5 @@ to publicise the beta version of a lesson. These can be used to call for
 community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
-## FAQ
-
-**Question 1**
-
-Response 1
-
-**Question 2**
-
-Response 2
 
 
-## About This Handbook
-
-This handbook is designed to support members of The Carpentries
-community who are developing new lessons in The Carpentries Incubator.
-It is maintained by The Carpentries Curriculum Team. If you believe
-anything needs to be added or updated here, or if you would like to
-provide feedback on the content, please email the [Curriculum
-Team](mailto:curriculum@carpentries.org), or open an issue on the
-[source repository of this handbook](https://github.com).
