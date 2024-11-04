@@ -138,7 +138,7 @@ Each Curriculum Advisory Committee will meet at least quarterly, and preferably 
 These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
 
 -  [Data Carpentry Curriculum Advisors](https://github.com/datacarpentry/curriculum-advisors)
--  [Library Carpentry Curriculum Advisors(https://github.com/LibraryCarpentry/)curriculum-advisors]
+-  [Library Carpentry Curriculum Advisors](https://github.com/LibraryCarpentry/curriculum-advisors)
 -  [Software Carpentry Curriculum Advisors](https://github.com/swcarpentry/curriculum-advisors)
 
 ### Collaborative Notetaking
