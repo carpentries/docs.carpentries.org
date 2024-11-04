@@ -1,12 +1,11 @@
 # Lesson Developers Handbook
 
-Lesson Developers create new lessons using The Carpentries open source
-lesson infrastructure. This lesson development takes place in The
-Carpentries Incubator, a space for the community to collaborate on
-lesson projects.
+## About This Handbook 
+
+The Lesson Developers Handbook is designed to support members of The
+Carpentries community who are serving as a Lesson Developer. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
 ## Roles and Responsibilities
-
 
 Beyond ensuring that the lesson remains compliant with the requirements
 for inclusion in [The Carpentries
@@ -490,23 +489,5 @@ to publicise the beta version of a lesson. These can be used to call for
 community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
-## FAQ
-
-**Question 1**
-
-Response 1
-
-**Question 2**
-
-Response 2
 
 
-## About This Handbook
-
-This handbook is designed to support members of The Carpentries
-community who are developing new lessons in The Carpentries Incubator.
-It is maintained by The Carpentries Curriculum Team. If you believe
-anything needs to be added or updated here, or if you would like to
-provide feedback on the content, please email the [Curriculum
-Team](mailto:curriculum@carpentries.org), or open an issue on the
-[source repository of this handbook](https://github.com).

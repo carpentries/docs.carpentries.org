@@ -1,5 +1,12 @@
 # Instructors Handbook
 
+## About This Handbook
+
+The Instructor Handbook is designed to support members of The
+Carpentries community who are serving as an Instructor. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+
+## Introduction
+
 Carpentries Instructors are volunteers who are certified through the
 Carpentries Instructor Training program to teach live-coding and data
 skills to learners through evidence based-teaching practices.
@@ -551,14 +558,4 @@ content in the handbook.
         please do let us know as we will not be able to pull information
         from your website without updating the link in our database.
 
-## About This Handbook
 
-
--   What is the handbook for? Why does it exist?
-    -   To provide understanding of a Carpentries workshop and how they
-        are organised and managed
--   Who is responsible for updating its content?
-    -   The Workshops and Instruction Team
--   How can someone provide feedback on its content?
-    -   Email the [Workhops and Instruction
-        Team](mailto:workshops@carpentries.org)

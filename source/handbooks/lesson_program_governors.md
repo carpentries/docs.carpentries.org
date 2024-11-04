@@ -1,5 +1,12 @@
 # Lesson Program Governor Handbook
 
+## About This Handbook 
+
+The Lesson Program Governor Handbook is designed to support members of The
+Carpentries community who are serving as a Lesson Program Governor. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+
+## Introduction 
+
 Lesson Program Governors are members of **Lesson Program Governance Committees (LPGCs)**, groups of community members that oversee and guide the strategy and health of The Carpentries Lesson Programs.
 
 The responsibilities of Lesson Program Governance Committees fall into three main categories of leadership: strategy, advocacy, and communication.
@@ -145,5 +152,3 @@ Official policy from The Carpentries Executive Council describing how individual
 #### About this resource
 The Carpentries general policy for committees is provided by the Executive Council. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
 
-## About This Section
-This section of the handbook is designed to support members of Lesson Program Governance Committees within The Carpentries community. It is maintained by The Carpentries Curriculum Team. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please send a message to the team at <curriculum@carpentries.org>, or open an issue on [the source repository of this handbook](https://github.com/carpentries/docs.carpentries.org).
