@@ -1,6 +1,6 @@
-### Workshop Checklists
+# Workshop Checklists
 
-#### Host Checklist
+## Host Checklist
 
 A workshop host contacts The Carpentries Core Team about running a workshop. They will work with The Carpentries Workshop Administration Team to plan and implement the workshop.
 
@@ -35,13 +35,13 @@ A workshop host contacts The Carpentries Core Team about running a workshop. The
 1. Pay the workshop fee (only for Centrally-Organised workshops)
 1. Reimburse the instructors
 
-#### Billing Guidelines
+### Billing Guidelines
 Payment for workshops is generally due 30 days after the invoice is issued.
 
 Invoices overdue 4 or more months may lead to the cessation of work on current activities involving the organisation to whom the overdue invoice was issued until the payment process is addressed.
 
 
-#### Instructor Checklist
+## Instructor Checklist
 
 The Workshop Administration Team will introduce workshop hosts and instructors.
 
@@ -74,7 +74,7 @@ The Workshop Administration Team will introduce workshop hosts and instructors.
 1. Take part in a [community discussion](https://pad.carpentries.org/community-discussions)
 1. Report any lesson errors or suggest improvements on GitHub or by email to The Carpentries Workshop Administration Team
 
-#### Helper Checklist
+## Helper Checklist
 
 Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
@@ -141,6 +141,6 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 More info can be found here: {{'[Code of Conduct]({})'.format(code_of_conduct)}}
 
-#### Email Templates
+## Email Templates
 
 Use [these](email_templates.md) templated emails for communicating with the learners
