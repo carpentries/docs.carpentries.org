@@ -430,12 +430,7 @@ content in the handbook.
         the survey data, using the 'Download CSV' link at the bottom
         right of the survey results page.
 -   **Who can be a Helper and what do they contribute to the workshop?**
-    -   [Helpers](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist)
-        are often recruited from the local community at the host site to
-        support Carpentries workshops. Helpers support learners
-        one-on-one if they are stuck installing software, understanding
-        a certain line of code, or any other parts of the learning
-        process.
+    - {{"[Helpers]({}//resources/workshops/checklists.html#helper-checklist)".format(handbook_url)}} are often recruited from the local community at the host site to         support Carpentries workshops. Helpers support learners        one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 -   **How do I sign up to teach a Centrally-Organised Workshop?**
     -   In order to sign-up to teach a Centrally-Organised Workshop you
         must login to {{"[AMY profile]({})".format(amy_link)}} using your
