@@ -10,7 +10,7 @@ A workshop host contacts The Carpentries Core Team about running a workshop. The
 1. Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/)
 1. Work with The Carpentries Workshop Administration Team to set dates and location for your workshop, unless your workshop is virtual
     * Be sure to account for other events and programs at your site that may affect room availability and participant availability
-    * Ensure your location is [accessible](workshop_needs.html#accessibility)
+    * Ensure your location is [accessible](workshop_needs.md#accessibility)
 1. Recruit helpers to join your workshop. They do not need to be directly connected with The Carpentries. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
 1. Advertise your workshop. For Centrally-organised workshops the Workshop Administration Team can help by creating an Eventbrite registration page.
 1. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
