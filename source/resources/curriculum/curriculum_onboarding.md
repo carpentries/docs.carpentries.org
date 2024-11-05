@@ -1,6 +1,7 @@
-## Creating Curriculum Onboarding Materials for Instructors
+# Creating Curriculum Onboarding Materials for Instructors
 
-### For Curriculum Developers
+## For Curriculum Developers
+
 1. Make a copy of [the Curriculum Onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit)
     - If preparing an onboarding session for a Data Carpentry, Library Carpentry, or Software Carpentry curriculum, you can use one of the following lesson program-specific templates:
         - [Data Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1VTBWHL5BHPfZ0Ejiuwk5lUGFUGaLTujTs_OfybrEZrA/edit)
@@ -25,7 +26,7 @@
     - A curriculum onboarding presentation should be no more than 45 minutes long.
 5. Share the recording, a link to the slides, and a copy of the script (if you have one) with The Carpentries Curriculum Team (curriculum@carpentries.org), who will edit it and publish in the [Curriculum Onboarding Videos playlist](https://www.youtube.com/watch?v=gfaNFaKIOrY&list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) on our YouTube channel.
 
-### For Core Team
+## For Core Team
 
 1. Review the video and check the following:
     - The presentation and recording conforms to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
