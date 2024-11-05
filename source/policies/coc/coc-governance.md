@@ -48,7 +48,7 @@ Quorum in meetings is more than 50% of the non-liaison CoCc members.
 
 For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer to {{"[Incident Response Guidelines]({}/policies/coc/incident-response)".format(handbook_url)}}.)
 
-The Incident Response Lead of the {{"[Incident Response Group]({}/policies/coc/enforcement-guidelines)".format()}} will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the {{"[guidelines for responding]({}/policies/coc/enforcement-guidelines)".format()}}.
+The Incident Response Lead of the {{"[Incident Response Group]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}} will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the {{"[guidelines for responding]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}}.
 
 Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
 
@@ -65,7 +65,7 @@ New Chairs are selected from among those who have been on the Committee for at l
 
 ## Main duties of the position holders
 
-All members of the CoCc must read, understand and abide by the {{"[membership agreement]({}/policies/coc/coc-membership-agreement)".format()}}.
+All members of the CoCc must read, understand and abide by the {{"[membership agreement]({}/policies/coc/coc-membership-agreement)".format(handbook_url)}}.
 
 In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below.
 
