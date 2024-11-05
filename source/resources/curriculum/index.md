@@ -8,4 +8,5 @@
 * [**Releasing a Lesson**](lesson-release.md): A description of how to prepare a lesson release and publish it to Zenodo.
 * [**Carpentries Curriculum Structure**](curriculum-structure.md): An overview of how lessons and curricula are organised in The Carpentries.
 * [**Lesson Pilot Workshops**](lesson-pilots)
+* **{{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}**
 

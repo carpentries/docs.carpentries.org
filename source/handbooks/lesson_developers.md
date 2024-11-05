@@ -480,10 +480,7 @@ with learners in place of the standard post-workshop survey.
 
 ### {{'[Lesson Pilot Workshops]({}/resources/curriculum/lesson-pilots.html)'.format(handbook_url)}}
 
-
-
 ### Beta Announcement Templates
-
 
 A [template beta announcement blog
 post](https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing)
@@ -493,5 +490,6 @@ to publicise the beta version of a lesson. These can be used to call for
 community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
+### {{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}
 
-
+### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}

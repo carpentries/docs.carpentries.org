@@ -492,6 +492,10 @@ Please let me know if you have any questions or comments.
 
 Best, [ sender name ]
 
+
+### {{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}
+
+
 ## FAQ
 
 

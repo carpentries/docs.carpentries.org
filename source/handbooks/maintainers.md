@@ -240,19 +240,16 @@ URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/co
 {{'[Official Lessons in The Carpentries Lesson Programs]({}/lessons/)'.format(carpentries_website)}} are listed on The Carpentries website, based on metadata describing the lesson. This metadata is added in the form of topic tags on the lesson repository. These topic tags should be set as soon as possible after the lesson has been created or added to the Incubator. Some are essential and taken from a limited set of values, while others are more flexible. The table below has guidance about the types and number of topic tags each lesson repository should have.
 
 
-.. csv-table::
-   :widths: 20,20,10,50
-   :delim: ,
-   :header-rows: 1
+| Category   | Example            | Number | Description        |
+|------------|-------------------|--------|--------------------|
+| Lesson     | lesson             | 1      | Must be lesson to be listed on the Community Developed Lessons page     |
+| Location   | data-carpentry     | 1      | A description of what lesson program the lesson belongs to with words separated by hyphens (i.e software-carpentry, data-carpentry, and library-carpentry) |
+| Language   | español            | >0     | The language(s) the lesson is available in |
+| Stage      | stable             | 1      | The current development stage for the lesson |
+| Domain     | microbial-ecology  | 1-2    | The high-level domain(s) of the lesson for a general categorization |
+| Tools      | python             | 1-3    | The main tool(s) taught in the lesson   |
+| Skills     | taxonomic-classification | 1-3    | The main skill(s) taught in the lesson    |
 
-   Category, Example, Number, Description
-   Lesson, lesson, 1, Must be lesson to be listed on the Community Developed Lessons page
-   Location, data-carpentry, 1, "A description of what lesson program the lesson belongs to with words separated by hyphens (i.e software-carpentry, data-carpentry, and library-carpentry)"
-   Language,español,>0,The language(s) the lesson is available in
-   Stage,stable,1,The current development stage for the lesson
-   Domain,microbial-ecology,1-2,The high-level domain(s) of the lesson for a general categorization
-   Tools,python,1-3,The main tool(s) taught in the lesson
-   Skills,taxonomic-classification,1-3,The main skill(s) taught in the lesson
 
 The Curriculum Team will support you in setting appropriate topic tags
 for your lesson. To help ensure consistency across all lesson
@@ -321,13 +318,19 @@ on their computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
 
-### [Curriculum Advisory Committee Consultation Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html)
+### {{'[Curriculum Advisory Committee Consultation Rubric]({}/handbooks/curriculum_advisors.html#curriculum-advisory-committee-consultation-rubric)'.format(handbook_url)}}
 
 This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs). It can be used by Maintainers to help determine
 whether to notify or ask the relevant CAC about a proposed change to
 their lesson.
+
+### {{'[Lesson Sprint Recommendations]({}/resources/curriculum/lesson-sprint-recommendations.html)'.format(handbook_url)}}
+
+A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
+
+### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}
 
 ### [Curriculum Development Handbook](https://cdh.carpentries.org/)
 
@@ -348,6 +351,7 @@ A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
 their own time.
+
 
 
 
