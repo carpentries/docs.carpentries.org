@@ -75,6 +75,13 @@ When re-taking a training, trainees who miss more than 2 hours may be marked abs
 Trainees who miss an event in full without cancelling within 7 days (no-show) or who miss part of an event but do not request a makeup opportunity within 7 days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
 
 
+### Checkout Extensions Policy
+
+Trainees are asked to complete checkout within 90 days of attending an Instructor Training event. Having a deadline is necessary to support busy people in prioritising a goal we all care about. However, it is sometimes necessary for trainees to postpone completing checkout. 
+
+Trainees who are unable to complete checkout within the 90-day deadline should contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact instructor.training@carpentries.org to explore opportunities to re-take the training.
+
+
 ## Offboarding
 
 If you are no longer interested in receiving emails about upcoming
