@@ -1,8 +1,8 @@
-## The Carpentries Task Force Guidelines
+# The Carpentries Task Force Guidelines
 
 These guidelines provide the recommended process for establishing a task force to ensure transparency, accountability, and sustainability of task forces' activities.
 
-### Task Force Proposal
+## Task Force Proposal
 A task force proposal should:
 - explain the need for or the context of the task force
 - list the aims and objectives of the task force
@@ -13,10 +13,10 @@ issue](https://github.com/carpentries/task-forces/issues) in the
 [*task forces* repository](https://github.com/carpentries/task-forces) in [The Carpentries GitHub](https://github.com/carpentries/) or
 by emailing the proposal to the [Core Team](mailto:team@carpentries.org).
 
-### Task Force Formation
+## Task Force Formation
 Task force proposals do not require formal approval, though the [Core Team should be informed](mailto:team@carpentries.org) of task force formation. Active task forces are listed in [The Carpentries task forces repository](https://github.com/carpentries/task-forces) with a link to its public documentation.
 
-### Task Force Operations
+## Task Force Operations
 The following are recommended guidelines for committees. Each committee should:
 
 - Create the official [task force charter](https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md), 
@@ -42,16 +42,16 @@ including the task force's roles and responsibilities
 The task force's public documentation should be stored in a folder within the [`task-forces` repository](https://github.com/carpentries/task-forces) 
 in [The Carpentries GitHub](https://github.com/carpentries/).
 
-### Task Force Termination
+## Task Force Termination
 A task force will naturally cease to function upon fulfilling its goals, in which case the Core Team should be notified. 
 
-### Past & Current Task Forces
+## Past & Current Task Forces
 
 - [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) - a recurring task force that gets periodically
   reformed to organise the international [CarpentryCon](https://carpentries.org) conference on behalf of The Carpentries.
 - Other past and current task forces can be found in [The Carpentries Task Force Repository](https://github.com/carpentries/task-forces).
 
-### Update Log
+## Update Log
 - 2024-01-25: Renamed Task Force Policy to Task Force Guidelines, including recommendations and removing requirements for task forces.
 - [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council. 
 - [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council. 
