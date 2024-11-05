@@ -1,13 +1,13 @@
-### Email templates
+# Email templates
 
-#### From Regional Coordinator
+## From Regional Coordinator
 
 Regional Coordinators use Helpscout to manage communication around workshop administration.  All email templates used to communicate with workshop Organisers, Hosts, and Instructors can be found in Helpscout.
 
 
-#### From Instructors and Hosts
+## From Instructors and Hosts
 
-##### For Self-Organised Workshops: Recruiting Co-instructor
+### For Self-Organised Workshops: Recruiting Co-instructor
 
 Subject: Recruiting co-instructors for Carpentry Workshop
 
@@ -26,7 +26,7 @@ Best,
 [ sender name ]
 
 
-##### Recruiting Helpers
+### Recruiting Helpers
 
 Subject: Recruiting helpers for Carpentry Workshop
 
@@ -41,7 +41,7 @@ Best,
 [ sender name ]
 
 
-##### Advertising your workshop  
+### Advertising your workshop  
 
 Subject: Carpentries workshop at [ site name ]  
 
@@ -72,7 +72,7 @@ Best,
 [ sender name ]
 
 
-##### Email Learners before Workshop   
+### Email Learners before Workshop   
 
 Hello,  
 
@@ -103,7 +103,7 @@ Best,
 [ sender name ]
 
 
-##### Email Helpers before Workshop   
+### Email Helpers before Workshop   
 
 Hi [ helper names ],
  
@@ -122,7 +122,7 @@ Best,
 
 
 
-##### Email Learners after Workshop  
+### Email Learners after Workshop  
 
 Hello,
 Thank you for attending our [ Data/Library/Software ] Carpentry workshop. We hope that you had fun and learned a lot of useful skills. 
@@ -138,7 +138,7 @@ Best,
 [ sender name ]
 
 
-##### Encourage Learners to Complete Pre-workshop Survey
+### Encourage Learners to Complete Pre-workshop Survey
 
 Hello,
 
@@ -151,7 +151,7 @@ If you have any questions about our assessment strategy, please contact Kari L. 
 Our best,  
 Your instructors
 
-##### Encourage Learners to Complete Post-workshop Survey
+### Encourage Learners to Complete Post-workshop Survey
 
 Hello,
 
@@ -161,23 +161,5 @@ If you have any questions about our assessment strategy, please contact Kari L. 
 
 Our best,  
 Your instructors
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

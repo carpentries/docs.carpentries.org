@@ -1,8 +1,8 @@
-## Resources for Online Workshops
+# Resources for Online Workshops
 
 In the wake of COVID-19 in early 2020, The Carpentries community came together to share experiences, tips, and best practices for teaching online. This page lists all the resources developed and links to ongoing conversations by The Carpentries Core Team and community on different platforms.
 
-#### Resources by The Carpentries
+## Resources by The Carpentries
 
 The Carpentries convened a [Task Force to address the urgent demand for online Carpentries workshops](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) as communities have shifted to distance work across the globe. The Task Force concluded its work on April 1, with an initial set of guidelines for teaching, supporting, and communicating about fully online versions of all Data Carpentry, Library Carpentry, and Software Carpentry workshops.
 
@@ -13,11 +13,11 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 - Announcing a New Series of Online Workshop Themed Discussions. Learn more [here](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/)
 - Carpentries Handbook: [How to use Zoom Rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts)
 
-#### Resources by Community
+## Resources by Community
 
 Carpentries community members have written many blog posts and facilitated several webinars on this topic and they are listed below. If you are looking to write a blog post on your experiences from online workshops, check out the [blog post prompts](#blog-post-prompts) section.  
 
-##### Blog posts
+### Blog posts
 
 - Elizabeth Wickes on March 12, [Tips for Live Teaching Tech Online, Deeply Informed by The Carpentries](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)
 - Collaborative blog posts by Carpentries community in March 2020 as a result of this [call for contributions](https://twitter.com/thecarpentries/status/1238479488037593088)
@@ -42,7 +42,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - Selorm Tamakloe on 13 October, [Reflections on my First Data Carpentry Workshop](https://carpentries.org/blog/2020/10/reflections-on-my-first-Data-Carpentry-workshop/)
 - Ariel Deardorff, Reid Otsuji, Stephanie Labou, Tim Dennis, Khue Duong, Elizabeth McAulay, Leigh Phan on 22 October, [Teaching a Library Carpentry Workshop in Southern California (and the Virtual Yonder)](https://carpentries.org/blog/2020/10/teaching-a-library-carpentry-workshop-in-southern-california/)
  
-##### Blog post prompts
+#### Blog post prompts
  
 Review these if you are looking to write about your teaching experiences: 
 
@@ -63,7 +63,7 @@ Review these if you are looking to write about your teaching experiences:
 8. Would you be willing to share your experience briefly in a Themed Discussion session around running online workshops in the future? If yes, we would afford you a 5-15 minute slot to share your experiences. How much time would you need?
 
 
-##### Webinars and Community Calls 
+### Webinars and Community Calls 
 
 - Jason Bell on February 27, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8)
 - Darya Vanichkina on April 7, [Jumping into digital: Lessons learned while moving live-coding workshops online](https://youtu.be/w0DHye2M1IM)
@@ -77,7 +77,7 @@ Review these if you are looking to write about your teaching experiences:
   - on July 15 by Angelique van Rensburg and Serah Rono - [Carpentries Instructors' Experiences from Teaching Online - Session One](https://youtu.be/vNIyz__WiM8)
   - on July 23 by Kelly Barnes and Sher! Hurt - [Carpentries Instructors' Experiences from Teaching Online - Session Two](https://youtu.be/STA9DQF5J3E)
 
-##### Other Relevant Resources
+## Other Relevant Resources
 
 - UK Software Sustainbility Institute's [guidance for running online training events](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/)
 - Laura Czerniewicz on March 15, [What we learnt from “going online” during university shutdowns in South Africa](https://philonedtech.com/what-we-learnt-from-going-online-during-university-shutdowns-in-south-africa/)
@@ -91,7 +91,7 @@ Review these if you are looking to write about your teaching experiences:
 
 
 
-#### Discussions in Carpentries Socials
+## Discussions in Carpentries Socials
 
 - March 17, [Is COVID-19 virus demanding alternative software carpentry workshop delivery options?](https://carpentries.topicbox.com/groups/discuss/Tbc9cd93eb778c88f-M2d6f00dfbc11c39d45c4f734/discuss-re-is-covid-19-virus-demanding-alternative-software-carpentry-workshop-delivery-options) discussion on TopicBox
 - April 6, [Post-workshop eval questions related to online delivery?](https://carpentries.topicbox.com/groups/discuss/Te89ac5e6b2f4c3b6-M79691c07b99dc8a455597c88/post-workshop-eval-questions-related-to-online-delivery) discussion on TopicBox
