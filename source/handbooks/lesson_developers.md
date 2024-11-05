@@ -494,4 +494,4 @@ community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
 
-
+### {{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}
