@@ -139,8 +139,8 @@ Avoid saying things like:
 If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2), who will take the appropriate action to address the situation.
 
 
-More info can be found here: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+More info can be found here: {{'[Code of Conduct]({})'.format(code_of_conduct)}}
 
 #### Email Templates
 
-Use [these](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) templated emails for communicating with the learners
+Use [these](email_templates.md) templated emails for communicating with the learners

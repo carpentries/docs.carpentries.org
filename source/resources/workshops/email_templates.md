@@ -90,7 +90,7 @@ Here are some links that will be used in the workshop: workshop page [ link to w
 
 Getting to the workshop: [ add directions to your workshop location ]  
 
-Please review The Carpentries Code of Conduct (http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
+Please review {{"[The Carpentries Code of Conduct]({})".format(code_of_conduct)}} so that we all are aware of how to treat each other respectfully.  
 
 We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
 
@@ -111,7 +111,7 @@ Thanks for making yourselves available to help with the [ workshop name ] worksh
  
 The workshop is being held at [ add location and directions ]. The teaching component will be [ start to finish time ]. Please arrive at the venue at [ briefing time ] for a briefing – we will go through the schedule for the day and make sure we all have an understanding of the goals for the day. We want to ensure the learners optimise their time with us. 
  
-The material we will be teaching is available at: [ add workshop webpage ]. Please review it prior to the workshop and review  the Code of Conduct for The Carpentries workshops that we will be abiding by: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+The material we will be teaching is available at: [ add workshop webpage ]. Please review it prior to the workshop and review  the Code of Conduct for The Carpentries workshops that we will be abiding by: {{ code_of_conduct }}
  
 [ Say if you will be providing coffee, snacks, and/or lunch. Include time of lunch break if not providing lunch ]. Please bring a drink bottle and/or a reusable cup so we can reduce waste.
  
