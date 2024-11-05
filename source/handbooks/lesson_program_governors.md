@@ -115,7 +115,7 @@ You can access The Carpentries mailing lists from
 
 These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. . Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). 
+To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). 
 
 ## Step-by-Step Guides
 
@@ -146,9 +146,10 @@ The slide deck from Greg Wilson’s How to Run a Meeting session was delivered t
 ### [Lesson Program Governance Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy)
 
 #### About this resource
-Official policy from The Carpentries Executive Council describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs
+Official policy from The Carpentries Executive Council describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
 
 ### [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
+
 #### About this resource
 The Carpentries general policy for committees is provided by the Executive Council. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
 
