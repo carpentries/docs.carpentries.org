@@ -103,7 +103,7 @@ The following LPGC repositories exist on GitHub, for collecting meeting minutes,
 ### Slack
 
 {{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. Although decision-making should be done in meetings and/or publicly visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
-If you are new to Slack, please check out our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
+If you are new to Slack, please check out our [Slack Quick Start Guide](#).
 
 ### TopicBox
 You can access The Carpentries mailing lists from
@@ -121,8 +121,6 @@ To join one or more Carpentries mailing lists, you will need to {{'[create a log
 
 ### Writing a blog post
 Blog posts are a good way to publicise information to the community and call for contributions/feedback. Posts can be published to The Carpentries website by submitting a Markdown source file to [the carpentries/carpentries.org GitHub repository](https://github.com/carpentries/carpentries.org) via pull request. Blog post templates (as [a GoogleDoc template](https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) and [a CodiMD template](https://codimd.carpentries.org/blog-post-template?both)) are provided to help you get started.
-
-See the section of this handbook on [Collaborative Blog Post Writing](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html) for step-by-step instructions on how to add a blog post to The Carpentries website.
 
 The Curriculum Team can help LPGCs draft and publish blog posts.
 
@@ -148,7 +146,7 @@ The slide deck from Greg Wilson’s How to Run a Meeting session was delivered t
 #### About this resource
 Official policy from The Carpentries Executive Council describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
 
-### [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
+### {{"[Committee Policy]({}/resources/general/committees)".format(handbook_url)}}
 
 #### About this resource
 The Carpentries general policy for committees is provided by the Executive Council. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.

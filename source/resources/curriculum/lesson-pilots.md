@@ -47,7 +47,7 @@ If you are developing a lesson in The Carpentries Incubator,
 you can recruit pilot hosts by putting out a call via 
 [the *discuss* TopicBox list](https://carpentries.topicbox.com/groups/discuss),
 [the *general* channel on The Carpentries Slack workspace](https://carpentries.org/connect/),
-[by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html),
+by publishing a post on our blog,
 and/or by any other communications channel that you think appropriate
 (e.g. the mailing list of a specific community likely to be interested in the lesson topic).
 You may find this
@@ -110,7 +110,7 @@ If you wish to recruit Instructors for a pilot workshop,
 try putting a call out on
 [local/regional community mailing lists](https://carpentries.topicbox.com/groups),
 any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these),
-and/or [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
+and/or by publishing a post on our blog.
 Please do not post calls for Instructors to the general or instructors channel on Slack, or the discuss and instructors lists on TopicBox. Any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
 for assistance.
 

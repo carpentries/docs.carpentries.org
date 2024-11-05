@@ -57,6 +57,6 @@ Help us teach data skills to the communities that need them most.<br />
 
 ## Appeal Images
 ### Fundraising Letter Pull Quote
-![Fundraising Letter Pull Quote](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/EOCY-fundraising-letter-pullquote.jpg)
+![Fundraising Letter Pull Quote](img/EOCY-fundraising-letter-pullquote.jpg)
 ### Fundraising Video Title Card
-![Fundraising Video Title Card](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/fundraising-video-title-card.jpg)
+![Fundraising Video Title Card](img/fundraising-video-title-card.jpg)

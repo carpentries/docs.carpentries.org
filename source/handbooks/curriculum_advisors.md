@@ -174,8 +174,7 @@ from members of the Core Team are posted to both channels.
 {{'[Slack]({})'.format(slack)}} is a communications platform adopted by
 The Carpentries for instant messaging as well as synchronous and
 asynchronous collaboration. If you are new to Slack, please checkout our
-[Slack Quick Start
-Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
+[Slack Quick Start Guide](#).
 
 There are many curriculum-specific channels. We recommend that
 Curriculum Advisors join the channels for all lessons within their

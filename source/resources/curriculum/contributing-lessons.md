@@ -82,7 +82,7 @@ Repositories that are **not** eligible for contribution credit include forks of 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
-[handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
+[handbook-amy]: https://carpentries.github.io/amy/users_guide/community_index/
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
 [contact-page]: https://carpentries.org/contact/
 [carpentries-incubator]: https://github.com/carpentries-incubator/

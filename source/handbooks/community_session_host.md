@@ -84,8 +84,7 @@ Discussion Host mailing list.
 
 This section includes a list of communication channels and collaboration
 spaces that support Community Discussion Hosts. Participants in these
-spaces are expected to follow [The Carpentries code of
-conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+spaces are expected to follow {{"[The Carpentries Code of Conduct]({})".format(code_of_conduct)}}. 
 A description of the tools listed can be found in [the community
 glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
 
@@ -115,7 +114,7 @@ to follow conversations on the channel relevant to this role:
 -  #discussion-hosts: channel for Community Discussion Hosts and those
    interested in hosting community discussions
 
-If Slack is new to you, our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide) will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
+If Slack is new to you, our [Slack Quick Start Guide](#) will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
 
 ### Mailing List
 
@@ -250,8 +249,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
    everyone has enough time to share. When dividing attendees into two
    groups, try to balance the number of people who are de-briefing, who
    are there for pre-workshop help, and who are instructor trainees.
-   [Learn more about how to set up and use breakout
-   rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#creating-breakout-rooms).
+   {{"[Learn more about how to set up and use breakout rooms]({}//resources/communications/zoom_rooms.html)".format(handbook_url)}}.
 
 #### After the Discussion Session
 
@@ -268,9 +266,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 
 -  Clear the information from the session (date/time, attendees, notes)
    from the Etherpad.
--  (Optional) [Write a blog
-   post](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html)
-   about interesting points that came up in the discussion.
+-  (Optional) Write a blog post about interesting points that came up in the discussion.
 
 #### Cancelling a Discussion Session
 
@@ -465,8 +461,7 @@ background noise?**
 
 As a host, you will have the privilege to mute other participants, or
 you could ask the person directly to mute their microphone. `Learn more
-about how to use [host features in
-Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts).
+about how to use {{"[host features in Zoom]({}//resources/communications/zoom_rooms.html)".format(handbook_url)}}
 
 **What if I forget to complete the host questionnaire?**
 
@@ -478,9 +473,7 @@ hosting your session.
 **What if someone breaks the Code of Conduct? What if someone had a
 report of misconduct?**
 
-In the case that this happens, The Carpentries has a set of[ guidelines
-that can be
-followed](https://docs.carpentries.org/topic_folders/policies/incident-response.html).
+In the case that this happens, The Carpentries has a {{'[set of guidelines that can be followed]({})'.format(code_of_conduct)}}.
 
 **What if one person doesn’t contribute to the conversation?**
 

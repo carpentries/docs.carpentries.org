@@ -34,7 +34,7 @@ See <https://codimd.carpentries.org/features> for a full list of features availa
 Use of this service is restricted to members of The Carpentries community;
 this is not for general purpose use (for that, try [HackMD](https://hackmd.io/)).
 
-Users are expected to follow our [code of conduct]( https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Users are expected to follow our {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}}.
 All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
 
@@ -73,4 +73,4 @@ please contact us at team@carpentries.org and a team member will help you troubl
 
 ## See Also
 
-[Etherpad](https://docs.carpentries.org/topic_folders/communications/tools/etherpads.html) is another collaborative note taking platform used by the community members.
+{{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} is another collaborative note taking platform used by the community members.
