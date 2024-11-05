@@ -226,18 +226,18 @@ Curriculum Advisor.
 
 ### Meeting Checklist
 
--  [Secretary](#secretary) Create an availability poll using whenisgood
+-  Secretary: Create an availability poll using whenisgood
    (or a similar service). Be sure to enable the “use timezones” feature.
--  [Secretary](#secretary) Start scheduling the meeting using the
+-  Secretary: Start scheduling the meeting using the
    email template#scheduling-a-meeting.
--  [Secretary](#secretary) Determine the best meeting time (or two if
+-  Secretary: Determine the best meeting time (or two if
    needed) from the availability poll. Create an event time announcement
    using TimeandDate (or a similar service). Include an event time
    announcement link in all communications about meeting times.
--  [Secretary](#secretary) Set up a meeting room with Zoom (or
+-  Secretary: Set up a meeting room with Zoom (or
    similar service). If you need a room provided by The Carpentries,
    contact [The Carpentries]mailto:team@carpentries.org>.
--  [Secretary](#secretary) Set up Etherpad. For the first meeting,
+-  Secretary: Set up Etherpad. For the first meeting,
    create Etherpad by visiting your desired URL starting with
    {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an
    Etherpad pre-populated with standard language about The Carpentries.
@@ -250,12 +250,12 @@ Curriculum Advisor.
    -  Meeting roles (leave blank for the Chair to fill in)
    -  Agenda (leave blank for Chair to fill in)
 
--  [Secretary](#secretary) Send meeting invitations on Google
+-  Secretary: Send meeting invitations on Google
    Calendar. Include Etherpad and Zoom connection links in the invite.
--  [Secretary](#secretary) Send meeting announcement using this
+-  Secretary: Send meeting announcement using this
    [email template](#meeting-announcement).
--  [Chair](#chair) Determine meeting roles using random assignment
--  [Chair](#chair) Create agenda on Etherpad, collecting agenda items
+-  Chair: Determine meeting roles using random assignment
+-  Chair: Create agenda on Etherpad, collecting agenda items
    from:
 -  Issues and pull requests tagged to the CAC on GitHub.
 
@@ -268,15 +268,15 @@ Curriculum Advisor.
       information, as well as an approximate length of time for
       discussion. Notify the Secretary when the agenda is ready to share.
 
--  [Chair](#chair) Maintain open agenda items as issues to the CAC
+-  Chair: Maintain open agenda items as issues to the CAC
    GitHub repository. Update these with links to relevant conversations
    (e.g. tagging other issues in various lessons, or copying in emails
    from community members), re-opening/closing issues as needed.
--  [Secretary](#secretary) Send meeting reminder using this email
+-  Secretary: Send meeting reminder using this email
    template#meeting-reminder.
--  [Chair](#chair) Ensure that meeting proceeds smoothly using the
+-  Chair: Ensure that meeting proceeds smoothly using the
    assigned meeting roles.
--  [Secretary](#secretary) Compile meeting minutes from notes. Add
+-  Secretary: Compile meeting minutes from notes. Add
    minutes as a PR to the GH repository using the file format
    MONTH-minutes.md. Include in minutes:
 
@@ -285,14 +285,14 @@ Curriculum Advisor.
    -  Agenda items discussed, a summary of each discussion, and outcomes
       of any votes taken
 
--  [Chair](#chair) Review and edit or approve minutes. Merge PR.
--  [Secretary](#secretary) Send meeting follow-up to the group using this
+-  Chair: Review and edit or approve minutes. Merge PR.
+-  Secretary: Send meeting follow-up to the group using this
    email template. Include a link to minutes and information about any
    follow-up tasks.
--  [Chair](#chair) Communicate about decisions with relevant
+-  Chair: Communicate about decisions with relevant
    Maintainers or other community members as needed using individual
    lesson repositories, mailing lists, or other channels as appropriate.
--  [Secretary](#secretary) Set reminder to self to schedule next
+-  Secretary: Set reminder to self to schedule next
    meeting.
 
 ## Resources
