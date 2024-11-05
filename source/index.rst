@@ -16,8 +16,8 @@ Resources
     Community Glossary <https://github.com/carpentries/community-engagement/blob/main/glossary.md>
     Style Guide <resources/communications/style-guide>
     Welcome Tip Sheet <https://zenodo.org/records/10785524>
-    A Guide for Collaborating with The Carpentries on Grants <https://docs.carpentries.org/topic_folders/fundraising/collaborating-on-grants.html>
-    Donation Request Resources <https://docs.carpentries.org/topic_folders/fundraising/donation-request-resources.html>
+    A Guide for Collaborating with The Carpentries on Grants <resources/general/collaborating-on-grants>
+    Donation Request Resources <resources/general/donation-request-resources>
     Mastodon Quick Start Guide  <https://zenodo.org/records/10019853>
     Toolkit of IDEAS  <https://zenodo.org/records/10391883>
 

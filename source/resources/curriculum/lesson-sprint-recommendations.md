@@ -39,7 +39,7 @@ Provide practical tips and more theoretical guidance about how to:
   If your lesson repository does not already have a code of conduct, add one.
   Like licenses, we do not recommend that you write your own code of conduct from scratch.
   Instead, re-use/adapt an existing text you find online.
-  We recommend [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which was designed with exactly these kinds of project in mind.
+  We recommend The Carpentries {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}}, which was designed with exactly these kinds of project in mind.
   Assign at least one person as the contact person/facilitator for matters relating to the Code of Conduct, and make sure all sprint participants are aware of who this is and how they should connect with them.
   You can do this by including their details in the "primer" information you provide to participants before the event and by introducing them when you mention the code of conduct at the start of the sprint itself.
 

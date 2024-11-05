@@ -12,9 +12,9 @@ The main purpose of the CoCc is to: establish, maintain and uphold the Code of C
 In order to uphold the CoC, the CoCc members will:
 
 * support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures.
-* learn about the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#) and [reporting guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  
-* understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual) put in place for the relevant community spaces.
-* actively help develop and maintain existing and new documents to facilitate the work of the [CoCc](https://github.com/carpentries/docs.carpentries.org/tree/main/topic_folders/policies). 
+* learn about the {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}} and {{"[reporting guidelines]({}/policies/coc/incident-reporting)".format(handbook_url)}}, and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  
+* understand and be comfortable to act on CoC related reports as per the {{"[enforcement guidelines]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}} put in place for the relevant community spaces.
+* actively help develop and maintain existing and new documents to facilitate the work of the {{"[Code of Conduct Committee]({}/policies/coc/)".format(handbook_url)}}. 
 * avoid *conflicts of interest* [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC.
 * maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee.
 * not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so.
@@ -64,7 +64,7 @@ New committee members will be included in committee discussions only after they 
 ## Relevant information:
 
 * CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)
-* [CoC Handbook Documentation](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+* {{"[Code of Conduct Handbook Documentation]({}/policies/coc/)".format(handbook_url)}}
 
 
 ## References:

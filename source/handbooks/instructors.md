@@ -146,7 +146,7 @@ relevant to the Instructor role, please consider joining the following channels:
     Channel](https://swcarpentry.slack.com/archives/C08BVNU00)
 
 If you are new to Slack, please check out our [Slack Quick Start
-Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
+Guide](#).
 
 ### TopicBox
 
@@ -185,9 +185,6 @@ the mailing lists that require administrator approval).
 10.  Join a community discussion
 11. Confirm criteria for reimbursement (per diem or save receipts)
 
-From the [Instructor
-Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist).
-
 ### Setting Up a Workshop Website
 
 For instructions on setting up a website for a workshop, please visit the
@@ -199,9 +196,6 @@ Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedan
 is a guide to help Instructors/Workshop Hosts teach Self-Organised
 workshops. The checklist provides a high-level overview of all the steps needed
 to successfully coordinate a Carpentries workshop from beginning to end.
-
-[Tips For Instructors --- The Carpentries Handbook
-documentation](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
 
 ### Software Installation
 
@@ -271,8 +265,7 @@ Workshops](https://carpentries.org/blog/2020/04/scaffolds/)
 
 ### About the Code of Conduct
 
-The [Carpentries Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+The {{'[Code of Conduct]({})'.format(code_of_conduct)}}
 is a key tool for fostering and upholding an inclusive, respectful
 learning environment. But for people who are new to the idea of a Code
 of Conduct, it can be a little awkward to talk about. Here is a sample
@@ -299,12 +292,9 @@ all Carpentries events and platforms:
 -   Show courtesy and respect towards other community members
 
 Examples of unacceptable behaviour by participants at any Carpentries
-event/platform can be found in the [Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines).
+event/platform can be found in the {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
 We Instructors take the Code of Conduct very seriously, and we have a
-process for dealing with violations and complaints. Read the [Reporting
-Guidelines
-section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines)
+process for dealing with violations and complaints. Read the {{'[Reporting Guidelines section]({})'.format(code_of_conduct)}}
 for the details on how to handle Code of Conduct violations.
 
 ### Using Exercises
@@ -448,10 +438,8 @@ content in the handbook.
         process.
 -   **How do I sign up to teach a Centrally-Organised Workshop?**
     -   In order to sign-up to teach a Centrally-Organised Workshop you
-        must login to `AMY`{.interpreted-text role="term"} using your
-        GitHub credentials. The [handbook has
-        instructions](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#teaching)
-        on how to sign-up.
+        must login to {{"[AMY profile]({})".format(amy_link)}} using your
+        GitHub credentials. Refer to the [AMY documentation](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities) for more information on how to sign up.
 
 ### Curricula
 
@@ -538,10 +526,7 @@ content in the handbook.
         for a workshop.
 -   **How do I sign-up to teach a Centrally-Organised Workshops?**
     -   In order to sign-up to teach a Centrally-Organised Workshop you
-        must login to AMY using your GitHub credentials. The [handbook
-        has
-        instructions](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#teaching)
-        on how to sign-up.
+        must login to AMY using your GitHub credentials. Refer to the [AMY documentation](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities) on how to sign-up.
 
 #### In-person workshop
 
@@ -586,7 +571,7 @@ content in the handbook.
 -   **How many times a year do I have to teach to be eligible to vote?**
     -   Instructors are required to teach at least one time per year to
         be eligible for voting. Please find our
-        [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#individual-voting-membership)
+        {{"[Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}
         for more information.
 -   **What happens if I need to make changes to my workshop website?**
     -   Please feel free to make changes to your website. You do not

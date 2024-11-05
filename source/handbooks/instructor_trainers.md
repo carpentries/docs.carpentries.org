@@ -59,7 +59,7 @@ The Instructor Trainer community periodically accepts new members via applicatio
 
 To be certified as an Instructor Trainer, all trainees must:
 
-* Agree to abide by the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with The Carpentries community  
+* Agree to abide by the {{'[Code of Conduct]({})'.format(code_of_conduct)}} in all communications and interactions with The Carpentries community  
 * Attend weekly virtual seminar meetings  
   * Time commitment: 1 hour per week for 10 weeks; can miss up to 2 meetings   
   * Meeting times are determined by a poll. Trainees may wait for a future cohort if their scheduling needs are unmet.  
@@ -181,7 +181,7 @@ Instructor Trainers may also wish to join:
 * **\#Instructor-training**: this low-traffic channel is open to the full community for questions or conversations related to Instructor Training  
 * **\#jobs**: recruit more Carpentries folks to build your community at work, or find a new post that values Carpentries credentials
 
-New to Slack? Check out our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide)\!
+New to Slack? Check out our [Slack Quick Start Guide](#).
 
 ### TopicBox
 
@@ -253,9 +253,9 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 * If you would like to review an example teaching demo, there is a [recording of one here](https://www.youtube.com/watch?v=3NCpPk8jvQo).  
 * Instructor Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) section of the Instructor Training Curriculum.  
-* Get acquainted with using [Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html) for videoconferencing.  
+* Get acquainted with using {{"[Zoom]({}/resources/communications/zoom_rooms.html)".format(handbook_url)}} for videoconferencing.  
 * Check your Calendly confirmation email for the Host Key to use on Zoom, and keep this where you can find it. This will be necessary to allow trainees to screen share during your demo.  
-* A day or two before the demo, send a reminder to trainees based on this [email template](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#reminder-teaching-demo). This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.  
+* A day or two before the demo, send a reminder to trainees based on this [email template](#reminder-teaching-demo). This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.  
 * Trainees will select their starting point. Suggested start points are available in the [Instructor Training Curriculum (under More)](https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).   
 * If a trainee has selected a lesson that is not on the list above, you may ask them to choose a different lesson or, if you are familiar with the lesson, you may choose a start point and allow them to use it anyway. Be sure the start point does not require any setup or rely on any dependencies from prior episodes.
 
@@ -278,7 +278,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 * Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.  
 * Save Etherpad by selecting the “star” at the top right of the screen  
 * Clear Etherpad of data from your session.  
-* Send each trainee an email using our templates (\#) letting them know they [passed](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#trainee-passed-teaching-demo) or [did not pass](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
+* Send each trainee an email using our templates letting them know they [passed](#trainee-passed-teaching-demo) or [did not pass](#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
 
 #### Cancel a Demo
 

@@ -13,18 +13,18 @@ New members are invited to sit in the CoCc as full members upon their onboarding
 
 Members invited or elected as Staff/Core Team and EC liaison, as well as selected through open calls for volunteers, will become full members through the following onboarding process:	
 
-* Read [The Carpentries CoC document](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-  * Review CoC [process flow diagram](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#process-flow-diagram)
+* Read {{"[the Code of Conduct document]({}/policies/coc/)".format(handbook_url)}}
+  * Review CoC {{"[process flow diagram]({}/policies/coc/)".format(handbook_url)}}
 * Read first chapter of [How to respond to Code of Conduct Reports](https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view), a book by Valerie Aurora, based on a short guide written by Mary Gardiner.
 * Read the four CoC policy documents
-  * [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html)
-  * [Incident Reporting Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html)
-  * [Incident Response Procedure](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html)
-  * [Termed Suspension Guidelines](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html)
-* Review the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html) (includes confidentiality agreement)
-* Review the [CoCc Governance Document](https://docs.carpentries.org/topic_folders/policies/coc-governance.html)
+- [Incident Response Guidelines](incident-response.md)
+- [Incident Reporting Guidelines](incident-reporting.md)
+- [Incident Response Procedure](enforcement-guidelines.md)
+- [Termed Suspension Guidelines](termed-suspension.md)
+* Review the [membership agreement](coc-membership-agreement.md) (includes confidentiality agreement)
+* Review the [CoCc Governance Document](coc-governance.md)
 * Participate in an onboarding meeting: Bring questions, challenge our processes and finish onboarding.
-* Send an acknowledgment of the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html) by email to the committee .
+* Send an acknowledgment of the [membership agreement](coc-membership-agreement.md) by email to the committee.
 
 ### Access to CoCc resources
 
@@ -42,7 +42,7 @@ The Onboarding committee will file a GitHub Issue to update the composition of t
 * Only the Staff Liaison and the CoCc chair have access to the restricted Google Drive where reports are received and stored - and names and information of the reporters and reportees are maintained. They are responsible for communicating that with the rest of the committee. 
 * All notes are maintained in another Google drive that are accessible for all CoCc members. Report handling meeting notes are taken with pseudonymised the reporter and reportee names.
 * All transparency reports are released periodically on GitHub repository for Executive Council, maintained under The Carpentries GitHub organisation: https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports. 
-* All CoCc policies are released on The Carpentries Handbook: https://docs.carpentries.org/topic_folders/policies/index_coc.html. 
+* All CoCc policies are released on {{"[The Carpentries Handbook]({}/policies/coc/)".format(handbook_url)}}. 
 
 
 ### Next steps
@@ -51,7 +51,7 @@ The Onboarding committee will file a GitHub Issue to update the composition of t
 * All CoCc members will be eligible to join general discussion and business meetings upon their onboarding
 * New Staff/Core Team Liaison will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and had a handover meeting with the previous Team Liaison stepping down from this role
 * New EC Liaison will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and had a handover meeting with the previous EC Liaison stepping down from this role
-* All members will follow the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html) (includes confidentiality agreement) and the [governance procedure](https://docs.carpentries.org/topic_folders/policies/coc-governance.html#)  closely
+* All members will follow the [membership agreement](coc-membership-agreement.md) (includes confidentiality agreement) and the [governance procedure](coc-governance.md) closely
 
 
 ## Follow-up Procedures
