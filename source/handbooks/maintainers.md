@@ -318,13 +318,19 @@ on their computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
 
-### [Curriculum Advisory Committee Consultation Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html)
+### {{'[Curriculum Advisory Committee Consultation Rubric]({}/handbooks/curriculum_advisors.html#curriculum-advisory-committee-consultation-rubric)'.format(handbook_url)}}
 
 This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs). It can be used by Maintainers to help determine
 whether to notify or ask the relevant CAC about a proposed change to
 their lesson.
+
+### {{'[Lesson Sprint Recommendations]({}/resources/curriculum/lesson-sprint-recommendations.html)'.format(handbook_url)}}
+
+A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
+
+### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}
 
 
 
