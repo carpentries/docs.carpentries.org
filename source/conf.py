@@ -175,28 +175,39 @@ suppress_warnings = ['autosectionlabel.*']
 handbook_url = "https://carpentries-beta-handbook-preview.netlify.app/"
 
 myst_substitutions = {
+  # AMY links
   "amy_link": "https://amy.carpentries.org",
-  "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/",
-  "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/",
-  "topicbox": "https://carpentries.topicbox.com/groups",
+  "amy_docs": "https://carpentries.github.io/amy/users_guide/community_index/",
+
+  # Communications
   "slack": "https://carpentries.slack.com",
   "slack_invite": "https://slack-invite.carpentries.org/",
-  "carpentries_website": "https://carp-new-website.netlify.app",
+  "topicbox": "https://carpentries.topicbox.com/groups",
   "etherpad": "https://pad.carpentries.org",
   "codimd": "https://codimd.carpentries.org",
+
+  # GitHub repos
+  "gh_repo": "https://github.com/carpentries/handbook-beta",
+
+  # Curricula
+  "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/",
+  "maintainer_onboarding": "https://carpentries.github.io/maintainer-onboarding/",
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
+
+  # General resources
   "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
   "code_of_conduct": handbook_url + "/policies/coc/",
+
+  # Websites
+  "carpentries_website": "https://carp-new-website.netlify.app",
   "handbook_url": handbook_url,
 
+  # Email contacts
   "team_email": "team@carpentries.org",
   "instructor_training_email": "instructor.training@carpentries.org",
   "workshops_email": "workshops@carpentries.org",
   "membership_email": "membership@carpentries.org",
   "community_email": "community@carpentries.org",
   "curriculum_email": "curriculum@carpentries.org",
-  "gh_repo": "https://github.com/carpentries/handbook-beta",
 
-
-  
 }
