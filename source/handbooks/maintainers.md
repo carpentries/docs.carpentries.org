@@ -235,29 +235,6 @@ understanding of the content. The “good first issue” label is used so
 extensively that GitHub provides a page at `[repository
 URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/contribute>) for every repository, listing issues with this label.
 
-### Adding Topic Tags to a Lesson Repository
-
-{{'[Official Lessons in The Carpentries Lesson Programs]({}/lessons/)'.format(carpentries_website)}} are listed on The Carpentries website, based on metadata describing the lesson. This metadata is added in the form of topic tags on the lesson repository. These topic tags should be set as soon as possible after the lesson has been created or added to the Incubator. Some are essential and taken from a limited set of values, while others are more flexible. The table below has guidance about the types and number of topic tags each lesson repository should have.
-
-
-| Category   | Example            | Number | Description        |
-|------------|-------------------|--------|--------------------|
-| Lesson     | lesson             | 1      | Must be lesson to be listed on the Community Developed Lessons page     |
-| Location   | data-carpentry     | 1      | A description of what lesson program the lesson belongs to with words separated by hyphens (i.e software-carpentry, data-carpentry, and library-carpentry) |
-| Language   | español            | >0     | The language(s) the lesson is available in |
-| Stage      | stable             | 1      | The current development stage for the lesson |
-| Domain     | microbial-ecology  | 1-2    | The high-level domain(s) of the lesson for a general categorization |
-| Tools      | python             | 1-3    | The main tool(s) taught in the lesson   |
-| Skills     | taxonomic-classification | 1-3    | The main skill(s) taught in the lesson    |
-
-
-The Curriculum Team will support you in setting appropriate topic tags
-for your lesson. To help ensure consistency across all lesson
-repositories developed by The Carpentries community, please refer
-to [this listing](https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing)
-of topic tags currently in use in The Carpentries Incubator, and re-use
-these values where appropriate, creating new topic tags where no
-pre-existing label exists for your lesson.
 
 ### Informing Community Members about a Period of Absence
 
