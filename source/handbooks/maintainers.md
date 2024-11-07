@@ -205,8 +205,7 @@ After selecting the workflow you want to run, select ‘run workflow’ near the
 
 ![The interface to manually run a workflow, annotated to highlight the most relevant part of the interface](../img/run-workflow.png)
 
-If this process does not work, or you receive error messages from the workflow and it fails to complete, contact the [Curriculum Team](mailto:curriculum@carpentries.org) and/or ask for help in the [#workbench channel on Slack](https://carpentries.slack.com/archives/C03DEQ5T2DA).
-
+If this process does not work, or you receive error messages from the workflow and it fails to complete, contact the [Curriculum Team](mailto:curriculum@carpentries.org) and/or ask for help in the {{'[workbench channel on Slack]({}/archives/C03DEQ5T2DA)'.format(slack)}}.
 
 ### Using Issue Labels to Promote Collaboration
 

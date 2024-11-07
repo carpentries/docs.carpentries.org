@@ -137,13 +137,11 @@ Below is a list of Etherpads relevant to serving as a *Instructor*.
 
 ### Slack
 
-[Join The Carpentries Slack workspace!](https://swc-slack-invite.herokuapp.com/) To follow conversations
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} To follow conversations
 relevant to the Instructor role, please consider joining the following channels:
 
--   [The Carpentries General
-    Channel](https://swcarpentry.slack.com/archives/C03LE48AY)
--   [The Carpentries Instructor
-    Channel](https://swcarpentry.slack.com/archives/C08BVNU00)
+-   The Carpentries General Channel
+-   The Carpentries Instructor Channel
 
 If you are new to Slack, please check out our [Slack Quick Start
 Guide](#).
