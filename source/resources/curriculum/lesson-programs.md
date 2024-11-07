@@ -1,8 +1,8 @@
-## Lesson Programs
+# Lesson Programs
 
 The Carpentries supports and maintains Lesson Programs. Lesson Programs are collections of lessons comprising one or more Carpentries workshops, serving distinct goals and audience, and the leadership guiding their development and implementation.
 
-From [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html):  
+From {{'[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)'.format(carpentries_website)}}:  
 *A Lesson Program within The Carpentries possesses the following characteristics:  
 - Intention and purpose for lessons that align with The Carpentries mission and vision
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
@@ -19,7 +19,7 @@ This page contains:
 
 
 
-### Roles and Responsibilities of Lesson Programs
+## Roles and Responsibilities of Lesson Programs
 
 - The Lesson Program follows all general policies as outlined by The Carpentries, including, but not limited to, the Code of Conduct.
 - The Lesson Program workshops are conducted and administered as outlined in The Carpentries Handbook, including tracking activities and using at least one certified instructor per workshop.
@@ -32,7 +32,7 @@ This page contains:
 - The Lesson Program has a workshop fee structure consistent with The Carpentries.
 - The Lesson Program will follow the procedures and guidelines of The Carpentries administrative and financial management structure.
 
-### Roles and Responsibilities of The Carpentries
+## Roles and Responsibilities of The Carpentries
 
 - The Carpentries Core Team and affiliates will coordinate Lesson Program workshops in accordance with standard workshop coordination practices as outlined in The Carpentries Handbook.
 - The Carpentries will enable the Lesson Programs to make use of all The Carpentries infrastructure, including workshop coordination tools and database.
@@ -50,11 +50,11 @@ This page contains:
 - The Carpentries general revenue through Memberships, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.  
 - The Carpentries maintains and documents an administrative and financial management structure that supports the Lesson Program.
 
-### Lesson Program Incubation Roadmap
+## Lesson Program Incubation Roadmap
 
 The Roadmap describes the three phases of a Carpentries Lesson Program: Pre-incubation, Incubation as a Lesson Project, and Adoption as a Lesson Program. Advancement from one phase to the next requires a proposal and approval process involving both Core Team and the Executive Council. Approval of a new Lesson Program requires substantial investment from both the applicants and The Carpentries. In the case of the previous applicant for Lesson Program (Library Carpentry), the process was aided by a grant supporting a full-time Core Team member, and took about a year (though the community existed for several years prior). Details for each phase are described below.
 
-#### Phase 1: Pre-incubation
+### Phase 1: Pre-incubation
 
 Pre-incubation is the initial phase of development of a lesson program during which a group of individuals come together to develop a new curriculum or Lesson Project to teach a specific set of skills to a targeted audience of learners. Groups that are developing Lesson Projects often come together organically for discussions regarding audience, need, learning objectives, and content. This phase is often quite long, possibly years.
 
@@ -95,14 +95,14 @@ The Executive Council will decide on one of the options below:
 - Recommend revisions to the application or work that needs to be undertaken before the application can be approved or before it can be resubmitted for consideration, whichever the Executive Council specifies.
 - Reject the application for Incubation, providing reason(s) for rejection if appropriate.
 
-#### Phase 2: Incubation
+### Phase 2: Incubation
 
 Once approved for Incubation, the Lesson Project must accomplish specific requirements within a defined time frame (maximum 18 months) to be agreed upon between the Lesson Project and The Carpentries. 
 The Carpentries will also have specific responsibilities toward the Lesson Project during this time (see Role of The Carpentries During Incubation).
 
 During the Incubation phase, the Lesson Project will complete the following tasks:
 
-##### 1. Policies and Processes
+#### 1. Policies and Processes
 _Goal: to ensure compliance with existing Carpentries policies and processes._
 
 1. Agree to abide by The Carpentries Code of Conduct (CoC)
@@ -111,7 +111,7 @@ _Goal: to ensure compliance with existing Carpentries policies and processes._
 1. Define at least one curriculum that fits The Carpentries two-day workshop structure
 1. Agree for the Lesson Project to be included in Organizational Membership agreements
 
-##### 2. Governance
+#### 2. Governance
 _Goal: to ensure consistency with existing lesson program governance, and accountability for leading the work during Incubation._
 
 1. Establish a culturally and linguistically diverse Lesson Program Committee (LPC) of at least three people to serve as a governance body and point of contact with The Carpentries.
@@ -119,7 +119,7 @@ _Goal: to ensure consistency with existing lesson program governance, and accoun
 1. The LPC should meet at least quarterly to oversee Lesson Project activities.
 1. The LPC must demonstrate experience having discussions and making decisions by providing The Carpentries Core Team and Board of Directors with access to meeting minutes.
 
-##### 3. Contributions
+#### 3. Contributions
 _Goal: to ensure a community of sufficient size and health exists to support the new Lesson Program after adoption._
 
 1. Assign at least three maintainers to maintain each of the lessons, without unreasonable overlap between the maintainer teams of each lesson 
@@ -130,7 +130,7 @@ _Goal: to ensure a community of sufficient size and health exists to support the
 1. Demonstrate community support for the lessons 
    (for example by providing metrics on GitHub activity, attendance at collaboration sessions, feedback from instructors, or similar metrics) 
 
-##### 4. Teaching
+#### 4. Teaching
 _Goal: to ensure quality of curriculum, and demand for workshops._
 
 1. Run pilot workshops to gather feedback on the curriculum and confirm that it is ready for teaching by the Instructor community
@@ -142,7 +142,7 @@ _Goal: to ensure quality of curriculum, and demand for workshops._
 1. A list of people who are able to teach the Lesson Project’s curriculum/curricula, whether or not they are already certified Carpentries Instructors
 1. Provide details of any special requirements for the Lesson Project’s workshops, for example resources or infrastructure that The Carpentries would need to provide for workshops to succeed.
 
-##### 5. Supplementary Materials: (optional but recommended)
+#### 5. Supplementary Materials: (optional but recommended)
 
 - Letters of interest from organizations wanting to host workshops. 
   These letters of interest might indicate that the organisation 
@@ -155,7 +155,7 @@ _Goal: to ensure quality of curriculum, and demand for workshops._
   if supported by employers, what is the outlook for that support continuing?
 - Summary of any infrastructure needs for supporting the Lesson Project’s workshops, along with a list of community members who are able to help fulfill any special requirements described in 4.8 above, and/or a plan for onboarding other community members to support it
 
-##### Role of The Carpentries During Incubation
+#### Role of The Carpentries During Incubation
 During the Incubation phase, The Carpentries will:
 
 - Allow access to pre- and post-workshop survey results through The Carpentries hosted infrastructure
@@ -175,11 +175,11 @@ The Executive Council will decide on one of the options below:
 - Recommend revisions to the application or work that needs to be undertaken before the application can be approved, or before it can be resubmitted for consideration, whichever the Executive Council specifies.
 - Reject the application for Incubation, providing reasons for rejection if appropriate.
 
-#### Phase 3: Adoption
+### Phase 3: Adoption
 
 Once The Executive Council has approved Adoption, the new Lesson Program will be listed as such on The Carpentries website and will be included as part of the standard workshop offerings. The Lesson Program should be committed at this point to maintaining their lesson materials and their community and to working with The Carpentries on long-term sustainability and the fulfillment of its roles and responsibilities in accordance with the Lesson Program Policy.
 
-Once adopted, The Carpentries will update operations and documentation across the organization to reflect the addition of the new Lesson Program. The Carpentries will also fulfill its roles and responsibilities in accordance with the [Lesson Program Policy](#lesson-program-policy).
+Once adopted, The Carpentries will update operations and documentation across the organization to reflect the addition of the new Lesson Program. The Carpentries will also fulfill its roles and responsibilities in accordance with the [Lesson Program Policy](lesson-program-governance.md).
 
 ---
 
