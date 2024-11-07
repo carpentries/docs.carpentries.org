@@ -185,10 +185,7 @@ As a Maintainer or Contributor, we cross-reference your GitHub handle or name
 against the community information stored in AMY to produce a `.zenodo.json` file
 for the lesson, which lists the Maintainers (as Editors) and the other Contributors
 (as Authors). This file includes your GitHub handle or name, depending on the
-preference you have indicated in your 
-[AMY profile](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles), 
-and your ORCID ID if you provided it. With your consent, this information may be used 
-in scientific publications or to credit authorship.
+preference you have indicated in your {{"[AMY profile]({}#user-profiles)".format(amy_docs)}}, and your ORCID ID if you provided it. With your consent, this information may be used in scientific publications or to credit authorship.
 
 Specifically as a Maintainer, we use your name on our websites, to list Maintainers
 as a whole and for specific lessons. We also use your name to add you to the

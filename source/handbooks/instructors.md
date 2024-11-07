@@ -434,7 +434,7 @@ content in the handbook.
 -   **How do I sign up to teach a Centrally-Organised Workshop?**
     -   In order to sign-up to teach a Centrally-Organised Workshop you
         must login to {{"[AMY profile]({})".format(amy_link)}} using your
-        GitHub credentials. Refer to the [AMY documentation](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities) for more information on how to sign up.
+        GitHub credentials. Refer to the {{"[AMY documentation]({}#viewing-teaching-opportunities)".format(amy_docs)}} for more information on how to sign up.
 
 ### Curricula
 
