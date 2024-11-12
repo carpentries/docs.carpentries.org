@@ -114,7 +114,10 @@ to follow conversations on the channel relevant to this role:
 -  #discussion-hosts: channel for Community Discussion Hosts and those
    interested in hosting community discussions
 
-If Slack is new to you, our [Slack Quick Start Guide](#) will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
+If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
+
+
+
 
 ### Mailing List
 

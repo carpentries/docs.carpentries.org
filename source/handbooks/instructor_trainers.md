@@ -181,7 +181,7 @@ Instructor Trainers may also wish to join:
 * **\#Instructor-training**: this low-traffic channel is open to the full community for questions or conversations related to Instructor Training  
 * **\#jobs**: recruit more Carpentries folks to build your community at work, or find a new post that values Carpentries credentials
 
-New to Slack? Check out our [Slack Quick Start Guide](#).
+New to Slack? Check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### TopicBox
 
