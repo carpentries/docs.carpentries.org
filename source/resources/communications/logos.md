@@ -28,7 +28,8 @@ Uses of The Carpentries name or logo in conjunction or combination with another 
 
 If you or your group is currently using The Carpentries name or logo in this manner, please email [community@carpentries.org](mailto:community@carpentries.org), and we will work with you to find an alternative.
 
-License for this Policy
+## License for this Policy
+
 This policy has been adapted in part from the Python Software Foundation’s [Trademark Use Policy](https://www.python.org/psf/trademarks/). Interested parties may adapt this policy document freely under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Links to Logo Files
