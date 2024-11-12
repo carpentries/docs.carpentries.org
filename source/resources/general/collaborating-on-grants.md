@@ -15,21 +15,21 @@ This guide was developed for potential collaborators interested in involving The
 We invite you to include The Carpentries in your grant to support workshops, membership, and Instructor training whether you apply as an individual institution or a consortium. We are also happy to collaborate on grant proposals supporting our mission, [core values](https://carpentries.org/values/), and priorities. This guide should be used as a resource in advance of proposal development.
 
 ## How is The Carpentries Funded?
-Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Member Organisations](https://carpentries.org/members/), [Sponsors](https://carpentries.org/sponsorship/), charitable foundations, and individual supporters ([The Carpentries Philanthropy](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac)). The Carpentries is currently funded by grants and sponsorships (~56%), memberships (~30%), workshop/instructor training fees (~5%), and other sources including donations and curriculum development. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our [strategic plan](https://carpentries.org/strategic-plan/). Below is a list of sources of grants and sponsors who have funded The Carpentries.
+Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Member Organisations](https://carpentries.org/members/) and [Sponsors](https://carpentries.org/sponsorship/), charitable foundations. The Carpentries is currently funded by grants and sponsorships (~56%), memberships (~30%), workshop/instructor training fees (~5%), and other sources including donations and curriculum development. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our [strategic plan](https://carpentries.org/strategic-plan/). Below is a list of sources of grants and sponsors who have funded The Carpentries.
 
 ### Current and Past Grants and Subawards
 - [Alfred P. Sloan Foundation](https://sloan.org/)
 - [California Digital Library (CDL)](https://cdlib.org/)
 - [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/)
 - [Gordon and Betty Moore Foundation](https://www.moore.org/)
-- [Lawrence Berkeley Laboratory](https://carpentries.org/supporters/)
+- [Lawrence Berkeley Laboratory](https://www.lbl.gov/)
 - [Mozilla Open Source Support (MOSS) Program](https://www.mozilla.org/en-US/moss/)
 - [Network of the National Library of Medicine (NNLM) National Training Office (NTO)](https://nnlm.gov/about/offices/nto)
 - [R Consortium](https://www.r-consortium.org/)
-- [United States Department of Agriculture (USDA)](https://carpentries.org/supporters/)
+- [United States Department of Agriculture (USDA)](https://www.usda.gov/)
 - [Mellon Foundation](https://www.mellon.org/grant-programs/public-knowledge)
 
-For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/posts-by-tags/#blog-tag-grants).
+For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/blog/posts-by-tags/#blog-tag-grants).
 
 ### Current and Past Sponsors
 - [Biotech Partners](http://www.biotechpartners.org/)
