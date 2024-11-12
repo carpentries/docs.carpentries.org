@@ -22,11 +22,11 @@ Funders who help The Carpentries fulfill our mission and vision _**financially**
 - [California Digital Library (CDL)](https://cdlib.org/)
 - [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/)
 - [Gordon and Betty Moore Foundation](https://www.moore.org/)
-- [Lawrence Berkeley Laboratory](https://carpentries.org/supporters/)
+- [Lawrence Berkeley Laboratory](https://www.lbl.gov/)
 - [Mozilla Open Source Support (MOSS) Program](https://www.mozilla.org/en-US/moss/)
 - [Network of the National Library of Medicine (NNLM) National Training Office (NTO)](https://nnlm.gov/about/offices/nto)
 - [R Consortium](https://www.r-consortium.org/)
-- [United States Department of Agriculture (USDA)](https://carpentries.org/supporters/)
+- [United States Department of Agriculture (USDA)](https://www.usda.gov/)
 - [Mellon Foundation](https://www.mellon.org/grant-programs/public-knowledge)
 
 For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/posts-by-tags/#blog-tag-grants).
