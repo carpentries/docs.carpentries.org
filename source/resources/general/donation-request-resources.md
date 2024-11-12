@@ -36,7 +36,7 @@ Help us teach data skills to the communities that need them most.<br />
 <https://give.communityin.org/TheCarpentries>
 
 - Thank you to everyone who has donated to help The Carpentries achieve our mission! With your help, we are on track to reach our goal. Please consider donating to help us achieve our annual fundraising goal.<br />
-<[https://give.communityin.org/81tdn9?ref=sh_fAVdid_ab_1xKrq5WDcOB1xKrq5WDcOB](https://give.communityin.org/TheCarpentries)>
+<https://give.communityin.org/TheCarpentries>
 
 ## Appeal Images
 ### Fundraising Letter Pull Quote
