@@ -5,7 +5,7 @@ This guide was developed for potential collaborators interested in involving The
 
 1. **Request a letter of support**. If you are planning to budget Carpentries programming (i.e., workshops, membership, instructor training seats) into your grant proposal and would like to request a letter of support, please [complete this form](https://carpentries.typeform.com/to/oK25vSPE). Pricing for Carpentries programming is on our [membership page](https://carpentries.org/membership/). All requests for letters of support require **five business days** to be fulfilled.
 
-2. **Request to meet one of our program leads**. If you have an idea supporting one of the Carpentries' [strategic priorities](https://carpentries.org/strategic-plan/) and would like to co-write a grant proposal, please schedule a meeting with the corresponding program lead using the links below. Minimum requirements for co-writing a grant proposal with The Carpentries are provided below.
+2. **Request to meet one of our program leads**. If you have an idea supporting one of the Carpentries' {{'[strategic priorities]({}/about-us/strategic-plan/)'.format(carpentries_website)}} and would like to co-write a grant proposal, please schedule a meeting with the corresponding program lead using the links below. Minimum requirements for co-writing a grant proposal with The Carpentries are provided below.
   - [Carpentries in Africa](https://calendly.com/angelique_v) - Angelique Trusler
   - [Community Development](https://calendly.com/kariljordan) - Kari L. Jordan
   - [Curriculum](https://calendly.com/tobyhodges) - Toby Hodges
@@ -15,7 +15,11 @@ This guide was developed for potential collaborators interested in involving The
 We invite you to include The Carpentries in your grant to support workshops, membership, and Instructor training whether you apply as an individual institution or a consortium. We are also happy to collaborate on grant proposals supporting our mission, [core values](https://carpentries.org/values/), and priorities. This guide should be used as a resource in advance of proposal development.
 
 ## How is The Carpentries Funded?
-Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Member Organisations](https://carpentries.org/members/) and [Sponsors](https://carpentries.org/sponsorship/), charitable foundations. The Carpentries is currently funded by grants and sponsorships (~56%), memberships (~30%), workshop/instructor training fees (~5%), and other sources including donations and curriculum development. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our [strategic plan](https://carpentries.org/strategic-plan/). Below is a list of sources of grants and sponsors who have funded The Carpentries.
+Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Member Organisations](https://carpentries.org/members/) and [Sponsors](https://carpentries.org/sponsorship/), charitable foundations. The Carpentries is currently funded by grants and sponsorships (~56%), memberships (~30%), workshop/instructor training fees (~5%), and other sources including donations and curriculum development. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our {{'[strategic plan]({}/about-us/strategic-plan/)'.format(carpentries_website)}}.
+
+
+
+Below is a list of sources of grants and sponsors who have funded The Carpentries.
 
 ### Current and Past Grants and Subawards
 - [Alfred P. Sloan Foundation](https://sloan.org/)
