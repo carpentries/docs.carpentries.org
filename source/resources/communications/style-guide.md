@@ -47,8 +47,8 @@ Should ideally include a full stop after each one if it is not just a list of te
 
 But <br>
   - Instructors
-  - Trainers
-  - Mentors
+  - Instructor Trainers
+  - Maintainers
 
 ---
 
@@ -72,8 +72,7 @@ But <br>
   Render these with initial capitals, _e.g.,_ Gordon and Betty Moore Foundation, Smithsonian Institute, the United Nations, the European Union.
 
   **roles** <br>
-  Roles within The Carpentries are always capitalised. Therefore we use Instructor, Supportive Instructor,
-  Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+  Roles within The Carpentries are always capitalised. Therefore we use Instructor, Instructor Trainer, Maintainer, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
 
 
 ### Carpentries
@@ -95,7 +94,7 @@ A comma is also crucial to avoid ambiguity in examples such as this: ‘The repo
 _See also [Oxford comma](#oxford-comma)._
 
 ### company names
-Company names are always singular, _e.g.,_ ‘Twitter is …’, ‘Amazon Web Services is …’
+Company names are always singular, _e.g.,_ ‘Mastodon is …’, ‘Amazon Web Services is …’
 
 ---
 
@@ -222,8 +221,8 @@ Like bullet points,should ideally include a full stop after each one if it is no
 
 But <br>
   1. Instructors
-  2. Trainers
-  3. Mentors
+  2. Instructor Trainers
+  3. Maintainers
 ---
 
 ## O
@@ -269,7 +268,7 @@ To introduce phrases or single sentence quotations, a comma is preferable, _e.g.
 ## R
 
 ### roles
-Roles within The Carpentries are always capitalised. Therefore we use Instructor, Supportive Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+Roles within The Carpentries are always capitalised. Therefore we use Instructor, Instructor Trainer, Maintainer, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
 
 ---
 
