@@ -12,7 +12,7 @@ Rooms are generally used as follows. However, any room can be used for other pur
 
 Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom.us/my/**room_name**`.  
 
-For Instructor Training events, this link will be shared with the Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  As required by Zoom, all rooms have a password.  The password is available to all participants via the event's etherpad, the calendar listing, or shared directly by the event host or organizer.
+For Instructor Training events, this link will be shared with the Instructor Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  As required by Zoom, all rooms have a password.  The password is available to all participants via the event's etherpad, the calendar listing, or shared directly by the event host or organizer.
 
 ## Information for event hosts
 
