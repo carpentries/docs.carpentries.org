@@ -51,7 +51,7 @@ Under _Security_ in the left sidebar, open the _Secrets and variables_ dropdown 
 ## Getting Help
 If you run into trouble with any of these steps, you can ask for help by:
 
-* Posting to the `#workbench` and/or `#lesson-dev` channels on Slack ([join The Carpentries Slack workspace](https://slack-invite.carpentries.org/)).
+* Posting to the `#workbench` and/or `#lesson-dev` channels on Slack ({{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}).
 * [contact the Curriculum Team by email](mailto:curriculum@carpentries.org).
 * open an issue on your repository, describing the problem you have encountered, and tag `@tobyhodges`.
 
