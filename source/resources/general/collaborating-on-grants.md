@@ -29,7 +29,7 @@ Funders who help The Carpentries fulfill our mission and vision _**financially**
 - [United States Department of Agriculture (USDA)](https://www.usda.gov/)
 - [Mellon Foundation](https://www.mellon.org/grant-programs/public-knowledge)
 
-For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/posts-by-tags/#blog-tag-grants).
+For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/blog/posts-by-tags/#blog-tag-grants).
 
 ### Current and Past Sponsors
 - [Biotech Partners](http://www.biotechpartners.org/)
