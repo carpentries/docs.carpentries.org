@@ -30,7 +30,7 @@ Revoke access from the following communication channels and communities:
     - [The Carpentries](https://carpentries.org/blog/)
 - GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
 - Gitter - Library Carpentry Lobby
-- [Slack](https://carpentries.slack.com/messages)  
+- {{'[Slack]({})'.format(slack)}} 
 - [Facebook](https://www.facebook.com/carpentries/) 
 - [LinkedIn Carpentries](https://www.linkedin.com/company/the-carpentries/about/) and [LinkedIn Instructors](https://www.linkedin.com/groups/8279689/)
 

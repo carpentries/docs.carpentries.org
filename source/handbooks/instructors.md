@@ -137,13 +137,11 @@ Below is a list of Etherpads relevant to serving as a *Instructor*.
 
 ### Slack
 
-[Join The Carpentries Slack workspace!](https://swc-slack-invite.herokuapp.com/) To follow conversations
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} To follow conversations
 relevant to the Instructor role, please consider joining the following channels:
 
--   [The Carpentries General
-    Channel](https://swcarpentry.slack.com/archives/C03LE48AY)
--   [The Carpentries Instructor
-    Channel](https://swcarpentry.slack.com/archives/C08BVNU00)
+-   The Carpentries General Channel
+-   The Carpentries Instructor Channel
 
 If you are new to Slack, please check out our [Slack Quick Start
 Guide](#).
@@ -434,7 +432,7 @@ content in the handbook.
 -   **How do I sign up to teach a Centrally-Organised Workshop?**
     -   In order to sign-up to teach a Centrally-Organised Workshop you
         must login to {{"[AMY profile]({})".format(amy_link)}} using your
-        GitHub credentials. Refer to the [AMY documentation](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities) for more information on how to sign up.
+        GitHub credentials. Refer to the {{"[AMY documentation]({}#viewing-teaching-opportunities)".format(amy_docs)}} for more information on how to sign up.
 
 ### Curricula
 

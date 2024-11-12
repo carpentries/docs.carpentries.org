@@ -112,16 +112,10 @@ Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
 ### Slack
 
-Join [The Carpentries Slack
-workspace](https://swc-slack-invite.herokuapp.com/). To follow
-conversations relevant to this role, you should join the following
-channels:
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
 
--  The [#lesson-dev channel on The Carpentries Slack
-   workspace](https://swcarpentry.slack.com/archives/C3KUTT5V)3 is a
-   platform for the whole community to ask questions and engage in
-   discussions around the subject of lesson development.
--  We recommend that Lesson Developers browse existing channels in the
+-  The #lesson-dev channel on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson development.
+-  We recommend that Lesson Developers browse existing channels in the 
    Slack workspace, for any that are relevant to the topic/domain of
    their lesson.
 -  It can also be helpful to create a new channel for your lesson, as a

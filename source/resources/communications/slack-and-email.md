@@ -8,7 +8,7 @@ There are many ways in which you can join our conversations:
 
 - The [Discuss email list](https://carpentries.topicbox.com/groups/discuss), which community members are welcome to join and post to.
 - Our [other email lists](https://carpentries.org/community/#mailing-lists) are a combination of regional and topic-specific lists.
-- Our [Slack channel](https://carpentries.slack.com/), which community members are welcome to [join](https://slack-invite.carpentries.org/).  Click on "Channels" in the left panel to view all existing channels.
+- Our {{'[Slack community]({})'.format(slack)}} , which community members are welcome to {{'[join]({})'.format(slack_invite)}}.  Click on "Channels" in the left panel to view all existing channels.
 
 Below are descriptions of selected channels found on TopicBox (as discussed in this [blog post](https://carpentries.org/blog/2020/04/channels-to-join-topicbox/)):
 

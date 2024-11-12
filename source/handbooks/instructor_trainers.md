@@ -171,7 +171,7 @@ All regularly scheduled Instructor Trainer community meetings and teaching demon
 
 ### Slack
 
-[Join](https://swc-slack-invite.herokuapp.com/) The Carpentries Slack workspace.  To follow conversations relevant to this role, you should join the following channels:
+{{'[Join]({})'.format(slack_invite)}} The Carpentries Slack workspace.  To follow conversations relevant to this role, you should join the following channels:
 
 * **\#trainers**: a private channel open to only Instructor Trainers and members of The Carpentries Core Team used to discuss anything related to Instructor Training  
 * **\#welcome**: new instructor trainees are often directed here to introduce themselves upon joining Slack. 

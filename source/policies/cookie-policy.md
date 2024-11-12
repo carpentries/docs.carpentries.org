@@ -16,12 +16,7 @@ We have put our cookies into the following categories to make it easier for you 
    choices you have made concerning the features of the websites (e.g.,
    username, language, region you are in).
    
-While we intend to limit third-party cookies, there might be pages on our
-websites that may set third party cookies. For instance, when we embed content
-from another site (e.g., a video), or when we use an external logging system
-(e.g., you log into AMY using your GitHub credentials) they may set a cookie. We
-try to limit these situations, but cannot always control how these sites use
-cookies.
+While we intend to limit third-party cookies, there might be pages on our websites that may set third party cookies. For instance, when we embed content from another site (e.g., a video), or when we use an external logging system (e.g., you log into {{"[AMY]({})".format(amy_link)}} using your GitHub credentials) they may set a cookie. We try to limit these situations, but cannot always control how these sites use cookies.
 
 ## Cookies and You
  
