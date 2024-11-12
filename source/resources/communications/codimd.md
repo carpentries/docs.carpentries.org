@@ -68,7 +68,7 @@ Account holders gain access to two features:
 ## Troubleshooting
 
 If you encounter issues with the CodiMD platform,
-please contact us at team@carpentries.org and a team member will help you troubleshoot.
+please contact us at {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will help you troubleshoot.
 
 
 ## See Also
