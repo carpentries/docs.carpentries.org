@@ -24,7 +24,7 @@ If you are teaching an Instructor Training workshop, about a week before the eve
 
 If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event. 
 
-[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866).
+[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866)
 
 ### Using a Waiting Room
 
@@ -57,7 +57,7 @@ Either the host or co-host can assign, start, and end breakout rooms.  They can 
 
 Participants can offer non-verbal feedback during a call.  This may include using emojis to represent yes/no responses, a raised hand, and more.  Available reactions may depend on the user's platform.
 
-[Read more about how to manage non-verbal and real time feedback](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
+[Read more about how to manage non-verbal and real time feedback.](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
 
 ### Screen sharing
