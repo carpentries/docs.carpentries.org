@@ -197,6 +197,7 @@ myst_substitutions = {
   # General resources
   "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
   "code_of_conduct": handbook_url + "/policies/coc/",
+  "donate":"https://give.communityin.org/TheCarpentries",
 
   # Websites
   "carpentries_website": "https://carp-new-website.netlify.app",
