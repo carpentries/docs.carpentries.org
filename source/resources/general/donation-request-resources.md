@@ -19,7 +19,7 @@ The Carpentries supports more than 3,000 highly skilled Instructors in communiti
 
 Donating even a small amount can make a big difference \- we value all contributions. Your donation will allow The Carpentries to scale as an independent tax-exempt non-profit organisation,and will help bring Carpentries programming to individuals who might otherwise have barriers to participation.
 
-If you are interested in supporting The Carpentries’ mission of teaching data skills globally, [please visit our Donate page](https://give.communityin.org/TheCarpentries?ref=ab_3na6QVGVLAI3na6QVGVLAI) to give any amount you are comfortable with.
+If you are interested in supporting The Carpentries’ mission of teaching data skills globally, {{"[please visit our Donate page]({})".format(donate)}} to give any amount you are comfortable with.
 
 Thank you so much\!
 
@@ -29,12 +29,12 @@ Sincerely,
 
 ## Short Calls to Action/Mastadon Length Messages
 - A Call To Action: Support The Carpentries <br />
-Consider donating to The Carpentries to help us reach our annual fundraising goal! <br /> <https://give.communityin.org/TheCarpentries>
+Consider donating to The Carpentries to help us reach our annual fundraising goal! <br /> {{ donate }}
 
 - “The Carpentries supports more than 4,200 highly skilled instructors in communities in 65 countries. Now more than ever, we need you to champion our mission.” - Dr. Kari L. Jordan <br />
 Help us teach data skills to the communities that need them most.<br />
-<https://give.communityin.org/TheCarpentries>
+{{ donate }}
 
 - Thank you to everyone who has donated to help The Carpentries achieve our mission! With your help, we are on track to reach our goal. Please consider donating to help us achieve our annual fundraising goal.<br />
-<https://give.communityin.org/TheCarpentries>
+{{ donate }}
 
