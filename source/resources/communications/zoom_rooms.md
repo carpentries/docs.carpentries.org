@@ -12,7 +12,7 @@ Rooms are generally used as follows. However, any room can be used for other pur
 
 Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom.us/my/**room_name**`.  
 
-For Instructor Training events, this link will be shared with the Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  As required by Zoom, all rooms have a password.  The password is available to all participants via the event's etherpad, the calendar listing, or shared directly by the event host or organizer.
+For Instructor Training events, this link will be shared with the Instructor Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  As required by Zoom, all rooms have a password.  The password is available to all participants via the event's etherpad, the calendar listing, or shared directly by the event host or organiser.
 
 ## Information for event hosts
 
@@ -24,7 +24,7 @@ If you are teaching an Instructor Training workshop, about a week before the eve
 
 If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event. 
 
-[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866).
+[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866)
 
 ### Using a Waiting Room
 
@@ -57,7 +57,7 @@ Either the host or co-host can assign, start, and end breakout rooms.  They can 
 
 Participants can offer non-verbal feedback during a call.  This may include using emojis to represent yes/no responses, a raised hand, and more.  Available reactions may depend on the user's platform.
 
-[Read more about how to manage non-verbal and real time feedback](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
+[Read more about how to manage non-verbal and real time feedback.](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
 
 ### Screen sharing

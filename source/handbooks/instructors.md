@@ -143,8 +143,7 @@ relevant to the Instructor role, please consider joining the following channels:
 -   The Carpentries General Channel
 -   The Carpentries Instructor Channel
 
-If you are new to Slack, please check out our [Slack Quick Start
-Guide](#).
+If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### TopicBox
 

@@ -22,13 +22,14 @@ The colours of the “wrench mark” can be modified to what is appropriate for 
 
 If you are a local Carpentries member and wish to modify the logo according to these guidelines, please email [community@carpentries.org](mailto:carpentries.org) and we will either approve your modification or assist you in creating the modified version.
 
-Other modifications of the logo that leave the name and logo intact are allowed under this policy with approval from The Carpentries Community Development Team.
+Other modifications of the logo that leave the name and logo intact are allowed under this policy with approval from The Carpentries Community Engagement Team.
 
 Uses of The Carpentries name or logo in conjunction or combination with another group’s name or logo (EX: using the wrenchmark with the colours of another organisation, or adding components of another organisation’s logo to The Carpentries) are prohibited.
 
 If you or your group is currently using The Carpentries name or logo in this manner, please email [community@carpentries.org](mailto:community@carpentries.org), and we will work with you to find an alternative.
 
-License for this Policy
+## License for this Policy
+
 This policy has been adapted in part from the Python Software Foundation’s [Trademark Use Policy](https://www.python.org/psf/trademarks/). Interested parties may adapt this policy document freely under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Links to Logo Files
