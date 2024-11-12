@@ -38,8 +38,3 @@ Help us teach data skills to the communities that need them most.<br />
 - Thank you to everyone who has donated to help The Carpentries achieve our mission! With your help, we are on track to reach our goal. Please consider donating to help us achieve our annual fundraising goal.<br />
 <https://give.communityin.org/TheCarpentries>
 
-## Appeal Images
-### Fundraising Letter Pull Quote
-![Fundraising Letter Pull Quote](img/EOCY-fundraising-letter-pullquote.jpg)
-### Fundraising Video Title Card
-![Fundraising Video Title Card](img/fundraising-video-title-card.jpg)
