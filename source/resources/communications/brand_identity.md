@@ -66,5 +66,4 @@
 
 ## Carpentries Fonts
 
-The font used in the headers on the <https://carpentries.org> website is [Lato](https://fonts.google.com/specimen/Lato).
-The font used in the body of the <https://carpentries.org> website is [Roboto](https://fonts.google.com/specimen/Roboto).
+The font used in the headers and the body of {{'[The Carpentries website]({})'.format(carpentries_website)}} and its lesson program websites is [Mulish](https://fonts.google.com/specimen/Mulish).
