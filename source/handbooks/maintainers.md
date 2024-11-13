@@ -36,16 +36,11 @@ represent the latest and greatest new developments in the field.
 With these goals in mind, The Carpentries' expectations of Maintainers
 are to:
 
--  Monitor the lesson repository and make sure that pull requests (PRs)
-   and Issues are responded to promptly (even if that response
-   is “sorry, this is out of scope”),
--  Do not introduce new errors into the lesson
--  Quickly fix anything that is unambiguously an error or that
-   negatively affects workshop learners
--  Be receptive and welcoming to suggestions for improving the lessons
--  Evaluate all contributions given The Carpentries pedagogical
-   model:
-
+-  Monitor the lesson repository and make sure that pull requests (PRs) and Issues are responded to promptly (even if that response is “sorry, this is out of scope”).
+-  Not introduce new errors into the lesson.
+-  Quickly fix anything that is unambiguously an error or that    negatively affects workshop learners.
+-  Be receptive and welcoming to suggestions for improving the lessons.
+-  Evaluate all contributions given The Carpentries pedagogical model:
    -  Teach what is most relevant and useful for learners.
    -  Avoid unnecessary jargon and detailed explanations. Always ask
       yourself whether it is necessary for the learner.
@@ -56,19 +51,13 @@ are to:
 Maintainers are responsible for:
 
 -  Routinely:
-
-   -  Ensuring reasonable response time to all submitted Issues and PRs.
-      At a minimum, ensuring all Issues and PRs are acknowledged within
-      two days.
+   -  Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
    -  Quickly addressing issues and PRs tagged as “bug”s.
    -  Submitting Issues as they arise.
-   -  Adhering to the Code of Conduct and alerting the Code of Conduct
-      Committee to any potential violations.
-   -  Identifying potential new Maintainers based on their review
-      activity.
+   -  Adhering to the Code of Conduct and alerting the Code of Conduct Committee to any potential violations.
+   -  Identifying potential new Maintainers based on their review   activity.
 
 -  Periodically:
-
    -  Helping prepare lessons for publication.
    -  Bringing in updates to the lesson template.
 
@@ -82,8 +71,7 @@ embody The Carpentries philosophy, by:
    -  Find what’s good. Be specific about improvements needed. Use
       motivational language.
 
--  Evaluating lesson contributions in light of Carpentries pedagogical
-   model:
+-  Evaluating lesson contributions in light of Carpentries pedagogical model:
 
    -  Teach what’s most relevant and useful for learners.
    -  Avoid getting bogged down in technical details.
