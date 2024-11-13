@@ -90,7 +90,7 @@ on the event you would like to attend.
 
 ### Etherpad
 
-Below is a list of Etherpads relevant to serving as a Lesson Developer.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
 -  [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
    our most commonly used Etherpads and other resources.
@@ -122,7 +122,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Developer.
    space for you to discuss the development process with collaborators,
    and for community members to ask questions about the lesson.
 
-If Slack is new to you, our [Slack Quick Start Guide](#) will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
+If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
 
 ### Mailing List
 
@@ -131,11 +131,7 @@ You can access The Carpentries mailing lists from
 [incubator-developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers)
 is the one relevant to serving in this role.
 
-To join one or more Carpentries mailing lists, you will need to [create
-a login on the site](https://carpentries.topicbox.com/latest). Once
-you have done this, you can scroll through the list of groups and click
-“Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).
+To join one or more Carpentries mailing lists, you will need to [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 ## Step-by-Step Guides
 
