@@ -102,7 +102,7 @@ Community Lead and the other Maintainers on their lesson(s).
 
 ## Communication and Collaboration Spaces
 
--  Slack:
+### Slack
 
    - {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. The Maintainer Community Lead and  Curriculum Team members will also cross-post announcements relevant to the community to this channel.
    -  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
