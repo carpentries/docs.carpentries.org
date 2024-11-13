@@ -3,7 +3,7 @@
 ## Collaborative Documents
 
  * [Etherpads](etherpads.md)
- * [Codimd](codimd.md)
+ * [CodiMD](codimd.md)
 
 ## Communication spaces
 
