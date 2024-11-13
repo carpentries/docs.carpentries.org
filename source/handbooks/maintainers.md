@@ -36,16 +36,11 @@ represent the latest and greatest new developments in the field.
 With these goals in mind, The Carpentries' expectations of Maintainers
 are to:
 
--  Monitor the lesson repository and make sure that pull requests (PRs)
-   and Issues are responded to promptly (even if that response
-   is “sorry, this is out of scope”),
--  Do not introduce new errors into the lesson
--  Quickly fix anything that is unambiguously an error or that
-   negatively affects workshop learners
--  Be receptive and welcoming to suggestions for improving the lessons
--  Evaluate all contributions given The Carpentries pedagogical
-   model:
-
+-  Monitor the lesson repository and make sure that pull requests (PRs) and Issues are responded to promptly (even if that response is “sorry, this is out of scope”).
+-  Not introduce new errors into the lesson.
+-  Quickly fix anything that is unambiguously an error or that    negatively affects workshop learners.
+-  Be receptive and welcoming to suggestions for improving the lessons.
+-  Evaluate all contributions given The Carpentries pedagogical model:
    -  Teach what is most relevant and useful for learners.
    -  Avoid unnecessary jargon and detailed explanations. Always ask
       yourself whether it is necessary for the learner.
@@ -56,19 +51,13 @@ are to:
 Maintainers are responsible for:
 
 -  Routinely:
-
-   -  Ensuring reasonable response time to all submitted Issues and PRs.
-      At a minimum, ensuring all Issues and PRs are acknowledged within
-      two days.
+   -  Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
    -  Quickly addressing issues and PRs tagged as “bug”s.
    -  Submitting Issues as they arise.
-   -  Adhering to the Code of Conduct and alerting the Code of Conduct
-      Committee to any potential violations.
-   -  Identifying potential new Maintainers based on their review
-      activity.
+   -  Adhering to the Code of Conduct and alerting the Code of Conduct Committee to any potential violations.
+   -  Identifying potential new Maintainers based on their review   activity.
 
 -  Periodically:
-
    -  Helping prepare lessons for publication.
    -  Bringing in updates to the lesson template.
 
@@ -82,8 +71,7 @@ embody The Carpentries philosophy, by:
    -  Find what’s good. Be specific about improvements needed. Use
       motivational language.
 
--  Evaluating lesson contributions in light of Carpentries pedagogical
-   model:
+-  Evaluating lesson contributions in light of Carpentries pedagogical model:
 
    -  Teach what’s most relevant and useful for learners.
    -  Avoid getting bogged down in technical details.
@@ -92,15 +80,10 @@ embody The Carpentries philosophy, by:
 
 ## Onboarding
 
+New Maintainers go through an onboarding process, led by a member of The Carpentries Curriculum Team and the Maintainer Community Lead. Maintainer Onboarding takes place at least once per year. New rounds of onboarding will be announced on The Carpentries blog and main
+communications channels (discuss@ on TopicBox, #general Slack channel).
 
-New Maintainers go through an onboarding process, led by a member of The
-Carpentries Curriculum Team and the Maintainer Community Lead.
-Maintainer Onboarding takes place at least once per year. New rounds of
-onboarding will be announced on The Carpentries blog and main
-communications channels (discuss TopicBox, general Slack channel).
-
-The curriculum for onboarding new Maintainers is available as a
-{{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
+The curriculum for onboarding new Maintainers is available as a {{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
 
 ## Offboarding
 
@@ -119,20 +102,15 @@ Community Lead and the other Maintainers on their lesson(s).
 
 ## Communication and Collaboration Spaces
 
--  Slack:
+### Slack
 
-   - {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. The Maintainer Community Lead and  Curriculum Team members will also cross-post announcements relevant to the community to this channel.
-   -  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
-   -  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
 
--   {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
--  Monthly Calls:
+-  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
+-  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
+-  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
 
-   -  The Carpentries Curriculum Team organises monthly Maintainer
-      Community Calls on the third Wednesday of the month at two times
-      to allow maintainers from around the globe to join during more
-      convenient hours. Minutes are recorded in the
-      [maintainer-resources repository](https://github.com/carpentries/maintainer-resources).
+If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### Community Calendar
 
@@ -141,7 +119,7 @@ Once scheduled, all Maintainer Community Calls are listed on our
 
 ### Collaborative Notes
 
-Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of
    our most commonly used Etherpads and other resources.
@@ -152,24 +130,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 -  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
 -  [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
 
-### Google Documents
 
-### Slack
-
-
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should
-join the following channels:
-
--  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
--  We recommend that Lesson Maintainers browse existing channels in the
-   Slack workspace, for any that are relevant to the topic/domain of
-   their lesson.
--  It can also be helpful to create a new channel for your lesson, as a
-   space for you to discuss the development process with collaborators,
-   and for community members to ask questions about the lesson.
-
-If you are new to Slack, please check out our [Slack Quick Start
-Guide](#).
 
 ### TopicBox
 
@@ -183,7 +144,7 @@ handbook.
 To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).
+those mailing lists requiring administrator approval).  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 ## Step-by-Step Guides
 
@@ -259,11 +220,7 @@ absence/unavailability:
       notification from GitHub about your status when they mention you
       in issues and pull requests, assign you to an issue, or request a
       review from you.
-   6. **You can also set a status on Slack**. The process is very
-      similar to GitHub’s, i.e. you should log in, click on your profile
-      picture at the top-right of the window, and select “Update your
-      status”. That will open a pop-up where you can write a status
-      message.
+   6. {{"[**You can also set a status on Slack**]({})".format(slack_guide)}}. The process is very similar to GitHub’s, i.e. you should log in, click on your profile picture at the top-right of the window, and select “Update your status”. That will open a pop-up where you can write a status message.
 
 2. Inform your co-Maintainers:
 
@@ -276,14 +233,7 @@ absence/unavailability:
 ### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
 
 The curriculum used at Maintainer Onboarding. This resource can be a
-helpful reference for Maintainers after they have completed onboarding.
-It includes 
-[tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors/index.html#top-ten-tips-for-managing-issues-and-prs),
-guidance for 
-[tagging the Curriculum Team on issues and pull
-requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers/index.html#tagging-in-the-curriculum-team),
-and plenty of other useful information you might want to return to after
-onboarding.
+helpful reference for Maintainers after they have completed onboarding. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
 
 ### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
 
