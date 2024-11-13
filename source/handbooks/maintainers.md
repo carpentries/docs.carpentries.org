@@ -135,8 +135,6 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 -  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
 -  [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
 
-### Google Documents
-
 ### Slack
 
 
