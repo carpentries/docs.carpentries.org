@@ -144,7 +144,7 @@ handbook.
 To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).
+those mailing lists requiring administrator approval).  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 ## Step-by-Step Guides
 
@@ -220,11 +220,7 @@ absence/unavailability:
       notification from GitHub about your status when they mention you
       in issues and pull requests, assign you to an issue, or request a
       review from you.
-   6. **You can also set a status on Slack**. The process is very
-      similar to GitHub’s, i.e. you should log in, click on your profile
-      picture at the top-right of the window, and select “Update your
-      status”. That will open a pop-up where you can write a status
-      message.
+   6. {{"[**You can also set a status on Slack**]({})".format(slack_guide)}}. The process is very similar to GitHub’s, i.e. you should log in, click on your profile picture at the top-right of the window, and select “Update your status”. That will open a pop-up where you can write a status message.
 
 2. Inform your co-Maintainers:
 
