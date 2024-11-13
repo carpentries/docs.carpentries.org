@@ -80,15 +80,10 @@ embody The Carpentries philosophy, by:
 
 ## Onboarding
 
+New Maintainers go through an onboarding process, led by a member of The Carpentries Curriculum Team and the Maintainer Community Lead. Maintainer Onboarding takes place at least once per year. New rounds of onboarding will be announced on The Carpentries blog and main
+communications channels (discuss@ on TopicBox, #general Slack channel).
 
-New Maintainers go through an onboarding process, led by a member of The
-Carpentries Curriculum Team and the Maintainer Community Lead.
-Maintainer Onboarding takes place at least once per year. New rounds of
-onboarding will be announced on The Carpentries blog and main
-communications channels (discuss TopicBox, general Slack channel).
-
-The curriculum for onboarding new Maintainers is available as a
-{{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
+The curriculum for onboarding new Maintainers is available as a {{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
 
 ## Offboarding
 
