@@ -104,18 +104,13 @@ Community Lead and the other Maintainers on their lesson(s).
 
 ### Slack
 
-   - {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. The Maintainer Community Lead and  Curriculum Team members will also cross-post announcements relevant to the community to this channel.
-   -  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
-   -  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
 
--   {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
--  Monthly Calls:
+-  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
+-  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
+-  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
 
-   -  The Carpentries Curriculum Team organises monthly Maintainer
-      Community Calls on the third Wednesday of the month at two times
-      to allow maintainers from around the globe to join during more
-      convenient hours. Minutes are recorded in the
-      [maintainer-resources repository](https://github.com/carpentries/maintainer-resources).
+If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### Community Calendar
 
@@ -135,22 +130,7 @@ Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 -  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
 -  [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
 
-### Slack
 
-
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should
-join the following channels:
-
--  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
--  We recommend that Lesson Maintainers browse existing channels in the
-   Slack workspace, for any that are relevant to the topic/domain of
-   their lesson.
--  It can also be helpful to create a new channel for your lesson, as a
-   space for you to discuss the development process with collaborators,
-   and for community members to ask questions about the lesson.
-
-If you are new to Slack, please check out our [Slack Quick Start
-Guide](#).
 
 ### TopicBox
 
