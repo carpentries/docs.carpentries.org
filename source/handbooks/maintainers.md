@@ -119,7 +119,7 @@ Once scheduled, all Maintainer Community Calls are listed on our
 
 ### Collaborative Notes
 
-Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of
    our most commonly used Etherpads and other resources.
