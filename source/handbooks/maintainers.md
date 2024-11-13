@@ -233,14 +233,7 @@ absence/unavailability:
 ### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
 
 The curriculum used at Maintainer Onboarding. This resource can be a
-helpful reference for Maintainers after they have completed onboarding.
-It includes 
-[tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors/index.html#top-ten-tips-for-managing-issues-and-prs),
-guidance for 
-[tagging the Curriculum Team on issues and pull
-requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers/index.html#tagging-in-the-curriculum-team),
-and plenty of other useful information you might want to return to after
-onboarding.
+helpful reference for Maintainers after they have completed onboarding. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
 
 ### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
 
