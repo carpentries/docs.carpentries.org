@@ -15,9 +15,9 @@ The responsibilities of Lesson Program Governance Committees fall into three mai
   * Identifying priorities for growing the community and reach of the lesson program.
 * Advocacy:
   * Representing the lesson program in their local and professional networks.
-  * Working with the Executive Council and Core Team to promote the interests of the lesson program within The Carpentries.
+  * Working with the Board of Directors and Core Team to promote the interests of the lesson program within The Carpentries.
 * Communication:
-  * Reporting on the activities, objectives, and needs of the lesson program to the Executive Council and Core Team.
+  * Reporting on the activities, objectives, and needs of the lesson program to the Board of Directors and Core Team.
   * Engaging the community on topics and projects relevant to the development of the lesson program.
   * Maintaining up-to-date information about the lesson program on The Carpentries' websites.
 
@@ -29,8 +29,8 @@ A Lesson Program Governance Committee will typically have 3-5 members, including
 * Prepare agenda for regular meetings, including time estimates for each item.
 * Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of the meeting.
 * Assign meeting roles.
-* Serve as the primary point of contact for the Executive Council, Core Team members, and Curriculum Advisors for the relevant lesson program.
-* Prepare a written update, twice per year, for the Executive Council, summarising the committee’s activities, main points and outcomes of discussion, and any major decisions made.
+* Serve as the primary point of contact for the Board of Directors, Core Team members, and Curriculum Advisors for the relevant lesson program.
+* Prepare a written update, twice per year, for the Board of Directors, summarising the committee’s activities, main points and outcomes of discussion, and any major decisions made.
 * Communicate with the lesson program community and the Core Team, through GitHub issues, blog posts, or another appropriate platform, about decisions made by the LPGC.
 * Coordinate with Curriculum Team Lead (Toby Hodges) to request information and support from the Core Team to help the LPGC perform its functions, e.g. data and information relating to the health of the lesson program, or delegate responsibility for this to another committee member.
 * Notify the Curriculum Team Lead if an LPGC member needs to step down mid-term or becomes unresponsive to communications so that the Core Team can help recruit a replacement if needed.
