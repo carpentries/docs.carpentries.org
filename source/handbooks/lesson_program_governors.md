@@ -2,8 +2,12 @@
 
 ## About This Handbook 
 
+
+
+
+
 The Lesson Program Governor Handbook is designed to support members of The
-Carpentries community who are serving as a Lesson Program Governor. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Carpentries community who are serving as a {{'[Lesson Program Governor]({}/community/lesson_program_governors/)'.format(carpentries_website)}}. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
 ## Introduction 
 
