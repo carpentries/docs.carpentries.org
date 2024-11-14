@@ -60,7 +60,7 @@ _Details of frequency and format of future Lesson Program Governor selections co
 * Onboarding aims to provide new Lesson Program Governors with context for the role of how LPGCs fit into The Carpentries model for community governance, and what they can expect as they prepare to join their first committee meeting.
 * The first onboarding for Lesson Program Governors took place in three parts:
   * A general onboarding for all Lesson Program Governors
-  * An optional but recommended session on _How to Run a Meeting_, led by Greg Wilson
+  * An optional but recommended session on [How to Run a Meeting](#how-to-run-a-meeting-presentation), led by Greg Wilson
   * An additional onboarding for the committee officers (Roles and responsibilities above)
 * Onboardings are delivered by the Curriculum Team over Zoom, with the possibility of being onboarded through a recording of the sessions available for those who cannot attend synchronously.
   * Links to onboarding slides are provided in [the Resources section](#resources).
