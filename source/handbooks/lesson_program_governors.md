@@ -2,10 +2,6 @@
 
 ## About This Handbook 
 
-
-
-
-
 The Lesson Program Governor Handbook is designed to support members of The
 Carpentries community who are serving as a {{'[Lesson Program Governor]({}/community/lesson_program_governors/)'.format(carpentries_website)}}. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
@@ -15,15 +11,15 @@ Lesson Program Governors are members of **Lesson Program Governance Committees (
 
 The responsibilities of Lesson Program Governance Committees fall into three main categories of leadership: strategy, advocacy, and communication.
 * Strategy:
-  * Monitoring the health of the lesson program and designing strategies to maintain and improve it
-  * Identifying priorities for growing the community and reach of the lesson program
+  * Monitoring the health of the lesson program and designing strategies to maintain and improve it.
+  * Identifying priorities for growing the community and reach of the lesson program.
 * Advocacy:
-  * Representing the lesson program in their local and professional networks
-  * Working with the Executive Council and Core Team to promote the interests of the lesson program within The Carpentries
+  * Representing the lesson program in their local and professional networks.
+  * Working with the Executive Council and Core Team to promote the interests of the lesson program within The Carpentries.
 * Communication:
-  * Reporting on the activities, objectives, and needs of the lesson program to the Executive Council and Core Team
-  * Engaging the community on topics and projects relevant to the development of the lesson program
-  * Maintaining up-to-date information about the lesson program on The Carpentries' websites
+  * Reporting on the activities, objectives, and needs of the lesson program to the Executive Council and Core Team.
+  * Engaging the community on topics and projects relevant to the development of the lesson program.
+  * Maintaining up-to-date information about the lesson program on The Carpentries' websites.
 
 A Lesson Program Governance Committee will typically have 3-5 members, including at least one member acting in each of the two Officer roles, Chair and Secretary.
 
