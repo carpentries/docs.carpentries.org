@@ -147,10 +147,10 @@ The slide deck from Greg Wilson’s How to Run a Meeting session was delivered t
 ### [Lesson Program Governance Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy)
 
 #### About this resource
-Official policy from The Carpentries Executive Council describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
+Official policy from The Carpentries Board of Directors describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
 
 ### {{"[Committee Policy]({}/resources/general/committees)".format(handbook_url)}}
 
 #### About this resource
-The Carpentries general policy for committees is provided by the Executive Council. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
+The Carpentries general policy for committees is provided by the Board of Directors. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
 
