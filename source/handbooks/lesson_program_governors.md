@@ -88,7 +88,10 @@ Lesson Program Governor offboarding includes the following steps, which will be 
 ## Communication and Collaboration Spaces
 
 ### Etherpad
-Below is a list of Etherpads relevant to serving as a Lesson Program Governor. 
+
+The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
+collaborative note-taking tool during workshops, training, and other
+Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Program Governor. 
 
 *  {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
 * {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}: an etherpad for signing up to upcoming discussion events. If the LPGC schedules any discussions e.g. to consult with the lesson program community on a topic, these events will be listed here.
