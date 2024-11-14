@@ -79,11 +79,11 @@ Offboarding is necessary when a Lesson Program Governor’s term ends or if they
 
 Lesson Program Governor offboarding includes the following steps, which will be coordinated by the Curriculum Team:
 
-* Reassigning any open issues on the committee repository to another committee member
-* Revoking their access to the GitHub repository
-* Removing them from the TopicBox group for the committee
-* Removing them from the LPGC listing on the lesson program and Carpentries websites
-* Inviting feedback from the departing member on their experience as an LPGC member
+* Reassigning any open issues on the committee repository to another committee member.
+* Revoking their access to the GitHub repository.
+* Removing them from the TopicBox group for the committee.
+* Removing them from the LPGC listing on the lesson program and Carpentries websites.
+* Inviting feedback from the departing member on their experience as an LPGC member.
 
 ## Communication and Collaboration Spaces
 
