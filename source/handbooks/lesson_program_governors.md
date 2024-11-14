@@ -106,7 +106,7 @@ The following LPGC repositories exist on GitHub, for collecting meeting minutes,
 ### Slack
 
 {{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. Although decision-making should be done in meetings and/or publicly visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
-If you are new to Slack, please check out our [Slack Quick Start Guide](#).
+If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### TopicBox
 You can access The Carpentries mailing lists from
