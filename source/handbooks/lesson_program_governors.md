@@ -144,7 +144,7 @@ The slide deck for onboarding LPGC Officers (chairs and secretaries) in March an
 #### About this resource
 The slide deck from Greg Wilson’s How to Run a Meeting session was delivered to incoming LPGC members as part of onboarding in March and April 2023. This session provided some advice and guidance to follow to help ensure that time spent in committee meetings is used as effectively as possible.
 
-### [Lesson Program Governance Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy)
+### {{'[Lesson Program Governance Policy]({}/resources/curriculum/lesson-program-governance)'.format(handbook_url)}}
 
 #### About this resource
 Official policy from The Carpentries Board of Directors describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
