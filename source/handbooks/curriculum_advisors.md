@@ -222,20 +222,15 @@ Curriculum Advisor.
 
 -  Secretary: Create an availability poll using [whenisgood](https://whenisgood.net/) (or a similar service). Be sure to enable the “use timezones” feature.
 -  Secretary: Start scheduling the meeting using the
-   email template#scheduling-a-meeting.
+   [email template](#scheduling-a-meeting).
 -  Secretary: Determine the best meeting time (or two if
    needed) from the availability poll. Create an event time announcement
    using TimeandDate (or a similar service). Include an event time
    announcement link in all communications about meeting times.
 -  Secretary: Set up a meeting room with Zoom (or
    similar service). If you need a room provided by The Carpentries,
-   contact [The Carpentries]mailto:team@carpentries.org>.
--  Secretary: Set up Etherpad. For the first meeting,
-   create Etherpad by visiting your desired URL starting with
-   {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an
-   Etherpad pre-populated with standard language about The Carpentries.
-   For subsequent meetings, use the same Etherpad. The history will
-   automatically archive. Include on Etherpad:
+   contact {{'[{}](mailto:{})'.format(team_email, team_email)}}.
+-  Secretary: {{"[Set up Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}}. For the first meeting, create Etherpad by visiting your desired URL starting with {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
 
    -  Meeting connection information (Zoom link and dial-in options)
    -  Time zone converter link for meeting time
@@ -246,7 +241,7 @@ Curriculum Advisor.
 -  Secretary: Send meeting invitations on Google
    Calendar. Include Etherpad and Zoom connection links in the invite.
 -  Secretary: Send meeting announcement using this
-   [email template](#meeting-announcement).
+   [Meeting announcement email template](#meeting-announcement).
 -  Chair: Determine meeting roles using random assignment
 -  Chair: Create agenda on Etherpad, collecting agenda items
    from:
@@ -265,8 +260,7 @@ Curriculum Advisor.
    GitHub repository. Update these with links to relevant conversations
    (e.g. tagging other issues in various lessons, or copying in emails
    from community members), re-opening/closing issues as needed.
--  Secretary: Send meeting reminder using this email
-   template#meeting-reminder.
+-  Secretary: Send meeting reminder using the [meeting reminder email template](#meeting-reminder).
 -  Chair: Ensure that meeting proceeds smoothly using the
    assigned meeting roles.
 -  Secretary: Compile meeting minutes from notes. Add
@@ -279,9 +273,7 @@ Curriculum Advisor.
       of any votes taken
 
 -  Chair: Review and edit or approve minutes. Merge PR.
--  Secretary: Send meeting follow-up to the group using this
-   email template. Include a link to minutes and information about any
-   follow-up tasks.
+-  Secretary: Send meeting follow-up to the group using the [Meeting follow-up email template](#meeting-follow-up). Include a link to minutes and information about any follow-up tasks.
 -  Chair: Communicate about decisions with relevant
    Maintainers or other community members as needed using individual
    lesson repositories, mailing lists, or other channels as appropriate.
@@ -456,7 +448,7 @@ Excited to meet with you all soon.
 
 Best, [ sender name ]
 
-#### Meeting followup
+#### Meeting follow-up
 
 Subject: Follow-up from [ QUARTER YEAR ] Meeting of the [ Data Carpentry
 / Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ]
