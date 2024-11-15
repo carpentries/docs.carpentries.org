@@ -91,7 +91,7 @@ Join the Workshop Administration Team every other month on the second Tuesday
 at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
 updates and tips, learn from community members, and enjoy networking opportunities. Please
 sign up on the
-[Etherpad](https://pad.carpentries.org/InstructorMeetings).
+{{'[The Carpentries Instructor Monthly Meeting Etherpad]({}/InstructorMeetings)'.format(etherpad)}}.
 
 ### Upcoming Workshops
 
