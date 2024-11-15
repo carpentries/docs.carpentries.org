@@ -72,7 +72,7 @@ Trainees who miss an event in full without cancelling within 7 days (no-show) or
 
 Trainees are asked to complete checkout within 90 days of attending an Instructor Training event. Having a deadline is necessary to support busy people in prioritising a goal we all care about. However, it is sometimes necessary for trainees to postpone completing checkout. 
 
-Trainees who are unable to complete checkout within the 90-day deadline should contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact instructor.training@carpentries.org to explore opportunities to re-take the training.
+Trainees who are unable to complete checkout within the 90-day deadline should contact us at {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to explore opportunities to re-take the training.
 
 
 ## Offboarding
