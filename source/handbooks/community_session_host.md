@@ -473,7 +473,7 @@ https://pad.carpentries.org/themed-discussion-15-09-2022.
 
 A Subcommunity Coordinator is a member of the community who serves as the
 leader of a subcommunity within The Carpentries. This role is being
-formalized through the Community Development Program. If you are
+formalised through the Community Development Program. If you are
 interested in learning more, please email community@carpentries.org.
 
 
