@@ -142,7 +142,7 @@ If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack
 
 You can access The Carpentries mailing lists from
 [TopicBox](https://carpentries.topicbox.com/latest). Below are
-the lists relevant to the activities and programs covered by the Instructor handbook.
+the lists relevant to the activities and programs covered by the Instructor handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 -   [discuss \|
     Topicbox](https://carpentries.topicbox.com/groups/discuss)
