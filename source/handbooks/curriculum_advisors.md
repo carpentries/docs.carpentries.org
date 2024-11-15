@@ -186,7 +186,7 @@ You can access The Carpentries mailing lists from
 {{'[Topicbox]({}/latest)'.format(topicbox)}}. There are
 numerous mailing lists you can join based on the volunteer roles you are
 supporting and your interests. Below is a list of mailing lists relevant
-to the activities and programs covered by this handbook.
+to the activities and programs covered by this handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 - [curriculum-advisors-all TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-all)
    - a general list for communication with and between all Curriculum

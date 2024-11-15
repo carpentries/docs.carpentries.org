@@ -8,15 +8,15 @@ Carpentries community who are serving as an Instructor. It is maintained by The 
 ## Introduction
 
 Carpentries Instructors are volunteers who are certified through the
-Carpentries Instructor Training program to teach live-coding and data
+Carpentries {{"[Instructor Training program]({})".format(instructor_training_curriculum)}} to teach live-coding and data
 skills to learners through evidence based-teaching practices.
 
 ## Roles and Responsibilities
 
--   Organise and facilitate Self-Organised Workshops
--   Volunteer to facilitate Centrally-Organised Workshops
+-   Organise and facilitate Self-Organised Workshops.
+-   Volunteer to facilitate Centrally-Organised Workshops.
 
-Time Expectation: Flexible.
+**Time Expectation**: Flexible.
 
 Instructors can decide when they would like to plan a Self-Organised
 Workshop or support a Centrally-Organised Workshop.
@@ -33,32 +33,25 @@ in addition to approximately one to three hours of pre-planning meetings.
 
 Steps to becoming an Instructor.
 
-1.  **Attend an Instructor Training event** The training runs over two
-    full days or four half days and covers the basics of educational
-    psychology, evidence-based classroom practices, and how to apply
-    both to teaching workshops for The Carpentries. For more details,
-    visit the [Instructor training curriculum
-    page](https://carpentries.github.io/instructor-training/).
-2.  **Complete the checkout process** You must complete three short
-    tasks after the training to complete certification as a
-    Carpentries Instructor. See our [Checkout
-    Instructions](https://carpentries.github.io/instructor-training/checkout/index.html)
-    page for more details.
+1.  **Attend an Instructor Training event**. The training runs over two full days or four half days and covers the basics of educational    psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the [Instructor training curriculum page](https://carpentries.github.io/instructor-training/).
+2.  **Complete the checkout process**. You must complete three short tasks after the training to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://carpentries.github.io/instructor-training/checkout) page for more details.
 
 ### Instructor Training Attendance Policy
 
 #### No Shows
 
-A ‘No Show’ is when a trainee does not cancel or contact the [Instructor Training Team](mailto:instructor.training@carpentries.org) before an event, and does not attend training. In a 'No Show' event, the training seat will be considered used.
+A ‘No Show’ is when a trainee does not cancel or contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} before an event, and does not attend training. In a 'No Show' event, the training seat will be considered used.
 
-If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing instructor.training@carpentries.org. IMPORTANT: **Requests to re-register <span style="text-decoration:underline;">must</span> be received within 7 days after the end date of the training. **
+If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}}.  
+
+IMPORTANT: **Requests to re-register _must_ be received within 7 days after the end date of the training.**
 
 Trainees with multiple unexplained no-shows may be barred from future registration.
 
 
 #### Partial Absence 
 
-Trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly.](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than 4 hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
+Trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than 4 hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
 
 Trainees are not eligible for Instructor certification until their record indicates they have completed an entire Instructor Training event.
 
@@ -79,7 +72,7 @@ Trainees who miss an event in full without cancelling within 7 days (no-show) or
 
 Trainees are asked to complete checkout within 90 days of attending an Instructor Training event. Having a deadline is necessary to support busy people in prioritising a goal we all care about. However, it is sometimes necessary for trainees to postpone completing checkout. 
 
-Trainees who are unable to complete checkout within the 90-day deadline should contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact instructor.training@carpentries.org to explore opportunities to re-take the training.
+Trainees who are unable to complete checkout within the 90-day deadline should contact us at {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to explore opportunities to re-take the training.
 
 
 ## Offboarding
@@ -98,7 +91,7 @@ Join the Workshop Administration Team every other month on the second Tuesday
 at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
 updates and tips, learn from community members, and enjoy networking opportunities. Please
 sign up on the
-[Etherpad](https://pad.carpentries.org/InstructorMeetings).
+{{'[The Carpentries Instructor Monthly Meeting Etherpad]({}/InstructorMeetings)'.format(etherpad)}}.
 
 ### Upcoming Workshops
 
@@ -120,7 +113,7 @@ the event you would like to attend.
 
 ### Etherpad
 
-Below is a list of Etherpads relevant to serving as a *Instructor*.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Instructor.
 
 -   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
     our most commonly used Etherpads and other resources.
@@ -149,7 +142,7 @@ If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack
 
 You can access The Carpentries mailing lists from
 [TopicBox](https://carpentries.topicbox.com/latest). Below are
-the lists relevant to the activities and programs covered by the Instructor handbook.
+the lists relevant to the activities and programs covered by the Instructor handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 -   [discuss \|
     Topicbox](https://carpentries.topicbox.com/groups/discuss)
@@ -166,21 +159,16 @@ the mailing lists that require administrator approval).
 
 ### Planning & Organising a workshop
 
-1.  Decide on the order of the lessons and who will teach which modules
-2.  Set up the workshop website using the Carpentries template and send it
-    to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed
-    instructions are in the
-    README of the [workshop website template repo](https://github.com/carpentries/workshop-template).
-    *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
-4.  Create a collaborative document for the workshop (e.g. an Etherpad)
-5.  Assist the host in recruiting helpers if possible
-6.  Assist the host in ensuring the workshop location is accessible
-7.  Share emergency contact information with the host in case of last-minute
-    changes
-8.  Practice teaching the material
-9.  Remind the host of the necessary equipment
-10.  Join a community discussion
-11. Confirm criteria for reimbursement (per diem or save receipts)
+1.  Decide on the order of the lessons and who will teach which modules.
+2.  Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
+4.  Create a collaborative document for the workshop (e.g. an Etherpad).
+5.  Assist the host in recruiting helpers if possible.
+6.  Assist the host in ensuring the workshop location is accessible.
+7.  Share emergency contact information with the host in case of last-minute changes.
+8.  Practice teaching the material.
+9.  Remind the host of the necessary equipment.
+10. Join a community discussion.
+11. Confirm criteria for reimbursement (per diem or save receipts).
 
 ### Setting Up a Workshop Website
 
@@ -229,7 +217,7 @@ are suggestions for ensuring the process goes as smoothly as possible.
 **On the day of:**
 
 -   Refer to our [Wiki page for solutions to common
-    problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
+    problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions).
 -   If someone has come in early and the software still cannot be
     installed by the time the workshop starts, try one of the "emergency
     exits" below or keep working with them one-on-one until they are
@@ -296,28 +284,23 @@ for the details on how to handle Code of Conduct violations.
 
 ### Using Exercises
 
-When teaching a lesson, it is a very good idea to go through the lesson
-in advance and choose which exercises you want participants to try.
+When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
 
-Once you have selected exercises, there are several ways to
-display them to the participants during the workshop. Choose from the
-options below, depending on the tool you are using or
+Once you have selected exercises, there are several ways to display them to the participants during the workshop. Choose from the options below, depending on the tool you are using or
 the exercise you selected.
 
--   From the lesson website (zoomed in)
-    -   This is the least effort, but requires having the right lesson
-        page open + finding the right exercise
--   Make slides
-    -   More effort, but easy to flip forward to the next one
--   Have a document of some kind with all the exercises in it
+-   From the lesson website (zoomed in).
+    -   This is the least effort, but requires having the right lesson page open + finding the right exercise.
+-   Make slides.
+    -   More effort, but easy to flip forward to the next one. 
+    -   Have a document of some kind with all the exercises in it.
     -   More effort, but exercises are all in one place.
--   Put exercises in the Etherpad
+-   Put exercises in the Etherpad.
     -   If you do this in advance, pretty low-effort.
     -   Can also use this with any of the other strategies so people can
         find the exercise in two places.
--   Online tool, like [Socrative](https://www.socrative.com/)
-    -   Requires time to set up, but is great for multiple choice and
-        T/F questions and promotes participation
+-   Online tool, like [Socrative](https://www.socrative.com/).
+    -   Requires time to set up, but is great for multiple choice and T/F questions and promotes participation.
 
 In all of the examples, you will have to switch from the tool you are
 using for live coding to however you are showing the exercises. For
@@ -331,9 +314,7 @@ relatively easy to switch back and forth.
 **Introductions**
 
 The introduction is one of the most important pieces of the workshop! It
-sets the tone for the day. The [instructor training
-material](https://carpentries.github.io/instructor-training/23-introductions/index.html)
-has some suggestions of how to build a good workshop introduction.
+sets the tone for the day. The [instructor training material](https://carpentries.github.io/instructor-training/23-introductions) has some suggestions of how to build a good workshop introduction.
 
 **Accessibility Check-In**
 
@@ -348,7 +329,7 @@ checklist](https://carpentries.org/files/pdf/accessibility-checklist-virtual-eve
 Carpentries workshops frequently include many people with widely varying
 skills and experiences. The end of The Carpentries Instructor Training
 on [Carpentries teaching
-practices](https://carpentries.github.io/instructor-training/24-practices/index.html)
+practices](https://carpentries.github.io/instructor-training/24-practices)
 has some strategies when working with a diverse classroom.
 
 ## FAQ
@@ -449,12 +430,12 @@ content in the handbook.
         select the "Mix & Match" option for the question "Which
         Carpentries workshop are you teaching?". **This option is only
         available for Self-Organised workshops. Centrally-organised
-        workshops are required to follow the Core Curricula.**
+        workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
+
 -   **When a workshop is taught, how closely should it stick to the
     Carpentries lesson plans?**
     -   To be considered an official Carpentries workshop, you must
-        follow the [Core
-        Curriculum](https://carpentries.org/workshops/#workshop-core) of a lesson program.
+        follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program.
         If you teach something other than what is listed on our webpage
         we ask that you acknowledge that your workshop is "inspired by
         SWC/DC/LC" or "based on SWC/DC/LC". You can still
@@ -498,11 +479,7 @@ content in the handbook.
         do not have access to a video conferencing system, we will be
         able to provide you with access to one of our Zoom rooms.
 -   **I have never taught an online workshop, where should I begin?**
-    -   All Instructors should be familiar with the [Recommendation for
-        Teaching Carpentries Workshops
-        Online](https://carpentries.org/online-workshop-recommendations/)).
-        This will give you the foundation for online Carpentries styled
-        workshops.
+    -   All Instructors should be familiar with the {{"[Recommendations for Teaching Carpentries Workshops Online]({}/resources/workshops/resources_for_online_workshops.html)".format(handbook_url)}}. This will give you the foundation for online Carpentries styled workshops.
 -   **How do I indicate my workshop will be online in the workshop
     website template?**
     -   We updated the [workshop website
@@ -525,7 +502,7 @@ content in the handbook.
 -   **Do Instructors pay for travel?**
     -   As a volunteer Instructor who is not paid for their time
         teaching, we ask the host to cover travel and accommodation
-        costs. We recommend that the host budgets approximately \$1000
+        costs. We recommend that the host budgets approximately \$1500
         per Instructor for all travel expenses.
 -   **What if I am no longer comfortable teaching an in-person workshop
     after the travel has been purchased?**
