@@ -143,12 +143,7 @@ These repositories serve as a public record of meeting notes and decisions made 
 
 ### Collaborative Notetaking
 
-The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
-collaborative note-taking tool during workshops, training, and other
-Carpentries-related events. Pads are synchronised as you type so that
-everyone viewing the page sees the same text. This allows everyone to
-collaborate simultaneously on documents. Below is a list of Etherpads
-relevant to serving as a Curriculum Advisor.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor.
 
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of our most commonly used Etherpads and other resources.
 - {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
