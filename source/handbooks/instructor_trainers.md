@@ -172,7 +172,7 @@ New to Slack? Check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### TopicBox
 
-You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.
+You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 * [Instructor Trainers](https://carpentries.topicbox.com/groups/trainers): This is the primary communication channel for Instructor Trainers. All active Instructor Trainers are required to be on this list. It is used for community announcements and occasional discussions about issues relevant to Instructor Training or the Instructor Trainer community.  
 * [Discuss](https://carpentries.topicbox.com/groups/discuss): This general community list is one of The Carpentries’ oldest channels and is a useful way for Instructor Trainers to keep up with news and events from the broader community.
@@ -185,7 +185,7 @@ Instructor Trainer meetings are scheduled at two time slots, twice monthly. Each
 
 Meetings are open to Instructor Trainers, Instructor Trainer trainees, and invited guests. Anyone else with interest in attending an Instructor Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
-Meeting notes are recorded in the [Instructor Trainers Etherpad](http://carpentries/trainers) and [archived in the Instructor Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
+Meeting notes are recorded in the [Instructor Trainers Etherpad](https://pad.carpentries.org/trainers) and [archived in the Instructor Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
 
 ## Step-by-Step Guides
 
