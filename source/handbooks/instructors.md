@@ -8,7 +8,7 @@ Carpentries community who are serving as an Instructor. It is maintained by The 
 ## Introduction
 
 Carpentries Instructors are volunteers who are certified through the
-Carpentries Instructor Training program to teach live-coding and data
+Carpentries {{"[Instructor Training program]({})".format(instructor_training_curriculum)}} to teach live-coding and data
 skills to learners through evidence based-teaching practices.
 
 ## Roles and Responsibilities
