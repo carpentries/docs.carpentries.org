@@ -33,8 +33,8 @@ in addition to approximately one to three hours of pre-planning meetings.
 
 Steps to becoming an Instructor.
 
-1.  **Attend an Instructor Training event**. The training runs over two   full days or four half days and covers the basics of educational    psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the [Instructor training curriculum page](https://carpentries.github.io/instructor-training/).
-2.  **Complete the checkout process**. You must complete three short     tasks after the training to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://carpentries.github.io/instructor-training/checkout/index.html) page for more details.
+1.  **Attend an Instructor Training event**. The training runs over two full days or four half days and covers the basics of educational    psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the [Instructor training curriculum page](https://carpentries.github.io/instructor-training/).
+2.  **Complete the checkout process**. You must complete three short tasks after the training to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://carpentries.github.io/instructor-training/checkout) page for more details.
 
 ### Instructor Training Attendance Policy
 
