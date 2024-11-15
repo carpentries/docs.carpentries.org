@@ -502,7 +502,7 @@ content in the handbook.
 -   **Do Instructors pay for travel?**
     -   As a volunteer Instructor who is not paid for their time
         teaching, we ask the host to cover travel and accommodation
-        costs. We recommend that the host budgets approximately \$1000
+        costs. We recommend that the host budgets approximately \$1500
         per Instructor for all travel expenses.
 -   **What if I am no longer comfortable teaching an in-person workshop
     after the travel has been purchased?**
