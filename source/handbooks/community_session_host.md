@@ -184,24 +184,13 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 -  It is recommended to create a waiting room. This enables the host to
    explicitly let people in, rather than allowing anyone to enter.
 
-   -  [Learn about how to enable and use a waiting room as
-      host.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
-
--  Gain host access.
-
-   -  Two days before the event, the host will receive an automated
-      email from Calendly that includes the host key.
-   -  [Learn about how to use the host key to claim host
-      access.](https://support.zoom.us/hc/en-us/articles/115001315866)
-
+   -  {{"[Learn about how to enable and use a waiting room as host.]({}/resources/communications/zoom_rooms.html#using-a-waiting-room)".format(handbook_url)}}.
+ -  Gain host access.
+   -  Two days before the event, the host will receive an automated       email from Calendly that includes the host key.
+   -  {{"[Learn about how to use the host key to claim host access.]({}/resources/communications/zoom_rooms.html#gaining-host-access)".format(handbook_url)}}.
 -  Enable closed captioning to improve accessibility of the event.
-
-   -  Zoom provides automatic captioning of calls. Accuracy of
-      captioning may be limited due to factors such as sound quality,
-      accents, dialects, and jargon.
-   -  [Learn about how to enable automatic
-      captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services)
-
+   -  Zoom provides automatic captioning of calls. Accuracy of       captioning may be limited due to factors such as sound quality,       accents, dialects, and jargon.
+   -  {{"[Learn about how to enable automatic captioning]({}/resources/communications/zoom_rooms.html#closed-captioning)".format(handbook_url)}}.
 -  Confirm that the fellow host is present (if there is one) and who
    will be leading/taking notes.
 -  If relevant, the host can copy the template agendas for all session
@@ -236,7 +225,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
    everyone has enough time to share. When dividing attendees into two
    groups, try to balance the number of people who are de-briefing, who
    are there for pre-workshop help, and who are instructor trainees.
-   {{"[Learn more about how to set up and use breakout rooms]({}//resources/communications/zoom_rooms.html)".format(handbook_url)}}.
+   {{"[Learn more about how to set up and use breakout rooms]({}//resources/communications/zoom_rooms.html#creating-breakout-rooms)".format(handbook_url)}}.
 
 #### After the Discussion Session
 
