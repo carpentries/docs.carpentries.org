@@ -113,7 +113,7 @@ the event you would like to attend.
 
 ### Etherpad
 
-Below is a list of Etherpads relevant to serving as a *Instructor*.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Instructor.
 
 -   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
     our most commonly used Etherpads and other resources.
