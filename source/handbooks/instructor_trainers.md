@@ -206,7 +206,7 @@ Instructor Training events and Teaching Demonstrations are scheduled on a quarte
 * When signups open, Instructor Trainers will receive an email via Topicbox asking them to share their availability for the upcoming quarter in a Google form based on the dates provided.   
 * After the response deadline has passed, a Carpentries Core Team member will create a draft schedule and confirm events with individual Instructor Trainers.   
 * We ask that Instructor Trainers keep available dates open until they have received confirmation of a training date or notification that they have not been scheduled for the quarter.  
-* Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/index.html).
+* Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar).
 
 In rare instances, events may be cancelled due to low enrollment. If this happens, Instructor Trainers will be notified of potential cancellation two weeks before the event.
 
