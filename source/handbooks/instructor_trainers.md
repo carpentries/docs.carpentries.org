@@ -63,7 +63,7 @@ To be certified as an Instructor Trainer, all trainees must:
 * Attend weekly virtual seminar meetings.
   * Time commitment: 1 hour per week for 10 weeks; can miss up to 2 meetings.   
   * Meeting times are determined by a poll. Trainees may wait for a future cohort if their scheduling needs are unmet.  
-* Review How Learning Works by Susan Ambrose et al. and The Carpentries [Instructor Training Curriculum](https://preview.carpentries.org/instructor-training/).
+* Review _How Learning Works_ by Susan Ambrose et al. and The Carpentries [Instructor Training Curriculum](https://preview.carpentries.org/instructor-training/).
   * Time commitment: approximately 2-4 hours per week.
   * The actual time necessary for the full benefit of preparation depends on prior familiarity with content and English language proficiency. 
 * Agree to participate as an Active Instructor Instructor Trainer for at least 1 year.
