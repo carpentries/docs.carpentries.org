@@ -220,7 +220,7 @@ If you need to cancel after signing up to teach an Instructor Training event, em
 
 ##### Preparation and Instruction
 
-Guidelines on preparing to teach an Instructor Training Event can be found in the  [Instructor Trainer Notes section of the Instructor Training Curriculum](https://carpentries.github.io/instructor-training/guide/index.html)
+Guidelines on preparing to teach an Instructor Training Event can be found in the  [Instructor Trainer Notes section of the Instructor Training Curriculum](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)
 
 ##### Tracking Training Event Attendance
 
