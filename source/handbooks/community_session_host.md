@@ -116,7 +116,7 @@ If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will hel
 
 You can access The Carpentries mailing lists from
 {{'[Topicbox]({}/latest)'.format(topicbox)}}.
-{{'[The Discussion Host mailing list]({}/groups/discussion-hosts)'.format(topicbox)}} is used for announcements relevant to Discussion Hosts.
+{{'[The Discussion Host mailing list]({}/discussion-hosts)'.format(topicbox)}} is used for announcements relevant to Discussion Hosts.
 To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
