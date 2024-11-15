@@ -246,13 +246,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 
 #### Cancelling a Discussion Session
 
-We recognise that even after scheduling community discussions, the host
-may have conflicts that arise that require cancelling a scheduled event.
-If this happens, please contact community@carpentries.org as soon as
-possible so a Core Team member can ensure another host can cover
-the event. You can also post to one or more of the [Communication and
-Collaboration Spaces](#communication-and-collaboration-spaces) to
-learn if another host is available to lead the call.
+We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event.If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the {{"[Communication Spaces]({}/resources/communications/#communication-spaces)".format(handbook_url)}} to learn if another host is available to lead the call.
 
 ## Resources
 
@@ -270,8 +264,7 @@ started.
    is welcome to take notes during the call today, but [name] will also
    be serving as a designated note-taker.
 
-   -  *Host should share the link in
-      chat:*{{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
+   -  *Host should share the link in chat:* {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
 
 -  I have enabled automated closed captioning that you can display on
    your screen using the captioning feature.
@@ -280,8 +273,7 @@ started.
 -  To make clear what is expected, everyone participating in The
    Carpentries activities are required to abide by our Code of Conduct.
 
-   -  *Host should share the link in the
-      chat: *{{'[Code of Conduct]({})'.format(code_of_conduct)}} 
+   -  *Host should share the link in the chat:* {{'[Code of Conduct]({})'.format(code_of_conduct)}} 
    -  Any form of behaviour to exclude, intimidate, or cause discomfort
       is a violation of the Code of Conduct. To foster a
       positive and professional learning environment, we encourage you
@@ -297,9 +289,7 @@ started.
       that you report it to The Carpentries Code of Conduct Committee by
       completing this form.
 
-      -  *Host should share the link in
-         chat:* https://goo.gl/forms/KoUfO53Za3apOuOK2
-
+      -  *Host should share the link in chat:* [The Carpentries Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 -  If you are attending this discussion as part of Instructor Training
    Checkout, please make sure you have added the word ‘checkout’ next to
    your name on the Etherpad. This will ensure that you get credit for
