@@ -22,17 +22,10 @@ Topics covered during community discussions range from teaching
 workshops and developing curricula to building local communities and
 assessing the impact of our workshops globally. There are four types:
 
-1. **Community Sessions:** Our community discussion sessions are sessions on any topic relevant to the community that 
-   can be in any format. Each month, the Community
-   Development Team hosts **Welcome Sessions** for new community members
-   to meet members of the Core Team and learn about ways to engage with
-   the organisation. **Regional Community Calls:** These calls are hosted by our local and
-   regional subcommunities. A list of local and regional calls can be
-   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
-2. **Skill- up Sessions:** A skill-up session offers a professional development opportunity for the community where 
-   relevant skills are taught.
-3. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to 
-   co-work on any community activity. 
+1. **Community Sessions:** Our community discussion sessions are sessions on any topic relevant to the community that can be in any format. Each month, the Community Development Team hosts **Welcome Sessions** for new community members to meet members of the Core Team and learn about ways to engage with the organisation. 
+1. **Regional Community Calls:** These calls are hosted by our local and  regional subcommunities. A list of local and regional calls can be   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
+1. **Skill- up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
+1. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity. 
 
 
 **Note.** Any of these four types of Community Discussions can be
@@ -123,28 +116,19 @@ If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will hel
 
 You can access The Carpentries mailing lists from
 {{'[Topicbox]({}/latest)'.format(topicbox)}}.
-{{'[The Discussion Host mailing list]({}/groups/discussion-hosts)'.format(topicbox)}} is used for announcements relevant to Discussion Hosts.
+{{'[The Discussion Host mailing list]({}/discussion-hosts)'.format(topicbox)}} is used for announcements relevant to Discussion Hosts.
 To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).
+those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 ## Step-by-Step Guides
 
 This section includes step-by-step guides to support you in your role as
 a community discussion host.
 
--  Each quarter, communications will be shared from the Community
-   Engagement Team via Slack and TopicBox with instructions to sign up
-   to host a community discussion. Visit the [Communication and
-   Collaboration Spaces section of this
-   handbook](#communication-and-collaboration-spaces) for
-   instructions on joining one or both of these communication channels.
--  Community discussion hosts will sign up using
-   [Calendly](https://calendly.com/thecarpentries) during the signup
-   period. Calendly allows you to select dates and times in your
-   timezone for the sessions you plan to host. Dates and times already
-   selected will not display.
+-  Each quarter, communications will be shared from the Community    Engagement Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit the {{"[Communication Resources section of this handbook]({}/resources/communications)".format(handbook_url)}} for instructions on joining one or both of these communication channels.
+-  Community discussion hosts will sign up using [Calendly](https://calendly.com/thecarpentries) during the signup period. Calendly allows you to select dates and times in your timezone for the sessions you plan to host. Dates and times already selected will not display.
 
 ![Calendly signup animation](/images/calendly.gif)
 
@@ -200,24 +184,13 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 -  It is recommended to create a waiting room. This enables the host to
    explicitly let people in, rather than allowing anyone to enter.
 
-   -  [Learn about how to enable and use a waiting room as
-      host.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
-
--  Gain host access.
-
-   -  Two days before the event, the host will receive an automated
-      email from Calendly that includes the host key.
-   -  [Learn about how to use the host key to claim host
-      access.](https://support.zoom.us/hc/en-us/articles/115001315866)
-
+   -  {{"[Learn about how to enable and use a waiting room as host.]({}/resources/communications/zoom_rooms.html#using-a-waiting-room)".format(handbook_url)}}.
+ -  Gain host access.
+   -  Two days before the event, the host will receive an automated       email from Calendly that includes the host key.
+   -  {{"[Learn about how to use the host key to claim host access.]({}/resources/communications/zoom_rooms.html#gaining-host-access)".format(handbook_url)}}.
 -  Enable closed captioning to improve accessibility of the event.
-
-   -  Zoom provides automatic captioning of calls. Accuracy of
-      captioning may be limited due to factors such as sound quality,
-      accents, dialects, and jargon.
-   -  [Learn about how to enable automatic
-      captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services)
-
+   -  Zoom provides automatic captioning of calls. Accuracy of       captioning may be limited due to factors such as sound quality,       accents, dialects, and jargon.
+   -  {{"[Learn about how to enable automatic captioning]({}/resources/communications/zoom_rooms.html#closed-captioning)".format(handbook_url)}}.
 -  Confirm that the fellow host is present (if there is one) and who
    will be leading/taking notes.
 -  If relevant, the host can copy the template agendas for all session
@@ -252,7 +225,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
    everyone has enough time to share. When dividing attendees into two
    groups, try to balance the number of people who are de-briefing, who
    are there for pre-workshop help, and who are instructor trainees.
-   {{"[Learn more about how to set up and use breakout rooms]({}//resources/communications/zoom_rooms.html)".format(handbook_url)}}.
+   {{"[Learn more about how to set up and use breakout rooms]({}//resources/communications/zoom_rooms.html#creating-breakout-rooms)".format(handbook_url)}}.
 
 #### After the Discussion Session
 
@@ -273,13 +246,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 
 #### Cancelling a Discussion Session
 
-We recognise that even after scheduling community discussions, the host
-may have conflicts that arise that require cancelling a scheduled event.
-If this happens, please contact community@carpentries.org as soon as
-possible so a Core Team member can ensure another host can cover
-the event. You can also post to one or more of the [Communication and
-Collaboration Spaces](#communication-and-collaboration-spaces) to
-learn if another host is available to lead the call.
+We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event.If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the {{"[Communication Spaces]({}/resources/communications/#communication-spaces)".format(handbook_url)}} to learn if another host is available to lead the call.
 
 ## Resources
 
@@ -297,8 +264,7 @@ started.
    is welcome to take notes during the call today, but [name] will also
    be serving as a designated note-taker.
 
-   -  *Host should share the link in
-      chat:*{{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
+   -  *Host should share the link in chat:* {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
 
 -  I have enabled automated closed captioning that you can display on
    your screen using the captioning feature.
@@ -307,8 +273,7 @@ started.
 -  To make clear what is expected, everyone participating in The
    Carpentries activities are required to abide by our Code of Conduct.
 
-   -  *Host should share the link in the
-      chat: *{{'[Code of Conduct]({})'.format(code_of_conduct)}} 
+   -  *Host should share the link in the chat:* {{'[Code of Conduct]({})'.format(code_of_conduct)}} 
    -  Any form of behaviour to exclude, intimidate, or cause discomfort
       is a violation of the Code of Conduct. To foster a
       positive and professional learning environment, we encourage you
@@ -324,9 +289,7 @@ started.
       that you report it to The Carpentries Code of Conduct Committee by
       completing this form.
 
-      -  *Host should share the link in
-         chat:* https://goo.gl/forms/KoUfO53Za3apOuOK2
-
+      -  *Host should share the link in chat:* [The Carpentries Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 -  If you are attending this discussion as part of Instructor Training
    Checkout, please make sure you have added the word ‘checkout’ next to
    your name on the Etherpad. This will ensure that you get credit for
@@ -420,21 +383,11 @@ member of the Core Team will respond.
 to communicate? What if Zoom fails to work (e.g. your internet
 connection fails)?**
 
-It is very important to test your internet connection beforehand and to
-make sure that you as a host can communicate. The host is the
-session leader and should have a stable connection. If, however, when
-you test your connection, you find that you do not have a good
-connection, contact the community via [our communication
-channels](#communication-and-collaboration-spaces) to find out if
-someone could take over as host for the session.
+It is very important to test your internet connection beforehand and to make sure that you as a host can communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via {{"[our communication channels ]({}/resources/communications/#communication-spaces)".format(handbook_url)}} to find out if someone could take over as host for the session.
 
 **What if no one shows up?**
 
-If no one shows up, send out a reminder email to participants who signed
-up and wait for a few minutes. If no one shows up by 10 minutes after the
-start of the session, then fill in the (host
-form)[https://forms.gle/N74pFuGkRLawpCHh7] and indicate that no one
-showed up for your session.
+If no one shows up, send out a reminder email to participants who signed up and wait for a few minutes. If no one shows up by 10 minutes after the start of the session, then fill in the (host form)[https://forms.gle/N74pFuGkRLawpCHh7] and indicate that no one showed up for your session.
 
 **What if someone talks too much?**
 
@@ -520,7 +473,7 @@ https://pad.carpentries.org/themed-discussion-15-09-2022.
 
 A Subcommunity Coordinator is a member of the community who serves as the
 leader of a subcommunity within The Carpentries. This role is being
-formalized through the Community Development Program. If you are
+formalised through the Community Development Program. If you are
 interested in learning more, please email community@carpentries.org.
 
 
