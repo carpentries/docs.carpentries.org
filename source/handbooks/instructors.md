@@ -42,7 +42,9 @@ Steps to becoming an Instructor.
 
 A ‘No Show’ is when a trainee does not cancel or contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} before an event, and does not attend training. In a 'No Show' event, the training seat will be considered used.
 
-If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}}.  IMPORTANT: **Requests to re-register <span style="text-decoration:underline;">must</span> be received within 7 days after the end date of the training. **
+If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}}.  
+
+IMPORTANT: **Requests to re-register _must_ be received within 7 days after the end date of the training.**
 
 Trainees with multiple unexplained no-shows may be barred from future registration.
 
