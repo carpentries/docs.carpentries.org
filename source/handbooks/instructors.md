@@ -16,7 +16,7 @@ skills to learners through evidence based-teaching practices.
 -   Organise and facilitate Self-Organised Workshops.
 -   Volunteer to facilitate Centrally-Organised Workshops.
 
-Time Expectation: Flexible.
+**Time Expectation**: Flexible.
 
 Instructors can decide when they would like to plan a Self-Organised
 Workshop or support a Centrally-Organised Workshop.
