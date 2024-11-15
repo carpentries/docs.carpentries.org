@@ -22,17 +22,10 @@ Topics covered during community discussions range from teaching
 workshops and developing curricula to building local communities and
 assessing the impact of our workshops globally. There are four types:
 
-1. **Community Sessions:** Our community discussion sessions are sessions on any topic relevant to the community that 
-   can be in any format. Each month, the Community
-   Development Team hosts **Welcome Sessions** for new community members
-   to meet members of the Core Team and learn about ways to engage with
-   the organisation. **Regional Community Calls:** These calls are hosted by our local and
-   regional subcommunities. A list of local and regional calls can be
-   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
-2. **Skill- up Sessions:** A skill-up session offers a professional development opportunity for the community where 
-   relevant skills are taught.
-3. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to 
-   co-work on any community activity. 
+1. **Community Sessions:** Our community discussion sessions are sessions on any topic relevant to the community that can be in any format. Each month, the Community Development Team hosts **Welcome Sessions** for new community members to meet members of the Core Team and learn about ways to engage with the organisation. 
+1. **Regional Community Calls:** These calls are hosted by our local and  regional subcommunities. A list of local and regional calls can be   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
+1. **Skill- up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
+1. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity. 
 
 
 **Note.** Any of these four types of Community Discussions can be
