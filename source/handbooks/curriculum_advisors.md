@@ -38,7 +38,7 @@ The Carpentries philosophy by:
 - Assign meeting roles.
 - Serve as a primary point of contact for Maintainers.
 - Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
-- Generally review lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
+- Generally review lesson repositories for items that may come under the CAC’s purview, according to the [CAC consultation rubric](#curriculum-advisory-committee-consultation-rubric), even if not mentioned.
 - Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and
 Maintainers in contact with CAC members who will assist with
 implementation.
