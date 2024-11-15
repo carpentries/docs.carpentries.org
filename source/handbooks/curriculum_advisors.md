@@ -92,7 +92,7 @@ implementation.
          give consent for The Carpentries to publish their profile so
          that they can be listed on The Carpentries websites.
 
-   2. Join the mailing list for their committee on {{'[Topicbox]({}/latest)'.format(topicbox)}}. CAC mailing lists are named with the prefix “curriculum-advisors-“.
+   2. [Join the mailing list for their committee on Topicbox](#mailing-list). CAC mailing lists are named with the prefix “curriculum-advisors-“.
 
       -  These mailing lists are configured so that anyone can send a
          message to them, but the list membership is moderated so that only
