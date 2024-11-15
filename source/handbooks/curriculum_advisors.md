@@ -220,8 +220,7 @@ Curriculum Advisor.
 
 ### Meeting Checklist
 
--  Secretary: Create an availability poll using whenisgood
-   (or a similar service). Be sure to enable the “use timezones” feature.
+-  Secretary: Create an availability poll using [whenisgood](https://whenisgood.net/) (or a similar service). Be sure to enable the “use timezones” feature.
 -  Secretary: Start scheduling the meeting using the
    email template#scheduling-a-meeting.
 -  Secretary: Determine the best meeting time (or two if
