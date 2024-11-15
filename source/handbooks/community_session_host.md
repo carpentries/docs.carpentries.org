@@ -127,17 +127,8 @@ those mailing lists requiring administrator approval). If you are new to Topicbo
 This section includes step-by-step guides to support you in your role as
 a community discussion host.
 
--  Each quarter, communications will be shared from the Community
-   Engagement Team via Slack and TopicBox with instructions to sign up
-   to host a community discussion. Visit the [Communication and
-   Collaboration Spaces section of this
-   handbook](#communication-and-collaboration-spaces) for
-   instructions on joining one or both of these communication channels.
--  Community discussion hosts will sign up using
-   [Calendly](https://calendly.com/thecarpentries) during the signup
-   period. Calendly allows you to select dates and times in your
-   timezone for the sessions you plan to host. Dates and times already
-   selected will not display.
+-  Each quarter, communications will be shared from the Community    Engagement Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit the {{"[Communication Resources section of this handbook]({}/resources/communications)".format(handbook_url)}} for instructions on joining one or both of these communication channels.
+-  Community discussion hosts will sign up using [Calendly](https://calendly.com/thecarpentries) during the signup period. Calendly allows you to select dates and times in your timezone for the sessions you plan to host. Dates and times already selected will not display.
 
 ![Calendly signup animation](/images/calendly.gif)
 
