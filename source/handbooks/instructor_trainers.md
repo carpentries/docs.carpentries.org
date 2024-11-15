@@ -85,7 +85,7 @@ Version 1.0.1 – Approved 8 February, 2023
 
 ### Active status for Instructor Instructor Trainers is renewed annually.
 
-New Instructor Trainers who have not yet been certified for a full year and Instructor Trainers who have returned to Active status within the past year will automatically be renewed.
+New Instructor Trainers who have _not_ yet been certified for a full year and Instructor Trainers who have returned to Active status within the past year will automatically be renewed.
 
 #### Active status may be renewed by either:
 
