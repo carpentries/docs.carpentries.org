@@ -13,8 +13,8 @@ skills to learners through evidence based-teaching practices.
 
 ## Roles and Responsibilities
 
--   Organise and facilitate Self-Organised Workshops
--   Volunteer to facilitate Centrally-Organised Workshops
+-   Organise and facilitate Self-Organised Workshops.
+-   Volunteer to facilitate Centrally-Organised Workshops.
 
 Time Expectation: Flexible.
 
@@ -33,17 +33,8 @@ in addition to approximately one to three hours of pre-planning meetings.
 
 Steps to becoming an Instructor.
 
-1.  **Attend an Instructor Training event** The training runs over two
-    full days or four half days and covers the basics of educational
-    psychology, evidence-based classroom practices, and how to apply
-    both to teaching workshops for The Carpentries. For more details,
-    visit the [Instructor training curriculum
-    page](https://carpentries.github.io/instructor-training/).
-2.  **Complete the checkout process** You must complete three short
-    tasks after the training to complete certification as a
-    Carpentries Instructor. See our [Checkout
-    Instructions](https://carpentries.github.io/instructor-training/checkout/index.html)
-    page for more details.
+1.  **Attend an Instructor Training event**. The training runs over two   full days or four half days and covers the basics of educational    psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the [Instructor training curriculum page](https://carpentries.github.io/instructor-training/).
+2.  **Complete the checkout process**. You must complete three short     tasks after the training to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://carpentries.github.io/instructor-training/checkout/index.html) page for more details.
 
 ### Instructor Training Attendance Policy
 
@@ -58,7 +49,7 @@ Trainees with multiple unexplained no-shows may be barred from future registrati
 
 #### Partial Absence 
 
-Trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly.](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than 4 hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
+Trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than 4 hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
 
 Trainees are not eligible for Instructor certification until their record indicates they have completed an entire Instructor Training event.
 
@@ -166,21 +157,16 @@ the mailing lists that require administrator approval).
 
 ### Planning & Organising a workshop
 
-1.  Decide on the order of the lessons and who will teach which modules
-2.  Set up the workshop website using the Carpentries template and send it
-    to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed
-    instructions are in the
-    README of the [workshop website template repo](https://github.com/carpentries/workshop-template).
-    *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
-4.  Create a collaborative document for the workshop (e.g. an Etherpad)
-5.  Assist the host in recruiting helpers if possible
-6.  Assist the host in ensuring the workshop location is accessible
-7.  Share emergency contact information with the host in case of last-minute
-    changes
-8.  Practice teaching the material
-9.  Remind the host of the necessary equipment
-10.  Join a community discussion
-11. Confirm criteria for reimbursement (per diem or save receipts)
+1.  Decide on the order of the lessons and who will teach which modules.
+2.  Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
+4.  Create a collaborative document for the workshop (e.g. an Etherpad).
+5.  Assist the host in recruiting helpers if possible.
+6.  Assist the host in ensuring the workshop location is accessible.
+7.  Share emergency contact information with the host in case of last-minute changes.
+8.  Practice teaching the material.
+9.  Remind the host of the necessary equipment.
+10. Join a community discussion.
+11. Confirm criteria for reimbursement (per diem or save receipts).
 
 ### Setting Up a Workshop Website
 
@@ -229,7 +215,7 @@ are suggestions for ensuring the process goes as smoothly as possible.
 **On the day of:**
 
 -   Refer to our [Wiki page for solutions to common
-    problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
+    problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions).
 -   If someone has come in early and the software still cannot be
     installed by the time the workshop starts, try one of the "emergency
     exits" below or keep working with them one-on-one until they are
@@ -296,28 +282,23 @@ for the details on how to handle Code of Conduct violations.
 
 ### Using Exercises
 
-When teaching a lesson, it is a very good idea to go through the lesson
-in advance and choose which exercises you want participants to try.
+When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
 
-Once you have selected exercises, there are several ways to
-display them to the participants during the workshop. Choose from the
-options below, depending on the tool you are using or
+Once you have selected exercises, there are several ways to display them to the participants during the workshop. Choose from the options below, depending on the tool you are using or
 the exercise you selected.
 
--   From the lesson website (zoomed in)
-    -   This is the least effort, but requires having the right lesson
-        page open + finding the right exercise
--   Make slides
-    -   More effort, but easy to flip forward to the next one
--   Have a document of some kind with all the exercises in it
+-   From the lesson website (zoomed in).
+    -   This is the least effort, but requires having the right lesson page open + finding the right exercise.
+-   Make slides.
+    -   More effort, but easy to flip forward to the next one. 
+    -   Have a document of some kind with all the exercises in it.
     -   More effort, but exercises are all in one place.
--   Put exercises in the Etherpad
+-   Put exercises in the Etherpad.
     -   If you do this in advance, pretty low-effort.
     -   Can also use this with any of the other strategies so people can
         find the exercise in two places.
--   Online tool, like [Socrative](https://www.socrative.com/)
-    -   Requires time to set up, but is great for multiple choice and
-        T/F questions and promotes participation
+-   Online tool, like [Socrative](https://www.socrative.com/).
+    -   Requires time to set up, but is great for multiple choice and T/F questions and promotes participation.
 
 In all of the examples, you will have to switch from the tool you are
 using for live coding to however you are showing the exercises. For
