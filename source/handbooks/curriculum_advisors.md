@@ -288,7 +288,7 @@ Curriculum Advisor.
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs).*
 
-#### Issues over which Maintainers have full authority and which do not need CAC involvement
+#### Issues over which Maintainers have full authority and which do not need CAC involvement.
 
 
 -  Addition or removal of exercises
@@ -298,7 +298,7 @@ Committees (CACs).*
 -  Changes to episode timings
 -  Changes to lesson text
 
-#### Issues about which Maintainers should consult the CAC
+#### Issues about which Maintainers should consult the CAC.
 
 
 -  Any new versions of a dataset (either a new release or a modification
@@ -308,7 +308,7 @@ Committees (CACs).*
 -  Any updates to a lesson that Maintainers wish to share for
    informational purposes
 
-#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority
+#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority.
 
 
 -  Addition of a new library or package
@@ -326,7 +326,7 @@ Committees (CACs).*
    adoption into a Lesson Program’s official curriculum
 -  Issues which are not covered anywhere else in this rubric
 
-#### Issues for which Maintainers must seek CAC approval
+#### Issues for which Maintainers must seek CAC approval.
 
 -  Replacing the dataset used in the lesson with a different dataset.
    This does not include cases in which the data being used in the
