@@ -38,7 +38,7 @@ The Carpentries philosophy by:
 - Assign meeting roles.
 - Serve as a primary point of contact for Maintainers.
 - Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
-- Generally review lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
+- Generally review lesson repositories for items that may come under the CAC’s purview, according to the [CAC consultation rubric](#curriculum-advisory-committee-consultation-rubric), even if not mentioned.
 - Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and
 Maintainers in contact with CAC members who will assist with
 implementation.
@@ -92,7 +92,7 @@ implementation.
          give consent for The Carpentries to publish their profile so
          that they can be listed on The Carpentries websites.
 
-   2. Join the mailing list for their committee on {{'[Topicbox]({}/latest)'.format(topicbox)}}. CAC mailing lists are named with the prefix “curriculum-advisors-“.
+   2. [Join the mailing list for their committee on Topicbox](#mailing-list). CAC mailing lists are named with the prefix “curriculum-advisors-“.
 
       -  These mailing lists are configured so that anyone can send a
          message to them, but the list membership is moderated so that only
@@ -143,12 +143,7 @@ These repositories serve as a public record of meeting notes and decisions made 
 
 ### Collaborative Notetaking
 
-The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
-collaborative note-taking tool during workshops, training, and other
-Carpentries-related events. Pads are synchronised as you type so that
-everyone viewing the page sees the same text. This allows everyone to
-collaborate simultaneously on documents. Below is a list of Etherpads
-relevant to serving as a Curriculum Advisor.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor.
 
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of our most commonly used Etherpads and other resources.
 - {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
@@ -174,7 +169,7 @@ from members of the Core Team are posted to both channels.
 {{'[Slack]({})'.format(slack)}} is a communications platform adopted by
 The Carpentries for instant messaging as well as synchronous and
 asynchronous collaboration. If you are new to Slack, please checkout our
-[Slack Quick Start Guide](#).
+{{"[Slack Guide]({})".format(slack_guide)}}.
 
 There are many curriculum-specific channels. We recommend that
 Curriculum Advisors join the channels for all lessons within their
@@ -225,23 +220,17 @@ Curriculum Advisor.
 
 ### Meeting Checklist
 
--  Secretary: Create an availability poll using whenisgood
-   (or a similar service). Be sure to enable the “use timezones” feature.
+-  Secretary: Create an availability poll using [whenisgood](https://whenisgood.net/) (or a similar service). Be sure to enable the “use timezones” feature.
 -  Secretary: Start scheduling the meeting using the
-   email template#scheduling-a-meeting.
+   [email template](#scheduling-a-meeting).
 -  Secretary: Determine the best meeting time (or two if
    needed) from the availability poll. Create an event time announcement
    using TimeandDate (or a similar service). Include an event time
    announcement link in all communications about meeting times.
 -  Secretary: Set up a meeting room with Zoom (or
    similar service). If you need a room provided by The Carpentries,
-   contact [The Carpentries]mailto:team@carpentries.org>.
--  Secretary: Set up Etherpad. For the first meeting,
-   create Etherpad by visiting your desired URL starting with
-   {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an
-   Etherpad pre-populated with standard language about The Carpentries.
-   For subsequent meetings, use the same Etherpad. The history will
-   automatically archive. Include on Etherpad:
+   contact {{'[{}](mailto:{})'.format(team_email, team_email)}}.
+-  Secretary: {{"[Set up Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}}. For the first meeting, create Etherpad by visiting your desired URL starting with {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
 
    -  Meeting connection information (Zoom link and dial-in options)
    -  Time zone converter link for meeting time
@@ -252,7 +241,7 @@ Curriculum Advisor.
 -  Secretary: Send meeting invitations on Google
    Calendar. Include Etherpad and Zoom connection links in the invite.
 -  Secretary: Send meeting announcement using this
-   [email template](#meeting-announcement).
+   [Meeting announcement email template](#meeting-announcement).
 -  Chair: Determine meeting roles using random assignment
 -  Chair: Create agenda on Etherpad, collecting agenda items
    from:
@@ -271,8 +260,7 @@ Curriculum Advisor.
    GitHub repository. Update these with links to relevant conversations
    (e.g. tagging other issues in various lessons, or copying in emails
    from community members), re-opening/closing issues as needed.
--  Secretary: Send meeting reminder using this email
-   template#meeting-reminder.
+-  Secretary: Send meeting reminder using the [meeting reminder email template](#meeting-reminder).
 -  Chair: Ensure that meeting proceeds smoothly using the
    assigned meeting roles.
 -  Secretary: Compile meeting minutes from notes. Add
@@ -285,9 +273,7 @@ Curriculum Advisor.
       of any votes taken
 
 -  Chair: Review and edit or approve minutes. Merge PR.
--  Secretary: Send meeting follow-up to the group using this
-   email template. Include a link to minutes and information about any
-   follow-up tasks.
+-  Secretary: Send meeting follow-up to the group using the [Meeting follow-up email template](#meeting-follow-up). Include a link to minutes and information about any follow-up tasks.
 -  Chair: Communicate about decisions with relevant
    Maintainers or other community members as needed using individual
    lesson repositories, mailing lists, or other channels as appropriate.
@@ -302,7 +288,7 @@ Curriculum Advisor.
 Carpentries Maintainers and The Carpentries Curriculum Advisory
 Committees (CACs).*
 
-#### Issues over which Maintainers have full authority and which do not need CAC involvement
+#### Issues over which Maintainers have full authority and which do not need CAC involvement.
 
 
 -  Addition or removal of exercises
@@ -312,7 +298,7 @@ Committees (CACs).*
 -  Changes to episode timings
 -  Changes to lesson text
 
-#### Issues about which Maintainers should consult the CAC
+#### Issues about which Maintainers should consult the CAC.
 
 
 -  Any new versions of a dataset (either a new release or a modification
@@ -322,7 +308,7 @@ Committees (CACs).*
 -  Any updates to a lesson that Maintainers wish to share for
    informational purposes
 
-#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority
+#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority.
 
 
 -  Addition of a new library or package
@@ -340,7 +326,7 @@ Committees (CACs).*
    adoption into a Lesson Program’s official curriculum
 -  Issues which are not covered anywhere else in this rubric
 
-#### Issues for which Maintainers must seek CAC approval
+#### Issues for which Maintainers must seek CAC approval.
 
 -  Replacing the dataset used in the lesson with a different dataset.
    This does not include cases in which the data being used in the
@@ -462,7 +448,7 @@ Excited to meet with you all soon.
 
 Best, [ sender name ]
 
-#### Meeting followup
+#### Meeting follow-up
 
 Subject: Follow-up from [ QUARTER YEAR ] Meeting of the [ Data Carpentry
 / Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ]
