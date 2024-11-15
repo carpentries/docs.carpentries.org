@@ -17,15 +17,15 @@ Instructor Trainers often engage in leadership roles in their home communities, 
 
 ## Roles and Responsibilities
 
-Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. To remain active, we ask that Instructor Trainers annually: 
+Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. To remain active, we ask that Instructor Trainers annually do all of the following: 
 
-* teach 1 Instructor Training event, and  
-* host 2 teaching demos, and  
-* attend 4 Instructor Trainer community meetings
+* Teach 1 Instructor Training event.
+* Host 2 teaching demos.
+* Attend 4 Instructor Trainer community meetings.
 
 OR
 
-* equivalent engagement with curriculum, trainees, or the Instructor Trainer community, as approved by the Instructor Trainers Leadership
+* Equivalent engagement with curriculum, trainees, or the Instructor Trainer community, as approved by the Instructor Trainers Leadership.
 
 The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
 
@@ -35,7 +35,7 @@ Instructor Trainers whose service is included in a member agreement may have add
 
 Instructor Training events, bonus modules, and teaching demos are scheduled on a quarterly basis. Four times a year, the Core Team will poll Trainers for their availability to teach Instructor Training. At the same time, Trainers will be asked to sign up to host teaching demos using Calendly.    
 
-The Core Team creates a training calendar by matching up availability of Trainers. Once the training calendar is confirmed, it is posted [Member information page](https://carpentries.github.io/instructor-training/training_calendar/).  Member sites each receive a unique registration code allowing their team members to sign up for these events. 
+The Core Team creates a training calendar by matching up availability of Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar).  Member sites each receive a unique registration code allowing their team members to sign up for these events. 
 
 Teaching demos are listed on the [teaching demo etherpad](https://pad.carpentries.org/teaching-demos).  Trainees can sign up for teaching demos at any time. 
 
@@ -59,19 +59,19 @@ The Instructor Trainer community periodically accepts new members via applicatio
 
 To be certified as an Instructor Trainer, all trainees must:
 
-* Agree to abide by the {{'[Code of Conduct]({})'.format(code_of_conduct)}} in all communications and interactions with The Carpentries community  
-* Attend weekly virtual seminar meetings  
-  * Time commitment: 1 hour per week for 10 weeks; can miss up to 2 meetings   
+* Agree to abide by the {{'[Code of Conduct]({})'.format(code_of_conduct)}} in all communications and interactions with The Carpentries community.
+* Attend weekly virtual seminar meetings.
+  * Time commitment: 1 hour per week for 10 weeks; can miss up to 2 meetings.   
   * Meeting times are determined by a poll. Trainees may wait for a future cohort if their scheduling needs are unmet.  
-* Review How Learning Works by Susan Ambrose et al. and The Carpentries [Instructor Training Curriculum](https://preview.carpentries.org/instructor-training/)  
-  * Time commitment: approximately 2-4 hours per week  
-  * The actual time necessary for the full benefit of preparation depends on prior familiarity with content and English language proficiency  
-* Agree to participate as an Active Instructor Instructor Trainer for at least 1 year
+* Review _How Learning Works_ by Susan Ambrose et al. and The Carpentries [Instructor Training Curriculum](https://preview.carpentries.org/instructor-training/).
+  * Time commitment: approximately 2-4 hours per week.
+  * The actual time necessary for the full benefit of preparation depends on prior familiarity with content and English language proficiency. 
+* Agree to participate as an Active Instructor Instructor Trainer for at least 1 year.
 
 Trainees who are previously certified as Carpentries Instructors must additionally:
 
-* Observe a teaching demonstration session (1 hour)  
-* Observe part of an online Instructor Training event (4 hours)
+* Observe a teaching demonstration session (1 hour).
+* Observe part of an online Instructor Training event (4 hours).
 
 Trainees who are \*not\* previously certified as Carpentries Instructors must concurrently pursue [Instructor certification](https://carpentries.org/become-instructor/), with all steps completed or scheduled prior to receiving the Instructor Trainer badge
 
@@ -85,12 +85,12 @@ Version 1.0.1 – Approved 8 February, 2023
 
 ### Active status for Instructor Instructor Trainers is renewed annually.
 
-New Instructor Trainers who have not yet been certified for a full year and Instructor Trainers who have returned to Active status within the past year will automatically be renewed.
+New Instructor Trainers who have _not_ yet been certified for a full year and Instructor Trainers who have returned to Active status within the past year will automatically be renewed.
 
 #### Active status may be renewed by either:
 
 A. participating in curriculum and community activities during the prior year, as described below OR  
-B. meet with the Director of Workshops & Training (DWIT) to catch up on curriculum and community changes and discuss plans for the coming year.
+B. meet with the Director of Workshops and Training (DWIT) to catch up on curriculum and community changes and discuss plans for the coming year.
 
 Instructor Trainers who do not renew their Active status before the deadline will have their status changed to Alumni. Instructions for Alumni returning to Active status are detailed below.
 
@@ -110,45 +110,32 @@ OR
 
 As a general rule, equivalent activities must be self-reported via form submission. The Instructor Trainers Leadership Committee will provide guidance to help Instructor Trainers choose what to share in the form and when to select a meeting instead.
 
-Instructor Trainer Alumni Status  
-Active Instructor Trainers may elect to become inactive by requesting Instructor Trainer Alumni status at any time by contacting [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Alumni may also submit re-activation requests to the same address.
+## Offboarding
+
+### Instructor Trainer Alumni Status  
+
+Active Instructor Trainers may elect to become inactive by requesting Instructor Trainer Alumni status at any time by contacting [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Alumni may also submit re-activation requests to the same address. 
+
+Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not renew their Active status during the annual renewal period.
 
 ### Instructor Trainer Alumni will not be permitted to:
 
-* teach Carpentries Instructor Training workshops  
-* host teaching demonstrations  
-* vote in Instructor Trainer community elections
+* Teach Carpentries Instructor Training workshops.
+* Host teaching demonstrations.  
+* Vote in Instructor Trainer community elections.
 
 Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
 ### Instructor Trainer Alumni may select to:
 
-* continue to receive Topicbox Instructor Training emails & participate in conversations  
-* continue to participate in the Slack private Instructor Trainers channel  
-* receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status.
+* Continue to receive Topicbox Instructor Training emails and participate in conversations.
+* Continue to participate in the Slack private Instructor Trainers channel.
+* Receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status.
 
 An Instructor Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
 
-* 0-12 months: Meet with the Director of Workshops & Training to learn about curriculum updates & discuss plans for re-activating  
-* more than 12 months: review Instructor Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with the Director of Workshops & Training to review and discuss plans, including re-introduction to the Instructor Trainer community via meetings or other arrangements.
-
-## Offboarding
-
-### Instructor Trainer Alumni 
-
-Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not [renew their Active status](https://docs.google.com/document/d/1XN7cWRNjeu5tgWPxUlSz611RXi6bcGjkkUMUDu7iwaw/edit#heading=h.cp4it9i4qwtc) during the annual renewal period. 
-
-Instructor Trainer Alumni will not be permitted to:
-
-* teach Carpentries Instructor Training workshops,   
-* host teaching demonstrations or   
-* vote in Instructor Trainer community elections
-
-Instructor Trainer Alumni may elect to:
-
-* continue to receive Topicbox Instructor Training emails & participate in conversations  
-* remain in the Slack private Instructor Trainers channel  
-* attend Instructor Trainer meetings
+* 0-12 months: Meet with the Director of Workshops and Training to learn about curriculum updates and discuss plans for re-activating.
+* more than 12 months: review Instructor Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with the Director of Workshops and Training to review and discuss plans, including re-introduction to the Instructor Trainer community via meetings or other arrangements.
 
 ## Communication and Collaboration Spaces
 
@@ -157,7 +144,7 @@ Instructor Trainer Alumni may elect to:
 All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/#community-events). Below is a list of Etherpads relevant to serving as an Instructor  Trainer. 
 
 * [Instructor Trainer Meetings](https://pad.carpentries.org/trainers): Used for monthly Instructor Trainer meetings.   
-* [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, see the instructions below.(\#)  
+* [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, see the instructions below. 
 * [Instructor Training Etherpad Template](https://pad.carpentries.org/ttt-template): Structured template that may be copied and pasted to create an Etherpad for any Instructor Training event.  
 * [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
 
@@ -185,7 +172,7 @@ New to Slack? Check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
 ### TopicBox
 
-You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.
+You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 * [Instructor Trainers](https://carpentries.topicbox.com/groups/trainers): This is the primary communication channel for Instructor Trainers. All active Instructor Trainers are required to be on this list. It is used for community announcements and occasional discussions about issues relevant to Instructor Training or the Instructor Trainer community.  
 * [Discuss](https://carpentries.topicbox.com/groups/discuss): This general community list is one of The Carpentries’ oldest channels and is a useful way for Instructor Trainers to keep up with news and events from the broader community.
@@ -198,7 +185,7 @@ Instructor Trainer meetings are scheduled at two time slots, twice monthly. Each
 
 Meetings are open to Instructor Trainers, Instructor Trainer trainees, and invited guests. Anyone else with interest in attending an Instructor Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
-Meeting notes are recorded in the [Instructor Trainers Etherpad](http://carpentries/trainers) and [archived in the Instructor Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
+Meeting notes are recorded in the [Instructor Trainers Etherpad](https://pad.carpentries.org/trainers) and [archived in the Instructor Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
 
 ## Step-by-Step Guides
 
@@ -219,7 +206,7 @@ Instructor Training events and Teaching Demonstrations are scheduled on a quarte
 * When signups open, Instructor Trainers will receive an email via Topicbox asking them to share their availability for the upcoming quarter in a Google form based on the dates provided.   
 * After the response deadline has passed, a Carpentries Core Team member will create a draft schedule and confirm events with individual Instructor Trainers.   
 * We ask that Instructor Trainers keep available dates open until they have received confirmation of a training date or notification that they have not been scheduled for the quarter.  
-* Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/index.html).
+* Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar).
 
 In rare instances, events may be cancelled due to low enrollment. If this happens, Instructor Trainers will be notified of potential cancellation two weeks before the event.
 
@@ -233,7 +220,7 @@ If you need to cancel after signing up to teach an Instructor Training event, em
 
 ##### Preparation and Instruction
 
-Guidelines on preparing to teach an Instructor Training Event can be found in the  [Instructor Trainer Notes section of the Instructor Training Curriculum](https://carpentries.github.io/instructor-training/guide/index.html)
+Guidelines on preparing to teach an Instructor Training Event can be found in the  [Instructor Trainer Notes section of the Instructor Training Curriculum](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)
 
 ##### Tracking Training Event Attendance
 
