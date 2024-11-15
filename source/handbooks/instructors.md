@@ -314,9 +314,7 @@ relatively easy to switch back and forth.
 **Introductions**
 
 The introduction is one of the most important pieces of the workshop! It
-sets the tone for the day. The [instructor training
-material](https://carpentries.github.io/instructor-training/23-introductions/index.html)
-has some suggestions of how to build a good workshop introduction.
+sets the tone for the day. The [instructor training material](https://carpentries.github.io/instructor-training/23-introductions) has some suggestions of how to build a good workshop introduction.
 
 **Accessibility Check-In**
 
@@ -331,7 +329,7 @@ checklist](https://carpentries.org/files/pdf/accessibility-checklist-virtual-eve
 Carpentries workshops frequently include many people with widely varying
 skills and experiences. The end of The Carpentries Instructor Training
 on [Carpentries teaching
-practices](https://carpentries.github.io/instructor-training/24-practices/index.html)
+practices](https://carpentries.github.io/instructor-training/24-practices)
 has some strategies when working with a diverse classroom.
 
 ## FAQ
@@ -432,12 +430,12 @@ content in the handbook.
         select the "Mix & Match" option for the question "Which
         Carpentries workshop are you teaching?". **This option is only
         available for Self-Organised workshops. Centrally-organised
-        workshops are required to follow the Core Curricula.**
+        workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
+
 -   **When a workshop is taught, how closely should it stick to the
     Carpentries lesson plans?**
     -   To be considered an official Carpentries workshop, you must
-        follow the [Core
-        Curriculum](https://carpentries.org/workshops/#workshop-core) of a lesson program.
+        follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program.
         If you teach something other than what is listed on our webpage
         we ask that you acknowledge that your workshop is "inspired by
         SWC/DC/LC" or "based on SWC/DC/LC". You can still
@@ -481,11 +479,7 @@ content in the handbook.
         do not have access to a video conferencing system, we will be
         able to provide you with access to one of our Zoom rooms.
 -   **I have never taught an online workshop, where should I begin?**
-    -   All Instructors should be familiar with the [Recommendation for
-        Teaching Carpentries Workshops
-        Online](https://carpentries.org/online-workshop-recommendations/)).
-        This will give you the foundation for online Carpentries styled
-        workshops.
+    -   All Instructors should be familiar with the {{"[Recommendations for Teaching Carpentries Workshops Online]({}/resources/workshops/resources_for_online_workshops.html)".format(handbook_url)}}. This will give you the foundation for online Carpentries styled workshops.
 -   **How do I indicate my workshop will be online in the workshop
     website template?**
     -   We updated the [workshop website
