@@ -120,7 +120,7 @@ You can access The Carpentries mailing lists from
 To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
 you have done this, you can scroll through the list of groups and click
 “Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).
+those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 ## Step-by-Step Guides
 
