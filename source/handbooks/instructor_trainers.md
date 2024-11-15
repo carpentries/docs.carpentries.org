@@ -110,8 +110,13 @@ OR
 
 As a general rule, equivalent activities must be self-reported via form submission. The Instructor Trainers Leadership Committee will provide guidance to help Instructor Trainers choose what to share in the form and when to select a meeting instead.
 
-Instructor Trainer Alumni Status  
-Active Instructor Trainers may elect to become inactive by requesting Instructor Trainer Alumni status at any time by contacting [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Alumni may also submit re-activation requests to the same address.
+## Offboarding
+
+### Instructor Trainer Alumni Status  
+
+Active Instructor Trainers may elect to become inactive by requesting Instructor Trainer Alumni status at any time by contacting [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Alumni may also submit re-activation requests to the same address. 
+
+Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not renew their Active status during the annual renewal period.
 
 ### Instructor Trainer Alumni will not be permitted to:
 
@@ -131,24 +136,6 @@ An Instructor Trainer who wishes to return to Active status will have a differen
 
 * 0-12 months: Meet with the Director of Workshops and Training to learn about curriculum updates and discuss plans for re-activating.
 * more than 12 months: review Instructor Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with the Director of Workshops and Training to review and discuss plans, including re-introduction to the Instructor Trainer community via meetings or other arrangements.
-
-## Offboarding
-
-### Instructor Trainer Alumni 
-
-Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not [renew their Active status](https://docs.google.com/document/d/1XN7cWRNjeu5tgWPxUlSz611RXi6bcGjkkUMUDu7iwaw/edit#heading=h.cp4it9i4qwtc) during the annual renewal period. 
-
-Instructor Trainer Alumni will not be permitted to:
-
-* Teach Carpentries Instructor Training workshops.
-* Host teaching demonstrations.
-* Vote in Instructor Trainer community elections.
-
-Instructor Trainer Alumni may elect to:
-
-* Continue to receive Topicbox Instructor Training emails and participate in conversations.
-* Remain in the Slack private Instructor Trainers channel.
-* Attend Instructor Trainer meetings.
 
 ## Communication and Collaboration Spaces
 
