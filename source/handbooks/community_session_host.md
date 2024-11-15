@@ -383,13 +383,7 @@ member of the Core Team will respond.
 to communicate? What if Zoom fails to work (e.g. your internet
 connection fails)?**
 
-It is very important to test your internet connection beforehand and to
-make sure that you as a host can communicate. The host is the
-session leader and should have a stable connection. If, however, when
-you test your connection, you find that you do not have a good
-connection, contact the community via [our communication
-channels](#communication-and-collaboration-spaces) to find out if
-someone could take over as host for the session.
+It is very important to test your internet connection beforehand and to make sure that you as a host can communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via {{"[our communication channels ]({}/resources/communications)"}} to find out if someone could take over as host for the session.
 
 **What if no one shows up?**
 
