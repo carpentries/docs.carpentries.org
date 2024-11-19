@@ -113,14 +113,15 @@ the event you would like to attend.
 
 ### Etherpad
 
-The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Instructor.
+The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
 
 -   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
     our most commonly used Etherpads and other resources.
 -   [Community
     Discussions](https://pad.carpentries.org/community-discussions)
--   [Teaching Demo](https://pad.carpentries.org/teaching-demos)
-
+-   [Teaching Demo](https://pad.carpentries.org/teaching-demos): Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
+-   [Instructor Meetings](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D): A list our Instructor Meetings pads in descending order
+  
 ### GitHub
 
 -   [Glosario](https://github.com/carpentries/glosario): A multilingual
