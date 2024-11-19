@@ -87,11 +87,10 @@ Instructor Teaching Opportunities list.
 
 ### Instructor Meetings
 
-Join the Workshop Administration Team every other month on the second Tuesday
+Join the Workshops and Instruction Team every other month on the second Tuesday
 at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
 updates and tips, learn from community members, and enjoy networking opportunities. Please
-sign up on the
-{{'[The Carpentries Instructor Monthly Meeting Etherpad]({}/InstructorMeetings)'.format(etherpad)}}.
+sign up on the [Carpentries Instructor Meetings Etherpad](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D).
 
 ### Upcoming Workshops
 
