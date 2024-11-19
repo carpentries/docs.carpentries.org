@@ -100,7 +100,7 @@ html_theme_options = {
         },
         {
             "name": "Mastodon",
-            "url": "https://fosstodon.org/@thecarpentries",
+            "url": "https://fosstodon.org/@thecarpentries@hachyderm.io",
             "icon": "fab fa-mastodon",
             "type": "fontawesome",
         },
