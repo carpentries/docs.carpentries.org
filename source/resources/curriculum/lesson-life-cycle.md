@@ -1,4 +1,7 @@
 # The Life Cycle of Lessons
+**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training. 
+Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
+
 The Carpentries community develops lessons as Open Source projects: lessons and their source files are typically available online from the earliest stages of development onwards.
 It can be helpful for visitors to a lesson -- instructors considering teaching it, potential contributors exploring its contents, etc -- and its developers themselves, to be able to quickly identify the development status of a lesson. 
 Lesson development is an iterative process, with content and design always subject to evolution and improvement. 
@@ -49,7 +52,7 @@ However, here are some other actions that lesson developers can take at differen
   * Run [alpha pilot workshops](lesson-pilots.md#alpha-and-beta-pilots) and iterate on the design and content of the lesson.
   * Raise awareness of the lesson in The Carpentries community
 * **Beta:**
-  * Find Instructors who can teach the lesson in [beta pilot workshops](lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further. 
+  * Find instructors who can teach the lesson in [beta pilot workshops](lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further. 
     Consider inviting those [beta pilot instructors](./lesson-development-roles.md#beta-pilot-instructors) to join the team developing/maintaining the lesson.
   * [Publish the lesson to Zenodo and obtain a DOI](./lesson-release.md)
   * [Submit the lesson for peer review in The Carpentries Lab](https://github.com/carpentries-lab/reviews/)

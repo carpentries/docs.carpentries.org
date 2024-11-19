@@ -1,17 +1,19 @@
 # Lesson Pilot Workshops
+**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training. 
+Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
 
 ## Purpose
 
-Teaching a lesson for the first time is very rewarding, but the experience of the Instructors and learners also identifies opportunities to address and further clarify parts of the content.
+Teaching a lesson for the first time is very rewarding, but the experience of the instructors and learners also identifies opportunities to address and further clarify parts of the content.
 This makes these early runs through a lesson, which we refer to as _lesson pilots_, crucial milestones in the development of a high-quality lesson.
-As well as teaching new and exciting skills to learners, the additional purpose of pilot workshops is to collect information and feedback that can be used to polish content and make the lesson more reusable by other Instructors (e.g. by recording accurate timings for episodes and exercises, expanding Instructor Notes, etc.).
+As well as teaching new and exciting skills to learners, the additional purpose of pilot workshops is to collect information and feedback that can be used to polish content and make the lesson more reusable by other instructors (e.g. by recording accurate timings for episodes and exercises, expanding Instructor Notes, etc.).
 
 ### Alpha and Beta Pilots
 
 The lesson development process includes pilot workshops at two different stages, which we refer to as _alpha_ and _beta_ pilots.
 Alpha pilots are the first workshops where the lesson is taught, almost always by some or all of the original developers of the lesson.
 
-After the feedback from these alpha pilots has been used to improve the lesson, it can enter the beta stage, where other Instructors - 
+After the feedback from these alpha pilots has been used to improve the lesson, it can enter the beta stage, where other instructors - 
 who did not have a major part in the previous development of the lesson - 
 teach it and provide feedback.
 
@@ -46,7 +48,7 @@ This [template post-pilot workshop survey](https://docs.google.com/forms/d/1OGCQ
 
 It is also important to gather information about the lesson while it is being taught.
 Check [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage) for a list of things to take note of during the pilot workshop.
-We recommend assigning a specific person or people to keep track of these points (e.g. an Instructor or Helper).
+We recommend assigning a specific person or people to keep track of these points (e.g. an instructor or helper).
 You may find it helpful to make a copy of [the pilot observation notes template](https://codimd.carpentries.org/lesson-pilot-observation-notes-template) to use during the workshop.
 
 ## Information for Hosts
@@ -56,19 +58,20 @@ You may find it helpful to make a copy of [the pilot observation notes template]
 If you are hosting a pilot of a new official Carpentries lesson -
 a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops -
 [the Curriculum Team](mailto:team@carpentries.org) will help you find Instructors for pilot workshops.
+[Instructors should be certified and have taught at least two Carpentries workshops](./lesson-development-roles.md#beta-pilot-instructors).
 
 The Carpentries is also keen to support the development and piloting of lessons in The Carpentries Incubator.
 If you are hosting a pilot of a lesson in the Incubator, we ask that you **first** try to find Instructors for pilot workshops yourself.
-Often, hosts are able to recruit certified Instructors from their local community with relevant knowledge of the lesson topic, but in some cases this will not be possible.
-If you wish to recruit Instructors for a pilot workshop, try putting a call out:
+Often, hosts are able to recruit instructors from their local community with relevant knowledge of the lesson topic, but in some cases this will not be possible.
+If you wish to recruit instructors for a pilot workshop, try putting a call out:
 
 * on [local/regional community mailing lists](https://carpentries.topicbox.com/groups).
 * to any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these).
 * by publishing a post on our blog.
 
-Please do not post calls for Instructors to the general or instructors channel on Slack, or the discuss and instructors lists on TopicBox. 
-Any messages to recruit Instructors will be removed from those channels. 
-If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org) for assistance.
+Please do not post calls for instructors to the general or #instructors channel on Slack, or the discuss and instructors lists on TopicBox. 
+Any messages to recruit instructors will be removed from those channels. 
+If after taking these steps, you find that you need help finding instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org) for assistance.
 
 ### Creating a Pilot Workshop Webpage
 
