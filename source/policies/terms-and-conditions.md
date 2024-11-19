@@ -11,7 +11,9 @@ global community that includes
 [Maintainers](https://carpentries.org/maintainers),
 [Mentors](https://carpentries.org/mentors), community champions, [member
 organisations](https://carpentries.org/members), supporters, and workshop
-organisers. We ask that your participation in the Carpentries community follows our {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
+organisers. We ask that your participation in the Carpentries community follows
+our [Code of
+Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 Additionally, we provide you with these Terms and Conditions to advise and
 inform you of the legal obligations you assume when you engage with The
 Carpentries community or otherwise access our Services.
@@ -95,7 +97,9 @@ By using the Services, you agree that:
 1.  You will only use the Services for lawful purposes, and not for deceptive or
     fraudulent purposes; you will not send or store any unlawful material.
 2.  You will not use the Services to cause nuisance, annoyance or inconvenience.
-3.  You will follow The Carpentries’s {{'[Code of Conduct]({})'.format(code_of_conduct)}} at all times while using the Services.
+3.  You will follow The Carpentries’s [Code of
+Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+at all times while using the Services.
 4. Except where allowed by the terms of the Creative Commons Attribution
    License, you will not use the Services, or any content accessible through the
    Services, for any commercial purpose.

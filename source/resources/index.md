@@ -1,3 +1,7 @@
 # Carpentries Resources
 
-This is the pages index. This page will be updated to be a listing of all general resources (style guide, comms guides, etc.)
+* {{"[Communications Resources]({}/resources/communications)".format(handbook_url)}}
+* {{"[Curriculum Resources]({}/resources/curriculum)".format(handbook_url)}}
+* {{"[General Resources]({}/resources/general)".format(handbook_url)}}
+* {{"[Workshop Resources]({}/resources/workshops)".format(handbook_url)}}
+* [Tip sheets](tip-sheets.md)
