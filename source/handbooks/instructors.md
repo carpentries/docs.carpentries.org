@@ -97,7 +97,7 @@ sign up on the
 
 If you are a [Carpentries Certified Instructor](https://carpentries.org/become-instructor/) and would like to view teaching
 opportunities that need Instructors, please log in to your {{'[AMY profile]({})'.format(amy_link)}}
-for a list of upcoming workshops that are open for recruitment.
+for a list of upcoming [Centrally-Organised](https://carpentries.org/workshops/host-workshop/#host-a-workshop) workshops that are open for recruitment.
 
 ### Community Calendar
 
