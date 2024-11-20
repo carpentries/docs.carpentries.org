@@ -44,28 +44,28 @@ A ‘No Show’ is when a trainee does not cancel or contact the {{'[Instructor 
 
 If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}}.  
 
-IMPORTANT: **Requests to re-register _must_ be received within 7 days after the end date of the training.**
+IMPORTANT: **Requests to re-register _must_ be received within seven days of the training end date.**
 
 Trainees with multiple unexplained no-shows may be barred from future registration.
 
 
 #### Partial Absence 
 
-Trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than 4 hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
+Trainees who miss up to four hours (one-half day) of an event can schedule a 45-minute one-to-one makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than four hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
 
 Trainees are not eligible for Instructor certification until their record indicates they have completed an entire Instructor Training event.
 
 
 #### Re-taking a Training Event 
 
-Trainees who miss more than 4 hours (1 half day) of an event are not eligible for a makeup meeting but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) within 30 days of a missed event. 
+Trainees who miss more than four hours (one-half day) of an event are not eligible for a makeup meeting but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) within 30 days of a missed event. 
 
-When re-taking a training, trainees who miss more than 2 hours may be marked absent, even when they have attended part of a prior event. Multiple partial trainings may not be used to complete the training requirement. 
+When re-taking a training, trainees who miss more than two hours may be marked absent, even when they have attended part of a prior event. Multiple partial trainings may not be used to complete the training requirement. 
 
 
 #### Ineligibility for Makeup Opportunities
 
-Trainees who miss an event in full without cancelling within 7 days (no-show) or who miss part of an event but do not request a makeup opportunity within 7 days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
+Trainees who miss an event in full without cancelling within seven days (no-show) or who miss part of an event but do not request a makeup opportunity within seven days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
 
 
 ### Checkout Extensions Policy
@@ -77,21 +77,22 @@ Trainees who are unable to complete checkout within the 90-day deadline should c
 
 ## Offboarding
 
-If you are no longer interested in receiving emails about upcoming
-teaching opportunities, please email us at
-[Workshops](mailto:workshops@carpentries.org) to unsubscribe from the
-Instructor Teaching Opportunities list.
+At this time, we do not have a formal offboarding process for Instructors. Once you become an Instructor, your 
+profile remains active in our database, and you can log in at any time to access it.
+
+If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at
+[Workshops](mailto:workshops@carpentries.org) and let us know you would like to unsubscribe from the
+Instructor Teaching Opportunities list. 
 
 ## Communication and Collaboration Spaces
 
 
 ### Instructor Meetings
 
-Join the Workshop Administration Team every other month on the second Tuesday
+Join the Workshops and Instruction Team every other month on the second Tuesday
 at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
 updates and tips, learn from community members, and enjoy networking opportunities. Please
-sign up on the
-{{'[The Carpentries Instructor Monthly Meeting Etherpad]({}/InstructorMeetings)'.format(etherpad)}}.
+sign up on the [Carpentries Instructor Meetings Etherpad](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D).
 
 ### Upcoming Workshops
 
@@ -107,7 +108,7 @@ pre- and post workshop discussions, Themed Discussions and Carpentries
 Conversations) and [Teaching
 Demonstrations](https://pad.carpentries.org/teaching-demos) are listed
 on our [Community
-Calendar](https://carpentries.org/community/#community-events). You can
+Calendar](https://carpentries.org/community/events/). You can
 add relevant events to your personal calendar from there by clicking on
 the event you would like to attend.
 
@@ -117,10 +118,9 @@ The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".
 
 -   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
     our most commonly used Etherpads and other resources.
--   [Community
-    Sessions](https://pad.carpentries.org/community-discussions)
+-   [Community Sessions](https://pad.carpentries.org/community-discussions): A list of our Community Discussions and how to sign up to attend.
 -   [Teaching Demo](https://pad.carpentries.org/teaching-demos): Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
--   [Instructor Meetings](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D): A list our Instructor Meetings pads in descending order
+-   [Instructor Meetings](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D): A list our Instructor Meetings pads in descending order.
   
 ### GitHub
 
