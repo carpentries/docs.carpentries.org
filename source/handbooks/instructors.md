@@ -118,7 +118,7 @@ The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".
 -   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
     our most commonly used Etherpads and other resources.
 -   [Community
-    Discussions](https://pad.carpentries.org/community-discussions)
+    Sessions](https://pad.carpentries.org/community-discussions)
 -   [Teaching Demo](https://pad.carpentries.org/teaching-demos): Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
 -   [Instructor Meetings](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D): A list our Instructor Meetings pads in descending order
   
