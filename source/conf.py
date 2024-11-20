@@ -38,7 +38,8 @@ extensions = [
     'myst_parser',
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.extlinks',
-    'sphinx_design'
+    'sphinx_design',
+    'notfound.extension'
 ]
 
 myst_enable_extensions = ["colon_fence",
@@ -77,7 +78,7 @@ html_context = {
     "doc_path": "source",
     "conf_py_path": "/source/", # Path in the checkout to the docs root
     "edit_page_url_template": "{{gh_repo}}{{file_name}}",
-    "gh_repo":"https://github.com/carpentries/handbook-beta/blob/main/source/"    
+    "gh_repo":"https://github.com/carpentries/handbook-beta/blob/main/source/"
     }
 
 
@@ -148,7 +149,7 @@ html_theme_options = {
     "show_prev_next": False,
 
     # Show the "edit on github" button
-    # See https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html#add-an-edit-button 
+    # See https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html#add-an-edit-button
     "use_edit_page_button": True,
 
 
@@ -170,7 +171,7 @@ html_css_files = ['css/custom.css']
 
 suppress_warnings = ['autosectionlabel.*']
 
-# These links can be used anywhere in this documentation.  
+# These links can be used anywhere in this documentation.
 
 handbook_url = "https://carpentries-beta-handbook-preview.netlify.app/"
 
