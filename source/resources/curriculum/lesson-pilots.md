@@ -17,16 +17,15 @@ After the feedback from these alpha pilots has been used to improve the lesson, 
 who did not have a major part in the previous development of the lesson - 
 teach it and provide feedback.
 
-For more information about these pilots, and the requirements for piloting official Carpentries lessons, see [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html).
+The [Lesson Life Cycle page](/resources/curriculum/lesson-life-cycle.md) includes more information about how pilot workshops fit into the iterative development process of a new lesson/curriculum.
+The [How We Operate episode](https://carpentries.github.io/lesson-development-training/operations.html#pilot-workshops) of Collaborative Lesson Development Training includes more discussion of pilot workshops, how to prepare to teach them, and the information it can be helpful to collect during the event.
 
 ## Information for Lesson Developers
 
 ### Finding Hosts for Beta Pilots
 
 If you are developing a new official Carpentries lesson -
-a lesson developed based on prior agreement with The Carpentries,
-and which is intended to become another lesson/curriculum offered
-in centrally-organised workshops -
+a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops -
 [the Curriculum Team](mailto:team@carpentries.org) will help you find hosts and Instructors for pilot workshops.
 
 If you are developing a lesson in The Carpentries Incubator, you can recruit pilot hosts by putting out a call via:
@@ -47,7 +46,7 @@ Although surveys for pilot workshops will frequently include questions that are 
 This [template post-pilot workshop survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) can be copied and adapted to suit the needs of your lesson, and shared with learners in place of the standard post-workshop survey.
 
 It is also important to gather information about the lesson while it is being taught.
-Check [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage) for a list of things to take note of during the pilot workshop.
+Check the [How We Operate episode](https://carpentries.github.io/lesson-development-training/operations.html#pilot-workshops) of Collaborative Lesson Development Training for a list of things to take note of during the pilot workshop.
 We recommend assigning a specific person or people to keep track of these points (e.g. an instructor or helper).
 You may find it helpful to make a copy of [the pilot observation notes template](https://codimd.carpentries.org/lesson-pilot-observation-notes-template) to use during the workshop.
 
