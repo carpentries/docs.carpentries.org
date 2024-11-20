@@ -1,4 +1,4 @@
-.. image:: https://carpentries.org/assets/img/TheCarpentries.svg
+.. image:: _static/TheCarpentries.svg
     :alt: The Carpentries Logo
 
 -------------------------------------------
