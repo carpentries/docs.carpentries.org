@@ -200,8 +200,6 @@ are suggestions for ensuring the process goes as smoothly as possible.
     operating systems.
 -   If you/helpers/instructors have time, test the install instructions
     on a fresh user account on your computer.
--   If you anticipate issues (or want to be extra prepared), have some
-    of the emergency options listed below ready to go.
 -   If you are teaching for an organisation where participants are
     bringing work laptops and they do not have administrative access
     (common in government organisations) -- ask about it. Try to plan
