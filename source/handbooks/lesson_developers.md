@@ -135,13 +135,6 @@ To join one or more Carpentries mailing lists, you will need to [create a login 
 
 ## Step-by-Step Guides
 
-### Adapting Existing Lessons for The Carpentries
-
-Lessons must use The Carpentries template and infrastructure to be
-included in the Incubator or Lab. The Curriculum Development Handbook
-includes a guide for adapting existing lessons to use [The Carpentries
-lesson template](https://cdh.carpentries.org/adapting-existing-lessons-for-the-carpentries.html).
-
 ### Using Issue Labels to Promote Collaboration
 
 GitHub allows the maintainers of a repository to add contextual
