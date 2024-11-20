@@ -77,17 +77,19 @@ Trainees who are unable to complete checkout within the 90-day deadline should c
 
 ## Offboarding
 
-If you are no longer interested in receiving emails about upcoming
-teaching opportunities, please email us at
-[Workshops](mailto:workshops@carpentries.org) to unsubscribe from the
-Instructor Teaching Opportunities list.
+At this time, we do not have a formal offboarding process for Instructors. Once you become an Instructor, your 
+profile remains active in our database, and you can log in at any time to access it.
+
+If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at
+[Workshops](mailto:workshops@carpentries.org) and let us know you would like to unsubscribe from the
+Instructor Teaching Opportunities list. 
 
 ## Communication and Collaboration Spaces
 
 
 ### Instructor Meetings
 
-Join the Workshop Administration Team every other month on the second Tuesday
+Join the Workshops and Instruction Team every other month on the second Tuesday
 at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
 updates and tips, learn from community members, and enjoy networking opportunities. Please
 sign up on the
