@@ -4,4 +4,4 @@
 * {{"[Curriculum Resources]({}/resources/curriculum)".format(handbook_url)}}
 * {{"[General Resources]({}/resources/general)".format(handbook_url)}}
 * {{"[Workshop Resources]({}/resources/workshops)".format(handbook_url)}}
-* [Tip sheets](tip-sheets.md)
+* [Tip sheets](/resources/general/tip-sheets.md)
