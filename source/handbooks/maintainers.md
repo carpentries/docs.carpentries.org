@@ -258,18 +258,11 @@ A collection of recommendations for community members who want to organise event
 
 ### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}
 
-### [Curriculum Development Handbook](https://cdh.carpentries.org/)
 
-A guide to the lesson design process recommended by The Carpentries. The
-CDH provides details of the curriculum structure used in our Lesson
-Programs, the vocabulary we use to describe the [life cycle stages of
-the lesson](https://carpentries.github.io/lesson-development-training/19-operations.html#the-lesson-life-cycle),
-and the steps we encourage Lesson Maintainers to take through those
-stages. **Note: the Curriculum Team is in the process of replacing the
-content of the CDH with this handbook and
-the [Collaborative Lesson
-Development Training curriculum](https://carpentries.github.io/lesson-development-training/),
-and it is no longer actively updated.**
+### [Lesson Developer Handbook](/handbooks/lesson_developers.md)
+
+The handbook for community members developing new lessons includes information, guidance, and further resources that may also be interesting to Mainatiners.
+
 
 ### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
 
