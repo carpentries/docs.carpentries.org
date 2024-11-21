@@ -8,4 +8,5 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 myst-parser==3.0.1
 pydata-sphinx-theme==0.14.4
-sphinx-notfound-page==1.0.4
+
+sphinx-notfound-page @ git+https://github.com/carpentries/sphinx-notfound-page@main
