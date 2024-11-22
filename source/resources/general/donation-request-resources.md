@@ -27,7 +27,7 @@ Sincerely,
 \[Your name\]  
 \[Your role within The Carpentries\]
 
-## Short Calls to Action/Mastadon Length Messages
+## Short Calls to Action/Mastodon Length Messages
 - A Call To Action: Support The Carpentries <br />
 Consider donating to The Carpentries to help us reach our annual fundraising goal! <br /> {{ donate }}
 
