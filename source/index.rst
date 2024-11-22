@@ -16,7 +16,7 @@ Popular Resources
     Carpentries Clippings (newsletter) <https://carpentries.org/newsletter>
     Welcome Tip Sheet <https://zenodo.org/records/10785524>
     Instructor Tip Sheet <https://doi.org/10.5281/zenodo.8125137>
-    Mastodon Quick Start Guide  <https://zenodo.org/records/10019853>
+    Mastodon Quick Start Guide  <https://zenodo.org/records/14170125>
     A Guide for Collaborating with The Carpentries on Grants <resources/general/collaborating-on-grants>
     Donation Request Resources <resources/general/donation-request-resources>
 
