@@ -10,6 +10,12 @@
 * [Slack](slack-and-email.md#slack-quick-start-guide)
 * [Mailing lists (Topicbox)](slack-and-email.md#topicbox)
 * [Zoom](zoom_rooms.md)
+* [Mastodon](https://hachyderm.io/@thecarpentries)
+* [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
+* [Blog](https://carpentries.org/blog/)
+* [Newletter](https://carpentries.org/about-us/newsletter/)
+* [YouTube](https://www.youtube.com/thecarpentries)
+
 
 ## Styles, branding, and logos
 
