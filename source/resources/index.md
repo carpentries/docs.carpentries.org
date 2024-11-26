@@ -1,7 +1,8 @@
 # Carpentries Resources
 
-* {{"[Communications Resources]({}/resources/communications)".format(handbook_url)}}
-* {{"[Curriculum Resources]({}/resources/curriculum)".format(handbook_url)}}
-* {{"[General Resources]({}/resources/general)".format(handbook_url)}}
-* {{"[Workshop Resources]({}/resources/workshops)".format(handbook_url)}}
+* [General Resources](/resources/general/index.md)
+* [Communications Resources](/resources/communications/index.md)
+* [Curriculum Resources](/resources/curriculum/index.md)
+* [Instructor Training Resources](/resources/instructor-training/index.md)
+* [Workshop Resources](/resources/workshops/index.md)
 * [Tip sheets](/resources/general/tip-sheets.md)
