@@ -11,7 +11,7 @@ Dear \[potential donor’s name\]
 
 My name is \[your name\], and I am the \[position or role at your institution\]. I am also \[position or role\] with The Carpentries, an organisation whose mission is to build global capacity in essential data and computational skills. The Carpentries helps train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research.
 
-The Carpentries is in the process of [transitioning out of fiscal sponsorship](https://carpentries.org/blog/2023/08/Carpentries-transition-to-independent-status/) to operate as an independent 501(c)(3) non-profit organisation, and is seeking donations from individuals who wish to support its desire for independence to carry out its global mission. This move towards independence will empower The Carpentries to have greater autonomy, allowing it the flexibility to innovate, experiment, and respond swiftly to emerging trends and challenges in data science and education. 
+The Carpentries is in the process of [transitioning out of fiscal sponsorship](https://carpentries.org/blog/2023/08/carpentries-transition-to-independent-status/) to operate as an independent 501(c)(3) non-profit organisation, and is seeking donations from individuals who wish to support its desire for independence to carry out its global mission. This move towards independence will empower The Carpentries to have greater autonomy, allowing it the flexibility to innovate, experiment, and respond swiftly to emerging trends and challenges in data science and education. 
 
 **You can support our transition to independence by donating any amount.** 
 
