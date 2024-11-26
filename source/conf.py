@@ -42,10 +42,6 @@ extensions = [
     'notfound.extension'
 ]
 
-notfound_context = {
-    'body': '<h1>This page may have moved.</h1> <p>Please select a page from the side menu or contact team@carpentries.org if you need additional help.</p>',
-}
-
 notfound_urls_prefix = ""
 
 myst_enable_extensions = ["colon_fence",
