@@ -242,7 +242,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 * Instructor Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) section of the Instructor Training Curriculum.  
 * Get acquainted with using {{"[Zoom]({}/resources/communications/zoom_rooms.html)".format(handbook_url)}} for videoconferencing.  
 * Check your Calendly confirmation email for the Host Key to use on Zoom, and keep this where you can find it. This will be necessary to allow trainees to screen share during your demo.  
-* A day or two before the demo, send a reminder to trainees based on this [email template](#reminder-teaching-demo). This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.  
+* A day or two before the demo, send a reminder to trainees based on this {{"[email template]({}/resources/instructor-training/index.html#reminder-teaching-demo)".format(handbook_url)}}. This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.  
 * Trainees will select their starting point. Suggested start points are available in the [Instructor Training Curriculum (under More)](https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).   
 * If a trainee has selected a lesson that is not on the list above, you may ask them to choose a different lesson or, if you are familiar with the lesson, you may choose a start point and allow them to use it anyway. Be sure the start point does not require any setup or rely on any dependencies from prior episodes.
 
@@ -265,7 +265,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 * Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.  
 * Save Etherpad by selecting the “star” at the top right of the screen  
 * Clear Etherpad of data from your session.  
-* Send each trainee an email using our templates letting them know they [passed](#trainee-passed-teaching-demo) or [did not pass](#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
+* Send each trainee an email using our templates letting them know they {{"[passed]({}/resources/instructor-training/index.html#trainee-passed-teaching-demo)".format(handbook_url)}} or {{"[did not pass]({}/resources/instructor-training/index.html#trainee-invited-to-repeat-teaching-demo)".format(handbook_url)}} the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
 
 #### Cancel a Demo
 
