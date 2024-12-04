@@ -1,8 +1,8 @@
 .. image:: _static/TheCarpentries.svg
     :alt: The Carpentries Logo
 
--------------------------------------------
-
+The Carpentries Handbook
+========================
 Welcome to The Carpentries Handbook! Here, you will find a collection of information with everything you need to know about our organisation and how to engage. 
 
 Highlighted Resources
