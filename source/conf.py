@@ -21,7 +21,7 @@ current_year = str(date.today().year)
 
 # -- Project information -----------------------------------------------------
 
-project = 'The Carpentries Test Beta Handbook'
+project = 'The Carpentries Handbook'
 copyright = '{}, The Carpentries'.format(current_year)
 author = 'The Carpentries'
 
@@ -75,12 +75,12 @@ html_context = {
     "default_mode": "light",
     "display_github": True, # Integrate GitHub
     "github_user": "carpentries", # Username
-    "github_repo": "handbook-beta", # Repo name
+    "github_repo": "docs.carpentries.org", # Repo name
     "github_version": "main", # Version
     "doc_path": "source",
     "conf_py_path": "/source/", # Path in the checkout to the docs root
     "edit_page_url_template": "{{gh_repo}}{{file_name}}",
-    "gh_repo":"https://github.com/carpentries/handbook-beta/blob/main/source/"
+    "gh_repo":"https://github.com/carpentries/docs.carpentries.org/blob/main/source/"
     }
 
 
@@ -175,7 +175,7 @@ suppress_warnings = ['autosectionlabel.*']
 
 # These links can be used anywhere in this documentation.
 
-handbook_url = "https://carpentries-beta-handbook-preview.netlify.app/"
+handbook_url = "https://docs.carpentries.org/"
 
 myst_substitutions = {
   # AMY links
@@ -190,7 +190,7 @@ myst_substitutions = {
   "codimd": "https://codimd.carpentries.org",
 
   # GitHub repos
-  "gh_repo": "https://github.com/carpentries/handbook-beta",
+  "gh_repo": "https://github.com/carpentries/docs.carpentries.org",
 
   # Curricula
   "instructor_training_curriculum":"https://carpentries.github.io/instructor-training/",
@@ -205,7 +205,7 @@ myst_substitutions = {
   "slack_guide": "https://docs.google.com/document/d/1-NcL-ofnHXjJnopdWH6jLrdLHhDJeZO3/",
 
   # Websites
-  "carpentries_website": "https://carp-new-website.netlify.app",
+  "carpentries_website": "https://carpentries.org",
   "handbook_url": handbook_url,
 
   # Email contacts
