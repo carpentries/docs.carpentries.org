@@ -39,7 +39,7 @@ Provide practical tips and more theoretical guidance about how to:
   If your lesson repository does not already have a code of conduct, add one.
   Like licenses, we do not recommend that you write your own code of conduct from scratch.
   Instead, re-use/adapt an existing text you find online.
-  We recommend The Carpentries {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}}, which was designed with exactly these kinds of project in mind.
+  We recommend The Carpentries [Code of Conduct](/policies/coc/index.md), which was designed with exactly these kinds of project in mind.
   Assign at least one person as the contact person/facilitator for matters relating to the Code of Conduct, and make sure all sprint participants are aware of who this is and how they should connect with them.
   You can do this by including their details in the "primer" information you provide to participants before the event and by introducing them when you mention the code of conduct at the start of the sprint itself.
 
@@ -75,7 +75,7 @@ Provide practical tips and more theoretical guidance about how to:
 
 - **Create a resource for good practices for lesson design.** This resource should be shared with all the participants to assist them in designing lessons to be as effective as possible.
   Consult [the _Collaborative Lesson Development Training_ curriculum](https://carpentries.github.io/lesson-development-training/) for a process and recommendations that you and your collaborators can follow when creating the lesson material during the sprint.
-  Some of the other {{'[_Curriculum Resources_]({}/resources/curriculum)'.format(handbook_url)}} provided in this handbook, as well as the [_Lesson Developer Handbook_](../../handbooks/lesson_developers.md), may also be helpful.
+  Some of the other [_Curriculum Resources_](/resources/curriculum/index.md) provided in this handbook, as well as the [_Lesson Developer Handbook_](/handbooks/lesson_developers.md), may also be helpful.
 
 - **Prepare a video call link for all sprint sessions.**
   **[Online]** If your sprint is taking place across multiple sessions, or will include multiple video calls between participants, try to provide a single meeting link for them all.

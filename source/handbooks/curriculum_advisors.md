@@ -143,7 +143,7 @@ These repositories serve as a public record of meeting notes and decisions made 
 
 ### Collaborative Notetaking
 
-The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor.
+The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor.
 
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of our most commonly used Etherpads and other resources.
 - {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
@@ -230,7 +230,7 @@ Curriculum Advisor.
 -  Secretary: Set up a meeting room with Zoom (or
    similar service). If you need a room provided by The Carpentries,
    contact {{'[{}](mailto:{})'.format(team_email, team_email)}}.
--  Secretary: {{"[Set up Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}}. For the first meeting, create Etherpad by visiting your desired URL starting with {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
+-  Secretary: [Set up Etherpad](/resources/communications/etherpads.md). For the first meeting, create Etherpad by visiting your desired URL starting with {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
 
    -  Meeting connection information (Zoom link and dial-in options)
    -  Time zone converter link for meeting time
@@ -478,7 +478,7 @@ Please let me know if you have any questions or comments.
 Best, [ sender name ]
 
 
-### {{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}
+### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
 
 
 ## FAQ

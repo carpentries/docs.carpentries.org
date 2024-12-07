@@ -29,7 +29,7 @@
 ## For Core Team
 
 1. Review the video and check the following:
-    - The presentation and recording conforms to The Carpentries {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}}
+    - The presentation and recording conforms to The Carpentries [Code of Conduct](/policies/coc/index.md)
     - The quality of the sound and video is sufficient
     - The presentation includes each of the sections laid out in [the onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit)
         - What You Can Expect From This Onboarding

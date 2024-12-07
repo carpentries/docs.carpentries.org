@@ -15,7 +15,7 @@ The EC has oversight of the governance of the Code of Conduct Committee but will
 The onboarding process is determined by the Committee, and the EC will be kept informed about this process.
 New members, including the Staff and EC Liaison, are not immediately seated on the Committee and thus not included in issue resolution until after onboarding is completed.
 
-The current onboarding process is described in the {{"[onboarding procedure document]({}/policies/coc/coc-onboarding)".format(handbook_url)}}. Additionally, incident response training will be organised for the new and existing members to ensure they can confidently serve on the committee.
+The current onboarding process is described in the [onboarding procedure document](/policies/coc/coc-onboarding.md). Additionally, incident response training will be organised for the new and existing members to ensure they can confidently serve on the committee.
 
 ## Administration
 
@@ -46,9 +46,9 @@ Quorum in meetings is more than 50% of the non-liaison CoCc members.
 
 ### Incident voting
 
-For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer to {{"[Incident Response Guidelines]({}/policies/coc/incident-response)".format(handbook_url)}}.)
+For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer to [Incident Response Guidelines](/policies/coc/incident-response.md).)
 
-The Incident Response Lead of the {{"[Incident Response Group]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}} will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the {{"[guidelines for responding]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}}.
+The Incident Response Lead of the [Incident Response Group](/policies/coc/enforcement-guidelines.md) will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the [guidelines for responding](/policies/coc/enforcement-guidelines.md).
 
 Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
 
@@ -65,7 +65,7 @@ New Chairs are selected from among those who have been on the Committee for at l
 
 ## Main duties of the position holders
 
-All members of the CoCc must read, understand and abide by the {{"[membership agreement]({}/policies/coc/coc-membership-agreement)".format(handbook_url)}}.
+All members of the CoCc must read, understand and abide by the [membership agreement](/policies/coc/coc-membership-agreement.md).
 
 In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below.
 
@@ -121,7 +121,7 @@ The CoCc will share the following responsibilities:
 
 ## Communication and collaboration spaces
 
-CoCc communication happens primarily in the #coc-discussion private channel of The Carpentries Slack workspace. Incident report discussions happen initially in the #coc-2023 private channel (as of 2023) and then move to separate, private documents shared among members of the {{"[Incidence Response Group for each case]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}}. 
+CoCc communication happens primarily in the #coc-discussion private channel of The Carpentries Slack workspace. Incident report discussions happen initially in the #coc-2023 private channel (as of 2023) and then move to separate, private documents shared among members of the [Incidence Response Group for each case](/policies/coc/enforcement-guidelines.md). 
 
 The #coc-year channel is archived every year to avoid giving access to past discussions to new members. Members of the committee are expected to set their notifications to be alerted for all new messages posted to either channel.  
 

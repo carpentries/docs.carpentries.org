@@ -114,7 +114,7 @@ the event you would like to attend.
 
 ### Etherpad
 
-The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads.html)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
+The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
 
 -   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
     our most commonly used Etherpads and other resources.
@@ -407,7 +407,7 @@ content in the handbook.
         the survey data, using the 'Download CSV' link at the bottom
         right of the survey results page.
 -   **Who can be a Helper and what do they contribute to the workshop?**
-    - {{"[Helpers]({}//resources/workshops/checklists.html#helper-checklist)".format(handbook_url)}} are often recruited from the local community at the host site to         support Carpentries workshops. Helpers support learners        one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+    - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 -   **How do I sign up to teach a Centrally-Organised Workshop?**
     -   In order to sign-up to teach a Centrally-Organised Workshop you
         must login to {{"[AMY profile]({})".format(amy_link)}} using your
@@ -478,7 +478,7 @@ content in the handbook.
         do not have access to a video conferencing system, we will be
         able to provide you with access to one of our Zoom rooms.
 -   **I have never taught an online workshop, where should I begin?**
-    -   All Instructors should be familiar with the {{"[Recommendations for Teaching Carpentries Workshops Online]({}/resources/workshops/resources_for_online_workshops.html)".format(handbook_url)}}. This will give you the foundation for online Carpentries styled workshops.
+    -   All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries styled workshops.
 -   **How do I indicate my workshop will be online in the workshop
     website template?**
     -   We updated the [workshop website

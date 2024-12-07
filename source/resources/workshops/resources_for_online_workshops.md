@@ -10,7 +10,7 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 - April 28, [blog post with information to guide Carpentries Instructors as they teach workshops remotely](https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/).
 - FAQ For Workshop Coordination [can be found here on The Carpentries website](https://carpentries.org/workshop_faq/).
 - Announcing a New Series of Online Workshop Themed Discussions. Learn more [here](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/)
-- Carpentries Handbook: {{"[How to use Zoom]({}//resources/communications/zoom_rooms.html)".format(handbook_url)}}
+- Carpentries Handbook: [How to use Zoom](/resources/communications/zoom_rooms.md)
 
 ## Resources by Community
 

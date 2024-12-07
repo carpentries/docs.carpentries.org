@@ -10,7 +10,7 @@ Pads are synchronised as you type, so that everyone viewing this page sees the s
 
 Use of this service is restricted to members of The Carpentries community; this is not for general purpose use (for that, try [Etherpad.wikimedia.org](https://Etherpad.wikimedia.org/)).
 
-Users are expected to follow our {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}}. All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
+Users are expected to follow our [Code of Conduct](/policies/coc/index.md). All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Troubleshooting
@@ -22,4 +22,4 @@ If other Etherpad issues arise, please contact us at {{'[{}](mailto:{})'.format(
 
 ## See Also
 
-{{"[Codimd]({}/resources/communications/codimd)".format(handbook_url)}} is another collaborative note taking platform used by the community members.
+[Codimd](/resources/communications/codimd.md) is another collaborative note taking platform used by the community members.

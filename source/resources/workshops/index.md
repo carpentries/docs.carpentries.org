@@ -8,5 +8,5 @@
 
 [Email Templates](email_templates.md): Pre-written text to advertise your workshop, recruit helpers, email learners, and more! 
 
-For more resources, please visit the Additional Resources section of the {{"[Instructor Tip Sheet]({}/resources/tip-sheets)".format(handbook_url)}}
+For more resources, please visit the Additional Resources section of the [Instructor Tip Sheet](/resources/general/tip-sheets.md)
 
