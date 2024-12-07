@@ -3,11 +3,11 @@
 Note that the [Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) will also follow this policy.
 
 * Each Lesson Program will have a Lesson Program Governance Committee.
-* Each Lesson Program Governance Committee will comply with the general {{'[committee policy as described in the Carpentries Handbook]({}/resources/general/committees.html)'.format(handbook_url)}}
+* Each Lesson Program Governance Committee will comply with the general [committee policy as described in the Carpentries Handbook](/resources/general/committees.md)
 * In addition, each Lesson Program Governance Committee:
     * Maintains a minimum of 3 members to serve as on the committee and act as a point of contact with The Carpentries Executive Council and Core Team.
     * Follows all general policies as outlined by The Carpentries, including, but not limited to, the {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
-    * Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding {{'[Curriculum Advisory Committee]({}/handbooks/curriculum_advisors.html)'.format(handbook_url)}} or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee.
+    * Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding [Curriculum Advisory Committee](/handbooks/curriculum_advisors.md) or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee.
     * Decides if and when new lessons are added to or removed from the Lesson Program or delegate the decision of adding or removing a lesson to the corresponding Curriculum Advisory Committee.
     * Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured.
     * Decides how and how often they engage the Lesson Program community/communities.

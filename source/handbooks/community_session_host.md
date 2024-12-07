@@ -127,7 +127,7 @@ those mailing lists requiring administrator approval). If you are new to Topicbo
 This section includes step-by-step guides to support you in your role as
 a community discussion host.
 
--  Each quarter, communications will be shared from the Community    Engagement Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit the {{"[Communication Resources section of this handbook]({}/resources/communications)".format(handbook_url)}} for instructions on joining one or both of these communication channels.
+-  Each quarter, communications will be shared from the Community    Engagement Team via Slack and TopicBox with instructions to sign up to host a community discussion. Visit the [Communication Resources section of this handbook](/resources/communications/index.md) for instructions on joining one or both of these communication channels.
 -  Community discussion hosts will sign up using [Calendly](https://calendly.com/thecarpentries) during the signup period. Calendly allows you to select dates and times in your timezone for the sessions you plan to host. Dates and times already selected will not display.
 
 ![Calendly signup animation](/images/calendly.gif)
@@ -184,13 +184,14 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 -  It is recommended to create a waiting room. This enables the host to
    explicitly let people in, rather than allowing anyone to enter.
 
-   -  {{"[Learn about how to enable and use a waiting room as host.]({}/resources/communications/zoom_rooms.html#using-a-waiting-room)".format(handbook_url)}}.
+   -  [Learn about how to enable and use a waiting room as host.](/resources/communications/zoom_rooms.md#using-a-waiting-room)
+   - 
  -  Gain host access.
-   -  Two days before the event, the host will receive an automated       email from Calendly that includes the host key.
-   -  {{"[Learn about how to use the host key to claim host access.]({}/resources/communications/zoom_rooms.html#gaining-host-access)".format(handbook_url)}}.
+   -  Two days before the event, the host will receive an automated email from Calendly that includes the host key.
+   -  [Learn about how to use the host key to claim host access.](/resources/communications/zoom_rooms.md#gaining-host-access).
 -  Enable closed captioning to improve accessibility of the event.
    -  Zoom provides automatic captioning of calls. Accuracy of       captioning may be limited due to factors such as sound quality,       accents, dialects, and jargon.
-   -  {{"[Learn about how to enable automatic captioning]({}/resources/communications/zoom_rooms.html#closed-captioning)".format(handbook_url)}}.
+   -  [Learn about how to enable automatic captioning](/resources/communications/zoom_rooms.md#closed-captioning).
 -  Confirm that the fellow host is present (if there is one) and who
    will be leading/taking notes.
 -  If relevant, the host can copy the template agendas for all session
@@ -225,7 +226,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
    everyone has enough time to share. When dividing attendees into two
    groups, try to balance the number of people who are de-briefing, who
    are there for pre-workshop help, and who are instructor trainees.
-   {{"[Learn more about how to set up and use breakout rooms]({}//resources/communications/zoom_rooms.html#creating-breakout-rooms)".format(handbook_url)}}.
+   [Learn more about how to set up and use breakout rooms](/resources/communications/zoom_rooms.md#creating-breakout-rooms).
 
 #### After the Discussion Session
 
@@ -246,7 +247,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 
 #### Cancelling a Discussion Session
 
-We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event.If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the {{"[Communication Spaces]({}/resources/communications/#communication-spaces)".format(handbook_url)}} to learn if another host is available to lead the call.
+We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event.If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the [Communication Spaces](/resources/communications/index.md#communication-spaces) to learn if another host is available to lead the call.
 
 ## Resources
 
@@ -383,7 +384,7 @@ member of the Core Team will respond.
 to communicate? What if Zoom fails to work (e.g. your internet
 connection fails)?**
 
-It is very important to test your internet connection beforehand and to make sure that you as a host can communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via {{"[our communication channels ]({}/resources/communications/#communication-spaces)".format(handbook_url)}} to find out if someone could take over as host for the session.
+It is very important to test your internet connection beforehand and to make sure that you as a host can communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via [our communication channels](/resources/communications/index.md#communication-spaces) to find out if someone could take over as host for the session.
 
 **What if no one shows up?**
 
@@ -416,8 +417,8 @@ any questions they may have.
 background noise?**
 
 As a host, you will have the privilege to mute other participants, or
-you could ask the person directly to mute their microphone. `Learn more
-about how to use {{"[host features in Zoom]({}//resources/communications/zoom_rooms.html)".format(handbook_url)}}
+you could ask the person directly to mute their microphone. Learn more
+about how to use [host features in Zoom](/resources/communications/zoom_rooms.md).
 
 **What if I forget to complete the host questionnaire?**
 
