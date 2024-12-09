@@ -13,8 +13,8 @@ New members are invited to sit in the CoCc as full members upon their onboarding
 
 Members invited or elected as Staff/Core Team and EC liaison, as well as selected through open calls for volunteers, will become full members through the following onboarding process:	
 
-* Read {{"[the Code of Conduct document]({}/policies/coc/)".format(handbook_url)}}
-  * Review CoC {{"[process flow diagram]({}/policies/coc/)".format(handbook_url)}}
+* Read [the Code of Conduct document](/policies/coc/index.md)
+  * Review CoC [process flow diagram](/policies/coc/index.md)
 * Read first chapter of [How to respond to Code of Conduct Reports](https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view), a book by Valerie Aurora, based on a short guide written by Mary Gardiner.
 * Read the four CoC policy documents
 - [Incident Response Guidelines](incident-response.md)
@@ -42,7 +42,7 @@ The Onboarding committee will file a GitHub Issue to update the composition of t
 * Only the Staff Liaison and the CoCc chair have access to the restricted Google Drive where reports are received and stored - and names and information of the reporters and reportees are maintained. They are responsible for communicating that with the rest of the committee. 
 * All notes are maintained in another Google drive that are accessible for all CoCc members. Report handling meeting notes are taken with pseudonymised the reporter and reportee names.
 * All transparency reports are released periodically on GitHub repository for Executive Council, maintained under The Carpentries GitHub organisation: https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports. 
-* All CoCc policies are released on {{"[The Carpentries Handbook]({}/policies/coc/)".format(handbook_url)}}. 
+* All CoCc policies are released on [The Carpentries Handbook](/policies/coc/index.md).
 
 
 ### Next steps

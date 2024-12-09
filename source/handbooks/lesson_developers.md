@@ -90,7 +90,7 @@ on the event you would like to attend.
 
 ### Etherpad
 
-The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
+The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
 -  [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
    our most commonly used Etherpads and other resources.
@@ -291,7 +291,7 @@ survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48
 can be copied and adapted to suit the needs of your lesson, and shared
 with learners in place of the standard post-workshop survey.
 
-### {{'[Lesson Pilot Workshops]({}/resources/curriculum/lesson-pilots.html)'.format(handbook_url)}}
+### [Lesson Pilot Workshops](/resources/curriculum/lesson-pilots.md)
 
 Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
 
@@ -305,10 +305,11 @@ to publicise the beta version of a lesson. These can be used to call for
 community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
-### {{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}
+### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
 
 Guidance for developing materials that will help instructors prepare to teach your new lesson or curriculum.
 
-### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}
+### [Lesson Release Process](/resources/curriculum/lesson-release.md)
 
 A description of how to prepare a lesson release and publish it to Zenodo.
+

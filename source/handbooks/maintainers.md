@@ -119,7 +119,7 @@ Once scheduled, all Maintainer Community Calls are listed on our
 
 ### Collaborative Notes
 
-The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
+The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of
    our most commonly used Etherpads and other resources.
@@ -244,7 +244,7 @@ on their computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
 
-### {{'[Curriculum Advisory Committee Consultation Rubric]({}/handbooks/curriculum_advisors.html#curriculum-advisory-committee-consultation-rubric)'.format(handbook_url)}}
+### [Curriculum Advisory Committee Consultation Rubric](/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
 
 This rubric defines the division of responsibilities between The
 Carpentries Maintainers and The Carpentries Curriculum Advisory
@@ -252,14 +252,16 @@ Committees (CACs). It can be used by Maintainers to help determine
 whether to notify or ask the relevant CAC about a proposed change to
 their lesson.
 
-### {{'[Lesson Sprint Recommendations]({}/resources/curriculum/lesson-sprint-recommendations.html)'.format(handbook_url)}}
+### [Lesson Sprint Recommendations](/resources/curriculum/lesson-sprint-recommendations.md)
 
 A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
 
-### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}
+### [Lesson Release Process](/resources/curriculum/lesson-release.md)
+
 A description of how to prepare a lesson release and publish it to Zenodo.
 **Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
 The Curriculum Team will coordinate this process in the coming months.
+
 
 ### [Lesson Developer Handbook](/handbooks/lesson_developers.md)
 
