@@ -13,7 +13,7 @@ global community that includes
 organisations](https://carpentries.org/members), supporters, and workshop
 organisers. We ask that your participation in the Carpentries community follows
 our [Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Conduct](/policies/coc/index.md).
 Additionally, we provide you with these Terms and Conditions to advise and
 inform you of the legal obligations you assume when you engage with The
 Carpentries community or otherwise access our Services.
@@ -98,7 +98,7 @@ By using the Services, you agree that:
     fraudulent purposes; you will not send or store any unlawful material.
 2.  You will not use the Services to cause nuisance, annoyance or inconvenience.
 3.  You will follow The Carpentries’s [Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+Conduct](/policies/coc/index.md)
 at all times while using the Services.
 4. Except where allowed by the terms of the Creative Commons Attribution
    License, you will not use the Services, or any content accessible through the
@@ -267,7 +267,7 @@ notices incorporated in or accompanying the Services.
 All The Carpentries’s instructional materials are made available under the
 [Creative Commons Attribution
 license](https://creativecommons.org/licenses/by/4.0/). For more information,
-see [License](https://docs.carpentries.org/LICENSE.html) information within The
+see [License](https://github.com/carpentries/docs.carpentries.org/blob/main/LICENSE.md) information within The
 Carpentries’s handbook.
 
 ## 9. Copyright Policy
