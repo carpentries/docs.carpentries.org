@@ -137,7 +137,7 @@ a community discussion host.
    Discussions
    Etherpad](https://pad.carpentries.org/community-discussions) and
    the [Community
-   Calendar](https://carpentries.org/community/#community-events).
+   Calendar](https://carpentries.org/community/events/).
    Another communication from the Community Engagement Team will inform
    hosts when the sessions have been added.
 -  In the rare instance that you need to schedule a session outside of
