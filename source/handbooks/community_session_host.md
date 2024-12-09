@@ -40,7 +40,7 @@ responsibilities include:
 -  Attend an onboarding session
 -  Sign-up to receive relevant communications for serving in this role.
    Instructions for signing up can be found in the [Communication and
-   Collaboration Spaces section of this handbook](https://carpentries-beta-handbook-preview.netlify.app/handbooks/community_session_host#communication-and-collaboration-spaces)
+   Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces)
 -  During a quarterly scheduling period, schedule one or more community
    discussions on the date(s)/time(s) you want to host a discussion.
 -  Facilitate one-hour community discussion sessions that you have
