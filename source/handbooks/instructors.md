@@ -339,8 +339,7 @@ content in the handbook.
 
 ### Pre-workshop
 
--   **Why isn't my workshop listed on
-    the**[carpentries.org](http://carpentries.org)**webpage?**
+-   **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
     -   There are three things that must happen in order for a workshop to
         appear on The Carpentries webpage. You must complete the
         {{'[Workshop Request Form]({}/forms/workshop/)'.format(amy_link)}}, the workshop website
