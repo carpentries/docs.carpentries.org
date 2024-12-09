@@ -185,7 +185,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
    explicitly let people in, rather than allowing anyone to enter.
 
    -  [Learn about how to enable and use a waiting room as host.](/resources/communications/zoom_rooms.md#using-a-waiting-room)
-   - 
+
  -  Gain host access.
    -  Two days before the event, the host will receive an automated email from Calendly that includes the host key.
    -  [Learn about how to use the host key to claim host access.](/resources/communications/zoom_rooms.md#gaining-host-access).
