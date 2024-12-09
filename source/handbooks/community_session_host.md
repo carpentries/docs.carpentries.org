@@ -247,7 +247,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 
 #### Cancelling a Discussion Session
 
-We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event.If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the [Communication Spaces](/resources/communications/index.md#communication-spaces) to learn if another host is available to lead the call.
+We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event. If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the [Communication Spaces](/resources/communications/index.md#communication-spaces) to learn if another host is available to lead the call.
 
 ## Resources
 
