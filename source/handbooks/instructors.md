@@ -339,8 +339,7 @@ content in the handbook.
 
 ### Pre-workshop
 
--   **Why isn't my workshop listed on
-    the**[carpentries.org](http://carpentries.org)**webpage?**
+-   **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
     -   There are three things that must happen in order for a workshop to
         appear on The Carpentries webpage. You must complete the
         {{'[Workshop Request Form]({}/forms/workshop/)'.format(amy_link)}}, the workshop website
@@ -423,8 +422,7 @@ content in the handbook.
         know about planned workshops we can not provide support or share
         information with instructors.
     -   If you are teaching only a portion of The Carpentries curricula or
-        if the workshop does not align with the [Core
-        Curriculum](https://carpentries.org/workshops/#workshop-core) of a lesson program, we
+        if the workshop does not align with the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program, we
         ask that you still {{'[register]({}/forms/workshop/)'.format(amy_link)}} your self-organised workshop and
         select the "Mix & Match" option for the question "Which
         Carpentries workshop are you teaching?". **This option is only

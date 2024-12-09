@@ -40,7 +40,7 @@ responsibilities include:
 -  Attend an onboarding session
 -  Sign-up to receive relevant communications for serving in this role.
    Instructions for signing up can be found in the [Communication and
-   Collaboration Spaces section of this handbook](https://carpentries-beta-handbook-preview.netlify.app/handbooks/community_session_host#communication-and-collaboration-spaces)
+   Collaboration Spaces section of this handbook](#communication-and-collaboration-spaces)
 -  During a quarterly scheduling period, schedule one or more community
    discussions on the date(s)/time(s) you want to host a discussion.
 -  Facilitate one-hour community discussion sessions that you have
@@ -135,9 +135,9 @@ a community discussion host.
 -  Once hosts have scheduled themselves for a Community Discussion via
    Calendly, an automated workflow will add each event to the [Community
    Discussions
-   Etherpad](https://pad.carpentries.org/community-sessions-2024) and
+   Etherpad](https://pad.carpentries.org/community-discussions) and
    the [Community
-   Calendar](https://carpentries.org/community/#community-events).
+   Calendar](https://carpentries.org/community/events/).
    Another communication from the Community Engagement Team will inform
    hosts when the sessions have been added.
 -  In the rare instance that you need to schedule a session outside of
@@ -185,7 +185,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
    explicitly let people in, rather than allowing anyone to enter.
 
    -  [Learn about how to enable and use a waiting room as host.](/resources/communications/zoom_rooms.md#using-a-waiting-room)
-   - 
+
  -  Gain host access.
    -  Two days before the event, the host will receive an automated email from Calendly that includes the host key.
    -  [Learn about how to use the host key to claim host access.](/resources/communications/zoom_rooms.md#gaining-host-access).
@@ -247,7 +247,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 
 #### Cancelling a Discussion Session
 
-We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event.If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the [Communication Spaces](/resources/communications/index.md#communication-spaces) to learn if another host is available to lead the call.
+We recognise that even after scheduling community discussions, the host may have conflicts that arise that require cancelling a scheduled event. If this happens, please contact community@carpentries.org as soon as possible so a Core Team member can ensure another host can cover the event. You can also post to one or more of the [Communication Spaces](/resources/communications/index.md#communication-spaces) to learn if another host is available to lead the call.
 
 ## Resources
 

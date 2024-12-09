@@ -37,7 +37,7 @@ including the task force's roles and responsibilities
 - Maintain internal and public-facing communication:
   - Organise regular meetings to progress with the task force's activities and post meeting notes in a consistent location (meeting notes should be public unless the work of the task force requires them to remain private)
   - Post meetings in the community calendar (note that meetings do not necessarily need to be open to the public to attend even though they are added to the calendar)
-  - Utilise other [Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
+  - Utilise other [Carpentries community communication pathways](/resources/communications/index.md) to engage with the community as needed
 
 The task force's public documentation should be stored in a folder within the [`task-forces` repository](https://github.com/carpentries/task-forces) 
 in [The Carpentries GitHub](https://github.com/carpentries/).
