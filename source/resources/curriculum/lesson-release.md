@@ -1,4 +1,6 @@
 # Releasing a Lesson
+**Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
+The Curriculum Team will coordinate this process in the coming months.
 
 Making regular releases of your lesson gives you and your contributors an opportunity to celebrate the improvements that have been made, and make it easier for them to receive credit and recognition for the work they have put in.
 It is particularly important to release the lesson when it reaches key milestones in its development, e.g. before [beta pilot workshops](lesson-pilots.md) or when it reaches [a stable state](./lesson-life-cycle.md).

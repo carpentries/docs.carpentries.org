@@ -249,7 +249,7 @@ steps:
 1. Check the [eligibility criteria for lessons to be reviewed in the
    Lab](https://github.com/carpentries-lab/reviews#what-makes-a-lesson-a-good-candidate-for-the-carpentries-lab).
 2. Open a new issue on the [Reviews
-   repository]h(ttps://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+)
+   repository](https://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+)
    and answer the questions in the issue template to tell the Editors
    about the lesson.
 
@@ -273,7 +273,6 @@ the latest changes to the infrastructure.
 
 ### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
 
-
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
@@ -294,6 +293,8 @@ with learners in place of the standard post-workshop survey.
 
 ### [Lesson Pilot Workshops](/resources/curriculum/lesson-pilots.md)
 
+Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
+
 ### Beta Announcement Templates
 
 A [template beta announcement blog
@@ -306,4 +307,9 @@ ongoing development of the lesson.
 
 ### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
 
+Guidance for developing materials that will help instructors prepare to teach your new lesson or curriculum.
+
 ### [Lesson Release Process](/resources/curriculum/lesson-release.md)
+
+A description of how to prepare a lesson release and publish it to Zenodo.
+

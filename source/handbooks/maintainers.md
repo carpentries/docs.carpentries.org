@@ -258,10 +258,14 @@ A collection of recommendations for community members who want to organise event
 
 ### [Lesson Release Process](/resources/curriculum/lesson-release.md)
 
+A description of how to prepare a lesson release and publish it to Zenodo.
+**Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
+The Curriculum Team will coordinate this process in the coming months.
+
 
 ### [Lesson Developer Handbook](/handbooks/lesson_developers.md)
 
-The handbook for community members developing new lessons includes information, guidance, and further resources that may also be interesting to Mainatiners.
+The handbook for community members developing new lessons includes information, guidance, and further resources that may also be interesting to Maintainers.
 
 
 ### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
