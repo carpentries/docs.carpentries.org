@@ -6,8 +6,7 @@ This guide was developed for potential collaborators interested in involving The
 1. **Request a letter of support**. If you are planning to budget Carpentries programming (i.e., workshops, membership, instructor training seats) into your grant proposal and would like to request a letter of support, please [complete this form](https://carpentries.typeform.com/to/oK25vSPE). Pricing for Carpentries programming is on our [membership page](https://carpentries.org/membership/). All requests for letters of support require **five business days** to be fulfilled.
 
 2. **Request to meet one of our program leads**. If you have an idea supporting one of the Carpentries' {{'[strategic priorities]({}/about-us/strategic-plan/)'.format(carpentries_website)}} and would like to co-write a grant proposal, please schedule a meeting with the corresponding program lead using the links below. Minimum requirements for co-writing a grant proposal with The Carpentries are provided below.
-  - [Carpentries in Africa](https://calendly.com/angelique_v) - Angelique Trusler
-  - [Community Development](https://calendly.com/kariljordan) - Kari L. Jordan
+  - [Carpentries in Africa and Community Engagement](https://calendly.com/angelique_v) - Angelique Trusler
   - [Curriculum](https://calendly.com/tobyhodges) - Toby Hodges
   - [Membership](https://calendly.com/ebecker-1) - Erin Becker
   - [Workshops and Instruction](https://calendly.com/sheraaron/) - SherAaron Hurt
