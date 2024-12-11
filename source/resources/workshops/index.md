@@ -8,5 +8,7 @@
 
 [Email Templates](email_templates.md): Pre-written text to advertise your workshop, recruit helpers, email learners, and more! 
 
+[AMY Community Users Guide](https://carpentries.github.io/amy/users_guide/community_index/): Information for accessing your AMY profile
+
 For more resources, please visit the Additional Resources section of the [Instructor Tip Sheet](/resources/general/tip-sheets.md)
 
