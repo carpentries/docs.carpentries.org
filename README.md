@@ -1,6 +1,6 @@
-# The Carpentries Handbook (BETA)
+# The Carpentries Handbook 
 
-This is an early prototype of what The Carpentries Handbook might look like.  Everything is a work in progress and does not currently contain any actual Carpentries documentation.  The site can be [previewed at this Netlify link](https://carpentries-beta-handbook-preview.netlify.app/).
+This is the repo that builds [The Carpentries Handbook](https://docs.carpentries.org).
 
 ## Site Organization
 
@@ -22,7 +22,7 @@ This handbook has three main sections:
 * `/build/` Used to build local website. In `.gitignore` so this will not show up in the repo.  Do not edit these files.
 * `/source/` Contains all the files needed to build the site.  Includes:
     * css files and page templates that override styles and templates in the theme
-    * folders with `rst` files with content for each page. This includes one folder for each area of work, plus a folder called `pages` for general pages such as the style guide, glossary, and other landing pages.
+    * folders for handbooks, resources, and policies, with `md` files with content for each page. 
     * `/_includes/` - text blocks and other content to be included in other pages
     * `/_templates/` - templates for specialized content such as the table of contents in the sidebar
     * `/_static/` - contains custom css styles 
@@ -56,16 +56,15 @@ After setting the theme, the additional following changes were needed to `conf.p
 
 * To make the template render markdown files properly, add `.md` to the `source_suffix` list and add `myst_parser` to the `extensions` list
 * To use a custon style sheet, set `html_static_path = ['_static']` and `html_css_files = ['css/custom.css']`
-* Add GitHub identifies to `html_context`. This is supposed to enable the "Edit on GitHub" button, but does not work.
 * Add navbar and sidebar settings to `html_context`
 * To use headers as anchor links, add `myst_heading_anchors = 6`
 * To suppress warnings about duplicate headers across documents, add `suppress_warnings = ['autosectionlabel.*']`
 
 ## Previews on Netlify
 
-This site is set up to preview all pull requests via [Netlify](https://app.netlify.com/sites/carpentries-beta-handbook-preview/overview). Note Netlify login is required to setup and manage Netlify.  All PRs will offer a public Netlify preview link.
+This site is set up to preview all pull requests via [Netlify](https://handbook-preview.netlify.app/). Note Netlify login is required to setup and manage Netlify.  All PRs will offer a public Netlify preview link.
 
 ## Useful links
 
 * [Pydata Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
-* [General Sphinx Documentation](https://www.sphinx-doc.org/en/master/usage/configuration.html#module-conf)
+* [General Sphinx Documentation](https://www.sphinx-doc.org/en/master/usage/configuration.html)

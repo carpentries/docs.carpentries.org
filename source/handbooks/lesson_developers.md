@@ -90,7 +90,7 @@ on the event you would like to attend.
 
 ### Etherpad
 
-The Carpentries uses {{"[Etherpad]({}/resources/communications/etherpads)".format(handbook_url)}} as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
+The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
 -  [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
    our most commonly used Etherpads and other resources.
@@ -249,7 +249,7 @@ steps:
 1. Check the [eligibility criteria for lessons to be reviewed in the
    Lab](https://github.com/carpentries-lab/reviews#what-makes-a-lesson-a-good-candidate-for-the-carpentries-lab).
 2. Open a new issue on the [Reviews
-   repository]h(ttps://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+)
+   repository](https://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+)
    and answer the questions in the issue template to tell the Editors
    about the lesson.
 
@@ -273,7 +273,6 @@ the latest changes to the infrastructure.
 
 ### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
 
-
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
@@ -292,7 +291,9 @@ survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48
 can be copied and adapted to suit the needs of your lesson, and shared
 with learners in place of the standard post-workshop survey.
 
-### {{'[Lesson Pilot Workshops]({}/resources/curriculum/lesson-pilots.html)'.format(handbook_url)}}
+### [Lesson Pilot Workshops](/resources/curriculum/lesson-pilots.md)
+
+Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
 
 ### Beta Announcement Templates
 
@@ -304,6 +305,11 @@ to publicise the beta version of a lesson. These can be used to call for
 community members to volunteer to host a beta pilot workshop to aid the
 ongoing development of the lesson.
 
-### {{'[Curriculum Onboarding Materials]({}/resources/curriculum/curriculum_onboarding.html)'.format(handbook_url)}}
+### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
 
-### {{'[Lesson Release Process]({}/resources/curriculum/lesson-release.html)'.format(handbook_url)}}
+Guidance for developing materials that will help instructors prepare to teach your new lesson or curriculum.
+
+### [Lesson Release Process](/resources/curriculum/lesson-release.md)
+
+A description of how to prepare a lesson release and publish it to Zenodo.
+

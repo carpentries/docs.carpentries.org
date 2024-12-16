@@ -12,9 +12,9 @@ The main purpose of the CoCc is to: establish, maintain and uphold the Code of C
 In order to uphold the CoC, the CoCc members will:
 
 * support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures.
-* learn about the {{"[Code of Conduct]({}/policies/coc/)".format(handbook_url)}} and {{"[reporting guidelines]({}/policies/coc/incident-reporting)".format(handbook_url)}}, and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  
-* understand and be comfortable to act on CoC related reports as per the {{"[enforcement guidelines]({}/policies/coc/enforcement-guidelines)".format(handbook_url)}} put in place for the relevant community spaces.
-* actively help develop and maintain existing and new documents to facilitate the work of the {{"[Code of Conduct Committee]({}/policies/coc/)".format(handbook_url)}}. 
+* learn about the [Code of Conduct](/policies/coc/index.md) and [reporting guidelines](/policies/coc/incident-reporting.md), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  
+* understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](/policies/coc/enforcement-guidelines.md) put in place for the relevant community spaces.
+* actively help develop and maintain existing and new documents to facilitate the work of the [Code of Conduct Committee](/policies/coc/index.md). 
 * avoid *conflicts of interest* [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC.
 * maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee.
 * not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so.
@@ -64,7 +64,7 @@ New committee members will be included in committee discussions only after they 
 ## Relevant information:
 
 * CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)
-* {{"[Code of Conduct Handbook Documentation]({}/policies/coc/)".format(handbook_url)}}
+* [Code of Conduct Handbook Documentation](/policies/coc/index.md)
 
 
 ## References:
