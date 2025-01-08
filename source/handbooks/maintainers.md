@@ -234,7 +234,7 @@ In general, we recommend that Maintainers wait for an approving review before an
 However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes straight away.
 
 
-### What to Do If Other Maintainers Do Not Respond?
+#### What to Do If Other Maintainers Do Not Respond?
 Sometimes, a Maintainer may want a second opinion from their fellow Maintainers before merging a pull request (or might want somebody else to review their own changes). 
 The table below describes the steps we recommend that you take if you have tagged your co-Maintainers and waited for a short while, e.g. one or two weeks, but not received any response.
 
