@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="166.29814mm"
+   height="72.900673mm"
+   viewBox="0 0 166.29814 72.900673"
    version="1.1"
    id="svg3970"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
@@ -18,12 +18,12 @@
      id="defs3964">
     <rect
        x="112.54171"
-       y="86.398874"
-       width="65.674755"
+       y="86.398872"
+       width="65.674751"
        height="28.470984"
        id="rect4685" />
     <rect
-       x="36.344914"
+       x="36.344913"
        y="39.851879"
        width="101.06437"
        height="14.984306"
@@ -67,8 +67,8 @@
     <rect
        x="112.54171"
        y="86.398872"
-       width="87.408161"
-       height="28.742532"
+       width="87.408157"
+       height="28.742533"
        id="rect4685-5" />
     <rect
        x="112.54171"
@@ -80,7 +80,7 @@
        x="112.54171"
        y="86.398872"
        width="101.14697"
-       height="40.220567"
+       height="40.220566"
        id="rect4685-4" />
     <rect
        x="112.54171"
@@ -91,8 +91,8 @@
     <rect
        x="112.54171"
        y="86.398872"
-       width="60.256043"
-       height="44.315291"
+       width="60.256042"
+       height="44.315292"
        id="rect4685-2" />
     <rect
        x="112.54171"
@@ -144,9 +144,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1932696"
-     inkscape:cx="452.46637"
-     inkscape:cy="324.85695"
+     inkscape:zoom="1.1020612"
+     inkscape:cx="327.30803"
+     inkscape:cy="143.06118"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -171,7 +171,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-8.3595181,-48.499725)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:4.13942;stop-color:#000000"
        id="rect5300"
@@ -228,7 +229,7 @@
     <text
        xml:space="preserve"
        id="text4683"
-       style="font-weight:bold;font-size:7.84790999999999883px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';white-space:pre;shape-inside:url(#rect4685);"
+       style="font-weight:bold;font-size:7.84790999999999972px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';white-space:pre;shape-inside:url(#rect4685);"
        transform="matrix(0.80913214,0,0,0.80913214,11.492074,1.6389017)"><tspan
          x="112.54102"
          y="93.664007"><tspan
