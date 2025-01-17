@@ -299,4 +299,4 @@ To share these ideas, please join one of the monthly Instructor Trainer meetings
 
 ## Resources
 
-Visit our [Instructor Training resources section](/resources/instructor-training/index.md) to for more resources including email templates for Trainers and Member Organisations.  
+Visit our [Instructor Training resources section](/resources/instructor-training/index.md) for more resources including email templates for Trainers and Member Organisations.  
