@@ -13,7 +13,7 @@ The Instructor Trainer community plays a leading role in The Carpentries, mainta
 
 Instructor Trainers join a global community of skilled professionals with a passion for evidence-based teaching and a shared goal of expanding access to instructional training. Instructor Trainers build their knowledge and skills through co-instruction and monthly discussions, with additional opportunities for in-depth exploration of relevant topics throughout the year. 
 
-Instructor Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. Instructor Trainers can assume leadership roles within the Instructor Trainer community as Instructor Training Curriculum Maintainers or members of the Instructor Trainers Leadership Committee.
+Instructor Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. Instructor Trainers can assume leadership roles within the Instructor Trainer community as Instructor Training Curriculum Maintainers or members of the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers?tab=readme-ov-file).
 
 ## Roles and Responsibilities
 
@@ -299,4 +299,4 @@ To share these ideas, please join one of the monthly Instructor Trainer meetings
 
 ## Resources
 
-Visit our [Instructor Training resources section](/resources/instructor-training/index.md) to for more resources including email templates for Trainers and Member Organisations.  
+Visit our [Instructor Training resources section](/resources/instructor-training/index.md) for more resources including email templates for Trainers and Member Organisations.  
