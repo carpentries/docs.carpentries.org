@@ -36,7 +36,7 @@ Arbitration Agreement, and how to opt out of the Arbitration Agreement.
 
 ## 1. Purpose
 
-As a fiscally-sponsored project of Community Initiatives, a 501(c)(3) non-profit
+As a 501(c)(3) non-profit
 organization, The Carpentries and its lesson programs (“The Carpentries,”
 “Software Carpentry”, “Data Carpentry”, “Library Carpentry”, “The Carpentries
 Incubator”, “The Carpentries Lab”, “we,” “us,” or “our”) teaches pedagogy,
