@@ -402,8 +402,7 @@ AGREEMENT.”
 2.  **Arbitration Rules and Forum.** This Arbitration Agreement is governed by
     the Federal Arbitration Act in all respects. To begin an arbitration
     proceeding, you must send a letter requesting arbitration and describing
-    your claim to The Carpentries ℅ Community Initiatives, 1000 Broadway, Suite
-    #480 • Oakland, California 94607. . The arbitration will be conducted by
+ your claim to The Carpentries, 200 B Street, STE F, Davis, CA 95616, USA. The arbitration will be conducted by
     JAMS under its rules and pursuant to the terms of this Agreement. Disputes
     involving claims and counterclaims under $250,000, not inclusive of
     attorneys’ fees and interest, shall be subject to JAMS’s most current
@@ -544,10 +543,10 @@ provisions shall survive the termination of this Agreement.
 
 * Mailing address:
 
-The Carpentries c/o Community Initiatives  
-1000 Broadway, Suite #480  
-Oakland, CA 94607  
-USA
+    The Carpentries\
+    200 B Street, STE F\
+    Davis, CA 95616\
+    USA
 
 * Contact form:
   [https://carpentries.typeform.com/to/v4RDlibM](https://carpentries.typeform.com/to/v4RDlibM)
