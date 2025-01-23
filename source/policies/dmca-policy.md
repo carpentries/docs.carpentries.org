@@ -51,10 +51,10 @@ below:
 
 * Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
 * Mailing address:  
-     The Carpentries c/o Community Initiatives  
-     1000 Broadway, Suite #480  
-     Oakland, CA 94607  
-     USA
+    The Carpentries\
+    200 B Street, STE F\
+    Davis, CA 95616\
+    USA
 
 Please note that you may be liable for damages, including court costs and
 attorney's fees, if you materially misrepresent that content on the Services is
