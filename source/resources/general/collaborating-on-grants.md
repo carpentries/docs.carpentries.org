@@ -8,9 +8,9 @@ This guide was developed for potential collaborators interested in involving The
 2. **Request to meet one of our program leads**. If you have an idea supporting one of the Carpentries' {{'[strategic priorities]({}/about-us/strategic-plan/)'.format(carpentries_website)}} and would like to co-write a grant proposal, please schedule a meeting with the corresponding program lead using the links below. Minimum requirements for co-writing a grant proposal with The Carpentries are provided below.
   - [Carpentries in Africa](https://calendly.com/angelique_v) - Angelique Trusler
   - [Community Engagement](https://calendly.com/angelique_v) - Angelique Trusler
-  - [Curriculum](https://calendly.com/tobyhodges) - Toby Hodges
+  - [Curriculum and Collaborative Lesson Development Training (CLDT)](https://calendly.com/tobyhodges) - Toby Hodges
   - [Membership](https://calendly.com/ebecker-1) - Erin Becker
-  - [Workshops and Instruction](https://calendly.com/sheraaron/) - SherAaron Hurt
+  - [Workshops, Instructor Training, and Trainer Training](https://calendly.com/sheraaron/) - SherAaron Hurt
 
 We invite you to include The Carpentries in your grant to support workshops, membership, and Instructor training whether you apply as an individual institution or a consortium. We are also happy to collaborate on grant proposals supporting our mission, [core values](https://carpentries.org/values/), and priorities. This guide should be used as a resource in advance of proposal development.
 
@@ -46,4 +46,4 @@ For more information about sponsorship opportunities, visit our [Sponsorship Pro
 The Carpentries has identified deliverables ideal for in-kind support and/or grant funding in curriculum development, community development, workshops, instructor training, and infrastructure. These projects typically require that a percentage of The Carpentries Core Team time be written into the grant budget to support program development, administration, and infrastructure. Below are examples of minimum requirements for co-writing a grant with The Carpentries.
 
 - **Timeframe:** Please allow 3-6 months to work on a grant proposal with a Core Team Lead. Expect several meetings/co-working sessions to develop the proposal narrative and budget during that time. A clearer timeline will be co-developed once a decision to move forward with writing a grant has been made.
-- **Budget:** The Carpentries is a fiscally sponsored project of Community Initiatives. As such, all budget proposals will include an 11.11% fee on the income The Carpentries receives. Additionally, for any key personnel working on the grant, a **minimum of 15%** of their time throughout the grant must be included in the budget. Key personnel may include, but is not limited to, Core Team Leads, administrators, or contractors working with The Carpentries. Lastly, support to be written into a grant budget may include infrastructure, equipment, and/or travel as appropriate.
+- **Budget:** The Carpentries is a 501(c)(3) non-profit organisation. As such, all budget proposals will include a 20% overhead fee. Additionally, for any key personnel working on the grant, a **minimum of 15%** of their time throughout the grant must be included in the budget. Key personnel may include, but is not limited to, Core Team Leads, administrators, or contractors working with The Carpentries. Lastly, support to be written into a grant budget may include infrastructure, equipment, and/or travel as appropriate.
