@@ -1,16 +1,16 @@
 # Code of Conduct Incident Response Procedure and Enforcement Guidelines
 
-This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form][reporting-form] or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, [Community Initiatives](https://communityin.org/), should there be a need. 
+This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form][reporting-form] or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support as a 501(c)(3) non-profit organisation should there be a need. 
 
 The CoC committee will attempt to ensure your safety and help with any immediate needs, particularly at in-person events. The incident reporter(s) will receive an email from the Code of Conduct committee acknowledging receipt of an incident report within 24 hours of the form submission, and we aim for the same response time through other channels. 
 
 If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.  
 
-The committee will make all efforts to meet within two business days to review the incident and determine next steps such as setting a 1:1 meeting with the reporter(s) and/or reportee(s). Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
+The committee will make all efforts to meet within two business days to review the incident and determine next steps such as setting a 1:1 meeting with the reporter(s) and/or reportee(s). Once the committee has a complete account of the events, they will decide how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
 
 Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.  
 
-Finally, the Chair of the Code of Conduct Committee and Executive Council Liaison will write up a [transparency report](https://github.com/carpentries/executive-council-info/blob/main/code-of-conduct-transparency-reports/) for incidents reported through the incident report form or other channels. Names of the reporter and any persons involved in the incident will not be included unless the resolution results in a termed suspension. The Executive Council may choose to make a public report of the incident while maintaining anonymity of those involved.
+Finally, the Chair of the Code of Conduct Committee and Board of Directors Liaison will write up a [transparency report](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) for incidents reported through the incident report form or other channels. Names of the reporter and any persons involved in the incident will not be included unless the resolution results in a termed suspension. The Board of Directors may choose to make a public report of the incident while maintaining anonymity of those involved.
 
 ## Terminology
 - **Reporter**: Person reporting an incident.
@@ -25,7 +25,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 - If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](termed-suspension.md).
 - For non-immediate responses submitted via the [incident report form][reporting-form], an auto-generated email is sent to the Code of Conduct committee that a report has been received. 
 - An auto-response is sent to the reporter acknowledging that the incident report was received via the secure form. 
-- The first person on the Code of Conduct committee to see the report reviews it and provides an initial response to the reporter within 24 hours of the report being submitted or immediately, if safety is an issue. 
+- The first person on the Code of Conduct committee to see the report reviews it and provides an initial response to the reporter within 24 hours of the report being submitted or immediately if safety is an issue. 
 - This response will include a timeline of what to expect as the Code of Conduct committee works to provide a resolution. 
 - The first person on the Code of Conduct committee to see the report completes an [incident data collection form](https://docs.google.com/document/d/1FKR30JXU4yE7gsJa6SDQqwhWd8rUYKehy6NyMwwx7Mw/edit?usp=sharing) to share with the CoC Committee.   
 - A minimum of three members of the Code of Conduct Committee (the Incident Response Group (IRG)) meet to discuss the incident. The incident report document is shared with the IRG prior to this meeting.
@@ -41,13 +41,13 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 - The Core Team Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken.
 - Essential personnel are notified to implement any actions. Report details remain confidential. 
 - Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository. 
-- The Chair of the Code of Conduct Committee and Executive Council Liaison write up a transparency report.
+- The Chair of the Code of Conduct Committee and Board of Directors Liaison write up a transparency report.
 
 ## Report Acknowledgement
 
 When a report is received, any one of the Code of Conduct committee members will reply to the reporter to confirm receipt. This reply will be sent within 24 hours of the incident being reported, and the CoCc will strive to respond much more quickly than that.
 
-For details about what the incident report should contain, see the [Incident Reporting Guidelines](incident-reporting.md). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
+For details about what the incident report should contain, see the [Incident Reporting Guidelines](incident-reporting.md). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on behalf of The Carpentries in contacting any individuals involved unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
 
 ## Incident Response Assessment
 
@@ -61,7 +61,7 @@ Upon receiving a report of an incident, at least three members of the CoCc will 
  
 The deliberations of the incident response assessment will be stored in the Code of Conduct Committee’s private GitHub repository.
 
-The committee will aim to have a resolution agreed upon within one week of receipt of the incident response form. In the event that a resolution cannot be determined in that time, the IRL will respond to the reporter(s) with an update and projected timeline for resolution.  
+The committee will aim to have a resolution agreed upon within one week of receipt of the incident response form. When a resolution cannot be determined in that time, the IRL will respond to the reporter(s) with an update and projected timeline for resolution.  
 
 ## Following up with the Reportee
 
@@ -78,7 +78,7 @@ When following up with the reportee, the CoCc representatives will:
 
 ## Resolutions
 
-The committee must agree on a resolution by the majority of all members investigating the incident in question. If the committee cannot reach a majority decision and deadlocks for over one week, they will turn the matter over to the Executive Council for resolution.  
+The committee must agree on a resolution by the majority of all members investigating the incident in question. If the committee cannot reach a majority decision and deadlocks for over one week, they will turn the matter over to the Board of Directors for resolution.  
 
 What follows are examples of possible resolutions to an incident report. This list is not comprehensive, and The Carpentries Code of Conduct Committee reserves the right to take any action it deems necessary to resolve an incident. Possible resolutions to an incident include:
 
@@ -120,11 +120,11 @@ Appeals can be requested up to 30 days after a resolution has been determined.
 
 ## Accountability
 
-The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution such as a termed suspension or ban.  
+The CoC committee will submit a report to The Carpentries Board of Directors and The Carpentries Executive Director in the event of an ongoing resolution such as a termed suspension or ban.  
 
-The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Executive Council.  
+The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Board of Directors.  
 
-At the end of every quarter, the Executive Council will publish an aggregated count of the incidents the Code of Conduct Committee reviewed, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and, for each of these, under which part of the Code of Conduct the incident was classified.  
+At the end of every quarter, the Board of Directors will publish an aggregated count of the incidents the Code of Conduct Committee reviewed, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and, for each of these, under which part of the Code of Conduct the incident was classified.  
 
 ## Conflicts of Interest
 
