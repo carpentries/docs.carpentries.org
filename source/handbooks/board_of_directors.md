@@ -23,10 +23,10 @@ The Board is responsible for strategic and organisational planning, selecting th
   * Provide feedback and vote on formal motions   
   * Dedicate four to six volunteer hours per month toward Carpentries activities (including meeting attendance)  
 * Each Board member is expected to serve on at least one, but no more than two standing committees. Serving on a specific standing committee allows Board members to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximise time and resources between meetings. The current standing committees are  
-  * [Audit](https://docs.google.com/document/d/1ybrzsxpybIVCdupw81I_Hs6VGSHXgtthDLixsXJYenc/edit?usp=drive_link)  
-  * [Finance](https://docs.google.com/document/d/1zbqrhVlPTkLhGHLLJdyv5tAqSPQ2IMY2JfYwOCC1dfg/edit?usp=drive_link)  
-  * [Governance & Personnel](https://docs.google.com/document/d/1sH6HXDO0Ffast9rJmic2rxRlbqvPNZkBBUMn0uE780E/edit?usp=drive_link)  
-  * [Program](https://docs.google.com/document/d/1JAzBMjJ3TvIPPruQMYyvaRgrTbcTJXF0xagZr1xXfGA/edit?usp=drive_link)  
+  * [Audit](https://docs.google.com/document/d/1ybrzsxpybIVCdupw81I_Hs6VGSHXgtthDLixsXJYenc/edit?usp=drive_link) [private document]  
+  * [Finance](https://docs.google.com/document/d/1zbqrhVlPTkLhGHLLJdyv5tAqSPQ2IMY2JfYwOCC1dfg/edit?usp=drive_link)  [private document] 
+  * [Governance & Personnel](https://docs.google.com/document/d/1sH6HXDO0Ffast9rJmic2rxRlbqvPNZkBBUMn0uE780E/edit?usp=drive_link)  [private document] 
+  * [Program](https://docs.google.com/document/d/1JAzBMjJ3TvIPPruQMYyvaRgrTbcTJXF0xagZr1xXfGA/edit?usp=drive_link)  [private document] 
 * The Board consists of four officers listed below. Learn more about the responsibilities of the officers in {{"[Article VIII of the bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}.
   * Chair (President)   
   * Chair-Elect (Vice President)  
@@ -47,7 +47,7 @@ The Board is responsible for strategic and organisational planning, selecting th
 
 ## Onboarding
 
-* Onboarding typically occurs in January which is between the election and the first Board meeting in February. The official term of office for incoming Board members is 1 February. Onboarding is found in the [Board of Directors Onboarding Checklist](https://docs.google.com/document/d/1SosQK9hyYvYDBtGy5heLKXiAfhwGybHF8mH9P8CFhZI/edit). This document will guide learning more about The Carpentries, the Board, and general orientation to both.
+* Onboarding typically occurs in January which is between the election and the first Board meeting in February. The official term of office for incoming Board members is 1 February. Onboarding is found in the [Board of Directors Onboarding Checklist](https://docs.google.com/document/d/1SosQK9hyYvYDBtGy5heLKXiAfhwGybHF8mH9P8CFhZI/edit) [private document]. This document will guide learning more about The Carpentries, the Board, and general orientation to both.
 
 ### Nomination and Election Frequency
 
@@ -63,7 +63,7 @@ The Board is responsible for strategic and organisational planning, selecting th
 
 ### Board of Directors Calendar
 
-Once scheduled, Quarterly, committee, and special meetings will appear on the [Carpentries Board of Directors Google calendar](https://calendar.google.com/calendar/u/0?cid=cTdqMWZ0ZGxkb2FhcHNvMm9uNDRxcmRucHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). You can add relevant events to your calendar from there by clicking on the event you would like to attend.
+Once scheduled, Quarterly, committee, and special meetings will appear on the [Carpentries Board of Directors Google calendar](https://calendar.google.com/calendar/u/0?cid=cTdqMWZ0ZGxkb2FhcHNvMm9uNDRxcmRucHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [private calendar]. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
 
 ### Google Drive
 
@@ -107,9 +107,9 @@ Learn more about enabling notifications and participating in discussions on GitH
 * {{"[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}} \- Rules and guidance for the Carpentries community, Board, and Core Team members regarding how to operate as an organisation while keeping our Core Values, mission, and vision at the forefront of our work.   
 * {{"[Annual Reports]({}/about-us/impact/#annual-reports)".format(carpentries_website)}}  
 * {{"[Financial Statements]({}/about-us/financials/)".format(carpentries_website)}}
-* [2024 Budget](https://docs.google.com/spreadsheets/d/1t2iPylgzUf8d1Y5k19M-Vjwk_3JgXE86/edit#gid=1870417438) \- The budget passed for the 2024 fiscal year.  
-* [Parliamentary Procedures for Board Meetings](https://docs.google.com/document/d/1kiKg7dAE9lz30JGMlClrS5oxEeXlvkBrPd3ukeI13Ho/edit#heading=h.3gfqlv3v1whv) \- Supporting document for decision-making during Board meetings and for making official motions, amending motions, and voting on motions.  
-* [Election Timeline and Procedures for The Carpentries Board of Directors](https://docs.google.com/document/d/17Twk9LIPwUfdXOnal0A-ScdRfL4NhFT0UPQiP7tZnAI/edit#heading=h.97mnd6s3j6dc) \- A checklist for how to administer community elections.
+* [2024 Budget](https://docs.google.com/spreadsheets/d/1t2iPylgzUf8d1Y5k19M-Vjwk_3JgXE86/edit#gid=1870417438) [private document] - The budget passed for the 2024 fiscal year.  
+* [Parliamentary Procedures for Board Meetings](https://docs.google.com/document/d/1kiKg7dAE9lz30JGMlClrS5oxEeXlvkBrPd3ukeI13Ho/edit#heading=h.3gfqlv3v1whv) [private document] - Supporting document for decision-making during Board meetings and for making official motions, amending motions, and voting on motions.  
+* [Election Timeline and Procedures for The Carpentries Board of Directors](https://docs.google.com/document/d/17Twk9LIPwUfdXOnal0A-ScdRfL4NhFT0UPQiP7tZnAI/edit#heading=h.97mnd6s3j6dc) [private document] - A checklist for how to administer community elections.
 
 ## Glossary of Terms
 
