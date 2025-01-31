@@ -1,5 +1,6 @@
 # Carpentries Handbooks 
 
+* [Board of Directors](board_of_directors.md)
 * [Community Session Hosts](community_session_host.md)
 * [Curriculum Advisors](curriculum_advisors.md)
 * [Instructors](instructors.md)
