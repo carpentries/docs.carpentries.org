@@ -3,8 +3,7 @@
 **Last updated:** 2022-01-15
 
 The Carpentries teaches foundational coding and data science skills to
-researchers worldwide. We are a fiscally-sponsored project of Community
-Initiatives, a 501(c)(3) non-profit organisation. The Carpentries is a diverse,
+researchers worldwide. We are a 501(c)(3) non-profit organisation. The Carpentries is a diverse,
 global community that includes
 [Instructors](https://carpentries.org/instructors/), helpers,
 [Trainers](https://carpentries.org/trainers),
