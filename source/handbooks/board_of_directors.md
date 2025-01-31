@@ -71,24 +71,6 @@ The Board uses a private Google shared drive to store collaborative documents:
 
 * [The Carpentries, Inc. Board of Directors](https://drive.google.com/drive/folders/0AElzed8dqYAlUk9PVA) \- See its [README](https://docs.google.com/document/d/1g8ZQwbu6OD7KFgqhnnan3fnIKPe_txMM/edit) for orientation to content.
 
-### Slack
-
-The Carpentries uses Slack routinely for day-to-day communications. {{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. The following Slack channels, which you will be added to automatically, will allow you to follow conversations relevant to this role:
-
-* *\#general \- An open channel to discuss all things Carpentries.*  
-* *\#welcome \- A place to introduce yourself to the Carpentry Community*
-
-If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
-
-### TopicBox
-
-You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.
-
-* Discuss- This group is for general discussion of Carpentry teaching practices, community activities, and concerns.
-
-To join one or more Carpentries mailing lists, you must [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing lists) or “Request to Join” (for those mailing lists requiring administrator approval). 
-
-
 ## Step-by-Step Guides
 
 ### GitHub
