@@ -22,10 +22,7 @@ Instructor Trainers teach Instructor Training events, host teaching demonstratio
 * Teach 1 Instructor Training event.
 * Host 2 teaching demos.
 * Attend 4 Instructor Trainer community meetings.
-
-OR
-
-* Equivalent engagement with curriculum, trainees, or the Instructor Trainer community, as approved by the Instructor Trainers Leadership.
+* Respond to 4 quarterly scheduling polls
 
 The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
 
@@ -103,12 +100,9 @@ To be renewed based on prior participation, an Instructor Trainer is expected to
 * teach 1 Instructor Training event, and  
 * host 2 teaching demos, and  
 * attend 4 Instructor Trainer community meetings
+* respond to 4 quarterly scheduling poll
 
-OR
-
-* equivalent engagement with curriculum, trainees, or the Instructor Trainer community, as approved by the Instructor Trainers Leadership
-
-As a general rule, equivalent activities must be self-reported via form submission. The Instructor Trainers Leadership Committee will provide guidance to help Instructor Trainers choose what to share in the form and when to select a meeting instead.
+If an Instructor Trainer does not participate in the ways listed above, during the renewal period, the Workshops and Instruction Team will provide additional ways to maintain Active Status. 
 
 ## Offboarding
 
