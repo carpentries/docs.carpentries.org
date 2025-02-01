@@ -273,9 +273,7 @@ you which may be associated with your name, affiliation and/or social media hand
 If you provide financial information to pay for a workshop or membership or make
 a donation, the transaction information will be processed by a third-party 
 secured site. This information will only be accessible to our staff or 
-authorised administrators and to the staff of our fiscal sponsor 
-([Community Initiatives](https://communityin.org/)) who is involved
-in processing financial transactions. We engage with third-parties to gather 
+authorised administrators. We engage with third-parties to gather 
 and collect this information securely and do not have access to or store any
 payment details in our systems.
 
@@ -626,10 +624,10 @@ to this Privacy Policy, please contact us at the following contact details:
 * Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
 * Mailing address:
 
-    The Carpentries c/o Community Initiatives  
-    1000 Broadway, Suite #480  
-    Oakland, CA 94607  
-    USA  
+    The Carpentries\
+    200 B Street, STE F\
+    Davis, CA 95616\
+    USA
     
 * Contact form: [https://carpentries.typeform.com/to/v4RDlibM](https://carpentries.typeform.com/to/v4RDlibM)
 
