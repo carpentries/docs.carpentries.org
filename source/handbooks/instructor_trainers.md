@@ -17,14 +17,7 @@ Instructor Trainers often engage in leadership roles in their home communities, 
 
 ## Roles and Responsibilities
 
-Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. To remain active, we ask that Instructor Trainers annually do all of the following: 
-
-* Teach 1 Instructor Training event.
-* Host 2 teaching demos.
-* Attend 4 Instructor Trainer community meetings.
-* Respond to 4 quarterly scheduling polls
-
-If an Instructor Trainer does not participate in the ways listed above, during the renewal period, the Workshops and Instruction Team will provide additional ways to maintain Active Status. 
+Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. [Requirements for active status are defined below](#active-status-renewal-process).
 
 The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
 
