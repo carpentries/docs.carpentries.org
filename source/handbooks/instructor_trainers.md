@@ -73,7 +73,7 @@ For more information, see [The Carpentries Instructor Trainer Training Curriculu
 
 ### Active Status Renewal Process
 
-Version 1.0.1 – Approved 8 February, 2023
+Version 1.0.2 – Approved 4 February, 2025
 
 ### Active status for Instructor Instructor Trainers is renewed annually.
 
