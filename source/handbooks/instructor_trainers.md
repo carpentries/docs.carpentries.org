@@ -17,15 +17,7 @@ Instructor Trainers often engage in leadership roles in their home communities, 
 
 ## Roles and Responsibilities
 
-Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. To remain active, we ask that Instructor Trainers annually do all of the following: 
-
-* Teach 1 Instructor Training event.
-* Host 2 teaching demos.
-* Attend 4 Instructor Trainer community meetings.
-
-OR
-
-* Equivalent engagement with curriculum, trainees, or the Instructor Trainer community, as approved by the Instructor Trainers Leadership.
+Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. [Requirements for active status are defined below](#active-status-renewal-process).
 
 The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
 
@@ -81,7 +73,7 @@ For more information, see [The Carpentries Instructor Trainer Training Curriculu
 
 ### Active Status Renewal Process
 
-Version 1.0.1 – Approved 8 February, 2023
+Version 1.0.2 – Approved 4 February, 2025
 
 ### Active status for Instructor Instructor Trainers is renewed annually.
 
@@ -102,13 +94,10 @@ To be renewed based on prior participation, an Instructor Trainer is expected to
 
 * teach 1 Instructor Training event, and  
 * host 2 teaching demos, and  
-* attend 4 Instructor Trainer community meetings
+* attend 4 Instructor Trainer community meetings, and
+* respond to 4 quarterly scheduling polls
 
-OR
-
-* equivalent engagement with curriculum, trainees, or the Instructor Trainer community, as approved by the Instructor Trainers Leadership
-
-As a general rule, equivalent activities must be self-reported via form submission. The Instructor Trainers Leadership Committee will provide guidance to help Instructor Trainers choose what to share in the form and when to select a meeting instead.
+If an Instructor Trainer does not participate in the ways listed above, during the renewal period, the Workshops and Instruction Team will provide additional ways to maintain Active Status. 
 
 ## Offboarding
 
