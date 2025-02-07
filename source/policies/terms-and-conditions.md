@@ -1,6 +1,6 @@
 # The Carpentries Terms and Conditions
 
-**Last updated:** 2022-01-15
+**Last updated:** 2025-02-01
 
 The Carpentries teaches foundational coding and data science skills to
 researchers worldwide. We are a 501(c)(3) non-profit organisation. The Carpentries is a diverse,

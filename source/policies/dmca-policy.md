@@ -1,6 +1,6 @@
 # The Carpentries DMCA Policy
 
-**Last updated:** 2022-01-15
+**Last updated:** 2025-02-01
 
 We respect the copyright and other intellectual property rights of others and
 expect users of our website and application (collectively, the "Services") to do
