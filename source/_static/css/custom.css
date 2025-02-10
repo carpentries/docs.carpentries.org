@@ -84,3 +84,13 @@ p.footer-left,  p.title.logo__title, p.copyright, p.theme-version, p.sphinx-vers
 .bd-header-announcement {
     background-color: orangered;
 }
+
+@media print {
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+	a[href]:after {
+		content: ' (' attr(href) ')';
+	}
+}
