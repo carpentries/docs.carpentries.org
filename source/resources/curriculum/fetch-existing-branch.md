@@ -8,7 +8,7 @@ The instructions assume some familiarity with version control, Git, and GitHub.
 Starting from the open pull request that you want to continue working on, scroll to the top of the _Conversation_ tab.
 Under the title of the pull request, you will find a summary of the branches that would be combined if the pull request was merged: usually the lesson program organisation and `main` on the left, and the original contributor's username and the branch name they chose on the right (the "feature branch").
 
-![Branch information for a pull request on GitHub. The name of the official repository default branch, `datacarpentry:main`, and of the contributor's feature branch, `marcodallavecchia:mdv/blur-anim`, are displayed.](./img/branch-info-pr.png)
+![Branch information for a pull request on GitHub. The name of the official repository default branch, `datacarpentry:main`, and of the contributor's feature branch, `example-user:example-branch`, are displayed.](./img/branch-info-pr.png)
 
 Clicking on the name of the contributor's feature branch will direct you to that branch on their fork of the lesson repository. 
 
