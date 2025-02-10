@@ -241,7 +241,7 @@ The table below describes the steps we recommend that you take if you have tagge
 ![Table recommending action a Maintainer should take if they have requested input from their fellow Maintainers on a pull request, but received no response after waiting some time. Not urgent, not complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, not complex: merge now. Not urgent, complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, complex: tag the Maintainer Community Lead or Curriculum Team.](../img/when-to-merge.svg)
 
 * What is urgent? In general, you can consider the change urgent if the current version of the relevant content in the lesson is incorrect or broken in some way. 
-  Urgent changes might be time-sensitive (e.g. a language feature is being deprecated) or would provide a significant improvement to the accessibiility of the lesson content (e.g. adding of improving alternative text on an image). 
+  Urgent changes might be time-sensitive (e.g. a language feature is being deprecated) or would provide a significant improvement to the accessibility of the lesson content (e.g. adding or improving alternative text on an image). 
 * What is complex? Here, we refer to changes as complex if they contain anything that you could reasonably expect somebody to disagree with or want to word differently.
   Non-complex changes might be typo fixes, updates to the output of an example code block, or a new version of a screenshot used in the lesson.
 
