@@ -25,7 +25,13 @@ Once this branch is selected, you can start editing the files on GitHub being ca
 Alternatively, you can [open the github.dev IDE in your browser](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), select the branch and continue editing and commiting there.
 
 ### Edit the lesson locally
-After your fork has been created, clone it to your local system, _fetch_ the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`) and switch to it (`git switch <their-branch-name>`, e.e. `git switch 123-better-captions`).
+Follow these steps after your fork has been created.
+
+1. Clone it to your local system.
+2. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
+3. Fetch the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`)
+4. Switch to it (`git switch <their-branch-name>`, e.g. `git switch 123-better-captions`).
+
 Once you are working on this branch, you can edit the lesson and commit your changes as usual. 
 When you are ready, add your own fork of the lesson repository as a remote (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, e.g. `git remote add myfork git@github.com:myusername/image-processing.git`) push the commits you have made and open a pull request to the official repository.
 

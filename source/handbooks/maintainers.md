@@ -340,7 +340,10 @@ If you notice that another community member said they would like to work on an i
 Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
 
 ```markdown
-It would be good to have these changes included in the lesson soon. Thank you @USERNAME for your contributions so far. Since progress has been stalled for a while, I invite any other community members reading this to take on the task of making the remaining changes needed for this to be merged. When doing so, please [build on top of the work already done by @USERNAME](FIXME) so that their contributions are included in the commit history. Feel free to post here if you have any questions about what remains to be done before the branch can be merged.
+It would be good to have these changes included in the lesson soon. Thank you @USERNAME for your contributions so far. 
+Since progress has been stalled for a while, I invite any other community members reading this to take on the task of making the remaining changes needed for this to be merged. 
+When doing so, please [build on top of the work already done by @USERNAME](https://docs.carpentries.org/resources/curriculum/fetch-existing-branch.html) so that their contributions are included in the commit history. 
+Feel free to post here if you have any questions about what remains to be done before the branch can be merged.
 
 @USERNAME if you would like to keep working on the pull request, please post here to let us know and tell us if there is anything we can do to help.
 ```
@@ -349,14 +352,19 @@ It would be good to have these changes included in the lesson soon. Thank you @U
 Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
 
 ```markdown
-Thank you @USERNAME for your contributions so far. Since progress has been stalled for a while and it could be difficult for another community member to pick up on the work already done here, I will close this pull request now. @USERNAME if you would like to continue working on these changes, please reopen the pull request and I will be happy to help you.
+Thank you @USERNAME for your contributions so far. 
+Since progress has been stalled for a while and it could be difficult for another community member to pick up on the work already done here, I will close this pull request now. 
+
+@USERNAME if you would like to continue working on these changes, please reopen the pull request and I will be happy to help you.
 ```
 
 ##### Asking for an update on an issue
 Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
 
 ```markdown
-@USERNAME it has been a while since we heard from you and I have not seen a pull request to address this issue yet. It would be good to have this issue resolved and I know that it can often take some time to make changes to a lesson. Can you provide an update on your progress? Is there anything the Maintainers can do to help you with your pull request?
+@USERNAME it has been a while since we heard from you and I have not seen a pull request to address this issue yet.
+It would be good to have this issue resolved and I know that it often takes some time to make changes to a lesson. 
+Can you provide an update on your progress? Is there anything the Maintainers can do to help you with your pull request?
 
 If your circumstances or capacity have changed, and you are no longer able to help with this issue, that is okay too. Please let us know here, so that we can help you and/or other members of the community can start working on the issue.
 ```
