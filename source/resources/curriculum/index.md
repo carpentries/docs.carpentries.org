@@ -4,6 +4,7 @@
 * [Curriculum Overview Pages](workshop-overview-lessons.md): Learn about how and why to create a lesson site as a "front page" to a curriculum that combines multiple lessons.
 * [The Life Cycle of Lessons](lesson-life-cycle.md): A description of the "life cycle" model we use to describe the maturity of lessons under development, and a list of resources and activities that can be helpful at each stage of the process.
 * [Forking a Lesson Repository](lesson-forks.md): Guidance on how to set up your own fork of a Carpentries Workbench lesson repository.
+* [Building on somebody else's existing branch](fetch-existing-branch.md): Guidance for how to start working on a branch that somebody else created (e.g. for an unfinished pull request).
 * [Releasing a Lesson](lesson-release.md): A description of how to prepare a lesson release and publish it to Zenodo.
 * [Lesson Development Roles](lesson-development-roles.md): Learn about the different roles that people can take up during the lesson development process, why they are important, and what resources are available to support them.
 * [Lesson Pilot Workshops](lesson-pilots.md): Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
