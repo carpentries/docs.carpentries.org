@@ -49,3 +49,7 @@ Use the `admonition` directive and specify the type. Let's give readers some mor
 :::
 
 
+:::{admonition} This is the title of a warning
+:class: warning
+Use the `admonition` directive and specify the type. Let's give readers some more information.
+:::
