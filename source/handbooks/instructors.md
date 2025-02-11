@@ -425,17 +425,6 @@ content in the handbook.
         available for Self-Organised workshops. Centrally-organised
         workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
 
--   **When a workshop is taught, how closely should it stick to the
-    Carpentries lesson plans?**
-    -   To be considered an official Carpentries workshop, you must
-        follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program.
-        If you teach something other than what is listed on our webpage
-        we ask that you acknowledge that your workshop is "inspired by
-        SWC/DC/LC" or "based on SWC/DC/LC". You can still
-        [register](https://amy.carpentries.org/forms/self-organised/)
-        your workshop and select the workshop you are teaching is "Mix &
-        Match", so that we can show others how you use The Carpentries
-        resources.
 -   **When will I be considered an Experienced Instructor?**
     -   Ater being an Instructor for three Carpentries workshops you
         will be able to take the role of Experienced Instructor in any
