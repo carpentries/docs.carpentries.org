@@ -407,10 +407,6 @@ content in the handbook.
         right of the survey results page.
 -   **Who can be a Helper and what do they contribute to the workshop?**
     - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
--   **How do I sign up to teach a Centrally-Organised Workshop?**
-    -   In order to sign-up to teach a Centrally-Organised Workshop you
-        must login to {{"[AMY profile]({})".format(amy_link)}} using your
-        GitHub credentials. Refer to the {{"[AMY documentation]({}#viewing-teaching-opportunities)".format(amy_docs)}} for more information on how to sign up.
 
 ### Curricula
 
@@ -465,6 +461,15 @@ content in the handbook.
         workshop has been canceled or postponed by the Host. Confirmed
         Instructors for the original workshop dates will be given
         priority selection when the new dates are confirmed.
+-   **How do I sign up to teach a Centrally-Organised Workshop?**
+    -  Once you have completed
+       [Instructor training and the three checkout steps](https://carpentries.github.io/instructor-training/checkout.html),
+       you can [login to your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/)
+       to view and sign up for Centrally-Organised workshops.
+       Follow step-by-step instructions on how to sign up in the
+       [viewing teaching opportunities](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
+       section of our AMY Community Users Guide.
+    
 
 #### Online workshop
 
@@ -490,9 +495,6 @@ content in the handbook.
         [instruction
         roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles)
         for a workshop.
--   **How do I sign-up to teach a Centrally-Organised Workshops?**
-    -   In order to sign-up to teach a Centrally-Organised Workshop you
-        must login to AMY using your GitHub credentials. Refer to the [AMY documentation](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities) on how to sign-up.
 
 #### In-person workshop
 
