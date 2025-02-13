@@ -418,18 +418,20 @@ content in the handbook.
 
 -   **If I am only teaching portions of the Carpentries curricula, do I
     still need to register my workshop?**
-    -   It is important that we know about workshops being publicised
-        because people often contact us to report that they will be
-        unable to attend a workshop or to ask questions and if we do not
-        know about planned workshops we can not provide support or share
-        information with instructors.
-    -   If you are teaching only a portion of The Carpentries curricula or
-        if the workshop does not align with the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program, we
-        ask that you still {{'[register]({}/forms/workshop/)'.format(amy_link)}} your self-organised workshop and
-        select the "Mix & Match" option for the question "Which
-        Carpentries workshop are you teaching?". **This option is only
-        available for Self-Organised workshops. Centrally-organised
-        workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
+    -   Please register your workshop using a [Self-Organised submission
+        form](https://amy.carpentries.org/forms/self-organised/) if you
+        plan to teach [the full curriculum of a lesson program](https://carpentries.org/lessons/curriculum-summary/)
+        (Data, Software, Library), a portion of a lesson program, or a
+        mix of our official lessons.
+
+    -   If you are teaching a workshop that includes material that is not
+        part of the Carpentries' official lessons, you should not register
+        your workshop. Please do mention in your advertising and your workshop
+        that you are using material derived from The Carpentries and share a
+        link to the curricula on [The Carpentries website](https://carpentries.org/).
+
+    -  You can learn more about our guidelines and requirements for Self-Organised workshops
+       in the [Self-Organised section of this FAQ]().
 
 -   **When will I be considered an Experienced Instructor?**
     -   Ater being an Instructor for three Carpentries workshops you
