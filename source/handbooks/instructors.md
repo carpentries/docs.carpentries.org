@@ -58,14 +58,14 @@ Trainees are not eligible for Instructor certification until their record indica
 
 #### Re-taking a Training Event 
 
-Trainees who miss more than four hours (one-half day) of an event are not eligible for a makeup meeting but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) within 30 days of a missed event. 
+Trainees who miss more than four hours (one-half day) of an event are not eligible for a makeup meeting but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} within 30 days of a missed event. 
 
 When re-taking a training, trainees who miss more than two hours may be marked absent, even when they have attended part of a prior event. Multiple partial trainings may not be used to complete the training requirement. 
 
 
 #### Ineligibility for Makeup Opportunities
 
-Trainees who miss an event in full without cancelling within seven days (no-show) or who miss part of an event but do not request a makeup opportunity within seven days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
+Trainees who miss an event in full without cancelling within seven days (no-show) or who miss part of an event but do not request a makeup opportunity within seven days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} to be advised on their options for re-admission.
 
 
 ### Checkout Extensions Policy
@@ -81,8 +81,7 @@ At this time, we do not have a formal offboarding process for Instructors. Once 
 profile remains active in our database, and you can log in at any time to access it.
 
 If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at
-[Workshops](mailto:workshops@carpentries.org) and let us know you would like to unsubscribe from the
-Instructor Teaching Opportunities list. 
+{{'[Workshops](mailto:{})'.format(workshops_email)}} and let us know you would like to unsubscribe from the Instructor Teaching Opportunities list. 
 
 ## Communication and Collaboration Spaces
 
@@ -92,23 +91,20 @@ Instructor Teaching Opportunities list.
 Join the Workshops and Instruction Team every other month on the second Tuesday
 at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
 updates and tips, learn from community members, and enjoy networking opportunities. Please
-sign up on the [Carpentries Instructor Meetings Etherpad](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D).
+sign up on the {{'[Instructor Meetings Etherpad]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}.
 
 ### Upcoming Workshops
 
-If you are a [Carpentries Certified Instructor](https://carpentries.org/become-instructor/) and would like to view teaching
+If you are a {{"[Carpentries Certified Instructor]({}/instructors/)".format(carpentries_website)}} and would like to view teaching
 opportunities that need Instructors, please log in to your {{'[AMY profile]({})'.format(amy_link)}}
-for a list of upcoming [Centrally-Organised](https://carpentries.org/workshops/host-workshop/#host-a-workshop) workshops that are open for recruitment.
+for a list of upcoming {{"[Centrally-Organised]({}/workshops/host-workshop/)".format(carpentries_website)}} workshops that are open for recruitment.
 
 ### Community Calendar
 
-Once scheduled, all [Community
-Sessions](https://pad.carpentries.org/community-discussions) (i.e
+Once scheduled, all {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}} (i.e
 pre- and post workshop discussions, Themed Discussions and Carpentries
-Conversations) and [Teaching
-Demonstrations](https://pad.carpentries.org/teaching-demos) are listed
-on our [Community
-Calendar](https://carpentries.org/community/events/). You can
+Conversations) and {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}} are listed
+on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can
 add relevant events to your personal calendar from there by clicking on
 the event you would like to attend.
 
@@ -116,11 +112,10 @@ the event you would like to attend.
 
 The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
 
--   [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
-    our most commonly used Etherpads and other resources.
--   [Community Sessions](https://pad.carpentries.org/community-discussions): A list of our Community Discussions (including Welcome sessions) and how to sign up to attend.
--   [Teaching Demo](https://pad.carpentries.org/teaching-demos): Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
--   [Instructor Meetings](https://pad.carpentries.org/Carpentries_Instructor_Meetings_%5BAll_Pads%5D): A list our Instructor Meetings pads in descending order.
+-   {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
+-  {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}}: A list of our Community Discussions (including Welcome sessions) and how to sign up to attend.
+- {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}}: Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
+-   {{'[Instructor Meetings]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}: A list our Instructor Meetings pads in descending order.
   
 ### GitHub
 
@@ -162,14 +157,14 @@ the mailing lists that require administrator approval).
 
 1.  Decide on the order of the lessons and who your Instructors will be.
 2.  [Set up the workshop website using the Carpentries template)](https://github.com/carpentries/workshop-template#readme). When naming your workshop website repository, check that you are following the Carpentries slug format (YYYY-MM-DD-site).
-3.   Inform the Workshops and Instruction Team of your workshop by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Please include the workshop webpage when you submit the form. 
+3.   Inform the Workshops and Instruction Team of your workshop by submitting a {{ '[Self-Organised workshop form]({}/forms/workshop/)'.format(amy_link) }}. Please include the workshop webpage when you submit the form. 
 5.  Create a collaborative document for the workshop (e.g. an Etherpad).
 6.  Recruit Helpers to assist with your workshop.
 7.  Use The Carpentries community-created resource, [Toolkit of Ideas](https://zenodo.org/records/10391883), to ensure an accessible workshop for all. Accessibility tips start on page 22. 
 8.  Have a pre-workshop meeting with your instructional team to split up the material, share emergency contact information in case of last-minute changes, discuss accessibility tips, etc.
 10. Practice teaching the material.
 11. Ensure that all necessary equipment will be available for the workshop (outlets, projector screen, etc.).
-12. Join a [Workshop Debrief and Teaching Discussion](https://carpentries.org/community/events/) session to ask questions, voice concerns, and get advice about your upcoming workshop.
+12. {{"[Workshop Debrief and Teaching Discussion]({}/community/events)".format(carpentries_website)}} session to ask questions, voice concerns, and get advice about your upcoming workshop.
 
 [Self-Organised Workshops
 Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit)
@@ -202,8 +197,7 @@ are suggestions for ensuring the process goes as smoothly as possible.
 -   Will you have decent Wi-Fi? Many people installing software at
     once can hinder a poor internet connection. If this is the case, prep
     a few flash drives with the relevant installers.
--   Attend a [Community
-    Discussion](https://pad.carpentries.org/community-discussions),
+-   Attend a {{'[Community Discussion]({}/community-discussions)'.format(etherpad)}},
     where you can talk to other Instructors to ask questions and get
     feedback to help you prepare to teach.
 
@@ -226,8 +220,8 @@ If there is no way that you will be able to install the
 software locally on someone's computer, consider using the [following
 solutions](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds):
 
-Find solutions on our blog post, [Scaffolding Installation for Online
-Workshops](https://carpentries.org/blog/2020/04/scaffolds/)
+Find solutions on our blog post, {{"[Scaffolding Installation for Online
+Workshops]({}/blog/2020/04/scaffolds/)".format(carpentries_website)}}
 
 -   Pre-configured "scaffolds" for [RStudio
     Cloud](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#rstudio-cloud)
@@ -327,13 +321,13 @@ has some strategies when working with a diverse classroom.
 
 ## FAQ
 
-[List of frequently asked
-questions](https://carpentries.org/workshop_faq/) relevant to the
+{{"[List of frequently asked
+questions]({}/workshops_faq)".format(carpentries_website)}} relevant to the
 content in the handbook.
 
 ### Pre-workshop
 
--   **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
+-   **Why isn't my workshop listed on the {{"[The Carpentries website]({})".format(carpentries_website)}}?**
     -   There are three things that must happen in order for a workshop to
         appear on The Carpentries webpage. You must complete the
         {{'[Workshop Request Form]({}/forms/workshop/)'.format(amy_link)}}, the workshop website
@@ -392,8 +386,7 @@ content in the handbook.
         attendees whenever the time is right for your workshop.
 -   **How do I access the survey results?**
     -   If you are planning a workshop please notify the Workshop
-        Administration Team of your planned workshop using the [workshop
-        request form](https://amy.carpentries.org/forms/workshop/). The
+        Administration Team of your planned workshop using the {{'[workshop request form]({}/forms/workshop/)'.format(amy_link)}}. The
         Workshop Administration Team will send the link to view results
         of the survey one to two weeks prior to the workshop. If there are more
         than 10 survey responses, you will have the option to download
@@ -441,8 +434,8 @@ content in the handbook.
         are not paid for their service. To compensate for their time we
         require the Host to cover travel expenses. If you would like to
         support the instructors, you are encouraged to make a targeted
-        [donation](https://carpentries.org/donate/) to support
-        instructor development
+        {{"[donation]({}/donate/)".format(carpentries_website)}} to support
+        instructor development.
 -   **As an instructor, will I still get credit for a workshop if the
     host canceled?**
     -   If you are scheduled to teach a Carpentries workshop and the
@@ -462,8 +455,7 @@ content in the handbook.
 -   **Will I be provided with a Zoom room to teach my online workshop?**
     -   Zoom rooms are provided for Centrally-Organised workshops only. If
         you are interested in planning a Centrally-Organised workshop,
-        please visit the [Host a Workshop page on our website](https://carpentries.org/workshops/host-workshop/)
-        to learn more!
+        please visit the {{"[Host a Workshop page on our website]({}/workshops/host-workshop/)".format(carpentries_website)}} to learn more!
         
 -   **I have never taught an online workshop, where should I begin?**
     -   All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries-style workshops.
@@ -520,8 +512,7 @@ content in the handbook.
         for past workshops (August 2018 - present) to workshop
         instructors/organizers or instructors affiliated with the
         hosting organisation. To request survey results links, please
-        send an email to the [Workshop Administration
-        Team](mailto:workshops@carpentries.org) with your request and
+        send an email to the {{'[Workshops Team](mailto:{})'.format(workshops_email)}} with your request and
         include a link to the workshop website(s) and/or slug(s).
 -   **How many times a year do I have to teach to be eligible to vote?**
     -   Instructors are required to teach at least one time per year to
