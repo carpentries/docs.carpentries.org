@@ -158,24 +158,18 @@ the mailing lists that require administrator approval).
 
 ## Step-by-Step Guides
 
-### Planning & Organising a workshop
+### Planning a Self-Organised workshop
 
-1.  Decide on the order of the lessons and who will teach which modules.
-2.  Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
-4.  Create a collaborative document for the workshop (e.g. an Etherpad).
-5.  Assist the host in recruiting helpers if possible.
-6.  Assist the host in ensuring the workshop location is accessible.
-7.  Share emergency contact information with the host in case of last-minute changes.
-8.  Practice teaching the material.
-9.  Remind the host of the necessary equipment.
-10. Join a community discussion.
-11. Confirm criteria for reimbursement (per diem or save receipts).
-
-### Setting Up a Workshop Website
-
-For instructions on setting up a website for a workshop, please visit the
-[workshop template home
-page](https://github.com/carpentries/workshop-template#readme).
+1.  Decide on the order of the lessons and who your Instructors will be.
+2.  [Set up the workshop website using the Carpentries template)](https://github.com/carpentries/workshop-template#readme). When naming your workshop website repository, check that you are following the Carpentries slug format (YYYY-MM-DD-site).
+3.   Inform the Workshops and Instruction Team of your workshop by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Please include the workshop webpage when you submit the form. 
+5.  Create a collaborative document for the workshop (e.g. an Etherpad).
+6.  Recruit Helpers to assist with your workshop.
+7.  Use The Carpentries community-created resource, [Toolkit of Ideas](https://zenodo.org/records/10391883), to ensure an accessible workshop for all. Accessibility tips start on page 22. 
+8.  Have a pre-workshop meeting with your instructional team to split up the material, share emergency contact information in case of last-minute changes, discuss accessibility tips, etc.
+10. Practice teaching the material.
+11. Ensure that all necessary equipment will be available for the workshop (outlets, projector screen, etc.).
+12. Join a [Workshop Debrief and Teaching Discussion](https://carpentries.org/community/events/) session to ask questions, voice concerns, and get advice about your upcoming workshop.
 
 [Self-Organised Workshops
 Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit)
@@ -342,11 +336,10 @@ content in the handbook.
 -   **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
     -   There are three things that must happen in order for a workshop to
         appear on The Carpentries webpage. You must complete the
-        [Workshop Request Form](https://amy.carpentries.org/forms/self-organised/), the workshop website
+        {{'[Workshop Request Form]({}/forms/workshop/)'.format(amy_link)}}, the workshop website
         must include the venue, and at least one instructor must be
         identified. If the instructors change, we will get notified and
         will be able to make the update.
-        
 -   **If I am teaching a Data Carpentry Genomics workshop, how many AWS
     Instances will be provided and when will we receive the AWS
     Instances?**
@@ -366,7 +359,6 @@ content in the handbook.
         terminated the day after the workshop. The AWS Instances will be
         terminated the day after the workshop. Please submit your
         workshop request/notification form at least 21 days in advance.
-        
 -   **What is a slug? And how should I use it to name my workshop
     website?**
     -   A slug is a unique identifier used by The Carpentries to connect
@@ -383,7 +375,6 @@ content in the handbook.
         (online)
     -   This slug format is a part of a validation check in our system,
         including the dashes separating these variables.
-        
 -   **Does the instructor need to be listed as the contact person on the
     workshop webpage or a member of the host institution?**
     -   The contact person for the workshop webpage can be designated by
@@ -393,14 +384,12 @@ content in the handbook.
         persons listed as the contact person if needed. \*It is optional
         for a member of the host organisation to be listed on the
         workshop webpage.
-        
 -   **Where do I find the pre/post survey for the learners to use?**
     -   The learner facing survey links are automatically generated on
         the workshop's webpage. Generally, they will be located directly
         above and within the schedule. You are welcome to share the
         survey links (located on the workshop webpage) with your
         attendees whenever the time is right for your workshop.
-        
 -   **How do I access the survey results?**
     -   If you are planning a workshop please notify the Workshop
         Administration Team of your planned workshop using the [workshop
@@ -410,7 +399,6 @@ content in the handbook.
         than 10 survey responses, you will have the option to download
         the survey data, using the 'Download CSV' link at the bottom
         right of the survey results page.
-        
 -   **Who can be a Helper and what do they contribute to the workshop?**
     - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
@@ -436,107 +424,72 @@ content in the handbook.
         will be able to take the role of Experienced Instructor in any
         Carpentries workshop.
 
-### Self-Organised
-
-- **What is a Carpentries Self-Organised Workshop?**
-  -  A Carpentries workshop that is organised and administered independently of The Carpentries
-     Workshops and Instruction Team (WIT). A Self-Organised workshop should be submitted (using a
-     Self-Organised workshop form)[https://amy.carpentries.org/forms/self-organised/], and WIT
-     will enter it into The Carpentries database (AMY) and provide the following support:
-
-     * Survey result links
-     * AWS instances for Genomics workshops. *Fees apply. Please refer to the [Data Carpentry (Genomics) Terms of Agreement]() for additional information.*
-     * Advertisement of the workshop on the [Upcoming Carpentries Workshops](https://carpentries.org/upcoming_workshops/) page
-     * Credit in AMY for Instructors and Helpers teaching the workshop
-
-- **What are the requirements for a Self-Organised Workshop?**
-
-     - Teaches one or more lessons from any of the three lesson programs (Software, Data, Library Carpentry), also called Mix-and-Match
-     - Has at least one Carpentries certified Instructor teaching the workshop
-     - Uses a Carpentries webpage with a naming convention that follows the required slug format (found https://github.com/carpentries/workshop-template)
-     - [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment)
-     - Abides by [The Carpentries code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
- 
-- **What is not a Carpentries Self-Organised workshop (what will not be accepted)?**
- 
-  - A workshop that teaches material not from one of the three lesson programs (Software, Data, Library Carpentry). This includes workshops that teach Carpentries curricula in addition to non-Carpentries curricula.
-  - An incubator lesson (please submit incubator lessons on [The Carpentries Incubator page](https://carpentries-incubator.org/)
-  - A workshop that does not have a webpage created using the [Carpentries workshop template](https://github.com/carpentries/workshop-template) (if a webpage is submitted that does not follow the naming format, we will ask you to update it before we can enter it into our database)
-  - A workshop that does not have at least one Carpentries Certified Instructor teaching
-
-
-
 ### Centrally-Organised
 
--   **What is a Centrally-Organised workshop?**
-    * A Centrally-Organised workshop is an integrative approach to planning a Carpentries event,
-      where the host organisation collaborates with the Carpentries Workshops and Instruction Team
-      (WIT) to coordinate. WIT lists Centrally-Organised workshops on the AMY recruiting page for
-      Carpentries certified Instructors to teach.
-     *Please visit our [host a workshop page](https://carpentries.org/workshops/host-workshop/#host-a-workshop)
-      to learn more about Centrally-Organised workshops.*
-
 -   **How do I sign up to teach a Centrally-Organised Workshop?**
-    -  Once you have completed [Instructor training and the three checkout steps](https://carpentries.github.io/instructor-training/checkout.html),
-       you can [login to your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/) to view and sign up for Centrally-Organised workshops.
-    -  Follow step-by-step instructions on how to sign up in the
+    -  Once you have completed
+       [Instructor training and the three checkout steps](https://carpentries.github.io/instructor-training/checkout.html),
+       you can [login to your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/)
+       to view and sign up for Centrally-Organised workshops.
+       Follow step-by-step instructions on how to sign up in the
        [viewing teaching opportunities](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
        section of our AMY Community Users Guide.
-     
+
+
 -   **Are Instructors paid a stipend?**
-    -   Instructors selected to teach workshops are volunteers and
-        are not paid for their service. To compensate for Instructor time we
-        require the Host to cover travel expenses.
-        
+    -   The instructors selected to teach workshops are volunteers and
+        are not paid for their service. To compensate for their time we
+        require the Host to cover travel expenses. If you would like to
+        support the instructors, you are encouraged to make a targeted
+        [donation](https://carpentries.org/donate/) to support
+        instructor development
 -   **As an instructor, will I still get credit for a workshop if the
     host canceled?**
     -   If you are scheduled to teach a Carpentries workshop and the
         host cancels, you will still receive credit for the workshop. If
         a workshop is scheduled and you have to resign from teaching,
         you will not receive credit for the workshop.
-        
 -   **Will I be notified if a workshop is canceled or postponed?**
-    -   Someone from the Workshops and Instruction Team will notify Instructors as soon as a
+    -   A Workshop Administrator will notify Instructors as soon as a
         workshop has been canceled or postponed by the Host. Confirmed
         Instructors for the original workshop dates will be given
         priority selection when the new dates are confirmed.
 
+    
+
 #### Online workshop
 
 -   **Will I be provided with a Zoom room to teach my online workshop?**
-    -   If your institution has a videoconferencing platform available,
-        we recommend that you use that same platform for The Carpentries
-        workshop. This will reduce the time needed for workshop
-        organisers and learners to learn a new system. However, if you
-        do not have access to a video conferencing system, we will be
-        able to provide you with access to one of our Zoom rooms.
+    -   Zoom rooms are provided for Centrally-Organised workshops only. If
+        you are interested in planning a Centrally-Organised workshop,
+        please visit the [Host a Workshop page on our website](https://carpentries.org/workshops/host-workshop/)
+        to learn more!
         
 -   **I have never taught an online workshop, where should I begin?**
-    -   All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries styled workshops.
-    -   
+    -   All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries-style workshops.
+       
 -   **How do I indicate my workshop will be online in the workshop
     website template?**
-    -   We updated the [workshop website
-        template](https://github.com/carpentries/workshop-template) to
-        make it easier to indicate that a workshop will be taught
-        online.
+    -   When you are naming your website repository in GitHub, please indicate that
+        the workshop is online by adding -online to the end of your slug.
+        The [Customizing Your Website](https://github.com/carpentries/workshop-template?tab=readme-ov-file#customizing-your-website-required-steps)
+        section of the template has been updated with instructions
+        on how to indicate on the website that the workshop will be taught online. 
         
--   **How many instructors are needed to teach an online workshop?**
-    -   Teaching online is a challenge. We recommend a minimum of two
-        instructors and a maximum of four instructors with the
-        assistance of helpers. Please review the recommended
-        [instruction
-        roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles)
-        for a workshop.
+-   **How many Instructors are needed to teach an online workshop?**
+    -   Teaching online can be challenging. While we always recommend
+        having at least two Instructors, hosts of Self-Organized
+        workshops have the flexibility to include as many instructors as they
+        choose. Ideally, for an online workshop, you would have three
+        to four Instructors.
 
 #### In-person workshop
 
--   **Do Instructors pay for travel?** 
+-   **Do Instructors pay for travel?**
     -   As a volunteer Instructor who is not paid for their time
         teaching, we ask the host to cover travel and accommodation
         costs. We recommend that the host budgets approximately \$1500
         per Instructor for all travel expenses.
-        
 -   **What if I am no longer comfortable teaching an in-person workshop
     after the travel has been purchased?**
     -   We encourage the purchase of insurance where possible. This will
@@ -547,14 +500,12 @@ content in the handbook.
     -   We would ask that the Instructor teaches virtually if they are
         no longer comfortable teaching in-person. Learners will
         participate either fully online or fully in-person
-        
 -   **What if the in-person event policy changes before the workshop
     takes place?**
     -   We understand that policies change regularly and sometimes
         unexpectedly. We ask that the host provide any changes
         immediately to all involved parties so that the coordination can
         align with those changes.
-        
 -   **What are The Carpentries' in-person event procedures for in-person
     workshops?**
     -   We will follow the in-person event guidelines of the host
@@ -572,13 +523,11 @@ content in the handbook.
         send an email to the [Workshop Administration
         Team](mailto:workshops@carpentries.org) with your request and
         include a link to the workshop website(s) and/or slug(s).
-        
 -   **How many times a year do I have to teach to be eligible to vote?**
     -   Instructors are required to teach at least one time per year to
         be eligible for voting. Please find our
         {{"[Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}
         for more information.
-        
 -   **What happens if I need to make changes to my workshop website?**
     -   Please feel free to make changes to your website. You do not
         need to let us know, these changes are updated manually each
