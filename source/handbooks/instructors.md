@@ -158,24 +158,18 @@ the mailing lists that require administrator approval).
 
 ## Step-by-Step Guides
 
-### Planning & Organising a workshop
+### Planning a Self-Organised workshop
 
-1.  Decide on the order of the lessons and who will teach which modules.
-2.  Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
-4.  Create a collaborative document for the workshop (e.g. an Etherpad).
-5.  Assist the host in recruiting helpers if possible.
-6.  Assist the host in ensuring the workshop location is accessible.
-7.  Share emergency contact information with the host in case of last-minute changes.
-8.  Practice teaching the material.
-9.  Remind the host of the necessary equipment.
-10. Join a community discussion.
-11. Confirm criteria for reimbursement (per diem or save receipts).
-
-### Setting Up a Workshop Website
-
-For instructions on setting up a website for a workshop, please visit the
-[workshop template home
-page](https://github.com/carpentries/workshop-template#readme).
+1.  Decide on the order of the lessons and who your Instructors will be.
+2.  [Set up the workshop website using the Carpentries template)](https://github.com/carpentries/workshop-template#readme). When naming your workshop website repository, check that you are following the Carpentries slug format (YYYY-MM-DD-site).
+3.   Inform the Workshops and Instruction Team of your workshop by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Please include the workshop webpage when you submit the form. 
+5.  Create a collaborative document for the workshop (e.g. an Etherpad).
+6.  Recruit Helpers to assist with your workshop.
+7.  Use The Carpentries community-created resource, [Toolkit of Ideas](https://zenodo.org/records/10391883), to ensure an accessible workshop for all. Accessibility tips start on page 22. 
+8.  Have a pre-workshop meeting with your instructional team to split up the material, share emergency contact information in case of last-minute changes, discuss accessibility tips, etc.
+10. Practice teaching the material.
+11. Ensure that all necessary equipment will be available for the workshop (outlets, projector screen, etc.).
+12. Join a [Workshop Debrief and Teaching Discussion](https://carpentries.org/community/events/) session to ask questions, voice concerns, and get advice about your upcoming workshop.
 
 [Self-Organised Workshops
 Checklist](https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit)
