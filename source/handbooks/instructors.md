@@ -567,13 +567,9 @@ content in the handbook.
 ### General
 
 -   **How do I get survey data/links for previous workshops?**
-    -   The Workshop Administration Team can provide survey result links
-        for past workshops (August 2018 - present) to workshop
-        instructors/organizers or instructors affiliated with the
-        hosting organisation. To request survey results links, please
-        send an email to the [Workshop Administration
-        Team](mailto:workshops@carpentries.org) with your request and
-        include a link to the workshop website(s) and/or slug(s).
+    -   To request survey results links (August 2018 - present),
+        please send an email to the Workshops and Instruction Team (workshops@carpentries.org)
+        with your request and include a link to the workshop website(s) and/or slug(s).
         
 -   **How many times a year do I have to teach to be eligible to vote?**
     -   Instructors are required to teach at least one time per year to
