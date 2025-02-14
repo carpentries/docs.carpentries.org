@@ -29,7 +29,7 @@ Follow these steps after your fork has been created.
 
 1. Clone it to your local system.
 2. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
-3. Fetch the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`)
+3. Fetch the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`).
 4. Switch to it (`git switch <their-branch-name>`, e.g. `git switch 123-better-captions`).
 
 Once you are working on this branch, you can edit the lesson and commit your changes as usual. 

@@ -332,9 +332,9 @@ If you notice that another community member said they would like to work on an i
 #### Message Templates for Maintainers
 **You do not have to use these templates** but they are provided as suggested language for communicating with contributors to your lesson repository. The important things when communicating with contributors about unfinished contributions are:
 
-* express gratitude for their engagement and contributions so far
-* be clear about the action that they and other would-be contributors should take
-* invite them to respond
+* Express gratitude for their engagement and contributions so far.
+* Be clear about the action that they and other would-be contributors should take.
+* Invite them to respond.
 
 ##### Inviting other contributors to complete an open pull request
 Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
