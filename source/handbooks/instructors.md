@@ -515,12 +515,15 @@ content in the handbook.
 ### General
 
 -   **How do I get survey data/links for previous workshops?**
+
     -   The Workshop Administration Team can provide survey result links
         for past workshops (August 2018 - present) to workshop
         instructors/organizers or instructors affiliated with the
         hosting organisation. To request survey results links, please
-        send an email to the {{'[Workshops Team](mailto:{})'.format(workshops_email)}} with your request and
+        send an email to the {{'[Workshops Team](mailto:{})'.format(workshops_email)}} 
+        with your request and
         include a link to the workshop website(s) and/or slug(s).
+
 -   **How many times a year do I have to teach to be eligible to vote?**
     -   Instructors are required to teach at least one time per year to
         be eligible for voting. Please find our
