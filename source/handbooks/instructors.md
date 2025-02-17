@@ -337,27 +337,16 @@ content in the handbook.
 -   **If I am teaching a Data Carpentry Genomics workshop, how many AWS
     Instances will be provided and when will we receive the AWS
     Instances?**
-    -   A member of the Workshop Administration Team will contact the
-        hosts/instructors approximately two to three weeks prior to the workshop
-        to find out how many instances are needed. You will be asked to
-        provide the total number of instructors, helpers and learners.
-        Approximately 1 week, prior to the workshop, the Workshop
-        Administration Team will provide you with test instances for
-        each instructor and helper for testing/practice. Approximately 3
-        days before the workshop, you will be asked for your final
-        attendance so we can send you the AWS instances for the
-        workshop. On the day prior to the workshop, the Workshop
-        Administration Team will provide you with instances for each
-        instructor, helper and attendee for the workshop. We will also
-        send a few extras for backup. The AWS Instances will be
-        terminated the day after the workshop. The AWS Instances will be
-        terminated the day after the workshop. Please submit your
-        workshop request/notification form at least 21 days in advance.
+    -   Please review our [Data Carpentry (Genomics) Terms of Agreement](/resources/workshops/genomics_policy.md) for information about organising
+        a Genomics workshop with the Carpentries, including processing time, number of instances available,
+        and costs associated with the workshop. 
 -   **What is a slug? And how should I use it to name my workshop
     website?**
-    -   A slug is a unique identifier used by The Carpentries to connect
-        a workshop with an organisation. Each workshop will have its own
-        slug. The slug should use the following format
+    -   A slug is a unique identifier used to name the GitHub repository when creating
+        your Carpentries workshop website.
+        The slug is used by The Carpentries to identify your workshop in 
+        our database and workflows. Each workshop will have its own unique
+        slug. The slug should use the following format:
         YEAR-MM-DD-SITE-(online)
     -   YEAR being replaced by the four-digit year (2020)
     -   MM being replaced by the two-digit month (03)
@@ -371,22 +360,20 @@ content in the handbook.
         including the dashes separating these variables.
 -   **Does the instructor need to be listed as the contact person on the
     workshop webpage or a member of the host institution?**
-    -   The contact person for the workshop webpage can be designated by
-        the workshop organiser. The person listed should be able to
-        answer questions regarding the workshop, ie attendance policy,
-        waitlist, location, installation, etc. You can have multiple
-        persons listed as the contact person if needed. \*It is optional
-        for a member of the host organisation to be listed on the
-        workshop webpage.
+    -   The person listed should be knowledgeable about the workshop so they
+        can answer questions regarding the workshop such as attendance policy,
+        waitlist information, location, installation, etc. You can have multiple
+        persons listed as the contact person if needed.
 -   **Where do I find the pre/post survey for the learners to use?**
-    -   The learner facing survey links are automatically generated on
-        the workshop's webpage. Generally, they will be located directly
+    -   The learner-facing survey links are automatically generated on
+        the workshop's webpage. They will be located directly
         above and within the schedule. You are welcome to share the
         survey links (located on the workshop webpage) with your
         attendees whenever the time is right for your workshop.
 -   **How do I access the survey results?**
     -   If you are planning a workshop please notify the Workshop
-        Administration Team of your planned workshop using the {{'[workshop request form]({}/forms/workshop/)'.format(amy_link)}}. The
+        Administration Team of your planned workshop using the 
+        {{'[workshop request form]({}/forms/workshop/)'.format(amy_link)}}. The
         Workshop Administration Team will send the link to view results
         of the survey one to two weeks prior to the workshop. If there are more
         than 10 survey responses, you will have the option to download
