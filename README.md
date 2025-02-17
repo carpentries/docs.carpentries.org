@@ -60,10 +60,6 @@ After setting the theme, the additional following changes were needed to `conf.p
 * To use headers as anchor links, add `myst_heading_anchors = 6`
 * To suppress warnings about duplicate headers across documents, add `suppress_warnings = ['autosectionlabel.*']`
 
-## Previews on Netlify
-
-This site is set up to preview all pull requests via [Netlify](https://handbook-preview.netlify.app/). Note Netlify login is required to setup and manage Netlify.  All PRs will offer a public Netlify preview link.
-
 ## Useful links
 
 * [Pydata Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
