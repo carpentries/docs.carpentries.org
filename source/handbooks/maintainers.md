@@ -241,7 +241,7 @@ The table below describes the steps we recommend that you take if you have tagge
 ![Table recommending action a Maintainer should take if they have requested input from their fellow Maintainers on a pull request, but received no response after waiting some time. Not urgent, not complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, not complex: merge now. Not urgent, complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, complex: tag the Maintainer Community Lead or Curriculum Team.](../img/when-to-merge.svg)
 
 * What is urgent? In general, you can consider the change urgent if the current version of the relevant content in the lesson is incorrect or broken in some way. 
-  Urgent changes might be time-sensitive (e.g. a language feature is being deprecated) or would provide a significant improvement to the accessibiility of the lesson content (e.g. adding of improving alternative text on an image). 
+  Urgent changes might be time-sensitive (e.g. a language feature is being deprecated) or would provide a significant improvement to the accessibility of the lesson content (e.g. adding or improving alternative text on an image). 
 * What is complex? Here, we refer to changes as complex if they contain anything that you could reasonably expect somebody to disagree with or want to word differently.
   Non-complex changes might be typo fixes, updates to the output of an example code block, or a new version of a screenshot used in the lesson.
 
@@ -294,5 +294,84 @@ members can apply to join this training, and/or follow the curriculum in
 their own time.
 
 
+## FAQ
+
+### When and how should I take over somebody's unfinished contribution?
+It is common in open source projects for community members to start work on something but run out of time or get distracted before they finish.
+One result can be open but incomplete pull requests, e.g. marked as a draft, or with reviewer comments/suggested changes left unaddressed. 
+Another is issue threads that somebody has responded to, indicating that they plan to fix it, but that no pull request has appeared from them since.
+
+Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other would-be contributors from working on an issue or creating an equivalent pull request. 
+Similarly, not wanting to "step on the toes" of their contributors, Maintainers are often unsure about or unwilling to "take over" an unfinished pull request e.g. by unilaterally making the changes that are required themselves before merging.
+The recommendations below are designed to address these issues, establishing a set of "social norms" for The Carpentries community that allow for progress to be made on our repositories while reflecting our [core values][values] -- especially that we _value all contributions_.
+
+#### Situation 1: a pull request exists but is incomplete
+
+##### For Maintainers
+If a pull request has been opened but is not ready to be merged, and the original contributor has not responded to a message tagging them and asking for an update for at least three weeks, nor pushed any changes to the branch, Maintainers are encouraged to take any of the following actions:
+
+1. If only minor changes are pending (and you have the ability to edit the contributor's branch), commit the changes yourself, [adding the person who opened the PR as a co-author][commit-coauthors], and merge the pull request.
+2. If larger changes are required, [comment on the pull request to invite others](#inviting-other-contributors-to-complete-an-open-pull-request) to pick up where the original contributor left off (linking to [instructions for how to most effectively copy and build on the original contributors' branch][setup-unfinished-branch]). Add the `help wanted` label to the pull request.
+3. If you judge that too much still needs to be done on the pull request for anybody to be able to pick it up and finish the task (or it has become too outdated), close the pull request with [a comment inviting the original contributor to reopen](#closing-a-stale-pull-request) if they wish to keep working on it. If the issue being addressed had previously been labelled `status: in progress`, remove that label and add `help wanted` instead.
+
+##### For Contributors
+If a pull request has been opened but is not ready to be merged, and the original contributor has not responded or pushed any changes for at least three weeks, any community member who wants to contribute to completing the necessary changes is encouraged to take the following actions:
+
+1. First, post to the existing pull request, tagging the original author and the lesson Maintainers, to let everyone know that you would like to help get the pull request ready to merge. (Maintainers can be contacted as a team by tagging `@lesson-program/lesson-name-maintainers` e.g. `@datacarpentry/R-ecology-lesson-maintainers`.) Ask the original contributer if they are still working on the pull request, and if they would like help.
+2. If you have received no response from the original contributor after a few days, fork their repository, including all branches, or fetch their branch to your local clone of the lesson repository and make additional commits to the branch that they were working on. ([More detailed instructions for building on top of another person's branch][setup-unfinished-branch].) This will ensure that the work they have already done is included in the history of your changes. If you think it is appropriate, you can also [add them as a coauthor][commit-coauthors] on any new commits that you make.
+3. Alternatively, you can also start from scratch in a completely new branch created from `main`. If you choose to do that, make sure that you tell the Maintainers so that they can close the original pull request. Also consider adding the author of the original (now closed) pull request as [a co-author][commit-coauthors] on the commits you make, in case the unfinished changes they made provided inspiration for your own.
+
+#### Situation 2: somebody said they will work on an issue but no PR has appeared
+
+##### For Maintainers
+If the original comment was made more than three weeks ago, and the contributor has not responded to [a message tagging them to ask if they are still planning to prepare a PR](#asking-for-an-update-on-an-issue), Maintainers are encouraged to comment inviting others to work on a fix, and remove the `status:in progress` label if it was previously added. Add the `help wanted` label instead. 
+
+##### For Contributors
+If you notice that another community member said they would like to work on an issue and you cannot find an associated pull request from them, post to the issue thread, tagging that community member, to ask if they are still working on it and whether they would like any help. If you receive no response within three weeks, or a Maintainer had previously asked them for an update and has received no response for a similar period of time, reply to let everyone know that you will begin working on it and prepare a pull request as usual.
+
+#### Message Templates for Maintainers
+**You do not have to use these templates** but they are provided as suggested language for communicating with contributors to your lesson repository. The important things when communicating with contributors about unfinished contributions are:
+
+* Express gratitude for their engagement and contributions so far.
+* Be clear about the action that they and other would-be contributors should take.
+* Invite them to respond.
+
+##### Inviting other contributors to complete an open pull request
+Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+
+```markdown
+It would be good to have these changes included in the lesson soon. Thank you @USERNAME for your contributions so far. 
+Since progress has been stalled for a while, I invite any other community members reading this to take on the task of making the remaining changes needed for this to be merged. 
+When doing so, please [build on top of the work already done by @USERNAME](https://docs.carpentries.org/resources/curriculum/fetch-existing-branch.html) so that their contributions are included in the commit history. 
+Feel free to post here if you have any questions about what remains to be done before the branch can be merged.
+
+@USERNAME if you would like to keep working on the pull request, please post here to let us know and tell us if there is anything we can do to help.
+```
+
+##### Closing a stale pull request
+Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+
+```markdown
+Thank you @USERNAME for your contributions so far. 
+Since progress has been stalled for a while and it could be difficult for another community member to pick up on the work already done here, I will close this pull request now. 
+
+@USERNAME if you would like to continue working on these changes, please reopen the pull request and I will be happy to help you.
+```
+
+##### Asking for an update on an issue
+Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+
+```markdown
+@USERNAME it has been a while since we heard from you and I have not seen a pull request to address this issue yet.
+It would be good to have this issue resolved and I know that it often takes some time to make changes to a lesson. 
+Can you provide an update on your progress? Is there anything the Maintainers can do to help you with your pull request?
+
+If your circumstances or capacity have changed, and you are no longer able to help with this issue, that is okay too. Please let us know here, so that we can help you and/or other members of the community can start working on the issue.
+```
+
+
+[commit-coauthors]: https://github.blog/2018-01-29-commit-together-with-co-authors/
+[setup-unfinished-branch]: ../resources/curriculum/fetch-existing-branch.md
+[values]: https://carpentries.org/about-us/#our-values
 
 
