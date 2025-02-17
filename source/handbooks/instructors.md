@@ -337,7 +337,7 @@ content in the handbook.
 -   **If I am teaching a Data Carpentry Genomics workshop, how many AWS
     Instances will be provided and when will we receive the AWS
     Instances?**
-    -   Please review our [Data Carpentry (Genomics) Terms of Agreement](/resources/workshops/genomics_policy.html) for information about organising
+    -   Please review our [Data Carpentry (Genomics) Terms of Agreement](/resources/workshops/genomics_policy.md) for information about organising
         a Genomics workshop with the Carpentries, including processing time, number of instances available,
         and costs associated with the workshop. 
 -   **What is a slug? And how should I use it to name my workshop
