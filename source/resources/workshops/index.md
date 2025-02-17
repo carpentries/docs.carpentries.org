@@ -10,5 +10,7 @@
 
 [AMY Community Users Guide](https://carpentries.github.io/amy/users_guide/community_index/): Information for accessing your AMY profile
 
+[Genomics Workshops Terms of Agreement](genomics_policy.md): Policy about setting up AWS instances for Data Carpentry Genomics workshops
+
 For more resources, please visit the Additional Resources section of the [Instructor Tip Sheet](/resources/general/tip-sheets.md)
 
