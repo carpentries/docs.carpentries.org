@@ -386,25 +386,18 @@ content in the handbook.
 
 -   **If I am only teaching portions of the Carpentries curricula, do I
     still need to register my workshop?**
-    -   Please register your workshop using a [Self-Organised submission
-        form](https://amy.carpentries.org/forms/self-organised/) if you
-        plan to teach [the full curriculum of a lesson program](https://carpentries.org/lessons/curriculum-summary/)
-        (Data, Software, Library), a portion of a lesson program, or a
-        mix of our official lessons.
-
-    -   If you are teaching a workshop that includes material that is not
-        part of the Carpentries' official lessons, you should not register
-        your workshop. Please do mention in your advertising and your workshop
-        that you are using material derived from The Carpentries and share a
-        link to the curricula on [The Carpentries website](https://carpentries.org/).
-
-    -  You can learn more about our guidelines and requirements for Self-Organised workshops
-       in the [Self-Organised section of this FAQ]().
-
--   **When will I be considered an Experienced Instructor?**
-    -   Ater being an Instructor for three Carpentries workshops you
-        will be able to take the role of Experienced Instructor in any
-        Carpentries workshop.
+    -   It is important that we know about workshops being publicised
+        because people often contact us to report that they will be
+        unable to attend a workshop or to ask questions and if we do not
+        know about planned workshops we can not provide support or share
+        information with instructors.
+    -   If you are teaching only a portion of The Carpentries curricula or
+        if the workshop does not align with the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program, we
+        ask that you still {{'[register]({}/forms/workshop/)'.format(amy_link)}} your self-organised workshop and
+        select the "Mix & Match" option for the question "Which
+        Carpentries workshop are you teaching?". **This option is only
+        available for Self-Organised workshops. Centrally-organised
+        workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
 
 ### Centrally-Organised
 
@@ -417,7 +410,12 @@ content in the handbook.
        [viewing teaching opportunities](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
        section of our AMY Community Users Guide.
 
-
+-   **When will I be considered an Experienced Instructor?**
+    -   Experienced Instructors are Instructors who have taught
+        three workshops or more. When you are teaching Centrally-Organised workshops,
+        you will be paired with an experienced Instructor until you have taught at
+        least three workshops. 
+     
 -   **Are Instructors paid a stipend?**
     -   The instructors selected to teach workshops are volunteers and
         are not paid for their service. To compensate for their time we
