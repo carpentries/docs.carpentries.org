@@ -346,23 +346,15 @@ content in the handbook.
 -   **If I am teaching a Data Carpentry Genomics workshop, how many AWS
     Instances will be provided and when will we receive the AWS
     Instances?**
-    -   A member of the Workshop Administration Team will contact the
-        hosts/instructors approximately two to three weeks prior to the workshop
-        to find out how many instances are needed. You will be asked to
-        provide the total number of instructors, helpers and learners.
-        Approximately 1 week, prior to the workshop, the Workshop
-        Administration Team will provide you with test instances for
-        each instructor and helper for testing/practice. Approximately 3
-        days before the workshop, you will be asked for your final
-        attendance so we can send you the AWS instances for the
-        workshop. On the day prior to the workshop, the Workshop
-        Administration Team will provide you with instances for each
-        instructor, helper and attendee for the workshop. We will also
-        send a few extras for backup. The AWS Instances will be
-        terminated the day after the workshop. The AWS Instances will be
-        terminated the day after the workshop. Please submit your
-        workshop request/notification form at least 21 days in advance.
-        
+    -   Approximately one week before the workshop, the Workshops
+        and Instruction Team (WIT) will provide you with instances for
+        each Instructor and helper for testing and practice. On the day before
+        the workshop, WIT will provide you with the remaining instances. All AWS Instances
+        will be terminated the day after the workshop.
+
+        The number of instances recieved are dependant upon the number requested by the host,
+        per the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.html).
+       
 -   **What is a slug? And how should I use it to name my workshop
     website?**
     -   A slug is a unique identifier used by The Carpentries to connect
