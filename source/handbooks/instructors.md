@@ -158,7 +158,7 @@ the mailing lists that require administrator approval).
 
 1.  Decide on the order of the lessons and who will teach which modules.
 2.  Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). *Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email*
-4.  Create a collaborative document for the workshop (e.g. an Etherpad).
+4.  Create a collaborative document for the workshop (e.g. an Etherpad).
 5.  Assist the host in recruiting helpers if possible.
 6.  Assist the host in ensuring the workshop location is accessible.
 7.  Share emergency contact information with the host in case of last-minute changes.
@@ -357,9 +357,11 @@ content in the handbook.
        
 -   **What is a slug? And how should I use it to name my workshop
     website?**
-    -   A slug is a unique identifier used by The Carpentries to connect
-        a workshop with an organisation. Each workshop will have its own
-        slug. The slug should use the following format
+    -   A slug is a unique identifier used to name the GitHub repository when creating
+        your Carpentries workshop website.
+        The slug is used by The Carpentries to identify your workshop in 
+        our database and workflows. Each workshop will have its own unique
+        slug. The slug should use the following format:
         YEAR-MM-DD-SITE-(online)
     -   YEAR being replaced by the four-digit year (2020)
     -   MM being replaced by the two-digit month (03)
@@ -374,17 +376,14 @@ content in the handbook.
         
 -   **Does the instructor need to be listed as the contact person on the
     workshop webpage or a member of the host institution?**
-    -   The contact person for the workshop webpage can be designated by
-        the workshop organiser. The person listed should be able to
-        answer questions regarding the workshop, ie attendance policy,
-        waitlist, location, installation, etc. You can have multiple
-        persons listed as the contact person if needed. \*It is optional
-        for a member of the host organisation to be listed on the
-        workshop webpage.
+    -   The person listed should be knowledgeable about the workshop so they
+        can answer questions regarding the workshop such as attendance policy,
+        waitlist information, location, installation, etc. You can have multiple
+        persons listed as the contact person if needed.
         
 -   **Where do I find the pre/post survey for the learners to use?**
-    -   The learner facing survey links are automatically generated on
-        the workshop's webpage. Generally, they will be located directly
+    -   The learner-facing survey links are automatically generated on
+        the workshop's webpage. They will be located directly
         above and within the schedule. You are welcome to share the
         survey links (located on the workshop webpage) with your
         attendees whenever the time is right for your workshop.
@@ -419,11 +418,6 @@ content in the handbook.
         available for Self-Organised workshops. Centrally-organised
         workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
 
--   **When will I be considered an Experienced Instructor?**
-    -   Ater being an Instructor for three Carpentries workshops you
-        will be able to take the role of Experienced Instructor in any
-        Carpentries workshop.
-
 ### Self-Organised
 
 - **What is a Carpentries Self-Organised Workshop?**
@@ -433,7 +427,7 @@ content in the handbook.
      will enter it into The Carpentries database (AMY) and provide the following support:
 
      * Survey result links
-     * AWS instances for Genomics workshops. *Fees apply. Please refer to the [Data Carpentry (Genomics) Terms of Agreement]() for additional information.*
+     * AWS instances for Genomics workshops. *Fees apply. Please refer to the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.md) for additional information.*
      * Advertisement of the workshop on the [Upcoming Carpentries Workshops](https://carpentries.org/upcoming_workshops/) page
      * Credit in AMY for Instructors and Helpers teaching the workshop
 
@@ -442,7 +436,9 @@ content in the handbook.
      - Teaches one or more lessons from any of the three lesson programs (Software, Data, Library Carpentry), also called Mix-and-Match
      - Has at least one Carpentries certified Instructor teaching the workshop
      - Uses a Carpentries webpage with a naming convention that follows the required slug format (found https://github.com/carpentries/workshop-template)
+
      - [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment)
+
      - Abides by the {{'[Code of Conduct]({})'.format(code_of_conduct)}}
  
 - **What is not a Carpentries Self-Organised workshop (what will not be accepted)?**
@@ -470,14 +466,18 @@ content in the handbook.
     -  Follow step-by-step instructions on how to sign up in the
        [viewing teaching opportunities](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
        section of our AMY Community Users Guide.
-     
+
+-   **When will I be considered an Experienced Instructor?**
+    -   Ater being an Instructor for three Carpentries workshops you
+        will be able to take the role of Experienced Instructor in any
+        Carpentries workshop.
+
 -   **Are Instructors paid a stipend?**
     -   Instructors selected to teach workshops are volunteers and
         are not paid for their service. To compensate for Instructor time we
         require the Host to cover travel expenses.
         
--   **As an instructor, will I still get credit for a workshop if the
-    host canceled?**
+-   **As an instructor, will I still get credit for a workshop if the host canceled?**
     -   If you are scheduled to teach a Carpentries workshop and the
         host cancels, you will still receive credit for the workshop. If
         a workshop is scheduled and you have to resign from teaching,
@@ -522,8 +522,12 @@ content in the handbook.
 -   **Do Instructors pay for travel?** 
     -   As a volunteer Instructor who is not paid for their time
         teaching, we ask the host to cover travel and accommodation
-        costs. We recommend that the host budgets approximately \$1500
-        per Instructor for all travel expenses.
+        costs either directly or through their organisation's reimbursement
+        process. We recommend that the host budget approximately \$1500
+        per Instructor for all travel expenses. Once all Instructors are
+        confirmed and have been connected with the host, you will work with the
+        host to plan travel and accommodations. The Carpentries is not involved
+        in this part of the planning process
         
 -   **What if I am no longer comfortable teaching an in-person workshop
     after the travel has been purchased?**
