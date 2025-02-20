@@ -43,12 +43,14 @@ Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are i
 
 Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are then called in `html_theme_options` in `conf.py`.
 
-## Building the handbook
+## Building the handbook locally
 
 The handbook is built using Sphinx and the `pydata_sphinx_theme`.
 
 * `make clean` Removes all files in the `build` directory
-* `make html` Builds the site and publishes html content to the build directory
+* `make html` Builds the site and publishes html content to the build directory. Run a Python server with `python -m http.server -d build/html/` to preview the site. The site will need to be re-built with each change.
+
+Alternatively, use `sphinx-autobuild` to rebuild the site and reload the browser anytime changes are made with `sphinx-autobuild source/ build/html/`
 
 ## Changes to `conf.py`
 
