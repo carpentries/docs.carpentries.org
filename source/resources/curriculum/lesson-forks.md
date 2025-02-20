@@ -34,7 +34,7 @@ Check the _Use your GitHub Pages website_ box, to display the URL of the lesson 
 
 
 ## Configure Maintenance Workflows
-When configured appropriately, the two maintenance workflows, , can create pull requests on your repository to keep the lesson infrastructure and (if your lesson uses R Markdown source files) the packages used in the lesson up to date as new versions are released. 
+When configured appropriately, the two maintenance workflows, `02 Maintain: Update Workflow Files ` and `03 Maintain: Update Package Cache`, can create pull requests on your repository to keep the lesson infrastructure and (if your lesson uses R Markdown source files) the packages used in the lesson up to date as new versions are released. 
 For this to work, you need to create an access token that will allow the workflows to open pull requests on your behalf.
 
 1. Open <https://github.com/settings/tokens/new> and enter the name `Sandpaper Token (<your github repository name>)` for your token, e.g. `Sandpaper Token (carpentries/lesson-development-training)`
