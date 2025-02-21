@@ -422,8 +422,8 @@ content in the handbook.
 
 - **What is a Carpentries Self-Organised Workshop?**
   -  A Carpentries workshop that is organised and administered independently of The Carpentries
-     Workshops and Instruction Team (WIT). A Self-Organised workshop should be submitted (using a
-     Self-Organised workshop form)[https://amy.carpentries.org/forms/self-organised/], and WIT
+     Workshops and Instruction Team (WIT). A Self-Organised workshop should be submitted [using a
+     Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/), and WIT
      will enter it into The Carpentries database (AMY) and provide the following support:
 
      * Survey result links
@@ -435,7 +435,7 @@ content in the handbook.
 
      - Teaches one or more lessons from any of the three lesson programs (Software, Data, Library Carpentry), also called Mix-and-Match
      - Has at least one Carpentries certified Instructor teaching the workshop
-     - Uses a Carpentries webpage with a naming convention that follows the required slug format (found https://github.com/carpentries/workshop-template)
+     - Uses a Carpentries webpage with a naming convention that follows the required slug format (found on the [Carpentries workshop template](https://github.com/carpentries/workshop-template))
 
      - [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment)
 
@@ -444,7 +444,7 @@ content in the handbook.
 - **What is not a Carpentries Self-Organised workshop (what will not be accepted)?**
  
   - A workshop that teaches material not from one of the three lesson programs (Software, Data, Library Carpentry). This includes workshops that teach Carpentries curricula in addition to non-Carpentries curricula.
-  - An incubator lesson (please submit incubator lessons on [The Carpentries Incubator page](https://carpentries-incubator.org/)
+  - An incubator lesson (please submit incubator lessons on [The Carpentries Incubator page](https://carpentries-incubator.org/))
   - A workshop that does not have a webpage created using the [Carpentries workshop template](https://github.com/carpentries/workshop-template) (if a webpage is submitted that does not follow the naming format, we will ask you to update it before we can enter it into our database)
   - A workshop that does not have at least one Carpentries Certified Instructor teaching
 
