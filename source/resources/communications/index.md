@@ -11,6 +11,7 @@
 * [Mailing lists (Topicbox)](slack-and-email.md#topicbox)
 * [Zoom](zoom_rooms.md)
 * [Mastodon](https://hachyderm.io/@thecarpentries)
+* [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
 * [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
 * [Blog](https://carpentries.org/blog/)
 * [Newletter](https://carpentries.org/about-us/newsletter/)
