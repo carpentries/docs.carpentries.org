@@ -26,7 +26,7 @@ Your use of Amazon Web Services (AWS) instances provided by The Carpentries for 
 2. The invoice for your workshop will be issued through CxORE LLC, a partner organisation that provides The Carpentries’ back-office support.  
 3. Invoices for Self-Organised workshops must be paid in full at least two weeks before the start of the workshop. Invoices not paid at least two weeks before the start of the workshop will be voided and AWS instances will not be provided.  
 4. Centrally-Organised workshops will have a single invoice for both the AWS instances and the administrative fee. To stay in accordance with invoicing for Centrally-Organised workshops, 50% of the Fee shall be due upon execution of the [Workshop Agreement](https://docs.google.com/document/d/1j514V4lAB2EefNPTrELHQdIQRlfb2fIW26tTdLcZ-mc/edit?tab=t.0), and shall be non-refundable. The remaining 50% of the Fee shall be due and payable to The Carpentries upon completion of the Services.  
-5. Payment can be made using credit card, check, or wire transfer.
+5. Payment can be made using check or wire transfer.
 
 ## Service
 
