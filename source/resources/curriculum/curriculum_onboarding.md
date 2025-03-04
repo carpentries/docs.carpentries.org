@@ -24,7 +24,7 @@
             - to make it easier to identify the breaks between takes when editing the video, hold an object (e.g. a piece of paper) in front of the camera briefly between each repeat.
     - Although not required, you could present the onboarding in a community discussion-type event and record that meeting (with participants' permission).
     - A curriculum onboarding presentation should be no more than 45 minutes long.
-5. Share the recording, a link to the slides, and a copy of the script (if you have one) with The Carpentries Curriculum Team (curriculum@carpentries.org), who will edit it and publish in the [Curriculum Onboarding Videos playlist](https://www.youtube.com/watch?v=gfaNFaKIOrY&list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) on our YouTube channel.
+5. Share the recording, a link to the slides, and a copy of the script (if you have one) with The Carpentries Curriculum Team (curriculum@carpentries.org), who will edit it and publish in the [Curriculum Onboarding Videos playlist](https://www.youtube.com/playlist?list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) on our YouTube channel.
 
 ## For Core Team
 
