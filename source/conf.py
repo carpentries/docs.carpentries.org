@@ -39,13 +39,15 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.extlinks',
     'sphinx_design',
-    'notfound.extension'
+    'notfound.extension',
 ]
 
 notfound_urls_prefix = ""
 
 myst_enable_extensions = ["colon_fence",
-                          "substitution"]
+                          "substitution",
+                          "deflist",
+                          "attrs_block",]
 
 # Needed to use headings as anchor links
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#auto-generated-header-anchors
