@@ -2,7 +2,7 @@
 
 This guide aims to provide a standard reference point when questions arise about style for The Carpentries - how we would prefer people to reference us, how best to render dates and times for a global community, when to use what capitalisation, and other questions of style.
 
-We will adhere to a similar style  on our website and in other material we make widely available such as blog posts. Lesson contributors and maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
+We will adhere to a similar style  on our website and in other material we make widely available such as blog posts. Lesson contributors and Maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
 
 Please note, as outlined in [section C](#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
@@ -170,7 +170,7 @@ include full stops, does not precede a comma in British English
 ### inclusivity
 Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
 
-Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see, hear, read, look, run, reach, listen)
+Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see, hear, read, look, run, reach, listen).
 
 ### images
 Include alt text on all images. 
