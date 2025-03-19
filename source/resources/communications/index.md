@@ -21,9 +21,9 @@
 ## Styles, branding, and logos
 
 * [Style Guide](style-guide.md)
+* [Carpentries Blog Post Tags](select-blog-tags.md)
 * [Branding](brand_identity.md)
 * [Carpentries logos](logos.md)
-* [Carpentries Blog Post Tags](select-blog-tags.md)
 
 ## Presentations
 
