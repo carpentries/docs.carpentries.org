@@ -1,6 +1,6 @@
 # Logos
 
-## Carpentries Logo Usage Policy
+## Carpentries Logo and Name Usage Policy
 
 ### Introduction
 The goal of this document is to outline policy around the usage and modification of The Carpentries trademarks.
