@@ -13,3 +13,9 @@
 
 * [Donation Request Resources](donation-request-resources.md)
 * [Collaborating with The Carpentries on Grants](collaborating-on-grants.md)
+
+## Demonstrating the glossary
+
+This section is just how to demonstrate how the glossary works.  When we want to link to a glossary item, we can do so as such: 
+* {term}`Badge definition <badge>`
+* {term}`AMY defined here <amy>`
