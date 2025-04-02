@@ -26,6 +26,9 @@ Hyphens are not needed after adverbs ending in _-ly_, _e.g._ a hotly argued topi
 ### alphabetisation
 The lesson programs within The Carpentries, when listed together, should be listed in alphabetical order: Data Carpentry, Library Carpentry, and Software Carpentry
 
+### alt-text
+Keep alt text as short as it can be, but provide as much detail as needed for the reader to understand what is in the image. More detailed alt-text may be necessary for [complex images](https://webaim.org/techniques/alttext/#complex), unless the detail in the image is included in the body of the text, then the alt-text of the complex image can be quite short. Provide links to the data if the image is a presentation of a data set, in order to allow the reader to explore the data for themselves.
+
 ### ampersand
 
 In text and blog posts, use the ampersand in organisations’ names when the organisation does so, _e.g.,_ P&O, AT&T.
@@ -173,7 +176,7 @@ Use inclusive language.  This includes word choice that recognises the complexit
 Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see, hear, read, look, run, reach, listen).
 
 ### images
-Include alt text on all images. 
+Include alt text on all images. _Refer also [alt-text](#alt-text)._
 
 ### initials
 Separate initials in names from each other with spaces and full stops, _e.g.,_ N. K. Jemisin.
