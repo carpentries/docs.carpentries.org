@@ -400,12 +400,6 @@ content in the handbook.
         
 -   **Who can be a Helper and what do they contribute to the workshop?**
     - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
- 
--   **Can I record my workshop?**
-    -  Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that participants join in real time rather than relying on recordings.
-
-    - If you still plan to record, please obtain consent from all attendees, including Instructors and Helpers, before the workshop starts. 
-
 
 ### Curricula
 
@@ -522,6 +516,13 @@ content in the handbook.
         [instruction
         roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles)
         for a workshop.
+
+-   **Can I record my workshop?**
+     -  Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that 
+       participants join in real time rather than relying on recordings.
+
+     -  If you still plan to record, please obtain consent from all attendees, including Instructors and Helpers, before the workshop starts. 
+
 
 #### In-person workshop
 
