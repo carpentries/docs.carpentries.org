@@ -27,7 +27,7 @@ Hyphens are not needed after adverbs ending in _-ly_, _e.g._ a hotly argued topi
 The lesson programs within The Carpentries, when listed together, should be listed in alphabetical order: Data Carpentry, Library Carpentry, and Software Carpentry
 
 ### alt-text
-Keep alt text as short as it can be, but provide as much detail as needed for the reader to understand what is in the image. More detailed alt-text may be necessary for [complex images](https://webaim.org/techniques/alttext/#complex), unless the detail in the image is included in the body of the text, then the alt-text of the complex image can be quite short. Provide links to the data if the image is a presentation of a data set, in order to allow the reader to explore the data for themselves.
+Keep alt-text as short as it can be, but provide as much detail as needed for the reader to understand what is in the image. More detailed alt-text may be necessary for [complex images](https://webaim.org/techniques/alttext/#complex), unless the detail in the image is included in the body of the text, then the alt-text of the complex image can be quite short. Provide links to the data if the image is a presentation of a data set, in order to allow the reader to explore the data for themselves.
 
 ### ampersand
 
