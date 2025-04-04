@@ -517,6 +517,13 @@ content in the handbook.
         roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles)
         for a workshop.
 
+-   **Can I record my workshop?**
+     -  Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that 
+       participants join in real time rather than relying on recordings.
+
+     -  If you still plan to record, please obtain consent from all attendees, including Instructors and Helpers, before the workshop starts. 
+
+
 #### In-person workshop
 
 -   **Do Instructors pay for travel?** 
