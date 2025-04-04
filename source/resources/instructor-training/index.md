@@ -19,11 +19,9 @@ Hi,
 
 According to the Teaching Demo Etherpad you have signed up to give an online teaching demo on \[ date \] at \[ time \] (Local time: \[ timeanddate.com link \]) as part of your checkout. I will be the Instructor Trainer hosting the session.
 
-I wanted to be sure you know that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach only 5 minutes from a particular section and they often have to reschedule as they seldom are assigned the section they have prepared for.
+For your teaching demonstration, you will prepare to teach a 5 minute segment of an approved Carpentries Lesson, starting at the beginning of an episode that includes participatory live instruction. To select an episode, please visit this [list of recommended episodes](https://carpentries.github.io/instructor-training/demo_lessons). If your preferred lesson is not on the list or includes only ineligible episodes, please choose a different lesson. 
 
 A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
-
-For example, if you have chosen The Unix Shell, I may assign you any episode listed at http://swcarpentry.github.io/shell-novice/.
 
 Please remember – this is not a high stakes test\! This is a friendly opportunity to give and receive feedback on a more polished presentation style. In the event that I ask you to repeat your demo, I will provide this information with clear instructions on what to change in an email to you after the demo. You will only receive qualitative feedback publicly during the demo, not information regarding whether this checkout step is considered complete.
 
