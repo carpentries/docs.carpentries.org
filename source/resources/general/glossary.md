@@ -17,12 +17,12 @@ AMY
 ```{glossary}
 
 Badge
-    indicator of a role in The Carpentries community that requires certification; typically, a certificate will be sent by email when a badge is conferred; refer to _**Certification**_.
+    indicator of a role in The Carpentries community that requires certification; typically, a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
 
 Blog Post
     written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
 
-Board of Directors 
+Board of Directors
     the governing body of The Carpentries, to whom the Executive Director reports; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Board of Directors meetings and regular correspondence and collaboration via email and online platforms.
 
 ```
@@ -50,7 +50,7 @@ CarpentryCon Committee
     members of the community who organise CarpentryCon.
 
 CarpentryConnect
-    events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to **_CarpentryConnect Planning Kit_**.
+    events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to {term}`CarpentryConnect Planning Kit<CarpentryConnect Planning Kit>`.
 
 [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
     resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists to work with, recommendations for best practices, and resources on event planning for further reading.
@@ -62,7 +62,7 @@ Centrally-Organised Workshops
     Carpentries workshop, in which The Carpentries Core Team supports logistics and organisation for a fee.
 
 Certification
-    process of earning a badge; refer to **_Badge, Checkout_**.
+    process of earning a badge; refer to {term}`Badge <badge>`, {term}`Checkout <checkout>`.
 
 Checkout
     a process consisting of steps to be completed after, or in addition to, training to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/14-checkout.html), but may also refer to [steps required for Instructor Trainer certification](https://carpentries.github.io/trainer-training/index.html).
@@ -137,7 +137,7 @@ Curriculum Team
 ```{glossary}
 
 Demo
-    refer to **_Teaching Demo_**.
+    refer to {term}`Teaching demo <teaching demo>`.
 
 Discussion Host 
     member of The Carpentries community who facilitated a community discussion; now known as Community Session Host.
@@ -177,7 +177,7 @@ Executive Team
 ```{glossary}
 
 Governance
-    system by which an organisation is controlled and operates; governance of The Carpentries is undertaken by the Board of Directors, to whom the Executive Director reports; refer to **_Board of Directors_**.
+    system by which an organisation is controlled and operates; governance of The Carpentries is undertaken by the Board of Directors, to whom the Executive Director reports; refer to {term}`Board of Directors <board of directors>`.
 
 Gratitudes
     opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customized emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share gratitude in Slack or social media.
@@ -192,7 +192,7 @@ Green Sticky
 ```{glossary}
 
 Handbook
-    refer to **_Carpentries Handbook_**.
+    refer to  {term}`Carpentries Handbook <carpentries handbook>`.
 
 Helper
     volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) for more information.
@@ -216,7 +216,7 @@ Inclusion
     active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community.
 
 Incubator
-    refer to **_Carpentries Incubator_**.
+    refer to  {term}`Carpentries Incubator <carpentries incubator>`.
 
 Incubator Lesson
     lesson under development by the community in The Carpentries Incubator, using the Carpentries lesson infrastructure.
@@ -234,7 +234,7 @@ Instructor Trainer
     community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Instructor Trainer meetings, and teach Instructor Training Bonus Modules.
 
 Instructor Training
-    training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer to **_Instructor Training Curriculum_**.
+    training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer to     {term}`Instructor Training Curriculum<instructor training curriculum>`.
 
 Internationalisation
     initiative to translate Carpentries resources into multiple languages and support the adoption of The Carpentries internationally; sometimes abbreviated as "i18n" where 18 stands for the number of letters between the first “i” and the last “n” in the word internationalisation.
@@ -246,7 +246,7 @@ Internationalisation
 ```{glossary}
 
 Lab
-    refer to **_Carpentries Lab_**.
+    refer to {term}`Carpentries Lab<carpentries lab>`.
 
 Lab Lesson
     peer-reviewed lesson in The Carpentries Lab; lab lessons typically begin in the Incubator and enter the Lab after passing the peer review and editorial processes.
@@ -273,8 +273,8 @@ Lesson Infrastructure Committee
     members of the community who make decisions for structural changes to the lesson infrastructure to ensure that they align with our core values.
 
 Lesson Maintainer
-    refer to **_Maintainer_**.
-
+    refer to {term}`Maintainer<maintainer>`.
+    
 Lesson Program
     collection of lessons (i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_).
 
@@ -285,10 +285,10 @@ Liaison
     representative of the Core Team who sits on a committee or task force to support the group's work. 
 
 Local Subcommunity
-    members of a local subcommunity within a specific geographic region; refer to **_Subcommunity_**.
+    members of a local subcommunity within a specific geographic region; refer to {term}`Subcommunity<subcommunity>`
 
 Listserv
-    refer to **_Mailing List_**.
+    refer to  {term}`Mailing List<mailing list>`.
 
 ```
 
@@ -303,7 +303,7 @@ Maintainer
     community member working to keep Carpentries lessons stable and functional.
 
 Membership
-    refer to **_Member Organisation_**.
+    refer to {term}`Member Organisation<member organisation>`.
 
 Member Organisation
     an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement. 
@@ -315,7 +315,7 @@ Member Organisation
 ```{glossary}
 
 Newsletter
-    communication sent to an opt-in mailing list each month, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations; refer to **_Carpentries Clippings_**.
+    communication sent to an opt-in mailing list each month, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations; refer to {term}`Carpentries Clippings<carpentries clippings>`.
 
 ```
 
@@ -372,7 +372,7 @@ Slack
     software platform used by The Carpentries to support synchronous and asynchronous communications; channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose.
 
 Sponsor
-    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to **_Sponsorship Program_**. 
+    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to {term}`Sponsorship Program <sponsorship program>`. 
 
 Sponsorship Program
     program that allows a company, firm, or other entity to contribute financially to The Carpentries. 
@@ -405,16 +405,16 @@ Technology Team
     members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the systems that keep our organisation operating (e.g., Etherpads, lesson templates, our internal database AMY).
 
 Tip Sheet
-community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://carpentries.org/welcome-tip-sheet/).
+    community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://carpentries.org/welcome-tip-sheet/).
 
 TopicBox
     platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
 
 Trainee
-    an individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to **_Instructor Trainee_**.
+    an individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
 
 Trainer
-    community member who teaches a Carpentries Training; refer to **_Instructor Trainer_**.
+    community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>`.
 
 Instructor Trainers Leadership
     committee of Instructor Trainers responsible for community oversight and governance.
@@ -423,7 +423,7 @@ Instructor Trainer Training
     training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
 
 Training
-    event that provides instruction on specific competencies, knowledge, or skills; individuals who complete training become eligible for certification upon completion of the program requirements; for example, refer to **_Instructor Training_**.
+    event that provides instruction on specific competencies, knowledge, or skills; individuals who complete training become eligible for certification upon completion of the program requirements; for example, refer to {term}`Instructor Training<instructor training>`
 
 ```
 
@@ -435,10 +435,10 @@ Welcome Session
     a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities; it also supports onboarding for those who recently completed Instructor training.
 
 Workbench
-    the collection of three packages used to build Carpentries lessons: [sandpaper](https://carpentries.github.io/sandpaper), [pegboard](https://carpentries.github.io/pegboard), [varnish](https://carpentries.github.io/varnish); refer to **_Lesson Infrastructure_**.
+    the collection of three packages used to build Carpentries lessons: [sandpaper](https://carpentries.github.io/sandpaper), [pegboard](https://carpentries.github.io/pegboard), [varnish](https://carpentries.github.io/varnish); refer to {term}`Lesson Infrastructure <lesson infrastructure>`.
 
 Workshop
-    event that is taught by Carpentries Instructors who teach the curriculum of Data Carpentry, Library Carpentry and Software Carpentry; refer to **_Self-Organised Workshop_** and **_Centrally-Organised Workshop_**.
+    event that is taught by Carpentries Instructors who teach the curriculum of Data Carpentry, Library Carpentry and Software Carpentry; refer to {term}`Self-Organised Workshop<self-organised workshop>` and {term}`Centrally-Organised Workshop<centrally-organised workshops>`    
 
 Workshop Administrator
     role within The Carpentries Core Team that supports the organisation and execution of workshops requested by members and hosts.
@@ -480,10 +480,10 @@ Assessment Network
     inactive committee that consisted of community members helping The Carpentries understand and assess the organisation’s impact.
 
 Bonus Module
-    refer to **_Instructor Training Bonus Module_**.
+    refer to {term}`Instructor Training Bonus Module<instructor training bonus module>`
 
 Buddy
-    see **_Community Buddy_**.
+    refer to {term}`Community Buddy<community buddy>`.
 
 Business Team
     members of The Carpentries Core Team who work on the legal and financial aspects of the organisation and coordinate with our funders and sponsors.
@@ -492,7 +492,7 @@ Carpentries Conversations
     community discussion hosted by one of our committees or task forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation; now broadly referred to as Community Discussion Session.
 
 CarpentryCon @Home
-    CarpentryCon event in 2020 held virtually; refer to **_CarpentryCon_**.
+    CarpentryCon event in 2020 held virtually; refer to {term}`CarpentryCon<carpentrycon>`.
 
 Champion
     community member who helped support the growth and development of The Carpentries by advocating and connecting with local communities; the Champions program is currently inactive.
