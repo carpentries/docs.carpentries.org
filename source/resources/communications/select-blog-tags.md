@@ -19,7 +19,7 @@ Program/process design and implementation that offers multiple avenues for acces
 For blog posts related to Carpentries' work in Africa.
 
 ### Artificial Intelligence
-For blog posts about artificial intellugence (AI) and its tools, including but not limited to large language models (LLMs). 
+For blog posts about artificial intelligence (AI) and its tools, including but not limited to large language models (LLMs). 
 
 ### Assessment
 Efforts to analyze and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
@@ -33,7 +33,7 @@ For blog posts about updates and announcements from The Carpentries Board of Dir
 ### Books
 For use in blog posts about published books directly about or written by members of The Carpentries community.
 
-### Carpentries Core Team (previouly, "Carpentries Team")
+### Carpentries Core Team (previously, "Carpentries Team")
 For blog posts related to hiring and other activities of The Carpentries Core Team.
 
 ### Carpentries Lab
@@ -169,7 +169,7 @@ Posts highlighting tips.
 For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
 
 ### Sponsorship (previously, "Philanthropy") 	
-Blog posts related to donations, sponsorship and other philanthrophic activites that support The Carpentries.
+Blog posts related to donations, sponsorship and other philanthropic activites that support The Carpentries.
 
 ### Strategic Plan
 Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals.
