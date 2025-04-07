@@ -169,7 +169,7 @@ Posts highlighting tips.
 For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
 
 ### Sponsorship (previously, "Philanthropy") 	
-Blog posts related to donations, sponsorship and other philanthropic activites that support The Carpentries.
+Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
 
 ### Strategic Plan
 Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals.
