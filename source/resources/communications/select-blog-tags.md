@@ -10,174 +10,198 @@ Additionally, if you feel there is a tag that fits your post, that is not in the
 
 <hr>
 
-## Accessibility
-Program/process design and implementation that offers multiple avenues for access
-and participation. For blog posts related to The Carpentries' work on Accessibility as part of the Equity, Inclusion, and Accessibility Roadmap.
+## Blog post tags
 
-## Africa
+### Accessibility
+Program/process design and implementation that offers multiple avenues for access and participation. For blog posts related to The Carpentries' work on Accessibility as part of the Equity, Inclusion, and Accessibility Roadmap.
+
+### Africa
 For blog posts related to Carpentries' work in Africa.
 
-## Assessment
-Efforts to analyze and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations
+### Artificial Intelligence
+For blog posts about artificial intellugence (AI) and its tools, including but not limited to large language models (LLMs). 
 
-## Australasia
+### Assessment
+Efforts to analyze and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
+
+### Australasia
 For blog posts related to Carpentries' work in Australasia.
 
-## Books
-For use in blog posts about published books directly about or written by members of The Carpentries community
+### Board of Directors
+For blog posts about updates and announcements from The Carpentries Board of Directors, the highest governing body of The Carpentries non-profit organisation.
 
-## Carpentries Lab
-Describing announcements related to the [Carpentries Lab](https://carpentries-lab.org). The Carpentries Lab is a place for high-quality, stable lessons. It provides a space and processes for open peer review of lessons, and hosts a collection of reviewed lessons for members of The Carpentries community to teach in their own workshops.
+### Books
+For use in blog posts about published books directly about or written by members of The Carpentries community.
 
-## Carpentries Team
+### Carpentries Core Team (previouly, "Carpentries Team")
 For blog posts related to hiring and other activities of The Carpentries Core Team.
 
-## CarpentryCon
+### Carpentries Lab
+Describing announcements related to the [Carpentries Lab](https://carpentries-lab.org). The Carpentries Lab is a place for high-quality, stable lessons. It provides a space and processes for open peer review of lessons, and hosts a collection of reviewed lessons for members of The Carpentries community to teach in their own workshops.
+
+### Carpentries Workbench
+For blog posts on The Carpentries' lesson infrastructure, The Carpentries Workbench. 
+
+### CarpentryCon
 For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
 
-## CarpentryConnect
-For blog posts related to CarpentryConnect events, local and regional events lead by community members
+### CarpentryConnect
+For blog posts related to CarpentryConnect events, local and regional events led by community members.
 
-## Champions
-An inactive subcommunity of The Carpentries that helped support the growth and development of The Carpentries by advocating and reaching out to local communities.
+### Code of Conduct
+Policy agreement that guides how we interact with each other and the greater community.
 
-## Code of Conduct
-Policy agreement that guides how we interact with each other and the greater community
+### Communications
+For blog posts related to the communications activities and strategies of The Carpentries.
 
-## Communications
-For blog posts related to the communications activities and strategies of The Carpentries
-
-## Community
+### Community
 For blog posts related to activities of the broader Carpentries community.
 
-## Community Discussions
+### Community Discussions
 For blog posts related to Community Discussions, including Pre- and Post-Workshop Discussions, Themed Discussion Sessions, and Carpentries Conversations.
 
-## Community Facilitators
-For blog posts related to the Community Facilitators program. The Community Facilitators Program is an initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members.
-
-## Curriculum
+### Curriculum
 Related to lessons included in The Carpentries official lesson stack, or The Carpentries Incubator or Lab.
 
-## Curriculum Development
+### Curriculum Development
 Related to creation of new lessons or significant updates of existing lessons.
 
-## Data Carpentry
-Related to the Data Carpentry lesson program of The Carpentries
+### Data Carpentry
+Related to the Data Carpentry lesson program of The Carpentries.
 
-## Equity and Inclusion
+### Equity and Inclusion 
 Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
 
-## Events
-Related to Carpentries sponsored or related events. Examples include CarpentryConnects,online symposiums and more
+### Events
+Related to Carpentries sponsored or related events. Examples include CarpentryConnects,online symposiums and more.
 
-## Executive Council
-Updates and announcements from The Carpentries Executive Council, the highest leadership body of The Carpentries project.
+### Feedback
+Comments on experience from Instructors, Hosts, Members, and other community members.
 
-## Feedback
-Comments on experience from Instructors, Hosts, Members, and other community members
+### Glosario
+For blog posts related to [Glosorio](https://glosario.carpentries.org/), The Carpentries' multilingual glossary of data science terms. 
 
-## Governance
-For blog posts related to the governance  of The Carpentries as an organisation.
+### Governance
+For blog posts related to organisational governance, including board leadership, policy development, and decisions impacting the organisation.
 
-## Grants 	
-Announcements for grants funding Carpentries activities
+### Grants 	
+Announcements for grants funding Carpentries activities.
 
-## Green Stickies
-Blog posts related to positive feedback from the community or for the community
+### Green Stickies
+Blog posts related to positive feedback from the community or for the community.
 
-## Incubator
+### Gratitudes
+For blog posts to show appreciation for the activities or members of the community. 
+
+### Incubator 
 Describing announcements related to the Carpentries Incubator (https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
 
-## Incubator Lesson Spotlight
-Highlighting lessons currently in the Carpentries Incubator. These posts are created from a form completed by Incubator lesson developers.
+### Infrastructure
+Blog posts related to technology we use to support our operations (e.g. AMY, Helpscout, etc).
 
-## Infrastructure
-Blog posts related to technology we use to support our operations (e.g. AMY, Helpscout, etc)
-
-## Instructor Development 	
+### Instructor Development 	
 About activities hosted or promoted by the Instructor Development Committee.
 
-## Instructor Trainers
-About Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience
+### Instructor Trainers
+About Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience.
 
-## Instructors 	
+### Instructors 	
 About Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
 
-## Internationalisation 	
-Posts highlighting translation and internationalization efforts in The Carpentries
+### Internationalisation 	
+Posts highlighting translation and internationalization efforts in The Carpentries.
 
-## Japan
+### Japan
 For blog posts related to Carpentries' work in Japan.
 
-## Jekyll
-A static site generator used in our lessons from 2016 to 2022
+### Jekyll
+A static site generator used in our lessons from 2016 to 2022.
 
-## Latin America
+### Latin America
 For blog posts related to Carpentries' work in Latin America (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haiti, Puerto Rico).
 
-## Lesson Infrastructure 	
+### Lesson Infrastructure 	
 For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows). This is largely of interest to the maintainer community with some tangential interest in the instructor community.
 
-## Lessons
-Related to work and development of Carpentries Lessons
+### Lessons
+Related to work and development of Carpentries Lessons.
 
-## Library Carpentry
+### Library Carpentry
 Library Carpentry focuses on building software and data skills within library and information-related communities.
 
-## Maintainers
-community members working on keeping our lessons stable and functional.
+### Maintainers
+Community members working on keeping our lessons stable and functional.
 
-## Membership
-for member organisation updates, big changes, or announcements
+### Membership 
+For member organisation updates, big changes, or announcements.
 
-## Mentoring
-blogs around creating support systems for new orgs using seasoned community members
+### Merger
+For blog posts relating to the merging of the three lesson programs into The Carpentries.
 
-## Merger
-For blog posts relating to the merging of the three lesson programs into The Carpentries
-
-## Nordic Countries
+### Nordic Countries
 For blog posts related to Carpentries' work in Nordic countries (Denmark, Estonia, Finland, Iceland, Norway, Sweden).
 
-## North America
+### North America
 For blog posts related to Carpentries' work in North America (Canada, Mexico, United States).
 
-## Online Workshops
-Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops
+### Online Workshops
+Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops.
 
-## Philanthropy 	
-Blog posts related to donations, sponsorship and other philanthrophic activites that support The Carpentries
+### Pilot Workshops 	
+Blog posts related to piloting of new lessons.
 
-## Pilot Workshops 	
-Blog posts related to piloting of new lessons
+### Python
+For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
 
-## R 	
-Posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities
+### R 	
+For blog posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities.
 
-## Regional Coordinators
-For blog posts related to Regional coordinators, who manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries.
-
-## Reports 	
+### Reports 	
 For blog posts related to reports released by The Carpentries core team. This includes annual and budget reports.
 
-## Roadmap
+### Roadmap
 A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
 
-## Skillshare
-Posts highlighting tips
+### Skillshare
+Posts highlighting tips.
 
-## Software Carpentry
+### Software Carpentry
 For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
 
-## Strategic Plan
-Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals
+### Sponsorship (previously, "Philanthropy") 	
+Blog posts related to donations, sponsorship and other philanthrophic activites that support The Carpentries.
 
-## Task Force
+### Strategic Plan
+Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals.
+
+### Task Force
 The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. Task forces bring together a small group of people focused on a particular topic for a set period of time.
 
-## Teaching
-Experience leading a Carpentries Workshop or Carpentries Training
+### Teaching
+Experience leading a Carpentries Workshop or Carpentries Training.
 
-## Workshops
-An event that is taught by Carpentries Instructors that teaches the curriculum of Data Carpentry, Library Carpentry and Software Carpentry. These blogs share experiences from the event
+### Website
+For blog posts related to updates to The Carpentries websites. 
+
+### Workshops
+An event that is taught by Carpentries Instructors that teaches the curriculum of Data Carpentry, Library Carpentry and Software Carpentry. These blogs share experiences from the event.
+
+## Archived Terms 
+
+### Champions
+An inactive subcommunity of The Carpentries that helped support the growth and development of The Carpentries by advocating and reaching out to local communities.
+
+### Community Facilitators
+For blog posts related to the Community Facilitators program. The Community Facilitators Program is an initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members.
+
+### Executive Council
+Updates and announcements from The Carpentries Executive Council, the highest leadership body of The Carpentries project.
+
+### Incubator Lesson Spotlight
+Highlighting lessons currently in the Carpentries Incubator. These posts are created from a form completed by Incubator lesson developers.
+
+### Mentoring
+For blogs around creating support systems for new orgs using seasoned community members
+
+### Regional Coordinators
+For blog posts related to Regional coordinators, who manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries.
