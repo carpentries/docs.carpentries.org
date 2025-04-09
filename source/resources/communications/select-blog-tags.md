@@ -133,7 +133,7 @@ Library Carpentry focuses on building software and data skills within library an
 Community members working on keeping our lessons stable and functional.
 
 ### Membership 
-For member organisation updates, big changes, or announcements.
+For Member organisation updates, big changes, or announcements.
 
 ### Merger
 For blog posts relating to the merging of the three lesson programs into The Carpentries.
