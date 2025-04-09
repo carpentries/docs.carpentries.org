@@ -186,7 +186,7 @@ For blog posts related to updates to The Carpentries websites.
 ### Workshops
 An event that is taught by Carpentries Instructors that teaches the curriculum of Data Carpentry, Library Carpentry and Software Carpentry. These blogs share experiences from the event.
 
-## Archived Terms 
+## Archived Tags
 
 ### Champions
 An inactive subcommunity of The Carpentries that helped support the growth and development of The Carpentries by advocating and reaching out to local communities.
