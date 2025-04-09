@@ -109,7 +109,7 @@ About Instructor Trainers (the community of people who teach Instructor Training
 About Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
 
 ### Internationalisation 	
-Posts highlighting translation and internationalization efforts in The Carpentries.
+Posts highlighting translation and internationalisation efforts in The Carpentries.
 
 ### Japan
 For blog posts related to Carpentries' work in Japan.
