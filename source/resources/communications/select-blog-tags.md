@@ -94,7 +94,7 @@ Blog posts related to positive feedback from the community or for the community.
 For blog posts to show appreciation for the activities or members of the community. 
 
 ### Incubator 
-Describing announcements related to the Carpentries Incubator (https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
+Describing announcements related to the [Carpentries Incubator](https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
 
 ### Infrastructure
 Blog posts related to technology we use to support our operations (e.g. AMY, Helpscout, etc).
