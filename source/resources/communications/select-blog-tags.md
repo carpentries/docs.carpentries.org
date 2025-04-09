@@ -76,7 +76,7 @@ Resources and information regarding our equity, inclusion, and accessibility roa
 Related to Carpentries sponsored or related events. Examples include CarpentryConnects, online symposiums and more.
 
 ### Feedback
-Comments on experience from Instructors, Hosts, Members, and other community members.
+Comments on experience from Instructors, hosts, Members, and other community members.
 
 ### Glosario
 For blog posts related to [Glosorio](https://glosario.carpentries.org/), The Carpentries' multilingual glossary of data science terms. 
