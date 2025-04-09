@@ -121,7 +121,7 @@ A static site generator used in our lessons from 2016 to 2022.
 For blog posts related to Carpentries' work in Latin America (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haiti, Puerto Rico).
 
 ### Lesson Infrastructure 	
-For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows). This is largely of interest to the maintainer community with some tangential interest in the instructor community.
+For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows). This is largely of interest to the Maintainer community with some tangential interest in the Instructor community.
 
 ### Lessons
 Related to work and development of Carpentries Lessons.
