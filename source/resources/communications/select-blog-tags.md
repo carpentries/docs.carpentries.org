@@ -157,7 +157,7 @@ For blog posts highlighting teaching recommendations of the Python programming l
 For blog posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities.
 
 ### Reports 	
-For blog posts related to reports released by The Carpentries core team. This includes annual and budget reports.
+For blog posts related to reports released by The Carpentries Core Team. This includes annual and budget reports.
 
 ### Roadmap
 A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
