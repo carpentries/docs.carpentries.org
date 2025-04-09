@@ -73,7 +73,7 @@ Related to the Data Carpentry lesson program of The Carpentries.
 Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
 
 ### Events
-Related to Carpentries sponsored or related events. Examples include CarpentryConnects,online symposiums and more.
+Related to Carpentries sponsored or related events. Examples include CarpentryConnects, online symposiums and more.
 
 ### Feedback
 Comments on experience from Instructors, Hosts, Members, and other community members.
