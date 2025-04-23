@@ -400,6 +400,29 @@ content in the handbook.
         
 -   **Who can be a Helper and what do they contribute to the workshop?**
     - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+ 
+### Workshop Challenges
+
+- **What should I do if I experience internet connectivity issues during a workshop?**
+    - Assign backup Instructors (e.g., newly certified Instructors, helpers who are comfortable filling in) to step in if technical issues arise. 
+    - Never teach alone.
+ 
+- **How can I keep learners engaged, and what if they miss a session?**
+    - Use interactive methods (e.g., random call-outs, polls, Zoom check-ins).
+    - Encourage learners to use the materials listed on the workshop website.
+    - If you are able, offer office hours to help the learners 1:1 or in small groups.
+   
+- **How can I handle time zone differences or punctuality challenges?**
+    - Communicate start times in advance.
+    - Begin sessions with informal discussions or a review to accommodate latecomers without disrupting key content.
+    - When scheduling a time to meet with other Instructors and the host, consider using tools such as [Doodle](https://doodle.com/en/) or [WhenIsGood](https://whenisgood.net/). These applications are free and they will allow each person to know the proposed meeting time(s) in their designated time zone.
+    - The [time and date tool](https://www.timeanddate.com/) is a great way to check the time of events in a region that is different from your own. Use the      World Clock search bar to search the time in any city or place.
+ 
+- **What can I do if learners have trouble retaining information or keep asking the same questions?**
+    - Use recaps to reinforce key points.
+    - Encourage learners to review lesson materials as listed on the workshop website.
+    - Encourage learners to continue practicing on their own.
+    
 
 ### Curricula
 
