@@ -36,7 +36,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 
 **Online Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
 * Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form].
-* Save screenshot of any online interaction where the issue occured and share in your report.
+* Save screenshots of any online interactions where the issue occured and share in your report.
 * If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
 If a community member has violated the CoC via an online event, the CoCc can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the CoCc has concluded their investigation of the reported incident.
