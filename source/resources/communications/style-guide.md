@@ -297,6 +297,8 @@ In text, square brackets are used for interpolated words in quotations, _e.g.,_ 
 ### times
 Times should be rendered in UTC in a 24-hour format, _e.g.,_ 12:00 UTC, 17:30 UTC, 09:00 UTC. Do not use local zones, _e.g.,_ PDT, AEST. If you want to make times meaningful for people in a range of time zones, use the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) (using your UTC time and date as the basis to create the event) to create a linkable time that will render locally for each person who uses it, _e.g.,_ 20 August, 2018 22:00 UTC: [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
 
+---
+
 ## V
 
 ### versus and vs
@@ -304,3 +306,11 @@ Use versus in most written cases, but if abbreviation is necessary, use "vs" rat
 
 ### Videos 
 All videos should be captioned. 
+
+---
+
+## W
+
+### Workbench
+The full and correct title of the lesson infrastructure is The Carpentries Workbench, which can be shortened to the Workbench thereafter.
+Consistent with the standard naming of R packages, the individual components of the Workbench should be referred to in all lowercase, e.g. sandpaper, pegboard, and varnish.
