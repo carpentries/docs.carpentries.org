@@ -58,7 +58,7 @@ CarpentryConnect
 [Carpentries Handbook](https://docs.carpentries.org/index.html)
     collection of information on Carpentries policies and procedures, including how to lead a workshop, how to develop and maintain lessons, how to participate in a training event, how to get involved in our global community, and information about Carpentries communication channels. 
 
-Centrally-Organised Workshops
+Centrally-Organised Workshop
     Carpentries workshop, in which The Carpentries Core Team supports logistics and organisation for a fee.
 
 Certification
@@ -67,7 +67,7 @@ Certification
 Checkout
     a process consisting of steps to be completed after, or in addition to, training to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/14-checkout.html), but may also refer to [steps required for Instructor Trainer certification](https://carpentries.github.io/trainer-training/index.html).
 
-[Code of Conduct (CoC)](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
+[Code of Conduct (CoC)](https://docs.carpentries.org/policies/coc/)
     a policy that describes what is expected of everyone participating in Carpentries activities.
 
 Code of Conduct Committee
@@ -83,7 +83,7 @@ Committee
     group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Guidelines](https://docs.carpentries.org/resources/general/committees.html) provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities.
 
 Community 
-    a network of regional and role-based volunteers, practitioners, and advocates who advance research by emphasizing the critical role of software and data; also see __Community Member__.
+    a network of regional and role-based volunteers, practitioners, and advocates who advance research by emphasising the critical role of software and data; also see __Community Member__.
 
 Community Calendar
     [Google calendar](https://carpentries.org/community/#community-events) that includes all Carpentries events.
@@ -139,9 +139,6 @@ Curriculum Team
 Demo
     refer to {term}`Teaching demo <teaching demo>`.
 
-Discussion Host 
-    member of The Carpentries community who facilitated a community discussion; now known as Community Session Host.
-
 Diversity
     individual differences (e.g., personality, language, learning preferences and life experiences) and group-social differences (e.g., race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) that can be engaged in the service of learning.
 
@@ -195,7 +192,7 @@ Handbook
     refer to  {term}`Carpentries Handbook <carpentries handbook>`.
 
 Helper
-    volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) for more information.
+    volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
 
 Host Organisation(s)
     organisation(s) responsible for organising a Carpentries event; the organisation where the event is held.
@@ -233,8 +230,14 @@ Instructor Trainee
 Instructor Trainer
     community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Instructor Trainer meetings, and teach Instructor Training Bonus Modules.
 
+Instructor Trainer Training
+    training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
+
+Instructor Trainers Leadership
+    committee of Instructor Trainers responsible for community oversight and governance.
+
 Instructor Training
-    training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer to     {term}`Instructor Training Curriculum<instructor training curriculum>`.
+    training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer also to {term}`Checkout <checkout>`
 
 Internationalisation
     initiative to translate Carpentries resources into multiple languages and support the adoption of The Carpentries internationally; sometimes abbreviated as "i18n" where 18 stands for the number of letters between the first “i” and the last “n” in the word internationalisation.
@@ -276,7 +279,7 @@ Lesson Maintainer
     refer to {term}`Maintainer<maintainer>`.
     
 Lesson Program
-    collection of lessons (i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_).
+    collection of lessons (i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
 
 Lesson Program Governance Committee
     group overseeing the strategy and policies of a Lesson Program. 
@@ -285,7 +288,7 @@ Liaison
     representative of the Core Team who sits on a committee or task force to support the group's work. 
 
 Local Subcommunity
-    members of a local subcommunity within a specific geographic region; refer to {term}`Subcommunity<subcommunity>`
+    members of a local subcommunity within a specific geographic region; refer to {term}`Subcommunity<subcommunity>`.
 
 Listserv
     refer to  {term}`Mailing List<mailing list>`.
@@ -336,7 +339,7 @@ Pilot Workshop
     event where a new lesson is being tested.
 
 Policy
-    guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/topic_folders/policies/index.html).
+    guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
 
 ```
 
@@ -405,7 +408,7 @@ Technology Team
     members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the systems that keep our organisation operating (e.g., Etherpads, lesson templates, our internal database AMY).
 
 Tip Sheet
-    community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://carpentries.org/welcome-tip-sheet/).
+    community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
 
 TopicBox
     platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
@@ -415,12 +418,6 @@ Trainee
 
 Trainer
     community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>`.
-
-Instructor Trainers Leadership
-    committee of Instructor Trainers responsible for community oversight and governance.
-
-Instructor Trainer Training
-    training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
 
 Training
     event that provides instruction on specific competencies, knowledge, or skills; individuals who complete training become eligible for certification upon completion of the program requirements; for example, refer to {term}`Instructor Training<instructor training>`
@@ -438,7 +435,7 @@ Workbench
     the collection of three packages used to build Carpentries lessons: [sandpaper](https://carpentries.github.io/sandpaper), [pegboard](https://carpentries.github.io/pegboard), [varnish](https://carpentries.github.io/varnish); refer to {term}`Lesson Infrastructure <lesson infrastructure>`.
 
 Workshop
-    event that is taught by Carpentries Instructors who teach the curriculum of Data Carpentry, Library Carpentry and Software Carpentry; refer to {term}`Self-Organised Workshop<self-organised workshop>` and {term}`Centrally-Organised Workshop<centrally-organised workshops>`    
+    event that is taught by Carpentries Instructors who teach the curriculum of Data Carpentry, Library Carpentry and Software Carpentry; refer to {term}`Self-Organised Workshop<self-organised workshop>` and {term}`Centrally-Organised Workshop<centrally-organised workshop>`    
 
 Workshop Administrator
     role within The Carpentries Core Team that supports the organisation and execution of workshops requested by members and hosts.
@@ -530,6 +527,15 @@ Feedback Facilitator
 Incubator Lesson Spotlight
     a feature in The Carpentries blog and newsletter, highlighting a lesson currently under community development; the purpose is to raise the visibility of that lesson among the broader community and to encourage community members to contribute to its further development.
 
+Infrastructure Team
+    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the systems that keep our organisation operating (e.g., Etherpads, lesson templates, our internal database AMY); now referred to as the Technology Team.
+
+Instructor Development Committee (IDC)
+    inactive committee that developed and maintained a mentorship program to support Instructors as they progress through training, teaching, curriculum development, and other community-related activities; they helped promote community-building and networking by providing (virtual) spaces where Instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges.
+
+Instructor Training Bonus Module
+    additional optional training that was offered to Instructors. 
+
 Post-Training Framework
     a resource created by the Task Force to guide Community Facilitators in identifying needs in The Carpentries community that they can collaboratively work to alleviate in their cohort after their training.
 
@@ -541,15 +547,6 @@ Resource-Enhancement Facilitator
 
 Technology Facilitator
     community facilitator who addressed everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses (i.e. GitHub).
-
-Infrastructure Team
-    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the systems that keep our organisation operating (e.g., Etherpads, lesson templates, our internal database AMY); now referred to as the Technology Team.
-
-Instructor Development Committee (IDC)
-    inactive committee that developed and maintained a mentorship program to support Instructors as they progress through training, teaching, curriculum development, and other community-related activities; they helped promote community-building and networking by providing (virtual) spaces where Instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges.
-
-Instructor Training Bonus Module
-    additional optional training that may be offered to Instructors. 
 
 Member Council
     group of representatives from Member Organisations that provide feedback and ideas to the Membership Team; each Member Organisation is allocated seats on the Member Council.
@@ -570,7 +567,7 @@ Pre- and Post-Workshop Discussion
     community discussion designed for Instructors getting ready to teach or having recently taught to discuss their workshop with other Instructors; now broadly referred to as Community Discussion Session. 
 
 Team
-    group of Core Team members that work collaboratively to support a specific program area.
+    group of Core Team members that work collaboratively to support a specific program area; now {term}`Core Team <core team>`.
 
 Themed Discussion Session
     community discussion centred around a particular topic (e.g., teaching your first workshop, community building strategies); now broadly referred to as a Community Discussion Session.
