@@ -48,6 +48,9 @@ For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
 ### CarpentryConnect
 For blog posts related to CarpentryConnect events, local and regional events led by community members.
 
+### CLDT 
+For blog posts about The Carpentries' Collaborative Lesson Development Training a program.
+
 ### Code of Conduct
 Policy agreement that guides how we interact with each other and the greater community.
 
@@ -77,6 +80,9 @@ Related to Carpentries sponsored or related events. Examples include CarpentryCo
 
 ### Feedback
 Comments on experience from Instructors, hosts, Members, and other community members.
+
+### Git
+For blog posts highlighting teaching recommendations on Git, or the use of Git in our activities, including references to GitHub. 
 
 ### Glosario
 For blog posts related to [Glosorio](https://glosario.carpentries.org/), The Carpentries' multilingual glossary of data science terms. 
