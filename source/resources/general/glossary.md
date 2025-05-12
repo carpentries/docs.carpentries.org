@@ -177,7 +177,7 @@ Governance
     system by which an organisation is controlled and operates; governance of The Carpentries is undertaken by the Board of Directors, to whom the Executive Director reports; refer to {term}`Board of Directors <board of directors>`.
 
 Gratitudes
-    opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customized emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share gratitude in Slack or social media.
+    opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customised emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share gratitude in Slack or social media.
 
 Green Sticky
     positive feedback from the community or for the community.
