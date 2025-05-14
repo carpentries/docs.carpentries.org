@@ -17,7 +17,7 @@ AMY
 ```{glossary}
 
 Badge
-    indicator of a role in The Carpentries community that requires certification; typically, a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
+    indicator of a role in The Carpentries community; typically, for roles that require training and/or onboarding; for some roles, a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
 
 Blog Post
     written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
@@ -195,7 +195,7 @@ Helper
     volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
 
 Host Organisation(s)
-    organisation(s) responsible for organising a Carpentries event; the organisation where the event is held.
+    organisation(s) responsible for organising a Carpentries event; can also be the organisation where the event is held.
 
 ```
 
@@ -417,7 +417,7 @@ Trainee
     an individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
 
 Trainer
-    community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>`.
+    community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>` and {term}`Collaborative Lesson Development Training`.
 
 Training
     event that provides instruction on specific competencies, knowledge, or skills; individuals who complete training become eligible for certification upon completion of the program requirements; for example, refer to {term}`Instructor Training<instructor training>`
@@ -447,7 +447,7 @@ Workshop Format
     how a workshop is delivered, either online, in-person, or hybrid.
 
 Workshop Host
-    a person that organises a Carpentries workshop on behalf of their institution and requests a Centrally-Organised Workshop to be coordinated by a Workshop Administrator. 
+    a person who organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
 
 Workshop Slug
     the specific name identifier for a workshop with the format yyyy-mm-dd-site-format.
