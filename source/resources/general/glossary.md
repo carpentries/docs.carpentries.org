@@ -447,7 +447,7 @@ Workshop Format
     how a workshop is delivered, either online, in-person, or hybrid.
 
 Workshop Host
-    a person that organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
+    a person who organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
 
 Workshop Slug
     the specific name identifier for a workshop with the format yyyy-mm-dd-site-format.
