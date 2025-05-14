@@ -17,7 +17,7 @@ AMY
 ```{glossary}
 
 Badge
-    indicator of a role in The Carpentries community; typically, for roles that require training and/or onboarding; for some roles a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
+    indicator of a role in The Carpentries community; typically, for roles that require training and/or onboarding; for some roles, a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
 
 Blog Post
     written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
