@@ -18,20 +18,20 @@ Please follow the [Carpentries Style Guide](https://docs.carpentries.org/topic_f
 
 When defining terminology popular with The Carpentries community, please use the definitions in our [Community Glossary of Terms](https://docs.carpentries.org/resources/general/glossary.html).  
 
-Single-Authored Blog Post Writing
+### Single-Authored Blog Post Writing
 
 Do you have an idea you would like to develop and publish as a blog post?
 
 * Email community@carpentries.org with your idea, and one of the Core Team members will discuss it with you and also guide you through submitting it to our blog. 
 
-Collaborative Blog Post Writing
+### Collaborative Blog Post Writing
 
 Are you interested in collaborating with another community member to co-author and publish a post on The Carpentries blog?
 
 * Join The Carpentries Slack and share your blog post idea in the \#blog-post-ideas channel to start a discussion. Invite other community members to collaborate with you. (***preferred***)  
 * Email community@carpentries.org with your idea, and one of the Core Team members will amplify the concept in the community so others can reach out and collaborate with you. (***optional***)
 
-2. Sharing a Newsletter Update 
+## Sharing a Newsletter Update 
 
 Do you have an announcement you would like us to include in [*Carpentries Clippings*](https://carpentries.org/about-us/newsletter/), our monthly newsletter? Announcements could be job opportunity openings, a special update from your subcommunity or an event that might interest the community. 
 
@@ -39,7 +39,7 @@ Do you have an announcement you would like us to include in [*Carpentries Clippi
 * Please note that the **newsletter is released on the 4th (not last) Thursday of the month**. Please bear this in mind when sending time-sensitive notices. 
 
 
-3. Sharing a social media post
+## Sharing a social media post
 
 The Carpentries is active on the following social media platforms:
 
