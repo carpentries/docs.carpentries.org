@@ -16,6 +16,7 @@ Highlighted Resources
 
     The Carpentries Slack workspace <https://carpentries.slack.com>
     Carpentries Clippings (newsletter) <https://carpentries.org/newsletter>
+    Guide to Sharing Communications with The Carpentries </resources/communications/sharing_resources>
     Welcome Tip Sheet <https://doi.org/10.5281/zenodo.8124923>
     Instructor Tip Sheet <https://doi.org/10.5281/zenodo.8125137>
     Mastodon Quick Start Guide  <https://doi.org/10.5281/zenodo.10019852>
