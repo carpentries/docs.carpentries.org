@@ -7,7 +7,7 @@
 
 ## Communication spaces
 
-* [Guide to sharing resources](sharing_resources.md)
+* [Guide to Sharing Communications with The Carpentries](sharing_resources.md)
 * [Slack](slack-and-email.md#slack-quick-start-guide)
 * [Mailing lists (Topicbox)](slack-and-email.md#topicbox)
 * [Zoom](zoom_rooms.md)
