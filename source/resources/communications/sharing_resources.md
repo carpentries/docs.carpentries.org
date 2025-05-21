@@ -8,7 +8,7 @@ The Carpentries welcomes blog posts, newsletter announcements, social media post
 
 Please draft your blog post using [The Carpentries Blog Post Template](https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0). 
 
-Please follow the [Carpentries Style Guide](https://docs.carpentries.org/topic_folders/communications/resources/style-guide.html) when writing your blog post. Pay special attention to guidelines regarding abbreviations, acronyms, capitalisation, and use of inclusive language (e.g., remove ableist language). In addition, 
+Please follow the [Carpentries Style Guide](https://docs.carpentries.org/resources/communications/style-guide.html) when writing your blog post. Pay special attention to guidelines regarding abbreviations, acronyms, capitalisation, and use of inclusive language (e.g., remove ableist language). In addition, 
 
 * Add descriptive alt text to all images included in your post.   
 * Avoid excessive use of italics, underlines, or all caps.  
