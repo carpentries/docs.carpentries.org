@@ -22,14 +22,14 @@ When defining terminology popular with The Carpentries community, please use the
 
 Do you have an idea you would like to develop and publish as a blog post?
 
-* Email community@carpentries.org with your idea, and one of the Core Team members will discuss it with you and also guide you through submitting it to our blog. 
+* Email [community@carpentries.org](mailto:community@carpentries.org) with your idea, and one of the Core Team members will discuss it with you and also guide you through submitting it to our blog. 
 
 ### Collaborative Blog Post Writing
 
 Are you interested in collaborating with another community member to co-author and publish a post on The Carpentries blog?
 
 * Join The Carpentries Slack and share your blog post idea in the \#blog-post-ideas channel to start a discussion. Invite other community members to collaborate with you. (***preferred***)  
-* Email community@carpentries.org with your idea, and one of the Core Team members will amplify the concept in the community so others can reach out and collaborate with you. (***optional***)
+* Email [community@carpentries.org](mailto:community@carpentries.org) with your idea, and one of the Core Team members will amplify the concept in the community so others can reach out and collaborate with you. (***optional***)
 
 ## Sharing a Newsletter Update 
 
@@ -51,4 +51,4 @@ Please engage with us and tag us on any social media communication you wish for 
 
 Please also note that we do not post messages directly on our accounts promoting events in which members of our Core Team or governance are not directly involved or calls to attend Carpentries workshop events.  
 
-If you have any announcements you would like us to share on your behalf, email community@carpentries.org, and we will let you know if we can assist. 
+If you have any announcements you would like us to share on your behalf, email [community@carpentries.org](mailto:community@carpentries.org), and we will let you know if we can assist. 
