@@ -191,7 +191,7 @@ myst_substitutions = {
   "lesson_development_training": "https://carpentries.github.io/lesson-development-training",
 
   # General resources
-  "glossary": "https://github.com/carpentries/community-engagement/blob/main/glossary.md",
+  "glossary": handbook_url + "resources/general/glossary.html",
   "code_of_conduct": handbook_url + "policies/coc/",
   "donate": "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497",
   "topicbox_guide": "https://docs.google.com/document/d/1lk1KmImG-5nkYzukjFMZMTS4BEVaOkqBg5_V_aj85_U/",
