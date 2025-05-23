@@ -16,7 +16,7 @@ Please follow the [Carpentries Style Guide](https://docs.carpentries.org/resourc
 * If your communication includes videos, provide accurate captions and transcripts for the content.  
 * Make sure that links and buttons are clearly labelled and distinguishable. Avoid using generic phrases like "click here" instead of descriptive text.
 
-When defining terminology popular with The Carpentries community, please use the definitions in our [Community Glossary of Terms](https://docs.carpentries.org/resources/general/glossary.html).  
+When defining terminology popular with The Carpentries community, please use the definitions in our {{'[Community Glossary of Terms]({})'.format(glossary)}}.
 
 ### Single-Authored Blog Post Writing
 

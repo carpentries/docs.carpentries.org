@@ -78,8 +78,7 @@ Discussion Host mailing list.
 This section includes a list of communication channels and collaboration
 spaces that support Community Discussion Hosts. Participants in these
 spaces are expected to follow {{"[The Carpentries Code of Conduct]({})".format(code_of_conduct)}}. 
-A description of the tools listed can be found in [the community
-glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
+A description of the tools listed can be found in the {{'[community glossary]({})'.format(glossary)}}.
 
 ### Community Calendar
 
