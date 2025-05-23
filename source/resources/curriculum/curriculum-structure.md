@@ -3,8 +3,7 @@
 The Carpentries contains multiple _Lesson Programs_ (Data Carpentry, Library Carpentry, Software Carpentry). Each _Lesson Program_ contains at least one _curriculum_. A curriculum is composed of one or more _lessons_.
 Lessons are built from a series of _episodes_.
 
-More detailed definitions of these terms are available in [the community glossary](https://github.com/carpentries/community-development/blob/main/glossary.md).
-
+More detailed definitions of these terms are available in the {{'[Community Glossary of Terms]({})'.format(glossary)}}.
 
 ![The structure of curricula in The Carpentries](img/curriculum-structure.png "schematic showing that a lesson program includes one or more curricula, which each include one or more lessons, which each include one or more episodes.")
 

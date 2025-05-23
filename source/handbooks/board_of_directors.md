@@ -3,7 +3,7 @@
 ## About This Handbook
 
 This handbook provides useful information about how The Carpentries functions in collaboration with the  Board of Directors including the mission and programs of The Carpentries, the governing documents and policies of The Carpentries and Board, and the general and specific roles and responsibilities of the Board, Core Team and community. This document will be reviewed annually by the Governance and Personnel Committee and updated as needed. To provide feedback on its content, email
-{{'[{}](mailto:{})'.format(team_email, team_email)}}.
+{{'[{}](mailto:{})'.format(team_email, team_email)}}.   If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
 
 ## Introduction
