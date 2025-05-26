@@ -92,7 +92,7 @@ Community Development Program (CDP)
     the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., Subcommunity Coordinators); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
 
 Community Engagement Team (CET)
-    The Community Engagement Team is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities](see **_subcommunities_**). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
+    The Community Engagement Team is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities(see **_subcommunities_**). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
 Community Discussion Session
     structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing.
@@ -513,7 +513,7 @@ Community Facilitators Program
     initiative in The Carpentries that sought to create new pathways for active involvement in everyday community activities by more community members; this program has been merged into the Community Development Program.
 
 Community Initiatives
-    fiscal sponsor of The Carpentries from from 2018-2024.
+    fiscal sponsor of The Carpentries from 2018-2024.
 
 Discussion Host 
     member of The Carpentries community who facilitated a community discussion; now known as Community Session Host.
