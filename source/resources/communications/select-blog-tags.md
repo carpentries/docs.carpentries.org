@@ -22,7 +22,7 @@ For blog posts related to Carpentries' work in Africa.
 For blog posts about artificial intelligence (AI) and its tools, including but not limited to large language models (LLMs). 
 
 ### Assessment
-Efforts to analyze and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
+Efforts to analyse and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
 
 ### Australasia
 For blog posts related to Carpentries' work in Australasia.
