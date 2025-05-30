@@ -138,8 +138,10 @@ To join one or more Carpentries mailing lists, you will need to [create a login 
 ### Using Issue Labels to Promote Collaboration
 
 GitHub allows the maintainers of a repository to add contextual
-information to Issues and Pull Requests in the form of labels. Two
-labels, used by The Carpentries and in many repositories across GitHub,
+information to Issues and Pull Requests in the form of labels. 
+[The Carpentries uses an extended set of issue labels on its lesson repositories](../resources/curriculum/issue-labels.md).
+
+Two labels, used by The Carpentries and in many repositories across GitHub,
 can be deployed to increase the visibility of your lesson and encourage
 community members to contribute to its development.
 
