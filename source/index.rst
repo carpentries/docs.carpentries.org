@@ -22,6 +22,7 @@ Highlighted Resources
     Mastodon Quick Start Guide  <https://doi.org/10.5281/zenodo.10019852>
     A Guide for Collaborating with The Carpentries on Grants <resources/general/collaborating-on-grants>
     Donation Request Resources <resources/general/donation-request-resources>
+    CarpentryConnect Planning Toolkit <https://carpentryconnect.org/>
 
 
 Quick Links
