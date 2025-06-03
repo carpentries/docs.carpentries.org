@@ -13,3 +13,8 @@
 
 * [Donation Request Resources](donation-request-resources.md)
 * [Collaborating with The Carpentries on Grants](collaborating-on-grants.md)
+
+## CarpentryCon and CarpentryConnect Resources
+
+* [CarpentryCon website](https://carpentrycon.org/)
+* [CarpentryConnect Planning Toolkit](https://carpentryconnect.org/)
