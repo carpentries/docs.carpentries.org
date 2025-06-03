@@ -63,6 +63,9 @@ For blog posts related to activities of the broader Carpentries community.
 ### Community Discussions
 For blog posts related to Community Discussions, including Pre- and Post-Workshop Discussions, Themed Discussion Sessions, and Carpentries Conversations.
 
+### Core Values
+For blog posts that elucidate, advance, and/or advocate for [The Carpentries core values](https://carpentries.org/about-us/#our-values).
+
 ### Curriculum
 Related to lessons included in The Carpentries official lesson stack, or The Carpentries Incubator or Lab.
 
