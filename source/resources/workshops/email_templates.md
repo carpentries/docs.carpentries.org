@@ -1,10 +1,5 @@
 # Email templates
 
-## From Regional Coordinator
-
-Regional Coordinators use Helpscout to manage communication around workshop administration.  All email templates used to communicate with workshop Organisers, Hosts, and Instructors can be found in Helpscout.
-
-
 ## From Instructors and Hosts
 
 ### For Self-Organised Workshops: Recruiting Co-instructor
