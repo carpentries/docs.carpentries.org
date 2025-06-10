@@ -194,8 +194,8 @@ myst_substitutions = {
   "glossary": handbook_url + "resources/general/glossary.html",
   "code_of_conduct": handbook_url + "policies/coc/",
   "donate": "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497",
-  "topicbox_guide": "https://docs.google.com/document/d/1lk1KmImG-5nkYzukjFMZMTS4BEVaOkqBg5_V_aj85_U/",
-  "slack_guide": "https://docs.google.com/document/d/1-NcL-ofnHXjJnopdWH6jLrdLHhDJeZO3/",
+  "topicbox_guide": "https://zenodo.org/records/14235644",
+  "slack_guide": "https://zenodo.org/records/15401712",
 
   # Websites
   "carpentries_website": "https://carpentries.org",
