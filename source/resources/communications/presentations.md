@@ -13,7 +13,7 @@ Please use the following template when you are presenting on a topic related to 
 
 [Carpentries Presentation Template](https://docs.google.com/presentation/d/160gj2GGepxlwJb2F0mPjUQ92aYENr8R_qulkuHXe5SU/edit#slide=id.p)
 
-[Google drive with slide decks](https://drive.google.com/drive/folders/12D0D9F2GJX4TIwzWkSHYdaI0VFdYYCul)
+[About The Carpentries - General Slide Deck Presentation](https://docs.google.com/presentation/d/1PmkGMXN5-jZNugEJXYxlEBE-ecTxXFIZHMJLwQ96Haw)
 
 [List of past Data Carpentry presentations on Zotero](https://www.zotero.org/groups/597593/datacarpentry/items/collectionKey/WT38F37Q) including abstracts and links to slide decks.
 
