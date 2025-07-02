@@ -6,7 +6,7 @@ Follow these steps to help you get setup when you fork a lesson repository on Gi
 1. [Configure Maintenance Workflows](#configure-maintenance-workflows)
 1. [Getting Help](#getting-help)
 
-## Enable the GitHub Actions workflows
+## Enable the GitHub Actions Workflows
 Actions are disabled by default in forked repositories. 
 If you want a lesson website to be built from the files in your fork, you will need to activate them.
 **You must do this before activating GitHub Pages on the repository.**
@@ -16,7 +16,7 @@ You should find a button saying _"I understand my workflows, go ahead and enable
 This should then display a page with the workflows for the repository listed on the left-hand side.
 2. Three of the workflows listed in that left sidebar are scheduled to run weekly, and will still be disabled.
 To enable lesson website builds, select the workflow called `01 Build and Deploy Site` and then _Enable workflow_ near the top right of the window.
-3. To run the lesson site build workflow for the first time, select the _Run workflow_ drpdown (where the _Enable workflow_ button was in step 2) and then the _Run workflow_ button.
+3. To run the lesson site build workflow for the first time, select the _Run workflow_ dropdown (where the _Enable workflow_ button was in step 2) and then the _Run workflow_ button.
 The build process will take a few minutes, after which the `gh-pages` branch of your repository will be created/updated to contain the latest version of the lesson website.
 You can now [activate GitHub Pages](#activate-github-pages) to serve the files in that branch to the internet.
 4. If you want to configure the weekly workflow runs that can automatically open pull requests to update the lesson infrastructure and package cache (R Markdown lessons only), you should repeat step 2 above for the two other disabled workflows, called `02 Maintain: Update Workflow Files` and `03 Maintain: Update Package Cache`.
@@ -52,7 +52,7 @@ Under _Security_ in the left sidebar, open the _Secrets and variables_ dropdown 
 If you run into trouble with any of these steps, you can ask for help by:
 
 * Posting to the `#workbench` and/or `#lesson-dev` channels on Slack ({{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}).
-* [contact the Curriculum Team by email](mailto:curriculum@carpentries.org).
-* open an issue on your repository, describing the problem you have encountered, and tag `@tobyhodges`.
+* [Contacting the Curriculum Team by email](mailto:curriculum@carpentries.org).
+* Opening an issue on your repository, describing the problem you have encountered, and tag `@tobyhodges`.
 
 To help others troubleshoot your issue, please include a URL to your forked repository in your message.
