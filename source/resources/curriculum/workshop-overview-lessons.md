@@ -6,8 +6,8 @@ However, it is sometimes helpful to be able to provide a single-page "lesson" si
 In the Workbench, this is supported with the optional `overview` parameter in the global configuration file (`config.yaml`).
 Adding `overview: true` as a new line to `config.yaml` prevents the infrastructure from raising an error if no files are present in the `episodes` folder. The front page of the overview site is built from the `index.md` and `learners/setup.md` as usual.
 
-## What should an overview page contain?
-Lesson developers can choose to populate these pages however they like.
+## What Should an Overview Page Contain?
+Lesson Developers can choose to populate these pages however they like.
 Here are some recommendations for what to include:
 
 * A short description of the curriculum as a whole, including its target audience and most important learning outcomes.
