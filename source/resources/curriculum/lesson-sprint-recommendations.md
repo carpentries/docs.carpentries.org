@@ -14,7 +14,7 @@ These recommendations were written with a particular focus on sprints taking pla
 
 ### Target Audience
 
-The target reader is one of the lead developers/maintainers of a lesson under active development e.g. in [The Carpentries Incubator](https://github.com/carpentries-incubator/).
+The target reader is one of the lead developers/Maintainers of a lesson under active development e.g. in [The Carpentries Incubator](https://github.com/carpentries-incubator/).
 They should already have a clear idea of the target audience and main learning objectives for their lesson, even if they haven't started writing the actual material yet.
 They may be planning to teach the lesson for the first time, or have recently taught it for the first time, and now want to improve the lesson material based on feedback collected when teaching.
 

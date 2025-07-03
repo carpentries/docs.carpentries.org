@@ -5,7 +5,7 @@ Your use of Amazon Web Services (AWS) instances provided by The Carpentries for 
 ## Submitting a Genomics Workshop
 
 1. Self-Organised Data Carpentry Genomics workshops in which organisers would like The Carpentries to provide AWS instances must be submitted using the Self-Organised {{'[workshop submission form]({}/forms/self-organised/)'.format(amy_link)}} at least five weeks before the workshop start date. Workshops submitted less than five weeks in advance will not be provided instances.  
-2. Centrally-Organised Data Carpentry Genomics workshops should be submitted using the {{'[Centrally-Organised workshop request form]({}/forms/request_workshop/)'.format(amy_link)}}, following the timeline previously outlined on the {{"[Carpentries website]({}/workshops/host-workshop/#request-a-centrally-organised-workshop)".format(carpentries_website)}}.
+2. Centrally-Organised Data Carpentry Genomics workshops should be submitted using the {{'[Centrally-Organised workshop request form]({}/forms/request_workshop/)'.format(amy_link)}}, following the timeline outlined on the {{"[Carpentries website]({}/workshops/host-workshop/#request-a-centrally-organised-workshop)".format(carpentries_website)}}.
 
 ## Pricing
 
@@ -33,7 +33,7 @@ Your use of Amazon Web Services (AWS) instances provided by The Carpentries for 
 1. AWS instances will be created by a member of the Workshops and Instruction Team according to the pricing option chosen in your workshop submission.   
 2. Once the invoice has been processed by CxORE, the number of AWS instances cannot be changed.  
 3. Refunds will **not** be issued for any AWS instances that were provided but not used in a workshop.   
-4. Details of test AWS instances for Instructors and Helpers will be sent up to seven days in advance of the workshop start date and details of the remaining AWS instances will be sent the day before the workshop start date.   
+4. Details of test AWS instances for Instructors and helpers will be sent up to seven days in advance of the workshop start date and details of the remaining AWS instances will be sent the day before the workshop start date.   
 5. All AWS instances will be closed one day after the workshop end date. 
 
 ## Discounted Workshops
