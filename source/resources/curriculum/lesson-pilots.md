@@ -62,15 +62,15 @@ a lesson developed based on prior agreement with The Carpentries, and which is i
 The Carpentries is also keen to support the development and piloting of lessons in The Carpentries Incubator.
 If you are hosting a pilot of a lesson in the Incubator, we ask that you **first** try to find Instructors for pilot workshops yourself.
 Often, hosts are able to recruit instructors from their local community with relevant knowledge of the lesson topic, but in some cases this will not be possible.
-If you wish to recruit instructors for a pilot workshop, try putting a call out:
+If you wish to recruit Instructors for a pilot workshop, try putting a call out:
 
 * on [local/regional community mailing lists](https://carpentries.topicbox.com/groups).
 * to any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these).
 * by publishing a post on our blog.
 
-Please do not post calls for instructors to the general or #instructors channel on Slack, or the discuss and instructors lists on TopicBox. 
+Please do not post calls for Instructors to the general or #instructors channel on Slack, or the discuss and Instructors lists on TopicBox. 
 Any messages to recruit instructors will be removed from those channels. 
-If after taking these steps, you find that you need help finding instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org) for assistance.
+If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org) for assistance.
 
 ### Creating a Pilot Workshop Webpage
 
@@ -78,10 +78,10 @@ If after taking these steps, you find that you need help finding instructors for
 See [the Customisation page of the template documentation](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml) for instructions on how to configure the webpage for a pilot workshop.
 
 If you are piloting a new official Carpentries lesson - 
-a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops -
+a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in Centrally-Organised Workshops -
 please [register your pilot as a Self-Organised Workshop](https://amy.carpentries.org/forms/self-organised/).
 If you do not see the lesson/curriculum being piloted listed as one of the choices on that form, please contact [The Carpentries Core Team](mailto:team@carpentries.org).
 
-For workshops teaching lessons in The Carpentries Incubator, you should create a workshop webpage but should not submit the workshop details to The Carpentries team via the form linked above.
+For workshops teaching lessons in The Carpentries Incubator, you should create a workshop webpage but should not submit the workshop details to The Carpentries Core Team via the form linked above.
 Instead, if you want to tell the community about your event you can do so by filling in the form under _Workshops_ on [The Incubator homepage](https://carpentries-incubator.org/).
 Workshops submitted there will be processed by the Curriculum Team and will be listed in the table on that page.

@@ -20,12 +20,10 @@ At the very least, you should ensure that the information in your `CITATION.cff`
 
 ## Publishing the lesson on Zenodo
 
-* First, create a [Zenodo](https://zenodo.org/) account if you do not already have one, linked to your GitHub credentials
-* Log into Zenodo and select 'GitHub' from the dropdown menu at the top-right
-* On that page, find the name of your lesson repository in the listing and turn the switch 'On' to activate the Zenodo/GitHub integration
-* [Make a release of your lesson](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#creating-a-release) from its GitHub repository
-* This will create a Zenodo record from that release.
-  Zenodo will update this record with a new version every time you make another release from your lesson repository. 
+* First, create a [Zenodo](https://zenodo.org/) account if you do not already have one, linked to your GitHub credentials.
+* Log into Zenodo and select 'GitHub' from the dropdown menu at the top-right.
+* On that page, find the name of your lesson repository in the listing and turn the switch 'On' to activate the Zenodo/GitHub integration.
+* [Make a release of your lesson](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#creating-a-release) from its GitHub repository. This will create a Zenodo record from that release. Zenodo will update this record with a new version every time you make another release from your lesson repository. 
 * Edit the Zenodo entry to adjust anything that is not right.
   For example, the presence of a `CITATION.cff` file in your repository will make Zenodo think this is a record describing software.
   You can correct this to 'Lesson' in the _Resource Type_ field.
