@@ -29,35 +29,35 @@ The Carpentries labels the development status of lessons in a similar system to 
 The life cycle stage of a lesson is prominently displayed at the top of the page on lesson websites.
 It is also visible as a 'topic' on the GitHub repository of the lesson, beneath the _About_ box on the right-hand side of the repository homepage.
 
-## How is the life cycle stage set?
+## How is the Life Cycle Stage Set?
 The life cycle status of a lesson can be adjusted by modifying the `life_cycle` parameter in the lesson's `config.yaml` file, as well as the equivalent topic on the source GitHub repository.
 
-## Who is responsible for choosing the life cycle stage of a lesson?
+## Who is Responsible for Choosing the Life Cycle Stage of a Lesson?
 For community-owned lessons in The Carpentries Incubator, lesson developers are free to choose whichever label they feel is appropriate. 
 Community-owned lessons in The Carpentries Lab have passed peer review and should be marked stable. 
 The life cycle stage of lessons belonging to a Carpentries lesson program should be changed following consultation with the relevant Curriculum Advisory Committee and/or the Curriculum Team. 
 Consultation is especially important before marking a lesson as beta or stable.
 
-## What happens at each stage of the life cycle?
+## What Happens at Each Stage of the Life Cycle?
 [Pilot workshops](lesson-pilots.md) are probably the most important events that take place before a lesson reaches stability. 
 However, here are some other actions that lesson developers can take at different stages:
 
 * **Pre-alpha:**
-  * [Submit the lesson to The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/)
-  * Join [Collaborative Lesson Development Training](https://carpentries.org/lesson-development-training)
-  * Call for collaborators
-  * If you intend the new lesson to join an existing Carpentries curriculum or lesson program, consult the relevant [Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) or [Lesson Program Governance Committee](https://carpentries.org/lesson-program-governance/) as early as possible.
+  * [Submit the lesson to The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/).
+  * Join [Collaborative Lesson Development Training](https://carpentries.org/lesson-development-training).
+  * Call for collaborators.
+  * If you intend the new lesson to join an existing Carpentries curriculum or lesson program, consult the relevant [Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) or [Lesson Program Governance Committee](https://carpentries.org/community/lesson_program_governors/) as early as possible.
 	These community governance groups can provide feedback on your plans and offer guidance on how to ensure successful integration of the new lesson.
 * **Alpha:**
   * Run [alpha pilot workshops](lesson-pilots.md#alpha-and-beta-pilots) and iterate on the design and content of the lesson.
-  * Raise awareness of the lesson in The Carpentries community
+  * Raise awareness of the lesson in The Carpentries community.
 * **Beta:**
   * Find instructors who can teach the lesson in [beta pilot workshops](lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further. 
     Consider inviting those [beta pilot instructors](./lesson-development-roles.md#beta-pilot-instructors) to join the team developing/maintaining the lesson.
-  * [Publish the lesson to Zenodo and obtain a DOI](./lesson-release.md)
-  * [Submit the lesson for peer review in The Carpentries Lab](https://github.com/carpentries-lab/reviews/)
+  * [Publish the lesson to Zenodo and obtain a DOI](./lesson-release.md).
+  * [Submit the lesson for peer review in The Carpentries Lab](https://github.com/carpentries-lab/reviews/).
 * **Stable:**
-  * [Release the stable version to Zenodo](./lesson-release.md)
-	  * You might like to repeat this process regularly e.g. make annual releases.
+  * [Release the stable version to Zenodo](./lesson-release.md).
+	  * You might like to repeat this process regularly, e.g. make annual releases.
 
 ![The Carpentries lesson life cycle model annotated to show more details of what can happen at each stage of the process](../../img/life_cycle_annotated.svg)
