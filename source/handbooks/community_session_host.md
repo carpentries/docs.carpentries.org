@@ -60,10 +60,12 @@ responsibilities include:
 
 ## Onboarding
 
-If you are interested in becoming a community session host it will take ~ 45 minutes of your time to get onboarded. 
+If you are interested in becoming a community session host, onboarding sessions will be held twice a year (February/March and July/August). Please refer to the [Community Calendar](https://carpentries.org/community/events/) for specific dates. The process will take about 1 hour of your time. 
+
 Instructions are provided below:
 
-Watch the onboarding video. [The video can be found on our YouTube channel](https://youtu.be/gM-XXV07OtQ) and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto:community@carpentries.org) with the subject “Community Session Host Onboarding” so we can record that you have been onboarded to the role.
+- Attend one of the online onboarding sessions, where the presentation will be shared.
+- After attending the session, please complete the Community Session Host Onboarding questionnaire. 
 
 ## Offboarding
 
