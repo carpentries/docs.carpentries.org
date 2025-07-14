@@ -1,8 +1,10 @@
 # The Carpentries Style Guide
 
-This guide aims to provide a standard reference point when questions arise about style for The Carpentries - how we would prefer people to reference us, how best to render dates and times for a global community, when to use what capitalisation, and other questions of style.
+This guide aims to provide a standard reference point when questions arise about style for The Carpentries - how we would prefer people to reference us, how best to render dates and times for a global community, when to use what capitalisation, and other questions of style. 
 
-We will adhere to a similar style  on our website and in other material we make widely available such as blog posts. Lesson contributors and Maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
+The guide should be followed when preparing materials for circulation within The Carpentries community and on its public platforms (websites, social media, repositories, etc.). Materials about The Carpentries that are submitted to other fora (conferences, journals, grant applications, blogs and websites of other organisations, etc.) need not follow this style guide, until or unless they are also to be published and circulated on any of The Carpentries' public platforms.  
+
+Lesson contributors and Maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
 
 Please note, as outlined in [section C](#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
