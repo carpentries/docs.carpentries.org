@@ -156,6 +156,9 @@ For blog posts related to Carpentries' work in North America (Canada, Mexico, Un
 ### Online Workshops
 Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops.
 
+### OpenRefine
+For blog posts highlighting teaching recommendations of OpenRefine, or the use of OpenRefine in our activities.
+
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
 
