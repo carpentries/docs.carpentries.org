@@ -130,7 +130,7 @@ A static site generator used in our lessons from 2016 to 2022.
 For blog posts related to Carpentries' work in Latin America (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haiti, Puerto Rico).
 
 ### Lesson Infrastructure 	
-For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows). This is largely of interest to the Maintainer community with some tangential interest in the Instructor community.
+For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows), other than the Carpentries Workbench. This is largely of interest to the Maintainer community with some tangential interest in the Instructor community.
 
 ### Lessons
 Related to work and development of Carpentries Lessons.
@@ -156,6 +156,9 @@ For blog posts related to Carpentries' work in North America (Canada, Mexico, Un
 ### Online Workshops
 Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops.
 
+### OpenRefine
+For blog posts highlighting teaching recommendations of OpenRefine, or the use of OpenRefine in our activities.
+
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
 
@@ -170,6 +173,9 @@ For blog posts related to reports released by The Carpentries Core Team. This in
 
 ### Roadmap
 A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
+
+### Shell
+For blog posts highlighting teaching recommendations on shells, or the use of shells in our activities, including references to Bash.
 
 ### Skillshare
 Posts highlighting tips.
