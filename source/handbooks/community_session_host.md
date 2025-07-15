@@ -65,7 +65,7 @@ If you are interested in becoming a community session host, onboarding sessions 
 Instructions are provided below:
 
 - Attend one of the online onboarding sessions, where the presentation will be shared.
-- After attending the session, please complete the Community Session Host Onboarding questionnaire. 
+- After attending the session, please complete the [Community Session Host Onboarding questionnaire](https://forms.gle/yXTau7nXCcCs96V39). 
 
 ## Offboarding
 
