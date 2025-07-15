@@ -174,6 +174,9 @@ For blog posts related to reports released by The Carpentries Core Team. This in
 ### Roadmap
 A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
 
+### Shell
+For blog posts highlighting teaching recommendations on shells, or the use of shells in our activities, including references to Bash.
+
 ### Skillshare
 Posts highlighting tips.
 
