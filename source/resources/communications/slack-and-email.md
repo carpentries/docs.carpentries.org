@@ -1,6 +1,6 @@
 # Slack and Mailing Lists
 
-## Topicbox
+## Topicbox Quick Start Guide 
 
 The Carpentries uses Topicbox to manage email lists. Refer to the {{"[Topicbox Guide]({})".format(topicbox_guide)}} for more information.
 
