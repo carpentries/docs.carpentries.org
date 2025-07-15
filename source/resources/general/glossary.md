@@ -5,7 +5,7 @@
 ```{glossary} 
 
 Accessibility
-    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
+    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as "a11y", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
 
 AMY
     the internal database of The Carpentries; it allows the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional memberships.
@@ -53,7 +53,7 @@ CarpentryConnect
     events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to {term}`CarpentryConnect Planning Kit<CarpentryConnect Planning Kit>`.
 
 [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
-    resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists to work with, recommendations for best practices, and resources on event planning for further reading.
+    resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists, recommendations for best practices, and resources on event planning for further reading.
 
 [Carpentries Handbook](https://docs.carpentries.org/index.html)
     collection of information on Carpentries policies and procedures, including how to lead a workshop, how to develop and maintain lessons, how to participate in a training event, how to get involved in our global community, and information about Carpentries communication channels. 
@@ -77,22 +77,22 @@ Collaboration Session
     community session providing dedicated time and space to co-develop a community resource or to co-work on any community activity.
 
 Collaborative Lesson Development Training
-    training in how to design and develop open source curriculum using The Carpentries lesson infrastructure; a necessary step to complete Lesson Developer certification.
+    training in how to design and develop open source curriculum using The Carpentries lesson infrastructure; a necessary step to complete {term}`Lesson Developer <lesson developer>` certification.
 
 Committee
     group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Guidelines](https://docs.carpentries.org/resources/general/committees.html) provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities.
 
 Community 
-    a network of regional and role-based volunteers, practitioners, and advocates who advance research by emphasising the critical role of software and data; also see __Community Member__.
+    a network of regional and role-based volunteers, practitioners, and advocates who advance research by emphasising the critical role of software and data; also refer to {term}`Community Member <community member>`.
 
 Community Calendar
-    [Google calendar](https://carpentries.org/community/#community-events) that includes all Carpentries events.
+    [Google calendar](https://carpentries.org/community/events/) that includes all Carpentries events.
 
 Community Development Program (CDP)
-    the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., Subcommunity Coordinators); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
+    the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., {term}`Subcommunity Coordinators <subcommunity coordinator>`); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
 
 Community Engagement Team (CET)
-    The Community Engagement Team is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunities <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
+    is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
 Community Discussion Session
     structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing.
@@ -261,7 +261,7 @@ Lesson
     self-contained collection of episodes teaching skills within a single topic, built using the Lesson Infrastructure.
 
 Lesson Developer
-    member of the community who creates lesson content; may use Curriculum Development Handbook as a primary resource.
+    member of the community who creates lesson content; may use the Lesson Developer Handbook as a primary resource.
 
 Lesson Developer Trainer
     member of the community who has been trained and certified to teach Collaborative Lesson Development Training; they also attend Lesson Developer Trainer meetings.
