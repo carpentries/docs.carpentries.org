@@ -122,7 +122,7 @@ html_theme_options = {
     "navbar_align": "content",
 
     # Set social media links right section of top nav bar
-    "navbar_end": ["navbar-icon-links"],
+    "navbar_end": ["donate_block", "navbar-icon-links"],
 
     # Set nothing to always be in top nav bar, otherwise search is in nav bar
     "navbar_persistent": [],
