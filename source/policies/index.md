@@ -1,7 +1,7 @@
 # Carpentries Policies
 
 
-* [Bylaws](/_static/carpentries_inc_bylaws.pdf)
+* [Bylaws](https://carpentries.org/governance/carpentries_inc_bylaws.pdf)
 * [IRS 501c3 Status Approval Letter](/_static/IRS_501c3_Status_Approval_Letter.pdf)
 * [Code of Conduct](/policies/coc/index.md)
 * [Privacy Policy](privacy.md)
