@@ -94,14 +94,11 @@ Community Development Program (CDP)
 Community Engagement Team (CET)
     is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
-Community Discussion Session
-    structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing.
-
 Community Member
     an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
 
 Community Session
-    community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Sessions, Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
+    community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: General Community Sessions (which can be on any topic relevant to the community that can be in any format of the host’s choosing), Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
 
 Community Session Host
     member of The Carpentries community who facilitates a Community Session.
@@ -502,6 +499,9 @@ Cohort
 
 Community Buddy
     member of the community who onboards new community members.
+
+Community Discussion Session
+    structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing.
 
 Communications Facilitator
     community facilitator who helped translate key communications so we could share these in languages other than English across our social media channels and lead region-specific outreach campaigns.
