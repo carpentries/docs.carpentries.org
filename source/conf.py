@@ -122,7 +122,7 @@ html_theme_options = {
     "navbar_align": "content",
 
     # Set social media links right section of top nav bar
-    "navbar_end": ["navbar-icon-links"],
+    "navbar_end": ["donate_block", "navbar-icon-links"],
 
     # Set nothing to always be in top nav bar, otherwise search is in nav bar
     "navbar_persistent": [],
@@ -193,7 +193,7 @@ myst_substitutions = {
   # General resources
   "glossary": handbook_url + "resources/general/glossary.html",
   "code_of_conduct": handbook_url + "policies/coc/",
-  "donate": "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497",
+  "donate": "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=handbook",
   "topicbox_guide": "https://zenodo.org/records/14235644",
   "slack_guide": "https://zenodo.org/records/15401712",
 
