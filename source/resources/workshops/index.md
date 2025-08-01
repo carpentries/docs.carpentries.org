@@ -8,6 +8,8 @@
 
 [Email Templates](email_templates.md): Pre-written text to advertise your workshop, recruit helpers, email learners, and more! 
 
+[Learner Certificates](https://github.com/carpentries/learner-certificates): Build certificates to distribute to learners as acknowledgement of their participation in your workshop.
+
 [AMY Community Users Guide](https://carpentries.github.io/amy/users_guide/community_index/): Information for accessing your AMY profile.
 
 [Genomics Workshops Terms of Agreement](genomics_policy.md): Policy about setting up AWS instances for Data Carpentry Genomics workshops.
