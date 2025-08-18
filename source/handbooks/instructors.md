@@ -316,9 +316,6 @@ sets the tone for the day. The [instructor training material](https://carpentrie
 [The Carpentries Toolkit of IDEAS \|
 Zenodo](https://zenodo.org/record/7041935#.Y4on_svMJD_)
 
-Before you start, review our [accessibility
-checklist](https://carpentries.org/files/pdf/accessibility-checklist-virtual-events.pdf).
-
 **Varying Skill Level**
 
 Carpentries workshops frequently include many people with widely varying
