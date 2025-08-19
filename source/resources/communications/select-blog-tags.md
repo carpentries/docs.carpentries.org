@@ -112,13 +112,16 @@ Blog posts related to technology we use to support our operations (e.g. AMY, Hel
 About activities hosted or promoted by the Instructor Development Committee.
 
 ### Instructor Trainers
-About Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience.
+For blog posts about Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience.
+
+### Instructor Trainers Leadership Committee
+For blog posts about the Instructor Trainers Leadership Committee (ITLC), a committee that provides governance and development support of Instructor Trainers, and makes decisions on behalf of that community that affect the Instructor Training program and related policies. 
 
 ### Instructors 	
-About Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
+For blog posts about Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
 
 ### Internationalisation 	
-Posts highlighting translation and internationalisation efforts in The Carpentries.
+For blog posts highlighting translation and internationalisation efforts in The Carpentries.
 
 ### Japan
 For blog posts related to Carpentries' work in Japan.
