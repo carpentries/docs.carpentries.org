@@ -22,7 +22,7 @@ Topics covered during community sessions range from teaching
 workshops and developing curricula to building local communities and
 assessing the impact of our workshops globally. There are four types:
 
-1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. Each month, the Community Development Team hosts **Welcome Sessions** for new community members to meet members of the Core Team and learn about ways to engage with the organisation. 
+1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. The Core Team also hosts various **Welcome Sessions** each month for new community members to meet members of the Core Team and learn about ways to engage with the organisation. 
 1. **Regional Community Calls:** These calls are hosted by our local and  regional subcommunities. A list of local and regional calls can be   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
 1. **Skill- up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
 1. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity. 
@@ -70,7 +70,7 @@ Instructions are provided below:
 ## Offboarding
 
 If you are no longer interested in serving as a Community Session
-Host, please send an [email to the Community Development
+Host, please send an [email to the Community Engagement
 Team](mailto:community@carpentries.org). They will remove you from
 the #discussion-host Slack channel and unsubscribe you from the
 Session Host mailing list.
