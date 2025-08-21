@@ -284,11 +284,11 @@ Lesson Program Governance Committee
 Liaison
     representative of the Core Team who sits on a committee or task force to support the group's work. 
 
-Local Subcommunity
-    members of a local subcommunity within a specific geographic region; refer to {term}`Subcommunity<subcommunity>`.
-
 Listserv
     refer to  {term}`Mailing List<mailing list>`.
+
+Local Community
+    members of a subcommunity whose focus is Carpentries activities at a specified local and institutional level (town, city, at a university or research institution); refer to {term}`Subcommunity<subcommunity>`; compare to {term}`Regional Community <regional community>`.
 
 ```
 
@@ -347,6 +347,9 @@ Policy
 Red Sticky
     constructive feedback from the community or for the community.
 
+Regional Community
+    a subcommunity whose focus is Carpentries activities at a specified large geographical (regional, national, provincial or district) area; refer to {term}`Subcommunity<subcommunity>`; compare to {term}`Local Community <local community>`.
+
 Regional Community Call
     community session of regional subcommunity matters. 
 
@@ -381,7 +384,7 @@ Strategic Plan
     document used to communicate The Carpentries' goals, objectives, and actions taken to achieve those goals over a three to five-year period.
 
 Subcommunity
-    a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests. 
+    a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests; refer to {term}`Local Community <local community>`and {term}`Regional Community <regional community>`.
 
 Subcommunity Coordinator
     member of the community who serves as leader of a subcommunity.
