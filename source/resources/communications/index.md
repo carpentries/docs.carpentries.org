@@ -19,6 +19,10 @@
 * [YouTube](https://www.youtube.com/thecarpentries)
 
 
+## Situation response and communications
+
+* [The Carpentries Situation Response and Communications Playbook](https://docs.google.com/document/d/1X0wH75oScgVsfLVxTIwhAdW4WRivZfxSTDFxXUsexXw/)
+
 ## Styles, branding, and logos
 
 * [Style Guide](style-guide.md)
