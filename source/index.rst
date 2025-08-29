@@ -19,6 +19,7 @@ Highlighted Resources
     Guide to Sharing Communications with The Carpentries </resources/communications/sharing_resources>
     Welcome Tip Sheet <https://doi.org/10.5281/zenodo.8124923>
     Instructor Tip Sheet <https://doi.org/10.5281/zenodo.8125137>
+    Membership Tip Sheet <https://zenodo.org/records/15081158>
     Mastodon Quick Start Guide  <https://doi.org/10.5281/zenodo.10019852>
     A Guide for Collaborating with The Carpentries on Grants <resources/general/collaborating-on-grants>
     Donation Request Resources <resources/general/donation-request-resources>
