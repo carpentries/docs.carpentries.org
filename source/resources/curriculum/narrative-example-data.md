@@ -97,11 +97,11 @@ GNU offers commentary about a variety of licenses for free software; this resour
 
 #### Examples of Example Datasets
 
-* The [Ecology Data Carpentry lessons'](https://datacarpentry.org/lessons/#ecology-workshop) dataset comes from the [Portal
+* The [Ecology Data Carpentry curriculum's](https://datacarpentry.org/lessons/#ecology-workshop) dataset comes from the [Portal
 Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
 This dataset is an actual ecological research project's data that was simplified for teaching.
 The reuse of this dataset throughout the Data Carpentry Ecology lessons helps stitch together the process of data analysis throughout the workshop, from data entry and cleaning to analysis and visualization.
-* The [Social Sciences Data Carpentry lessons'](https://datacarpentry.org/lessons/#social-science-curriculum) dataset is the 
+* The [Social Sciences Data Carpentry curriculum's](https://datacarpentry.org/lessons/#social-science-curriculum) dataset is the 
 [teaching version](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) of the full Studying African Farmer-Led Irrigation (SAFI) dataset. 
 The SAFI dataset represents interviews of farmers in Mozambique and Tanzania, conducted between November 2016 and June 2017.
 The interviews surveyed household features (e.g. construction materials used for dwellings, number of household members), agricultural practices (e.g. water usage) and assets (e.g. number and types of livestock). 
