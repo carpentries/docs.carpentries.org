@@ -18,7 +18,22 @@ Any usage of a derived/modified version of The Carpentries logo or wordmark must
 
 The Carpentries has a number of local and domain-specific communities, and we encourage the development of derived/modified logos that indicate the group’s location or focus. To support the development of domain and region-specific logos, we have outlined the approved modifications to The Carpentries logo and wordmark below.
 
-The colours of the “wrench mark” can be modified to what is appropriate for your domain/region, but no added shapes or distortions (including orientation) are allowed. The domain/region name for your group should be added beneath The Carpentries in Carpentries red (Hex: FF4955)
+The colours of the “wrench mark” can be modified to what is appropriate for your domain/region, but no added shapes or distortions (including orientation) are allowed. The domain/region name for your group should be added beneath The Carpentries in Carpentries red (Hex: FF4955).
+
+```{image} ./images/heidelberg_logo.png
+   :alt: My first logo
+   :width: 75%
+   :align: center
+```
+
+```{image} ./images/north_rhine_westphalia_logo.png
+   :alt: My second logo
+   :width: 75%
+   :align: center
+```
+
+*Examples of adaptation of The Carpentries logo by subcommunities applying this policy. Top to bottom: The logos of The Carpentries North Rhine-Westphalia Germany subcommunity, and The Carpentries Heidelberg subcommunity.*
+
 
 If you are a local Carpentries member and wish to modify the logo according to these guidelines, please email [community@carpentries.org](mailto:carpentries.org) and we will either approve your modification or assist you in creating the modified version.
 
