@@ -33,7 +33,7 @@ Just like the narrative, finding the right dataset involves striking a balance b
 * [Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html) 
   uses the narrative of creating a website for a research project to teach authoring webpages with Markdown and compiling them into a website served on GitHub.
 * [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/) uses the narrative of a poorly designed software project 
-  (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
+  (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
   
 ### Finding Images
 Copying an image from a website is technologically simple but can be legally and ethically complex.
@@ -118,7 +118,7 @@ The following repositories are good places to start looking for example data to 
 - [The Offical Portal for European Data](https://data.europa.eu/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [DataONE](https://www.dataone.org/)
-- [The Data Curation Network's datasets](https://datacurationnetwork.org/datasets/)
+- [The Data Curation Network's datasets](https://datacuration.network/datasets/)
 - [The Official Portal for Argentina Data](https://www.datos.gob.ar/) (in Spanish)
 - [LANFRICA](https://lanfrica.com/)
 
