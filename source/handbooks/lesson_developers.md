@@ -280,6 +280,11 @@ lesson website development, and collaboration via GitHub. Community
 members can apply to join this training, and/or follow the curriculum in
 their own time.
 
+### [Choosing a Narrative and Dataset for a Lesson](/resources/curriculum/narrative-example-data.md)
+
+Guidance for lesson developers when choosing a narrative for their lesson and example data to include in it.
+Includes lists of points to consider when choosing a narrative and example dataset, and associated information about licensing and the publication of data.
+
 ### [Pilot Workshop Feedback Survey Template](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
 
 The standard Carpentries pre- and post-workshop surveys do not support

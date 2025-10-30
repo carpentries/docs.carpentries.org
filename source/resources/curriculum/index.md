@@ -1,6 +1,7 @@
 # Curriculum Resources 
 
 * [Carpentries Curriculum Structure](curriculum-structure.md): An overview of how lessons and curricula are organised in The Carpentries.
+* [Choosing a Narrative and Dataset for a Lesson](narrative-example-data.md): Advice for lesson developers when considering a narrative and example data to use in a new lesson.
 * [Curriculum Overview Pages](workshop-overview-lessons.md): Learn about how and why to create a lesson site as a "front page" to a curriculum that combines multiple lessons.
 * [The Life Cycle of Lessons](lesson-life-cycle.md): A description of the "life cycle" model we use to describe the maturity of lessons under development, and a list of resources and activities that can be helpful at each stage of the process.
 * [Forking a Lesson Repository](lesson-forks.md): Guidance on how to set up your own fork of a Carpentries Workbench lesson repository.
