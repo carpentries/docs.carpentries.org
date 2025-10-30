@@ -203,7 +203,7 @@ also available in the {{'[Community Calendar]({}/community/events/)'.format(carp
 #### During the Session
 
 -  Use or adapt the Script for Starting a [Community
-   Session](#script-for-starting-a-community-discussion).
+   Session](#script-for-starting-a-community-session).
 -  If relevant, follow the sample agendas provided at the bottom of the
    {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}} and
    also available in the [resources section of this
@@ -252,7 +252,7 @@ We recognise that even after scheduling community sessions, the host may have co
 
 ## Resources
 
-### Script for Starting a Community Sessions
+### Script for Starting a Community Session
 
 *Community Session Hosts can use or adapt this script at the start of
 their community session.*
@@ -311,7 +311,7 @@ used.*
 -  Welcome, introductions, and a reminder of the Code of Conduct (5 minutes)
 
    -  [Script for starting a community
-      session](#script-for-starting-a-community-discussion)
+      session](#script-for-starting-a-community-session)
    -  Attendee introductions
 
       -  Name, affiliation/position, motivation for attending

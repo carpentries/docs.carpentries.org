@@ -9,7 +9,7 @@
 
 * [Guide to Sharing Communications with The Carpentries](sharing_resources.md)
 * [Slack](slack-and-email.md#slack-quick-start-guide)
-* [Mailing lists (Topicbox)](slack-and-email.md#topicbox)
+* [Mailing lists (Topicbox)](slack-and-email.md#topicbox-quick-start-guide)
 * [Zoom](zoom_rooms.md)
 * [Mastodon](https://hachyderm.io/@thecarpentries)
 * [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
