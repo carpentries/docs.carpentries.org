@@ -87,21 +87,21 @@ GNU offers commentary about a variety of licenses for free software; this resour
 1. It is also essential to think about data privacy: is there any potentially identifiable information included in the data? 
    If so, how could you remove it?
 1. Data is commonly misused from historically excluded and exploited groups.
-   When choosing a dataset, nsure that the data was collected with permission from the groups or individuals included.
+   When choosing a dataset, ensure that the data was collected with permission from the groups or individuals included.
    Consider whether the data could be upsetting to learners in a workshop.
    The [CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point for thinking about data sovereignty and considering the ethics of data collected about an individual or groups of people.
-1. Provide a "data dictionary" in your lesson, giving an overview of the datas, where it came from, and how it was generated.
+1. Provide a "data dictionary" in your lesson, giving an overview of the data, where it came from, and how it was generated.
    Include a short description of each variable, a key for the column names in data tables, encoding of values, etc.
    For inspiration, see [the data dictionary from the Data Carpentry: Social Sciences curriculum](https://datacarpentry.org/socialsci-workshop/data.html).
 
 
 #### Examples of Example Datasets
 
-* The [Ecology Data Carpentry curriculum's](https://datacarpentry.org/lessons/#ecology-workshop) dataset comes from the [Portal
+* The [Ecology Data Carpentry curriculum's](https://datacarpentry.org/lessons/#ecology) dataset comes from the [Portal
 Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
 This dataset is an actual ecological research project's data that was simplified for teaching.
-The reuse of this dataset throughout the Data Carpentry Ecology lessons helps stitch together the process of data analysis throughout the workshop, from data entry and cleaning to analysis and visualization.
-* The [Social Sciences Data Carpentry curriculum's](https://datacarpentry.org/lessons/#social-science-curriculum) dataset is the 
+The reuse of this dataset throughout the Data Carpentry Ecology lessons helps stitch together the process of data analysis throughout the workshop, from data entry and cleaning to analysis and visualisation.
+* The [Social Sciences Data Carpentry curriculum's](https://datacarpentry.org/lessons/#social-science) dataset is the 
 [teaching version](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) of the full Studying African Farmer-Led Irrigation (SAFI) dataset. 
 The SAFI dataset represents interviews of farmers in Mozambique and Tanzania, conducted between November 2016 and June 2017.
 The interviews surveyed household features (e.g. construction materials used for dwellings, number of household members), agricultural practices (e.g. water usage) and assets (e.g. number and types of livestock). 
@@ -132,8 +132,8 @@ The [Generalist Repositories Ecosystem Initiative (GREI)](https://datascience.ni
 When you publish the data for your lesson, make sure to include:
 
 * a description of each of the files included.
-* information about their provenance.
-* the lesson they are used in.
+* information about the provenance of those files.
+* the lesson in which those files are used.
 * the license terms.
 * anything else you think people need to know about the data.
 
