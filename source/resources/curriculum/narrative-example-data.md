@@ -58,6 +58,13 @@ Creative Commons offers a chart that identifies which CC licenses are compatible
 GNU offers commentary about a variety of licenses for free software; this resource may be valuable when considering a license for code:
 [GNU: Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html).
 
+#### Catalogues of Open Images
+The following repositories are good places to start looking for openly-licensed images to use in your lesson.
+
+* [Unsplash](https://unsplash.com/)
+* [Undraw](https://undraw.co/)
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
 ::::::::::::::::::
 
 ## Top Tips: Example Datasets
