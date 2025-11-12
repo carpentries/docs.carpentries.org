@@ -488,7 +488,7 @@ content in the handbook.
        section of our AMY Community Users Guide.
 
 -   **When will I be considered an Experienced Instructor?**
-    -   Ater being an Instructor for three Carpentries workshops you
+    -   After being an Instructor for three Carpentries workshops you
         will be able to take the role of Experienced Instructor in any
         Carpentries workshop.
 
