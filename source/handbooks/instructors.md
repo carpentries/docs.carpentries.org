@@ -511,13 +511,13 @@ content in the handbook.
 
 #### Online workshop
 
--   **Will I be provided with a Zoom room to teach my online workshop?**
+-   **Will I be provided with a Zoom meeting to teach my online workshop?**
     -   If your institution has a videoconferencing platform available,
         we recommend that you use that same platform for The Carpentries
         workshop. This will reduce the time needed for workshop
         organisers and learners to learn a new system. However, if you
         do not have access to a video conferencing system, we will be
-        able to provide you with access to one of our Zoom rooms.
+        able to provide you with access to one of our Zoom meetings.
         
 -   **I have never taught an online workshop, where should I begin?**
     -   All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries styled workshops.
