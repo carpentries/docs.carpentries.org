@@ -13,7 +13,7 @@ Additionally, if you feel there is a tag that fits your post, that is not in the
 ## Blog post tags
 
 ### Accessibility
-Program/process design and implementation that offers multiple avenues for access and participation. For blog posts related to The Carpentries' work on Accessibility as part of the Equity, Inclusion, and Accessibility Roadmap.
+For blog posts related to The Carpentries' work on accessibility and accessbility support, including but not limited to program/process design and implementation that offers multiple avenues for access and participation.
 
 ### Africa
 For blog posts related to Carpentries' work in Africa.
