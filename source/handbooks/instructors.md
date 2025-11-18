@@ -29,6 +29,14 @@ For a **Centrally-Organised Workshop** Instructors should expect to
 dedicate the duration of the workshop which is approximately 16 hours,
 in addition to approximately one to three hours of pre-planning meetings.
 
+### Instructor Communication and Participation Expectations
+
+To support a smooth, collaborative organising process, we ask that you reply to the workshop host and fellow Instructors within two working days of the introduction. If we do not hear from you within five working days, we may need to invite another Instructor to take your place to ensure the workshop goes as planned.
+
+We understand that circumstances may sometimes prevent a timely response. If this happens, please let the organising team know your expected availability. If you need to withdraw from teaching a Centrally-Organised workshop, please let both the workshop host and the Workshop and Instruction Team know as soon as possible so that we can arrange a suitable replacement.
+
+Active participation in all workshop-related activities, including communication with the organising team, attendance at the pre-workshop meeting, and participation during the workshop, is essential. If these expectations are not met, a member of the Workshop and Instruction Team may reach out to talk about how we can better support your engagement. Continued lack of participation may affect your status as an active Instructor.
+
 ## Onboarding
 
 Steps to becoming an Instructor.
