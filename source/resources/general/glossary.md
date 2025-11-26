@@ -384,7 +384,7 @@ Strategic Plan
     document used to communicate The Carpentries' goals, objectives, and actions taken to achieve those goals over a three to five-year period.
 
 Subcommunity
-    a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests; refer to {term}`Local Community <local community>`and {term}`Regional Community <regional community>`.
+    a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests; refer to {term}`Local Community <local community>` and {term}`Regional Community <regional community>`.
 
 Subcommunity Coordinator
     member of the community who serves as leader of a subcommunity.
