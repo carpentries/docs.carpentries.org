@@ -69,7 +69,7 @@ when stepping away from a lesson:
    page (`index.md`) to inform visitors that the lesson is not being
    actively maintained/developed. In these circumstances, consider:
 
-   1. contacting the [Incubator administratorteam](mailto:incubator@carpentries.org) to let them know that the lesson will be unmaintained, and
+   1. contacting the [Incubator administrator team](mailto:incubator@carpentries.org) to let them know that the lesson will be unmaintained, and
    2. archiving the lesson repository.
 
 If the developers wish to remove the lesson from The Carpentries
