@@ -357,7 +357,7 @@ content in the handbook.
         the workshop, WIT will provide you with the remaining instances. All AWS Instances
         will be terminated the day after the workshop.
 
-        The number of instances recieved are dependant upon the number requested by the host,
+        The number of instances received are dependant upon the number requested by the host,
         per the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.md).
        
 -   **What is a slug? And how should I use it to name my workshop
