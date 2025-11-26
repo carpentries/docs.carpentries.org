@@ -184,7 +184,7 @@ Once adopted, The Carpentries will update operations and documentation across th
 ---
 
 Update log:
-- [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/5) by the Executive Council. (The Executive Council was replaced by the Board of Directors on 1 Febrary 2025.)
+- [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/5) by the Executive Council. (The Executive Council was replaced by the Board of Directors on 1 February 2025.)
 - Updated 2019-12-29 to include Lesson Program Incubation Roadmap.
 - Updated 2021-12-21 to include the Lesson Program Governance Policy.
 - Updated 2024-05-23 to expand and clarify the Lesson Program Incubation Roadmap.

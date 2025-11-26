@@ -80,12 +80,12 @@ The following repositories are good places to start looking for openly-licensed 
     * Messiness: real data is often messy, and using example data that has been extensively sanitised or synthesised wholesale may not prepare learners for this.
       However, data cleaning can be time-consuming, reducing the space available for learners to explore other skills and concepts in the workshop.
 1. Many of the points above are in contradiction to each other, and choosing the right dataset usually involves finding an acceptable balance between them.
-   Some lesson developers choose to create their own example data: generating or synthesising your own example data provides a degree of control that is unavailable when resuing existing, real data, but may come at the cost of reduced authenticity.
+   Some lesson developers choose to create their own example data: generating or synthesising your own example data provides a degree of control that is unavailable when reusing existing, real data, but may come at the cost of reduced authenticity.
    Others modify existing data, e.g. by subsampling or selecting a subset of variables and tables from the full, published dataset.
    If you do this, make sure to document the changes made to ensure reproducibility.
 1. Also consider licensing: has the data provider granted permission for you to freely use it in your lesson and workshops?
    The best option is a dataset with a CC0 (Public Domain Dedication) license, as other licenses may have ambiguity around data reuse.
-   If you'd like to learn more about CC0 and CC-BY licensing in relation to data, refer to Katie Fortney's excellent [blogpost on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
+   If you'd like to learn more about CC0 and CC-BY licensing in relation to data, refer to Katie Fortney's excellent [blog post on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
    Lessons included in [The Carpentries Incubator][carpentries-incubator] are encouraged to use CC0 licensed data, and may be required to do so to qualify for peer review in [The Carpentries Lab][carpentries-lab].
    Even with data in the public domain, please follow best practice and give attribution to the data provider or collecting agency.
 1. Look for example data in public repositories.
@@ -122,7 +122,7 @@ The following repositories are good places to start looking for example data to 
 
 - [Dryad](https://datadryad.org/)
 - [The Open Science Framework](https://osf.io/)
-- [The Offical Portal for European Data](https://data.europa.eu/)
+- [The Official Portal for European Data](https://data.europa.eu/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [DataONE](https://www.dataone.org/)
 - [The Data Curation Network's datasets](https://datacuration.network/datasets/)

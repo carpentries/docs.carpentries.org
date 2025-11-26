@@ -162,7 +162,7 @@ There is a number of tools that in combination could be used for running effecti
       In some instances, it may be possible to combine the roles of Notetaker and Task Creator.
 
 - **Consider participants' roles and expertise.**
-  - Consider the power dynamics in the group, e.g. if you have PIs and early-career PhD candidates participating, have seperate breakout rooms for each of those groups so participants can comfortably discuss with peers (but report out at the end so folks can learn from other perspectives), have a moderator who keeps track how much folks are speaking and provide space and (gentle) prompts to encourage the lesser-spoken folks to speak, etc
+  - Consider the power dynamics in the group, e.g. if you have PIs and early-career PhD candidates participating, have separate breakout rooms for each of those groups so participants can comfortably discuss with peers (but report out at the end so folks can learn from other perspectives), have a moderator who keeps track how much folks are speaking and provide space and (gentle) prompts to encourage the lesser-spoken folks to speak, etc
 
 - **Use a chat channel for communication outside check-ins.**
   To allow participants to "unplug" from video calls/move to separate locations for the bulk of the sprint, use a text-based chat such as Slack or Gitter for discussion when not checking in.

@@ -74,7 +74,7 @@ Screen sharing options include ability to share just one window or the entire de
 
 ### Zoom chat
 
-During a meeting, users can send message to all other users or to indivdiaul participants.  Hosts can manage who participants can chat with or disable chat entirely.
+During a meeting, users can send message to all other users or to individual participants.  Hosts can manage who participants can chat with or disable chat entirely.
 
 [Read more about managing chat during a meeting](https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
