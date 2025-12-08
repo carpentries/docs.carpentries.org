@@ -304,7 +304,7 @@ There is a number of tools that in combination could be used for running effecti
 - [Gitter](https://gitter.im/) is another **instant messaging service**.
   It lacks some of the features of Slack but does not require a paid plan to remove limits on usage and it integrates well with GitHub, e.g. by allowing references to particular repositories, issues, and pull requests.
 
-These and many other tools that could be useful for organising and running your sprint are also described in [the Tools for Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html) chapter of [The Turing Way](https://the-turing-way.netlify.app/).
+These and many other tools that could be useful for organising and running your sprint are also described in [the Tools for Remote Collaboration](https://book.the-turing-way.org/collaboration/collaboration/) chapter of [The Turing Way](https://book.the-turing-way.org/).
 
 
 ## Acknowledgments
