@@ -145,3 +145,6 @@ When you publish the data for your lesson, make sure to include:
 * anything else you think people need to know about the data.
 
 See [the Figshare entry of data used in Data Carpentry Image Processing workshops](https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677) for an example.
+
+[carpentries-incubator]: https://carpentries-incubator.org/
+[carpentries-lab]: https://carpentries-lab.org/
