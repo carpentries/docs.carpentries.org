@@ -71,7 +71,6 @@ Review these if you are looking to write about your teaching experiences:
     - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5).
     - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929).
     - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461).
-- [Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
 - CarpentryCon @ Home sessions 
   - on 15 July by Angelique van Rensburg and Serah Rono - [Carpentries Instructors' Experiences from Teaching Online - Session One](https://youtu.be/vNIyz__WiM8)
   - on 23 July by Kelly Barnes and Sher! Hurt - [Carpentries Instructors' Experiences from Teaching Online - Session Two](https://youtu.be/STA9DQF5J3E)
@@ -79,12 +78,10 @@ Review these if you are looking to write about your teaching experiences:
 ## Other Relevant Resources
 
 - UK Software Sustainability Institute's [guidance for running online training events](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/).
-- Laura Czerniewicz on 15 March, [What we learnt from “going online” during university shutdowns in South Africa](https://philonedtech.com/what-we-learnt-from-going-online-during-university-shutdowns-in-south-africa/).
 - Greg Wilson on 24 March, [Teaching Online at Short Notice](https://resources.rstudio.com/webinars/teaching-online-at-short-notice).
 - [Strategies for addressing unequal technological access from the University of Cape Town](https://docs.google.com/document/d/1541zKh3UCtVKAkdITkYHWu4GXVW1lGWEdWFE-I8PeXk/edit?usp=sharing).
 - Lex Nederbragt on 2 April, [Scaling participatory live coding in an undergraduate computational biology course](https://lexnederbragt.com/blog/2020-04-02-scaling-live-coding).
 - [Detailed guide from the University of Cape Town on low-tech online teaching resources](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit).
-- [MetaDocencia](https://metadocencia.netlify.app/en/post/cumple_mes/), an educational community for teaching Spanish-speaking teachers to teach online. If you know Spanish-speaking teachers that could be interested in this new community of practice, share [this report](https://metadocencia.netlify.app/post/cumple_mes/) with them.
 - Daniel Stanford on 16 March, [Videoconferencing Alternatives: How Low-Bandwidth Teaching Will Save Us All](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/).
 - [CodeRefinery's](https://coderefinery.org) manual on [using Zoom for online teaching](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md).
 
