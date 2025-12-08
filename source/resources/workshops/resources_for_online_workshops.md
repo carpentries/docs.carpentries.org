@@ -53,7 +53,7 @@ Review these if you are looking to write about your teaching experiences:
        * If there was an asynchronous element to your workshop, did you create any resources that you can link to / share with the broader Carpentries community?
     - How many Instructors and helpers were there? What were the roles?
 3. What worked well for this workshop? Were there specific technologies or tools that you used that you would recommend? Please describe how the tools were used and what you would recommend in terms of their usage.
-4. What challenges came up during the workshop? These can be challenges in teaching online or general challenges. (It is important to know what aspects of the workshop experience remains the same regardless of online or in-person.)
+4. What challenges came up during the workshop? These can be challenges in teaching online or general challenges. (It is important to know what aspects of the workshop experience remain the same regardless of online or in-person.)
 5. In migrating the content of the workshop online, what did you learn? Were there portions of the curriculum that were easier to modify for hosting online?
 6. What do you wish you had known or considered before the workshop? What preparation would have been helpful in delivering the workshop?
 7. Which resources (e.g. blog posts, Carpentries recommendations) did you use prior to the workshop?
