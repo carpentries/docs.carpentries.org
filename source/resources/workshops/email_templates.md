@@ -127,7 +127,7 @@ Please be sure to complete our post-workshop survey [ link to survey ]. Your ans
 
 If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please contact us (team@carpentries.org). You can also join The Carpentries Discussion mailing list (https://carpentries.topicbox.com/groups/discuss), follow us on Mastodon (hachyderm.io/@thecarpentries) or BlueSky (bsky.app/profile/carpentries.carpentries.org) or LinkedIn (linkedin.com/company/the-carpentries/), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
 
-The Carpentries is is excited to support you as you  continue to develop your data analysis skills!
+The Carpentries is excited to support you as you  continue to develop your data analysis skills!
 
 Best, 
 
