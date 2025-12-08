@@ -15,7 +15,7 @@
 * [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
 * [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
 * [Blog](https://carpentries.org/blog/)
-* [Newletter](https://carpentries.org/about-us/newsletter/)
+* [Newsletter](https://carpentries.org/about-us/newsletter/)
 * [YouTube](https://www.youtube.com/thecarpentries)
 
 
