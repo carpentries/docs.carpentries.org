@@ -2,7 +2,7 @@
 
 ## Community-developed Resources
 
-* [Instructor Trainers Folder](https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t?usp=sharing): This folder contains documents created by or for Instructor Trainers. Anyone may add or store content relevant to Carpentries Instructor Training or the Instructor Trainer community. Contents may not be up to date.   
+* [Instructor Trainers Folder](https://drive.google.com/drive/folders/1A3mOUSX7P1Cgfxxx5sANiychJKa-5pPM): This folder contains documents created by or for Instructor Trainers. Anyone may add or store content relevant to Carpentries Instructor Training or the Instructor Trainer community. Contents may not be up to date.   
 * Neil’s [TTT Planning Document](https://docs.google.com/spreadsheets/d/1TFcgQaj527EenrSekPiDo9WVY_Vw-HOOzp2MlAp83Bw/edit?usp=sharing): A useful item in the Instructor Trainers folder, this spreadsheet can help you equitably divide up teaching duties for an Instructor Training event as well as keep track of section start and stop times in two time zones.  
 * Jeff’s [email templating script for demos](https://github.com/jcoliver/auto-demo-email): this community-developed resource can lighten the load of preparing for your teaching demonstration.
 
