@@ -39,7 +39,7 @@ Provide practical tips and more theoretical guidance about how to:
   If your lesson repository does not already have a code of conduct, add one.
   Like licenses, we do not recommend that you write your own code of conduct from scratch.
   Instead, re-use/adapt an existing text you find online.
-  We recommend The Carpentries [Code of Conduct](/policies/coc/index.md), which was designed with exactly these kinds of project in mind.
+  We recommend The Carpentries [Code of Conduct](/policies/coc/index.md), which was designed with exactly these kinds of projects in mind.
   Assign at least one person as the contact person/facilitator for matters relating to the Code of Conduct, and make sure all sprint participants are aware of who this is and how they should connect with them.
   You can do this by including their details in the "primer" information you provide to participants before the event and by introducing them when you mention the code of conduct at the start of the sprint itself.
 
@@ -109,7 +109,7 @@ Provide practical tips and more theoretical guidance about how to:
   Take everything you have been preparing from the other recommendations in this list and put all that information into this document so your (potential) participants can refer to it before and during the sprint.
   See [this primer document from the CarpentryCon@Home 2020 sprint](https://docs.google.com/document/d/1IwnClDjruY9yLmJEUjz-JvRptxqaLsiOTieUlgVbry8/edit?usp=sharing) on [the Library Carpentry FAIR Data and Software lesson](https://librarycarpentry.org/lc-fair-research/).
 
-There is a number of tools that in combination could be used for running effective curriculum development sprints - we cover a good number of tried and tested technologies under [the tools section](#tools-and-resources).
+There are a number of tools that in combination could be used for running effective curriculum development sprints - we cover a good number of tried and tested technologies under [the tools section](#tools-and-resources).
 
 ### Before The Sprint: Recommendations for GitHub
 
@@ -134,13 +134,13 @@ There is a number of tools that in combination could be used for running effecti
 
 - **Record information about participants and contributions.**
   - Start your event by asking people to sign-in to the shared document by providing names, [ORCID identifiers](https://orcid.org/), [GitHub usernames](https://github.com), and any other identifiers/handles that can be used to acknowledge their contributions.
-  You can also ask you the participant to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.
+  You can also ask the participants to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.
   - When working on an online repository, you can use issues to describe and assign tasks.
   This can also be directly done on the shared notes that everyone has access to.
   This helps to avoid duplication of effort during the sprint, and gives participants a way of coordinating additional discussions among themselves where appropriate to make progress on a task.
   - Prompt participants to add their details to the shared notes, so you can refer to it later and ensure everyone's contributions are recorded and proper credit is given when publishing the lesson.
 
-- **Divide co-working sessions with scheduled check-ins**
+- **Divide co-working sessions with scheduled check-ins.**
   Plan your sprint to have several co-working sessions that are followed by check-ins or report outs to allow contributors to reflect on their progress.
   This will also allow them to share what they've achieved, what's blocking their progress, where they would like some feedback and what they intend to do next.
   We recommend using a web-based shared clock such as [cuckoo.team](https://cuckoo.team/) to keep track of co-working, share-out and breaks.
@@ -227,7 +227,7 @@ There is a number of tools that in combination could be used for running effecti
   (`.zenodo.json`, `.allcontributorsrc`, etc).
 
 - **Review open pull requests.**
-  At the end of the sprint, organisers should ensure that any pull requests marke as ready for review are processed and (where appropriate) merged, so that these contributions are not forgotten or left to go stale before changes can be requested.
+  At the end of the sprint, organisers should ensure that any pull requests marked as ready for review are processed and (where appropriate) merged, so that these contributions are not forgotten or left to go stale before changes can be requested.
 
 
 ## After the Sprint
