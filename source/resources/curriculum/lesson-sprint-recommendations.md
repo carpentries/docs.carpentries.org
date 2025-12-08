@@ -327,7 +327,7 @@ and Liz Stokes.
 
 ## Further Reading
 
-- The [Guide for Collaboration](https://the-turing-way.netlify.app/collaboration/collaboration.html) section of The Turing Way has many more recommendations and guides to help your team collaborate effectively. [Many other sections of the book](https://the-turing-way.netlify.app/welcome.html) are also relevant.
-- The Turing Way's [process for organising and running a Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) has many similarities to the recommendations made here for lesson sprints. We recommend that you explore this resource, which also includes checklist and schedule templates that could fit a lesson sprint with some minor adjustments.
+- The [Guide for Collaboration](https://book.the-turing-way.org/collaboration/collaboration/) section of The Turing Way has many more recommendations and guides to help your team collaborate effectively. [Many other sections of the book](https://book.the-turing-way.org/) are also relevant.
+- The Turing Way's [process for organising and running a Book Dash](https://book.the-turing-way.org/community-handbook/bookdash/) has many similarities to the recommendations made here for lesson sprints. We recommend that you explore this resource, which also includes checklist and schedule templates that could fit a lesson sprint with some minor adjustments.
 - Greg Wilson's [Teaching Tech Together](https://teachtogether.tech) provides a more in-depth overview of the reverse design approach to lesson development as well as many useful pointers for teaching and collaborating.
 - [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/) is another valuable source of advice for writing and teaching lessons.
