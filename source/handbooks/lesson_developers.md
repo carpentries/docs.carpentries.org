@@ -84,7 +84,7 @@ Zone**->\ **Transfer Ownership**.
 
 Once scheduled, all Lesson Development Coworking Sessions are listed on
 our [Community
-Calendar](https://carpentries.org/community/#community-events). You
+Calendar](https://carpentries.org/community/events/). You
 can add relevant events to your personal calendar from there by clicking
 on the event you would like to attend.
 

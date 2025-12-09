@@ -97,7 +97,7 @@ Repositories that are **not** eligible for contribution credit include forks of 
 [r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
-[community-calendar]: https://carpentries.org/community/#community-events
+[community-calendar]: https://carpentries.org/community/events/
 [it-curriculum]: https://carpentries.github.io/instructor-training/
 [cldt-curriculum]: https://carpentries.github.io/lesson-development-training/
 
