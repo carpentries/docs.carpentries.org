@@ -130,7 +130,7 @@ An Instructor Trainer who wishes to return to Active status will have a differen
 
 ### Community Calendar
 
-All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/#community-events). Below is a list of Etherpads relevant to serving as an Instructor  Trainer. 
+All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/events/). Below is a list of Etherpads relevant to serving as an Instructor  Trainer. 
 
 * [Instructor Trainer Meetings](https://pad.carpentries.org/trainers): Used for monthly Instructor Trainer meetings.   
 * [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, see the instructions below. 
@@ -261,7 +261,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 **If no trainees have signed up:**
 
 1. Remove the event from the [Etherpad](http://pad.carpentries.org/trainers). It is important to do this first to prevent anyone from signing up\! You have permission to remove your own demo and do not need to ask.  
-2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/events/).
 
 **If trainees have signed up:**
 
@@ -271,7 +271,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
    3. You are done\!  
 2. If step 1 is skipped or unsuccessful, email the trainees to let them know the demo has been cancelled, and ask them to sign up for a different session.  
 3. Remove the event from the [Etherpad](http://pad.carpentries.org/trainers).  
-4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/events/).
 
 #### Share lessons learned from a Training event or Demo
 
