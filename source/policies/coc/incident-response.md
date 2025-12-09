@@ -53,7 +53,7 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
   Team members, and those reports
   have the potential to rise to the level of harassment as defined by United States law,
   The Carpentries Executive Team must be made aware immediately.
-* If a non-U.S. based Core Team members is involved, we may
+* If a non-U.S. based Core Team member is involved, we may
   need to bring in the Employer of Record (EOR) for country-specific advice.
 * In cases involving Core Team members that are definitely not harassment, it is ok
   to handle through CoCc without involving the Executive Team. Examples of types of things that
