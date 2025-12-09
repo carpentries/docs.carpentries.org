@@ -168,7 +168,7 @@ from members of the Core Team are posted to both channels.
 
 {{'[Slack]({})'.format(slack)}} is a communications platform adopted by
 The Carpentries for instant messaging as well as synchronous and
-asynchronous collaboration. If you are new to Slack, please checkout our
+asynchronous collaboration. If you are new to Slack, please check out our
 {{"[Slack Guide]({})".format(slack_guide)}}.
 
 There are many curriculum-specific channels. We recommend that
@@ -330,7 +330,7 @@ Committees (CACs).*
 
 -  Replacing the dataset used in the lesson with a different dataset.
    This does not include cases in which the data being used in the
-   the lesson is being updated to a new version (e.g., a new data release)
+   lesson is being updated to a new version (e.g., a new data release)
    or is modified to make it more suitable for the teaching environment
    (e.g., introduction of messiness to the dataset).
 -  Changing the software being used in the lesson. This does not include

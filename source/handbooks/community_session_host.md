@@ -451,7 +451,7 @@ or not you accept additional participants.
 
 It is very important to remind everyone of the Code of Conduct at the
 beginning of each session as The Carpentries adheres to it during all
-community events, including community session. Such behaviour would
+community events, including community sessions. Such behaviour would
 be a clear violation and you could ask the person to leave.
 
 **What if I am having trouble understanding one of the attendees?**

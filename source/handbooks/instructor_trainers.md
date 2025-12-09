@@ -3,7 +3,7 @@
 ## About This Handbook 
 
 The Instructor Trainers Handbook is designed to support members of The
-Carpentries community who are serving as a Instructor Trainer. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Carpentries community who are serving as an Instructor Trainer. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
 ## Introduction
 
@@ -246,7 +246,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 * After the timer ends, trainees should wrap up and share feedback on themselves first.  
 * Summarise or share other trainees’ feedback as time allows, concluding with your own comments. It is sometimes necessary to (gently) disagree with feedback from another trainee.  
 * Do NOT tell a trainee whether they passed immediately after their demo.  
-* After everyone has gone, if all of trainees passed, it is ok to tell the group. Either way, tell the group you will email them afterward to follow up .  
+* After everyone has gone, if all of the trainees passed, it is ok to tell the group. Either way, tell the group you will email them afterward to follow up .  
 * More tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) of the instructor training website.
 
 #### After a Demo: Report and Etherpad Cleanup
