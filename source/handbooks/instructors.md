@@ -9,7 +9,7 @@ Carpentries community who are serving as an Instructor. It is maintained by The 
 
 Carpentries Instructors are volunteers who are certified through the
 Carpentries {{"[Instructor Training program]({})".format(instructor_training_curriculum)}} to teach live-coding and data
-skills to learners through evidence based-teaching practices.
+skills to learners through evidence-based teaching practices.
 
 ## Roles and Responsibilities
 
@@ -123,7 +123,7 @@ The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a col
 -   {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
 -  {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}}: A list of our Community Discussions (including Welcome sessions) and how to sign up to attend.
 - {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}}: Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
--   {{'[Instructor Meetings]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}: A list our Instructor Meetings pads in descending order.
+-   {{'[Instructor Meetings]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}: A list of our Instructor Meetings pads in descending order.
   
 ### GitHub
 
@@ -302,7 +302,7 @@ the exercise you selected.
     -   If you do this in advance, pretty low-effort.
     -   Can also use this with any of the other strategies so people can
         find the exercise in two places.
--   Online tool, like [Socrative](https://www.socrative.com/).
+-   Online tools, like [Socrative](https://www.socrative.com/).
     -   Requires time to set up, but is great for multiple choice and T/F questions and promotes participation.
 
 In all of the examples, you will have to switch from the tool you are
