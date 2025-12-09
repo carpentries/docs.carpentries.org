@@ -143,7 +143,7 @@ All regularly scheduled Instructor Trainer community meetings and teaching demon
 * [carpentries/Instructor Trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.   
 * [carpentries/training-template](https://github.com/carpentries/training-template): the website template used for Instructor Training events  
 * [carpentries/instructor-training-bonus-modules](https://github.com/carpentries/instructor-training-bonus-modules): the Instructor Training Bonus Module Curriculum.   
-* [data-lessons/instructor-training](https://github.com/data-lessons/instructor-training): (INACTIVE \- do not contribute here unless asked to do so.) Sandbox repository that has been used to test changes to Instructor Training course material. 
+
 
 ### Slack
 
