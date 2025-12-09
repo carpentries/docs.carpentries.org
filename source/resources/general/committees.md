@@ -37,7 +37,7 @@ The following are recommended guidelines for committees. Each committee should:
   - Decision-making process
 - Maintain internal and public-facing communication:
   - Organise committee meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of the committee requires them to remain private)
-  - Post meetings in the [community calendar](https://carpentries.org/community/#community-events). Note that meetings do not necessarily need to be open to public to attend even though they are added to the calendar - for example, the Code of Conduct Committee's business meetings are public, but incident response meetings are not.
+  - Post meetings in the [community calendar](https://carpentries.org/community/events/). Note that meetings do not necessarily need to be open to public to attend even though they are added to the calendar - for example, the Code of Conduct Committee's business meetings are public, but incident response meetings are not.
   - Aim to host at least one community discussion per year to share about the committee's activities
   - Utilise other [The Carpentries community communication pathways](/resources/communications/index.md) to engage with the community as needed
 
