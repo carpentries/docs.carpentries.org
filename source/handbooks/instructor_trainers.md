@@ -260,7 +260,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 **If no trainees have signed up:**
 
-1. Remove the event from the [Etherpad](http://pad.carpentries.org/trainers). It is important to do this first to prevent anyone from signing up\! You have permission to remove your own demo and do not need to ask.  
+1. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos). It is important to do this first to prevent anyone from signing up\! You have permission to remove your own demo and do not need to ask.  
 2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
 
 **If trainees have signed up:**
@@ -270,7 +270,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
    2. Ensure someone on the Core Team knows so they can be added to the calendar invitation. When in doubt, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).  
    3. You are done\!  
 2. If step 1 is skipped or unsuccessful, email the trainees to let them know the demo has been cancelled, and ask them to sign up for a different session.  
-3. Remove the event from the [Etherpad](http://pad.carpentries.org/trainers).  
+3. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos).  
 4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
 
 #### Share lessons learned from a Training event or Demo
