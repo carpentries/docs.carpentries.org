@@ -30,8 +30,7 @@ Just like the narrative, finding the right dataset involves striking a balance b
 ### Examples of Lesson Narratives
 
 * [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of Alfredo, a chef working with his team to create a repository of his favorite recipes.
-* [Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html) 
-  uses the narrative of creating a website for a research project to teach authoring webpages with Markdown and compiling them into a website served on GitHub.
+* [Data Carpentry for Ecologists](https://datacarpentry.github.io/ecology-workshop/) uses a narrative of working through a data analysis project from data organization to data cleaning to data manipulations and visualizations.
 * [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/) uses the narrative of a poorly designed software project 
   (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
   
