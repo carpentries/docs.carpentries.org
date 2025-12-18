@@ -2,20 +2,19 @@
 
 ## About This Handbook
 
-The Community Session Host Handbook is designed to support members of The Carpentries community who are serving as a Community Session Host. It is maintained by The Carpentries Community Engagement Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Community Engagement Team](mailto:{})'.format(community_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+The Community Session Host Handbook is designed to support members of The Carpentries community who are serving as Community Session Hosts. The Carpentries Community Engagement Team maintains it.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Community Engagement Team](mailto:{})'.format(community_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
 ## Introduction
 
-Hosting a community session is a great way to meet more people in The Carpentries community, get to know the organisation better, and learn from the experiences of others and share your knowledge and expertise with an even greater number of people.
+Hosting a community session is a great way to meet more people in The Carpentries community, get to know the organisation better, learn from others' experiences, and share your knowledge and expertise with an even greater number of people.
 
-Community sessions are also an integral part of our {{'[Instructor Training Certification Process ({}/checkout)'.format(instructor_training_curriculum)}}, also known as ‘Checkout’. As a Community Session Host, you get to
-welcome new Instructors into our global community and introduce them to community sessions as an ongoing resource for support and advice as they develop their teaching practices.
+Community sessions are also an integral part of our {{'[Instructor Training Certification Process ({}/checkout)'.format(instructor_training_curriculum)}}, also known as ‘Checkout’. As a Community Session Host, you get to welcome new Instructors into our global community and introduce them to community sessions as an ongoing resource for support and advice as they develop their teaching practices.
 
 Topics covered during community sessions range from teaching workshops and developing curricula to building local communities and
 assessing the impact of our workshops globally. There are four types:
 
 1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. The Core Team also hosts various **Welcome Sessions** each month for new community members to meet Core Team members and learn how to engage with the organisation. 
-1. **Regional Community Calls:** Our local and regional subcommunities host these calls. A list of local and regional calls can be   found at the top of the {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}
+1. **Regional Community Calls:** Our local and regional subcommunities host these calls. To view a list of local and regional communities and their activities, view our [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunity-registry). 
 1. **Skill-up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
 1. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity. 
 
@@ -38,11 +37,11 @@ A community member can serve as a Community Session Host. Specific responsibilit
 
 ## Onboarding
 
-We deprecated the onboarding process for Community Session Hosts. Community sessions are open to anyone in the community to host, provided that sessions adhere to The Carpentries Code of Conduct. No formal onboarding is required.
+Please note that, from 1 January 2026, the onboarding process for Community Session Hosts will no longer be in use. Community sessions are open to anyone in the community to host, provided that sessions adhere to The Carpentries Code of Conduct. No formal onboarding is required.
 
 ## Offboarding
 
-If you are no longer interested in hosting community sessions, please send an[email to the Community Engagement
+If you are no longer interested in hosting community sessions, please send an [email to the Community Engagement
 Team](mailto:community@carpentries.org). They will remove you from the #discussion-host Slack channel and unsubscribe you from the
 Session Host mailing list.
 
@@ -60,16 +59,14 @@ sessions will also be listed on our {{'[Community Calendar]({}/community/events/
 
 A list of Etherpads relevant to serving as a Community Session Host includes:
 
--  {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: This Etherpad contains a list of Etherpads available for Community Session Hosts to use. Instead of using the Etherpad as we have in the past, we will use Pretix for Community Sessions sign ups starting Q1 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).  
+-  {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: This Etherpad contains a list of Etherpads available for Community Session Hosts to use. Instead of using the Etherpad as we have in the past, we will use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).  
 -  {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
 
 ### Messaging and Communication
 
-Slack is the software platform The Carpentries uses to support synchronous and asynchronous communication. Channels support
-communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose. You can {{'[join The Carpentries Slack workspace]({})'.format(slack_invite)}} to follow conversations on the channel relevant to this role:
+Slack is the software platform that The Carpentries uses to support synchronous and asynchronous communication. Channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose. You can {{'[join The Carpentries Slack workspace]({})'.format(slack_invite)}} to follow conversations on the channel relevant to this role:
 
--  #discussion-hosts: channel for Community Session Hosts and those
-   interested in hosting community sessions
+-  #discussion-hosts: channel for Community Session Hosts and those interested in hosting community sessions
 
 If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will help you set up your profile and give you an overview of how we use the platform day to day.
 
@@ -92,24 +89,19 @@ This section includes step-by-step guides to support you in your role as a Commu
 
 ![Calendly signup animation](/images/calendly.gif)
 
--  Once hosts have scheduled themselves for a Community Session via Calendly, an automated workflow will add each event to [Pretix](https://pretix.carpentries.org/community-events/) and the [Community Calendar](https://carpentries.org/community/events/). Another communication from the Community Engagement Team will inform hosts when the sessions have been added.
+-  Once hosts have scheduled themselves for a Community Session via Calendly, a workflow will add each event to [Pretix](https://pretix.carpentries.org/community-events/) and the [Community Calendar](https://carpentries.org/community/events/). 
 -  In the rare instance that you need to schedule a session outside of the quarterly scheduling period, the Community Session Host should
 reach out to the [Community Engagement Team](mailto:community@carpentries.com). The session is not confirmed until a Community Engagement Team member contacts the host.
 
-### Signing Up to Host a Regional Community Call
+#### Signing Up to Host a Local or Regional Community Call
 
-Subcommunity Leaders are responsible for scheduling and hosting
-Regional Community Calls. These calls are currently listed on the [Community Calendar](https://carpentries.org/community/events/). If a
-Subcommunity Leader is interested in listing a Regional Community Call there and having it added to The Carpentries Community Calendar; they
-should email community@carpentries.org. If they instead want to have the call added to Pretix where individuals can sign up to attend, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Session section of this handbook](#step-by-step-guides). This will automatically add the event to the Community Calendar and Pretix. To learn more about becoming a Subcommunity Leader, please visit the [FAQs section of this handbook](#faq).
+Subcommunity Leaders are responsible for scheduling and hosting local and regional community calls. These calls are currently listed on the [Community Calendar](https://carpentries.org/community/events/). If a Subcommunity Leader is interested in listing a Regional Community Call there and having it added to The Carpentries Community Calendar, they should email community@carpentries.org. If they instead want to have the call added to Pretix where individuals can sign up to attend, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Session section of this handbook](#step-by-step-guides). This will automatically add the event to the Community Calendar and Pretix. To learn more about becoming a Subcommunity Leader, please visit the [FAQs section of this handbook](#faq).
 
 ### Checklist for Hosting a Community Session
 
 #### Using Pretix for Community Sessions
 
-Starting in Q1 2026, The Carpentries will use Pretix for participants to sign up for Community Sessions. As part of The Carpentries commitment to a consolidated event-management system, we are moving registration into a secure platform to protect participant privacy, improve workflows such as time zone display and automated notifications, and strengthen our ability to track key data, including registration and no-show rates, enabling us to make more informed decisions about future work. Previously, Community Session Hosts completed a host form listing participants (and other information during the Community Session). 
-
-From 1 January 2026, this will change. Community hosts will need to check-in participants via Pretix. Hosts will receive an email with instructions on setting up their Pretix account to check participants in. We recommend that Community Session Hosts log in at least 1-2 weeks before their session to troubleshoot if needed.  If you have not received this email one week before your Community Session, please email community@carpentries.org
+Starting in Q1 2026, The Carpentries will use Pretix for participants to sign up for Community Sessions. As part of The Carpentries commitment to a consolidated event-management system, we are moving registration into a secure platform to protect participant privacy, improve workflows such as time zone display and automated notifications, and strengthen our ability to track key data, including registration and no-show rates, enabling us to make more informed decisions about future work. Previously, Community Session Hosts completed a host form listing participants (and other information during the Community Session). From 1 January 2026, this will change. Community hosts will need to check-in participants via Pretix. Hosts will receive an email with instructions on setting up their Pretix account to check participants in. We recommend that Community Session Hosts log in at least 1-2 weeks before their session to troubleshoot if needed.  If you have not received this email one week before your Community Session, please email community@carpentries.org
 
 The public link to sign up for community sessions is https://pretix.carpentries.org/community-events/community-sessions 
 
@@ -172,7 +164,7 @@ If participants have signed up but Community Sessions hosts need to cancel, plea
 
 -  Sign on at least 5 minutes before the beginning of the session.
 -  It is recommended to create a waiting room. This enables the host to explicitly let people in, rather than allowing anyone to enter.
-   -  [Learn about how to enable and use a waiting room as host.](/resources/communications/zoom_rooms.md#using-a-waiting-room)
+   -  [Learn about how to enable and use a waiting room as host](/resources/communications/zoom_rooms.md#using-a-waiting-room)
  -  Gain host access.
    -  Two days before the event, the host will receive an automated email from Calendly that includes the host key.
    -  [Learn about how to use the host key to claim host access.](/resources/communications/zoom_rooms.md#gaining-host-access).
@@ -252,39 +244,31 @@ introductions, but I want to cover a few logistics before we get
 started.
 
 -  We will be using the Etherpad for collaborative note-taking. Everyone
-   is welcome to take notes during the call today, but [name] will also
-   be serving as a designated note-taker.
-
+   is welcome to take notes during the call today, but [name] will also be serving as a designated note-taker.
    -  *Host should share the link in chat:* {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}
-
 -  I have enabled automated closed captioning that you can display on
    your screen using the captioning feature.
 -  If you have a question, please use the reaction to “raise hand” in
    Zoom.
 -  To make clear what is expected, everyone participating in The
    Carpentries activities are required to abide by our Code of Conduct.
-
    -  *Host should share the link in the chat:* {{'[Code of Conduct]({})'.format(code_of_conduct)}} 
    -  Any form of behaviour to exclude, intimidate, or cause discomfort
       is a violation of the Code of Conduct. To foster a
       positive and professional learning environment, we encourage you
       to:
-
       -  Use welcoming and inclusive language
-      -  Be respectful of different viewpoints, and experiences
+      -  Be respectful of different viewpoints and experiences
       -  Gracefully accept constructive criticism
       -  Focus on what is best for the community
       -  Show courtesy and respect towards other community members
-
    -  If you believe someone is violating the Code of Conduct, we ask
       that you report it to The Carpentries Code of Conduct Committee by
       completing this form.
-
       -  *Host should share the link in chat:* [The Carpentries Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 -  If you are attending this session as part of Instructor Training
-   Checkout, please make sure you have added the word ‘checkout’ next to
-   your name on the Etherpad. This will ensure that you get credit for
-   attending.
+   Checkout, please make sure you have registered on Pretix.
+     -  *Host should share the link in chat:* [Community Sessions on Pretix](https://pretix.carpentries.org/community-events/community-sessions/)
 
 Does anyone have any questions before we get started?
 
@@ -317,7 +301,7 @@ used.*
    -  How are Instructors sharing roles/responsibilities? Is there a
       designated “lead Instructor”, or will you act as co-Instructors?
 
--  Participants discuss instructor training checkout (5 minutes)
+-  Participants discuss Instructor Training checkout (5 minutes)
 
    -  Questions about checkout procedure, lessons, or workshop
       organisation?
@@ -429,8 +413,8 @@ conversation. There is also a point in the agenda that allows you as the
 host to talk to participants and ask them each for a specific question
 that they need answering.
 
-**What if someone asks to join my Community Session session to
-complete their instructor checkout session and it is already full?**
+**What if someone asks to join my Community Session to
+complete their Instructor checkout session and it is already full?**
 
 Participants can email the host and ask to join the session even though
 it is fully booked. It is up to your personal discretion as to whether
@@ -459,11 +443,11 @@ new Etherpad can be created by appending a descriptive name to the URL
 https://pad.carpentries.org/, such as
 https://pad.carpentries.org/themed-discussion-15-09-2022.
 
-**How can I become a Community Coordinator?**
+**How can I become a Subcommunity Leader?**
 
-A Subcommunity Coordinator is a member of the community who serves as the
+A Subcommunity Leader is a member of the community who serves as the
 leader of a subcommunity within The Carpentries. This role is being
-formalised through the Community Development Program. If you are
+formalised through the Community Engagement Program. If you are
 interested in learning more, please email community@carpentries.org.
 
 
