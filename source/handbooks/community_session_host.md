@@ -14,7 +14,7 @@ Topics covered during community sessions range from teaching workshops and devel
 assessing the impact of our workshops globally. There are four types:
 
 1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. The Core Team also hosts various **Welcome Sessions** each month for new [community members](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) to meet Core Team members and learn how to engage with the organisation. 
-1. **Regional Community Calls:** Our local and regional subcommunities host these calls. To view a list of local and regional communities and their activities, view our [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunity-registry). 
+1. **Regional Community Sessions:** Our local and regional subcommunities host these sessions. To view a list of local and regional communities and their activities, view our [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunity-registry). 
 1. **Skill-up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
 1. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity. 
 
@@ -52,7 +52,7 @@ spaces are expected to follow {{"[The Carpentries Code of Conduct]({})".format(c
 
 ### Community Calendar
 
-Once you have scheduled a call, a calendar invite will be sent to the email address you used when signing up. All community
+Once you have scheduled a session, a calendar invite will be sent to the email address you used when signing up. All community
 sessions will also be listed on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}.
 
 ### Etherpad
@@ -93,9 +93,9 @@ This section includes step-by-step guides to support you in your role as a Commu
 -  In the rare instance that you need to schedule a session outside of the quarterly scheduling period, the Community Session Host should
 reach out to the [Community Engagement Team](mailto:community@carpentries.com). The session is not confirmed until a Community Engagement Team member contacts the host.
 
-#### Signing Up to Host a Local or Regional Community Call
+#### Signing Up to Host a Local or Regional Community Session
 
-Subcommunity Leaders are responsible for scheduling and hosting local and regional community calls. These calls are currently listed on the [Community Calendar](https://carpentries.org/community/events/). If a Subcommunity Leader is interested in listing a Regional Community Call there and having it added to The Carpentries Community Calendar, they should email community@carpentries.org. If they instead want to have the call added to Pretix where individuals can sign up to attend, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Session section of this handbook](#step-by-step-guides). This will automatically add the event to the Community Calendar and Pretix. To learn more about becoming a Subcommunity Leader, please visit the [FAQs section of this handbook](#faq).
+Subcommunity Leaders are responsible for scheduling and hosting local and regional community sessions. These sessions are currently listed on the [Community Calendar](https://carpentries.org/community/events/). If a Subcommunity Leader is interested in listing a Regional Community Session there and having it added to The Carpentries Community Calendar, they should email community@carpentries.org. If they instead want to have the session added to Pretix where individuals can sign up to attend, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Session section of this handbook](#step-by-step-guides). This will automatically add the event to the Community Calendar and Pretix. To learn more about becoming a Subcommunity Leader, please visit the [FAQs section of this handbook](#faq).
 
 ### Checklist for Hosting a Community Session
 
@@ -244,7 +244,7 @@ introductions, but I want to cover a few logistics before we get
 started.
 
 -  We will be using the Etherpad for collaborative note-taking. Everyone
-   is welcome to take notes during the call today, but [name] will also be serving as a designated note-taker.
+   is welcome to take notes during the session today, but [name] will also be serving as a designated note-taker.
    -  *Host should share the link in chat:* {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}
 -  I have enabled automated closed captioning that you can display on
    your screen using the captioning feature.
