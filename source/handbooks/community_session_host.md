@@ -13,7 +13,7 @@ Community sessions are also an integral part of our {{'[Instructor Training Cert
 Topics covered during community sessions range from teaching workshops and developing curricula to building local communities and
 assessing the impact of our workshops globally. There are four types:
 
-1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. The Core Team also hosts various **Welcome Sessions** each month for new community members to meet Core Team members and learn how to engage with the organisation. 
+1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. The Core Team also hosts various **Welcome Sessions** each month for new [community members](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) to meet Core Team members and learn how to engage with the organisation. 
 1. **Regional Community Calls:** Our local and regional subcommunities host these calls. To view a list of local and regional communities and their activities, view our [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunity-registry). 
 1. **Skill-up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
 1. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity. 
@@ -22,7 +22,7 @@ assessing the impact of our workshops globally. There are four types:
 
 ## Roles and Responsibilities
 
-A community member can serve as a Community Session Host. Specific responsibilities include:
+A [community member](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) can serve as a Community Session Host. Specific responsibilities include:
 
 -  Sign up to receive relevant communications for serving in this role.
    Instructions for signing up can be found in the [Communication and
@@ -64,7 +64,7 @@ A list of Etherpads relevant to serving as a Community Session Host includes:
 
 ### Messaging and Communication
 
-Slack is the software platform that The Carpentries uses to support synchronous and asynchronous communication. Channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose. You can {{'[join The Carpentries Slack workspace]({})'.format(slack_invite)}} to follow conversations on the channel relevant to this role:
+Slack is the software platform that The Carpentries uses to support synchronous and asynchronous communication. Channels support communications, collaboration and co-creation among a subset of [community members](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), depending on the channel’s purpose. You can {{'[join The Carpentries Slack workspace]({})'.format(slack_invite)}} to follow conversations on the channel relevant to this role:
 
 -  #discussion-hosts: channel for Community Session Hosts and those interested in hosting community sessions
 
