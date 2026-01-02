@@ -156,7 +156,7 @@ The Community Session Host can review registration for their session at any time
 
 ##### Cancelling the session
 
-You may also choose to cancel a discussion if no one has signed up a few days before the session. Please contact [community@carpentries.org](mailto:community@carpentries.org) to inform them of the cancellation. They will update the community calendar and remove the session from Pretix.
+You may also choose to cancel a discussion if no one has signed up two days before the session. Please contact [community@carpentries.org](mailto:community@carpentries.org) to inform them of the cancellation. They will update the community calendar and remove the session from Pretix.
 
 If participants have signed up but Community Sessions hosts need to cancel, please contact [community@carpentries.org](mailto:community@carpentries.org).
 
