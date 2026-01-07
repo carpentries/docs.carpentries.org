@@ -214,7 +214,7 @@ The Community Session Host must record attendance by checking people in on Preti
 
 ##### How to check-in participants to Pretix
 
-1. Open the following link: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)
+1. Open the following link: <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)
 
 ![Step 1: Open the following link: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)](../img/Pretix_Step_1.png)
 
