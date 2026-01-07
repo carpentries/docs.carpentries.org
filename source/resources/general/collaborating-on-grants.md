@@ -32,13 +32,14 @@ Below is a list of sources of grants and sponsors who have funded The Carpentrie
 - [R Consortium](https://www.r-consortium.org/)
 - [United States Department of Agriculture (USDA)](https://www.usda.gov/)
 - [Mellon Foundation](https://www.mellon.org/grant-programs/public-knowledge)
+- [The Navigation Fund](https://www.navigation.org/)
 
 For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/blog/posts-by-tags/#blog-tag-grants).
 
 ### Current and Past Sponsors
 - [Biotech Partners](http://www.biotechpartners.org/)
 - [Jump Recruits, LLC](https://jumprecruits.com/)
-- [Posit](https://rstudio.com/)
+- [Posit PBC](https://rstudio.com/)
 
 For more information about sponsorship opportunities, visit our [Sponsorship Program page](https://carpentries.org/sponsorship/).
 
