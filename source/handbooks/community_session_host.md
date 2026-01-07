@@ -178,8 +178,8 @@ If participants have signed up but Community Sessions hosts need to cancel, plea
 
 -  Use or adapt the Script for Starting a [Community Session](#script-for-starting-a-community-session).
 -  If relevant, follow the sample agendas provided at the bottom of the
-   {'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}} and
-   also available in the [resources section of this
+   {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}   
+   and also available in the [resources section of this
    handbook](#resources).
 
    -  We recommend following the main points of the agenda, but you can
@@ -216,19 +216,19 @@ The Community Session Host must record attendance by checking people in on Preti
 
 1. Open the following link: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)
 
-![Step 1: Open the following link: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)](/images/Pretix_Step_1.jpg)
+![Step 1: Open the following link: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)](../img/Pretix_Step_1.png)
 
 2. You should now be able to see a list of participants who registered for your event.
 
-![Step 2: You should now be able to see a list of participants who registered for your event.](/images/Pretix_Step_2.jpg)
+![Step 2: You should now be able to see a list of participants who registered for your event.](../img/Pretix_Step_2.png)
 
 3. Select all the participants who attended the community session by checking the box to the left of the order code.
 
-![Step 3: Select all the participants who attended the community session by checking the box to the left of the order code.](/images/Pretix_Step_3.jpg)
+![Step 3: Select all the participants who attended the community session by checking the box to the left of the order code.](../img/Pretix_Step_3.png)
 
 4. Once you have selected all the participants, you can click on “check-in selected participants”.  You will now notice the Status has changed from “Not checked in” to “Checked in”. Checked-in participants automatically get an email via Pretix reminding them to complete the survey if they have not already.
 
-![Step 4: Once you have selected all the participants, you can click on “check-in selected participants”.  You will now notice the Status has changed from “Not checked in” to “Checked in”. Checked-in participants automatically get an email via Pretix reminding them to complete the survey if they have not already.](/images/Pretix_Step_4.jpg)
+![Step 4: Once you have selected all the participants, you can click on “check-in selected participants”.  You will now notice the Status has changed from “Not checked in” to “Checked in”. Checked-in participants automatically get an email via Pretix reminding them to complete the survey if they have not already.](../img/Pretix_Step_4.png)
 
 
 ## Resources
