@@ -103,14 +103,14 @@ Subcommunity Leaders are responsible for scheduling and hosting local and region
 
 Starting in Q1 2026, The Carpentries will use Pretix for participants to sign up for Community Sessions. As part of The Carpentries commitment to a consolidated event-management system, we are moving registration into a secure platform to protect participant privacy, improve workflows such as time zone display and automated notifications, and strengthen our ability to track key data, including registration and no-show rates, enabling us to make more informed decisions about future work. Previously, Community Session Hosts completed a host form listing participants (and other information during the Community Session). From 1 January 2026, this will change. Community hosts will need to check-in participants via Pretix. Hosts will receive an email with instructions on setting up their Pretix account to check participants in. We recommend that Community Session Hosts log in at least 1-2 weeks before their session to troubleshoot if needed.  If you have not received this email one week before your Community Session, please email community@carpentries.org
 
-The public link to sign up for community sessions is https://pretix.carpentries.org/community-events/community-sessions 
+The public link to sign up for community sessions is <https://pretix.carpentries.org/community-events/community-sessions> 
 
 
 #### Before the Session
 
 ##### Changes to sign up process 
 
-Instead of using the Etherpad as we have been, we will be using Pretix for Community Sessions from Q1 2026 for participant registrations (https://pretix.carpentries.org/community-events/).  Registered participants will get an email immediately after registering and a reminder two days before the session. Community Session Hosts will get Calendly notifications (this will not change). 
+Instead of using the Etherpad as we have been, we will be using Pretix for Community Sessions from Q1 2026 for participant registrations (<https://pretix.carpentries.org/community-events/>).  Registered participants will get an email immediately after registering and a reminder two days before the session. Community Session Hosts will get Calendly notifications (this will not change). 
 
 The [Etherpad](https://pad.carpentries.org/community-sessions-2026) will not list each event. Instead, it will just show standard/general information that applies to every session. Please make a copy and complete the information for your Community Session. 
 
@@ -120,7 +120,7 @@ The [Etherpad](https://pad.carpentries.org/community-sessions-2026) will not lis
 [ENTER THE COMMUNITY SESSION TITLE AND DESCRIPTION]
 [Date of the Community Session]
 
-##### Participants to list their names below (ensure you have signed up on Pretix for this event, if not, you can still do it now - https://pretix.carpentries.org/community-events/community-sessions/):
+##### Participants to list their names below (ensure you have signed up on Pretix for this event, if not, you can still do it now - <https://pretix.carpentries.org/community-events/community-sessions/>):
 -
 -
 -
@@ -141,18 +141,18 @@ The [Etherpad](https://pad.carpentries.org/community-sessions-2026) will not lis
 
  
 We would appreciate hearing your thoughts about today’s Community Session.
-If you would like to share any feedback, please feel free to complete our short Community Session Feedback Form (https://forms.gle/yyPqEjRNJM17BWj27). Your input helps us improve and better support our community.
+If you would like to share any feedback, please feel free to complete our short Community Session Feedback Form (<https://forms.gle/yyPqEjRNJM17BWj27>). Your input helps us improve and better support our community.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-Please review the calendar and sign up here:  https://pretix.carpentries.org/community-events/community-sessions/
+Please review the calendar and sign up here:  <https://pretix.carpentries.org/community-events/community-sessions/>
 
 Agenda Template for Community Session Host (This will be updated before each session by the Community Session Host). 
 
 #### Community Session Host to review registration
 
-The Community Session Host can review registration for their session at any time. View registration here (must be signed in to Pretix): https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/   
+The Community Session Host can review registration for their session at any time. View registration here (must be signed in to Pretix): <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>   
 
 ##### Cancelling the session
 
