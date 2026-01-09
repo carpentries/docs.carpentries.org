@@ -8,7 +8,7 @@ The Community Session Host Handbook is designed to support members of The Carpen
 
 Hosting a community session is a great way to meet more people in The Carpentries community, get to know the organisation better, learn from others' experiences, and share your knowledge and expertise with an even greater number of people.
 
-Community sessions are also an integral part of our {{'[Instructor Training Certification Process ({}/checkout)'.format(instructor_training_curriculum)}}, also known as ‘Checkout’. As a Community Session Host, you get to welcome new Instructors into our global community and introduce them to community sessions as an ongoing resource for support and advice as they develop their teaching practices.
+Community sessions are also an integral part of our {{'[Instructor Training Certification Process]({}/checkout)'.format(instructor_training_curriculum)}}, also known as ‘Checkout’. As a Community Session Host, you get to welcome new Instructors into our global community and introduce them to community sessions as an ongoing resource for support and advice as they develop their teaching practices.
 
 Topics covered during community sessions range from teaching workshops and developing curricula to building local communities and
 assessing the impact of our workshops globally. There are four types:
