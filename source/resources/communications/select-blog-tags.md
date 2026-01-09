@@ -165,6 +165,9 @@ For blog posts highlighting teaching recommendations of OpenRefine, or the use o
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
 
+### Policy
+For blog posts announcing the adoption of, or alteration of terms to, Carpentries constitutional or programmatic policies.  
+
 ### Python
 For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
 
