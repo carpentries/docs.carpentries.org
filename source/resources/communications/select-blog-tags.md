@@ -165,6 +165,9 @@ For blog posts highlighting teaching recommendations of OpenRefine, or the use o
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
 
+### Publishing
+For blog posts about or related to research publication outputs, or research citations pertaining to The Carpentries and its programmes.  
+
 ### Python
 For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
 
