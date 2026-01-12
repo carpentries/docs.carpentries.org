@@ -49,7 +49,7 @@ For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
 For blog posts related to CarpentryConnect events, local and regional events led by community members.
 
 ### CLDT 
-For blog posts about The Carpentries' Collaborative Lesson Development Training a program.
+For blog posts about The Carpentries' Collaborative Lesson Development Training program.
 
 ### Code of Conduct
 Policy agreement that guides how we interact with each other and the greater community.
