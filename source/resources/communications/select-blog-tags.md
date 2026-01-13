@@ -190,7 +190,7 @@ For blog posts related to Software Carpentry, which is part of The Carpentries, 
 Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
 
 ### Strategic Plan
-Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals.
+Posts related to The Carpentries Strategic Plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals within a specified period.
 
 ### Task Force
 The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. Task forces bring together a small group of people focused on a particular topic for a set period of time.
