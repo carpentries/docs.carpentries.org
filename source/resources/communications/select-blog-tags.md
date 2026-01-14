@@ -49,7 +49,7 @@ For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
 For blog posts related to CarpentryConnect events, local and regional events led by community members.
 
 ### CLDT 
-For blog posts about The Carpentries' Collaborative Lesson Development Training a program.
+For blog posts about The Carpentries' Collaborative Lesson Development Training program.
 
 ### Code of Conduct
 Policy agreement that guides how we interact with each other and the greater community.
@@ -168,6 +168,9 @@ Blog posts related to piloting of new lessons.
 ### Policy
 For blog posts announcing the adoption of, or alteration of terms to, Carpentries constitutional or programmatic policies.  
 
+### Publishing
+For blog posts about or related to research publication outputs, or research citations pertaining to The Carpentries and its programmes.  
+
 ### Python
 For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
 
@@ -193,7 +196,7 @@ For blog posts related to Software Carpentry, which is part of The Carpentries, 
 Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
 
 ### Strategic Plan
-Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals.
+Posts related to The Carpentries Strategic Plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals within a specified period.
 
 ### Task Force
 The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. Task forces bring together a small group of people focused on a particular topic for a set period of time.
