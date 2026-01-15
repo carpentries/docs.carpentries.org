@@ -165,6 +165,9 @@ For blog posts highlighting teaching recommendations of OpenRefine, or the use o
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
 
+### Policy
+For blog posts announcing the adoption of, or alteration of terms to, Carpentries constitutional or programmatic policies.  
+
 ### Publishing
 For blog posts about or related to research publication outputs, or research citations pertaining to The Carpentries and its programmes.  
 
