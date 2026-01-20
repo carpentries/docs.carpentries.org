@@ -194,6 +194,7 @@ myst_substitutions = {
   "glossary": handbook_url + "resources/general/glossary.html",
   "code_of_conduct": handbook_url + "policies/coc/",
   "donate": "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=handbook",
+  "donate_letter": "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=donation-letter",
   "topicbox_guide": "https://zenodo.org/records/14235644",
   "slack_guide": "https://zenodo.org/records/15401712",
 
