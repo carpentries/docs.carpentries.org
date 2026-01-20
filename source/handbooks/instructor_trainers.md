@@ -140,8 +140,7 @@ All regularly scheduled Instructor Trainer community meetings and teaching demon
 ### GitHub Repositories
 
 * [carpentries/instructor-training](https://github.com/carpentries/instructor-training): the Instructor Training Curriculum. Specific suggestions or observations regarding curriculum content should be directed to issues or pull requests here for further discussion.   
-* [carpentries/Instructor Trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.   
-* [carpentries/training-template](https://github.com/carpentries/training-template): the website template used for Instructor Training events  
+* [carpentries/Instructor Trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.    
 * [carpentries/instructor-training-bonus-modules](https://github.com/carpentries/instructor-training-bonus-modules): the Instructor Training Bonus Module Curriculum.   
 
 
