@@ -326,7 +326,7 @@ about how to use [host features in Zoom](/resources/communications/zoom_rooms.md
 
 **What if I forget to check-in participants?**
 
-Do not worry, you have up to 48 hours after the session to check in participants in Pretix. You will also receive a reminder email shortly after the session with step-by-step instructions on how to complete the check-in process.
+Do not worry, you have up to 24 hours after the session to check in participants in Pretix. You will also receive a reminder email shortly after the session with step-by-step instructions on how to complete the check-in process.
 
 **What if someone breaks the Code of Conduct? What if someone had a
 report of misconduct?**
