@@ -292,7 +292,7 @@ It is very important to test your internet connection beforehand and to make sur
 
 **What if no one shows up?**
 
-If no one joins at the start of the session, send a reminder email to the participants who signed up and wait a few minutes. If no one has joined 10 minutes after the scheduled start time, please reach out to [community@carpentries.org](mailto:community@carpentries.org) for guidance.
+If no one joins at the start of the session, send a reminder email to the participants who signed up and wait a few minutes. If no one has joined 10 minutes after the scheduled start time, please reach out to [community@carpentries.org](mailto:community@carpentries.org) and end the call.
 
 **What if someone talks too much?**
 
