@@ -315,7 +315,7 @@ Member Organisation
 ```{glossary}
 
 Newsletter
-    communication sent to an opt-in mailing list each month, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations; refer to {term}`Carpentries Clippings<carpentries clippings>`.
+    refer to {term}`Carpentries Clippings<carpentries clippings>`.
 
 ```
 
