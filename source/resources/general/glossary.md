@@ -5,10 +5,10 @@
 ```{glossary} 
 
 Accessibility
-    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as "a11y", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
+    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as “a11y”, pronounced "ally", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
 
-AMY
-    the internal database of The Carpentries; it allows the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional memberships.
+[AMY](https://amy.carpentries.org)
+    the community data management software of The Carpentries; it allows: the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional partnerships; community members to find and sign up for training events, and to view their contributions.
 
 ```
 
@@ -17,7 +17,7 @@ AMY
 ```{glossary}
 
 Badge
-    indicator of a role in The Carpentries community; typically, for roles that require training and/or onboarding; for some roles, a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
+    indicator of a commitment or contribution to The Carpentries community; for roles either that require training and/or onboarding, or to recognise particular achievements in the community; refer to {term}`Certification <certification>`, {term}`Certified Role <certified role>` and {term}`Contributor Role <contributor role>`
 
 Blog Post
     written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
@@ -62,7 +62,13 @@ Centrally-Organised Workshop
     Carpentries workshop, in which The Carpentries Core Team supports logistics and organisation for a fee.
 
 Certification
-    process of earning a badge; refer to {term}`Badge <badge>`, {term}`Checkout <checkout>`.
+    process of completing a training event that results in a community member achieving a Certified Role; refer to {term}`Badge <badge>`, {term}`Checkout <checkout>`, {term}`Certified Role <certified role>`.
+
+Certified Role
+    any formal community role in which progress towards a set of achievements ends in certification (e.g., Instructor, Trainer, Maintainer, Community Coordinator)
+
+Contributor Role
+    any formal community role in which progress towards one or a set of achievements does not end in certification (e.g., Community Session Host)
 
 Checkout
     a process consisting of steps to be completed after, or in addition to, training to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/14-checkout.html), but may also refer to [steps required for Instructor Trainer certification](https://carpentries.github.io/trainer-training/index.html).
@@ -338,6 +344,9 @@ Pilot Workshop
 Policy
     guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
 
+[Pretix](https://pretix.carpentries.org)
+    an [open source scheduling system](https://pretix.eu) that The Carpentries hosts on it's cloud infrastructure to manage community events and attendance
+
 ```
 
 ## R
@@ -405,7 +414,7 @@ Teaching Demo
     a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
 
 Technology Team
-    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the systems that keep our organisation operating (e.g., Etherpads, lesson templates, our internal database AMY).
+    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the computational infrastructure and services that keep our organisation operating (e.g., Etherpads and CodiMD, the Workbench and our lesson templates, GitHub organisations and repositories, our internal database AMY, and our cloud infrastructure).
 
 Tip Sheet
     community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
