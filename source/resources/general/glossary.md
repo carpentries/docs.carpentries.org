@@ -269,14 +269,11 @@ Lesson Development Sprint
 Lesson Infrastructure
     collection of software tools that are used to build, style, and validate a Carpentries lesson website; also known as The Carpentries Workbench.
 
-Lesson Infrastructure Committee
-    members of the community who make decisions for structural changes to the lesson infrastructure to ensure that they align with our core values.
-
 Lesson Maintainer
     refer to {term}`Maintainer<maintainer>`.
     
 Lesson Program
-    collection of lessons (i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
+    collection of lessons (i.e., Data Carpentry, Library Carpentry, Software Carpentry, and HPC Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
 
 Lesson Program Governance Committee
     group overseeing the strategy and policies of a Lesson Program. 
@@ -538,6 +535,9 @@ Instructor Development Committee (IDC)
 
 Instructor Training Bonus Module
     additional optional training that was offered to Instructors. 
+
+Lesson Infrastructure Committee
+    members of the community who make decisions for structural changes to the lesson infrastructure to ensure that they align with our core values.
 
 Post-Training Framework
     a resource created by the Task Force to guide Community Facilitators in identifying needs in The Carpentries community that they can collaboratively work to alleviate in their cohort after their training.
