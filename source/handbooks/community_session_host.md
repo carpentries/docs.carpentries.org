@@ -402,7 +402,8 @@ Yes. In Pretix, column headers (such as name or email) include arrows that allow
 
 **What if a participant says they are on a waiting list?**
 
-The waiting list is automatically enabled when registrations exceed the number of available seats set during setup. When a seat becomes available, the first person on the waiting list is notified and can register. To reduce waiting lists, consider increasing the total number of seats for future sessions.
+The waiting list is automatically activated once registrations exceed the number of seats set during event setup. When a seat becomes available, the first person on the waiting list is notified and given the opportunity to register. If the host is willing to exceed the original seat limit, they may email community@carpentries.org
+ with the names of individuals who attended but remain on the waiting list. We will then assist with manually checking them in for the event.
 
 
 
