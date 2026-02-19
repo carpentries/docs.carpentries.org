@@ -201,7 +201,7 @@ Host Organisation(s)
 ```{glossary}
 
 Incident Response Group (IRG)
-    group of people who work on a specific code of conduct incident; there will be a minimum of three people from the Code of Conduct committee on each IRG.
+    group of people who work on a specific Code of Conduct incident; there will be a minimum of three people from the Code of Conduct committee on each IRG.
 
 Incident Response Lead
     a person on the Code of Conduct committee heading the Incidence Response Group (IRG); this person is appointed on a per-incident basis by the IRG.
@@ -225,7 +225,7 @@ Instructor Trainee
     individual who is in the process of being certified as an Instructor.
 
 Instructor Trainer
-    community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Instructor Trainer meetings, and teach Instructor Training Bonus Modules.
+    community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations and attend Instructor Trainer meetings.
 
 Instructor Trainer Training
     training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
