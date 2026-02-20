@@ -345,7 +345,7 @@ Policy
     guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
 
 [Pretix](https://pretix.carpentries.org)
-    an [open source scheduling system](https://pretix.eu) that The Carpentries hosts on it's cloud infrastructure to manage community events and attendance
+    an [open source scheduling system](https://pretix.eu) that The Carpentries hosts on its cloud infrastructure to manage community events and attendance
 
 ```
 
