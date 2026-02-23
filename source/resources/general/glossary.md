@@ -140,7 +140,7 @@ Curriculum Team
 ```{glossary}
 
 Demo
-    refer to {term}`Teaching demo <teaching demo>`.
+    short for demonstration, a brief presentation showing how to do a specific task; refer to {term}`Teaching demo <teaching demo>`.
 
 Diversity
     individual differences (e.g., personality, language, learning preferences and life experiences) and group-social differences (e.g., race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) that can be engaged in the service of learning.
