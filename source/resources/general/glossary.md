@@ -161,7 +161,7 @@ Etherpad
     open-source, web-based collaborative real-time editor; allows authors to edit a text document simultaneously and access all of the participants' edits in real-time, with the ability to display each author's text in a different colour; there is also a chat box in the sidebar to allow meta communication.
 
 Executive Team
-    members of the [Core Team](https://docs.carpentries.org/resources/general/glossary.html#term-Core-Team) who proactively bring together perspectives from all individual programmatic teams and established community segments; they discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Board of Directors. 
+    members of the {term}`Core Team <core team>` who proactively bring together perspectives from all individual programmatic teams and established community segments; they discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Board of Directors.
 
 ```
 
