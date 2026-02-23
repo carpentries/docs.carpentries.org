@@ -423,7 +423,7 @@ TopicBox
     platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
 
 Trainee
-    an individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
+    an individual who has registered for or attended a Carpentries Training (e.g., Collaborative Lesson Development Training, Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
 
 Trainer
     community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>` and {term}`Collaborative Lesson Development Training`.
@@ -453,7 +453,7 @@ Workshops and Instruction Team
     members of The Carpentries Core Team who develop and implement workflows to keep our workshops operating smoothly. The team also supports the growth and development of the Instructor Training and Instructor Trainer Training programs.
 
 Workshop Format
-    how a workshop is delivered, either online, in-person, or hybrid.
+    how a workshop is delivered, either online, in-person, or hybrid (Hybrid workshops are only offered as Self-Organised Workshops).
 
 Workshop Host
     a person who organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
@@ -471,7 +471,7 @@ Workshop Website
 ```{glossary}
 
 Zoom
-    video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as Instructor training, community discussions, teaching demos, and committee meetings. 
+    video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as Instructor Training, community discussions, teaching demos, and committee meetings. 
 
 ```
 
