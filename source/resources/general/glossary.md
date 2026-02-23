@@ -192,7 +192,7 @@ Green Sticky
 ```{glossary}
 
 Handbook
-    refer to  {term}`Carpentries Handbook <carpentries handbook>`.
+    collection of information on policies and procedures; refer to  {term}`Carpentries Handbook <carpentries handbook>`.
 
 Helper
     volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
