@@ -392,7 +392,7 @@ Yes. While Zoom links may be publicly accessible to allow walk-ins, participants
 Several options can help:
 - Ask participants to type their name into the Etherpad when they join, then complete check-ins after the session.
 - Use breaks or icebreakers as an opportunity to check people in.
--If possible, have a co-host share slides while you manage Pretix.
+- If possible, have a co-host share slides while you manage Pretix.
 - Some hosts find it helpful to log into Pretix on their phone while hosting from their computer.
 
 
