@@ -98,7 +98,7 @@ Community Development Program (CDP)
     the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., {term}`Subcommunity Coordinators <subcommunity coordinator>`); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
 
 Community Engagement Team (CET)
-    is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
+    is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Partner Organisations and Partnership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
 Community Member
     an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
@@ -304,12 +304,6 @@ Mailing List
 
 Maintainer
     community member working to keep Carpentries lessons stable and functional.
-
-Membership
-    refer to {term}`Member Organisation<member organisation>`.
-
-Member Organisation
-    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement. 
 
 ```
 
@@ -563,8 +557,15 @@ Technology Facilitator
 Member Council
     group of representatives from Member Organisations that provide feedback and ideas to the Membership Team; each Member Organisation is allocated seats on the Member Council.
 
+Membership
+    refer to {term}`Member Organisation<member organisation>`.
+
 Membership Team
     members of The Carpentries Core Team who supported the growth and development of The Carpentries Membership Program; Membership is now supported by the Community Engagement Team.
+
+Member Organisation
+    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement. The Membership Program was replaced by the {term}`Partnership Program<partnership program>` in 2026.
+
 
 Mentee
     member of the Mentoring Program (now inactive) who is new to The Carpentries community and is supported by a Mentor.
