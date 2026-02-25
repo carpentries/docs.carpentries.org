@@ -32,7 +32,7 @@ Board of Directors
 ```{glossary}
 
 *Carpentries Clippings*
-    The monthly newsletter started in 2016, sent to an opt-in email list, featuring community news and announcements, important updates from The Carpentries committees, task forces, and programs, job postings, and related information for our community from other organisations.
+    the monthly newsletter started in 2016, sent to an opt-in email list, featuring community news and announcements, important updates from The Carpentries committees, task forces, and programs, job postings, and related information for our community from other organisations.
 
 Carpentries Commons
     GitHub repository for open sharing of reusable material, such as text for grants, job or tenure applications, conference slide decks, workshop and training descriptions, and promotional materials; Core Team members have write access to add, edit and upload material to this repository; other community members will need to fork the repository and submit pull requests.
