@@ -98,10 +98,10 @@ Community Session
     community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Sessions (which can be on any topic relevant to the community that can be in any format of the host’s choosing), Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
 
 [Community Session Host](https://docs.carpentries.org/handbooks/community_session_host.html)
-    A member of The Carpentries community who facilitates a Community Session.
+    a member of The Carpentries community who facilitates a Community Session.
 
 [Core Team](https://carpentries.org/about-us/team/)
-    Team members whose primary professional focus is to support the overall mission of The Carpentries; they are employed through a professional employer organisation (PEO); these individuals are fully integrated into The Carpentries operational systems, attend weekly meetings, and function as part of programmatic teams.
+    team members whose primary professional focus is to support the overall mission of The Carpentries; they are employed through a professional employer organisation (PEO); these individuals are fully integrated into The Carpentries operational systems, attend weekly meetings, and function as part of programmatic teams.
 
 Cultural Competence
     state of having and applying knowledge and skill in four areas: (1) awareness of one’s cultural worldview; (2) recognition of one’s attitudes toward cultural differences; (3) realisation  of different cultural practices and worldviews; and (4) thoughtfulness in cross-cultural interaction.
