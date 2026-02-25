@@ -32,15 +32,15 @@ Board of Directors
 ```{glossary}
 
 *Carpentries Clippings*
-    monthly newsletter started in 2016 sent to an opt-in email list, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations.
+    the monthly newsletter started in 2016, sent to an opt-in email list, featuring community news and announcements, important updates from The Carpentries committees, task forces, and programs, job postings, and related information for our community from other organisations.
 
 Carpentries Commons
     GitHub repository for open sharing of reusable material, such as text for grants, job or tenure applications, conference slide decks, workshop and training descriptions, and promotional materials; Core Team members have write access to add, edit and upload material to this repository; other community members will need to fork the repository and submit pull requests.
 
-Carpentries Incubator
+[Carpentries Incubator](https://carpentries-incubator.org/)
     GitHub organisation hosting repositories of lessons being developed by community members; new lessons can be added to the Incubator by opening an issue on [the carpentries-incubator/proposals repository](https://github.com/carpentries-incubator/proposals).
 
-Carpentries Lab
+[Carpentries Lab](https://carpentries-lab.org/)
     place for sharing high-quality, peer-reviewed lessons that follow best practices in pedagogy and the general teaching practices used in The Carpentries.
 
 CarpentryCon
@@ -50,7 +50,7 @@ CarpentryCon Committee
     members of the community who organise CarpentryCon.
 
 CarpentryConnect
-    events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to {term}`CarpentryConnect Planning Kit<CarpentryConnect Planning Kit>`.
+    events organised by a [Subcommunity](https://carpentries.org/community/get-connected/#subcommunity-registry) to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to {term}`CarpentryConnect Planning Kit<CarpentryConnect Planning Kit>`.
 
 [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
     resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists, recommendations for best practices, and resources on event planning for further reading.
@@ -94,23 +94,20 @@ Community
 Community Calendar
     [Google calendar](https://carpentries.org/community/events/) that includes all Carpentries events.
 
-Community Development Program (CDP)
-    the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., {term}`Subcommunity Coordinators <subcommunity coordinator>`); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
-
 Community Engagement Team (CET)
-    is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
+    is responsible for all aspects of Community Engagement, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In line with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administrative, community engagement, and communications work. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessing this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
 Community Member
     an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
 
 Community Session
-    community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: General Community Sessions (which can be on any topic relevant to the community that can be in any format of the host’s choosing), Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
+    community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Sessions (which can be on any topic relevant to the community that can be in any format of the host’s choosing), Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
 
-Community Session Host
-    member of The Carpentries community who facilitates a Community Session.
+[Community Session Host](https://docs.carpentries.org/handbooks/community_session_host.html)
+    a member of The Carpentries community who facilitates a Community Session.
 
-Core Team
-    team members whose primary professional focus is to support the overall mission of The Carpentries; they are employed through a professional employer organisation (PEO), Deel; these individuals are fully integrated into The Carpentries operational systems, attend weekly meetings, and function as part of programmatic teams.
+[Core Team](https://carpentries.org/about-us/team/)
+    team members whose primary professional focus is to support the overall mission of The Carpentries; they are employed through a professional employer organisation (PEO); these individuals are fully integrated into The Carpentries operational systems, attend weekly meetings, and function as part of programmatic teams.
 
 Cultural Competence
     state of having and applying knowledge and skill in four areas: (1) awareness of one’s cultural worldview; (2) recognition of one’s attitudes toward cultural differences; (3) realisation  of different cultural practices and worldviews; and (4) thoughtfulness in cross-cultural interaction.
@@ -118,20 +115,17 @@ Cultural Competence
 Curriculum
     self-contained set of one or more lessons that are aimed at a given target audience and designed to be taught together in a workshop or training.
 
-Curriculum Advisor
-    individual who volunteers to guide the development of existing lessons, maintain a broad perspective on the state of the field, and make strategic decisions about major changes to a lesson.
+[Curriculum Advisor](https://docs.carpentries.org/handbooks/curriculum_advisors.html)
+    an individual who volunteers to guide the development of existing lessons, maintain a broad perspective on the state of the field, and make strategic decisions about major changes to a lesson.
 
 Curriculum Advisory Committee (CAC)
-    group of Curriculum Advisors serving a single curriculum.
-
-Curriculum Development Handbook
-    guide to the process and infrastructure used by The Carpentries community to develop new lessons.
+    A group of Curriculum Advisors serving a single curriculum.
 
 Curriculum Module
-    set of resources in the curriculum addressing one topic such as Code of Conduct facilitation.
+    a set of curriculum resources addressing one topic, such as Code of Conduct facilitation.
 
 Curriculum Team
-    members of The Carpentries Core Team who guide and oversee curriculum development and maintenance and work closely with our Lesson Maintainers and Curriculum Advisors.
+    members of The Carpentries Core Team who guide and oversee curriculum development and maintenance, and work closely with our Lesson Maintainers and Curriculum Advisors.
 
 ```
 
@@ -509,6 +503,9 @@ Cohort
 Community Buddy
     member of the community who onboards new community members.
 
+Community Development Program (CDP)
+    the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., {term}`Subcommunity Coordinators <subcommunity coordinator>`); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
+
 Community Discussion Session
     structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing.
 
@@ -523,6 +520,9 @@ Community Facilitators Program
 
 Community Initiatives
     fiscal sponsor of The Carpentries from 2018-2024.
+
+Curriculum Development Handbook
+    guide to the process and infrastructure used by The Carpentries community to develop new lessons.
 
 Discussion Host 
     member of The Carpentries community who facilitated a community discussion; now known as Community Session Host.
