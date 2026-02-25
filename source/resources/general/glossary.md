@@ -5,10 +5,10 @@
 ```{glossary} 
 
 Accessibility
-    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as "a11y", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
+    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as “a11y”, pronounced "ally", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
 
-AMY
-    the internal database of The Carpentries; it allows the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional memberships.
+[AMY](https://amy.carpentries.org)
+    the community data management software of The Carpentries; it allows: the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional partnerships; community members to find and sign up for training events, and to view their contributions.
 
 ```
 
@@ -17,7 +17,7 @@ AMY
 ```{glossary}
 
 Badge
-    indicator of a role in The Carpentries community; typically, for roles that require training and/or onboarding; for some roles, a certificate will be sent by email when a badge is conferred; refer to {term}`Certification <certification>`
+    indicator of a commitment or contribution to The Carpentries community; for roles either that require training and/or onboarding, or to recognise particular achievements in the community; refer to {term}`Certification <certification>`, {term}`Certified Role <certified role>` and {term}`Contributor Role <contributor role>`
 
 Blog Post
     written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
@@ -32,15 +32,15 @@ Board of Directors
 ```{glossary}
 
 *Carpentries Clippings*
-    monthly newsletter started in 2016 sent to an opt-in email list, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations.
+    the monthly newsletter started in 2016, sent to an opt-in email list, featuring community news and announcements, important updates from The Carpentries committees, task forces, and programs, job postings, and related information for our community from other organisations.
 
 Carpentries Commons
     GitHub repository for open sharing of reusable material, such as text for grants, job or tenure applications, conference slide decks, workshop and training descriptions, and promotional materials; Core Team members have write access to add, edit and upload material to this repository; other community members will need to fork the repository and submit pull requests.
 
-Carpentries Incubator
+[Carpentries Incubator](https://carpentries-incubator.org/)
     GitHub organisation hosting repositories of lessons being developed by community members; new lessons can be added to the Incubator by opening an issue on [the carpentries-incubator/proposals repository](https://github.com/carpentries-incubator/proposals).
 
-Carpentries Lab
+[Carpentries Lab](https://carpentries-lab.org/)
     place for sharing high-quality, peer-reviewed lessons that follow best practices in pedagogy and the general teaching practices used in The Carpentries.
 
 CarpentryCon
@@ -50,7 +50,7 @@ CarpentryCon Committee
     members of the community who organise CarpentryCon.
 
 CarpentryConnect
-    events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to {term}`CarpentryConnect Planning Kit<CarpentryConnect Planning Kit>`.
+    events organised by a [Subcommunity](https://carpentries.org/community/get-connected/#subcommunity-registry) to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to {term}`CarpentryConnect Planning Kit<CarpentryConnect Planning Kit>`.
 
 [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
     resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists, recommendations for best practices, and resources on event planning for further reading.
@@ -62,7 +62,13 @@ Centrally-Organised Workshop
     Carpentries workshop, in which The Carpentries Core Team supports logistics and organisation for a fee.
 
 Certification
-    process of earning a badge; refer to {term}`Badge <badge>`, {term}`Checkout <checkout>`.
+    process of completing a training event that results in a community member achieving a Certified Role; refer to {term}`Badge <badge>`, {term}`Checkout <checkout>`, {term}`Certified Role <certified role>`.
+
+Certified Role
+    any formal community role in which progress towards a set of achievements ends in certification (e.g., Instructor, Trainer, Maintainer, Community Coordinator)
+
+Contributor Role
+    any formal community role in which progress towards one or a set of achievements does not end in certification (e.g., Community Session Host)
 
 Checkout
     a process consisting of steps to be completed after, or in addition to, training to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/14-checkout.html), but may also refer to [steps required for Instructor Trainer certification](https://carpentries.github.io/trainer-training/index.html).
@@ -88,9 +94,6 @@ Community
 Community Calendar
     [Google calendar](https://carpentries.org/community/events/) that includes all Carpentries events.
 
-Community Development Program (CDP)
-    the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., {term}`Subcommunity Coordinators <subcommunity coordinator>`); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
-
 Community Engagement Team (CET)
     is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member/Partner Organisations and Membership/Partnership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
@@ -98,13 +101,13 @@ Community Member
     an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
 
 Community Session
-    community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: General Community Sessions (which can be on any topic relevant to the community that can be in any format of the host’s choosing), Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
+    community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Sessions (which can be on any topic relevant to the community that can be in any format of the host’s choosing), Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts.
 
-Community Session Host
-    member of The Carpentries community who facilitates a Community Session.
+[Community Session Host](https://docs.carpentries.org/handbooks/community_session_host.html)
+    a member of The Carpentries community who facilitates a Community Session.
 
-Core Team
-    team members whose primary professional focus is to support the overall mission of The Carpentries; they are employed through a professional employer organisation (PEO), Deel; these individuals are fully integrated into The Carpentries operational systems, attend weekly meetings, and function as part of programmatic teams.
+[Core Team](https://carpentries.org/about-us/team/)
+    team members whose primary professional focus is to support the overall mission of The Carpentries; they are employed through a professional employer organisation (PEO); these individuals are fully integrated into The Carpentries operational systems, attend weekly meetings, and function as part of programmatic teams.
 
 Cultural Competence
     state of having and applying knowledge and skill in four areas: (1) awareness of one’s cultural worldview; (2) recognition of one’s attitudes toward cultural differences; (3) realisation  of different cultural practices and worldviews; and (4) thoughtfulness in cross-cultural interaction.
@@ -112,20 +115,17 @@ Cultural Competence
 Curriculum
     self-contained set of one or more lessons that are aimed at a given target audience and designed to be taught together in a workshop or training.
 
-Curriculum Advisor
-    individual who volunteers to guide the development of existing lessons, maintain a broad perspective on the state of the field, and make strategic decisions about major changes to a lesson.
+[Curriculum Advisor](https://docs.carpentries.org/handbooks/curriculum_advisors.html)
+    an individual who volunteers to guide the development of existing lessons, maintain a broad perspective on the state of the field, and make strategic decisions about major changes to a lesson.
 
 Curriculum Advisory Committee (CAC)
-    group of Curriculum Advisors serving a single curriculum.
-
-Curriculum Development Handbook
-    guide to the process and infrastructure used by The Carpentries community to develop new lessons.
+    A group of Curriculum Advisors serving a single curriculum.
 
 Curriculum Module
-    set of resources in the curriculum addressing one topic such as Code of Conduct facilitation.
+    a set of curriculum resources addressing one topic, such as Code of Conduct facilitation.
 
 Curriculum Team
-    members of The Carpentries Core Team who guide and oversee curriculum development and maintenance and work closely with our Lesson Maintainers and Curriculum Advisors.
+    members of The Carpentries Core Team who guide and oversee curriculum development and maintenance, and work closely with our Lesson Maintainers and Curriculum Advisors.
 
 ```
 
@@ -134,7 +134,7 @@ Curriculum Team
 ```{glossary}
 
 Demo
-    refer to {term}`Teaching demo <teaching demo>`.
+    short for demonstration, a brief presentation showing how to do a specific task; refer to {term}`Teaching demo <teaching demo>`.
 
 Diversity
     individual differences (e.g., personality, language, learning preferences and life experiences) and group-social differences (e.g., race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) that can be engaged in the service of learning.
@@ -161,7 +161,7 @@ Etherpad
     open-source, web-based collaborative real-time editor; allows authors to edit a text document simultaneously and access all of the participants' edits in real-time, with the ability to display each author's text in a different colour; there is also a chat box in the sidebar to allow meta communication.
 
 Executive Team
-    members of the Core Team who proactively bring together perspectives from all individual programmatic teams and established community segments; they discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Board of Directors. 
+    members of the {term}`Core Team <core team>` who proactively bring together perspectives from all individual programmatic teams and established community segments; they discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Board of Directors.
 
 ```
 
@@ -186,13 +186,13 @@ Green Sticky
 ```{glossary}
 
 Handbook
-    refer to  {term}`Carpentries Handbook <carpentries handbook>`.
+    collection of information on policies and procedures; refer to  {term}`Carpentries Handbook <carpentries handbook>`.
 
 Helper
     volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
 
 Host Organisation(s)
-    organisation(s) responsible for organising a Carpentries event; can also be the organisation where the event is held.
+    institution(s) responsible for planning a Carpentries event; can also be the institution where the event is held.
 
 ```
 
@@ -201,7 +201,7 @@ Host Organisation(s)
 ```{glossary}
 
 Incident Response Group (IRG)
-    group of people who work on a specific code of conduct incident; there will be a minimum of three people from the Code of Conduct committee on each IRG.
+    group of people who work on a specific Code of Conduct incident; there will be a minimum of three people from the Code of Conduct committee on each IRG.
 
 Incident Response Lead
     a person on the Code of Conduct committee heading the Incidence Response Group (IRG); this person is appointed on a per-incident basis by the IRG.
@@ -225,7 +225,7 @@ Instructor Trainee
     individual who is in the process of being certified as an Instructor.
 
 Instructor Trainer
-    community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Instructor Trainer meetings, and teach Instructor Training Bonus Modules.
+    community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations and attend Instructor Trainer meetings.
 
 Instructor Trainer Training
     training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
@@ -269,14 +269,11 @@ Lesson Development Sprint
 Lesson Infrastructure
     collection of software tools that are used to build, style, and validate a Carpentries lesson website; also known as The Carpentries Workbench.
 
-Lesson Infrastructure Committee
-    members of the community who make decisions for structural changes to the lesson infrastructure to ensure that they align with our core values.
-
 Lesson Maintainer
     refer to {term}`Maintainer<maintainer>`.
     
 Lesson Program
-    collection of lessons (i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
+    collection of lessons (i.e., Data Carpentry, Library Carpentry, Software Carpentry, and HPC Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
 
 Lesson Program Governance Committee
     group overseeing the strategy and policies of a Lesson Program. 
@@ -315,7 +312,7 @@ Member Organisation
 ```{glossary}
 
 Newsletter
-    communication sent to an opt-in mailing list each month, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations; refer to {term}`Carpentries Clippings<carpentries clippings>`.
+    refer to {term}`Carpentries Clippings<carpentries clippings>`.
 
 ```
 
@@ -349,6 +346,9 @@ Pilot Workshop
 
 Policy
     guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
+
+[Pretix](https://pretix.carpentries.org)
+    an [open source scheduling system](https://pretix.eu) that The Carpentries hosts on its cloud infrastructure to manage community events and attendance
 
 ```
 
@@ -417,7 +417,7 @@ Teaching Demo
     a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
 
 Technology Team
-    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the systems that keep our organisation operating (e.g., Etherpads, lesson templates, our internal database AMY).
+    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the computational infrastructure and services that keep our organisation operating (e.g., Etherpads and CodiMD, the Workbench and our lesson templates, GitHub organisations and repositories, our internal database AMY, and our cloud infrastructure).
 
 Tip Sheet
     community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
@@ -426,7 +426,7 @@ TopicBox
     platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
 
 Trainee
-    an individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
+    an individual who has registered for or attended a Carpentries Training (e.g., Collaborative Lesson Development Training, Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
 
 Trainer
     community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>` and {term}`Collaborative Lesson Development Training`.
@@ -456,7 +456,7 @@ Workshops and Instruction Team
     members of The Carpentries Core Team who develop and implement workflows to keep our workshops operating smoothly. The team also supports the growth and development of the Instructor Training and Instructor Trainer Training programs.
 
 Workshop Format
-    how a workshop is delivered, either online, in-person, or hybrid.
+    how a workshop is delivered, either online, in-person, or hybrid (Hybrid workshops are only offered as Self-Organised Workshops).
 
 Workshop Host
     a person who organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
@@ -474,7 +474,7 @@ Workshop Website
 ```{glossary}
 
 Zoom
-    video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as Instructor training, community discussions, teaching demos, and committee meetings. 
+    video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as Instructor Training, community discussions, teaching demos, and committee meetings. 
 
 ```
 
@@ -515,6 +515,9 @@ Cohort
 Community Buddy
     member of the community who onboards new community members.
 
+Community Development Program (CDP)
+    the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., {term}`Subcommunity Coordinators <subcommunity coordinator>`); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally.
+
 Community Discussion Session
     structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing.
 
@@ -529,6 +532,9 @@ Community Facilitators Program
 
 Community Initiatives
     fiscal sponsor of The Carpentries from 2018-2024.
+
+Curriculum Development Handbook
+    guide to the process and infrastructure used by The Carpentries community to develop new lessons.
 
 Discussion Host 
     member of The Carpentries community who facilitated a community discussion; now known as Community Session Host.
@@ -550,6 +556,9 @@ Instructor Development Committee (IDC)
 
 Instructor Training Bonus Module
     additional optional training that was offered to Instructors. 
+
+Lesson Infrastructure Committee
+    members of the community who make decisions for structural changes to the lesson infrastructure to ensure that they align with our core values.
 
 Post-Training Framework
     a resource created by the Task Force to guide Community Facilitators in identifying needs in The Carpentries community that they can collaboratively work to alleviate in their cohort after their training.
