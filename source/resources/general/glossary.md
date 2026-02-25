@@ -110,13 +110,13 @@ Curriculum
     self-contained set of one or more lessons that are aimed at a given target audience and designed to be taught together in a workshop or training.
 
 [Curriculum Advisor](https://docs.carpentries.org/handbooks/curriculum_advisors.html)
-    An individual who volunteers to guide the development of existing lessons, maintain a broad perspective on the state of the field, and make strategic decisions about major changes to a lesson.
+    an individual who volunteers to guide the development of existing lessons, maintain a broad perspective on the state of the field, and make strategic decisions about major changes to a lesson.
 
 Curriculum Advisory Committee (CAC)
     A group of Curriculum Advisors serving a single curriculum.
 
 Curriculum Module
-    A set of curriculum resources addressing one topic, such as Code of Conduct facilitation.
+    a set of curriculum resources addressing one topic, such as Code of Conduct facilitation.
 
 Curriculum Team
     members of The Carpentries Core Team who guide and oversee curriculum development and maintenance, and work closely with our Lesson Maintainers and Curriculum Advisors.
