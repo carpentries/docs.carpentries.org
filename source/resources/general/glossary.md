@@ -95,7 +95,7 @@ Community Calendar
     [Google calendar](https://carpentries.org/community/events/) that includes all Carpentries events.
 
 Community Engagement Team (CET)
-    is responsible for all aspects of Community Engagement, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In line with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administrative, community engagement, and communications work. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessing this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
+    is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities (refer to {term}`subcommunity <subcommunity>`). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member/Partner Organisations and Membership/Partnership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centring equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
 Community Member
     an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
@@ -303,7 +303,7 @@ Membership
     refer to {term}`Member Organisation<member organisation>`.
 
 Member Organisation
-    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement. 
+    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement.
 
 ```
 
@@ -328,6 +328,18 @@ Official Lesson
 ## P
 
 ```{glossary}
+
+Partner
+    refer to {term}`Partner Organisation<partner organisation>`.
+
+Partner Organisation
+    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Partnership Agreement or Memorandum of Agreement. 
+
+Partnership
+    refer to {term}`Partner Organisation<partner organisation>`.
+
+Partnership Program
+    a program granting Partner Organisations access to workshops, trainings and other service offerings from The Carpentries, designed to strengthen the two-way relationship between the organisations.
 
 Pilot Workshop
     event where a new lesson is being tested.
