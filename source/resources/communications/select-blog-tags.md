@@ -73,7 +73,7 @@ Related to lessons included in The Carpentries official lesson stack, or The Car
 Related to creation of new lessons or significant updates of existing lessons.
 
 ### Data Carpentry
-Related to the Data Carpentry lesson program of The Carpentries.
+For posts related to the Data Carpentry lesson program of The Carpentries.
 
 ### Equity and Inclusion 
 Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
@@ -101,6 +101,9 @@ Blog posts related to positive feedback from the community or for the community.
 
 ### Gratitudes
 For blog posts to show appreciation for the activities or members of the community. 
+
+### HPC Carpentry
+For posts related to the HPC Carpentry lesson program of The Carpentries.
 
 ### Incubator 
 Describing announcements related to the [Carpentries Incubator](https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
@@ -139,7 +142,7 @@ For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or
 Related to work and development of Carpentries Lessons.
 
 ### Library Carpentry
-Library Carpentry focuses on building software and data skills within library and information-related communities.
+For posts related to the Library Carpentry lesson program of The Carpentries.
 
 ### Maintainers
 Community members working on keeping our lessons stable and functional.
@@ -148,7 +151,7 @@ Community members working on keeping our lessons stable and functional.
 For Member organisation updates, big changes, or announcements.
 
 ### Merger
-For blog posts relating to the merging of the three lesson programs into The Carpentries.
+For blog posts relating to the merging of different lesson programs (e.g., Data Carpentry, HPC Carpentry, Library Carpentry, Software Carpentry, etc.) into The Carpentries.
 
 ### Nordic Countries
 For blog posts related to Carpentries' work in Nordic countries (Denmark, Estonia, Finland, Iceland, Norway, Sweden).
