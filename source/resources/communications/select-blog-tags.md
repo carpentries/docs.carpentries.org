@@ -18,6 +18,9 @@ For blog posts related to The Carpentries' work on accessibility and accessbilit
 ### Africa
 For blog posts related to Carpentries' work in Africa.
 
+### AMY
+For blog posts related to updates on AMY, the community data management software of The Carpentries.
+
 ### Artificial Intelligence
 For blog posts about artificial intelligence (AI) and its tools, including but not limited to large language models (LLMs). 
 
