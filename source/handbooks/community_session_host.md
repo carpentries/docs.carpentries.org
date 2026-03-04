@@ -272,77 +272,8 @@ started.
 
 Does anyone have any questions before we get started?
 
-### Sample Agendas
-
-#### Agenda: Pre- and Post-Workshop Sessions
-
-*Community Session Hosts can use this agenda as a template for pre
-and post-workshop session sessions. All Pre- and Post-Workshop Sessions are 60 minutes. Hosts are welcome and encouraged to
-guide the session as they wish; below are some prompts that can be
-used.*
-
--  Welcome, introductions, and a reminder of the Code of Conduct (5 minutes)
-
-   -  [Script for starting a community
-      session](#script-for-starting-a-community-session)
-   -  Attendee introductions
-
-      -  Name, affiliation/position, motivation for attending
-
--  Participants report from previous workshops they led (10 minutes)
-
-   -  Ask participants to share some significant accomplishments and
-      obstacles
-   -  Any changes or additions to lesson material?
-
--  Participants discuss preparation for upcoming workshops (10 minutes)
-
-   -  Specific questions about teaching and/or lessons?
-   -  How are Instructors sharing roles/responsibilities? Is there a
-      designated “lead Instructor”, or will you act as co-Instructors?
-
--  Participants discuss Instructor Training checkout (5 minutes)
-
-   -  Questions about checkout procedure, lessons, or workshop
-      organisation?
-   -  Have you asked a question here yet?
-
--  Breakout Rooms (15 minutes)
-
-   -  Hosts can choose 1-3 of these questions, or add their own.
-
-      -  What additional resources would be useful to you in teaching or
-         preparing for a workshop?
-      -  Do you find the instructor notes helpful? How do you use them?
-         How could they be more useful?
-      -  What are you most excited about for teaching with The
-         Carpentries?
-
--  Closing (Main Room) (10 minutes)
-
-   -  Report out from breakout rooms
-   -  Q&A
-   -  Relevant announcements
-
-      -  Example announcement: If they would like to provide feedback on
-         their experience as a participant, they can complete the
-         attendee feedback form. [share
-         link](https://goo.gl/forms/aNZhcVnq4iPAz4GE3)
-      -  Example announcement: If they are interested in publishing a
-         blog post about their experiences as a member of the community,
-         they should fill out the form [share
-         link](https://forms.gle/eUQoSPRXrsyBibRf8) or email their
-         blog post idea or draft to community@carpentries.org.
-
 
 ## FAQ
-
-**What if I am hosting a session and there are no pre/post-workshop
-debriefs?**
-
-You could start by introducing the session and what it should be about.
-You could also give some feedback on your own experience in previous
-workshops and/or upcoming workshops that you are a part of.
 
 **What if I do not know the answer to someone’s questions and no one in
 the room does either?**
@@ -361,7 +292,7 @@ It is very important to test your internet connection beforehand and to make sur
 
 **What if no one shows up?**
 
-If no one shows up, send out a reminder email to participants who signed up and wait for a few minutes. If no one shows up by 10 minutes after the start of the session, then fill in the (host form)[https://forms.gle/N74pFuGkRLawpCHh7] and indicate that no one showed up for your session.
+If no one joins at the start of the session, send a reminder email to the participants who signed up and wait a few minutes. If no one has joined 10 minutes after the scheduled start time, please reach out to [community@carpentries.org](mailto:community@carpentries.org) and end the call.
 
 **What if someone talks too much?**
 
@@ -384,7 +315,7 @@ Depending on how late the person joins, you could welcome them and ask
 them to introduce themselves to the rest of the participants. If you
 have time, you can ask the individual to stay on the call for a few
 minutes after it is finished to summarise what they missed and answer
-any questions they may have.
+any questions they may have. 
 
 **What if someone does not have a headset and can’t control their
 background noise?**
@@ -393,12 +324,9 @@ As a host, you will have the privilege to mute other participants, or
 you could ask the person directly to mute their microphone. Learn more
 about how to use [host features in Zoom](/resources/communications/zoom_rooms.md).
 
-**What if I forget to complete the host questionnaire?**
+**What if I forget to check-in participants?**
 
-Participants will not have updated profiles that indicate completion of
-this checkout requirement, and it will take a lot of administration to
-solve this issue. Please remember to fill in the form directly after
-hosting your session.
+Do not worry, you have up to 24 hours after the session to check in participants in Pretix. You will also receive a reminder email shortly after the session with step-by-step instructions on how to complete the check-in process.
 
 **What if someone breaks the Code of Conduct? What if someone had a
 report of misconduct?**
@@ -416,9 +344,10 @@ that they need answering.
 **What if someone asks to join my Community Session to
 complete their Instructor checkout session and it is already full?**
 
-Participants can email the host and ask to join the session even though
-it is fully booked. It is up to your personal discretion as to whether
-or not you accept additional participants.
+Participants can add themselves to the waiting list in Pretix. 
+If a seat becomes available (for example, if someone cancels), the next 
+person on the waiting list will automatically receive an email inviting 
+them to register for the session.
 
 **What if someone is loud/obnoxious and/or talks down to other people?**
 
@@ -449,5 +378,32 @@ A Subcommunity Leader is a member of the community who serves as the
 leader of a subcommunity within The Carpentries. This role is being
 formalised through the Community Engagement Program. If you are
 interested in learning more, please email community@carpentries.org.
+
+**What if participants join using different names or email addresses than what appears in Pretix?**
+
+If you are confident that a participant matches a registration (for example, similar names), you may check them in. If you are unsure, you can ask the participant directly or follow up after the session.
+
+**Do participants need to be registered in Pretix to receive credit?**
+
+Yes. While Zoom links may be publicly accessible to allow walk-ins, participants must register via Pretix to receive credit and for attendance to be counted in reporting.
+
+**How should I manage check-ins if I only have one screen?**
+
+Several options can help:
+- Ask participants to type their name into the Etherpad when they join, then complete check-ins after the session.
+- Use breaks or icebreakers as an opportunity to check people in.
+- If possible, have a co-host share slides while you manage Pretix.
+- Some hosts find it helpful to log into Pretix on their phone while hosting from their computer.
+
+
+**Can I sort or search the check-in list in Pretix?**
+
+Yes. In Pretix, column headers (such as name or email) include arrows that allow you to sort the list alphabetically. You can access and review check-ins even after the event has ended.
+
+**What if a participant says they are on a waiting list?**
+
+The waiting list is automatically activated once registrations exceed the number of seats set during event setup. When a seat becomes available, the first person on the waiting list is notified and given the opportunity to register. If the host is willing to exceed the original seat limit, they may email community@carpentries.org
+ with the names of individuals who attended but remain on the waiting list. We will then assist with manually checking them in for the event.
+
 
 
