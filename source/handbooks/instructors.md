@@ -564,16 +564,20 @@ content in the handbook.
         host to plan travel and accommodations. The Carpentries is not involved
         in this part of the planning process
         
--   **What if I am no longer comfortable teaching an in-person workshop
+-   **What if I am no longer able to teach at an in-person workshop
     after the travel has been purchased?**
-    -   We encourage the purchase of insurance where possible. This will
-        help ensure that most funds will be recouped in the event of
-        cancellation. In the event an Instructor is being reimbursed for
-        expenses and cancels, the host will not be held responsible for
-        insurance.
-    -   We would ask that the Instructor teaches virtually if they are
-        no longer comfortable teaching in-person. Learners will
-        participate either fully online or fully in-person
+    -   For transportation (flights, train tickets, bus tickets, etc.), we encourage the
+        purchase of fully refundable tickets or insurance where possible. This will
+        help ensure that most funds will be recovered in the event of
+        cancellation.
+    -   In the event an Instructor is being reimbursed for
+        expenses and cancels, the host cannot be held responsible for any
+        costs, including costs that were paid for insurance.
+    -   If a host pays for travel and accommodations upfront and an Instructor is no longer able to teach,
+        the Instructor will be held responsible for reimbursing any funds the host is
+        unable to recover.
+    -   If possible, we would ask that the Instructor teaches virtually. Learners
+        will then participate either fully online or fully in-person.
         
 -   **What if the in-person event policy changes before the workshop
     takes place?**
