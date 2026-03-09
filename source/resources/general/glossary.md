@@ -411,7 +411,7 @@ Subcommunity Registry
 ```{glossary}
 
 Task Force
-    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](https://docs.carpentries.org/resources/general/taskforce.html to carry out their work.
+    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](https://docs.carpentries.org/resources/general/taskforce.html) to carry out their work.
 
 Teaching Demo
     a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
