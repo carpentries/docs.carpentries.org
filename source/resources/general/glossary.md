@@ -402,7 +402,7 @@ Subcommunity Coordinator
     member of the community who serves as leader of a subcommunity.
 
 Subcommunity Registry
-    a registry of all The Carpentries subcommunities who have officially registered with the organisation.
+    [a registry of all The Carpentries subcommunities](https://carpentries.org/community/get-connected/#subcommunity-registry) who have officially registered with the organisation.
 
 ```
 
@@ -411,7 +411,7 @@ Subcommunity Registry
 ```{glossary}
 
 Task Force
-    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period.
+    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](https://docs.carpentries.org/resources/general/taskforce.html) to carry out their work.
 
 Teaching Demo
     a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
@@ -420,7 +420,7 @@ Technology Team
     members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the computational infrastructure and services that keep our organisation operating (e.g., Etherpads and CodiMD, the Workbench and our lesson templates, GitHub organisations and repositories, our internal database AMY, and our cloud infrastructure).
 
 Tip Sheet
-    community resource that synthesises and summarises information; example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
+    community resource that synthesises and summarises information; an example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
 
 TopicBox
     platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
