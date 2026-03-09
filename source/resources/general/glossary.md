@@ -55,7 +55,7 @@ CarpentryConnect
 [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
     resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists, recommendations for best practices, and resources on event planning for further reading.
 
-[Carpentries Handbook](https://docs.carpentries.org/index.html)
+[Carpentries Handbook](/index.html)
     collection of information on Carpentries policies and procedures, including how to lead a workshop, how to develop and maintain lessons, how to participate in a training event, how to get involved in our global community, and information about Carpentries communication channels. 
 
 Centrally-Organised Workshop
@@ -67,7 +67,7 @@ Certification
 Checkout
     a process consisting of steps to be completed after, or in addition to, training to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/14-checkout.html), but may also refer to [steps required for Instructor Trainer certification](https://carpentries.github.io/trainer-training/index.html).
 
-[Code of Conduct (CoC)](https://docs.carpentries.org/policies/coc/)
+[Code of Conduct (CoC)](/policies/coc/)
     a policy that describes what is expected of everyone participating in Carpentries activities.
 
 Code of Conduct Committee
@@ -80,7 +80,7 @@ Collaborative Lesson Development Training
     training in how to design and develop open source curriculum using The Carpentries lesson infrastructure; a necessary step to complete {term}`Lesson Developer <lesson developer>` certification.
 
 Committee
-    group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Guidelines](https://docs.carpentries.org/resources/general/committees.html) provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities.
+    group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Guidelines](/resources/general/committees.html) provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities.
 
 Community 
     a network of regional and role-based volunteers, practitioners, and advocates who advance research by emphasising the critical role of software and data; also refer to {term}`Community Member <community member>`.
@@ -189,7 +189,7 @@ Handbook
     refer to  {term}`Carpentries Handbook <carpentries handbook>`.
 
 Helper
-    volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
+    volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](/resources/workshops/checklists.html#helper-checklist) for more information.
 
 Host Organisation(s)
     organisation(s) responsible for organising a Carpentries event; can also be the organisation where the event is held.
@@ -336,7 +336,7 @@ Pilot Workshop
     event where a new lesson is being tested.
 
 Policy
-    guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
+    guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](/policies/).
 
 ```
 
@@ -399,7 +399,7 @@ Subcommunity Registry
 ```{glossary}
 
 Task Force
-    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](https://docs.carpentries.org/resources/general/taskforce.html to carry out their work.
+    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](/resources/general/taskforce.html to carry out their work.
 
 Teaching Demo
     a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
