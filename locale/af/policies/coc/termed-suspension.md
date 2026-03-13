@@ -1,105 +1,105 @@
-# Code of Conduct Termed Suspension Guidelines
+# Gedragskode genoem opskorsingsriglyne
 
-## The Carpentries Termed Suspension Checklist
+## Die Carpentries genoemde opskortingskontrollys
 
-As a part of their enforcement options, The Carpentries Code of Conduct (CoC) committee can place a community member in Termed Suspension, where the community member is removed from all Carpentries engagement for a period of time.
+As deel van hul handhawingsopsies kan die Carpentries Code of Conduct (CoC) -komitee 'n gemeenskapslid in die naam Suspension plaas, waar die gemeenskapslid vir 'n tydperk van alle Carpentries -betrokkenheid verwyder word.
 
-The goal of a Termed Suspension is to 1) limit a person's participation in virtual and in-person Carpentries spaces for a set time to create a safe space for the community, and 2) to give time and opportunity for the individual to review their response to the incident and demonstrate immediate, ongoing, and demonstrable changes as evaluated by the CoC committee before possible reinstatement.
+Die doel van 'n genoemde suspensie is om 1) 'n persoon se deelname aan virtuele en persoonlike Carpentries-ruimtes vir 'n vasgestelde tyd te beperk om 'n veilige ruimte vir die gemeenskap te skep, en 2) om tyd en geleentheid vir die individu te gee om hul reaksie op die voorval te hersien en onmiddellike, deurlopende en demonstreerbare veranderinge soos geëvalueer deur die CoC-komitee voor moontlike herstel.
 
-In most cases, a Termed Suspension will only be enacted after an incident has been reviewed by the CoC committee and a resolution is reached. However, in severe situations, in particular where there is active harassment, the CoC committee may enact an immediate short-term Termed Suspension while an incident is under review.
+In die meeste gevalle sal 'n genoemde opskorting eers uitgevaardig word nadat 'n voorval deur die CoC-komitee hersien is en 'n resolusie bereik is. In ernstige situasies, veral waar daar aktiewe teistering is, kan die CoC-komitee egter 'n onmiddellike korttermyn-opskorting uitvoer terwyl 'n voorval ondersoek word.
 
-If there is a decision for a Termed Suspension, the following checklist is followed by the appropriate personnel to enact the Termed Suspension. In accordance with CoC confidentiality guidelines, only essential personnel will be involved in implementation of these actions.
+As daar 'n besluit vir 'n genoemde suspensie is, word die volgende kontrolelys gevolg deur die toepaslike personeel om die genoemde suspensie uit te voer. In ooreenstemming met die CoC vertroulikheidsriglyne sal slegs noodsaaklike personeel betrokke wees by die implementering van hierdie aksies.
 
-## Online Communication and Communities
+## Aanlyn kommunikasie en gemeenskappe
 
-Revoke access from the following communication channels and communities:
+Herroep toegang vanaf die volgende kommunikasiekanale en gemeenskappe:
 
-- Email lists on [TopicBox](https://carpentries.topicbox.com/groups)
-- Email lists on Google Groups including but not limited to:
-  - Library Carpentry Governance Group
-  - Library Carpentry Maintainer Onboarding
-  - Code of Conduct Committee
-  - Carpentries Mentoring Groups
+- E-poslyste op [TopicBox] (https://carpentries.topicbox.com/groups)
+- E-poslyste op Google Groups, insluitend maar nie beperk nie tot:
+  - Biblioteektimmeringsbestuursgroep
+  - Onderhoud van biblioteek timmerwerk
+  - Gedragskodekomitee
+  - Carpentries Mentorgroepe
 - Twitter:
-  - [@datacarpentry](https://twitter.com/datacarpentry)
-  - [@swcarpentry](https://twitter.com/swcarpentry)
-  - [@libcarpentry](https://twitter.com/libcarpentry)
-  - [@thecarpentries](https://twitter.com/thecarpentries)
+  - [@datacarpentry] (https://twitter.com/datacarpentry)
+  - [@swcarpentry] (https://twitter.com/swcarpentry)
+  - [@libcarpentry] (https://twitter.com/libcarpentry)
+  - [@thecarpentries] (https://twitter.com/thecarpentries)
 - Blogs
-  - [Data Carpentry](https://datacarpentry.org/blog/)
-  - [Software Carpentry](https://software-carpentry.org/blog/)
-  - [Library Carpentry](https://librarycarpentry.org/blog/)
-  - [The Carpentries](https://carpentries.org/blog/)
-- GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
-- Gitter - Library Carpentry Lobby
-- {{'[Slack]({})'.format(slack)}}
-- [Facebook](https://www.facebook.com/carpentries/)
-- [LinkedIn Carpentries](https://www.linkedin.com/company/the-carpentries/about/) and [LinkedIn Instructors](https://www.linkedin.com/groups/8279689/)
+  - [Data-timmerwerk] (https://datacarpentry.org/blog/)
+  - [Sagteware Timmerwerk] (https://software-carpentry.org/blog/)
+  - [Biblioteek Timmerwerk] (https://librarycarpentry.org/blog/)
+  - [Die Carpentries] (https://carpentries.org/blog/)
+- GitHub (insluitend maar nie beperk nie tot karpentries, datacarpentry, swasturwerk, biblioteektimmerwerk, data-lesse, karpentrieslab)
+- Gitter - Biblioteekskrynvoorportaal
+- {{'[Slack] ({}) '.formaat (slaap)}}
+- [Facebook] (https://www.facebook.com/carpentries/)
+- [LinkedIn Carpentries] (https://www.linkedin.com/company/the-carpentries/about/) en [LinkedIn Instrukteurs] (https://www.linkedin.com/groups/8279689/)
 
-Additionally, the community member will not be allowed to attend community discussions.
+Boonop sal die gemeenskapslid nie toegelaat word om gemeenskapsbesprekings by te woon nie.
 
-## Teaching Workshops
+## Onderrigwerkswink
 
-The suspended member will, for the duration of their suspension:
+Die opgeskorte lid sal vir die duur van hul opskorsing:
 
-- Be asked not to sign up for workshops on the Instructor Spreadsheet.
-- Not be able to participate as a helper at any workshops.
-- Be removed from Eventbrite login access.
-- Not be allowed to plan Self-Organised workshops.
-- Not be allowed to request or host centrally coordinated workshops.
-- Not be listed as an instructor on the “Instructors” webpage.
-- Be removed from the instructors email list.
+- Word gevra om nie aan te meld vir werkswinkels op die Instruktorsigblad nie.
+- Nie in staat wees om as helper aan enige werkswinkels deel te neem nie.
+- Wees verwyder van Eventbrite -aanmeldtoegang.
+- Moenie selfgeorganiseerde werkswinkels beplan nie.
+- Moenie sentraal gekoördineerde werkswinkels aansoek of aanbied nie.
+- Moenie as instrukteur op die webblad “Instruksieurs” gelys word nie.
+- Word verwyder uit die e-poslys van instrukteurs.
 
-## Organising Workshops
+## Reël werkswinkels
 
-If the suspended member is a Regional Coordinator or serves in another role whereby they organise workshops for The Carpentries, for the duration of their suspension they will not have access to:
+As die opgeskorte lid 'n streekskoördineerder is of in 'n ander rol dien waardeur hulle werkswinkels vir The Carpentries organiseer, sal hulle vir die duur van hul opskorting nie toegang hê tot:
 
 - LastPass
-- AMY
-- Regional Email
+- MY
+- Streeks-e-pos
 - Asana
 - HelpScout
-- Zoom
-- Regional Coordinators Slack Channel
-- Regional Coordinators Email List
+- zoem
+- Streekkoördineerders Slack Channel
+- Streekkoördineerders E-poslys
 
-## Instructor Training
+## Instrukteur opleiding
 
-The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to:
+Die opgeskorte lid sal vir die duur van hul opskorting van die webblad “Ons opleiers” verwyder word. Daarbenewens sal die opgeskorte lid nie toegelaat word om:
 
-- Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed.
-- Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance.
-- Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension.
-- Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension.
-- Participate in review of applications for open instructor training or Trainer training.
-  Participate as a learner in instructor training.
+- Leer instruktoropleiding of lei onderrigdemonstrasiesessies. Die Adjunkdirekteur van Instruktoropleiding (DDIT) sal die onderrigdemo Etherpad nagaan om te verseker dat die opgeskorte lid nie aangeteken is om onderrigdemonstrasies te lei nie en 'n vervangende afrigter sal vind indien nodig.
+- Sluit aan by Trainervergaderings. Die DDIT sal die vergadering Etherpad nagaan, en as die opgeskorte lid aangeteken is om by te woon, sal hulle e-pos indien nodig om te bevestig dat hulle nie bywoon sal wees nie.
+- Plaas trekversoeke (PR's), kwessies of kommentaar aan die Instructor Training GitHub-bewaarplek. Skryf- of administratiewe toegang tot bewaarplekke sal vir die duur van die opskorting verwyder word.
+- Plaas na die Trainers Slack-kanaal of poslyste. Die opgeskorte lid sal vir die duur van hul opskorsing uit hierdie lyste verwyder word.
+- Neem deel aan die hersiening van aansoeke vir oop instrukteeropleiding of Traineropleiding.
+  Neem as leerder deel aan instrukteeropleiding.
 
-## Trainer Training
+## Traineropleiding
 
-The suspended member will not be allowed to participate in Trainer Training (if they are currently enrolled) and will not be accepted for Trainer Training (if they apply during the suspension period). Additionally, they will not be allowed to shadow a current Carpentries Trainer. They may apply or reapply for future rounds of Trainer Training.
+Die opgeskorte lid sal nie toegelaat word om aan Traineropleiding deel te neem nie (indien hulle tans ingeskryf is) en sal nie vir Traineropleiding aanvaar word nie (indien hulle gedurende die opskortingsperiode aansoek doen). Daarbenewens sal hulle nie toegelaat word om 'n huidige Carpentries Trainer te skadu nie. Hulle kan aansoek doen of weer aansoek doen vir toekomstige rondes van Trainer Trainer Trainer.
 
-## Member Organisation and Local Activities
+## Lidorganisasie en plaaslike aktiwiteite
 
-The suspended member shall not be involved in officially branded Carpentries workshops or activities at the member or local site for the duration of the suspension. We expect the suspended member to assert that they will be able to carry out this suspension accordingly and to notify the CoC committee if this suspension will interfere with their expected employment duties.
+Die opgeskorte lid mag nie betrokke wees by amptelik handelsmerke Carpentries werkswinkels of aktiwiteite op die lid of plaaslike terrein gedurende die duur van die opskorting nie. Ons verwag dat die opgeskorte lid sal beweer dat hulle hierdie opskorsing dienooreenkomstig sal kan uitvoer en die Komitee van die Komitee in kennis stel as hierdie skorsing hul verwagte dienspligte sal inmeng.
 
-If the suspension does affect employment duties or the suspended member is the key contact for a member site, the member will work with The Carpentries Executive Director to determine a course of action.
+As die skorsing wel dienspligte beïnvloed of die opgeskorte lid die belangrikste kontak vir 'n lidwebwerf is, sal die lid saam met die uitvoerende direkteur van The Carpentries werk om 'n manier van aksie te bepaal.
 
-## Lesson Development and Maintenance
+## Lesontwikkeling en -instandhouding
 
-The suspended member will not be allowed to post PRs, issues, or comments to any repository in the carpentries, including but not limited to datacarpentry, swcarpentry, library carpentry, data-lessons, and carpentrieslab organisations. Administrative or write privileges to repositories in these organisations will be removed for the duration of the suspension.
+Die opgeskorte lid sal nie toegelaat word om PR's, kwessies of kommentaar aan enige bewaarplek in die karpentries te plaas nie, insluitend maar nie beperk nie tot datacarpentry, swasturwerk, biblioteektimmerwerk, data-lesse en karpentrieslab-organisasies nie. Administratiewe of skryfvoorregte aan bewaarplekke in hierdie organisasies sal vir die duur van die opskorting verwyder word.
 
-If the suspended member is a Maintainer, their name will be removed from the lessons page and they will not appear on the Maintainers page for the duration of their suspension.
+As die opgeskorte lid 'n Onderhouder is, sal hul naam van die lesbladsy verwyder word en hulle sal nie op die Onderhouders-bladsy verskyn vir die duur van hul opskorting nie.
 
-## Executive Council
+## Uitvoerende Raad
 
-If the suspended member is a member of the Executive Council, they will not participate in Executive Council responsibilities and will be removed from the Executive Council repositories and list of Executive Council members on the website for the duration of their suspension. The Executive Council will review the CoC incident to determine if a suspension will affect their long term position on the Executive Council.
+Indien die opgeskorte lid van die Uitvoerende Raad is, sal hulle nie aan die verantwoordelikhede van die Uitvoerende Raad deelneem nie en word vir die duur van hul opskorting uit die bewaarplekke van die Uitvoerende Raad en lys van Uitvoerende Raadslede op die webwerf verwyder. Die Uitvoerende Raad sal die CoC-voorval hersien om te bepaal of 'n skorsing hul langtermynposisie in die Uitvoerende Raad sal beïnvloed.
 
-## Committees, Task Forces, and Other Interactions
+## Komitees, taakmagte en ander interaksies
 
-Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended.
+Betrokkenheid by alle komitees, gemeenskappe en taakmagte (African Task Force, Carpentries en LatinoAmérica, ens.) sal opgeskort word.
 
-## Other Interactions
+## Ander interaksies
 
-- The suspended members' ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
+- Die vermoë van die opgeskorte lede om by AMY aan te meld om hul eie profiel of ander take te bestuur, sal herroep word vir die duur van hul opskorting.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
