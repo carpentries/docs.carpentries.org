@@ -1,67 +1,67 @@
-# The Carpentries Committee Guidelines
+# Die Riglyne vir die Carpentries Commitee
 
-These guidelines provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities.
+Hierdie riglyne bied die aanbevole proses vir die oprigting van komitees om deursigtigheid, aanspreeklikheid en volhoubaarheid van komitee aktiwiteite
 
-## Committee Proposal
+## Komitee Voorstel
 
-A committee proposal should:
+'N Komitee voorstel moet:
 
-- explain the need for or the context for the committee
-- explain why it should be an ongoing/longer-term committee
-- list the aims and objectives of the committee
+- verduidelik die behoefte aan of die konteks vir die komitee
+- verduidelik waarom dit 'n voortdurende /langtermynkomitee moet wees
+- noem die doelwitte en doelwitte van die komitee
 
-Committee proposals can be submitted by creating an
-issue in the [_committees_ repository](https://github.com/carpentries/committees/issues) in [The Carpentries GitHub](https://github.com/carpentries/) or by emailing the proposal to the [Core Team](mailto:team@carpentries.org).
+Komitee voorstelle kan ingedien word deur 'n
+-uitgawe in die [_komitees_ bewaarplek] (https://github.com/carpentries/committees/issues) in [The Carpentries GitHub] (https://github.com/carpentries/) te skep of deur die voorstel aan die [Core Team] (mailto:team@carpentries.org) per e-pos te stuur.
 
-## Committee Formation
+## Komitee-vorming
 
-Committee proposals do not require formal approval, though the [Community Team should be informed](mailto:community@carpentries.org) of committee formation. Active committees are listed on [The Carpentries website](https://carpentries.org/committees/) with a link to public documentation.
+Komitevoorstelle vereis nie formele goedkeuring nie, alhoewel die [gemeenskapspan ingelig moet word] (mailto:community@carpentries.org) van die vorming van komitee. Aktiewe komitees word op [The Carpentries -webwerf] (https://carpentries.org/committees/) gelys met 'n skakel na openbare dokumentasie.
 
-## Committee Operations
+## Komitebedrywighede
 
-The following are recommended guidelines for committees. Each committee should:
+Die volgende is aanbevole riglyne vir komitees. Elke komitee moet:
 
-- Create an official [committee charter](https://github.com/carpentries/committees/blob/main/committee-charter-template.md), including the [committee's roles and responsibilities](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#roles-and-responsibilities)
-- Appoint a committee chair and, optionally, a co-chair and identify term limits for chair/co-chair/members
-- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings
-- Create a public space for the committee, including:
-  - The committee's charter
-  - Contact information for the committee
-  - Other public materials (if available)
-  - Information on when committee meetings are held
-  - Meeting notes (if appropriate)
-  - Names of the current and past members, including their roles
-  - Name of the Core Team liaison (if applicable)
-  - Information on how to join the committee
-- Create internal [documentation for operational procedures](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#operational-procedures) (which may also be made public), including:
-  - Process for recruiting and/or selecting new members
-  - Process for on-boarding new members
-  - Process for off-boarding members
-  - Succession plan for chair/co-chair
-  - Decision-making process
-- Maintain internal and public-facing communication:
-  - Organise committee meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of the committee requires them to remain private)
-  - Post meetings in the [community calendar](https://carpentries.org/community/events/). Note that meetings do not necessarily need to be open to public to attend even though they are added to the calendar - for example, the Code of Conduct Committee's business meetings are public, but incident response meetings are not.
-  - Aim to host at least one community discussion per year to share about the committee's activities
-  - Utilise other [The Carpentries community communication pathways](/resources/communications/index.md) to engage with the community as needed
+- Skep 'n amptelike [komitee handves] (https://github.com/carpentries/committees/blob/main/committee-charter-template.md), insluitend die [komitee se rolle en verantwoordelikhede] (https://github.com/carpentries/committees/blob/main/committee-charter-template.md#roles-and-responsibilities)
+- Stel 'n komitee voorsitter aan en opsioneel 'n mede-voorsitter en identifiseer termyn perke vir voorsitter/mede-voorsitter/lede
+- Versoek 'n lidskakeling van [Core Team] (https://carpentries.org/team/) om as kontakpunt te dien en (opsioneel) die komiteevergaderings by te woon
+- Skep 'n openbare ruimte vir die komitee, insluitend:
+  - Die handves van die komitee
+  - Kontakinligting vir die komitee
+  - Ander openbare materiaal (indien beskikbaar)
+  - Inligting oor wanneer komiteevergaderings gehou word
+  - Vergaderingsnotas (indien toepaslik)
+  - Name van die huidige en vorige lede, insluitend hul rolle
+  - Naam van die kernspanskakeling (indien van toepassing)
+  - Inligting oor hoe om by die komitee aan te sluit
+- Skep interne [dokumentasie vir operasionele prosedures] (https://github.com/carpentries/committees/blob/main/committee-charter-template.md#operational-procedures) (wat ook openbaar gemaak kan word), insluitend:
+  - Proses vir die werwing en/of die keuse van nuwe lede
+  - Proses vir die boord van nuwe lede
+  - Proses vir buite boordlede
+  - Opvolgingsplan vir voorsitter/mede-voorsitter
+  - Besluitnemingsproses
+- Handhaaf interne en openbare kommunikasie:
+  - Organiseer komiteevergaderings (ten minste twee keer per jaar) en plaas vergaderingsnotas op 'n konsekwente plek (vergaderingsnotas moet openbaar wees, tensy die werk van die komitee vereis dat dit privaat moet bly)
+  - Plaas vergaderings in die [gemeenskapskalender] (https://carpentries.org/community/events/). Let daarop dat vergaderings nie noodwendig oop hoef te wees vir die publiek om by te woon nie, alhoewel dit by die kalender gevoeg word nie - byvoorbeeld, die besigheidsvergaderings van die gedragskomitee is openbaar, maar vergaderings vir voorvalle is nie.
+  - Doel om ten minste een gemeenskapsbespreking per jaar aan te bied om oor die komitee se aktiwiteite te deel
+  - Gebruik ander [The Carpentries -gemeenskapskommunikasiepaaie] (/resources/communications/index.md) om met die gemeenskap te betrokke soos nodig
 
-Templates for creating committee documentation are available from the [_committees_ repository](https://github.com/carpentries/committees).
+Sjablone vir die skep van komitee dokumentasie is beskikbaar by die [_komitees_ bewaarplek] (https://github.com/carpentries/committees).
 
-## Committee Termination
+## Komitee beëindiging
 
-A committee may naturally cease to function upon fulfilling its goals, in which case the Core Team should be notified.
+'N Komitee kan natuurlik ophou om te funksioneer by die vervulling van sy doelwitte, in welke geval die kernspan in kennis gestel moet word.
 
-## Past & Current Committees
+## Vorige en huidige komitees
 
-- [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
-- [Curriculum Advisory Committees](https://carpentries.org/curriculum-advisors/) (CACs)
-- [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
-- [Instructor Development Committee](https://carpentries.org/inst-dev/)
-- [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
-- [Lesson Program Governance Committees](https://carpentries.org/blog/2022/11/lesson-program-governance/)
+- [Gedragskodekomitee] (https://carpentries.org/coc-ctte/)
+- [Kurrikulumadvieskomitees] (https://carpentries.org/curriculum-advisors/) (CAC's)
+- [Lesinfrastruktuurkomitee] (https://carpentries.org/lesson-infra/)
+- [Instrukteurontwikkelingskomitee] (https://carpentries.org/inst-dev/)
+- [Leierskapkomitee vir opleierder] (https://github.com/carpentries/trainers/blob/main/governance.md)
+- [Lesprogrambestuurskomitees] (https://carpentries.org/blog/2022/11/lesson-program-governance/)
 
-## Update Log
+## Opdatering Logboek
 
-- 2024-01-25: Renamed Committee Policy to Committee Guidelines, including recommendations and removing requirements for committees.
-- [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council.
-- [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council.
+- 2024-01-25: Hernoem die komitee beleid na komiteeriglyne, insluitend aanbevelings en verwydering van vereistes vir komitees.
+- [Goedgekeur op 2022-12-02] (https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) deur die Uitvoerende Raad.
+- [Goedgekeur op 2020-09-23] (https://github.com/carpentries/executive-council-info/issues/44) deur die Uitvoerende Raad.
