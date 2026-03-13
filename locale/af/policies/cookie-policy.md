@@ -1,52 +1,52 @@
-# The Carpentries Cookie Policy
+# Die Carpentries -koekiebeleid
 
-**Last updated:** 2022-01-15
+\*\*Laas opgedateer: \*\* 2022-01-15
 
-To make our sites work properly, we sometimes place small data files called cookies on your device. A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login or other preferences) over a period of time, so you do not have to keep re-entering them whenever you come back to the site or browse from one page to another.
+Om ons webwerwe behoorlik te laat werk, plaas ons soms klein datalêers wat koekies genoem word, op u toestel. 'N Koekie is 'n klein tekslêer wat 'n webwerf op jou rekenaar of mobiele toestel stoor wanneer jy die webwerf besoek. Dit stel die webwerf in staat om u aksies en voorkeure (soos aanmelding of ander voorkeure) oor 'n tydperk te onthou, sodat u dit nie hoef te aanhou om weer in te voer wanneer u na die webwerf terugkom of van een bladsy na 'n ander blaai nie.
 
-We have put our cookies into the following categories to make it easier for you to understand why we need them:
+Ons het ons koekies in die volgende kategorieë geplaas om dit vir u makliker te maak om te verstaan waarom ons dit nodig het:
 
-1. **Strictly necessary:** These are used to help make our websites work
-   efficiently, provide security features on our websites, and provide services
-   that are required to provide the services you expect from our websites.
-2. **Performance/analytics:** These are used to analyze the way our websites
-   work and how we can improve it.
-3. **Functionality:** These help to enhance your experience by remembering
-   choices you have made concerning the features of the websites (e.g.,
-   username, language, region you are in).
+1. \*\*Streng nodig: \*\* Dit word gebruik om ons webwerwe doeltreffend te laat werk
+   , veiligheidsfunksies op ons webwerwe te verskaf en dienste te lewer
+   wat nodig is om die dienste te lewer wat u van ons webwerwe verwag.
+2. \*\*Prestasie/analise: \*\* Dit word gebruik om die manier waarop ons webwerwe
+   werk en hoe ons dit kan verbeter, te ontleed.
+3. \*\*Funksionaliteit: \*\* Dit help om u ervaring te verbeter deur
+   -keuses wat u gemaak het rakende die kenmerke van die webwerwe te onthou (bv.
+   gebruikersnaam, taal, streek waarin u is).
 
-While we intend to limit third-party cookies, there might be pages on our websites that may set third party cookies. For instance, when we embed content from another site (e.g., a video), or when we use an external logging system (e.g., you log into {{"[AMY]({})".format(amy_link)}} using your GitHub credentials) they may set a cookie. We try to limit these situations, but cannot always control how these sites use cookies.
+Alhoewel ons van plan is om koekies van derdepartye te beperk, kan daar bladsye op ons webwerwe wees wat derdeparty-koekies kan instel. Byvoorbeeld, wanneer ons inhoud van 'n ander webwerf insluit (bv. 'n video), of wanneer ons 'n eksterne logstelsel gebruik (byvoorbeeld, u aanmeld by {{"[AMY] ({})” .format (amy_link)}} met behulp van u GitHub-bewysings) kan hulle 'n koekie instel. Ons probeer om hierdie situasies te beperk, maar kan nie altyd beheer hoe hierdie webwerwe koekies gebruik nie.
 
-## Cookies and You
+## Koekies en jy
 
-If you choose not to enable cookies, you will still be able to browse our
-websites, but it will restrict some of the functionality of our websites or what
-you can do.
+As jy kies om nie koekies te aktiveer nie, sal jy steeds op ons
+-webwerwe kan blaai, maar dit sal sommige van die funksies van ons webwerwe beperk of wat
+jy kan doen.
 
 ### Matomo
 
-We use [Matomo](https://matomo.org/) for our site analytics. We set it up to
-reduce the amount of personal information it collects about your visit and no
-cookies are used. It is enabled on <https://carpentries.org>,
+Ons gebruik [Matomo] (https://matomo.org/) vir ons webwerfinalise. Ons stel dit op om
+die hoeveelheid persoonlike inligting wat dit oor u besoek insamel, te verminder en geen
+-koekies word gebruik nie. Dit is geaktiveer op <https://carpentries.org>,
 <https://datacarpentry.org>, <https://librarycarpentry.org>,
 <https://software-carpentry.org>, <https://carpentries-incubator.org>,
 <https://carpentries-lab.org>, <https://carpentrycon.org>,
-<https://carpentryconnect.org>, and some of our sub-domains including
+<https://carpentryconnect.org>, en sommige van ons subdomeine, insluitend
 <https://amy.carpentries.org>.
 
-### Other cookies
+### Ander koekies
 
-**Cookies on <https://pad.carpentries.org>, <https://codimd.carpentries.org>, <https://amy.carpentries.org>, <https://forum.carpentries.org>**
+**Koekies op <https://pad.carpentries.org>, <https://codimd.carpentries.org>, <https://amy.carpentries.org>, <https://forum.carpentries.org>**
 
-Cookies on these sites are only first-party cookies that are strictly necessary or improve the functionality of the sites.
+Koekies op hierdie webwerwe is slegs eerstepartykoekies wat streng nodig is of die funksionaliteit van die webwerwe verbeter.
 
-## Updating this cookie notice
+## Opdateer hierdie koekiekennisgewing
 
-We will update the list of cookies we use from time to time. If we make any changes, we will update the “Last Updated” date at the top of this document.
+Ons sal die lys van koekies wat ons gebruik van tyd tot tyd opdateer. As ons enige veranderinge aanbring, sal ons die datum “Laas opgedateer” boaan hierdie dokument opdateer.
 
-## Controlling your cookies
+## Beheer jou koekies
 
-You can control cookies in your browser to enable or disable them. If you wish
-to restrict or block the cookies which are set by any website, you should do
-this through the web browser settings for each web browser you use, on each
-device you use to access the internet.
+Jy kan koekies in jou blaaier beheer om dit te aktiveer of uit te skakel. As jy wil hê
+om die koekies wat deur enige webwerf ingestel word, te beperk of te blokkeer, moet jy dit
+doen deur die webblaaierinstellings vir elke webblaaier wat jy gebruik, op elke
+-toestel wat jy gebruik om toegang tot die internet te kry.
