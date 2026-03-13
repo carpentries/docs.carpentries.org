@@ -1,364 +1,364 @@
-# The Carpentries Style Guide
+# Die Carpentries-stylgids
 
-This guide aims to provide a standard reference point when questions arise about style for The Carpentries - how we would prefer people to reference us, how best to render dates and times for a global community, when to use what capitalisation, and other questions of style.
+Hierdie gids het ten doel om 'n standaard verwysingspunt te verskaf wanneer vrae ontstaan oor styl vir The Carpentries - hoe ons mense sou verkies om na ons te verwys, hoe die beste om datums en tye vir 'n wêreldwye gemeenskap te gee, wanneer om watter kapitalisering te gebruik, en ander vrae oor styl.
 
-The guide should be followed when preparing materials for circulation within The Carpentries community and on its public platforms (websites, social media, repositories, etc.). Materials about The Carpentries that are submitted to other fora (conferences, journals, grant applications, blogs and websites of other organisations, etc.) need not follow this style guide, until or unless they are also to be published and circulated on any of The Carpentries' public platforms.
+Die gids moet gevolg word wanneer materiaal voorberei word vir sirkulasie binne The Carpentries -gemeenskap en op sy openbare platforms (webwerwe, sosiale media, bewaarplekke, ens.). Materiaal oor The Carpentries wat aan ander fora ingedien word (konferensies, tydskrifte, toekenningsaansoeke, blogs en webwerwe van ander organisasies, ens.) hoef nie hierdie stylgids te volg totdat of tensy dit ook op enige van The Carpentries se openbare platforms gepubliseer en versprei moet word nie.
 
-Lesson contributors and Maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
+Lesbydraers en Onderhouders moet streef om hierdie styl te voldoen, maar kan die maak van materiaal beskikbaar te stel bo stylooorwegings. Om te verseker dat die stylgids so wyd as moontlik van toepassing is, sal Britse Engelse spellings en gebruik ten gunste van Amerikaanse spelling gebruik word.
 
-Please note, as outlined in [section C](#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+Let asseblief kennis, soos uiteengesit in [afdeling C] (#c): Die Carpentries, hoewel meervoud klink, is 'n enkelvoudige entiteit. Daarom, wanneer dit na The Carpentries verwys word, moet werkwoorde ook enkelvoud wees, _bv. _ 'The Carpentries is …'. Die volledige en korrekte titel vir die saamgesmelte organisasie is The Carpentries. Terminologie soos 'A Carpentries workshop …'is egter aanvaarbaar.
 
 ---
 
 ## A
 
-### abbreviations and acronyms
+### afkortings en akronieme
 
-Generally use all capitals for initialisms, _e.g.,_ NSF, CEO, BIDS. When writing about an organisation or event within text, provide the acronym in brackets on first use, and use the acronym to refer to the organisation or event from then on. For example, ‘She was the chair of the National Science Foundation (NSF) ... The NSF … ’
+Gebruik oor die algemeen alle hoofletters vir inisialismes, _bv., _ NSF, CEO, BIDS. Wanneer jy oor 'n organisasie of geleentheid binne teks skryf, verskaf die akroniem in hakies by die eerste gebruik, en gebruik die akroniem om van toe af na die organisasie of geleentheid te verwys. Byvoorbeeld, 'Sy was die voorsitter van die National Science Foundation (NSF)... Die NSF … '
 
-If an organisation is mentioned only once within a piece of text, say, in a blog post, it is not necessary to provide its acronym. Do not use acronyms without spelling these out first as country-specific acronym may be unfamiliar to members of our community.
+As 'n organisasie slegs een keer in 'n stuk teks genoem word, byvoorbeeld in 'n blogpos, is dit nie nodig om die akroniem daarvan te verskaf nie. Moenie akronieme gebruik sonder om dit eers uit te spreek nie, aangesien landspesifieke akroniem vir lede van ons gemeenskap onbekend is nie.
 
-### accents
+### aksente
 
-Use on non-English words when known. People’s names, in whatever language, should also be given appropriate accents where known, _e.g.,_ ‘Arsène Lupin was a jewel thief who never got to Bogotá or Angoulême.’
+Gebruik op nie-Engelse woorde wanneer dit bekend is. Mense se name, in watter taal ook al, moet ook toepaslike aksente gegee word waar dit bekend is, _bv. _ 'Arsène Lupin was 'n juweeldief wat nooit na Bogotá of Angoulême gekom het nie. '
 
-### adverbs
+### bywoorde
 
-Hyphens are not needed after adverbs ending in _-ly_, _e.g._ a hotly argued topic, a constantly evolving career, a recently published program, etc. Hyphens are needed with short and common adverbs, _e.g.,_ ever-faithful follower, ill-written script, much-quoted speech.
+Koppende is nie nodig na bywoordele wat eindig in _-ly_, _byvoorbeeld 'n hart aangevooreerde onderwerp, 'n voortdurend ontwikkelende loopbaan, 'n onlangs gepubliseerde program, ens. Koppende is nodig met kort en algemene bywoorde, _bv. _ altyd getroue volger, swak geskrewe skrif, baie aangehaalde toespraak.
 
-### alphabetisation
+### alfabetisering
 
-The lesson programs within The Carpentries, when listed together, should be listed in alphabetical order: Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry.
+Die lesprogramme binne The Carpentries, wanneer dit saam gelys word, moet in alfabetiese volgorde gelys word: Data Timmerry, HPC Timmerwerk, Library Timmerwerk en Sagteware-timmerwerk.
 
-### alt-text
+### alt-teks
 
-Keep alt-text as short as it can be, but provide as much detail as needed for the reader to understand what is in the image. More detailed alt-text may be necessary for [complex images](https://webaim.org/techniques/alttext/#complex), unless the detail in the image is included in the body of the text, then the alt-text of the complex image can be quite short. Provide links to the data if the image is a presentation of a data set, in order to allow the reader to explore the data for themselves.
+Hou alt-teks so kort as wat dit kan wees, maar verskaf soveel detail as wat nodig is vir die leser om te verstaan wat in die beeld is. Meer gedetailleerde alt-teks kan nodig wees vir [komplekse beelde] (https://webaim.org/techniques/alttext/#complex), tensy die detail in die beeld in die liggaam van die teks ingesluit is, dan kan die alt-teks van die komplekse beeld redelik kort wees. Verskaf skakels na die data as die beeld 'n aanbieding van 'n datastel is, sodat die leser die data self kan verken.
 
 ### ampersand
 
-In text and blog posts, use the ampersand in organisations’ names when the organisation does so, _e.g.,_ P&O, AT&T.
+Gebruik die ampersand in organisasies se name in teks- en blogplasings wanneer die organisasie dit doen, _bv. _ P&O, AT&T.
 
-### apostrophes
+### apostrofe
 
-Indicates either a missing letter or letters (can’t, we’d, hadn’t) or a possessive (Siobhan’s script). The correct use of the apostrophe is important, as a misplacement or omission can alter a sentence’s meaning. Apostrophes are not needed in dates. Preferred form is 1990s, not 1990’s; the 70s, not the 70’s.
+Dui óf 'n ontbrekende brief of letters aan (kan nie, ons wou nie, nie) óf 'n besitsende (Siobhan se draaiboek). Die korrekte gebruik van die apostroof is belangrik, aangesien 'n verkeerde plasing of weglating die betekenis van 'n sin kan verander. Apostrofe is nie nodig in datums nie. Voorkeurvorm is 1990's, nie 1990's nie; die 70's, nie die 70's nie.
 
 ---
 
 ## B
 
-### bullet points
+### koeëlpunte
 
-Should ideally include a full stop after each one if it is not just a list of terms, i.e: <br>
+Moet ideaal 'n volle stop na elkeen insluit as dit nie net 'n lys van terme is nie, dit wil sê: <br>
 
-- This is the first bullet point that covers a range of ideas.
-- This is the second that also ranges quite widely.
-- And this is the third and these are just examples.
+- Dit is die eerste koeëlpunt wat 'n reeks idees dek.
+- Dit is die tweede wat ook redelik wyd wissel.
+- En dit is die derde en dit is net voorbeelde.
 
-But <br>
+Maar <br>
 
-- Instructors
-- Instructor Trainers
-- Maintainers
+- Instrukteurs
+- Instrukteur Opleiers
+- Onderhouders
 
 ---
 
 ## C
 
-### capital letters and capitalisation
+### hoofletters en hoofletters
 
-**titles**<br>
-Render these with initial capitals, _e.g.,_ President Abraham Lincoln, Facebook’s CEO, Pope John Paul II, the Secretary-General Ban-Ki Moon.
+**titel**<br>
+Verder dit met aanvanklike hoofskrifte, _bv. _ President Abraham Lincoln, Facebook se uitvoerende hoof, pous Johannes Paulus II, die Sekretaris-sekretaris Ban-Ki Moon.
 
-**government departments** initial capitals, _e.g.,_ Department of Industry, Department of Health. Use lower case when not referring to a department by its proper name, _e.g.,_
-‘Senator Carr first led the Department of Industry. The department is now led by … ’
+**regeringsafdelemente** aanvanklike hoofstede, _bv. _ Departement van Nywerheid, Departement van Gesondheid. Gebruik kleinletters as u nie na 'n departement met sy regte naam verwys nie, _bv. _
+'Senator Carr het die eerste keer die Departement van Nywerheid gelei. Die departement word nou gelei deur … '
 
-**government agencies, public bodies, quangos** <br>
-Render these with initial capitals, _e.g.,_ District Attorney’s Office, Human Rights Commission, the University of Florida. Use lower case when not referring to an organisation by its proper name, _e.g.,_ ‘She worked for the National Society of Coders. The society was founded … ’
+**regeringsagentskappe, openbare liggame, quangos** <br>
+Verder dit met aanvanklike hoofstede, _bv. _ Distriksprokureur se kantoor, menseregtekommissie, die Universiteit van Florida. Gebruik kleinletters as u nie na 'n organisasie met sy regte naam verwys nie, _bv. _ 'Sy het vir die National Society of Coders gewerk. Die vereniging is gestig … '
 
-**lesson titles and episode names** <br>
-Lesson titles and episodes within lessons should be rendered in Title case, i.e. all major words capitalised, _e.g.,_ Introduction to Data; Project Organisation and Management for Genomics.
+**lestitels en episodnaam** <br>
+Lestitels en episodes binne lesse moet in titelgeval gelewer word, dit wil sê alle hoofwoorde met hoofhoofgrootte, _bv. _ Inleiding tot data; Projekorganisasie en -bestuur vir genomika.
 
-**names of institutions** <br>
-Render these with initial capitals, _e.g.,_ Gordon and Betty Moore Foundation, Smithsonian Institute, the United Nations, the European Union.
+**name van instellings** <br>
+Verder dit met aanvanklike hoofstede, _bv. _ Gordon en Betty Moore Foundation, Smithsonian Instituut, die Verenigde Nasies, die Europese Unie.
 
-**roles** <br>
-Roles within The Carpentries are always capitalised. Therefore we use Instructor, Instructor Trainer, Maintainer, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+**rol** <br>
+Rolle binne The Carpentries word altyd hoofgrootliks gegee. Daarom gebruik ons instrukteur, instrukteerafrigter, onderhouder en kurrikulumadviseur. Helper en gasheer word nie hoofgrootliks gekenmerk nie, aangesien dit nie amptelike rolle is nie.
 
-### Carpentries
+### Karpentries
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+Die Carpentries, hoewel meervoud klink, is 'n enkelvoudige entiteit. Daarom, wanneer dit na The Carpentries verwys word, moet werkwoorde ook enkelvoud wees, _bv. _ 'The Carpentries is …'. Die volledige en korrekte titel vir die saamgesmelte organisasie is The Carpentries. Terminologie soos 'A Carpentries workshop …'is egter aanvaarbaar.
 
-### colour
+### kleur
 
-Use adequate contrast to ensure the best readability. Colour should not be the only means of conveying information (indicating action, prompting a response, or distinguishing a visual element). Avoid using the colour combinations of red/green, green/brown, green/blue, blue/gray. Use shapes, patterns, textures, and labels to help distinguish differences. [Contrast Checker from WebAIM](https://webaim.org/resources/contrastchecker).
+Gebruik voldoende kontras om die beste leesbaarheid te verseker. Kleur moet nie die enigste manier wees om inligting oor te dra nie (aandui op aksie, 'n reaksie aan te spoor of 'n visuele element te onderskei). Vermy die kleurkombinasies van rooi/groen, groen/bruin, groen/blou, blou/grys te gebruik. Gebruik vorms, patrone, teksture en etikette om verskille te onderskei. [Kontrastkontroler van WebAIM] (https://webaim.org/resources/contrastchecker).
 
-### commas
+### kommas
 
-Use commas to separate clauses in long sentences. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’
+Gebruik kommas om klousules in lang sinne te skei. 'As die beoordelaars werklik nadink oor hul besluite rakende die nie-toekenning van pryse in 2010, sou hulle dit nie moeilik vind om te sien waarom mense beswaar het teen hul keuses nie. '
 
-Commas can be used definitively. For example, in this sentence: ‘The developer, Sue Miller, is a keen coder,’ the use of commas indicates that there is only one developer.
+Kommas kan definitief gebruik word. Byvoorbeeld, in hierdie sin: 'Die ontwikkelaar, Sue Miller, is 'n skerp kodeer', dui die gebruik van kommas aan dat daar slegs een ontwikkelaar is.
 
-Where no such definition is needed, _e.g.,_ ‘PyCon speaker Mary Clough won the award,’ no commas are needed since there are many speakers at PyCon, not just one.
+Waar nie so 'n definisie nodig is nie, _ bv. _ 'PyCon-spreker Mary Clough het die toekenning gewen, 'is geen kommas nodig nie, aangesien daar baie sprekers by PyCon is, nie net een nie.
 
-A comma is also crucial to avoid ambiguity in examples such as this: ‘The report criticises the judges who have been accused of favouritism.’ A comma after ‘judges’ would have made it clear that all judges have been accused of favouritism. Without the comma, the sentence implies that only some judges have been criticised.
+'N Komma is ook van kardinale belang om dubbelsinnigheid in voorbeelde soos hierdie te vermy: 'Die verslag kritiseer die regters wat van gunstigheid beskuldig is. ' 'N Komma na 'regters' sou dit duidelik gemaak het dat alle regters van gunstigheid beskuldig is. Sonder die komma impliseer die vonnis dat slegs sommige regters gekritiseer is.
 
-_See also [Oxford comma](#oxford-comma)._
+_Sien ook [Oxford komma] (#oxford-comma) . _
 
-### company names
+### maatskappyname
 
-Company names are always singular, _e.g.,_ ‘Mastodon is …’, ‘Amazon Web Services is …’
+Maatskappyname is altyd enkelvoudig, _bv. _ 'Mastodon is …', 'Amazon Web Services is …'
 
 ---
 
 ## D
 
-### data frames
+### datarame
 
-When referring to data frames in text, use two words, sentence case, which is [the convention in the R language](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). If you are writing for Python, then using DataFrame (one word, upper camel case) is appropriate in line with [the convention of the Python language](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+As u na datarame in teks verwys, gebruik twee woorde, singeval, wat [die konvensie in die R-taal] is (https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). As u vir Python skryf, is die gebruik van DataFrame (een woord, hoofkameelletter) gepas in ooreenstemming met [die konvensie van die Python-taal] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
-### dates
+### datums
 
-Our style is 21 July, 2011 (day month year).
+Ons styl is 21 Julie, 2011 (dagmaandjaar).
 
-_Other renderings:_
-‘In the 21st century’ but ‘21st-century science’.
+_Ander weergawes: _
+'In die 21ste eeu' maar '21ste eeuse wetenskap'.
 
-Use figures for decades, _e.g.,_ the 1990s, the radical 60s, etc. Do not add an apostrophe to decades, i.e. 1990s, not 1990’s; the 70s, not the 70’s.
+Gebruik syfers vir dekades, _bv. _ die 1990's, die radikale 60's, ens. Moenie 'n apostroof by dekades voeg nie, d.w.s. 1990's, nie 1990's nie; die 70's, nie die 70's nie.
 
-_See also [times](#times)._<br>
-_See also [seasons](#seasons)._
+_Sien ook [times] (#times) ._<br>
+_Sien ook [seisoene] (#seasons) . _
 
-### diacritical marks
+### diakritiese merke
 
-If possible, use the correct diacritical marks on people’s names in any language, _e.g.,_ Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng Nguyễn (Vietnamese).
+Gebruik indien moontlik die korrekte diakritiese merke op mense se name in enige taal, _bv. _ Sven-Göran Eriksson (Sweeds), Béla Bartók (Hongaars), Phường Nguyễn (Viëtnames).
 
 ---
 
 ## E
 
-### e.g.
+### byvoorbeeld
 
-include full stops, and always follow with a comma, whether you are using the abbreviated form, _e.g.,_ or the written-out version, for example.
+sluit volle stoppunte in, en volg altyd met 'n komma, of jy nou die afgekorte vorm gebruik, _bv., _ of die uitgeskrewe weergawe, byvoorbeeld.
 
-### etc.
+### ens
 
-Include final full stop.
+Sluit finale volle stop in.
 
 ---
 
 ## F
 
-### figures
+### figure
 
-Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, e.g., third, fifth, and thereafter use 10th, 31st, etc.
+Stel altyd die getalle van een tot nege in skryf uit. Gebruik syfers vir getalle 10 tot 999,999, en gaan daarna terug om getalle volledig uit te skryf, _bv. _ een miljoen lesers, agt miljard mense, maar as die eerste getal bo nege is, kan u teruggaan na syfers vir daardie eerste deel, _bv. _ 20 miljoen reëls. Stel ordinale van die eerste tot die negende uit, bv. Derde, vyfde, en gebruik daarna 10de, 31ste, ens.
 
-### fractions
+### breuke
 
-Render as two-thirds, three-quarters, etc., but two and a half needs no hyphens.<br>
-_See also [figures](#figures)._
+Verder as twee derdes, driekwart, ens., maar twee en 'n half benodig geen koppeltjies nie.<br>
+_Sien ook [figure] (#figures) . _
 
-### full-stops
+### volledige stoppunte
 
-The first character after a full-stop should be capitalised and have one space before it, rather than two.
+Die eerste karakter na 'n volstop moet hoofgrootliks geskryf word en een spasie voor dit hê, eerder as twee.
 
 ---
 
 ## G
 
-### given name
+### gegewe naam
 
-This term to be used in preference to the terms ‘first name’, ‘forename’, and ‘Christian name’. Use given name the first time someone is mentioned, but not subsequently, _e.g.,_ ‘Mary Brown came late to programming ... Brown later went on to develop several well-known programs.’
+Hierdie term moet in voorkeur gebruik word as die terme 'voornaam', 'voornaam' en 'Christelike naam'. Gebruik die gegewe naam die eerste keer dat iemand genoem word, maar nie daarna nie, _bv. _ 'Mary Brown het laat aan die programmering gekom... Brown het later verskeie bekende programme ontwikkel. '
 
-Avoid using initials rather than a name, unless that is how a person is best known, _e.g.,_ N. K. Jemisin.
+Vermy die gebruik van voorletters eerder as 'n naam, tensy dit is hoe 'n persoon die bekendste is, _bv. _ N.K. Jemisin.
 
 ---
 
 ## H
 
-### honourifics and titles
+### honourifike en titels
 
-Honourifics which denote occupations, _e.g.,_ Doctor, Professor, can initially be used within text or in blog posts. Drop honourifics and first names after the first mention and use surname only from then on, _e.g.,_ ‘Professor Gillian Kramer teaches … Kramer has spent a lot of time...’
+Honorifieke wat beroepe aandui, _bv. _ Dokter, Professor, kan aanvanklik binne teks of in blogplasings gebruik word. Gooi honourifies en voorname na die eerste vermelding en gebruik van eers van af, _bv. _ 'Professor Gillian Kramer leer … Kramer het baie tyd deurgebring... '
 
-Honourifics such as FRCS should not include full stops.
+Honourifics soos FRCS moet nie volle stoppunte insluit nie.
 
 ---
 
-## I
+## EK
 
-### i.e.
+### dit wil sê
 
-include full stops, does not precede a comma in British English
+sluit volle stoppunte in, vooraf nie 'n komma in Britse Engels nie
 
-### inclusivity
+### inklusiwiteit
 
-Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
+Gebruik inklusiewe taal.  Dit sluit woordkeuse in wat die kompleksiteit van die onderwerp erken en die diversiteit van alle lede van die gemeenskap respekteer. Gebruik wêreldtoeganklike verwysings, hetsy met 'n meer algemene naam óf 'n meer verbonde beskrywing.
 
-Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see, hear, read, look, run, reach, listen).
+Dinge wat u moet vermy: afnemende of afwerkende taal (net, eenvoudig, natuurlik, ens.), plaaslike kollekvialisme, sensoriese woorde of aksiewoorde (sien, hoor, lees, kyk, hardloop, bereik, luister).
 
-### images
+### prente
 
-Include alt text on all images. _Refer also [alt-text](#alt-text)._
+Sluit alt teks op alle beelde in. _Verwys ook [alt-teks] (#alt-text) . _
 
-### initials
+### voorletters
 
-Separate initials in names from each other with spaces and full stops, _e.g.,_ N. K. Jemisin.
+Skei voorletters in name van mekaar met spasies en volle stopplekke, _bv. _ N.K. Jemisin.
 
-### -isation
+### -isasie
 
-not –ization, _e.g.,_ organisation, characterisation.
+nie —isering, _bv., _ organisasie, karakterisering.
 
 ### -ise
 
-not -ize at end of word, _e.g._, characterise, sympathise, organise. One exception is capsize.
+nie -iseer aan die einde van die woord nie, _bv. _, karakteriseer, simpatiseer, organiseer. Een uitsondering is omvang.
 
-### italics
+### kursief
 
-Words and phrases in languages other than English, and scientific names, _e.g._, _Macropus rufus_, _Bufo marinus_.
+Woorde en frases in ander tale as Engels, en wetenskaplike name, _byvoorbeeld, _Macropus rufus_, _Bufo marinus_.
 
 ---
 
 ## L
 
-### link text
+### skakelteks
 
-Avoid "click here", "more", and "read more" when embedding a link in text. Use words that describe link, not the full URL. Link up to a full sentence but avoid using longer. Use non-colour indicators such as a persistent underline to highlight link. When linking an email, use Email first name last name, instead of just the person's name.
+Vermy “klik hier”, “meer” en “lees meer” wanneer u 'n skakel in teks ingebed. Gebruik woorde wat skakel beskryf, nie die volledige URL nie. Koppel tot 'n volledige sin, maar vermy om langer te gebruik. Gebruik nie-kleuraanwysers soos 'n aanhoudende onderstreep om skakel uit te lig. As u 'n e-pos koppel, gebruik e-pos voornaam, in plaas van net die persoon se naam.
 
 ---
 
 ## N
 
-### names
+### name
 
-Do not use the terms Christian name, first name, or forename. Instead use given name or personal name. We will defer to people's chosen spelling, choice of given name, punctuation, capitalisation, and name order (when known or obtainable).<br>
-_See also [non-English names](#non-english-names)._
+Moenie die terme Christelike naam, voornaam of voornaam gebruik nie. Gebruik eerder gegewe naam of persoonlike naam. Ons sal uitstel na mense se gekose spelling, keuse van die voornaam, leestekens, hoofletters en naamvolgorde (wanneer dit bekend of verkrygbaar is).<br>
+_Sien ook [nie-Engelse name] (#non-english-names) . _
 
-### non-English names
+### Nie-Engelse name
 
-The French (or French origin) de, d’, des, la, les or le and the Dutch van are normally lowercase when the name is fully written out, _e.g.,_ Marianne d’Alpuget, Erik van der Walden, but capitalised when written without forenames, _e.g.,_ D’Alpuget, Van der Walden.
+Die Franse (of Franse oorsprong) de, d', des, la, les of le en die Nederlandse van is normaalweg kleinletters wanneer die naam volledig uitgeskryf word, _bv., _ Marianne d'Alpuget, Erik van der Walden, maar met hoofletters geskryf wanneer dit sonder voorname geskryf word, _bv. _ D'Alpuget, Van der Walden.
 
-### non-English words and phrases
+### Nie-Engelse woorde en frases
 
-Italicise these and provide accents where applicable, _e.g.,_ _bête noire_. In the case of frequently used non-English terms in accepted English usage, _e.g.,_ avant garde, vis a vis, vice versa, you do not need to italicise.
+Maak dit kursief en verskaf aksente waar van toepassing, _bv. _ _bête noire_. In die geval van gereeld gebruikte nie-Engelse terme in aanvaarde Engelse gebruik, _bv. _ avant garde, vis a vis, omgekeerd, hoef u nie kursief te maak nie.
 
-### numbers
+### nommers
 
-Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, _e.g.,_ third, fifth, and thereafter use 10th, 31st, etc.
+Stel altyd die getalle van een tot nege in skryf uit. Gebruik syfers vir getalle 10 tot 999,999, en gaan daarna terug om getalle volledig uit te skryf, _bv. _ een miljoen lesers, agt miljard mense, maar as die eerste getal bo nege is, kan u teruggaan na syfers vir daardie eerste deel, _bv. _ 20 miljoen reëls. Stel ordinale uit van die eerste tot die negende, _bv., _ derde, vyfde, en gebruik daarna 10de, 31ste, ens.
 
-When starting a sentence with any number, the number should be written out as words, _e.g.,_ ‘Twenty-five people attended the workshop.’ ‘Nineteen-ninety-five was not a leap year.’
+As u 'n sin met enige getal begin, moet die nommer as woorde uitgeskryf word, _bv. _ 'Vyf -vyf mense het die werkswinkel bygewoon. ' 'Vyf-en-negentig was nie 'n skrikkeljaar nie. '
 
-### numbered lists
+### genommerde lyste
 
-Like bullet points,should ideally include a full stop after each one if it is not just a list of terms, i.e: <br>
+Soos koeëlpunte, moet dit ideaal 'n volle stop na elkeen insluit as dit nie net 'n lys van terme is nie, dit wil sê: <br>
 
-1. This is the first numbered item that covers a range of ideas.
-2. This is the second that also ranges quite widely.
-3. And this is the third and these are just examples.
+1. Dit is die eerste genommerde item wat 'n reeks idees dek.
+2. Dit is die tweede wat ook redelik wyd wissel.
+3. En dit is die derde en dit is net voorbeelde.
 
-But <br>
+Maar <br>
 
-1. Instructors
-2. Instructor Trainers
-3. Maintainers
+1. Instrukteurs
+2. Instrukteur Opleiers
+3. Onderhouders
 
 ---
 
 ## O
 
-### Oxford comma
+### Oxford komma
 
-A comma before the final ‘and’ in lists. Straightforward lists (he wrote books, short stories and poetry) do not need the extra comma, but sometimes it can help the reader to know which bits go together, e.g., ‘she wrote in these genres – horror, mystery, cloak and dagger, and fantasy’, and sometimes it is essential for clarity and meaning, e.g.,
+'N Komma voor die finale 'en' in lyste. Eenvoudige lyste (hy het boeke, kortverhale en poësie geskryf) het nie die ekstra komma nodig nie, maar soms kan dit die leser help om te weet watter stukkies bymekaar gaan, bv. 'sy het in hierdie genres geskryf - gruwel, raaisel, mantel en dolk, en fantasie', en soms is dit noodsaaklik vir duidelikheid en betekenis, bv.
 
-I spoke to my sisters, Olga Petrova, and Susanne De Vries (means I spoke to my sisters AND to Olga Petrova and Susanne De Vries)
+Ek het met my susters, Olga Petrova en Susanne De Vries, gepraat (beteken ek het met my susters EN met Olga Petrova en Susanne De Vries gepraat)
 
-I spoke to my sisters, Olga Petrova and Susanne De Vries (this wrongly implies that Olga Petrova and Susanne De Vries are the sisters in question.)
+Ek het met my susters, Olga Petrova en Susanne De Vries, gepraat (dit impliseer verkeerd dat Olga Petrova en Susanne De Vries die betrokke susters is.)
 
-Carpentries style is to prefer the Oxford comma unless necessary.
+Carpentries-styl is om die Oxford-komma te verkies tensy dit nodig is.
 
 ---
 
 ## P
 
-### per cent
+### persent
 
-Please spell this out in text, _e.g.,_ not as %, and write as two words, not one.
+Stel dit asseblief uit in teks, _bv., _ nie as%, en skryf as twee woorde, nie een nie.
 
-### periods
+### tydperke
 
-_See [full stops](#full-stops)._
+_Sien [volle stoppunte] (#full-stops) . _
 
 ---
 
 ## Q
 
-### quotation marks
+### aanhalingstekens
 
-Use single quotes at the start and end of a quoted section, with double quotes for quoted words within that section. Place full stops and commas inside the quotes for a complete quoted sentence; otherwise the full stop comes outside, _e.g.,_
+Gebruik enkelaanhalings aan die begin en einde van 'n aangehaalde afdeling, met dubbele aanhalings vir aangehaalde woorde binne daardie afdeling. Plaas volle stopplekke en kommas binne die aanhalings vir 'n volledige aangehaalde sin; anders kom die volle stop buite, _bv., _
 
-‘Anna said: “Your style guide needs updating,” and I said: “I agree.”’
-‘Anna said updating the guide was “a difficult and time-consuming task”.’
+'Anna het gesê: 'Jou stylgids moet opgedateer, 'en ek het gesê: 'Ek stem saam.'
+'Anna het gesê die opdatering van die gids was ''n moeilike en tydrowende taak'. '
 
-For parentheses inside direct quotes, use square brackets, _e.g.,_ The judges said, ‘We very much liked the work of Goran [Kovacs] from Croatia’.
+Vir hakies binne direkte aanhalings, gebruik vierkantige hakies, _bv. _ Die beoordelaars het gesê: 'Ons hou baie van die werk van Goran [Kovacs] uit Kroasië'.
 
-### quotations
+### aanhalings
 
-Colons, rather than commas, should be used to introduce quotations from speeches or writings that run longer than a single sentence, _e.g.,_ Brown said: ‘Winning the Nobel Prize was a highlight. It will change my life. I can’t believe my luck.’
+Kolons, eerder as kommas, moet gebruik word om aanhalings uit toesprake of geskrifte bekend te stel wat langer duur as 'n enkele sin, _bv. _ Brown het gesê: 'Die wen van die Nobelprys was 'n hoogtepunt. Dit sal my lewe verander. Ek kan nie my geluk glo nie.”
 
-To introduce phrases or single sentence quotations, a comma is preferable, _e.g.,_ Brown said, ‘Winning the Nobel Prize was a highlight.’
+Om frases of enkelsinnahalings bekend te stel, is 'n komma verkieslik, _bv. _ Brown het gesê: 'Die wen van die Nobelprys was 'n hoogtepunt. '
 
 ---
 
 ## R
 
-### roles
+### rolletjies
 
-Roles within The Carpentries are always capitalised. Therefore we use Instructor, Instructor Trainer, Maintainer, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+Rolle binne The Carpentries word altyd grootliks gekapteer. Daarom gebruik ons instrukteur, instrukteerafrigter, onderhouder en kurrikulumadviseur. Helper en gasheer word nie hoofgrootliks gekenmerk nie, aangesien dit nie amptelike rolle is nie.
 
 ---
 
 ## S
 
-### scientific names
+### wetenskaplike name
 
-Render these in italics, with the first name, which denotes genus, having an initial capital, with the second, which denotes species, written in lower case, _e.g.,_ _Aedes aegypti_ (yellow fever mosquito), _Crocodylus porosus_ (Saltwater crocodile), _Macropus rufus_ (Red kangaroo).
+Gee dit in kursief, met die voornaam, wat genus aandui, met 'n aanvanklike hoofstad, met die tweede, wat spesies aandui, met kleinletters geskryf, _bv., _ _Aedes aegypti_ (geelkoors muskiet), _Crocodylus porosus_ (soutwaterkrokodil), _Macropus rufus_ (Rooi kangaroo).
 
-### seasons
+### jaargetye
 
-Avoid using seasons when discussing or announcing events, as seasons vary from hemisphere to hemisphere. What is Fall in the USA is spring in Australia. Use a month range instead, _e.g.,_ January to March, or use halves or quarters, _e.g.,_ ‘This happened in the first quarter of 2018’, ‘This is planned for the second half of the year.’<br>
-_See also [dates](#dates)_.
+Vermy die gebruik van seisoene wanneer u gebeure bespreek of aankondig, aangesien seisoene van halfrond tot halfrond versk Wat herfs in die VSA is, is die lente in Australië. Gebruik eerder 'n maandreeks, _bv. _ Januarie tot Maart, of gebruik helftes of kwartale, _bv. _ 'Dit het in die eerste kwartaal van 2018', 'Dit is beplan vir die tweede helfte van die jaar. '<br>
+_Sien ook [datums] (#dates) _.
 
-### singular or plural?
+### enkelvoud of meervoud?
 
-Corporate entities take the singular: _e.g.,_ ‘The NSF has announced … ’ In subsequent references, use a singular pronoun: ‘It will cover the Olympics.’ The Carpentries is always singular.
+Korporatiewe entiteite neem die enkelvoud: _bv., _ 'Die NSF het … aangekondig 'In daaropvolgende verwysings, gebruik 'n enkelvoudige voornaamwoord: 'Dit sal die Olimpiese Spele dek.' Die Carpentries is altyd enkelvoudig.
 
-### square brackets
+### vierkantige hakies
 
-In text, square brackets are used for interpolated words in quotations, _e.g.,_ Olav Jonsson said, ‘Matthew [Brown] went to CapeTown to address a conference.’
+In teks word vierkantige hakies gebruik vir geïnterpoleerde woorde in aanhalings, _bv. _ Olav Jonsson het gesê: 'Matthew [Brown] het na CapeTown gegaan om 'n konferensie aan te spreek. '
 
 ---
 
 ## T
 
-### times
+### kere
 
-Times should be rendered in UTC in a 24-hour format, _e.g.,_ 12:00 UTC, 17:30 UTC, 09:00 UTC. Do not use local zones, _e.g.,_ PDT, AEST. If you want to make times meaningful for people in a range of time zones, use the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) (using your UTC time and date as the basis to create the event) to create a linkable time that will render locally for each person who uses it, _e.g.,_ 20 August, 2018 22:00 UTC: [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
+Tye moet in UTC gelewer word in 'n 24-uur-formaat, _bv., _ 12:00 UTC, 17:30 UTC, 09:00 UTC. Moenie plaaslike sones gebruik nie, _bv., _ PDT, AEST. As u tye vir mense in 'n reeks tydsones betekenisvol wil maak, gebruik die [Event Time Announcer] (https://www.timeanddate.com/worldclock/fixedform.html) (gebruik u UTC-tyd en datum as basis om die gebeurtenis te skep) om 'n koppelbare tyd te skep wat plaaslik sal verskaf vir elke persoon wat dit gebruik, _bv. _ 20 Augustus, 2018 22:00 UTC: [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1 =%3A&ah = 1] (https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
 
 ---
 
 ## V
 
-### versus and vs
+### versus en vs
 
-Use versus in most written cases, but if abbreviation is necessary, use "vs" rather than "vs."
+Gebruik versus in die meeste geskrewe gevalle, maar as afkorting nodig is, gebruik “vs” eerder as “vs”
 
-### Videos
+### Video's
 
-All videos should be captioned.
+Alle video's moet onderskrifte wees.
 
 ---
 
 ## W
 
-### Workbench
+### Werkbank
 
-The full and correct title of the lesson infrastructure is The Carpentries Workbench, which can be shortened to the Workbench thereafter.
-Consistent with the standard naming of R packages, the individual components of the Workbench should be referred to in all lowercase, e.g. sandpaper, pegboard, and varnish.
+Die volledige en korrekte titel van die lesinfrastruktuur is The Carpentries Workbench, wat daarna tot die Workbench verkort kan word.
+In ooreenstemming met die standaardbenaming van R-pakkette, moet na die individuele komponente van die Workbench in alle kleinletters verwys word, bv. skuurpapier, pegboard en vernis.
