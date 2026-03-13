@@ -1,382 +1,382 @@
-# Maintainers Handbook
+# Onderhoudshandboek
 
-## About This Handbook
+## Oor hierdie handboek
 
-The Maintainers Handbook is designed to support members of The
-Carpentries community who are serving as a Lesson Maintainer. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Die Maintainers Handbook is ontwerp om lede van The
+Carpentries -gemeenskap te ondersteun wat as 'n lesonderhouder dien. Dit word onderhou deur The Carpentries Curriculum Team.  As u glo dat iets hier bygevoeg of opgedateer moet word, of as u terugvoer oor die inhoud wil gee, stuur asseblief e-pos aan die {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} of maak 'n probleem op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
-## Introduction
+## Inleiding
 
-The Carpentries Maintainers work with the community to ensure
-lessons stay up-to-date, accurate, functional and cohesive. Maintainers
-monitor their lesson repository, ensure that pull requests and issues
-are addressed on time, and participate in the lesson
-development cycle including lesson releases. They endeavour to be
-welcoming and supportive of contributions from all members of the
-community. This community of practice is a great place to learn to
-collaborate effectively in Git and GitHub.
+Die Carpentries Maintainers werk saam met die gemeenskap om te verseker dat
+lesse op datum, akkuraat, funksioneel en samehangend bly. Onderhouers
+monitor hul lesbewaarplek, verseker dat trekversoeke en kwessies
+betyds aangespreek word, en neem deel aan die les
+-ontwikkelingsiklus, insluitend lesvrystellings. Hulle poog om
+verwelkomend te wees en ondersteun vir bydraes van alle lede van die
+-gemeenskap. Hierdie praktykgemeenskap is 'n wonderlike plek om te leer om
+effektief saam te werk in Git en GitHub.
 
-## Roles and Responsibilities
+## Rolle en verantwoordelikhe
 
-The Carpentries teaches 400–600 workshops each year, meaning our lesson
-materials are being used practically every day for synchronous, guided
-learning. Making sure our lessons keep working without interruptions is
-therefore our number one goal for maintenance.
+Die Carpentries leer elke jaar 400-600 werkswinkels, wat beteken dat ons les
+-materiaal feitlik elke dag gebruik word vir sinchrone, geleide
+leer. Om seker te maak dat ons lesse aanhou werk sonder onderbrekings is
+, daarom is ons nommer een doel vir onderhoud.
 
-A secondary (but still extremely important!) goal is ensuring that the
-spaces we use for lesson development and maintenance are just as
-welcoming and inclusive as our workshops.
+'N Sekondêre (maar steeds uiters belangrik!) doel is om te verseker dat die
+-ruimtes wat ons gebruik vir lesontwikkeling en instandhouding net so
+verwelkomend en inklusief is as ons werkswinkels.
 
-Ensuring that our lessons are on the cutting edge of new technology and
-tooling is _not_ a priority for The Carpentries. Although we do want our
-materials to stay relevant, it is far more important that our lessons
-remain pedagogically sound and technically viable, than that they
-represent the latest and greatest new developments in the field.
+Om te verseker dat ons lesse op die voorpunt is van nuwe tegnologie en
+gereedskap is nie\* 'n prioriteit vir The Carpentries nie. Alhoewel ons wel wil hê dat ons
+-materiaal relevant moet bly, is dit baie belangriker dat ons lesse
+pedagogies gesond en tegnies lewensvatbaar bly, as dat dit
+die nuutste en grootste nuwe ontwikkelings op die veld verteenwoordig.
 
-With these goals in mind, The Carpentries' expectations of Maintainers
-are to:
+Met hierdie doelwitte in gedagte is die Carpentries se verwagtinge van Onderhouders
+om:
 
-- Monitor the lesson repository and make sure that pull requests (PRs) and Issues are responded to promptly (even if that response is “sorry, this is out of scope”).
-- Not introduce new errors into the lesson.
-- Quickly fix anything that is unambiguously an error or that    negatively affects workshop learners.
-- Be receptive and welcoming to suggestions for improving the lessons.
-- Evaluate all contributions given The Carpentries pedagogical model:
-  - Teach what is most relevant and useful for learners.
-  - Avoid unnecessary jargon and detailed explanations. Always ask
-    yourself whether it is necessary for the learner.
-  - Keep language motivating.
-  - Meet learners where they are.
-  - Emphasise the importance of continued learning and improvement.
+- Monitor die lesbewaarplek en maak seker dat terugversoeke (PR's) en probleme onmiddellik gereageer word (selfs al is die antwoord “jammer, dit is buite die omvang”).
+- Moenie nuwe foute in die les invoer nie.
+- Maak vinnig alles reg wat ondubbelsinnig 'n fout is of wat werkswinkelleerders negatief beïnvloed.
+- Wees ontvanklik en verwelkomend vir voorstelle vir die verbetering van die lesse.
+- Evalueer alle bydraes gegewe die Carpentries -pedagogiese model:
+  - Leer wat die belangrikste en nuttigste is vir leerders.
+  - Vermy onnodige jargon en gedetailleerde verduidelikings. Vra altyd jouself af
+    of dit nodig is vir die leerder.
+  - Hou taal motiverend.
+  - Ontmoet leerders waar hulle is.
+  - Beklemtoon die belangrikheid van voortgesette leer en verbetering.
 
-Maintainers are responsible for:
+Onderhouders is verantwoordelik vir:
 
-- Routinely:
-  - Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
-  - Quickly addressing issues and PRs tagged as “bug”s.
-  - Submitting Issues as they arise.
-  - Adhering to the Code of Conduct and alerting the Code of Conduct Committee to any potential violations.
-  - Identifying potential new Maintainers based on their review   activity.
+- Gewoonlik:
+  - Verseker redelike reaksietyd op alle ingedien kwessies en PR's. Ten minste verseker dat alle kwessies en PR's binne twee dae erken word.
+  - Aanspreek probleme vinnig aan en PR's wat as “bug” gemerk is.
+  - Die indiening van kwessies soos dit ontstaan.
+  - Voldoen aan die gedragskode en die gedragskomitee in waarsku oor moontlike oortredings.
+  - Identifisering van potensiële nuwe onderhouders op grond van hul hersieningsaktiwiteit.
 
-- Periodically:
-  - Helping prepare lessons for publication.
-  - Bringing in updates to the lesson template.
+- Periodiek:
+  - Help om lesse voor te berei vir publikasie.
+  - Bring opdaterings na die lessjabloon in.
 
-Maintainers represent The Carpentries community and should strive to
-embody The Carpentries philosophy, by:
+Onderhouders verteenwoordig The Carpentries -gemeenskap en moet daarna streef om
+die Carpentries-filosofie te beliggaam deur:
 
-- Recognising the importance of communication and being welcoming to
-  all contributors.
+- Erkenning van die belangrikheid van kommunikasie en verwelkomend wees vir
+  alle bydraers.
 
-- Giving feedback to contributors using The Carpentries model:
+- Gee terugvoer aan bydraers met behulp van The Carpentries-model:
 
-  - Find what’s good. Be specific about improvements needed. Use
-    motivational language.
+  - Vind wat goed is. Wees spesifiek oor verbeterings wat nodig is. Gebruik
+    motiveringstaal.
 
-- Evaluating lesson contributions in light of Carpentries pedagogical model:
+- Evaluering van lesbydraes in die lig van Carpentries -pedagogiese model:
 
-  - Teach what’s most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keep language motivating.
-  - Emphasise the importance of continued learning and improvement.
+  - Leer wat die belangrikste en nuttigste is vir leerders.
+  - Vermy om in tegniese besonderhede vasgevang te raak.
+  - Hou taal motiverend.
+  - Beklemtoon die belangrikheid van voortgesette leer en verbetering.
 
-## Onboarding
+## Onboord
 
-New Maintainers go through an onboarding process, led by a member of The Carpentries Curriculum Team and the Maintainer Community Lead. Maintainer Onboarding takes place at least once per year. New rounds of onboarding will be announced on The Carpentries blog and main
-communications channels (discuss@ on TopicBox, #general Slack channel).
+Nuwe onderhouders gaan deur 'n inboordproses, gelei deur 'n lid van The Carpentries Curriculum Team en die Maintainer Community Lead. Onboarding van onderhoud vind ten minste een keer per jaar plaas. Nuwe rondes van onboarding sal aangekondig word op The Carpentries-blog en die belangrikste
+kommunikasiekanale (bespreking@ op TopicBox, #general Slack-kanaal).
 
-The curriculum for onboarding new Maintainers is available as a {{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
+Die kurrikulum vir die aansluiting van nuwe Onderhouders is beskikbaar as 'n {{'[Maintainer Onboarding Lesson] ({}) '.format (maintainer_onboarding)}}.
 
-## Offboarding
+## Afboording
 
-A yearly email with a one-question survey will be sent to Maintainers in
-mid-to-late January. If the Maintainer responds “yes” to this survey,
-they will remain a Maintainer for the next year. If a Maintainer replies
-“no” or does not respond within a month of receiving the survey, they
-will become an alumnus Maintainer and their permissions to their
-repository will be revoked. Active Maintainer status can be restored at
-any time by contacting the Maintainer Community Lead.
+'N Jaarlikse e-pos met 'n opname met een vraag sal middel tot einde Januarie in
+aan Onderhouers gestuur word. As die Onderhouder “ja” op hierdie opname reageer,
+sal hulle 'n Onderhouder vir die volgende jaar bly. As 'n Onderhouder
+“nee” antwoord of nie binne 'n maand na ontvangs van die opname reageer nie, sal hulle
+'n alumnus Onderhouder word en hul toestemmings vir hul
+-bewaarplek sal herroep word. Aktiewe Onderhouderstatus kan enige tyd by
+herstel word deur die Maintainer Community Lead te kontak.
 
-[The proposal for yearly Maintainer check-ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
-more detailed information. If a Maintainer would like to step away from
-the role outside this schedule, they should inform the Maintainer
-Community Lead and the other Maintainers on their lesson(s).
+[Die voorstel vir jaarlikse onderhouder-inskrywings] (https://github.com/carpentries/maintainer-RFCs/issues/19) bevat
+meer gedetailleerde inligting. As 'n Onderhouder van
+die rol buite hierdie skedule wil wegstap, moet hulle die Onderhouder
+Community Lead en die ander Onderhouders oor hul les (s) in kennis stel.
 
-## Communication and Collaboration Spaces
+## Kommunikasie- en samewerkings
 
-### Slack
+### Slap
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
+{{'[Sluit aan by die Carpentries Slack werkruimte] ({}) '.format (slack_invite)}}. Om gesprekke wat relevant is vir hierdie rol te volg, moet u by die volgende kanale aansluit:
 
-- {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
-- We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
-- It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
+- {{'[Die uitnodigings-slegs #maintainers -kanaal] ({}/archives/C8H5LN44V) '.format (slack)}} op The Carpentries Slack werkruimte is 'n platform vir die hele gemeenskap om vrae te stel en in besprekings oor die onderwerp van lesinstandhouding deel te neem. As u 'n Onderhouder is en nie reeds toegang tot hierdie kanaal het nie, kontak asseblief die Maintainer Community Lead.
+- Ons beveel aan dat Lesonderhouders deur bestaande kanale in die Slack-werkruimte blaai, vir enige wat relevant is vir die onderwerp/domein van hul les.
+- Dit kan ook nuttig wees om 'n nuwe kanaal vir u les te skep, as 'n ruimte vir u om die ontwikkelingsproses met medewerkers te bespreek, en vir gemeenskapslede om vrae oor die les te stel.
 
-If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+As jy nuut is by Slack, kyk asseblief na ons {{"[Slack Guide] ({})” .format (slack_guide)}}.
 
-### Community Calendar
+### Gemeenskapskalender
 
-Once scheduled, all Maintainer Community Calls are listed on our
-{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
+Sodra dit geskeduleer is, word alle Maintainer Community Oproepe op ons
+{{'[Gemeenskapskalender] ({}/community/events/) '.format (carpentries_website)}} gelys. U kan van daar vanaf relevante geleenthede by u kalender voeg deur op die geleentheid te klik wat u wil bywoon.
 
-### Collaborative Notes
+### Samewerkende notas
 
-The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
+Die Carpentries gebruik [Etherpad] (/resources/communications/etherpads.md) as 'n samewerkende notuingsinstrument tydens werkswinkels, opleiding en ander Carpentries-verwante geleenthede.  Hieronder is 'n lys van Etherpads wat relevant is om as lesonderhouder te dien.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of
-  our most commonly used Etherpads and other resources.
-- {{'[Maintainer Community Call Notes]({}/maintainers)'.format(codimd)}}: Signup information, connection details, and notes taken from monthly   coworking sessions (CodiMD).
+- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: 'n Lys van
+  ons mees gebruikte Etherpads en ander hulpbronne.
+- {{'[Maintainer Community Oproepnots] ({}/maintainers) '.format (codimd)}}: Inskrywingsinligting, verbindingbesonderhede en aantekeninge geneem uit maandelikse coworksessies (CodimD).
 
 ### GitHub
 
-- [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
-- [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
+- [Onderhoudbronne] (https://github.com/carpentries/maintainer-resources): 'n plek om minute op te teken vanaf die Maintainer Community Oproepe en nuttige wenke oor vlugreëls.
+- [Onderhoudersoeke vir kommentaar (RFC's)] (https://github.com/carpentries/maintainer-RFCs) Versoeke om kommentaar vir tegnologieveranderinge en ander kwessies wat lesonderhouders beïnvloed.
 
-### TopicBox
+### Onderwerpaksie
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}. Below is a list
-of those relevant to the activities and programs covered by this
-handbook.
+U kan toegang tot The Carpentries -poslyste verkry vanaf
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Hieronder is 'n lys
+van diegene wat relevant is vir die aktiwiteite en programme wat deur hierdie
+handboek gedek word.
 
-- {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
+- {{'[The Maintainers -poslys] ({}/groups/maintainers) '.format (topicbox)}} word gebruik vir aankondigings wat relevant is vir lesonderhouders.
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
-you have done this, you can scroll through the list of groups and click
-“Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Om by een of meer Carpentries-poslyste aan te sluit, moet u {{'[skep 'n aanmelding] ({}/latest) '.format (topicbox)}}. Sodra u
+dit gedoen het, kan u deur die lys van groepe blaai en op
+klik “Sluit aan by die gesprek” (vir oop pos) of “Versoek om aan te sluit” (vir
+die poslyste wat administrateur goedkeuring vereis).  As jy nuut is by Topicbox, kyk asseblief na ons {{"[Topicbox Guide] ({})” .format (topicbox_guide)}}.
 
-## Step-by-Step Guides
+## Stap-vir-stap
 
-### Keeping the Lesson Infrastructure Up-to-date on Your Repository
+### Hou die lesinfrastruktuur op hoogte op u bewaarplek
 
-New versions of the lesson infrastructure are released periodically, to fix bugs and introduce new features.
-All of The Carpentries lesson repositories are configured to receive automated pull requests soon after release.
-These pull requests will be opened by the `carpentries-bot` account, with a title similar to “Workflows to Version x.y.z”.
-To ensure that your lesson site builds with the latest version of the Workbench, please merge these pull requests as soon as possible after they have been opened.
-Lessons based on R Markdown source files will also receive pull requests from the `carpentries-bot` account to update the versions of the R packages used in the lesson, titled “Update NN packages” where NN is the number of packages.
-Similarly to the workflow updates, these pull requests should be merged quickly to ensure that the lesson builds correctly.
+Nuwe weergawes van die lesinfrastruktuur word gereeld vrygestel om foute op te los en nuwe funksies bekend te stel.
+Al die Carpentries-lesbewaarplekke is ingestel om outomatiese trekversoeke kort na vrystelling te ontvang.
+Hierdie trekversoeke sal deur die `carpentries-bot` -rekening oopgemaak word, met 'n titel soortgelyk aan “Workflows to Version x.y.z”.
+Om te verseker dat u leswebwerf bou met die nuutste weergawe van die Workbench, voeg asseblief hierdie trekversoeke so gou as moontlik saam nadat dit oopgemaak is.
+Lesse gebaseer op R Markdown-bronlêers sal ook trekversoeke van die `carpentries-bot` -rekening ontvang om die weergawes van die R-pakkette wat in die les gebruik word, op te dateer, getiteld “Update NN-pakkette” waar NN die aantal pakkette is.
+Net soos die werkvloeiopdaterings moet hierdie trekversoeke vinnig saamgesmelt word om te verseker dat die les korrek bou.
 
-The GitHub Actions workflows that create these pull requests are configured to run once per week.
-Sometimes you might want to trigger the process before the next scheduled run, e.g. if the new version of the workflows or packages will fix a problem that is preventing your lesson from building.
-To trigger these workflows manually, visit the Actions tab of your repository and select the workflow from the list on the left of the screen: both workflows include ‘Maintain’ in their name.
+Die GitHub Actions -werkvloei wat hierdie trekversoeke skep, is gekonfigureer om een keer per week uit te voer.
+Soms wil u dalk die proses aktiveer voor die volgende geskeduleerde uitloop, bv. as die nuwe weergawe van die werkstrome of pakkette 'n probleem oplos wat verhoed dat u les bou.
+Om hierdie werkstrome handmatig te aktiveer, besoek die oortjie Aksies van u bewaarplek en kies die werkvloei uit die lys aan die linkerkant van die skerm: beide werkvloei sluit 'Handhaaf' in hul naam in.
 
-![The side menu of a lesson repository's Actions tab, annotated to highlight the location of the two Maintain workflows](../img/maintain-workflows.png)
+! [Die symenu van 'n lesbewaarplek se oortjie Aksies, geannoteer om die ligging van die twee Handhaaf werkvloei uit te lig] (../img/maintain-workflows.png)
 
-After selecting the workflow you want to run, select ‘run workflow’ near the top right corner of the history of workflow runs. You can leave the default values in the small dropdown menu unchanged, and select ‘Run Workflow’ again.
+Nadat u die werkvloei gekies het wat u wil uitvoer, kies 'voer werkvloei' naby die regter boonste hoek van die geskiedenis van werkvloei. U kan die standaardwaardes in die klein aftreppelmenu onveranderd laat en weer 'Begin werkvloei' kies.
 
-![The interface to manually run a workflow, annotated to highlight the most relevant part of the interface](../img/run-workflow.png)
+! [Die koppelvlak om 'n werkvloei handmatig uit te voer, geannoteer om die mees relevante deel van die koppelvlak uit te lig] (../img/run-workflow.png)
 
-If this process does not work, or you receive error messages from the workflow and it fails to complete, contact the [Curriculum Team](mailto:curriculum@carpentries.org) and/or ask for help in the {{'[workbench channel on Slack]({}/archives/C03DEQ5T2DA)'.format(slack)}}.
+As hierdie proses nie werk nie, of u foutboodskappe van die werkvloei ontvang en dit nie voltooi nie, kontak die [Kurrikulumspan] (mailto:curriculum@carpentries.org) en/of vra hulp in die {{'[werkbankkanaal op Slack] ({}/archives/C03DEQ5T2DA) '.format (slack)}}.
 
-### Using Issue Labels to Promote Collaboration
+### Gebruik uitgawe-etikette om samewerking te
 
-GitHub allows the Maintainers of a repository to add contextual
-information to Issues and Pull Requests in the form of labels.
-[The Carpentries uses an extended set of issue labels on its lesson repositories](../resources/curriculum/issue-labels.md).
+GitHub laat die onderhouders van 'n bewaarplek toe om kontekstuele
+-inligting by Issues and Pull Versoeke in die vorm van etikette te voeg.
+[The Carpentries gebruik 'n uitgebreide stel uitgaweetikette op sy lesbewaarplekke] (../resources/curriculum/issue-labels.md).
 
-Two labels, used by The Carpentries and in many repositories across GitHub,
-can be deployed to increase the visibility of your lesson and encourage
-community members to contribute to its development.
+Twee etikette, wat deur The Carpentries en in baie bewaarplekke regoor GitHub gebruik word, kan
+ontplooi word om die sigbaarheid van u les te verhoog en
+-gemeenskapslede aan te moedig om by te dra tot die ontwikkeling daarvan.
 
-The **“help wanted”** label should be used to highlight issues with
-which you would welcome additional help. The Carpentries website
-includes {{'[a Help Wanted page]({}/lessons/help_wanted)'.format(carpentries_website)}}, which can
-automatically list every issue labelled “help wanted” on repositories
-from The Carpentries, Software Carpentry, Data Carpentry, Library
-Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
-to include issues from your lesson repository on the Help Wanted page by
-reading the  {{'[information for Maintainers]({}/lessons/help_wanted#information-for-maintainers)'.format(carpentries_website)}}
-on the page itself.
+Die \*\* “help wou” \*\* etiket moet gebruik word om probleme met
+uit te lig wat u bykomende hulp sal verwelkom. Die Carpentries webwerf
+bevat {{'[a Help Wanted page] ({}/lessons/help_wanted) '.format (carpentries_website)}}, wat
+outomaties elke uitgawe met “help want” kan lys op bewaarplekke
+van The Carpentries, Software Carpentries, Data Masperry, Library
+Timmerry, CarpentriesLab en The Carpentries Incubator. Vind uit hoe
+kwessies uit u lesbewaarplek op die Help Wanted -bladsy kan insluit deur
+die {{'[inligting vir onderhouders] ({}/lessons/help_wanted#information-for-maintainers) '.format (carpentries_website)}}
+op die bladsy self te lees.
 
-The **“good first issue”** label should be used to identify issues that
-would make a good entry point for newcomers searching for a way to
-contribute to your lesson. The work needed to close an issue with this
-label would typically not require an extensive knowledge of the
-structure or intricacies of your lesson repository, or an expert
-understanding of the content. The “good first issue” label is used so
-extensively that GitHub provides a page at `[repository
-URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/contribute>) for every repository, listing issues with this label.
+Die \*\* “goeie eerste uitgawe” \*\* etiket moet gebruik word om kwessies te identifiseer wat
+'n goeie toegangspunt sal maak vir nuwelinge wat soek na 'n manier om
+tot u les by te dra. Die werk wat nodig is om 'n probleem met hierdie
+-etiket te sluit, vereis gewoonlik nie 'n uitgebreide kennis van die
+-struktuur of ingewikkeldhede van u lesbewaarplek, of 'n kundige
+-begrip van die inhoud nie. Die etiket “goeie eerste uitgawe” word so
+groot gebruik dat GitHub 'n bladsy verskaf by `[repository
+URL] /bydrae` (voorbeeld: <https://github.com/swcarpentry/r-novice-gapminder/contribute>) vir elke bewaarplek, wat probleme met hierdie etiket lys.
 
-### Informing Community Members about a Period of Absence
+### Inlig gemeenskapslede oor 'n tydperk van afwesigheid
 
-If you plan to temporarily step away from the role of Maintainer,
-e.g. parental leave, exam season, etc, it can be helpful to your fellow
-lesson Maintainers and potential contributors to let them know. Here are
-some steps you can take to notify the community about your temporary
-absence/unavailability:
+As jy van plan is om tydelik weg te stap van die rol van Onderhouer,
+bv. Ouerverlof, eksamenseisoen, ens., kan dit nuttig wees vir jou mede
+lesOnderhouders en potensiële bydraers om hulle te laat weet. Hier is
+'n paar stappe wat u kan neem om die gemeenskap in kennis te stel oor u tydelike
+afwesigheid/onbeskikbaarheid:
 
-1. Set a status and mark yourself as “busy” on GitHub:
+1. Stel 'n status in en merk jouself as “besig” op GitHub:
 
-   1. Log into GitHub.com
-   2. Click on your profile picture at the top-right of the window
-   3. Select “Set status”
-   4. In the “What’s happening?” box, write a short statement that lets
-      other users know you are unavailable. You don’t have to tell
-      people why - your status could be “temporarily unavailable” or
-      “unavailable until DATE” to tell people when they can expect to
-      find you back on GitHub. You can choose an emoji to accompany your
-      status by clicking on the face icon next to the status message
-      input.
-   5. Check the “Busy” box, so that other users will receive a
-      notification from GitHub about your status when they mention you
-      in issues and pull requests, assign you to an issue, or request a
-      review from you.
-   6. {{"[**You can also set a status on Slack**]({})".format(slack_guide)}}. The process is very similar to GitHub’s, i.e. you should log in, click on your profile picture at the top-right of the window, and select “Update your status”. That will open a pop-up where you can write a status message.
+   1. Meld aan by Github.com
+   2. Klik op jou profielfoto regs bo van die venster
+   3. Kies “Stel status”
+   4. In die “Wat gebeur?” boks, skryf 'n kort verklaring waarmee
+      ander gebruikers kan weet dat u nie beskikbaar is nie. U hoef nie
+      mense te vertel hoekom nie - u status kan “tydelik nie beskikbaar nie” of
+      “beskikbaar tot DATUM nie” wees om mense te vertel wanneer hulle kan verwag om u weer op GitHub te vind.
+      Jy kan 'n emoji kies om jou
+      -status te vergesel deur op die gesigsikoon langs die statusboodskap
+      -invoer te klik.
+   5. Merk die blokkie “Besig”, sodat ander gebruikers 'n
+      -kennisgewing van GitHub oor u status sal ontvang wanneer hulle u
+      noem in kwessies en versoeke trek, u aan 'n probleem toeken of 'n
+      -resensie van u versoek.
+   6. {{"[**Jy kan ook 'n status op Slack**] ({})” .format (slack_guide)}} instel. Die proses is baie soortgelyk aan GitHub, dit wil sê jy moet aanmeld, klik op jou profielfoto regs bo van die venster en kies “Opdateer jou status”. Dit sal 'n pop-up oopmaak waar u 'n statusboodskap kan skryf.
 
-2. Inform your co-Maintainers:
+2. Stel jou mede-onderhouders in:
 
-   7. Send them an email or a direct message on Slack.
-   8. If you need help finding contact information for any of your
-      fellow Maintainers, contact the Maintainer Community Lead.
+   7. Stuur vir hulle 'n e-pos of 'n direkte boodskap op Slack.
+   8. As u hulp nodig het om kontakinligting vir enige van u
+      mede-onderhouders te vind, kontak die Maintainer Community Lead.
 
-## Resources
+## Hulpbronne
 
-### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
+### [Onderhouderhouderingskurrikulum] (https://carpentries.github.io/maintainer-onboarding/)
 
-The curriculum used at Maintainer Onboarding. This resource can be a
-helpful reference for Maintainers after they have completed onboarding. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
+Die kurrikulum wat by Maintainer Onboarding gebruik word. Hierdie hulpbron kan 'n
+nuttige verwysing wees vir Onderhouders nadat hulle die aansluiting voltooi het. Dit bevat [wenke vir die bestuur van probleme op 'n bewaarplek] (https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), leiding vir [die merking van die kurrikulumspan oor kwessies en terugversoeke] (https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), en baie ander nuttige inligting waarna u dalk wil terugkeer nadat u aansluit.
 
-### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
+### [Inleiding tot The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/)
 
-Documentation for The Carpentries Workbench, open source infrastructure
-for lesson websites. The documentation explains how to install the
-Workbench so that Lesson Maintainers can edit and preview their lessons
-on their computer, how to initialise a new lesson and use the
-various elements of the lesson template, and how to keep up to date with
-the latest changes to the infrastructure.
+Dokumentasie vir The Carpentries Workbench, oopbroninfrastruktuur
+vir leswebwerwe. Die dokumentasie verduidelik hoe om die
+Workbench te installeer sodat lesonderhouders hul lesse
+op hul rekenaar kan wysig en voorskou, hoe om 'n nuwe les te inisialiseer en die
+verskillende elemente van die lessjabloon te gebruik, en hoe om op hoogte te bly van
+die nuutste veranderinge aan die infrastruktuur.
 
-### [Curriculum Advisory Committee Consultation Rubric](/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
+### [Konsultasierubriek vir kurrikulumadvieskomitee] (/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
 
-This rubric defines the division of responsibilities between The
-Carpentries Maintainers and The Carpentries Curriculum Advisory
-Committees (CACs). It can be used by Maintainers to help determine
-whether to notify or ask the relevant CAC about a proposed change to
-their lesson.
+Hierdie rubriek definieer die verdeling van verantwoordelikhede tussen The
+Carpentries Maintainers en The Carpentries Curriculum Advisory
+Committees (CACs). Dit kan deur Onderhouders gebruik word om
+te help bepaal of hulle die relevante CAC in kennis stel of te vra oor 'n voorgestelde verandering aan
+hul les.
 
-### [Lesson Sprint Recommendations](/resources/curriculum/lesson-sprint-recommendations.md)
+### [Lessprint-aanbevelings] (/resources/curriculum/lesson-sprint-recommendations.md)
 
-A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
+'N Versameling aanbevelings vir gemeenskapslede wat geleenthede wil organiseer wat toegewy is aan die ontwikkeling en verbetering van 'n les. Sluit lyste in van dinge wat u moet oorweeg om voor, tydens en na 'n ontwikkelingssprint te doen, en gereedskap en ander hulpbronne om die sukses daarvan te ondersteun.
 
-### [Lesson Release Process](/resources/curriculum/lesson-release.md)
+### [Lesvrylating proses] (/resources/curriculum/lesson-release.md)
 
-A description of how to prepare a lesson release and publish it to Zenodo.
-**Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
-The Curriculum Team will coordinate this process in the coming months.
+'N Beskrywing van hoe om 'n lesvrystelling voor te berei en dit aan Zenodo te publiseer.
+**Let daarop dat onderhouders van datammerwerk-, biblioteektimmerwerk- en sagtewarestuurlesse vir nou nie lesvrystellings moet maak nie.**
+Die kurrikulumspan sal hierdie proses in die komende maande koördineer.
 
-### [Lesson Developer Handbook](/handbooks/lesson_developers.md)
+### [Lesontwikkelaarhandboek] (/handbooks/lesson_developers.md)
 
-The handbook for community members developing new lessons includes information, guidance, and further resources that may also be interesting to Maintainers.
+Die handboek vir gemeenskapslede wat nuwe lesse ontwikkel, bevat inligting, leiding en verdere hulpbronne wat ook interessant kan wees vir Onderhouders.
 
-### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
+### [Samewerkende lesontwikkelingsopleidingskurrikulum] (https://carpentries.github.io/lesson-development-training/)
 
-A lesson designed to teach skills and good practices in lesson design,
-lesson website development, and collaboration via GitHub. Community
-members can apply to join this training, and/or follow the curriculum in
-their own time.
+'N Les wat ontwerp is om vaardighede en goeie praktyke in lesontwerp,
+leswebwerf-ontwikkeling en samewerking via GitHub te leer. Gemeenskap
+-lede kan aansoek doen om by hierdie opleiding aan te sluit, en/of die kurrikulum in
+hul eie tyd volg.
 
 ## FAQ
 
-### When Should I Merge My Own Pull Request?
+### Wanneer moet ek my eie trekversoek saamvoeg?
 
-In general, we recommend that Maintainers wait for an approving review before any pull request is merged.
-However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes straight away.
+Oor die algemeen beveel ons aan dat Onderhouders wag vir 'n goedkeurende hersiening voordat enige trekversoek saamgesmelt word.
+As die veranderinge egter klein is en iets regstel wat ongetwyfeld in die les gebreek is - bv. 'n gebreekte skakel, 'n misvormige sintaksis of soortgelyke - dan kan u u eie veranderinge dadelik saamvoeg.
 
-#### What to Do If Other Maintainers Do Not Respond?
+#### Wat om te doen as ander onderhouders nie reageer nie?
 
-Sometimes, a Maintainer may want a second opinion from their fellow Maintainers before merging a pull request (or might want somebody else to review their own changes).
-The table below describes the steps we recommend that you take if you have tagged your co-Maintainers and waited for a short while, e.g. one or two weeks, but not received any response.
+Soms wil 'n Onderhouder dalk 'n tweede mening van hul mede-onderhouders hê voordat hy 'n trekversoek saamsmelt (of wil dalk hê dat iemand anders hul eie veranderinge moet hersien).
+Die tabel hieronder beskryf die stappe wat ons aanbeveel om te neem as u u mede-onderhouders gemerk het en 'n kort rukkie gewag het, bv. een of twee weke, maar geen antwoord ontvang het nie.
 
-![Table recommending action a Maintainer should take if they have requested input from their fellow Maintainers on a pull request, but received no response after waiting some time. Not urgent, not complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, not complex: merge now. Not urgent, complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, complex: tag the Maintainer Community Lead or Curriculum Team.](../img/when-to-merge.svg)
+! [Tabel aanbeveel aksie wat 'n Onderhouder moet neem as hulle insette van hul mede-onderhouders op 'n trekversoek gevra het, maar geen antwoord ontvang het nadat hulle 'n geruime tyd gewag het nie. Nie dringend nie, nie kompleks nie: wag langer of merk die onderhoudse gemeenskapsleid of kurrikulumspan. Dringende, nie kompleks nie: smelt nou saam. Nie dringend nie, kompleks nie: wag langer of merk die onderhoudse gemeenskapsleid of kurrikulumspan. Dringende, kompleks: merk die onderhoudsgemeenskapsleid of kurrikulumspan.] (../img/when-to-merge.svg)
 
-- What is urgent? In general, you can consider the change urgent if the current version of the relevant content in the lesson is incorrect or broken in some way.
-  Urgent changes might be time-sensitive (e.g. a language feature is being deprecated) or would provide a significant improvement to the accessibility of the lesson content (e.g. adding or improving alternative text on an image).
-- What is complex? Here, we refer to changes as complex if they contain anything that you could reasonably expect somebody to disagree with or want to word differently.
-  Non-complex changes might be typo fixes, updates to the output of an example code block, or a new version of a screenshot used in the lesson.
+- Wat is dringend? Oor die algemeen kan u die verandering dringend beskou as die huidige weergawe van die relevante inhoud in die les verkeerd of op een of ander manier gebreek is.
+  Dringende veranderinge kan tydsensitief wees (bv. 'n taalfunksie word verouderd) of sal 'n beduidende verbetering bied aan die toeganklikheid van die lesinhoud (bv. die byvoeging of verbetering van alternatiewe teks op 'n beeld).
+- Wat is kompleks? Hier verwys ons na veranderinge as kompleks as dit enigiets bevat waarmee u redelik kan verwag dat iemand nie saamstem nie of anders wil woord.
+  Nie-komplekse veranderinge kan tikfoutoplossings wees, opdaterings van die uitvoer van 'n voorbeeldkodeblok of 'n nuwe weergawe van 'n skermkiekie wat in die les gebruik word.
 
-### When and how should I take over somebody's unfinished contribution?
+### Wanneer en hoe moet ek iemand se onvoltooide bydrae oorneem?
 
-It is common in open source projects for community members to start work on something but run out of time or get distracted before they finish.
-One result can be open but incomplete pull requests, e.g. marked as a draft, or with reviewer comments/suggested changes left unaddressed.
-Another is issue threads that somebody has responded to, indicating that they plan to fix it, but that no pull request has appeared from them since.
+Dit is algemeen in oopbronprojekte dat gemeenskapslede aan iets begin werk, maar om tyd uit te loop of afgelei te raak voordat hulle klaar is.
+Een resultaat kan oop, maar onvolledige trekversoeke wees, bv. gemerk as 'n konsep, of met beoordelaarkommentaar/voorgestelde veranderinge wat onaangespreek gelaat word.
+'N Ander is probleemdrade waarop iemand gereageer het, wat aandui dat hulle van plan is om dit reg te stel, maar dat sedertdien geen trekversoek van hulle verskyn het nie.
 
-Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other would-be contributors from working on an issue or creating an equivalent pull request.
-Similarly, not wanting to "step on the toes" of their contributors, Maintainers are often unsure about or unwilling to "take over" an unfinished pull request e.g. by unilaterally making the changes that are required themselves before merging.
-The recommendations below are designed to address these issues, establishing a set of "social norms" for The Carpentries community that allow for progress to be made on our repositories while reflecting our [core values][values] -- especially that we _value all contributions_.
+Alhoewel dit afkomstig is van 'n plek van goeie bedoelings, kan hierdie gedrag die ongelukkige uitwerking hê om ander moontlike bydraers af te moedig om aan 'n probleem te werk of 'n gelykwaardige trekversoek te skep.
+Net so, wat nie op die tone van hul bydraers wil “stap” nie, is Onderhouders dikwels onseker oor of nie bereid om 'n onvoltooide trekversoek te “oor te neem”, bv. deur eensydig die veranderinge aan te bring wat self vereis word voordat hulle saamsmelt.
+Die aanbevelings hieronder is ontwerp om hierdie kwessies aan te spreek en 'n stel “sosiale norme” vir die Carpentries-gemeenskap vas te stel wat moontlik maak dat vordering gemaak kan word op ons bewaarplekke terwyl ons \[kernwaardes] \[waardes] weerspieël - veral dat ons alle bydraes waardeer.
 
-#### Situation 1: a pull request exists but is incomplete
+#### Situasie 1: 'n trekversoek bestaan, maar is onvolledig
 
-##### For Maintainers
+##### Vir Onderhouders
 
-If a pull request has been opened but is not ready to be merged, and the original contributor has not responded to a message tagging them and asking for an update for at least three weeks, nor pushed any changes to the branch, Maintainers are encouraged to take any of the following actions:
+As 'n trekversoek geopen is, maar nie gereed is om saamgesmelt te word nie, en die oorspronklike bydraer nie gereageer het op 'n boodskap wat dit vir ten minste drie weke merk en 'n opdatering vra nie, en ook nie enige veranderinge aan die tak gestoot het nie, word Onderhouders aangemoedig om enige van die volgende aksies te neem:
 
-1. If only minor changes are pending (and you have the ability to edit the contributor's branch), commit the changes yourself, [adding the person who opened the PR as a co-author][commit-coauthors], and merge the pull request. Note that, if you suggested changes directly to the pull request on GitHub, **the author of the pull request will automatically be included as a co-author** on the commit(s) when you accept these changes.
-2. If larger changes are required, [comment on the pull request to invite others](#inviting-other-contributors-to-complete-an-open-pull-request) to pick up where the original contributor left off (linking to [instructions for how to most effectively copy and build on the original contributors' branch][setup-unfinished-branch]). Add the `help wanted` label to the pull request.
-3. If you judge that too much still needs to be done on the pull request for anybody to be able to pick it up and finish the task (or it has become too outdated), close the pull request with [a comment inviting the original contributor to reopen](#closing-a-stale-pull-request) if they wish to keep working on it. If the issue being addressed had previously been labelled `status: in progress`, remove that label and add `help wanted` instead.
+1. As slegs geringe veranderinge wag (en u het die vermoë om die tak van die bydraer te wysig), pleeg die veranderinge self toe, \[voeg die persoon wat die PR oopgemaak het as 'n mede-outeur by] \[komite-mede-outeurs] en voeg die trekversoek saam. Let daarop dat, as u veranderinge direk aan die trekversoek op GitHub voorgestel het, **die skrywer van die trekversoek outomaties as 'n mede-outeur** op die verdrag (s) ingesluit sal word wanneer u hierdie veranderinge aanvaar.
+2. As groter veranderinge nodig is, \[lewer kommentaar op die trekversoek om ander te nooi] (#inviting-other-contributors-to-complete-an-open-pull-request) om op te pak waar die oorspronklike bydraer ophou het (skakel na \[instruksies vir hoe om die oorspronklike bydraers se tak die doeltreffendste te kopieer en te bou] \[setup-onfinished-tak]). Voeg die etiket `help wanted` by die trekversoek.
+3. As u beoordeel dat nog te veel gedoen moet word op die trekkversoek sodat iemand dit kan haal en die taak kan voltooi (of dit het te verouderd geword), sluit die trekversoek toe met ['n opmerking wat die oorspronklike bydraer nooi om weer oop te maak] (#closing-a-stale-pull-request) as hulle daaraan wil aanhou werk. As die probleem wat aangespreek word, voorheen “status: aan die gang” gemerk is, verwyder die etiket en voeg eerder `help wanted` by.
 
-##### For Contributors
+##### Vir bydraers
 
-If a pull request has been opened but is not ready to be merged, and the original contributor has not responded or pushed any changes for at least three weeks, any community member who wants to contribute to completing the necessary changes is encouraged to take the following actions:
+As 'n trekversoek geopen is, maar nie gereed is om saamgesmelt te word nie, en die oorspronklike bydraer vir ten minste drie weke nie gereageer of enige veranderinge gedruk het nie, word enige gemeenskapslid wat wil bydra tot die voltooiing van die nodige veranderinge aangemoedig om die volgende aksies te neem:
 
-1. First, post to the existing pull request, tagging the original author and the lesson Maintainers, to let everyone know that you would like to help get the pull request ready to merge. (Maintainers can be contacted as a team by tagging `@lesson-program/lesson-name-maintainers` e.g. `@datacarpentry/R-ecology-lesson-maintainers`.) Ask the original contributor if they are still working on the pull request, and if they would like help.
-2. If you have received no response from the original contributor after a few days, fork their repository, including all branches, or fetch their branch to your local clone of the lesson repository and make additional commits to the branch that they were working on. ([More detailed instructions for building on top of another person's branch][setup-unfinished-branch].) This will ensure that the work they have already done is included in the history of your changes. If you think it is appropriate, you can also [add them as a coauthor][commit-coauthors] on any new commits that you make.
-3. Alternatively, you can also start from scratch in a completely new branch created from `main`. If you choose to do that, make sure that you tell the Maintainers so that they can close the original pull request. Also consider adding the author of the original (now closed) pull request as [a co-author][commit-coauthors] on the commits you make, in case the unfinished changes they made provided inspiration for your own.
+1. Plaas eers na die bestaande trekversoek, met die oorspronklike skrywer en die lesOnderhouers te merk, om almal te laat weet dat u wil help om die trekversoek gereed te maak om saam te voeg. (Onderhouders kan as 'n span gekontak word deur `@lesson -program/lesson-name-maintainers` te merk, bv. `@datacarpentry /R-Ecologie-leson-Maintainers`.) Vra die oorspronklike bydraer of hulle nog aan die trekversoek werk, en of hulle hulp wil hê.
+2. As u na 'n paar dae geen antwoord van die oorspronklike bydraer ontvang het nie, moet u hul bewaarplek, insluitend alle takke, of haal hul tak na u plaaslike kloon van die lesbewaarplek en maak addisionele verbintenis aan die tak waaraan hulle gewerk het. (\[Meer gedetailleerde instruksies vir die bou bo-op 'n ander persoon se tak] \[instup-onfinished-tak].) Dit sal verseker dat die werk wat hulle reeds gedoen het, in die geskiedenis van u veranderinge ingesluit word. As u dink dit is gepas, kan u ook \[hulle as mede-outeur byvoeg] \[komite-mede-outeurs] op enige nuwe verbindings wat u maak.
+3. Alternatiewelik kan jy ook van nuuts af begin in 'n heeltemal nuwe tak wat uit `main` geskep is. As u kies om dit te doen, maak seker dat u die Onderhouders vertel sodat hulle die oorspronklike trekversoek kan sluit. Oorweeg ook om die skrywer van die oorspronklike (nou geslote) trekversoek as \[mede-outeur] \[komite-mede-outeurs] by te voeg op die verbindings wat u maak, indien die onvoltooide veranderinge wat hulle aangebring het, inspirasie vir u eie verskaf het.
 
-#### Situation 2: somebody said they will work on an issue but no PR has appeared
+#### Situasie 2: iemand het gesê dat hulle aan 'n kwessie sal werk, maar geen PR verskyn
 
-##### For Maintainers
+##### Vir Onderhouders
 
-If the original comment was made more than three weeks ago, and the contributor has not responded to [a message tagging them to ask if they are still planning to prepare a PR](#asking-for-an-update-on-an-issue), Maintainers are encouraged to comment inviting others to work on a fix, and remove the `status:in progress` label if it was previously added. Add the `help wanted` label instead.
+As die oorspronklike opmerking meer as drie weke gelede gemaak is, en die bydraer nie gereageer het op ['n boodskap wat hulle merk om te vra of hulle nog van plan is om 'n PR voor te berei] (#asking-for-an-update-on-an-issue), word Onderhouders aangemoedig om kommentaar te nooi om ander te werk om aan 'n oplossing te werk, en die etiket \`status: in progress' verwyder as dit voorheen bygevoeg is. Voeg eerder die etiket “help want” by.
 
-##### For Contributors
+##### Vir bydraers
 
-If you notice that another community member said they would like to work on an issue and you cannot find an associated pull request from them, post to the issue thread, tagging that community member, to ask if they are still working on it and whether they would like any help. If you receive no response within three weeks, or a Maintainer had previously asked them for an update and has received no response for a similar period of time, reply to let everyone know that you will begin working on it and prepare a pull request as usual.
+As u agterkom dat 'n ander gemeenskapslid gesê het dat hulle aan 'n probleem wil werk en u nie 'n gepaardgaande terugversoek van hulle kan vind nie, plaas dit op die kwessiedraad en merk daardie gemeenskapslid, om te vra of hulle nog daaraan werk en of hulle enige hulp wil hê. As u binne drie weke geen antwoord ontvang nie, of 'n Onderhouder hulle voorheen vir 'n opdatering gevra het en vir 'n soortgelyke tydperk geen antwoord ontvang het nie, antwoord om almal te laat weet dat u daaraan sal begin werk en 'n trekversoek soos gewoonlik sal voorberei.
 
-#### Message Templates for Maintainers
+#### Boodskapsjablone vir onderhouders
 
-**You do not have to use these templates** but they are provided as suggested language for communicating with contributors to your lesson repository. The important things when communicating with contributors about unfinished contributions are:
+**U hoef nie hierdie sjablone te gebruik nie** maar dit word as voorgestelde taal verskaf om met bydraers na u lesbewaarplek te kommunikeer. Die belangrike dinge wanneer u met bydraers oor onvoltooide bydraes kommunikeer, is:
 
-- Express gratitude for their engagement and contributions so far.
-- Be clear about the action that they and other would-be contributors should take.
-- Invite them to respond.
+- Uit dankbaarheid uit vir hul betrokkenheid en bydraes tot dusver.
+- Wees duidelik oor die optrede wat hulle en ander moontlike bydraers moet neem.
+- Nooi hulle uit om te reageer.
 
-##### Inviting other contributors to complete an open pull request
+##### Nooi ander bydraers uit om 'n oop trekversoek te voltooi
 
-Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+Vervang `@USERNAME` met die GitHub-handvatsel van die bydraer wat oorspronklik die trekversoek oopgemaak het.
 
 ```markdown
-It would be good to have these changes included in the lesson soon. Thank you @USERNAME for your contributions so far. 
-Since progress has been stalled for a while, I invite any other community members reading this to take on the task of making the remaining changes needed for this to be merged. 
-When doing so, please [build on top of the work already done by @USERNAME](https://docs.carpentries.org/resources/curriculum/fetch-existing-branch.html) so that their contributions are included in the commit history. 
-Feel free to post here if you have any questions about what remains to be done before the branch can be merged.
+Dit sal goed wees om hierdie veranderinge binnekort by die les ingesluit te hê. Dankie @USERNAME vir jou bydraes tot dusver. 
+Aangesien vordering 'n rukkie gestaak is, nooi ek enige ander gemeenskapslede wat dit lees, uit om die taak aan te neem om die oorblywende veranderinge aan te bring wat nodig is om dit saamgesmelt te word. 
+As u dit doen, moet u asseblief [bou bo-op die werk wat reeds deur @USERNAME gedoen is] (https://docs.carpentries.org/resources/curriculum/fetch-existing-branch.html) sodat hul bydraes in die verpligingsgeskiedenis ingesluit word. 
+Plaas gerus hier as u enige vrae het oor wat nog gedoen moet word voordat die tak saamgesmelt kan word.
 
-@USERNAME if you would like to keep working on the pull request, please post here to let us know and tell us if there is anything we can do to help.
+@USERNAME as jy wil aanhou werk aan die trekversoek, plaas asseblief hier om ons te laat weet en vertel ons of daar iets is wat ons kan doen om te help.
 ```
 
-##### Closing a stale pull request
+##### Sluit 'n verouderde trekversoek
 
-Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+Vervang `@USERNAME` met die GitHub-handvatsel van die bydraer wat oorspronklik die trekversoek oopgemaak het.
 
 ```markdown
-Thank you @USERNAME for your contributions so far. 
-Since progress has been stalled for a while and it could be difficult for another community member to pick up on the work already done here, I will close this pull request now. 
+Dankie @USERNAME vir jou bydraes tot dusver. 
+Aangesien vordering vir 'n rukkie gestaak is en dit vir 'n ander gemeenskapslid moeilik kan wees om die werk wat reeds hier gedoen is, sal ek hierdie trekversoek nou sluit. 
 
-@USERNAME if you would like to continue working on these changes, please reopen the pull request and I will be happy to help you.
+@USERNAME As jy wil voortgaan om aan hierdie veranderinge te werk, maak asseblief die trekversoek weer oop en ek sal jou graag help.
 ```
 
-##### Asking for an update on an issue
+##### Vra vir 'n opdatering oor 'n probleem
 
-Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+Vervang `@USERNAME` met die GitHub-handvatsel van die bydraer wat oorspronklik die trekversoek oopgemaak het.
 
 ```markdown
-@USERNAME it has been a while since we heard from you and I have not seen a pull request to address this issue yet.
-It would be good to have this issue resolved and I know that it often takes some time to make changes to a lesson. 
-Can you provide an update on your progress? Is there anything the Maintainers can do to help you with your pull request?
+@USERNAME dit is al 'n rukkie sedert ons van u gehoor het en ek het nog nie 'n trekversoek gesien om hierdie probleem aan te spreek nie.
+Dit sal goed wees om hierdie probleem opgelos te laat en ek weet dat dit dikwels 'n geruime tyd neem om veranderinge aan 'n les aan te bring. 
+Kan jy 'n opdatering verskaf oor jou vordering? Is daar iets wat die Onderhouders kan doen om jou te help met jou trekversoek?
 
-If your circumstances or capacity have changed, and you are no longer able to help with this issue, that is okay too. Please let us know here, so that we can help you and/or other members of the community can start working on the issue.
+As jou omstandighede of kapasiteit verander het, en jy nie meer kan help met hierdie probleem nie, is dit ook goed. Laat ons asseblief hier weet, sodat ons u kan help en/of ander lede van die gemeenskap kan begin werk aan die kwessie.
 ```
 
 [commit-coauthors]: https://github.blog/2018-01-29-commit-together-with-co-authors/
-[setup-unfinished-branch]: ../resources/curriculum/fetch-existing-branch.md
+[setup-unfinished-branch]: <.. /hulpbronne/kurrikulum/haal-bestaande-branch.md>
 [values]: https://carpentries.org/about-us/#our-values
 
 
