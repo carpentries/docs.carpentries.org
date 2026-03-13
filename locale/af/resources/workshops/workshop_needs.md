@@ -1,35 +1,35 @@
-# Workshop Needs
+# Werkswinkel behoeftes
 
-Participants are expected to come with their own laptops.  Setting up a computer lab space is not necessary. Before the workshop, participants will receive instructions on what software they need to install and set up on their laptops.
+Daar word verwag dat deelnemers met hul eie skootrekenaars sal kom.  Die opstel van 'n rekenaarlaboratoriumruimte is nie nodig nie. Voor die werkswinkel sal deelnemers instruksies ontvang oor watter sagteware hulle op hul skootrekenaars moet installeer en opstel.
 
-## Venue
+## Plek
 
-A good venue is crucial to establishing a positive learning environment.  Some things to consider include:
+'N Goeie lokaal is van kardinale belang om 'n positiewe leeromgewing te vestig.  Sommige dinge om te oorweeg, sluit in:
 
-- Tables arranged so participants can watch the instructor, use their laptops, and talk with their peers.  Fold up desks are usually not a good choice.
-- Tables should also be arranged so helpers and instructors can easily mingle around the room.
-- The room should have a projector and screen that everyone can see, with HDMI, VGA, and Mac adapters to allow anyone to plug in their laptop.
-- High speed Wi-Fi internet access that can withstand everyone using it together. This may include securing guest access codes.
-- Power outlets for all participants. This may include setting up extension cords or power strips.
-- High table or podium that instructor can stand at while teaching.  A flat podium is important; it is difficult to use a laptop on a slanted podium.
-- Refreshments. People learn better when they are well fed.  They also will not lose as much instructional time if they do not have to leave to get coffee.
+- Tafelle gerangskik sodat deelnemers die instrukteur kan kyk, hul skootrekenaars kan gebruik en met hul eweknieë kan praat.  Opvoubare lessenaars is gewoonlik nie 'n goeie keuse nie.
+- Tafelle moet ook gerangskik word sodat helpers en instrukteurs maklik in die kamer kan meng.
+- Die kamer moet 'n projektor en skerm hê wat almal kan sien, met HDMI-, VGA- en Mac-adapters sodat iemand hul skootrekenaar kan insluit.
+- Hoëspoed Wi-Fi-internettoegang wat almal kan weerstaan wat dit saam gebruik. Dit kan die beveiliging van gastegangskodes insluit.
+- Kragaansluitings vir alle deelnemers. Dit kan insluit die opstel van verlengsnoede of kragstroke.
+- Hoë tafel of podium waaraan die instrukteur kan staan terwyl hy onderrig.  'N Plat podium is belangrik; dit is moeilik om 'n skootrekenaar op 'n skuins podium te gebruik.
+- Verversings. Mense leer beter as hulle goed gevoed is.  Hulle sal ook nie soveel onderrigtyd verloor as hulle nie hoef te vertrek om koffie te kry nie.
 
-## Equipment and Materials
+## Toerusting en materiaal
 
-- Power strips, as noted above, to ensure everyone's laptop stays charged
-- Sticky notes in two contrasting colors. These are an important part of how we get feedback during a lesson.  We should have enough for each person to have about 8 of each color. Note that colorblindness can be an issue with differently-colored stickies (say red/green or blue/yellow), so alternate methods for feedback include offering sticky notes in two distinct shapes, or using a heavy marker to draw symbols on the sticky notes to convey meaning.
-- Name tags to help people get to know each other.
-- Extra pens and paper in case people want to take notes by hand
-- Sign in sheets
-- Flipchart or whiteboard with felt-tip pen (ideally several in different colors) for the instructor to visualise concepts or note important details.
+- Kragstroke, soos hierbo genoem, om te verseker dat almal se skootrekenaar gelaai bly
+- Klewerige note in twee kontrasterende kleure. Dit is 'n belangrike deel van hoe ons terugvoer kry tydens 'n les.  Ons moet genoeg hê vir elke persoon om ongeveer 8 van elke kleur te hê. Let daarop dat kleurblindheid 'n probleem kan wees met verskillende kleurige stokkies (byvoorbeeld rooi/groen of blou/geel), dus alternatiewe metodes vir terugvoer sluit in die aanbied van taai note in twee verskillende vorms, of die gebruik van 'n swaar merker om simbole op die taai note te teken om betekenis oor te dra.
+- Naametikette om mense te help om mekaar te leer ken.
+- Ekstra penne en papier indien mense aantekeninge met die hand wil neem
+- Teken in blaaie
+- Flipchart of witbord met viltpen (ideaal verskeie in verskillende kleure) vir die instrukteur om konsepte te visualiseer of belangrike besonderhede op te let.
 
-## Accessibility
+## Toeganklikheid
 
-It is important to make sure the workshop space is accessible to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not:
+Dit is belangrik om seker te maak dat die werkswinkelruimte toeganklik is vir alle individue. Die registrasievorm moet vra of instrukteurs, helpers en leerders enige voorafreëlings benodig om te verseker dat hulle aan die geleentheid kan deelneem. Dit kan insluit in die oorweging of:
 
-- Building and room are accessible to those who can not use stairs (ramps, elevators, etc.)
-- Restrooms are accessible
-- There is a working microphone for instructors ([Our feedback](https://zenodo.org/record/1325464#.YVJIWS-B0ea) notes inability to hear at the back of the room as a common concern)
-- The screen is large enough and bright enough to be easily read
-- The building and room can accommodate service animals
-- Lactation space is provided
+- Gebou en kamer is toeganklik vir diegene wat nie trappe kan gebruik nie (oproepe, hysbakke, ens.)
+- Toilette is toeganklik
+- Daar is 'n werkende mikrofoon vir instrukteurs ([Ons terugvoer] (https://zenodo.org/record/1325464#.YVJIWS-B0ea) merk op die onvermoë om agteraan die kamer te hoor as 'n algemene bekommernis)
+- Die skerm is groot genoeg en helder genoeg om maklik gelees te word
+- Die gebou en kamer kan diensdiere akkommodeer
+- Laktasieruimte word voorsien
