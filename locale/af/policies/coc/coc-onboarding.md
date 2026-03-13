@@ -1,68 +1,68 @@
-# CoCc Onboarding procedures for new members
+# CoCC Onboardprosedures vir nuwe lede
 
-Any voting member of the Carpentries community, as defined in The Carpentries bylaws, is eligible to express their interest to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/).
-The Committee will invite new members every year  through open calls and from available volunteers. When a current member needs to step down quickly/urgently, the Onboarding team will open an extraordinary call for volunteers.
+Enige stemmende lid van die Carpentries-gemeenskap, soos gedefinieer in The Carpentries verordeninge, is in aanmerking om hul belangstelling uit te spreek om vrywillig te sit in die [Code of Gedragskomitee (CoCC)] (https://carpentries.org/coc-ctte/).
+Die komitee sal elke jaar nuwe lede nooi deur oop oproepe en van beskikbare vrywilligers. As 'n huidige lid vinnig/dringend moet aftree, sal die Onboard-span 'n buitengewone oproep vir vrywilligers oopmaak.
 
-The [template document](https://docs.google.com/document/d/12GtF4xbnfm0aopKZAUOaFhKJ1OB1SOj09PHBbxY55kk/edit?usp=sharing) provides a set of questions used in the previous calls for application. These questions can be updated or changed by the Code of Conduct committee for subsequent calls as needed.
+Die [sjabloondokument] (https://docs.google.com/document/d/12GtF4xbnfm0aopKZAUOaFhKJ1OB1SOj09PHBbxY55kk/edit?usp=sharing) bied 'n stel vrae wat in die vorige oproepe vir aansoek gebruik is. Hierdie vrae kan bygewerk of verander word deur die Gedragskode-komitee vir daaropvolgende oproepe indien nodig.
 
-Application review is carried out by the onboarding team members, and applicants are selected based on their previous experience and motivation to support the work of CoCc in the future.
-The onboarding team brings their decision to be discussed by the rest of the CoCc. The rest of the CoCc flags issues or concerns and confirms the selection when they agree with the initial decision.
-New members are invited to sit in the CoCc as full members upon their onboarding as described below.
+Aansoekhersiening word uitgevoer deur die onboardspanlede, en aansoekers word gekies op grond van hul vorige ervaring en motivering om die werk van CoCC in die toekoms te ondersteun.
+Die onboardspan bring hul besluit om deur die res van die CoCC bespreek te word. Die res van die CoCC vlag kwessies of bekommernisse en bevestig die keuse wanneer hulle saamstem met die aanvanklike besluit.
+Nuwe lede word genooi om as volle lede in die CoCC te sit tydens hul aansluiting soos hieronder beskryf.
 
-## General onboarding procedure:
+## Algemene aanboordprosedure:
 
-Members invited or elected as Staff/Core Team and EC liaison, as well as selected through open calls for volunteers, will become full members through the following onboarding process:
+Lede wat genooi of verkies word as personeel/kernspan en EK-skakelaar, sowel as gekies deur oop oproepe vir vrywilligers, sal volle lede word deur die volgende aanlynproses:
 
-- Read [the Code of Conduct document](index.md)
-  - Review CoC [process flow diagram](index.md#process-flow-diagram)
-- Read the first chapter of [How to respond to Code of Conduct Reports](https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view), a book by Valerie Aurora, based on a short guide written by Mary Gardiner.
-- Read the four CoC policy documents
+- Lees [die Gedragskode-dokument] (index.md)
+  - Hersien CoC [prosesvloeidiagram] (index.md#process-flow-diagram)
+- Lees die eerste hoofstuk van [Hoe om te reageer op Code of Gedragsverslae] (https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view), 'n boek deur Valerie Aurora, gebaseer op 'n kort gids geskryf deur Mary Gardiner.
+- Lees die vier CoC-beleidsdokumente
 
-* [Incident Response Guidelines](incident-response.md)
-* [Incident Reporting Guidelines](incident-reporting.md)
-* [Incident Response Procedure](enforcement-guidelines.md)
-* [Termed Suspension Guidelines](termed-suspension.md)
+* [Riglyne vir voorvalle reaksie] (incident-response.md)
+* [Riglyne vir voorvalle verslagdoening] (incident-reporting.md)
+* [Prosedure vir voorvalle reaksie] (enforcement-guidelines.md)
+* [Genaamde opskorsingsriglyne] (termed-suspension.md)
 
-- Review the [membership agreement](coc-membership-agreement.md) (includes confidentiality agreement)
-- Review the [CoCc Governance Document](coc-governance.md)
-- Participate in an onboarding meeting: Bring questions, challenge our processes and finish onboarding.
-- Send an acknowledgment of the [membership agreement](coc-membership-agreement.md) by email to the committee.
+- Hersien die [lidmaatskapsooreenkoms] (coc-membership-agreement.md) (sluit vertroulikheidsooreenkoms in)
+- Hersien die [CoCC-bestuursdokument] (coc-governance.md)
+- Neem deel aan 'n onboardvergadering: Bring vrae, daag ons prosesse uit en klaar onboarding.
+- Stuur 'n erkenning van die [lidmaatskapsooreenkoms] (coc-membership-agreement.md) per e-pos aan die komitee.
 
-### Access to CoCc resources
+### Toegang tot CoCC-hulpbronne
 
-The Onboarding committee will file a GitHub Issue to update the composition of the CoCc (onboarded/offboarded members). The Staff/Core Team Liaison will add the new members to and remove previous members from the:
+Die Onboard-komitee sal 'n GitHub-uitgawe indien om die samestelling van die CoCC (onboarded/afgeboarde lede) op te dateer. Die personeel/kernspanskakeling sal die nuwe lede by voeg en vorige lede verwyder uit die:
 
-- Mailing list (coc@carpentries.org)
-- Google drive folder (non-restricted for all members)
-- Google drive folder (restricted for chairs and staff liaison)
-- Update CoCc web page with bio: https://carpentries.org/coc-ctte/
-- Slack Channels: Private for CoCc for discussion and updates
+- Poslys (coc@carpentries.org)
+- Google drive lêergids (nie-beperk vir alle lede)
+- Google drive-lêergids (beperk vir stoele en personeelskakeling)
+- Dateer CoCC-webblad op met bio: https://carpentries.org/coc-ctte/
+- Slack Channels: Privaat vir CoCC vir bespreking en opdaterings
 
-#### Information management
+#### Inligtingbestuur
 
-- New members need to not have access to previous incidents
-- Staff liaison should be responsible for maintaining previous records
-- Only the Staff Liaison and the CoCc chair have access to the restricted Google Drive where reports are received and stored - and names and information of the reporters and reportees are maintained. They are responsible for communicating that with the rest of the committee.
-- All notes are maintained in another Google drive that are accessible for all CoCc members. Report handling meeting notes are taken with pseudonymised the reporter and reportee names.
-- All transparency reports are released periodically on GitHub repository for Executive Council, maintained under The Carpentries GitHub organisation: https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports.
-- All CoCc policies are released on [The Carpentries Handbook](/policies/coc/index.md).
+- Nuwe lede hoef nie toegang tot vorige voorvalle te hê nie
+- Personeelskakeling moet verantwoordelik wees vir die handhawing van vorige rekords
+- Slegs die personeelskakeling en die CoCC-voorsitter het toegang tot die beperkte Google Drive waar verslae ontvang en gestoor word - en name en inligting van die verslaggewers en verslaggewers gehandhaaf word. Hulle is verantwoordelik om dit met die res van die komitee te kommunikeer.
+- Alle notas word in 'n ander Google-skyf gehandhaaf wat toeganklik is vir alle CoCC-lede. Vergaderingsnotas vir verslaghantering word geneem met die name van die verslaggewer en verslaggewer wat die verslaggewer is.
+- Alle deursigtigheidsverslae word gereeld vrygestel op GitHub-bewaarplek vir Uitvoerende Raad, onderhou onder The Carpentries GitHub-organisasie: https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports.
+- Alle CoCC-beleide word vrygestel op [The Carpentries Handbook] (/policies/coc/index.md).
 
-### Next steps
+### Volgende stappe
 
-- The Carpentries Staff Team and Executive Council (EC) will be notified by the onboarding team members about any new members
-- All CoCc members will be eligible to join general discussion and business meetings upon their onboarding
-- New Staff/Core Team Liaison will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and had a handover meeting with the previous Team Liaison stepping down from this role
-- New EC Liaison will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and had a handover meeting with the previous EC Liaison stepping down from this role
-- All members will follow the [membership agreement](coc-membership-agreement.md) (includes confidentiality agreement) and the [governance procedure](coc-governance.md) closely
+- Die Carpentries Personeelspan en Uitvoerende Raad (EC) sal deur die aanboordspanlede in kennis gestel word oor enige nuwe lede
+- Alle CoCC-lede sal in aanmerking kom om aan algemene besprekings en sakevergaderings by hul aansluiting aan te sluit
+- Nuwe personeel/kernspanskakeling sal eers by komiteesbesprekings ingesluit word nadat hulle aan die aanlynvereistes voldoen het wat deur die CoCC gespesifiseer is en 'n oorhandigingsvergadering gehad het met die vorige Team Liaison wat uit hierdie rol afgestaan het
+- Nuwe EK-skakeling sal eers by komiteesbesprekings ingesluit word nadat hulle aan die aanlynvereistes wat deur die CoCC gespesifiseer is, voldoen het en 'n oorhandigingsvergadering gehad het met die vorige EK-skakelaar wat uit hierdie rol afgestaan het
+- Alle lede sal die [lidmaatskapsooreenkoms] (coc-membership-agreement.md) (sluit vertroulikheidsooreenkoms in) en die [bestuursprosedure] (coc-governance.md) noukeurig volg
 
-## Follow-up Procedures
+## Opvolgprosedures
 
-### Mock incident-based training as ongoing process
+### Spotgebaseerde opleiding op voorval as deurlopende proses
 
-Upon onboarding of new members, the designated CoCc members (specific area leads) will hold discussion on the following content as part of the CoCc business meeting:
+By die aansluiting van nuwe lede sal die aangewese CoCC-lede (spesifieke gebied leiers) bespreking hou oor die volgende inhoud as deel van die CoCC-sakevergadering:
 
-- Discussion based on selected theories from ([How to respond to Code of Conduct Reports](https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view)) -  Aurora and Gardner.
-- Specific CoC policy and enforcement documents
-- Mock-scenario or external incident-based discussions for exercise
+- Bespreking gebaseer op geselekteerde teorieë van ([Hoe om te reageer op gedragsverslae] (https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view)) - Aurora en Gardner.
+- Spesifieke CoC-beleid en handhawingsdokumente
+- Mock-scenario of eksterne toevalligebaseerde besprekings vir oefening
 
-Currently, the CoCc training team is responsible for holding training and discussion sessions as part of the continuing CoC committee development.
+Tans is die CoCC-opleidingspan verantwoordelik vir die hou van opleiding- en besprekingsessies as deel van die voortgesette ontwikkeling van die CoC-komitee.
