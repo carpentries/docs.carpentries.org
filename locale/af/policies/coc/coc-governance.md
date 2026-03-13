@@ -1,133 +1,133 @@
-# Code of Conduct Committee Governance
+# Bestuur van Gedragskode Komitee
 
-## Membership
+## Lidmaatskap
 
-Any voting member of the Carpentries community, as defined in The Carpentries bylaws, is eligible to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/).
+Enige stemmende lid van die Carpentries-gemeenskap, soos gedefinieer in The Carpentries verordeninge, kan in aanmerking kom om vrywillig in die [Code of Gedragskomitee (CoCC)] te sit (https://carpentries.org/coc-ctte/).
 
-The Committee will onboard its members on a regular basis (for example, annually) through open calls and from available volunteers.
-New members will undergo an application, selection and onboarding process before they are officially seated on the Committee.
+Die komitee sal gereeld (byvoorbeeld jaarliks) aan boord van sy lede aansluit deur oop oproepe en van beskikbare vrywilligers.
+Nuwe lede sal 'n aansoek-, seleksie- en aansluitproses ondergaan voordat hulle amptelik in die komitee sit.
 
-The Executive Council (EC) will be notified about any new members.
-The EC has oversight of the governance of the Code of Conduct Committee but will have no influence over potential incidents and their resolutions.
+Die Uitvoerende Raad (EC) sal in kennis gestel word oor enige nuwe lede.
+Die EK het toesig oor die bestuur van die Gedragskode-komitee, maar sal geen invloed hê oor moontlike voorvalle en hul resolusies nie.
 
-## Onboarding
+## Onboord
 
-The onboarding process is determined by the Committee, and the EC will be kept informed about this process.
-New members, including the Staff and EC Liaison, are not immediately seated on the Committee and thus not included in issue resolution until after onboarding is completed.
+Die aanlynproses word deur die komitee bepaal, en die EK sal oor hierdie proses ingelig gehou word.
+Nuwe lede, insluitend die personeel en EK-skakeling, sit nie onmiddellik in die komitee nie en word dus nie by uitgawesluit ingesluit totdat die aansluiting voltooi is nie.
 
-The current onboarding process is described in the [onboarding procedure document](/policies/coc/coc-onboarding.md). Additionally, incident response training will be organised for the new and existing members to ensure they can confidently serve on the committee.
+Die huidige aanlynproses word beskryf in die [onboardprosedure dokument] (/policies/coc/coc-onboarding.md). Daarbenewens sal opleiding vir voorvalle vir die nuwe en bestaande lede gereël word om te verseker dat hulle met selfvertroue in die komitee kan dien.
 
-## Administration
+## Administrasie
 
-The Committee consists of a minimum of five members; approximately 10 is recommended.
-The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC.
+Die komitee bestaan uit 'n minimum van vyf lede; ongeveer 10 word aanbeveel.
+Die Komitee het ook 'n skakelaar van die Carpentries Core Team en 'n skakelaar van die EC.
 
-The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups.
-They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee.
+Die skakelaars het die verantwoordelikheid om die CoCC in te lig van enigiets wat van hul onderskeie groepe relevant is.
+Hulle is ook verantwoordelik vir die oordrag van kwessies en opdaterings aan hul onderskeie groepe van die CoCC wat vir hulle relevant is, terwyl hulle die vertroulikheidsvereistes van die Komitee in ag respekteer word.
 
-The Committee will have upto two chairs who will oversee the activities of the committee - these positions are taken for one year by the current CoCc members. The election is based on self-nomination and committee voting by CoC members who have already worked with the CoC committee for at least 6 months, and preferably through at least one report handling procedure.
+Die komitee sal tot twee voorsitters hê wat toesig sal hou oor die aktiwiteite van die komitee - hierdie posisies word vir een jaar deur die huidige CoCC-lede inneem. Die verkiesing is gebaseer op selfbenoeming en komitee stemming deur Komitee-lede wat reeds minstens 6 maande saam met die Komitee gewerk het, en verkieslik deur ten minste een verslaghanteringsprosedure.
 
-These individuals are responsible for holding regular business meetings and guiding the Committee’s work.
+Hierdie individue is verantwoordelik vir die hou van gereelde sakevergaderings en die leiding van die komitee se werk.
 
-The committee members will select specific areas of CoC work and assume the roles of “area leads” after a committee vote/confirmation. Some areas of work identified by the current CoCc are: incident response, training, onboarding/offboarding and themed discussion.
+Die komiteelede sal spesifieke areas van die CoC-werk kies en die rolle van “area leiers” aanvaar na 'n komitee stemming/bevestiging. Sommige werkareas wat deur die huidige CoCC geïdentifiseer is, is: insidentreaksie, opleiding, aan/afboord en tema-bespreking.
 
-Based on these areas of work, all area leads along with the Core Team and EC Liaisons will seek to improve the CoC policies and procedures.
+Op grond van hierdie werksareas sal alle gebied leiers saam met die kernspan en EK-skakelaars probeer om die CoC-beleide en prosedures te verbeter.
 
-## Voting
+## stemming
 
-The CoCc participates in two types of voting - votes about incidents and those not about incidents (e.g. business, policy, administrative matters).
+Die CoCC neem deel aan twee tipes stemming - stemme oor voorvalle en dié wat nie oor voorvalle nie (bv. besigheid, beleid, administratiewe aangeleenthede).
 
-### Non-incident voting
+### Nie-voorval stemming
 
-For non-incident-related matters, the Committee passes votes with a simple majority of the non-liaison members, with the chairs breaking any ties.
-The Carpentries Staff(Core Team) and Executive Council (EC) liaisons can vote on matters such as election of chairs and area leads.
-Members not attending can provide feedback and insights.
-Quorum in meetings is more than 50% of the non-liaison CoCc members.
+Vir nie-toevallige aangeleenthede neem die komitee stemme met 'n eenvoudige meerderheid van die nie-skakellede aan, terwyl die voorsitters enige bande breek.
+Die Carpentries Personeel (Kernspan) en die Uitvoerende Raad (EC) skakelaars kan stem oor sake soos verkiesing van voorsitters en gebied leidings.
+Lede wat nie bywoon nie, kan terugvoer en insigte verskaf.
+Kworum in vergaderings is meer as 50% van die nie-skakelende CoCC-lede.
 
-### Incident voting
+### Voorval stemming
 
-For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer to [Incident Response Guidelines](/policies/coc/incident-response.md).)
+Vir toevallige aangeleenthede sal enige lid van die Insidentreaksiegroep (IRG) stem en die voorsitter sal enige bande breek (verwys na [Riglyne vir Insidentreaksie] (/policies/coc/incident-response.md).)
 
-The Incident Response Lead of the [Incident Response Group](/policies/coc/enforcement-guidelines.md) will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the [guidelines for responding](/policies/coc/enforcement-guidelines.md).
+Die voorvalle Response Lead van die [Incident Response Group] (/policies/coc/enforcement-guidelines.md) sal hierdie besluit neem en aandui dat die voorvalle Response Lead se stem nodig sal wees om die voorval op te los volgens die [riglyne vir reagering] (/policies/coc/enforcement-guidelines.md).
 
-Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
+Indien die skakelaar van die Uitvoerende Raad aan 'n CoCC-stemming deelneem, en daardie resolusie voor die Uitvoerende Raad appèl word, sal die skakellid van die appèlstemming afhou.
 
-## Terms of office
+## Kantoorbepalings
 
-The expected term of office for each Committee member is a minimum one year, however, members may remain longer if they are able to offer their continued service or continuity of certain committee work is a concern.
-During their time on the Committee, members may temporarily withdraw from Committee work for up to 3 months provided they inform the Governance Chair in writing.
-If the members are unavailable for longer than 3 months, they will be asked to take a leave from the Committee.
-They may volunteer to rejoin when they are available again following the onboarding procedure described earlier in the document.
-This will allow us to maintain privacy for the reports handled in their absence and create an opportunity for new members to join the Committee.
+Die verwagte ampstermyn vir elke Komiteelid is minstens een jaar, maar lede kan langer bly as hulle hul voortgesette diens kan aanbied of kontinuïteit van sekere komitee werk is 'n kommer.
+Gedurende hul tyd in die komitee kan lede tot drie maande tydelik van die komitee werk onttrek, mits hulle die bestuursvoorsitter skriftelik in kennis stel.
+As die lede langer as drie maande nie beskikbaar is nie, sal hulle gevra word om 'n verlof van die komitee te neem.
+Hulle kan vrywillig om weer aan te sluit wanneer hulle weer beskikbaar is volgens die aanboordprosedure wat vroeër in die dokument beskryf is.
+Dit sal ons in staat stel om privaatheid te handhaaf vir die verslae wat in hul afwesigheid hanteer word en 'n geleentheid skep vir nuwe lede om by die komitee aan te sluit.
 
-The Chairs are expected to sit for a minimum of six months. Before stepping down, chairs will invite nominations and chair a meeting to elect a new chair.
-New Chairs are selected from among those who have been on the Committee for at least six months. One of the available members can volunteer to be elected to take on the role of a Chair.
+Die stoele sal na verwagting vir 'n minimum van ses maande sit. Voordat hulle afstap, sal stoele benoemings uitnooi en 'n vergadering voorsitter is om 'n nuwe voorsitter te kies.
+Nuwe voorsitters word gekies uit diegene wat minstens ses maande in die komitee is. Een van die beskikbare lede kan vrywillig verkies word om die rol van 'n voorsitter aan te neem.
 
-## Main duties of the position holders
+## Belangrikste pligte van die posisiehouers
 
-All members of the CoCc must read, understand and abide by the [membership agreement](/policies/coc/coc-membership-agreement.md).
+Alle lede van die CoCC moet die [lidmaatskapsooreenkoms] (/policies/coc/coc-membership-agreement.md) lees, verstaan en nakom aan.
 
-In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below.
+Benewens die rolle en verantwoordelikhede wat in die lidmaatskooreenkoms uiteengesit word (bv. betrokke by GitHub-kwessies en die hersiening van deursigtigheidsverslae), het komitee beamptes die pligte wat hieronder
 
-### Chairs’ roles
+### Stoele se rolle
 
-The CoCc will share the following responsibilities:
+Die CoCC sal die volgende verantwoordelikhede deel:
 
-- Keep an overview of the ongoing work in the Committee
-- Collect agenda points from Committee members for the business meetings
-- Assign Committee-related tasks to the CoCc members fairly
-- Communicate CoCc activities via the Carpentries communications channels
-- Before they step down, invite nominations for and chair a meeting to elect a new chair.
+- Hou 'n oorsig van die deurlopende werk in die komitee
+- Versamel agendapunte van komiteelede vir die sakevergaderings
+- Ken komitee-verwante take aan die CoCC-lede regverdig toe
+- Kommunikeer CoCC-aktiwiteite via die Carpentries kommunikasiekanale
+- Voordat hulle afgaan, nooi benoemings uit en voorsitter 'n vergadering om 'n nuwe voorsitter te kies.
 
-### Core Team/Staff Liaison
+### Kernspan/personeelskakeling
 
-- Represent the CoCc in any relevant communication with the Core Team
-- Liaise with the CoCc to schedule the business meetings quarterly
-- Relay information to the Core Team members when required
-- Intervene in any communication or potential incident in Carpentries online spaces that may lead to a CoC incident
-- Notify and request a review from the Carpentries Executive Director regarding any public communication from the CoCc, when needed
+- Verteenwoordig die CoCC in enige relevante kommunikasie met die kernspan
+- Maak kontak met die CoCC om die sakevergaderings kwartaalliks te skeduleer
+- Oordra inligting aan die kernspanlede indien nodig
+- Gryp in in enige kommunikasie of moontlike voorval in Carpentries aanlynruimtes wat tot 'n CoC-voorval kan lei
+- Stel in kennis en versoek 'n resensie van die Uitvoerende Direkteur van Carpentries rakende enige openbare kommunikasie van die CoCC, indien nodig
 
-### EC Liaison
+### EC skakeling
 
-- Represent the CoCc in any relevant communication with the EC
-- Liaise with the CoCc to co-edit and co-release [transparency reports](https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports)
-- Relay information to the EC members when required
-- Co-edit and co-release transparency reports with the Incident Response Chair
-- Notify, and request a review if needed, from EC regarding any public communication from CoC committee
+- Verteenwoordig die CoCC in enige relevante kommunikasie met die EC
+- Skakel met die CoCC om [deursigtigheidsverslae] saam te wysig en mede-vry te stel (https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports)
+- Oordra inligting aan die EG-lede indien nodig
+- Meedigeer en stel deursigtigheidsverslae saam met die voorsitter van reaksie-voorsitter
+- Stel in kennis, en versoek 'n hersiening indien nodig, van EC oor enige openbare kommunikasie van die CoC-komitee
 
-### Specific roles for all area leads
+### Spesifieke rolle vir alle gebied leidings
 
-- Coordinate with co-leads to define action points, roadmaps and outcomes from their areas of work
-- Help and support other members in using tools and approaches from their areas of work to make CoCc process effective
-- Communicate activities from other areas of work to the CoCc via private Slack channels as well as the CoCc documents and business meetings
-- Write, update, and maintain the business meeting minutes and other official documents for the committee
-- Identify gaps in the current Code of Conduct, specific to their areas of work, and raise them to the CoCc
-- Create drafts for and review new policies with other members of the CoCc based on to their areas of work
+- Koördineer met mede-leidings om aksiepunte, padkaarte en uitkomste uit hul werksareas te definieer
+- Help en ondersteun ander lede met die gebruik van gereedskap en benaderings uit hul werksareas om CoCC-proses effektief te maak
+- Kommunikeer aktiwiteite van ander werksareas aan die CoCC via private Slack-kanale sowel as die CoCC-dokumente en sakevergaderings
+- Skryf, werk en handhaaf die sakevergaderingsnotule en ander amptelike dokumente vir die komitee
+- Identifiseer gapings in die huidige gedragskode, spesifiek vir hul werksareas, en verhoog dit na die CoCC
+- Skep konsepte vir en hersien nuwe beleide saam met ander lede van die CoCC op grond van hul werksareas
 
-#### Specific roles of Incident Response Leads
+#### Spesifieke rolle van voorvalle Response Leads
 
-- Monitor channels where the CoCc receives incident reports
-- Organise incident response meetings for any new CoC incident report, and establish the Incident Response Group
-- Support the Incident Response Group in documenting the incident-handling process, and in coordination with the Governance Chair, assist the Incident Response Group in communicating with the reporter and reportee
+- Monitor kanale waar die CoCC voorvalle verslae ontvang
+- Organiseer vergaderings vir voorvalle vir enige nuwe CoC-voorvalle verslag en stig die Incident Response Group
+- Ondersteun die Insidentreaksiegroep met die dokumentering van die voorvalle hanteringsproses, en in koördinering met die bestuursvoorsitter, help die Insidentreaksiegroep om met die verslaggewer en verslaggewer te kommunikeer
 
-### Incident Response Group’s roles and responsibilities
+### Incident Response Group se rolle en verantwoordelikhede
 
-- An Incident Response Group of a minimum of 3 or 5 people is convened for any reported incident. An odd number of people is needed to avoid ties during voting.
-- An Incident Response Group must contain at least one member who has handled a live incident as part of a previous Incident Response Group within The Carpentries CoCc or have attended a CoC training organised by CoCc/Staff
-- An Incident Response Lead is selected in the Incident Response Group to ensure accountability of the report handling and completion of all report-handling and enforcement process
-- The Incident Response Leads will create a collaborative document for each case and share with the Incident Response Group
-- A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
-- A time-keeper will notify the Incident Response Group of the various deadlines
-- The liaisons and other members of the committee can fully participate in the Incident Response Group with voting rights provided there is no conflict of interest.
+- 'N Insidentreaksiegroep van 'n minimum van 3 of 5 mense word byeengeroep vir enige gerapporteerde voorval. 'N Ongewe aantal mense is nodig om bande tydens stemming te vermy.
+- 'N Insidentreaksiegroep moet ten minste een lid bevat wat 'n lewendige voorval hanteer het as deel van 'n vorige Insidentreaksiegroep binne The Carpentries CoCC of 'n CoC-opleiding bygewoon het wat deur COC/personeel georganiseer is
+- 'N Voorleiding vir voorvalle reaksie word in die Insidentreaksiegroep gekies om aanspreeklikheid van die verslaghantering en voltooiing van alle verslaghantering en toepassingsproses te verseker
+- Die Incident Response Leads sal 'n samewerkende dokument vir elke geval skep en dit met die Incident Response Group deel
+- 'N Notekenaar sal verseker dat die notas vir die Insidentreaksiegroep gehandhaaf word en met die komitee vir gedragskode gedeel word
+- 'N Tydbewaarder sal die Incident Response Group in kennis stel van die verskillende sperdatums
+- Die skakelaars en ander lede van die komitee kan ten volle deelneem aan die Insidentreaksiegroep met stemreg, mits daar geen konflik van belange is nie.
 
-## Communication and collaboration spaces
+## Kommunikasie- en samewerkings
 
-CoCc communication happens primarily in the #coc-discussion private channel of The Carpentries Slack workspace. Incident report discussions happen initially in the #coc-2023 private channel (as of 2023) and then move to separate, private documents shared among members of the [Incidence Response Group for each case](/policies/coc/enforcement-guidelines.md).
+CoCC-kommunikasie vind hoofsaaklik plaas in die #coc -discussie-privaat kanaal van The Carpentries Slack werkruimte. Besprekings oor voorvalle vind aanvanklik plaas in die #coc -2023 privaat kanaal (vanaf 2023) en beweeg dan na aparte, private dokumente wat onder lede van die [Incidence Response Group vir elke geval] gedeel word (/policies/coc/enforcement-guidelines.md).
 
-The #coc-year channel is archived every year to avoid giving access to past discussions to new members. Members of the committee are expected to set their notifications to be alerted for all new messages posted to either channel.
+Die #coc -jaar kanaal word elke jaar argief om te verhoed dat nuwe lede toegang tot vorige besprekings gegee word nie. Daar word verwag dat lede van die komitee hul kennisgewings gewaarsku moet word vir alle nuwe boodskappe wat op enige kanaal geplaas word.
 
-Members are not expected to be present on Slack perpetually, but should check the channels with some regularity. Subteam communications and other general discussions will happen in written form on Slack, and each member’s input is valued with asynchronous participation encouraged.
+Daar word nie van lede verwag om ewig op Slack teenwoordig te wees nie, maar moet die kanale met 'n mate van gereeldheid nagaan. Subspankommunikasie en ander algemene besprekings sal in skriftelike vorm op Slack plaasvind, en elke lid se insette word gewaardeer met asynchrone deelname wat aangemoedig word.
 
-For incident responses, each member will provide a preferred way to receive urgent notifications.
+Vir voorvalle antwoorde sal elke lid 'n voorkeurmanier bied om dringende kennisgewings te ontvang.
 
-The CoCc leverages a shared Google Folder to manage documents that are not on GitHub, such as meeting notes, a membership roster, and incident reports.
+Die CoCC gebruik 'n gedeelde Google Folder om dokumente wat nie op GitHub is nie, te bestuur, soos vergaderingsnotas, 'n lidmaatskaplys en voorvalle verslae.
