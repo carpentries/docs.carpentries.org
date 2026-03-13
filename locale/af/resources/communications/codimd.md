@@ -1,73 +1,73 @@
-# CodiMD
+# kodimD
 
-## General Usage
+## Algemene gebruik
 
-The Carpentries also offers [CodiMD](https://codimd.carpentries.org/) as another collaborative note taking platform. CodiMD recognises [Markdown](https://www.markdownguide.org/cheat-sheet/) syntax,
-allowing users to utilise simple markup to format the content they add to the shared document.
+Die Carpentries bied ook [CodiMD] (https://codimd.carpentries.org/) aan as nog 'n samewerkende nootnemingsplatform. CodiMD herken [Markdown] (https://www.markdownguide.org/cheat-sheet/) sintaksis,
+wat gebruikers toelaat om eenvoudige merking te gebruik om die inhoud wat hulle by die gedeelde dokument voeg, te formateer.
 
-The CodiMD interface provides three modes:
+Die CodimD-koppelvlak bied drie modusse:
 
-- _Edit_: an editor-only interface, which fills the browser window with a space for writing text.
-- _Both_: a half-and-half interface, filling the left half of the window with the editor interface,
-  and the right half with the (uneditable) viewing interface.
-- _View_: a read-only, formatted interface,
-  which fills the browser window with the rendered version of the notes entered in the Edit view.
-  Any Markdown markup used in the Edit view will be applied in the View interface,
-  appearing as formatted text (headings, bold, italics, links, etc) and images.
+- _Edit_: 'n slegs redakteur-koppelvlak wat die blaaiervenster vul met 'n spasie vir die skryf van teks.
+- _Albei: 'n half en half koppelvlak, wat die linker helfte van die venster met die redakteerkoppelvlak vul,
+  en die regterhelfte met die (onredigeerbare) besigtingskoppelvlak.
+- _View_: 'n leesslegs, geformateerde koppelvlak,
+  wat die blaaiervenster vul met die weergawe van die aantekeninge wat in die Wysig-aansig ingevoer is.
+  Enige Markdown-merking wat in die Wysig-aansig gebruik word, sal toegepas word in die View-koppelvlak,
+  verskyn as geformateerde teks (opskrifte, vet, kursief, skakels, ens.) en beelde.
 
-These modes can be selected with buttons to the top-left of the interface.
+Hierdie modusse kan gekies word met knoppies links bo van die koppelvlak.
 
-![The viewing mode buttons for a CodiMD document](images/codimd_mode_buttons.png)
+! [Die kykmodus knoppies vir 'n CodimD-dokument] (images/codimd_mode_buttons.png)
 
-A new CodiMD document can be created by appending a descriptive name to the url `https://codimd.carpentries.org/`,
-such as `https://codimd.carpentries.org/committeename`,
-or by visiting <https://codimd.carpentries.org/> and clicking the "+ New guest note" button.
+'N Nuwe CodimD-dokument kan geskep word deur 'n beskrywende naam by die url `https://codimd.carpentries.org/`,
+aan te voeg, soos `https://codimd.carpentries.org/committeename`,
+of deur <https://codimd.carpentries.org/> te besoek en op die “+ Nuwe gastenota” -knoppie te klik.
 
-Documents are synchronised as you type, so that everyone viewing this page sees the same text.
-This allows everyone to collaborate on documents.
-Contributions from different users are underlined in different colours.
-Hovering the cursor over content will display the name (or guest identifier) of the person who wrote it,
-and the current location of different users' cursors is also displayed in Edit mode.
+Dokumente word gesinchroniseer soos u tik, sodat almal wat hierdie bladsy kyk, dieselfde teks sien.
+Dit stel almal in staat om aan dokumente saam te werk.
+Bydraes van verskillende gebruikers word in verskillende kleure onderstreep.
+As u die wyser oor inhoud beweeg, sal die naam (of gaste-identifiseerder) van die persoon wat dit geskryf het, vertoon,
+en die huidige ligging van verskillende gebruikers se kursors word ook in Wysig-modus vertoon.
 
-See <https://codimd.carpentries.org/features> for a full list of features available on CodiMD.
+Sien <https://codimd.carpentries.org/features> vir 'n volledige lys van funksies wat op CodiMD beskikbaar is.
 
-Use of this service is restricted to members of The Carpentries community;
-this is not for general purpose use (for that, try [HackMD](https://hackmd.io/)).
+Die gebruik van hierdie diens is beperk tot lede van The Carpentries -gemeenskap;
+dit is nie vir algemene gebruik nie (probeer daarvoor [HackMD] (https://hackmd.io/)).
 
-Users are expected to follow our [Code of Conduct](/policies/coc/index.md).
-All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
+Daar word van gebruikers verwag om ons [Gedragskode] (/policies/coc/index.md) te volg.
+Alle inhoud is in die openbaar beskikbaar onder die [Creative Commons Attribution License] (https://creativecommons.org/licenses/by/4.0/).
 
-## Document Access Levels & Accounts
+## Dokumenttoegangsvlakke en -rekeninge
 
-Account creation and login is not required to create and edit CodiMD documents.
+Rekeningskepping en aanmelding is nie nodig om CodimD-dokumente te skep en te wysig nie.
 
-To register an account on the platform:
+Om 'n rekening op die platform te registreer:
 
-1. [Visit the platform homepage](https://codimd.carpentries.org/) and
-   click the "Sign In" button near the top-right of the browser window.
-2. When the pop-up appears, prompting the user to enter an email address and password,
-   type in the email address and password you want to use for your account.
-3. Click the "Register" button.
+1. [Besoek die tuisblad van die platform] (https://codimd.carpentries.org/) en
+   klik op die knoppie “Meld aan” regs bo van die blaaiervenster.
+2. As die pop-up verskyn en die gebruiker vra om 'n e-posadres en wagwoord in te voer, tik
+   die e-posadres en wagwoord in wat u vir u rekening wil gebruik.
+3. Klik op die “Registreer” -knoppie.
 
-Account holders gain access to two features:
+Rekeninghouers kry toegang tot twee funksies:
 
-1. Ability to restrict access to documents the user owns:
-   in View mode the person who created a document can select from several options
-   to control who else is able to view and edit its content.
-   Look for a dropdown menu with blue icon and text
-   near top-left of a document's content to find these options.
-   Some of these access levels also allow editing and viewing rights
-   only to registered account holders.
-2. A history of documents created and visited by the user,
-   accessible via the History tab of the <https://codimd.carpentries.org/> landing page.
-   The documents listed in this history can be searched, sorted, filtered,
-   and organised into folders.
+1. Die vermoë om toegang tot dokumente te beperk wat die gebruiker besit:
+   in die besigmodus kan die persoon wat 'n dokument geskep het, kies uit verskeie opsies
+   om te beheer wie anders die inhoud daarvan kan sien en wysig.
+   Soek 'n aftreklys met blou ikoon en teks
+   links bo van die inhoud van 'n dokument om hierdie opsies te vind.
+   Sommige van hierdie toegangsvlakke laat ook redigering- en besigingsregte
+   slegs aan geregistreerde rekeninghouers toe.
+2. 'N Geskiedenis van dokumente wat deur die gebruiker geskep en besoek is,
+   toeganklik via die geskiedenis oortjie van die <https://codimd.carpentries.org/> -landing bladsy.
+   Die dokumente wat in hierdie geskiedenis gelys word, kan gesorteer, gefiltreer,
+   en in vouers georganiseer word.
 
-## Troubleshooting
+## Problemoplossing
 
-If you encounter issues with the CodiMD platform,
-please contact us at {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will help you troubleshoot.
+As jy probleme met die CodimD-platform ondervind,
+kontak ons asseblief by {{'[{}] (mailto:{}) '.format (team_email, team_email)}} en 'n spanlid sal jou help om probleme op te los.
 
-## See Also
+## Sien ook
 
-[Etherpad](/resources/communications/etherpads.md) is another collaborative note taking platform used by the community members.
+[Etherpad] (/resources/communications/etherpads.md) is nog 'n samewerkende nootnemingsplatform wat deur die gemeenskapslede gebruik word.
