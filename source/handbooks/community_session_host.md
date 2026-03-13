@@ -405,5 +405,9 @@ Yes. In Pretix, column headers (such as name or email) include arrows that allow
 The waiting list is automatically activated once registrations exceed the number of seats set during event setup. When a seat becomes available, the first person on the waiting list is notified and given the opportunity to register. If the host is willing to exceed the original seat limit, they may email community@carpentries.org
  with the names of individuals who attended but remain on the waiting list. We will then assist with manually checking them in for the event.
 
+ **What if an attendee did not register before the session started?**
+
+The Community Session Host should ask any attendees who have not yet registered on Pretix to please do so before the end of the session. Once they have completed their registration, the Host can check them in on Pretix. This ensures that attendance is recorded accurately while still allowing participants to take part in the session. 
+
 
 
