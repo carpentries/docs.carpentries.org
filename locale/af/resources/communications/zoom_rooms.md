@@ -1,99 +1,99 @@
-# Zoom Rooms
+# Zoom Kamers
 
-The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for The Carpentries events such as instructor trainings, discussion sessions, teaching demos, and committee meetings. The following information assumes you are using the [most recent version of the Zoom client](https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-).
+Die Carpentries bied drie Zoom-kamers vir openbare gemeenskapsgeleenthede.  Zoom-kamers is beskikbaar vir The Carpentries-geleenthede soos instrukteeropleidings, besprekingsessies, onderrigdemo's en komiteevergaderings. Die volgende inligting veronderstel dat u die [mees onlangse weergawe van die Zoom-kliënt] gebruik (https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-).
 
-## General Room Usage and Links
+## Algemene kamergebruik en skakels
 
-Rooms are generally used as follows. However, any room can be used for other purposes if it is available.
+Kamers word oor die algemeen soos volg gebruik. Enige kamer kan egter vir ander doeleindes gebruik word as dit beskikbaar is.
 
-- Room 1: Instructor Training
-- Room 2: Community events (teaching demos, discussion sessions, committee meetings, etc.)
-- Room 3: Other events as needed
+- Kamer 1: Instrukteur opleiding
+- Kamer 2: Gemeenskapsgeleenthede (onderrigdemo's, besprekingsessies, komiteevergaderings, ens.)
+- Kamer 3: Ander geleenthede soos nodig
 
-Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom.us/my/**room_name**`.
+Gebeure word geskeduleer vir elke kamer deur The Carpentries Core Team. Elke geleentheid sal 'n URL hê in die formaat `https://carpentries.zoom.us/my/**room_name **`.
 
-For Instructor Training events, this link will be shared with the Instructor Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  As required by Zoom, all rooms have a password.  The password is available to all participants via the event's etherpad, the calendar listing, or shared directly by the event host or organiser.
+Vir instrukteer-opleidingsgeleenthede sal hierdie skakel gedeel word met die Instruktoropleiders en leerlinge vir daardie geleentheid.  Vir gemeenskapsbesprekingsessies en onderrigdemo's sal die skakel op die relevante Etherpad wees en in die beskrywing van die geleentheid op ons gemeenskapskalender.  Soos deur Zoom vereis, het alle kamers 'n wagwoord.  Die wagwoord is beskikbaar vir alle deelnemers via die etherpad van die geleentheid, die kalenderlys, of direk deur die geleentheidsgasheer of organiseerder gedeel.
 
-## Information for event hosts
+## Inligting vir geleentheidsgasheers
 
-Please read below if you are teaching an Instructor Training workshop or hosting a Teaching Demo or Community Discussion.
+Lees asseblief hieronder as u 'n instrukteeropleidingswerkswinkel onderrig of 'n onderrigdemo of gemeenskapsbespreking aanbied.
 
-### Gaining Host Access
+### Verkryging van gasheertoegang
 
-If you are teaching an Instructor Training workshop, about a week before the event, you will receive an email with host credentials and other logistical information.
+As u 'n instruktoropleidingswerkswinkel onderrig, sal u ongeveer 'n week voor die geleentheid 'n e-pos ontvang met gasheerbewysings en ander logistieke inligting.
 
-If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event.
+As u 'n gemeenskapsbespreking of onderrigdemo aanbied, moes u aangemeld het om dit via Calendly te doen. Twee dae voor die geleentheid ontvang u 'n outomatiese e-pos van Calendly wat die gasheersleutel vir die geleentheid insluit.
 
-[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866)
+[Lees oor hoe om die gasheersleutel te gebruik om gasheertoegang te eis.] (https://support.zoom.us/hc/en-us/articles/115001315866)
 
-### Using a Waiting Room
+### Gebruik 'n wagkamer
 
-Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.  The host can then admit or deny people in the waiting room; send existing participants to the waiting room; and send messages to the waiting room.  Waiting room participants can not message the host.
+Sodra u gasheertoegang ingevoer het en geëis het, word dit aanbeveel dat u 'n wagkamer skep.  Dit stel u in staat om mense eksplisiet in te laat, eerder as om iemand eenvoudig in te laat kom.  Dit help om 'zoombombardement' of toegang van onwelkome gaste te voorkom.  Die gasheer kan dan mense in die wagkamer toelaat of ontken; bestaande deelnemers na die wagkamer stuur; en boodskappe na die wagkamer stuur.  Deelnemers in die wagkamer kan nie aan die gasheer boodskap gee nie.
 
-[Read about how to enable and use a waiting room as host.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
+[Lees oor hoe om 'n wagkamer as gasheer in te skakel en te gebruik.] (https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
 
-### Transferring host privileges or assigning a co-host
+### Die oordrag van gasheervoorregte of toewys van 'n mede-gasheer
 
-A host may transfer host privileges or assign a co-host. It is highly recommended that the host always assign 1-2 co-hosts. The co-hosts can be whoever is facilitating the session with you, or at your discretion, a trusted participant if you are leading a session alone. The co-hosts can help moderate the room, including making sure people are muted. This also ensures that if the host is accidentally bumped from the call, host access will go to a co-host. Otherwise, Zoom will assign host status to a random participant, making it potentially difficult to re-claim host access.
+'N Gasheer kan gasheervoorregte oordra of 'n mede-gasheer toeken. Dit word sterk aanbeveel dat die gasheer altyd 1-2 mede-gashere toeken. Die mede-gashere kan wees wie die sessie saam met u fasiliteer, of na goeddunke 'n betroubare deelnemer as u alleen 'n sessie lei. Die mede-gashere kan help om die kamer te modereer, insluitend om seker te maak dat mense gedemp is. Dit verseker ook dat as die gasheer per ongeluk van die oproep afgekom word, gasheertoegang na 'n mede-gasheer sal gaan. Andersins sal Zoom gasheerstatus aan 'n ewekansige deelnemer toeken, wat dit moontlik moeilik maak om gasheertoegang weer te eis.
 
-[Read about how to make a participant a co-host](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
+[Lees oor hoe om 'n deelnemer 'n mede-gasheer te maak] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
-The co-host has most but not all of the same privileges as host. [Read about the co-host's limitations](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
+Die mede-gasheer het die meeste, maar nie almal dieselfde voorregte as gasheer nie. [Lees oor die mede-gasheer se beperkings] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
 
-### Turning participants' audio on or off
+### Skakel deelnemers se klank aan of uit
 
-As host or co-host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
+As gasheer of mede-gasheer sal u deelnemers kan demp en ondemp.  Dit kan óf selektief gedoen word óf vir die kamer as geheel. Standaard kan deelnemers hulself ontdemp. Die gasheer kan ook kies om nie deelnemers toe te laat om hulself te ontdemp nie.
 
-[Read more about how to manage muting participants](https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
+[Lees meer oor hoe om demping deelnemers te bestuur] (https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
 
-### Creating Breakout Rooms
+### Die skep van uitbreekkamers
 
-Either the host or co-host can assign, start, and end breakout rooms.  They can also move between rooms and message all rooms.
+Óf die gasheer of mede-gasheer kan uitbreekkamers toeken, begin en beëindig.  Hulle kan ook tussen kamers beweeg en alle kamers boodskap.
 
-[Read more about how to create and manage breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  This includes setting options for rooms to be created automatically, manually (assigned by host), or allowing participants to choose their own rooms.
+[Lees meer oor hoe om uitbreekkamers te skep en te bestuur] (https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  Dit sluit in instellingsopsies vir kamers wat outomaties geskep moet word, handmatig (deur gasheer toegeken), of dat deelnemers hul eie kamers kan kies.
 
-### Non-verbal, real time feedback
+### Nie-verbale, intydse terugvoer
 
-Participants can offer non-verbal feedback during a call.  This may include using emojis to represent yes/no responses, a raised hand, and more.  Available reactions may depend on the user's platform.
+Deelnemers kan nie-verbale terugvoer tydens 'n oproep bied.  Dit kan die gebruik van emoji's insluit om ja/nee antwoorde voor te stel, 'n verhoogde hand en meer.  Beskikbare reaksies kan afhang van die gebruiker se platform.
 
-[Read more about how to manage non-verbal and real time feedback.](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
+[Lees meer oor hoe om nie-verbale en intydse terugvoer te bestuur.] (https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
-### Screen sharing
+### Skermdeling
 
-Screen sharing access is limited to hosts and co-hosts. They can choose to grant access to participants.
+Toegang tot skermdeling is beperk tot gashere en mede-gashere. Hulle kan kies om toegang aan deelnemers te verleen.
 
-[Read more about granting or denying participants ability to screen share](https://support.zoom.us/hc/en-us/articles/115005759423).
+[Lees meer oor die toekenning of ontkenning van deelnemers die vermoë om te verdeel] (https://support.zoom.us/hc/en-us/articles/115005759423).
 
-Screen sharing options include ability to share just one window or the entire desktop; to share sound; and more.  Some of these features may be limited by the user's operating system.
+Skermdelingsopsies sluit in die vermoë om net een venster of die hele lessenaar te deel; om klank te deel; en meer.  Sommige van hierdie funksies kan beperk word deur die gebruiker se bedryfstelsel.
 
-[Read more about managing screen sharing features](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
+[Lees meer oor die bestuur van skermdelfunksies] (https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
 
 ### Zoom chat
 
-During a meeting, users can send message to all other users or to individual participants.  Hosts can manage who participants can chat with or disable chat entirely.
+Tydens 'n vergadering kan gebruikers boodskap aan alle ander gebruikers of aan individuele deelnemers stuur.  Gashere kan bestuur met wie deelnemers kan gesels of die gesels heeltemal deaktiveer.
 
-[Read more about managing chat during a meeting](https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
+[Lees meer oor die bestuur van chat tydens 'n vergadering] (https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
-### Closed captioning
+### Geslote onderskrifte
 
-Zoom provides automatic captioning of calls.  Accuracy of captioning may be limited due to factors such sound quality, accents, dialects, and jargon.
+Zoom bied outomatiese onderskrifte van oproepe.  Akkuraatheid van onderskrifte kan beperk word as gevolg van faktore soos klankkwaliteit, aksente, dialekte en jargon.
 
-[Read about how to enable automatic captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
+[Lees oor hoe om outomatiese onderskrifte in te skakel] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
 
-The host can also assign a participant to type closed captions.
+Die gasheer kan ook 'n deelnemer toewys om geslote onderskrifte in te tik.
 
-[Read more about how to assign a participant to type closed captions](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
+[Lees meer oor hoe om 'n deelnemer toe te ken om geslote onderskrifte te tik] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
 
-### Ending a call
+### Beëindig 'n oproep
 
-When the room host clicks "End" a dialogue box appears with two  options: "Leave Meeting" and "End Meeting for All". Be careful not to end the meeting if you are leaving the room while the event is still active.
+Wanneer die kamergasheer op “Eindig” klik, verskyn 'n dialoogkassie met twee opsies: “Verlaat vergadering” en “Eindig vergadering vir almal”. Wees versigtig om nie die vergadering te beëindig as u die kamer verlaat terwyl die geleentheid nog aktief is nie.
 
-If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
+As die gasheer vertrek terwyl deelnemers nog in die kamer is, sal die gasheer gevra word om 'n nuwe gasheer aan te wys voordat hulle kan vertrek.
 
-### Participant view
+### Deelnemer-aansig
 
-Participants can manage their screen view to show a gallery view of all participants or only show the current speaker.  Views can also be set when screensharing.
+Deelnemers kan hul skermvertoning bestuur om 'n galeryaansig van alle deelnemers te wys of slegs die huidige spreker te wys.  Uitsigte kan ook ingestel word wanneer skermdeel word.
 
-[Read more about adjusting screen views during a meeting](https://support.zoom.us/hc/en-us/articles/201362323-Adjusting-screen-view-settings-during-a-virtual-meeting).
+[Lees meer oor die aanpassing van skermuitsigte tydens 'n vergadering] (https://support.zoom.us/hc/en-us/articles/201362323-Adjusting-screen-view-settings-during-a-virtual-meeting).
 
 
