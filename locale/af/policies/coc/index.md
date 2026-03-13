@@ -1,109 +1,109 @@
-# The Carpentries Code of Conduct
+# Die Gedragskode van Carpentries
 
-## Code of Conduct (Summary View)
+## Gedragskode (opsomming)
 
-Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view).
+Hieronder is 'n opsomming van die Carpentries -gedragskode. Lees verder vir 'n [meer gedetailleerde beskrywing van die CoC] (#code-of-conduct-detailed-view).
 
-For more information please review our:
+Vir meer inligting, sien asseblief ons:
 
-- [Incident Response Guidelines](incident-response.md)
-- [Incident Reporting Guidelines](incident-reporting.md)
-- [Incident Response Procedure](enforcement-guidelines.md)
-- [Termed Suspension Guidelines](termed-suspension.md)
+- [Riglyne vir voorvalle reaksie] (incident-response.md)
+- [Riglyne vir voorvalle verslagdoening] (incident-reporting.md)
+- [Prosedure vir voorvalle reaksie] (enforcement-guidelines.md)
+- [Genaamde opskorsingsriglyne] (termed-suspension.md)
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+Ons is toegewyd daaraan om 'n verwelkomende en ondersteunende omgewing vir alle mense te bied, ongeag agtergrond of identiteit. Deur deel te neem aan hierdie gemeenskap, aanvaar deelnemers om die Carpentries se gedragskode te voldoen en die prosedures te aanvaar waardeur enige gedragskode-voorvalle opgelos word. Enige vorm van gedrag om ongemak uit te sluit, te intimideer of te veroorsaak, is 'n oortreding van die gedragskode. Om 'n positiewe en professionele leeromgewing te bevorder, moedig ons die volgende soorte gedrag op alle platforms en geleenthede aan:
 
-- Use welcoming and inclusive language
-- Be respectful of different viewpoints and experiences
-- Gracefully accept constructive criticism
-- Focus on what is best for the community
-- Show courtesy and respect towards other community members
+- Gebruik verwelkomende en inklusiewe taal
+- Wees respekvol vir verskillende standpunte en ervarings
+- Aanvaar grasieus konstruktiewe kritiek
+- Fokus op wat die beste vir die gemeenskap is
+- Toon hoeflikheid en respek teenoor ander gemeenskapslede
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee by [completing this form][reporting-form], who will take the appropriate action to address the situation.
+As u glo dat iemand die gedragskode oortree, vra ons dat u dit aan The Carpentries Code of Conduct Committee rapporteer deur \[hierdie vorm in te vul] \[verslagvorm], wat die toepaslike stappe sal neem om die situasie aan te spreek.
 
-## Code of Conduct (Detailed View)
+## Gedragskode (gedetailleerde aansig)
 
-### Part 1. Introduction
+### Deel 1. Inleiding
 
-The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
+The Carpentries is 'n gemeenskapsgeleide projek. Ons waardeer die betrokkenheid van almal in die gemeenskap. Ons is daartoe verbind om 'n vriendelike en respekvolle plek te skep vir leer, onderrig en bydrae. Daar word van alle deelnemers aan ons geleenthede en kommunikasie verwag om respek en hoefheid teenoor ander te toon.
 
-To make clear what is expected, everyone participating in The Carpentries activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and social media (e.g., LinkedIn, Bluesky, Mastodon). Workshop hosts are expected to assist with the enforcement of the Code of Conduct.
+Om duidelik te maak wat verwag word, moet almal wat aan The Carpentries -aktiwiteite deelneem, aan die gedragskode voldoen. Hierdie gedragskode is van toepassing op alle ruimtes wat deur The Carpentries bestuur word, insluitend, maar nie beperk nie tot, werkswinkels, e-poslyste en aanlynforums soos GitHub, Slack en sosiale media (bv. LinkedIn, Bluesky, Mastodon). Daar word verwag om werkswinkelgashere te help met die handhawing van die gedragskode.
 
-The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org).
-All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
+Die Carpentries [Code of Gedragskomitee] (https://carpentries.org/coc-ctte/) is verantwoordelik vir die toepassing van die gedragskode. Dit kan gekontak word deur 'n e-pos aan [coc@carpentries.org] (mailto:coc@carpentries.org) te stuur.
+Alle verslae sal deur die Gedragskodekomitee hersien word en sal vertroulik gehou word.
 
-### Part 2. The Carpentries Code of Conduct
+### Deel 2. Die Gedragskode van Carpentries
 
-The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
+Die Carpentries is toegewyd aan die verskaffing van 'n verwelkomende en ondersteunende omgewing vir alle mense, ongeag agtergrond of identiteit. As sodanig verdra ons nie gedrag wat onrespekvol is vir ons onderwysers of leerders of wat ander uitsluit, intimideer of ongemak veroorsaak nie. Ons verdra nie diskriminasie of teistering gebaseer op eienskappe wat geslagsidentiteit en uitdrukking, seksuele oriëntasie, gestremdheid, liggaamsgrootte, burgerskap, nasionaliteit, etniese of sosiale oorsprong, swangerskap, familiestatus, veteraanstatus, genetiese inligting, godsdiens of geloof (of gebrek daaraan), lidmaatskap van 'n nasionale minderheid, eiendom, ouderdom, onderwys, sosio-ekonomiese status, tegniese keuses en ervaringsvlak nie.
 
-Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and social media (e.g., LinkedIn, Bluesky, Mastodon). Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which The Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
+Almal wat aan Carpentries -aktiwiteite deelneem, moet aan hierdie gedragskode voldoen. Dit is van toepassing op alle ruimtes wat deur The Carpentries bestuur word, insluitend, maar nie beperk nie tot, werkswinkels, e-poslyste en aanlynforums soos GitHub, Slack en sosiale media (bv. LinkedIn, Bluesky, Mastodon). Daar word verwag om werkswinkelgashere te help met die handhawing van die gedragskode. Deur deel te neem, dui deelnemers aan hul aanvaarding van die prosedures waardeur The Carpentries enige voorvalle van gedragskode oplos, wat die berging en verwerking van hul persoonlike inligting kan insluit.
 
-#### Part 2.1 Expected behaviour
+#### Deel 2.1 Verwagte gedrag
 
-All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+Daar word van alle deelnemers aan ons geleenthede en kommunikasie verwag om respek en hoefheid teenoor ander te toon. Alle interaksies moet professioneel wees, ongeag die platform: hetsy aanlyn of persoonlik. Om 'n positiewe en professionele leeromgewing te bevorder, moedig ons die volgende soorte gedrag aan in alle Carpentries -geleenthede en platforms:
 
-- Use welcoming and inclusive language
-- Be respectful of different viewpoints and experiences
-- Gracefully accept constructive criticism
-- Focus on what is best for the community
-- Show courtesy and respect towards other community members
+- Gebruik verwelkomende en inklusiewe taal
+- Wees respekvol vir verskillende standpunte en ervarings
+- Aanvaar grasieus konstruktiewe kritiek
+- Fokus op wat die beste vir die gemeenskap is
+- Toon hoeflikheid en respek teenoor ander gemeenskapslede
 
-Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
+Let wel: Sien die [vier sosiale reëls] (https://www.recurse.com/manual#sub-sec-social-rules) vir verdere aanbevelings.
 
-#### Part 2.2 Unacceptable behaviour
+#### Deel 2.2 Onaanvaarbare gedrag
 
-Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
+Voorbeelde van onaanvaarbare gedrag deur deelnemers aan enige Carpentries-geleentheid/platform sluit in:
 
-- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
-- causing someone to fear for their safety, such as through stalking, following, or intimidation
-- violent threats or language directed against another person
-- the display of sexual or violent images
-- unwelcome sexual attention
-- nonconsensual or unwelcome physical contact
-- sustained disruption of talks, events or communications
-- insults or put downs
-- sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
-- excessive swearing
-- incitement to violence, suicide, or self-harm
-- continuing to initiate interaction (including photography or recording) with someone after being asked to stop
-- publication of private communication without consent
+- skriftelike of mondelinge kommentaar wat die gevolg het dat mense uitsluit op grond van lidmaatskap van enige spesifieke groep
+- veroorsaak dat iemand vrees vir hul veiligheid, soos deur vervolging, gevolg of intimidasie
+- gewelddadige dreigemente of taal gerig teen 'n ander persoon
+- die vertoon van seksuele of gewelddadige beelde
+- onwelkome seksuele aandag
+- nie-konsensuele of onwelkome fisiese kontak
+- volgehoue ontwrigting van gesprekke, gebeure of kommunikasie
+- beledigings of neerdaal
+- seksistiese, rassistiese, homofobiese, transfobiese, ableïstiese of uitsluitende grappies
+- oormatige sweer
+- aansporing tot geweld, selfmoord of selfbeskadiging
+- voortgaan om interaksie (insluitend fotografie of opname) met iemand te begin nadat hy gevra is om te stop
+- publikasie van private kommunikasie sonder toestemming
 
-#### Part 2.3 Consequences of Unacceptable behaviour
+#### Deel 2.3 Gevolge van onaanvaarbare gedrag
 
-Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+Daar word verwag dat deelnemers wat gevra word om enige onvanpaste gedrag te stop, onmiddellik moet voldoen. Dit geld vir enige Carpentries-geleenthede en platforms, hetsy aanlyn of persoonlik. As 'n deelnemer betrokke raak by gedrag wat hierdie gedragskode oortree, kan die organiseerders die oortreder waarsku, hulle vra om die geleentheid of platform te verlaat (sonder terugbetaling), of die Carpentries Code of Gedragskomitee betrek om die oortreding van gedragskode te ondersoek en toepaslike sanksies op te stel.
 
-## Process Flow Diagram
+## Prosesvloeidiagram
 
-The diagram below illustrates the following steps in following a Code of Conduct report.
+Die diagram hieronder illustreer die volgende stappe om 'n gedragskode-verslag te volg.
 
-- First report -> assess if there is a CoC report and clear breach
-  - No report or breach -> respond with an explanation to the reporter
-  - Breach identified -> set up a first meeting with the CoCc (Read about Incident Response Group in CoCc Governance) to collectively identify specific issues and breaches
-- If a specific breach/issue was not identified -> reply to the reporter
-- If a specific breach/issue was identified -> email the reporter/reportee as explained in CoC report handling and enforcement process
-- If it was undecided that a breach/issue occurred -> hold a meeting with the reporter/reportee as explained in CoC report handling and enforcement process -> Hold a second meeting with the CoCc to identify consequence/next steps as explained in CoC report handling and enforcement process
+- Eerste verslag -> assesseer of daar 'n CoC-verslag en duidelike oortreding is
+  - Geen verslag of oortreding nie -> reageer met 'n verduideliking aan die verslaggewer
+  - Breeding geïdentifiseer -> stel 'n eerste vergadering met die CoCC op (Lees oor Incident Response Group in CoCC-bestuur) om gesamentlik spesifieke kwessies en oortredings te identifiseer
+- As 'n spesifieke oortred/probleem nie geïdentifiseer is nie -> antwoord aan die verslaggewer
+- As 'n spesifieke oortred/probleem geïdentifiseer is, stuur 'n e-pos aan die verslagter/verslaggewer soos verduidelik in die hantering en handhawingsproses van die CoC-verslag
+- As dit onbesluit was dat 'n oortred/probleem plaasgevind het -> hou 'n vergadering met die verslagter/verslaggewer soos verduidelik in die CoC-verslaghantering en handhawingsproses -> Hou 'n tweede vergadering met die CoCC om gevolge/volgende stappe te identifiseer soos verduidelik in die CoC-verslaghantering en handhawingsproses
 
-![Code of Conduct process diagram](images/coc_process_diagram.png)
+! [Prosesdiagram van gedragskode] (images/coc_process_diagram.png)
 
-## Update Logs
+## Dateer logboeke
 
-- 2023-01-11 Added the process flow diagram as provided by [Malvika Sharan in this issue](https://github.com/carpentries/docs.carpentries.org/issues/619)
+- 2023-01-11 Die prosesvloeidiagram bygevoeg soos verskaf deur [Malvika Sharan in hierdie uitgawe] (https://github.com/carpentries/docs.carpentries.org/issues/619)
 
-- 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Cranston (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Cranston, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020).
+- 2020-09-23 Die CoCC-bestuursdokument is by die handboek gevoeg. Hierdie dokument word goedgekeur deur die lede van die Gedragskode-komitee, die uitvoerende direkteur, Kari L. Jordan en uitvoerende komitee. Bydraers: opgestel deur Karin Lagesen, Malvika Sharan en Karen Cranston (2019) en breedvoerig hersien en opgedateer deur die komiteelede van die gedragskodekomitee: Karin Lagesen, Malvika Sharan, Karen Cranston, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau en Konrad Förstner (2019-2020).
 
-- 2019-07-17 The CoCc membership agreement document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Tracy Teal and trainers community. Contributors: drafted by Malvika Sharan (January 2019) and intensively reviewed and updated by the committee members Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman (February-April 2019).
+- 2019-07-17 Die CoCC-lidmaatskap-ooreenkomsdokument is by die handboek gevoeg. Hierdie dokument word goedgekeur deur die lede van die Gedragskode-komitee, die uitvoerende direkteur, Tracy Teal en opleiersgemeenskap. Bydraers: opgestel deur Malvika Sharan (Januarie 2019) en intensief hersien en opgedateer deur die komiteelede Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern en Simon Waldman (Februarie-April 2019).
 
-- 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, and expanded clauses for conflicts of interest. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+- 2019-02-28 Bygevoeg appèlproses, prosedure vir die opvolging van 'n verslaggewer, terminologie, CoC-invallreaksieprosedure, genoemde opskortingskontrollys en uitgebreide klousules vir konflik van belange. Bydraers: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern en Simon Waldman.
 
-- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+- 2018-09-11 Gedragskode hersien om eenvoudige voorbeelde van beide voordelige en ongewenste gedrag te verskaf. Sluit ook veranderinge in rakende evaluering van bedoeling. Bydraers: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern en Simon Waldman.
 
-- 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+- 2018-09-11 Riglyne vir verslagdoening hersien om alternatiewe kontakpunte in te sluit. Bydraers: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern en Simon Waldman.
 
-- 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
+- 2016-11-21 Gedragskode, verslagdoeningsriglyne en handleiding van toepassing vrygestel. Dokumente is aangepas uit riglyne geskryf deur die [Django-projek] (https://www.djangoproject.com/conduct/enforcement-manual/), wat self gebaseer was op die [Ada Initiative] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) sjabloon en die [PyCon 2013-prosedure vir die hantering van teisteringvoorvalle] (https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Bydraers: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
-## About this Document
+## Oor hierdie dokument
 
-This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to the the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))
-In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. In 2019, an appeal process, the procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, expanded clauses for conflicts of interest, and committee membership agreement were included. Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+Hierdie dokument is aangepas uit riglyne geskryf deur die [Django-projek] (https://www.djangoproject.com/conduct/enforcement-manual/), wat self gebaseer was op die [Ada Initiative] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) sjabloon en die [PyCon 2013-prosedure vir die hantering van teisteringvoorvalle] (https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Bydraers tot die aanvanklike dokument is Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman en Tracy Teal. Bykomende taal is bygevoeg deur [Otter Tech] (https://otter.technology) van die [PyCon U.S. 2018 Gedragskode] (https://us.pycon.org/2018/about/code-of-conduct/) ([gelisensieerde CC BY 3.0] (http://creativecommons.org/licenses/by/3.0/))
+In 2018 is die gedragskode hersien om 'n opsomming, eenvoudige voorbeelde van beide voordelige en ongewenste gedrag by te voeg en bedoeling te evalueer. Riglyne vir verslagdoening is ook hersien om alternatiewe kontakpunte in te sluit en 'n verslagvorm met die prosedure is bygevoeg. In 2019 is 'n appèlproses, die prosedure vir die opvolging van 'n verslaggewer, terminologie, CoC-insidentreaksieprosedure, genaamde opskortingskontrollys, uitgebreide klousules vir konflik van belange en komiteellidmaatskooreenkoms ingesluit. Bydraers van hierdie hersiene dokumente is Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern en Simon Waldman.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
