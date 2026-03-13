@@ -1,20 +1,20 @@
-# General Resources
+# Algemene hulpbronne
 
-## Tip sheets
+## Wenkblaaie
 
-[Carpentries Tip Sheets](tip-sheets.md)
+[Carpentries -wenkblaaie] (tip-sheets.md)
 
-## Committees and Task Forces
+## Komitees en taakmagte
 
-- [The Carpentries Committee Guidelines](committees.md)
-- [The Carpentries Task Force Guidelines](taskforce.md)
+- [Die Riglyne vir die Carpentries Commitee] (committees.md)
+- [Die Carpentries Task Force Riglyne] (taskforce.md)
 
-## Fundraising Resources
+## Fondsinsamelingsbronne
 
-- [Donation Request Resources](donation-request-resources.md)
-- [Collaborating with The Carpentries on Grants](collaborating-on-grants.md)
+- [Skenkingsversoekhulpbronne] (donation-request-resources.md)
+- [Samewerking met The Carpentries on Grants] (collaborating-on-grants.md)
 
-## CarpentryCon and CarpentryConnect Resources
+## CarpenTryCon- en CarpentryConnect-hulpbronne
 
-- [CarpentryCon website](https://carpentrycon.org/)
-- [CarpentryConnect Planning Toolkit](https://carpentryconnect.org/)
+- [CarpenTrycon webwerf] (https://carpentrycon.org/)
+- [CarpentryConnect-beplanningshulpstel] (https://carpentryconnect.org/)
