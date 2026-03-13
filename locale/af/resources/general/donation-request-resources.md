@@ -1,42 +1,42 @@
-# Donation Request Resources
+# Hulpbronne vir skenkingsversoek
 
-## Introduction
+## Inleiding
 
-The following resources were created to aid The Carpentries community in fundraising for the organisation.
+Die volgende hulpbronne is geskep om die Carpentries-gemeenskap te help met fondsinsameling vir die organisasie.
 
-## Donation Request Letter - Individual
+## Skenkingsversoekbrief - Individueel
 
-Email Subject Line: A Call to Action: Help The Carpentries with its Fundraising Efforts
+E-pos onderwerplyn: 'n Oproep tot aksie: Help The Carpentries met sy fondsinsamelingspogings
 
-Dear \[potential donor’s name\]
+Liewe\ [potensiële skenker se naam\]
 
-My name is \[your name\], and I am the \[position or role at your institution\]. I am also \[position or role\] with The Carpentries, an organisation whose mission is to build global capacity in essential data and computational skills. The Carpentries helps train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research.
+My naam is\ [jou naam\], en ek is die\ [pos of rol by jou instelling\]. Ek is ook\ [pos of rol\] by The Carpentries, 'n organisasie wie se missie is om wêreldwye kapasiteit in noodsaaklike data en berekeningsvaardighede op te bou. Die Carpentries help om 'n aktiewe, inklusiewe, uiteenlopende gemeenskap van leerders en instrukteurs op te lei en te bevorder wat die belangrikheid van sagteware en data in navorsing bevorder en modelleer.
 
-In February 2025 The Carpentries [transitioned out of fiscal sponsorship](https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/) to operate as an independent 501(c)(3) non-profit organisation, and is seeking donations from individuals who wish to support the sustainability of its independence to carry out its global mission. Independence empowers The Carpentries with greater autonomy, allowing it the flexibility to innovate, experiment, and respond swiftly to emerging trends and challenges in data science and education.
+In Februarie 2025 het The Carpentries [oorgegaan uit fiskale borgting] (https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/) om as 'n onafhanklike 501 (c) (3) nie-winsgewende organisasie te werk, en soek skenkings van individue wat die volhoubaarheid van sy onafhanklikheid wil ondersteun om sy wêreldwye missie uit te voer. Onafhanklikheid bemagtig The Carpentries met groter outonomie, wat dit die buigsaamheid toelaat om te innoveer, te eksperimenteer en vinnig te reageer op opkomende tendense en uitdagings in datawetenskap en -onderwys.
 
-**You can support the sustainability of our independence by donating any amount.**
+\*\* U kan die volhoubaarheid van ons onafhanklikheid ondersteun deur enige bedrag te skenk. \*\*
 
-The Carpentries supports more than 5,000 highly skilled Instructors in communities in over 100 countries across the world. We have experience training educators, researchers, librarians, and technologists. We are working to scale our Instructor Training and curriculum development programs to respond to the shift in the nature of education around the world. **Now more than ever we need you to champion our mission**. You can help us teach data skills to the communities that need them most by donating any amount you feel comfortable with.
+Die Carpentries ondersteun meer as 5 000 hoogs geskoolde instrukteurs in gemeenskappe in meer as 100 lande regoor die wêreld. Ons het ervaring op die opleiding van opvoeders, navorsers, bibliotekariste en tegnoloë. Ons werk daaraan om ons instrukteeropleiding en kurrikulumontwikkelingsprogramme te skaal om te reageer op die verskuiwing in die aard van onderwys regoor die wêreld. \*\* Nou het ons jou meer as ooit nodig om ons missie te beampteer\*\*. U kan ons help om datavaardighede te leer aan die gemeenskappe wat dit die meeste benodig deur enige bedrag te skenk waarmee u gemaklik voel.
 
-Donating even a small amount can make a big difference \- we value all contributions. Your donation will allow The Carpentries to scale as an independent tax-exempt non-profit organisation,and will help bring Carpentries programming to individuals who might otherwise have barriers to participation.
+Om selfs 'n klein bedrag te skenk, kan 'n groot verskil maak\ - ons waardeer alle bydraes. Jou skenking sal die Carpentries toelaat om as 'n onafhanklike belastingvrygestelde nie-winsgewende organisasie te skaal, en sal help om Carpentries-programmering te bring aan individue wat andersins hindernisse vir deelname kan hê.
 
-If you are interested in supporting The Carpentries’ mission of teaching data skills globally, {{"[please visit our Donate page]({})".format(donate_letter)}} to give any amount you are comfortable with.
+As jy belangstel om The Carpentries se missie om datavaardighede wêreldwyd te onderrig te ondersteun, {{"[besoek asseblief ons Donate bladsy] ({})” .format (donate_letter)}} om enige bedrag te gee waarmee jy gemaklik is.
 
-Thank you so much\!
+Baie dankie\!
 
-Sincerely,  
-\[Your name\]  
-\[Your role within The Carpentries\]
+Opregte,  
+\ [Jou naam\]  
+\ [Jou rol binne The Carpentries\]
 
-## Short Calls to Action/Mastodon Length Messages
+## Kort oproepe na aksie/Mastodon-lengteboodskappe
 
-- A Call To Action: Support The Carpentries <br />
-  Consider donating to The Carpentries to help us reach our annual fundraising goal! <br /> {{ donate_letter }}
+- 'N Oproep tot aksie: Ondersteun The Carpentries <br />
+  Oorweeg om te skenk aan The Carpentries om ons te help om ons jaarlikse fondsinsamelingsdoelwit te bereik! <br /> {{ donate_letter }}
 
-- “The Carpentries supports more than 4,200 highly skilled instructors in communities in 65 countries. Now more than ever, we need you to champion our mission.” - Dr. Kari L. Jordan <br />
-  Help us teach data skills to the communities that need them most.<br />
+- “Die Carpentries ondersteun meer as 4,200 hoogs geskoolde instrukteurs in gemeenskappe in 65 lande. Nou meer as ooit het ons jou nodig om ons missie te beampteer.” - Dr. Kari L. Jordan <br />
+  Help ons om datavaardighede te leer aan die gemeenskappe wat dit die meeste nodig het.<br />
   {{ donate_letter }}
 
-- Thank you to everyone who has donated to help The Carpentries achieve our mission! With your help, we are on track to reach our goal. Please consider donating to help us achieve our annual fundraising goal.<br />
+- Dankie aan almal wat geskenk het om The Carpentries te help om ons missie te bereik! Met jou hulp is ons op pad om ons doel te bereik. Oorweeg asseblief om skenking te help om ons jaarlikse fondsinsamelingsdoelwit te bereik.<br />
   {{ donate_letter }}
 
