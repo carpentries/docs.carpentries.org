@@ -1,17 +1,17 @@
-# Curriculum Resources
+# Kurrikulumbronne
 
-- [Carpentries Curriculum Structure](curriculum-structure.md): An overview of how lessons and curricula are organised in The Carpentries.
-- [Choosing a Narrative and Dataset for a Lesson](narrative-example-data.md): Advice for lesson developers when considering a narrative and example data to use in a new lesson.
-- [Curriculum Overview Pages](workshop-overview-lessons.md): Learn about how and why to create a lesson site as a "front page" to a curriculum that combines multiple lessons.
-- [The Life Cycle of Lessons](lesson-life-cycle.md): A description of the "life cycle" model we use to describe the maturity of lessons under development, and a list of resources and activities that can be helpful at each stage of the process.
-- [Forking a Lesson Repository](lesson-forks.md): Guidance on how to set up your own fork of a Carpentries Workbench lesson repository.
-- [GitHub Issue Labels](issue-labels.md): A list of the issue labels used in Carpentries lesson repository.
-- [Building on Somebody Else's Existing Branch](fetch-existing-branch.md): Guidance for how to start working on a branch that somebody else created (e.g. for an unfinished pull request).
-- [Releasing a Lesson](lesson-release.md): A description of how to prepare a lesson release and publish it to Zenodo.
-- [Lesson Development Roles](lesson-development-roles.md): Learn about the different roles that people can take up during the lesson development process, why they are important, and what resources are available to support them.
-- [Lesson Pilot Workshops](lesson-pilots.md): Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
-- [Lesson Sprint Recommendations](lesson-sprint-recommendations.md): A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
-- [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md): Guidance for developing materials that will help instructors prepare to teach your new lesson or curriculum.
-- [Lesson Programs](lesson-programs.md): Information about the role Lesson Programs take within The Carpentries, how these projects are hosted by the organisation, and the process a project can go through to join The Carpentries as a new Lesson Program.
-- [Lesson Program Policy](lesson-program-governance.md): Information about how The Carpentries Lesson Programs should be governed.
+- [Carpentries Curriculum Structure] (curriculum-structure.md): 'n Oorsig van hoe lesse en kurrikulums in The Carpentries georganiseer word.
+- [Die keuse van 'n narratief en datastel vir 'n les] (narrative-example-data.md): Advies vir lesontwikkelaars wanneer hulle 'n narratiewe en voorbeelddata oorweeg om in 'n nuwe les te gebruik.
+- [Kurrikulumoorsigbladsye] (workshop-overview-lessons.md): Lees meer oor hoe en hoekom u 'n leswebwerf as 'n 'voorblad' kan skep vir 'n kurrikulum wat verskeie lesse kombineer.
+- [Die lewensiklus van lesse] (lesson-life-cycle.md): 'n Beskrywing van die “lewensiklus” -model wat ons gebruik om die volwassenheid van lesse onder ontwikkeling te beskryf, en 'n lys van hulpbronne en aktiwiteite wat nuttig kan wees in elke stadium van die proses.
+- [Vort 'n lesbewaarplek] (lesson-forks.md): Leiding oor hoe om u eie vurk van 'n Carpentries Workbench lesbewaarplek op te stel.
+- [GitHub Issue Labels] (issue-labels.md): 'n Lys van die uitgaweetikette wat in Carpentries-lesbewaarplek gebruik word.
+- [Gebou op iemand anders se bestaande tak] (fetch-existing-branch.md): Leiding vir hoe om aan 'n tak te begin werk wat iemand anders geskep het (bv. vir 'n onvoltooide trekversoek).
+- [Vrystelling van 'n les] (lesson-release.md): 'n Beskrywing van hoe om 'n lesvrystelling voor te berei en dit aan Zenodo te publiseer.
+- [Lesontwikkelingsrolle] (lesson-development-roles.md): Leer meer oor die verskillende rolle wat mense tydens die lesontwikkelingsproses kan opneem, waarom dit belangrik is en watter hulpbronne beskikbaar is om hulle te ondersteun.
+- [Lespiloetwerkswinkels] (lesson-pilots.md): Inligting oor waarom en hoe ons nuwe lesse in werkswinkels toets, insluitend leiding en sjablone vir gashere en instrukteurs van vlieëderwerkswinkels om te gebruik.
+- [Lessprint-aanbevelings] (lesson-sprint-recommendations.md): 'n Versameling aanbevelings vir gemeenskapslede wat geleenthede wil organiseer wat toegewy is aan die ontwikkeling en verbetering van 'n les. Sluit lyste in van dinge wat u moet oorweeg om voor, tydens en na 'n ontwikkelingssprint te doen, en gereedskap en ander hulpbronne om die sukses daarvan te ondersteun.
+- [Kurrikulum Onboarding Materials] (/resources/curriculum/curriculum_onboarding.md): Leiding vir die ontwikkeling van materiaal wat instrukteurs sal help om voor te berei om jou nuwe les of kurrikulum te leer.
+- [Lesprogramme] (lesson-programs.md): Inligting oor die rol wat lesprogramme binne The Carpentries inneem, hoe hierdie projekte deur die organisasie aangebied word, en die proses wat 'n projek kan deurgaan om by The Carpentries as 'n nuwe lesprogram aan te sluit.
+- [Lesprogrambeleid] (lesson-program-governance.md): Inligting oor hoe The Carpentries Lesprogramme beheer moet word.
 
