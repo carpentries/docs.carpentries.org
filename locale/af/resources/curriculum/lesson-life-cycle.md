@@ -1,67 +1,67 @@
-# The Life Cycle of Lessons
+# Die lewensiklus van lesse
 
-**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training.
-Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
+\*\*'N Nota oor _instruktors_ en _instruktors_: \*\* in die meeste van hierdie handboek verwys ons na Instrukteurs, met hoofgrootte om aan te dui dat dit 'n gesertifiseerde rol binne die gemeenskap is, dit wil sê iemand wat Carpentries Instruktoropleiding voltooi het.
+Sommige van ons handboekinhoud oor kurrikulumontwikkeling verwys na instrukteurs (sonder hoofkapitaal), om te onderskei tussen diegene wat 'n werkswinkel onderrig, maar dalk nog nie gesertifiseerde instrukteurs is nie.
 
-The Carpentries community develops lessons as Open Source projects: lessons and their source files are typically available online from the earliest stages of development onwards.
-It can be helpful for visitors to a lesson -- instructors considering teaching it, potential contributors exploring its contents, etc -- and its developers themselves, to be able to quickly identify the development status of a lesson.
-Lesson development is an iterative process, with content and design always subject to evolution and improvement.
-For example, as feedback is received when a new lesson is taught, or in response to new features and other shifts in its subject matter.
-Over time, content typically becomes more complete, accurate, impactful, and stable, with changes -- especially major modifications such as reorganisation, or the addition/removal of whole sections -- becoming less frequent.
+Die Carpentries-gemeenskap ontwikkel lesse as Open Source projekte: lesse en hul bronlêers is gewoonlik aanlyn beskikbaar vanaf die vroegste stadiums van ontwikkeling.
+Dit kan nuttig wees vir besoekers aan 'n les - instrukteurs wat dit oorweeg om dit te onderrig, potensiële bydraers wat die inhoud daarvan ondersoek, ens. - en die ontwikkelaars daarvan self, om vinnig die ontwikkelingstatus van 'n les te kan identifiseer.
+Lesontwikkeling is 'n iteratiewe proses, met inhoud en ontwerp wat altyd onderhewig is aan evolusie en verbetering.
+Byvoorbeeld, aangesien terugvoer ontvang word wanneer 'n nuwe les geleer word, of in reaksie op nuwe funksies en ander verskuiwings in die onderwerp daarvan.
+Met verloop van tyd word inhoud gewoonlik meer volledig, akkuraat, impak en stabiel, met veranderinge - veral groot wysigings soos herorganisasie of die byvoeging/verwydering van hele afdelings - minder gereeld raak.
 
-The Carpentries labels the development status of lessons in a similar system to that used in software development: we categorise them according to their maturity/stability, ranging from _pre-alpha_ to _stable_.
+Die Carpentries benoem die ontwikkelingstatus van lesse in 'n soortgelyke stelsel as dié wat in sagteware-ontwikkeling gebruik word: ons kategoriseer hulle volgens hul volwassenheid/stabiliteit, wat wissel van _pre-alpha_ tot _stable_.
 
-![The Carpentries lesson life cycle model](../../img/life_cycle.svg)
+! [Die Carpentries-les lewensiklusmodel] (../../img/life_cycle.svg)
 
-- **_Pre-alpha:_** the lesson is in the initial stages of design and development.
-  The content of lessons in pre-alpha is likely to be incomplete and untested, and may undergo major changes at any time. This label is typically applied to a lesson until a first draft has been completed.
-- **_Alpha:_** the lesson is being piloted by its developers.
-  The content of lessons in alpha is likely to have been fully drafted, but some gaps, inconsistencies, and errors can be expected.
-  This label is typically applied to a lesson after its first draft has been completed, and before the first pilot workshops take place.
-- **_Beta:_** the lesson is ready to be piloted by other instructors.
-  The content of lessons in beta has been tested by (at least) its developers, and content has been adjusted based on that experience.
-  The content includes guidance for instructors on how to teach it effectively.
-  Further changes are likely, as feedback is incorporated from additional pilot workshops.
-  This label is typically applied to a lesson when its developers are confident that it is ready to be used in workshops by other instructors.
-- **_Stable:_**: the lesson has undergone extensive testing and major changes are not expected (without significant warning).
-  The content of stable lessons will still change from time to time, but the changes are usually small and do not heavily impact an instructor’s ability to teach it if they are familiar with an earlier (stable) version.
-  This label is typically applied to a lesson after feedback from beta pilot workshops has been incorporated.
+- **_Pre-alpha:_** die les is in die aanvanklike stadiums van ontwerp en ontwikkeling.
+  Die inhoud van lesse in pre-alfa sal waarskynlik onvolledig en ongetoets wees, en kan te eniger tyd groot veranderinge ondergaan. Hierdie etiket word gewoonlik op 'n les toegepas totdat 'n eerste konsep voltooi is.
+- **_Alpha: _** die les word deur sy ontwikkelaars bestuur.
+  Die inhoud van lesse in alfa is waarskynlik ten volle opgestel, maar sommige gapings, teenstrydighede en foute kan verwag word.
+  Hierdie etiket word gewoonlik toegepas op 'n les nadat die eerste konsep daarvan voltooi is, en voordat die eerste vlieënerwerkswinkels plaasvind.
+- **_Beta:_** die les is gereed om deur ander instrukteurs beheer te word.
+  Die inhoud van lesse in beta is getoets deur (ten minste) sy ontwikkelaars, en die inhoud is aangepas op grond van daardie ervaring.
+  Die inhoud bevat leiding vir instrukteurs oor hoe om dit effektief te leer.
+  Verdere veranderinge is waarskynlik, aangesien terugvoer opgeneem word uit addisionele vlieënier
+  Hierdie etiket word gewoonlik toegepas op 'n les wanneer die ontwikkelaars daarvan vol vertroue is dat dit gereed is om in werkswinkels deur ander instrukteurs gebruik te word.
+- **_Stable:_**: die les het uitgebreide toetsing ondergaan en groot veranderinge word nie verwag nie (sonder beduidende waarskuwing).
+  Die inhoud van stabiele lesse sal steeds van tyd tot tyd verander, maar die veranderinge is gewoonlik klein en beïnvloed nie 'n instrukteur se vermoë om dit te leer as hulle vertroud is met 'n vroeëre (stabiele) weergawe nie.
+  Hierdie etiket word gewoonlik toegepas op 'n les nadat terugvoer van beta-piloetwerkswinkels opgeneem is.
 
-The life cycle stage of a lesson is prominently displayed at the top of the page on lesson websites.
-It is also visible as a 'topic' on the GitHub repository of the lesson, beneath the _About_ box on the right-hand side of the repository homepage.
+Die lewensiklusstadium van 'n les word prominent aan die bokant van die bladsy op leswebwerwe vertoon.
+Dit is ook sigbaar as 'n 'onderwerp' op die GitHub-bewaarplek van die les, onder die _About_ blokkie aan die regterkant van die bewaarplek tuisblad.
 
-## How is the Life Cycle Stage Set?
+## Hoe word die lewensiklusstadium ingestel?
 
-The life cycle status of a lesson can be adjusted by modifying the `life_cycle` parameter in the lesson's `config.yaml` file, as well as the equivalent topic on the source GitHub repository.
+Die lewensiklusstatus van 'n les kan aangepas word deur die `life_cycle'-parameter in die les se `config.yaml\` -lêer te verander, sowel as die ekwivalente onderwerp op die bron GitHub-bewaarplek.
 
-## Who is Responsible for Choosing the Life Cycle Stage of a Lesson?
+## Wie is verantwoordelik vir die keuse van die lewensiklusstadium van 'n les?
 
-For community-owned lessons in The Carpentries Incubator, lesson developers are free to choose whichever label they feel is appropriate.
-Community-owned lessons in The Carpentries Lab have passed peer review and should be marked stable.
-The life cycle stage of lessons belonging to a Carpentries lesson program should be changed following consultation with the relevant Curriculum Advisory Committee and/or the Curriculum Team.
-Consultation is especially important before marking a lesson as beta or stable.
+Vir lesse wat in die gemeenskap besit word in The Carpentries Incubator, kan lesontwikkelaars vry kies watter etiket hulle geskik is.
+Lesse in die gemeenskap in The Carpentries Lab het ewekniebeoordeling geslaag en moet stabiel gemerk word.
+Die lewensiklusstadium van lesse wat aan 'n Carpentries-lesprogram behoort, moet verander word na konsultasie met die betrokke kurrikulumadvieskomitee en/of die kurrikulumspan.
+Konsultasie is veral belangrik voordat u 'n les as beta of stabiel merk word.
 
-## What Happens at Each Stage of the Life Cycle?
+## Wat gebeur in elke stadium van die lewensiklus?
 
-[Pilot workshops](lesson-pilots.md) are probably the most important events that take place before a lesson reaches stability.
-However, here are some other actions that lesson developers can take at different stages:
+[Vlieëderwerkswinkels] (lesson-pilots.md) is waarskynlik die belangrikste gebeurtenisse wat plaasvind voordat 'n les stabiliteit bereik.
+Hier is egter 'n paar ander aksies wat lesontwikkelaars in verskillende stadiums kan neem:
 
-- **Pre-alpha:**
-  - [Submit the lesson to The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/).
-  - Join [Collaborative Lesson Development Training](https://carpentries.org/lesson-development-training).
-  - Call for collaborators.
-  - If you intend the new lesson to join an existing Carpentries curriculum or lesson program, consult the relevant [Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) or [Lesson Program Governance Committee](https://carpentries.org/community/lesson_program_governors/) as early as possible.
-    These community governance groups can provide feedback on your plans and offer guidance on how to ensure successful integration of the new lesson.
-- **Alpha:**
-  - Run [alpha pilot workshops](lesson-pilots.md#alpha-and-beta-pilots) and iterate on the design and content of the lesson.
-  - Raise awareness of the lesson in The Carpentries community.
-- **Beta:**
-  - Find instructors who can teach the lesson in [beta pilot workshops](lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further.
-    Consider inviting those [beta pilot instructors](./lesson-development-roles.md#beta-pilot-instructors) to join the team developing/maintaining the lesson.
-  - [Publish the lesson to Zenodo and obtain a DOI](./lesson-release.md).
-  - [Submit the lesson for peer review in The Carpentries Lab](https://github.com/carpentries-lab/reviews/).
-- **Stable:**
-  - [Release the stable version to Zenodo](./lesson-release.md).
-    - You might like to repeat this process regularly, e.g. make annual releases.
+- \*\*Pre-alfa: \*\*
+  - [Dien die les in by The Carpentries Incubator] (https://github.com/carpentries-incubator/proposals/).
+  - Sluit aan by [Samewerkende Lesontwikkelingsopleiding] (https://carpentries.org/lesson-development-training).
+  - Bel vir medewerkers.
+  - As u die nuwe les van plan is om by 'n bestaande Carpentries-kurrikulum of lesprogram aan te sluit, raadpleeg die relevante [Kurrikulumadvieskomitee] (https://carpentries.org/curriculum-advisors/) of [Lesprogrambestuurskomitee] (https://carpentries.org/community/lesson_program_governors/) so vroeg as moontlik.
+    Hierdie gemeenskapsbestuursgroepe kan terugvoer gee oor u planne en leiding bied oor hoe om suksesvolle integrasie van die nuwe les te verseker.
+- \*\*Alfa: \*\*
+  - Voer [alpha pilot werkswinkels] (lesson-pilots.md#alpha-and-beta-pilots) uit en herhaal die ontwerp en inhoud van die les.
+  - Verhoog bewustheid van die les in The Carpentries -gemeenskap.
+- \*\*Beta: \*\*
+  - Soek instrukteurs wat die les kan leer in [beta pilot werkswinkels] (lesson-pilots.md#alpha-and-beta-pilots), en versamel terugvoer van hulle om die les verder te verbeter.
+    Oorweeg dit om daardie [beta-vlieënige instrukteurs] (./lesson-development-roles.md#beta-pilot-instructors) te nooi om by die span aan te sluit wat die les ontwikkel/handhaaf.
+  - [Publiseer die les aan Zenodo en verkry 'n DOI] (./lesson-release.md).
+  - [Dien die les in vir ewekniebeoordeling in The Carpentries Lab] (https://github.com/carpentries-lab/reviews/).
+- \*\* Stabiel: \*\*
+  - [Laat die stabiele weergawe vry na Zenodo] (./lesson-release.md).
+    - U wil hierdie proses gereeld herhaal, bv. jaarlikse vrystellings maak.
 
-![The Carpentries lesson life cycle model annotated to show more details of what can happen at each stage of the process](../../img/life_cycle_annotated.svg)
+! [Die Carpentries-leslewensiklusmodel geannoteer om meer besonderhede te wys oor wat in elke stadium van die proses kan gebeur] (../../img/life_cycle_annotated.svg)
