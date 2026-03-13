@@ -1,67 +1,67 @@
-# Membership Agreement for the Code of Conduct (CoC) Committee
+# Lidmaatskapsooreenkoms vir die komitee vir gedragskode (CoC)
 
-This document describes the responsibilities that the members of the Code of Conduct committee (CoCc) must agree to meet in order to fulfill the requirements of their roles on the committee.
+Hierdie dokument beskryf die verantwoordelikhede waaraan die lede van die gedragskomitee (CoCC) moet saamstem om aan te voldoen om aan die vereistes van hul rolle in die komitee te voldoen.
 
-> _The committee is what turns a code of conduct from a written document into meaningful action._  
+> _Die komitee is wat 'n gedragskode van 'n geskrewe dokument in betekenisvolle optrede verander._  
 > Valerie Aurora, FrameShift Consulting
 
-## Core Membership Agreement:
+## Kernlidmaatskapsooreenkoms:
 
-The main purpose of the CoCc is to: establish, maintain and uphold the Code of Conduct; educate members of the community of policies and behaviors that can help create a more inclusive and welcoming environment; and protect all members from harm in community spaces.
+Die hoofdoel van die CoCC is om: die gedragskode te vestig, te handhaaf en te handhaaf; lede van die gemeenskap op te voed van beleide en gedrag wat kan help om 'n meer inklusiewe en verwelkomende omgewing te skep; en alle lede teen skade in gemeenskapsruimtes te beskerm.
 
-In order to uphold the CoC, the CoCc members will:
+Om die CoC te handhaaf, sal die CoCC-lede:
 
-- support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures.
-- learn about the [Code of Conduct](/policies/coc/index.md) and [reporting guidelines](/policies/coc/incident-reporting.md), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.
-- understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](/policies/coc/enforcement-guidelines.md) put in place for the relevant community spaces.
-- actively help develop and maintain existing and new documents to facilitate the work of the [Code of Conduct Committee](/policies/coc/index.md).
-- avoid _conflicts of interest_ [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC.
-- maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee.
-- not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so.
-- hold themselves accountable for their responsibilities as trustees and understand that they are expected to follow through on their commitments.
-- respect and promote diversity, equity, and inclusion in the community and act in the best interests of the Carpentries community impartially, putting aside any individual affiliations such as organizations or other Carpentries committees, and personal biases.
+- ondersteun die doelwitte en missie van The Carpentries deur na te kom aan sy CoC en ander beleide en prosedures.
+- leer oor die [Gedragskode] (/policies/coc/index.md) en [verslagriglyne] (/policies/coc/incident-reporting.md), en as voorstanders van die CoC, bring bewustheid daarvan in enige gemeenskapsruimtes waarvan hulle deel is.
+- verstaan en gemaklik wees om op CoC-verwante verslae op te tree volgens die [handhawingsriglyne] (/policies/coc/enforcement-guidelines.md) wat vir die relevante gemeenskapsruimtes ingestel is.
+- help aktief om bestaande en nuwe dokumente te ontwikkel en in stand te hou om die werk van die [Code of Gedragskomitee] (/policies/coc/index.md) te vergemaklik.
+- vermy\*konflik van belange [1] wanneer CoC-verwante verslae verwerk word. Versuim om 'n konflik van belange te verklaar kan as 'n oortreding van die CoC beskou word.
+- handhaaf die vertroulikheid van enige gerapporteerde voorvalle, die identiteit van betrokke persone en besprekings wat binne die komitee plaasvind.
+- Moenie kommentaar maak oor enige aangeleenthede waarvan hulle ingelig is as deel van hul pligte as 'n CoCC-lid tensy gemagtig is om dit te doen nie.
+- hou hulself verantwoordelik vir hul verantwoordelikhede as trustes en verstaan dat hulle verwag word om hul verpligtinge te volg.
+- respekteer en bevorder diversiteit, gelykheid en insluiting in die gemeenskap en tree onpartydig in die beste belang van die Carpentries-gemeenskap op, en sit enige individuele affiliasies soos organisasies of ander Carpentries-komitees en persoonlike vooroordele opsy.
 
-## Further Roles and Responsibilities:
+## Verdere rolle en verantwoordelikhede
 
-In addition to the core membership agreement, CoCc members will be required to:
+Benewens die kernlidmaatskapsooreenkoms, sal CoCC-lede vereis word om:
 
-- support the committee chair and the designated Core Team liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them.
-- attend in the order of 75% of all _CoCc Business meetings_ [2]. In these meetings, CoCc members will actively engage in discussion, voting and contributing in a constructive way, listening carefully, challenging sensitively and avoiding conflict.
-- promptly respond to emails, or, if they realize they will be out of touch for a while, inform the committee chair.
-- participate in any training that is organized to support the work of the committee, and to responsibly use any technical solutions that the CoCc is asked to use in order to maintain the security and privacy of personal information conveyed to the committee.
+- ondersteun die komitee voorsitter en die aangewese kernspan-skakeling in kollektiewe besluitneming. Om dit te kan doen, sal hulle ten volle voorberei vir vergaderings, wat sal insluit om verslae en verwante dokumente noukeurig te lees, navraag te doen oor enigiets wat hulle nie verstaan nie, oor kwessies voor vergaderings nadink en die voltooiing van enige take wat aan hulle toegewys is.
+- woon in die volgorde van 75% van alle_COCC besigheidsvergaderings_ [2] by. In hierdie vergaderings sal CoCC-lede aktief betrokke raak by bespreking, stem en bydra op 'n konstruktiewe manier, noukeurig luister, sensitief uitdaag en konflik vermy.
+- Reageer dadelik op e-posse, of, as hulle besef dat hulle 'n rukkie buite kontak sal wees, moet u die voorsitter van die komitee in kennis.
+- neem deel aan enige opleiding wat georganiseer word om die werk van die komitee te ondersteun, en om verantwoordelik te gebruik enige tegniese oplossings wat die CoCC gevra word om te gebruik om die veiligheid en privaatheid van persoonlike inligting wat aan die komitee oorgedra word, te handhaaf.
 
-### [1] Note on _Conflicts of Interest_:
+### [1] Opmerking ooreen_Konflikte van Belange_:
 
-A conflict of interest is a situation where a member of the CoCc could be perceived to not act in the interest of the Carpentries and the members of the community. Such situations can, for instance, occur when the members have close ties with one of the parties in a CoC incident (e.g. family relationships, close friendships, business ties, or even personal considerations). Such conflicts of interest may make it difficult to fulfill their duties impartially.
+'N Botsing van belange is 'n situasie waar 'n lid van die CoCC beskou kan word dat dit nie in die belang van die Carpentries en die lede van die gemeenskap optree nie. Sulke situasies kan byvoorbeeld voorkom wanneer die lede noue bande met een van die partye in 'n CoC-voorval het (bv. gesinsverhoudings, noue vriendskappe, sakebande of selfs persoonlike oorwegings). Sulke konflik van belange kan dit moeilik maak om hul pligte onpartydig te vervul.
 
-If any member of the committee happens to face a conflict of interest while handling a case, they are  expected to:
+As enige lid van die komitee toevallig 'n konflik van belange in die gesig staar tydens die hantering van 'n saak, word van hulle verwag om:
 
-- inform the chair of the CoCc and/or the full committee of the conflict of interest,
-- not be involved in the case, and if required, temporarily leave their position as a CoCc member to avoid any bias.
+- stel die voorsitter van die CoCC en/of die volledige komitee in kennis van die konflik van belange,
+- nie by die saak betrokke wees nie, en verlaat, indien nodig, hul posisie as 'n CoCC-lid tydelik om enige vooroordeel te vermy.
 
-### [2] Note on the _CoCc Meetings_:
+### [2] Opmerking oor die _COCC-vergaderings_:
 
-The committee conducts two types of meetings:
+Die komitee voer twee soorte vergaderings uit:
 
-- **Business meetings**: these are meetings where we discuss the status of current documents, issues brought to us by the community and other CoC related matters.
-- **Incident report related meetings**: in these meetings those that have volunteered to decide the course of action for a reported incident meet and discuss the situation. To decide on an issue, a minimum of 3 members must participate, thus not all members need to participate in every case.
+- **Besigheidsvergaderings**: dit is vergaderings waar ons die status van huidige dokumente bespreek, kwessies wat deur die gemeenskap aan ons gebring word en ander CoC-verwante aangeleenthede.
+- **Voorvalverslagverwante vergaderings**: in hierdie vergaderings vergader diegene wat vrywillig aangebied het om die manier van aksie vir 'n gerapporteerde voorval te besluit en die situasie te bespreek. Om oor 'n kwessie te besluit, moet 'n minimum van 3 lede deelneem, dus hoef nie alle lede aan elke geval deel te neem nie.
 
-### Onboarding of new committee members:
+### Ontsluiting van nuwe komiteelede:
 
-New committee members will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and The Carpentries Executive Council.
+Nuwe komiteelede sal eers by komiteesprekings ingesluit word nadat hulle aan die aanlynvereistes voldoen het wat deur die CoCC en die Uitvoerende Raad van die Carpentries gespesifiseer is.
 
-### Leaving the Committee:
+### Verlaat die komitee:
 
-- If a CoCc member wishes to leave the committee at any time, they will inform the Committee chair in advance (giving enough notice to hand-over their responsibility) in writing, stating their reasons for leaving.
-- Breach of any part of the CoC by any CoCc member may result in a fair procedure being put in motion that may result in them being asked to resign from the CoCc. Should this happen they will be given the opportunity to be heard. In the event they are asked to resign from the committee, they will accept the majority decision of the committee in this matter and resign at the earliest opportunity.
+- Indien 'n CoCC-lid te eniger tyd die komitee wil verlaat, sal hulle die voorsitter van die komitee vooraf (genoeg kennisgewing gee om hul verantwoordelikheid oor te dra) skriftelik in kennis en hul redes vir vertrek uiteengesit.
+- Die oortreding van enige deel van die CoC deur enige CoCC-lid kan daartoe lei dat 'n regverdige prosedure in die gang gebring word wat daartoe lei dat hulle gevra word om uit die CoCC te bedank. As dit gebeur, sal hulle die geleentheid kry om gehoor te word. As hulle gevra word om uit die komitee te bedank, sal hulle die meerderheidsbesluit van die komitee in hierdie saak aanvaar en by die vroegste geleentheid bedank.
 
-## Relevant information:
+## Relevante inligting:
 
-- CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)
-- [Code of Conduct Handbook Documentation](/policies/coc/index.md)
+- CoC komitee: [https://carpentries.org/coc-ctte] (https://carpentries.org/coc-ctte/)
+- [Handboekdokumentasie van gedragskode] (/policies/coc/index.md)
 
-## References:
+## Verwysings:
 
-- This document is largely based on “[The Code of Good Governance, DIY Committee Guide](http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now
-- [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora and Mary Gardiner, 2018
+- Hierdie dokument is grootliks gebaseer op “[The Code of Goeie Regering, DIY Committee Guide] (http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now
+- [Hoe om te reageer op gedragskodeverslae] (https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora en Mary Gardiner, 2018
 
