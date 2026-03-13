@@ -1,8 +1,8 @@
-# Carpentries Resources
+# Carpentries Hulpbronne
 
-- [General Resources](/resources/general/index.md)
-- [Communications Resources](/resources/communications/index.md)
-- [Curriculum Resources](/resources/curriculum/index.md)
-- [Instructor Training Resources](/resources/instructor-training/index.md)
-- [Workshop Resources](/resources/workshops/index.md)
-- [Tip sheets](/resources/general/tip-sheets.md)
+- [Algemene hulpbronne] (/resources/general/index.md)
+- [Kommunikasiehulpbronne] (/resources/communications/index.md)
+- [Kurrikulumbronne] (/resources/curriculum/index.md)
+- [Instrukteur opleidingshulpbronne] (/resources/instructor-training/index.md)
+- [Werkswinkel Hulpbronne] (/resources/workshops/index.md)
+- [Wenkblaaie] (/resources/general/tip-sheets.md)
