@@ -1,19 +1,19 @@
-# Curriculum Structure
+# Kurrikulumstruktuur
 
-The Carpentries contains multiple _Lesson Programs_ (Data Carpentry, Library Carpentry, Software Carpentry). Each _Lesson Program_ contains at least one _curriculum_. A curriculum is composed of one or more _lessons_.
-Lessons are built from a series of _episodes_.
+Die Carpentries bevat verskeie _Lesprogramme_ (Data-timmerwerk, biblioteektimmerwerk, sagteware-timmerwerk). Elke _Lesprogram_ bevat ten minste een _kurrikulum_. 'N Kurrikulum bestaan uit een of meer _leses_.
+Lesse is gebou uit 'n reeks _episodes_.
 
-More detailed definitions of these terms are available in the {{'[Community Glossary of Terms]({})'.format(glossary)}}.
+Meer gedetailleerde definisies van hierdie terme is beskikbaar in die {{'[Gemeenskapswoordelys van terme] ({}) '.format (woordelys)}}.
 
-![The structure of curricula in The Carpentries](img/curriculum-structure.png "schematic showing that a lesson program includes one or more curricula, which each include one or more lessons, which each include one or more episodes.")
+! [Die struktuur van kurrikulums in The Carpentries] (img/curriculum-structure.png “skema wat wys dat 'n lesprogram een of meer kurrikulums insluit, wat elk een of meer lesse insluit, wat elk een of meer episodes insluit.”)
 
-The table below provides some examples of lessons and episodes that exist within each of our lesson programs.
+Die tabel hieronder verskaf 'n paar voorbeelde van lesse en episodes wat binne elk van ons lesprogramme bestaan.
 
-| Lesson Program     | Curriculum | Lesson                                           | Episode                           |
-| :----------------- | :--------- | :----------------------------------------------- | :-------------------------------- |
-| Data Carpentry     | Ecology    | Data Organization in Spreadsheets for Ecologists | Exporting data                    |
-|                    | Genomics   | Data Wrangling and Processing for Genomics       | Assessing Read Quality            |
-| Library Carpentry  | N/A        | Open Refine                                      | Faceting and filtering            |
-|                    | N/A        | The Unix Shell                                   | Automating the tedious with loops |
-| Software Carpentry | N/A        | Plotting and Programming in Python               | Writing Functions                 |
-|                    | N/A        | R para Análisis Científicos Reproducibles        | Guardando datos                   |
+| Lesprogram            | Kurrikulum | Les                                         | hoofstuk                             |
+| :-------------------- | :--------- | :------------------------------------------ | :----------------------------------- |
+| Data-timmerwerk       | Ekologie   | Data-organisasie in sigblaaie vir ekoloë    | Uitvoer van data                     |
+|                       | Genomika   | Data-stryd en -verwerking vir genomika      | Beoordeling van leeskwaliteit        |
+| Biblioteek Timmerwerk | N/A        | Maak verfyn oop                             | Fasetering en filter                 |
+|                       | N/A        | Die Unix Shell                              | Outomatiseer die vervelige met lusse |
+| Sagteware Timmerwerk  | N/A        | Plotting en programmering in Python         | Skryffunksies                        |
+|                       | N/A        | R vir reproduseerbare wetenskaplike analise | Swaard data                          |
