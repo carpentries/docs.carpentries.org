@@ -1,87 +1,87 @@
-# Lesson Development Roles
+# Lesontwikkelingsrolle
 
-**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training.
-Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
-You may also notice the same distinction between _Maintainers_, who have completed Maintainer Onboarding and take care of an official Carpentries lesson, and _maintainers_, who look after community lessons.
+\*\*'N Nota oor _instruktors_ en _instruktors_: \*\* in die meeste van hierdie handboek verwys ons na Instrukteurs, met hoofgrootte om aan te dui dat dit 'n gesertifiseerde rol binne die gemeenskap is, dit wil sê iemand wat Carpentries Instruktoropleiding voltooi het.
+Sommige van ons handboekinhoud oor kurrikulumontwikkeling verwys na instrukteurs (sonder hoofkapitaal), om te onderskei tussen diegene wat 'n werkswinkel onderrig, maar dalk nog nie gesertifiseerde instrukteurs is nie.
+U kan ook dieselfde onderskeid sien tussen _Maintainers_, wat Maintainer Onboarding voltooi het en sorg vir 'n amptelike Carpentries-les, en _onderhouders_, wat na gemeenskapslesse omsien.
 
-Creation of a new lesson or curriculum is a collaborative process, usually involving many community members taking up different roles. It is also [an iterative process](./lesson-life-cycle.md), meaning that a lesson can always be considered as under development to some extent.
+Die skepping van 'n nuwe les of kurrikulum is 'n samewerkingsproses, wat gewoonlik baie gemeenskapslede betrek wat verskillende rolle inneem. Dit is ook ['n iteratiewe proses] (./lesson-life-cycle.md), wat beteken dat 'n les altyd tot 'n mate as onder ontwikkeling beskou kan word.
 
-This page describes the different roles people can take in the design, development, testing, and maintenance of a new lesson or curriculum.
+Hierdie bladsy beskryf die verskillende rolle wat mense kan inneem in die ontwerp, ontwikkeling, toetsing en instandhouding van 'n nuwe les of kurrikulum.
 
-- [Lesson Developers](#lesson-developers)
-- [Pilot Workshop Instructors](#pilot-workshop-instructors)
-  - [Alpha Pilot Instructors](#alpha-pilot-instructors)
-  - [Beta Pilot Instructors](#beta-pilot-instructors)
-- [Maintainers](#maintainers)
-- [Reviewers](#reviewers)
+- [Lesontwikkelaars] (#lesson-developers)
+- [Vlieënierwerkswinkelinstrukteurs] (#pilot-workshop-instructors)
+  - [Alpha Pilot Instruksieurs] (#alpha-pilot-instructors)
+  - [Beta Pilot Instruksieurs] (#beta-pilot-instructors)
+- [Onderhouders] (#maintainers)
+- [Resensende] (#reviewers)
 
-## Lesson Developers
+## Lesontwikkelaars
 
-A lesson may have one or several initial developers. Developers draft the lesson content, figures, and code and create appropriate challenge problems. The team of developers should have among them both appropriate domain experience -- working in the same field as the intended audience for the materials -- and programmatic experience –- regularly using the tools for which they are developing lessons in their own work. From a technical standpoint, lesson developers will also need to be familiar with the infrastructure that we use for developing and hosting The Carpentries lessons: primarily git, GitHub, and Markdown and/or R Markdown. If you’re not comfortable with any or all of these tools, some of the resources listed below can be used to learn and practice with them.
+'N Les kan een of verskeie aanvanklike ontwikkelaars hê. Ontwikkelaars stel die lesinhoud, syfers en kode op en skep toepaslike uitdagingsprobleme. Die span ontwikkelaars moet onder hulle beide toepaslike domeinervaring hê - werk op dieselfde veld as die beoogde gehoor vir die materiaal - en programmatiese ervaring - gereeld met behulp van die gereedskap waarvoor hulle lesse in hul eie werk ontwikkel. Vanuit 'n tegniese oogpunt sal lesontwikkelaars ook vertroud moet wees met die infrastruktuur wat ons gebruik vir die ontwikkeling en aanbied van The Carpentries-lesse: hoofsaaklik git, GitHub en Markdown en/of R Markdown. As u nie gemaklik is met enige of al hierdie gereedskap nie, kan sommige van die hulpbronne hieronder gebruik word om daarmee te leer en te oefen.
 
-Drafting a lesson is only one part of the development process: new lessons need to be thoroughly tested in [_pilot workshops_](lesson-pilots), adjusted in response to feedback, then updated and maintained in the longer term. [This life cycle of a lesson is discussed in more detail elsewhere in this handbook](lesson-life-cycle.md).
+Die opstel van 'n les is slegs een deel van die ontwikkelingsproses: nuwe lesse moet deeglik getoets word in [_pilot workshops_] (lesson-pilots), aangepas word in reaksie op terugvoer, dan op die langer termyn opgedateer en onderhou word. [Hierdie lewensiklus van 'n les word elders in hierdie handboek in meer besonderhede bespreek] (lesson-life-cycle.md).
 
-### Resources for Lesson Developers
+### Hulpbronne vir lesontwikkelaars
 
-- Our [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) teaches principles and good practices in curriculum design and development, and collaboration skills to help the lesson development team work together effectively. It also introduces the fundamentals of creating accessible lesson content with The Carpentries Workbench -- the tools we use to build lesson websites from source files in a GitHub repository.
-- [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/) provides more comprehensive documentation of the lesson infrastructure.
-- [A Primer on Markdown and GitHub](https://carpentries.github.io/lesson-development-training/instructor/markdown-github-primer.html) links out to two resources teaching the fundamentals of two tools central to lesson development in The Carpentries.
+- Ons [Samewerkende Lesontwikkelingsopleiding] (https://carpentries.github.io/lesson-development-training/) leer beginsels en goeie praktyke in kurrikulumontwerp en -ontwikkeling, en samewerkingsvaardighede om die lesontwikkelingspan te help om effektief saam te werk. Dit stel ook die grondbeginsels bekend van die skep van toeganklike lesinhoud met The Carpentries Workbench - die gereedskap wat ons gebruik om leswebwerwe uit bronlêers in 'n GitHub-bewaarplek te bou.
+- [Inleiding tot The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/) bied meer omvattende dokumentasie van die lesinfrastruktuur.
+- [A Primer on Markdown en GitHub] (https://carpentries.github.io/lesson-development-training/instructor/markdown-github-primer.html) skakel uit na twee hulpbronne wat die grondbeginsels van twee instrumente wat sentraal is vir lesontwikkeling in The Carpentries.
 
-## Pilot Workshop Instructors
+## Pilot Workshop Instrukteurs
 
-Our lessons are primarily intended to be taught in workshops, and their design and content should be tested out in that setting. Feedback should be collected during the workshop and incorporated into the lesson. We refer to the events where a new lesson is tested as _pilot workshops_.
-[The Lesson Pilot Workshops section of this handbook](lesson-pilots) provides more information about these events, including templates and guidance on event logistics.
+Ons lesse is hoofsaaklik bedoel om in werkswinkels aangebied te word, en hul ontwerp en inhoud moet in daardie omgewing getoets word. Terugvoer moet tydens die werkswinkel versamel word en in die les opgeneem word. Ons verwys na die gebeure waar 'n nuwe les getoets word as _pilot workshops_.
+[Die afdeling LessPilot Workshops van hierdie handboek] (lesson-pilots) verskaf meer inligting oor hierdie geleenthede, insluitend sjablone en leiding oor geleentheidlogistiek.
 
-### Alpha Pilot Instructors
+### Alpha Pilot Instrukteurs
 
-It is common – but not essential – that the instructors for the first pilot of a new lesson will be the original lesson developers. We refer to these events as _alpha pilots_ and they present a great opportunity to gather information and get early feedback to inform the further development of the content. In addition to collecting feedback from learners, alpha pilot instructors should take extensive notes during the event. We recommend that pilot instructors meet as soon as possible after the workshop, or at the end of each teaching session, to debrief their experience and prepare a list of action points for lesson developers to address to improve the lesson.
+Dit is algemeen - maar nie noodsaaklik nie - dat die instrukteurs vir die eerste vlieënier van 'n nuwe les die oorspronklike lesontwikkelaars sal wees. Ons verwys na hierdie gebeure as _alfa-pilots_ en dit bied 'n goeie geleentheid om inligting in te samel en vroeë terugvoer te kry om die verdere ontwikkeling van die inhoud in te lig. Benewens die versameling van terugvoer van leerders, moet alfa-vlieënier-instrukteurs uitgebreide aantekeninge neem tydens die Ons beveel aan dat vlieënie-instrukteurs so gou as moontlik na die werkswinkel, of aan die einde van elke onderrigsessie, vergader om hul ervaring te beskryf en 'n lys van aksiepunte voor te berei vir lesontwikkelaars om aan te spreek om die les te verbeter.
 
-### Beta Pilot Instructors
+### Beta Pilot Instrukteurs
 
-If the new lesson is being considered for adoption into The Carpentries official curriculum, instructors for these beta pilot workshops should be certified Carpentries Instructors who have previously taught at least two Carpentries workshops. Instructors with this level of experience will be more prepared to troubleshoot issues that arise during the workshop, and more likely to provide useful feedback after the workshop. Certified Instructors are not required for beta pilots of lessons that will not become official Carpentries curriculum.
+As die nuwe les oorweeg word vir aanneming in die amptelike kurrikulum van The Carpentries, moet instrukteurs vir hierdie beta-vlieëderwerkswinkels gesertifiseerde Carpentries-instrukteurs wees wat voorheen ten minste twee Carpentries-werkswinkels onderrig het. Instrukteurs met hierdie vlak van ervaring sal meer voorbereid wees om probleme wat tydens die werkswinkel ontstaan, op te los, en meer geneig om nuttige terugvoer na die werkswinkel te lewer. Gesertifiseerde instrukteurs word nie nodig vir beta-vlieëniers van lesse wat nie amptelike Carpentries-kurrikulum sal word nie.
 
-Beta pilot instructors may be Maintainers, Curriculum Advisors, or any Carpentries community member other than the original lesson developers. In fact, recruiting beta pilot instructors who are already playing active roles in the lesson is likely to be fruitful, as these people are invested in bringing the lesson to maturity. For two beta pilot workshops, you will need at least four instructors. Lesson authors should plan to meet virtually with pilot instructors before the workshop to answer questions and provide any technical help with setup.
+Beta-vlieën-instrukteurs kan Onderhouders, Kurrikulumadviseurs of enige lid van Carpentries -gemeenskap wees, behalwe die oorspronklike lesontwikkelaars. Trouens, die werwing van beta-vlieënie-instrukteurs wat reeds aktiewe rolle in die les speel, sal waarskynlik vrugbaar wees, aangesien hierdie mense belê word om die les tot volwassenheid te bring. Vir twee beta-vlieënige werkswinkels benodig u ten minste vier instrukteurs. Lesouteurs moet beplan om voor die werkswinkel feitlik met vlieënie-instrukteurs te ontmoet om vrae te beantwoord en tegniese hulp met die opstelling te bied.
 
-### Resources for Pilot Workshop Instructors
+### Hulpbronne vir Pilot Workshop Instructors
 
-- [The Lesson Pilot Workshops section of this handbook](lesson-pilots) includes more information about the purpose of lesson pilots, guidance for lesson developers and hosts, templates for communications and feedback surveys, etc.
-- The [Preparing to Teach](https://carpentries.github.io/lesson-development-training/preparing.html) episode of Collaborative Lesson Development Training provides guidance for lesson developers planning alpha pilots for a new lesson.
+- [Die afdeling LessPilot Workshops van hierdie handboek] (lesson-pilots) bevat meer inligting oor die doel van lesvlieëniers, leiding vir lesontwikkelaars en gashere, sjablone vir kommunikasie- en terugvoeropnames, ens.
+- Die [Preparing to Teach] (https://carpentries.github.io/lesson-development-training/preparing.html) episode van Samewerkende lesontwikkelingsopleiding bied leiding vir lesontwikkelaars wat alfa-vlieëniers vir 'n nuwe les beplan.
 
-## Maintainers
+## Onderhouders
 
-Lesson maintainers are essential for the long-term viability of a lesson. As a lesson is taught, instructors and learners identify potential places for improvement - whether correcting a typo, simplifying code, or suggesting a significant shift in the narrative of a lesson. Maintainers proactively monitor their lesson’s GitHub repository to make sure that issues and suggestions for improvement are addressed in a timely manner. Maintainers also play a vital role in communicating with contributors, ensuring that our community lives up to its ideals in welcoming and appreciating contributions from everyone - from first-time contributors to long-time members of The Carpentries community.
-People acting as maintainers should be experienced with the tools that are taught in the lesson, ideally using it daily or weekly in their own work. In addition, they should have experience working in a relevant domain related to the lesson, and/or experience working with GitHub and the other technologies we use to create and host our lessons. Each lesson should have at least two maintainers, and it is beneficial for those maintainers to have a diversity of experience levels with the domain and technical aspects of the lesson – and the tools for maintenance.
+Lesonderhouers is noodsaaklik vir die langtermynlewensvatbaarheid van 'n les. Soos 'n les geleer word, identifiseer instrukteurs en leerders potensiële plekke vir verbetering - of dit nou 'n tikfoute regstel, kode vereenvoudig of 'n beduidende verskuiwing in die verhaal van 'n les voorstel. Onderhouders monitor proaktief hul les se GitHub-bewaarplek om seker te maak dat probleme en voorstelle vir verbetering betyds aangespreek word. Onderhouders speel ook 'n belangrike rol in kommunikasie met bydraers, wat verseker dat ons gemeenskap voldoen aan sy ideale om bydraes van almal te verwelkom en waardeer - van eerstebydraers tot jarelange lede van The Carpentries -gemeenskap.
+Mense wat as onderhouers optree, moet ervare word met die gereedskap wat in die les geleer word, en ideaal gebruik dit daagliks of weekliks in hul eie werk. Daarbenewens moet hulle ervaring hê om in 'n relevante domein wat verband hou met die les, en/of ervaring met die werk met GitHub en die ander tegnologieë wat ons gebruik om ons lesse te skep en aan te bied. Elke les moet ten minste twee onderhouders hê, en dit is voordelig vir daardie onderhouders om 'n verskeidenheid ervaringsvlakke te hê met die domein en tegniese aspekte van die les - en die gereedskap vir instandhouding.
 
-### Resources for Maintainers
+### Hulpbronne vir onderhouders
 
-- The [Maintainers Handbook](../../handbooks/maintainers.md) includes guidance on communications, lesson repository management, and other aspects of the role.
-- The [Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/) contains the information we provide to Maintainers for official Carpentries lessons when they begin the role.
-- [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/) provides more comprehensive documentation of the lesson infrastructure: the tools we use to build lesson websites from source files in a GitHub repository.
+- Die [Maintainers Handbook] (../../handbooks/maintainers.md) bevat leiding oor kommunikasie, lesbewaarbestuur en ander aspekte van die rol.
+- Die [Maintainer Onboarding -kurrikulum] (https://carpentries.github.io/maintainer-onboarding/) bevat die inligting wat ons aan Ontainers verskaf vir amptelike Carpentries-lesse wanneer hulle met die rol begin.
+- [Inleiding tot The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/) bied meer omvattende dokumentasie van die lesinfrastruktuur: die gereedskap wat ons gebruik om leswebwerwe uit bronlêers in 'n GitHub-bewaarplek te bou.
 
-## Curriculum Advisors
+## Kurrikulumadviseurs
 
-(Although Curriculum Advisors can be very helpful for the development of any new lesson/curriculum, they are only required for official Carpentries curriculum.)
+(Alhoewel kurrikulumadviseurs baie nuttig kan wees vir die ontwikkeling van enige nuwe les/kurrikulum, word dit slegs nodig vir amptelike Carpentries -kurrikulum.)
 
-While lesson developers and maintainers handle the day-to-day improvement and upkeep of lessons, Curriculum Advisors provide higher level guidance on the direction of that development. Curriculum Advisors should be experts in the domain of the lesson, and aware of the way the skills it teaches are (or need to be) applied in that domain. Curriculum Advisors take responsibility for guiding the development of a whole [curriculum](./curriculum-structure.md): where that curriculum consists of multiple lessons, Curriculum Advisors should consider how it needs to develop as a whole – and how changes in one lesson might impact the others.
+Terwyl lesontwikkelaars en onderhouders die daaglikse verbetering en instandhouding van lesse hanteer, bied kurrikulumadviseurs leiding op hoër vlak oor die rigting van daardie ontwikkeling. Kurrikulumadviseurs moet kundiges in die domein van die les wees en bewus wees van die manier waarop die vaardighede wat dit leer, op daardie domein toegepas word (of moet) word. Kurrikulumadviseurs neem verantwoordelikheid om die ontwikkeling van 'n hele [kurrikulum] te lei (./curriculum-structure.md): waar die kurrikulum uit verskeie lesse bestaan, moet kurrikulumadviseurs oorweeg hoe dit as 'n geheel moet ontwikkel - en hoe veranderinge in een les die ander kan beïnvloed.
 
-If a new lesson is intended to be incorporated into an existing curriculum, the lesson developers should consult the existing Curriculum Advisory Committee about their plans as early in the development process as possible. For example, lesson developers might share an overview of the planned design and content of the lesson before investing a lot of time in creating material. This early consultation allows Curriculum Advisors to comment on the planned lesson, evaluate how easily it will fit into the existing curriculum, and consider the impact it may have on other lessons therein.
+As 'n nuwe les bedoel is om in 'n bestaande kurrikulum opgeneem te word, moet die lesontwikkelaars so vroeg as moontlik in die ontwikkelingsproses die bestaande kurrikulumadvieskomitee oor hul planne raadpleeg. Lesontwikkelaars kan byvoorbeeld 'n oorsig van die beplande ontwerp en inhoud van die les deel voordat hulle baie tyd belê in die skep van materiaal. Hierdie vroeë konsultasie stel kurrikulumadviseurs in staat om kommentaar te lewer oor die beplande les, evalueer hoe maklik dit in die bestaande kurrikulum sal pas, en oorweeg die impak wat dit op ander lesse daarin kan hê.
 
-### Resources for Curriculum Advisors
+### Hulpbronne vir kurrikulumadvise
 
-The [Curriculum Advisors Handbook](/handbooks/curriculum_advisors.md) includes more information on the role, the logistics of how Curriculum Advisory Committees are run, etc.
+Die [Curriculum Advisors Handbook] (/handbooks/curriculum_advisors.md) bevat meer inligting oor die rol, die logistiek van hoe kurrikulumadvieskomitees bestuur word, ens.
 
-## Reviewers
+## Beoordelaars
 
-Feedback is essential to the development of an effective lesson. The primary goal of [pilot workshops](lesson-pilots.md) is to provide feedback that developers can use to improve the design and content of their new lesson. In this regard, instructors at pilot workshops can be considered important reviewers, especially those who conduct and provide feedback from beta pilots. Nevertheless, it can be beneficial to invite additional feedback from reviewers. Reviewers should focus their assessment of a lesson on its utility as an accessible learning and teaching resource, its suitability for its stated target audience, and the accuracy of its content.
-Lesson developers can find reviewers through their own networks, or by communicating with the wider community to call for volunteers. Reviewers might provide feedback and suggest improvements directly, in the form of issues and pull requests on the lesson repository, or via email/discussion. The Carpentries also hosts a platform for structured, open peer review of lessons by the community.
+Terugvoer is noodsaaklik vir die ontwikkeling van 'n effektiewe les. Die primêre doel van [piloetwerkswinkels] (lesson-pilots.md) is om terugvoer te verskaf wat ontwikkelaars kan gebruik om die ontwerp en inhoud van hul nuwe les te verbeter. In hierdie verband kan instrukteurs by vlieënierswerkswinkels as belangrike beoordelaars beskou word, veral diegene wat terugvoer van beta-vlieëniers doen en lewer. Nietemin kan dit voordelig wees om addisionele terugvoer van beoordelaars uit te nooi. Beoordelaars moet hul beoordeling van 'n les fokus op die nut daarvan as 'n toeganklike leer- en onderrigbron, die geskiktheid daarvan vir die verklaarde teikengehoor en die akkuraatheid van die inhoud daarvan.
+Lesontwikkelaars kan beoordelaars vind via hul eie netwerke, of deur met die breër gemeenskap te kommunikeer om vrywilligers te roep. Beoordelaars kan terugvoer lewer en verbeterings direk voorstel, in die vorm van kwessies en versoeke na die lesbewaarplek of via e-pos/bespreking trek. Die Carpentries bied ook 'n platform aan vir gestruktureerde, oop ewekniebeoordeling van lesse deur die gemeenskap.
 
-### Open Peer Review of Lessons in The Carpentries Lab
+### Open ewekniebeoordeling van lesse in The Carpentries Lab
 
-[The Carpentries Lab](https://carpentries-lab.org/) hosts community-owned lessons that have passed peer review, and provides a platform for the process of peer review to take place.
-Reviews exist as publicly-visible issue discussions on [the Lab Reviews repository](https://github.com/carpentries-lab/reviews/). Members of The Carpentries community volunteer as Reviewers and Editors for the Lab.
+[Die Carpentries Lab] (https://carpentries-lab.org/) bied lesse in gemeenskap aan wat ewekniebeoordeling geslaag het, en bied 'n platform vir die proses van ewekniebeoordeling wat plaasvind.
+Resensies bestaan as openbaar sigbare kwessiesprekings op [die Lab Reviews bewaarplek] (https://github.com/carpentries-lab/reviews/). Lede van die Carpentries-gemeenskap vrywillig as beoordelaars en redakteurs vir die laboratorium.
 
-### Resources for Reviewers
+### Hulpbronne vir beoordelaars
 
-- Documentation on the Carpentries Lab Reviews repository provides [more information about the peer review process](https://github.com/carpentries-lab/reviews?tab=readme-ov-file#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab), and [the guidance provided to Reviewers](https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md).
-- The Carpentries [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) provides guidance on best practices in lesson design and content development, which can be used to inform lesson reviews.
+- Dokumentasie oor die Carpentries Lab Reviews bewaarplek verskaf [meer inligting oor die ewekniebeoordelingsproses] (https://github.com/carpentries-lab/reviews?tab=readme-ov-file#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab), en [die leiding aan beoordelaars] (https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md).
+- Die Carpentries [Collaborative LessDevelopment Training] (https://carpentries.github.io/lesson-development-training/) bied leiding oor beste praktyke in lesontwerp en inhoudontwikkeling, wat gebruik kan word om lesresensies in te lig.
 
