@@ -1,10 +1,10 @@
-# Carpentries Handbooks
+# Carpentries Handboeke
 
-- [Board of Directors](board_of_directors.md)
-- [Community Session Hosts](community_session_host.md)
-- [Curriculum Advisors](curriculum_advisors.md)
-- [Instructors](instructors.md)
-- [Instructor Trainers](instructor_trainers.md)
-- [Lesson Developers](lesson_developers.md)
-- [Lesson Program Governors](lesson_program_governors.md)
-- [Maintainers](maintainers.md)
+- [Raad van Direkteure] (board_of_directors.md)
+- [Gemeenskapsessie-gasheers] (community_session_host.md)
+- [Kurrikulumadviseurs] (curriculum_advisors.md)
+- [Instrukteurs] (instructors.md)
+- [Instrukteur Opleiers] (instructor_trainers.md)
+- [Lesontwikkelaars] (lesson_developers.md)
+- [Lesprogramgoewerneurs] (lesson_program_governors.md)
+- [Onderhouders] (maintainers.md)
