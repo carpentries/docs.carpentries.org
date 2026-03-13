@@ -1,311 +1,311 @@
-# Selecting Tags for your Carpentries Blog
+# Kies etikette vir jou Carpentries Blog
 
-When writing or collaborating on a blog post for [The Carpentries blog](https://carpentries.org/blog/), please select from the list outlined in this document.
+As u skryf of saamwerk op 'n blogpos vir [The Carpentries blog] (https://carpentries.org/blog/), kies asseblief uit die lys wat in hierdie dokument uiteengesit word.
 
-Each of the blog tags has a definition to help you select which tags are relevant to your post.
+Elkeen van die blogetikette het 'n definisie om u te help om te kies watter etikette relevant is vir u pos.
 
-If in doubt over what tags to attach to your post, email {{'[{}](mailto:{})'.format(community_email, community_email)}} and we will help you pick one.
+As u twyfel oor watter etikette aan u pos moet heg, stuur 'n e-pos aan {{'[{}] (mailto:{}) '.format (community_email, community_email)}} en ons sal jou help om een te kies.
 
-Additionally, if you feel there is a tag that fits your post, that is not in the list below, please reach out to us.
+Daarbenewens, as u voel dat daar 'n etiket is wat by u pos pas, wat nie in die lys hieronder is nie, kontak ons asseblief.
 
 <hr>
 
-## Blog post tags
+## Bloggpos etikette
 
-### Accessibility
+### Toeganklikheid
 
-For blog posts related to The Carpentries' work on accessibility and accessbility support, including but not limited to program/process design and implementation that offers multiple avenues for access and participation.
+Vir blogplasings wat verband hou met The Carpentries se werk aan toeganklikheid en toeganklikheidsondersteuning, insluitend maar nie beperk nie tot program/prosesontwerp en -implementering wat verskeie weë bied vir toegang en deelname nie.
 
-### Africa
+### Afrika
 
-For blog posts related to Carpentries' work in Africa.
+Vir blogplasings wat verband hou met Carpentries se werk in Afrika.
 
-### AMY
+### MY
 
-For blog posts related to updates on AMY, the community data management software of The Carpentries.
+Vir blogplasings wat verband hou met opdaterings oor AMY, die gemeenskapsdatabestuursagteware van The Carpentries.
 
-### Artificial Intelligence
+### Kunsmatige intelligensie
 
-For blog posts about artificial intelligence (AI) and its tools, including but not limited to large language models (LLMs).
+Vir blogplasings oor kunsmatige intelligensie (AI) en sy gereedskap, insluitend maar nie beperk tot groot taalmodelle (LLM's) nie.
 
-### Assessment
+### assessering
 
-Efforts to analyse and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
+Pogings om terugvoer van The Carpentries te ontleed en te evalueer, werk soos dit verband hou met werkswinkels, instruktoropleiding en ander bedrywighede.
 
-### Australasia
+### Australasië
 
-For blog posts related to Carpentries' work in Australasia.
+Vir blogplasings wat verband hou met Carpentries se werk in Australasië.
 
-### Board of Directors
+### Raad van Direkteure
 
-For blog posts about updates and announcements from The Carpentries Board of Directors, the highest governing body of The Carpentries non-profit organisation.
+Vir blogplasings oor opdaterings en aankondigings van The Carpentries Board of Directors, die hoogste beheerliggaam van The Carpentries nie-winsgewende organisasie.
 
-### Books
+### Boeke
 
-For use in blog posts about published books directly about or written by members of The Carpentries community.
+Vir gebruik in blogplasings oor gepubliseerde boeke direk oor of geskryf deur lede van The Carpentries -gemeenskap.
 
-### Carpentries Core Team (previously, "Carpentries Team")
+### Carpentries Core Team (voorheen “Carpentries Team”)
 
-For blog posts related to hiring and other activities of The Carpentries Core Team.
+Vir blogplasings wat verband hou met huur en ander aktiwiteite van The Carpentries Core Team.
 
 ### Carpentries Lab
 
-Describing announcements related to the [Carpentries Lab](https://carpentries-lab.org). The Carpentries Lab is a place for high-quality, stable lessons. It provides a space and processes for open peer review of lessons, and hosts a collection of reviewed lessons for members of The Carpentries community to teach in their own workshops.
+Beskrywing van aankondigings wat verband hou met die [Carpentries Lab] (https://carpentries-lab.org). Die Carpentries Lab is 'n plek vir stabiele lesse van hoë gehalte. Dit bied 'n ruimte en prosesse vir oop ewekniebeoordeling van lesse, en bied 'n versameling hersiene lesse aan vir lede van The Carpentries-gemeenskap om in hul eie werkswinkels te leer.
 
-### Carpentries Workbench
+### Carpentries werkbank
 
-For blog posts on The Carpentries' lesson infrastructure, The Carpentries Workbench.
+Vir blogplasings oor The Carpentries se lesinfrastruktuur, The Carpentries Workbench.
 
-### CarpentryCon
+### CarpenTrycon
 
-For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
+Vir blogplasings wat verband hou met CarpentryCon, die Carpentries tweejaarlikse konferensie.
 
 ### CarpentryConnect
 
-For blog posts related to CarpentryConnect events, local and regional events led by community members.
+Vir blogplasings wat verband hou met CarpentryConnect-geleenthede, plaaslike en streeksgeleenthede gelei deur gemeenskapslede.
 
 ### CLDT
 
-For blog posts about The Carpentries' Collaborative Lesson Development Training program.
+Vir blogplasings oor die Carpentries se samewerkende lesontwikkelingsopleidingsprogram.
 
-### Code of Conduct
+### Gedragskode
 
-Policy agreement that guides how we interact with each other and the greater community.
+Beleidsooreenkoms wat lei hoe ons met mekaar en die groter gemeenskap kommunikeer.
 
-### Communications
+### Kommunikasie
 
-For blog posts related to the communications activities and strategies of The Carpentries.
+Vir blogplasings wat verband hou met die kommunikasiektiwiteite en strategieë van The Carpentries.
 
-### Community
+### Gemeenskap
 
-For blog posts related to activities of the broader Carpentries community.
+Vir blogplasings wat verband hou met aktiwiteite van die breër Carpentries-gemeenskap.
 
-### Community Discussions
+### Gemeenskapsbesprekings
 
-For blog posts related to Community Discussions, including Pre- and Post-Workshop Discussions, Themed Discussion Sessions, and Carpentries Conversations.
+Vir blogplasings wat verband hou met gemeenskapsbesprekings, insluitend besprekings voor- en na-werkswinkel, tema-besprekingsessies en Carpentries-gesprekke.
 
-### Core Values
+### Kernwaardes
 
-For blog posts that elucidate, advance, and/or advocate for [The Carpentries core values](https://carpentries.org/about-us/#our-values).
+Vir blogplasings wat toelig, vorder en/of pleit vir [The Carpentries kernwaardes] (https://carpentries.org/about-us/#our-values).
 
-### Curriculum
+### Kurrikulum
 
-Related to lessons included in The Carpentries official lesson stack, or The Carpentries Incubator or Lab.
+Verwant aan lesse wat ingesluit is in The Carpentries amptelike lesstapel, of The Carpentries Incubator of Lab.
 
-### Curriculum Development
+### Kurrikulumontwikkeling
 
-Related to creation of new lessons or significant updates of existing lessons.
+Verwant aan die skepping van nuwe lesse of beduidende opdaterings van bestaande lesse.
 
-### Data Carpentry
+### Data-timmerwerk
 
-For posts related to the Data Carpentry lesson program of The Carpentries.
+Vir plasings wat verband hou met die Data Carpentries lesprogram van The Carpentries.
 
-### Equity and Inclusion
+### Ekwiteit en insluiting
 
-Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
+Hulpbronne en inligting rakende ons billikheid, insluiting en toeganklikheidspadkaart. Ons doel is om 'n diverse gemeenskap van instrukteurs en leerders te lok, te behou en te bevorder en 'n omgewing van insluiting te bevorder.
 
-### Events
+### Gebeurtenisse
 
-Related to Carpentries sponsored or related events. Examples include CarpentryConnects, online symposiums and more.
+Verwant aan Carpentries geborgde of verwante geleenthede. Voorbeelde sluit CarpentryConnects, aanlyn simposiums en meer in.
 
-### Feedback
+### Terugvoer
 
-Comments on experience from Instructors, hosts, Members, and other community members.
+Kommentaar op ervaring van instrukteurs, gashere, lede en ander gemeenskapslede.
 
 ### Git
 
-For blog posts highlighting teaching recommendations on Git, or the use of Git in our activities, including references to GitHub.
+Vir blogplasings wat onderrigaanbevelings oor Git beklemtoon, of die gebruik van Git in ons aktiwiteite, insluitend verwysings na GitHub.
 
 ### Glosario
 
-For blog posts related to [Glosorio](https://glosario.carpentries.org/), The Carpentries' multilingual glossary of data science terms.
+Vir blogplasings wat verband hou met [Glosorio] (https://glosario.carpentries.org/), The Carpentries se meertalige woordelys van datawetenskaplike terme.
 
-### Governance
+### Bestuur
 
-For blog posts related to organisational governance, including board leadership, policy development, and decisions impacting the organisation.
+Vir blogplasings wat verband hou met organisatoriese bestuur, insluitend raadsleierskap, beleidsontwikkeling en besluite wat die organisasie beïnvloed.
 
-### Grants
+### Toelaes
 
-Announcements for grants funding Carpentries activities.
+Aankondigings vir toekennings wat Carpentries aktiwiteite befonds
 
-### Green Stickies
+### Groen stokkies
 
-Blog posts related to positive feedback from the community or for the community.
+Blogplasings wat verband hou met positiewe terugvoer van die gemeenskap of vir die gemeenskap.
 
-### Gratitudes
+### Gelukkigheid
 
-For blog posts to show appreciation for the activities or members of the community.
+Vir blogplasings om waardering vir die aktiwiteite of lede van die gemeenskap te toon.
 
-### HPC Carpentry
+### HPC Timmerwerk
 
-For posts related to the HPC Carpentry lesson program of The Carpentries.
+Vir poste wat verband hou met die HPC Carpentries lesprogram van The Carpentries.
 
-### Incubator
+### Broeikas
 
-Describing announcements related to the [Carpentries Incubator](https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
+Beskrywing van aankondigings wat verband hou met die [Carpentries Incubator] (https://carpentries-incubator.org/). Die Carpentries Incubator is 'n plek vir samewerkende ontwikkeling van nuwe lesse. Dit bied 'n ruimte vir The Carpentries -gemeenskap om lesse te skep, te toets en te verbeter, ondersteun deur stelsels, prosesse en opleiding om samewerking te bevorder en beter lesontwerp te bevorder.
 
-### Infrastructure
+### Infrastruktuur
 
-Blog posts related to technology we use to support our operations (e.g. AMY, Helpscout, etc).
+Blogplasings wat verband hou met tegnologie wat ons gebruik om ons bedrywighede te ondersteun (bv. AMY, Helpscout, ens.).
 
-### Instructor Development
+### Instrukteur Ontwikkeling
 
-About activities hosted or promoted by the Instructor Development Committee.
+Oor aktiwiteite wat deur die Instruktorontwikkelingskomitee aangebied of bevorder
 
-### Instructor Trainers
+### Instrukteur Opleiers
 
-For blog posts about Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience.
+Vir blogplasings oor Instruktoropleiers (die gemeenskap van mense wat instrukteeropleiding onderrig) of om instruktoropleiders as primêre gehoor te hê.
 
-### Instructor Trainers Leadership Committee
+### Leierskapkomitee vir instruktoropleiers
 
-For blog posts about the Instructor Trainers Leadership Committee (ITLC), a committee that provides governance and development support of Instructor Trainers, and makes decisions on behalf of that community that affect the Instructor Training program and related policies.
+Vir blogplasings oor die Instructor Trainers Leadership Committee (ITLC), 'n komitee wat bestuur- en ontwikkelingsondersteuning van Instruktoropleiers bied, en besluite neem namens daardie gemeenskap wat die Instruktoropleidingsprogram en verwante beleide beïnvloed.
 
-### Instructors
+### Instrukteurs
 
-For blog posts about Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
+Vir blogplasings oor instrukteurs (die gemeenskap van mense wat sagteware-timmerwerk-, datamwerk- of biblioteekstuurwerkswinkels onderrig) of om instrukteurs as primêre gehoor te hê.
 
-### Internationalisation
+### Internasionalisering
 
-For blog posts highlighting translation and internationalisation efforts in The Carpentries.
+Vir blogplasings wat vertaal- en internasionaliseringspogings in The Carpentries beklemtoon.
 
 ### Japan
 
-For blog posts related to Carpentries' work in Japan.
+Vir blogplasings wat verband hou met Carpentries se werk in Japan.
 
 ### Jekyll
 
-A static site generator used in our lessons from 2016 to 2022.
+'N Statiese werfkragopwekker wat in ons lesse van 2016 tot 2022 gebruik is.
 
-### Latin America
+### Latyns-Amerika
 
-For blog posts related to Carpentries' work in Latin America (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haiti, Puerto Rico).
+Vir blogplasings wat verband hou met Carpentries se werk in Latyns-Amerika (Mexiko, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brasilië, Paraguay, Chili, Argentinië, Uruguay, Kuba, Haïti, Puerto Rico).
 
-### Lesson Infrastructure
+### Lesinfrastruktuur
 
-For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows), other than the Carpentries Workbench. This is largely of interest to the Maintainer community with some tangential interest in the Instructor community.
+Vir blogplasings wat verband hou met The Carpentries Less-infrastruktuur (bv. Opdaterings of toekomstige veranderinge aan stilering en werkstrome), behalwe die Carpentries Workbench. Dit is grootliks van belang vir die Maintainer-gemeenskap met 'n mate van tangensiële belangstelling in die Instruktorgemeenskap.
 
-### Lessons
+### lesse
 
-Related to work and development of Carpentries Lessons.
+Verwant aan werk en ontwikkeling van Carpentries Lesse.
 
-### Library Carpentry
+### Biblioteek Timmerwerk
 
-For posts related to the Library Carpentry lesson program of The Carpentries.
+Vir poste wat verband hou met die Library Carpentries lesprogram van The Carpentries.
 
-### Maintainers
+### Onderhouders
 
-Community members working on keeping our lessons stable and functional.
+Gemeenskapslede werk daaraan om ons lesse stabiel en funksioneel te hou.
 
-### Membership
+### Lidmaatskap
 
-For Member organisation updates, big changes, or announcements.
+Vir lidorganisasie-opdaterings, groot veranderinge of aankondigings.
 
-### Merger
+### Samesmelting
 
-For blog posts relating to the merging of different lesson programs (e.g., Data Carpentry, HPC Carpentry, Library Carpentry, Software Carpentry, etc.) into The Carpentries.
+Vir blogplasings wat verband hou met die samesmelting van verskillende lesprogramme (bv. Data-timmerwerk, HPC timmerwerk, biblioteekstuurwerk, sagtewarestuurwerk, ens.) In die Carpentries.
 
-### Nordic Countries
+### Nordiese lande
 
-For blog posts related to Carpentries' work in Nordic countries (Denmark, Estonia, Finland, Iceland, Norway, Sweden).
+Vir blogplasings wat verband hou met Carpentries se werk in Nordiese lande (Denemarke, Estland, Finland, Ysland, Noorweë, Swede).
 
-### North America
+### Noord-Amerika
 
-For blog posts related to Carpentries' work in North America (Canada, Mexico, United States).
+Vir blogplasings wat verband hou met Carpentries se werk in Noord-Amerika (Kanada, Mexiko, Verenigde State).
 
-### Online Workshops
+### Online werkswinkels
 
-Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops.
+Werkswinkels wat slegs aanlyn is, ervaar om 'n aanlynwerkswinkel te onderrig, idees vir aanlynwerkswinkels te deel.
 
 ### OpenRefine
 
-For blog posts highlighting teaching recommendations of OpenRefine, or the use of OpenRefine in our activities.
+Vir blogplasings wat onderrigaanbevelings van OpenRefine beklemtoon, of die gebruik van OpenRefine in ons aktiwiteite.
 
-### Pilot Workshops
+### Vlieënierwerks
 
-Blog posts related to piloting of new lessons.
+Blogplasings wat verband hou met bevoeding van nuwe lesse.
 
-### Policy
+### Beleid
 
-For blog posts announcing the adoption of, or alteration of terms to, Carpentries constitutional or programmatic policies.
+Vir blogplasings wat die aanvaarding van of verandering van terme van Carpentries grondwetlike of programmatiese beleide aankondig.
 
-### Publishing
+### Publiseer
 
-For blog posts about or related to research publication outputs, or research citations pertaining to The Carpentries and its programmes.
+Vir blogplasings oor of wat verband hou met navorsingspublikasieuitsette, of navorsingsaalings met betrekking tot The Carpentries en sy programme.
 
 ### Python
 
-For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
+Vir blogplasings wat onderrigaanbevelings van die Python-programmeertaal beklemtoon, of die gebruik van die Python-programmeertaal in ons aktiwiteite.
 
 ### R
 
-For blog posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities.
+Vir blogplasings wat onderrigaanbevelings van die R-programmeertaal beklemtoon, of die gebruik van die R-programmeertaal in ons aktiwiteite.
 
-### Reports
+### Verslae
 
-For blog posts related to reports released by The Carpentries Core Team. This includes annual and budget reports.
+Vir blogplasings wat verband hou met verslae wat deur The Carpentries Core Team vrygestel is. Dit sluit jaarlikse en begrotingsverslae in.
 
-### Roadmap
+### Padkaart
 
-A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
+'N Plan wat 'n doel of gewenste uitkoms definieer en die belangrikste stappe of mylpale insluit wat nodig is om dit te bereik.
 
-### Shell
+### dop
 
-For blog posts highlighting teaching recommendations on shells, or the use of shells in our activities, including references to Bash.
+Vir blogplasings wat onderrigaanbevelings oor skulpe beklemtoon, of die gebruik van skulpe in ons aktiwiteite, insluitend verwysings na Bash.
 
 ### Skillshare
 
-Posts highlighting tips.
+Blykke wat wenke uitlig.
 
-### Software Carpentry
+### Sagteware Timmerwerk
 
-For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
+Vir blogplasings wat verband hou met sagtewarestuurwerk, wat deel uitmaak van The Carpentries, onderrig basiese laboratoriumvaardighede vir navorsingsrekenaars.
 
-### Sponsorship (previously, "Philanthropy")
+### Borgskap (voorheen “Filantropie”)
 
-Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
+Blogplasings wat verband hou met skenkings, borgskap en ander filantropiese aktiwiteite wat The Carpentries ondersteun.
 
-### Strategic Plan
+### Strategiese plan
 
-Posts related to The Carpentries Strategic Plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals within a specified period.
+Poste wat verband hou met The Carpentries Strategic Plan, die dokument wat gebruik word om die organisasie se doelwitte, doelwitte en die aksies wat geneem is om daardie doelwitte binne 'n bepaalde tydperk te kommunikeer.
 
-### Task Force
+### Taakspan
 
-The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. Task forces bring together a small group of people focused on a particular topic for a set period of time.
+Die Carpentries gebruik taakkragte om idees te ondersoek en opdaterings in beleid, prosedures en riglyne te maak. Taakmagte bring 'n klein groep mense bymekaar wat vir 'n vasgestelde tydperk op 'n spesifieke onderwerp gefokus is.
 
-### Teaching
+### Onderrig
 
-Experience leading a Carpentries Workshop or Carpentries Training.
+Ervaring om 'n Carpentries Workshop of Carpentries -opleiding te lei.
 
-### Website
+### webwerf
 
-For blog posts related to updates to The Carpentries websites.
+Vir blogplasings wat verband hou met opdaterings van The Carpentries -webwerwe.
 
-### Workshops
+### Werkswinkels
 
-An event that is taught by Carpentries Instructors that teaches the curriculum of Data Carpentry, Library Carpentry and Software Carpentry. These blogs share experiences from the event.
+'N Gebeurtenis wat aangebied word deur Carpentries Instructors wat die kurrikulum van Data-timmerwerk, biblioteeksmentery en sagteware-timmerwerk leer. Hierdie blogs deel ervarings uit die geleentheid.
 
-## Archived Tags
+## Gearchiveer etikette
 
-### Champions
+### Kampioene
 
-An inactive subcommunity of The Carpentries that helped support the growth and development of The Carpentries by advocating and reaching out to local communities.
+'N Onaktiewe subgemeenskap van The Carpentries wat gehelp het om die groei en ontwikkeling van The Carpentries te ondersteun deur plaaslike gemeenskappe te pleit en uit te reik.
 
-### Community Facilitators
+### Gemeenskapsfasiliteerders
 
-For blog posts related to the Community Facilitators program. The Community Facilitators Program is an initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members.
+Vir blogplasings wat verband hou met die Community Faciliteators-program. Die Community Faciliteers-program is 'n inisiatief in The Carpentries wat poog om nuwe paaie te skep vir aktiewe betrokkenheid by alledaagse gemeenskapsaktiwiteite deur meer gemeenskapslede.
 
-### Executive Council
+### Uitvoerende Raad
 
-Updates and announcements from The Carpentries Executive Council, the highest leadership body of The Carpentries project.
+Opdaterings en aankondigings van The Carpentries Executive Council, die hoogste leiersliggaam van The Carpentries-projek.
 
-### Incubator Lesson Spotlight
+### Broeikas-leskollig
 
-Highlighting lessons currently in the Carpentries Incubator. These posts are created from a form completed by Incubator lesson developers.
+Uitklemming van lesse wat tans in die Carpentries Incubator is. Hierdie plasings word geskep uit 'n vorm wat deur Incubator-lesontwikkelaars voltooi is.
 
-### Mentoring
+### Mentorskap
 
-For blogs around creating support systems for new orgs using seasoned community members
+Vir blogs oor die skep van ondersteuningstelsels vir nuwe org's met behulp van ervare gemeenskapslede
 
-### Regional Coordinators
+### Streekkoördineerders
 
-For blog posts related to Regional coordinators, who manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries.
+Vir blogplasings wat verband hou met streekskoördineerders, wat werkswinkellogistiek bestuur, met gashere en instrukteurs kommunikeer en op algemene navrae reageer.
