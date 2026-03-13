@@ -1,61 +1,61 @@
-# Forking a Workbench Lesson Repository
+# Verkking van 'n werkbanklesbewaarplek
 
-Follow these steps to help you get setup when you fork a lesson repository on GitHub that is using [The Carpentries Workbench](https://carpentries.github.io/workbench/).
+Volg hierdie stappe om jou te help om opstel te kry wanneer jy 'n lesbewaarplek op GitHub verskaf wat [The Carpentries Workbench] (https://carpentries.github.io/workbench/) gebruik.
 
-1. [Enable the GitHub Actions workflows](#enable-the-github-actions-workflows)
-2. [Activate GitHub Pages](#activate-github-pages)
-3. [Configure Maintenance Workflows](#configure-maintenance-workflows)
-4. [Getting Help](#getting-help)
+1. [Aktiveer die GitHub Actions werkvloei] (#enable-the-github-actions-workflows)
+2. [Aktiveer GitHub-bladsye] (#activate-github-pages)
+3. [Stel instandhoudswerkstrome op] (#configure-maintenance-workflows)
+4. [Kry hulp] (#getting-help)
 
-## Enable the GitHub Actions Workflows
+## Aktiveer die GitHub-aksiewerkvloei
 
-Actions are disabled by default in forked repositories.
-If you want a lesson website to be built from the files in your fork, you will need to activate them.
-**You must do this before activating GitHub Pages on the repository.**
+Aksies word standaard gedeaktiveer in gevurkbewaarde bewaarplekke.
+As u wil hê dat 'n leswebwerf uit die lêers in u vurk gebou moet word, moet u dit aktiveer.
+\*\* U moet dit doen voordat u GitHub-bladsye op die bewaarplek aktiveer. \*\*
 
-1. To enable GitHub Actions on, navigate to the _Actions_ tab of your repository.
-   You should find a button saying _"I understand my workflows, go ahead and enable them"_, which you can click.
-   This should then display a page with the workflows for the repository listed on the left-hand side.
-2. Three of the workflows listed in that left sidebar are scheduled to run weekly, and will still be disabled.
-   To enable lesson website builds, select the workflow called `01 Build and Deploy Site` and then _Enable workflow_ near the top right of the window.
-3. To run the lesson site build workflow for the first time, select the _Run workflow_ dropdown (where the _Enable workflow_ button was in step 2) and then the _Run workflow_ button.
-   The build process will take a few minutes, after which the `gh-pages` branch of your repository will be created/updated to contain the latest version of the lesson website.
-   You can now [activate GitHub Pages](#activate-github-pages) to serve the files in that branch to the internet.
-4. If you want to configure the weekly workflow runs that can automatically open pull requests to update the lesson infrastructure and package cache (R Markdown lessons only), you should repeat step 2 above for the two other disabled workflows, called `02 Maintain: Update Workflow Files` and `03 Maintain: Update Package Cache`.
-   After those workflows have been activated, you will need to [complete some additional configuration, described below](#configure-maintenance-workflows), before they will run successfully.
+1. Om GitHub-aksies in te skakel, navigeer na die oortjie _Aksie_ van u bewaarplek.
+   U moet 'n knoppie vind wat sê: “Ek verstaan my werkstrome, gaan voort en aktiveer hulle” _, waarop u kan klik.
+   Dit moet dan 'n bladsy vertoon met die werkstrome vir die bewaarplek aan die linkerkant.
+2. Drie van die werkvloei wat in die linkerkant gelys word, is geskeduleer om weekliks te loop en sal steeds gedeaktiveer word.
+   Om leswebwerfboude in te skakel, kies die werkvloei genaamd `01 Build and Deploy Site` en dan _Aktiveer werkvloei_ regs bo van die venster.
+3. Om die leswebwerf-bouwerkvloei vir die eerste keer uit te voer, kies die _Begin werkvloei_ aftreklys (waar die _Aktiveer werkvloei_ -knoppie in stap 2 was) en dan die _Begin werkvloei_ knoppie.
+   Die bouproses sal 'n paar minute duur, waarna die \`gh-blades'-tak van jou bewaarplek geskep/opgedateer sal word om die nuutste weergawe van die leswebwerf te bevat.
+   U kan nou [GitHub Pages aktiveer] (#activate-github-pages) om die lêers in daardie tak aan die internet te bedien.
+4. As u die weeklikse werkvloei wil instel wat outomaties trekversoeke kan oopmaak om die lesinfrastruktuur en pakketkas op te dateer (slegs R Markdown-lesse), moet u stap 2 hierbo herhaal vir die twee ander gedeaktigde werkstrome, genaamd `02 Maintain: Update Workflow Files` en `03 Behou: Update Package Cache`.
+   Nadat die werkvloei geaktiveer is, moet u ['n paar addisionele konfigurasie voltooi, wat hieronder beskryf word] (#configure-maintenance-workflows), voordat dit suksesvol sal loop.
 
-## Activate GitHub Pages
+## Aktiveer GitHub-bladsye
 
-**After you have activated your GitHub Actions workflows (see above)** you can set up GitHub Pages to serve your lesson site from your repository's `gh-pages` branch.
+\*\* Nadat u u GitHub Actions -werkvloei geaktiveer het (sien hierbo) \*\*, kan u GitHub-bladsye opstel om u leswebwerf vanaf u bewaarplek se \`gh-blades' tak te bedien.
 
-1. Open the _Settings_ tab of your lesson repository, then navigate to _Pages_ under _Code and automation_ in the left sidebar.
-2. Under _Build and deployment_, keep _Deploy from a branch_ selected, and choose `gh-pages` from the dropdown menu under _Branch_.
-3. Click _Save_.
-4. Return to the front page (_Code_ tab) of your lesson repository, and select the gear wheel symbol at the top right of the _About_ section.
-   Check the _Use your GitHub Pages website_ box, to display the URL of the lesson website built from your fork.
+1. Maak die oortjie _Instellings_ van u lesbewaarplek oop en navigeer dan na _Pages_ onder _Kode en outomatisering_ in die linkerkant.
+2. Onder _Buu en implementering_, hou _Deploy uit 'n tak_ gekies en kies `gh-blades` uit die aftrelmenu onder _Tak_.
+3. Klik op _Save _.
+4. Keer terug na die voorblad (oortjie _kode_) van u lesbewaarplek en kies die ratwielsimbool regs bo van die _About_ afdeling.
+   Merk die _Gebruik jou GitHub Pages-webwerf_ blokkie om die URL van die leswebwerf wat uit jou vurk gebou is, te vertoon.
 
-## Configure Maintenance Workflows
+## Stel onderhoudswerkstrome op
 
-When configured appropriately, the two maintenance workflows, `02 Maintain: Update Workflow Files` and `03 Maintain: Update Package Cache`, can create pull requests on your repository to keep the lesson infrastructure and (if your lesson uses R Markdown source files) the packages used in the lesson up to date as new versions are released.
-For this to work, you need to create an access token that will allow the workflows to open pull requests on your behalf.
+As dit toepaslik gekonfigureer is, kan die twee instandhoudswerkstrome, `02 Handhaaf: Update Workflow Files` en `03 Maintain: Update Package Cache`, trek versoeke op u bewaarplek skep om die lesinfrastruktuur te hou en (as u les R Markdown-bronlêers gebruik) die pakkette wat in die les gebruik word, op datum namate nuwe weergawes vrygestel word.
+Om dit te laat werk, moet u 'n toegangsteken skep waarmee die werkvloei namens u trekversoeke kan oopmaak.
 
-1. Open <https://github.com/settings/tokens/new> and enter the name `Sandpaper Token (<your github repository name>)` for your token, e.g. `Sandpaper Token (carpentries/lesson-development-training)`
-2. Choose a lifespan for the token.
-   For security, we recommend that you do not choose _No expiration_. But **if you follow the step below** the token can only be used to perform a very limited number of tasks on your repository, so you do not necessarily need to choose a very short lifespan either.
-3. Under _Select scopes_, check the box for the _workflow_ scope. (This will cause all of the _repo_ scopes to also be checked.)
-4. Select _Generate token_.
-5. Your new personal access token will be displayed, with a button next to it that can be used to copy the token to your clipboard.
-   Copy the token and return to the _Settings_ tab of your lesson repository.
-   Under _Security_ in the left sidebar, open the _Secrets and variables_ dropdown and choose _Actions_.
-6. Enter `SANDPAPER_WORKFLOW` as the name, and paste your token into the _Value_ field.
-7. Select _Add secret_ to complete the configuration.
+1. Maak <https://github.com/settings/tokens/new> oop en voer die naam `Sandpaper Token (<your github repository name>) `in vir jou teken, bv. `Sandpapier Token (karpentries/leson-ontwikkeling-opleiding)`
+2. Kies 'n lewensduur vir die token.
+   Vir veiligheid beveel ons aan dat u nie _Geen verval _ kies nie. Maar **as jy die stap hieronder volg** kan die token slegs gebruik word om 'n baie beperkte aantal take op jou bewaarplek uit te voer, dus hoef jy ook nie noodwendig 'n baie kort lewensduur te kies nie.
+3. Merk die kassie onder _Kies doelple_ vir die _werkvloei_ -omvang. (Dit sal veroorsaak dat al die _repo_ -skope ook nagegaan word.)
+4. Kies _Genereer token_.
+5. Jou nuwe persoonlike toegangsteken sal vertoon word, met 'n knoppie langs wat gebruik kan word om die token na jou knipbord te kopieer.
+   Kopieer die token en keer terug na die oortjie _Instellings_ van u lesbewaarplek.
+   Onder _Sekurity_ in die linkerkant, maak die _Geheime en veranderlikes oop en kies _Aksie_.
+6. Voer `SANDPAPER_WORKFLOW` as die naam in en plak jou token in die _Value_ veld.
+7. Kies _Voeg geheim by _ om die konfigurasie te voltooi.
 
-## Getting Help
+## Kry hulp
 
-If you run into trouble with any of these steps, you can ask for help by:
+As u probleme ondervind met enige van hierdie stappe, kan u hulp vra deur:
 
-- Posting to the `#workbench` and/or `#lesson-dev` channels on Slack ({{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}).
-- [Contacting the Curriculum Team by email](mailto:curriculum@carpentries.org).
-- Opening an issue on your repository, describing the problem you have encountered, and tag `@tobyhodges`.
+- Plaas na die `#workbench` en/of `#lesson -dev` -kanale op Slack ({{'[Join by die Carpentries Slack werkruimte] ({}) '.format (slack_invite)}}).
+- [Kontak met die kurrikulumspan per e-pos] (mailto:curriculum@carpentries.org).
+- Maak 'n probleem op u bewaarplek oop, beskryf die probleem wat u teëgekom het, en merk `@tobyhodges`.
 
-To help others troubleshoot your issue, please include a URL to your forked repository in your message.
+Om ander te help om jou probleem op te los, sluit asseblief 'n URL na jou gevurkbewaarplek in jou boodskap in.
