@@ -1,511 +1,511 @@
-# Curriculum Advisors Handbook
+# Kurrikulumadviseurs Handboek
 
-## About This Handbook
+## Oor hierdie handboek
 
-The Curriculum Advisor Handbook is designed to support members of The
-Carpentries community who are serving on a Curriculum Advisory
-Committee. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Die Kurrikulumadviseurhandboek is ontwerp om lede van die
+Carpentries-gemeenskap te ondersteun wat in 'n Kurrikulumadvieskomitee
+dien. Dit word onderhou deur The Carpentries Curriculum Team.  As u glo dat iets hier bygevoeg of opgedateer moet word, of as u terugvoer oor die inhoud wil gee, stuur asseblief e-pos aan die {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} of maak 'n probleem op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
-## Introduction
+## Inleiding
 
-Curriculum Advisors are part of a team that provides the oversight,
-vision, and leadership for a particular set of lessons. Curriculum
-Advisors represent The Carpentries community and should strive to embody
-The Carpentries philosophy by:
+Kurrikulumadviseurs is deel van 'n span wat die toesig,
+-visie en leierskap bied vir 'n spesifieke stel lesse. Kurrikulum
+Adviseurs verteenwoordig die Carpentries-gemeenskap en moet daarna streef om
+Die Carpentries-filosofie te beliggaam deur:
 
-- Recognising the importance of communication and being welcoming to
-  all contributors.
+- Erkenning van die belangrikheid van kommunikasie en verwelkomend wees vir
+  alle bydraers.
 
-- Giving feedback to contributors using The Carpentries model:
+- Gee terugvoer aan bydraers met behulp van The Carpentries-model:
 
-  - Finding what is good.
-  - Being specific about improvements needed.
-  - Using motivational language.
+  - Vind wat goed is.
+  - Om spesifiek te wees oor verbeterings wat nodig is.
+  - Gebruik motiverende taal.
 
-- Evaluating lesson contributions in light of The Carpentries
-  pedagogical model:
+- Evaluering van lesbydraes in die lig van The Carpentries
+  -pedagogiese model:
 
-  - Teaching what is most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keeping language motivating.
-  - Emphasising the importance of continued learning and improvement.
+  - Onderrig wat die belangrikste en nuttigste is vir leerders.
+  - Vermy om in tegniese besonderhede vasgevang te raak.
+  - Hou taal motiverend.
+  - Beklemtoon die belangrikheid van voortgesette leer en verbetering.
 
-## Roles and Responsibilities
+## Rolle en verantwoordelikhe
 
-### Chair
+### stoel
 
-- Prepare agenda for regular meetings, including time estimates for each item.
-- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of the meeting.
-- Assign meeting roles.
-- Serve as a primary point of contact for Maintainers.
-- Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
-- Generally review lesson repositories for items that may come under the CAC’s purview, according to the [CAC consultation rubric](#curriculum-advisory-committee-consultation-rubric), even if not mentioned.
-- Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and
-  Maintainers in contact with CAC members who will assist with
-  implementation.
-- Notify the Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications so that the Core Team can help recruit a replacement if needed.
-- Approve meeting minutes.
-- Fulfill all other responsibilities of a CAC member.
+- Berei agenda voor vir gereelde vergaderings, insluitend tydsberamings vir elke item.
+- Stel die agenda en stuur dit saam met enige ander relevante dokumente minstens een week voor die vergadering aan komiteelede uit.
+- Ken vergaderrolle toe.
+- Ddien as 'n primêre kontakpunt vir onderhouders.
+- Hersien lesbewaarplekke vir gevalle waar die Kurrikulumadvieskomitee (CAC) genoem word. Reageer betyds, insluitend om onderhouders en bydraers te laat weet wanneer items tydens die volgende vergadering oorweeg gaan word.
+- Hersien lesbewaarplekke oor die algemeen vir items wat onder die CAC se doel kan kom, volgens die [CAC -konsultasie-rubriek] (#curriculum-advisory-committee-consultation-rubric), selfs al is dit nie genoem nie.
+- Kommunikeer met lesonderhouders en bydraers, via GitHub-kwessies, oor besluite wat deur die CAC geneem word. Plaas bydraers en
+  Onderhouders in kontak met CAC-lede wat sal help met
+  -implementering.
+- Stel die kurrikulumspanleier (Toby Hodges) in kennis as 'n CAC-lid middeltermyn moet aftree of onreageer op kommunikasie, sodat die kernspan kan help om 'n plaasvervanger te werf indien nodig.
+- Goedkeur vergaderingsnotule.
+- Voldoen alle ander verantwoordelikhede van 'n CAC-lid.
 
-### Secretary
+### sekretaris
 
-- Schedule regular meetings.
-- Arrange meeting room logistics.
-- Send calendar invites.
-- Send meeting reminders.
-- Prepare meeting minutes and post them to the appropriate CAC repository.
-- Fulfill all other responsibilities of a CAC member.
+- Beplan gereelde vergaderings.
+- Reël vergaderkamerlogistiek.
+- Stuur kalenderuitnodigings.
+- Stuur vergaderingsherinneringe.
+- Berei vergaderingsnotule voor en plaas dit by die toepaslike CAC-bewaarplek.
+- Voldoen alle ander verantwoordelikhede van 'n CAC-lid.
 
-### Other members
+### Ander lede
 
-- Notify the Chair of potential agenda items as they arise.
-- Review the agenda and other relevant documents sent by the Chair before the meeting.
-- Attend and actively participate in regular meetings by being attentive, and sharing knowledge, expertise, ideas, and information.
-- Participate in asynchronous voting through GitHub as needed.
-- Work with community members and Maintainers to implement voted-upon changes as needed.
-- (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned.
+- Stel die voorsitter in kennis van potensiële agenda-items soos dit opduik.
+- Hersien die agenda en ander relevante dokumente wat deur die voorsitter gestuur is voor die vergadering.
+- Woon gereelde vergaderings by en neem aktief aan deel deur oplettend te wees en kennis, kundigheid, idees en inligting te deel.
+- Neem deel aan asynchrone stemming deur GitHub indien nodig.
+- Werk saam met gemeenskapslede en onderhouders om gestemde veranderinge te implementeer soos nodig.
+- (Opsioneel) Wees betrokke by besprekings oor GitHub met Onderhouders en gemeenskapslede wanneer CAC genoem word.
 
-## Onboarding
+## Onboord
 
-- _Due to restricted capacity in the Curriculum Team, regular Curriculum Advisor Onboarding is currently suspended._ Individual Curriculum Advisory Committees may choose to recruit new members independently, making use of the process and any/all of the resources described below as needed. If you are interested in joining an existing Curriculum Advisory Committee, we recommend that you contact the relevant group [via their mailing list on TopicBox](#mailing-list).
+- \*As gevolg van beperkte kapasiteit in die kurrikulumspan, word gereelde onboarding van kurrikulumadviseurs tans opgeskort. \* Individuele kurrikulumadvieskomitees kan kies om nuwe lede onafhanklik te werf, deur gebruik te maak van die proses en enige van die hulpbronne wat hieronder beskryf word indien nodig. As u belangstel om by 'n bestaande kurrikulumadvieskomitee aan te sluit, beveel ons aan dat u die relevante groep kontak [via hul poslys op TopicBox] (#mailing-list).
 
-- Rounds of recruitment will be announced on {{'[The Carpentries blog]({}/blog)'.format(carpentries_website)}}.
+- Werwingrondes sal aangekondig word op {{'[The Carpentries blog] ({}/blog) '.format (carpentries_website)}}.
 
-- Volunteers will be asked to apply for the role by filling in a short web form describing their expertise and motivation for joining a committee.
+- Vrywilligers sal gevra word om aansoek te doen vir die rol deur 'n kort webvorm in te vul wat hul kundigheid en motivering beskryf om by 'n komitee aan te sluit.
 
-- Templates and workflows for CAC recruitment and onboarding are maintained in the [Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
+- Sjablone en werkvloei vir die werwing en onboarding van CAC word gehandhaaf in die [Core Team wiki (slegs interne toegang)] (https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
 
-- Onboarding aims to provide new Curriculum Advisors with context for the role how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
+- Onboarding het ten doel om nuwe kurrikulumadviseurs konteks te bied vir die rol hoe CAC's pas by The Carpentries-model vir kurrikulumontwikkeling en instandhouding, en wat hulle kan verwag terwyl hulle voorberei om by hul eerste komitee vergadering aan te sluit.
 
-- Onboarding for Curriculum Advisors takes place in two parts:
-  1. A general onboarding for all Curriculum Advisors
-  2. An additional onboarding for the committee officers (_Roles and responsibilities_)
+- Onboarding vir kurrikulumadviseurs vind in twee dele plaas:
+  1. 'N Algemene aansluiting vir alle kurrikulumadviseurs
+  2. 'N Bykomende aansluiting vir die komitee beamptes (_Rolle en verantwoordelikhe_)
 
-- Both onboardings are delivered by the Curriculum Team over Zoom, with the possibility to be onboarded through a recording of the sessions available for those who cannot attend synchronously.
+- Beide aanboordings word deur die Kurrikulumspan oor Zoom afgelewer, met die moontlikheid om aan boord te word deur 'n opname van die sessies wat beskikbaar is vir diegene wat nie sinchronies kan bywoon nie.
 
-- Onboarding slides:
+- Onboordskyfies:
 
-  1. general onboarding
-     slides
-  2. officer onboarding
-     slides
+  1. [algemene aanboeding
+     skyfies] (https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing)
+  2. [beampte aan
+     skyfies] (https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing)
 
-- After these onboarding sessions, Curriculum Advisors should complete the following steps:
+- Na hierdie aansluitsessies moet kurrikulumadviseurs die volgende stappe voltooi:
 
-  1. {{'[Log into AMY]({})'.format(amy_link)}} with GitHub
-     credentials and update their profile.
+  1. {{'[Meld in by AMY] ({}) '.format (amy_link)}} met GitHub
+     -bewysings en werk hul profiel op.
 
-     - When updating their AMY profile, it is essential that Advisors
-       give consent for The Carpentries to publish their profile so
-       that they can be listed on The Carpentries websites.
+     - By die opdatering van hul AMY-profiel is dit noodsaaklik dat Advisors
+       toestemming gee vir The Carpentries om hul profiel te publiseer sodat
+       hulle op The Carpentries -webwerwe gelys kan word.
 
-  2. [Join the mailing list for their committee on Topicbox](#mailing-list). CAC mailing lists are named with the prefix “curriculum-advisors-“.
+  2. [Sluit aan by die poslys vir hul komitee oor Topicbox] (#mailing-list). CAC -poslyste word genoem met die voorvoegsel “curriculum-adviseurs-”.
 
-     - These mailing lists are configured so that anyone can send a
-       message to them, but the list membership is moderated so that only
-       current members of the committee will receive messages sent to
-       the group.
+     - Hierdie poslyste is sodat enigiemand 'n
+       -boodskap aan hulle kan stuur, maar die lyslidmaatskap word gemodereer sodat slegs
+       huidige lede van die komitee boodskappe sal ontvang wat aan
+       die groep gestuur word.
 
-  3. Subscribe to notifications from the GitHub repositories for the
-     lessons in their curriculum.
+  3. Teken in op kennisgewings van die GitHub-bewaarplekke vir die
+     -lesse in hul kurrikulum.
 
-     - This is only _required_ for CAC chairs, but is recommended for
-       all Curriculum Advisors as a way to stay up-to-date about
-       discussions and developments taking place in their curriculum.
-     - Repositories are linked from the “Repository” column of the
-       lesson tables in the “Lessons” page of each Lesson Program
-       website:
+     - Dit is slegs \* vereis\* vir CAC -stoele, maar word aanbeveel vir
+       alle kurrikulumadviseurs as 'n manier om op hoogte te bly oor
+       besprekings en ontwikkelings wat in hul kurrikulum plaasvind.
+     - Bewaarplekke word gekoppel vanaf die kolom “Repository” van die
+       lestabelle in die “Lesse” -bladsy van elke lesprogram
+       -webwerf:
 
-       - [Data Carpentry](https://datacarpentry.org/lessons/)
-       - [Library Carpentry](https://librarycarpentry.org/lessons/)
-       - [Software Carpentry](https://software-carpentry.org/lessons/)
+       - [Data-timmerwerk] (https://datacarpentry.org/lessons/)
+       - [Biblioteek Timmerwerk] (https://librarycarpentry.org/lessons/)
+       - [Sagteware Timmerwerk] (https://software-carpentry.org/lessons/)
 
-### Term Length
+### Termlengte
 
-Curriculum Advisors are expected to serve a two-year term.
+Die kurrikulumadviseurs sal na verwagting 'n termyn van twee jaar dien.
 
-## Offboarding
+## Afboording
 
-We understand that circumstances can change and priorities must be re-evaluated. If a Curriculum Advisor needs to step away from the role before the end of their two-year term, the Curriculum Team will support them to do this.
+Ons verstaan dat omstandighede kan verander en dat prioriteite weer geëvalueer moet word. As 'n kurrikulumadviseur voor die einde van hul tweejaartermyn van die rol moet wegstap, sal die kurrikulumspan hulle ondersteun om dit te doen.
 
-1. After the first year, the Curriculum Team will approach Curriculum Advisors to confirm that they wish to continue in the role or to step back.
-2. If an Advisor needs to step away from the role outside this schedule, they should inform their committee Chair and [the Curriculum Team](mailto:curriculum@carpentries.org).
+1. Na die eerste jaar sal die kurrikulumspan kurrikulumadviseurs nader om te bevestig dat hulle in die rol wil voortgaan of terugstap.
+2. As 'n adviseur van die rol buite hierdie skedule moet wegstap, moet hulle hul komitee voorsitter en [die kurrikulumspan] (mailto:curriculum@carpentries.org) in kennis stel.
 
-## Communication and Collaboration Spaces
+## Kommunikasie- en samewerkings
 
-Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
+Hieronder is 'n lys van kommunikasiekanale en samewerkingsruimtes wat kurrikulumadviseurs ondersteun. Daar word verwag dat deelnemers aan hierdie kanale en ruimtes ons {{'[Gedragskode] ({}) '.format (code_of_conducte)}} volg.
 
-### Meetings
+### Vergaderings
 
-Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reviewing and contributing to relevant documents in advance of the meeting.
+Elke kurrikulumadvieskomitee sal ten minste kwartaallikse vergader, en verkieslik elke twee maande. Hierdie vergaderings is die primêre weg waardeur CAC-lede sal kommunikeer en die beste praktyke vir The Carpentries-vergaderings moet volg, insluitend vergaderrolle te hê, aantekeninge te neem en 'n ruimte vir almal om by te dra, te skep en te hou. CAC -lede moet voorberei vir vergaderings deur voor die vergadering relevante dokumente te hersien en bydra tot toepaslike dokumente.
 
-### GitHub Repositories
+### GitHub-bewaarplekke
 
-These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
+Hierdie bewaarplekke dien as 'n openbare rekord van vergaderingsnotas en besluite wat deur elk van die volgende CA's geneem word.
 
-- [Data Carpentry Curriculum Advisors](https://github.com/datacarpentry/curriculum-advisors)
-- [Library Carpentry Curriculum Advisors](https://github.com/LibraryCarpentry/curriculum-advisors)
-- [Software Carpentry Curriculum Advisors](https://github.com/swcarpentry/curriculum-advisors)
+- [Data-timmerkerkurrikulumadviseurs] (https://github.com/datacarpentry/curriculum-advisors)
+- [Biblioteek Timmerkerkurrikulumadviseurs] (https://github.com/LibraryCarpentry/curriculum-advisors)
+- [Sagteware Timmerkerkurrikulumadviseurs] (https://github.com/swcarpentry/curriculum-advisors)
 
-### Collaborative Notetaking
+### Samewerkende notekening
 
-The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor.
+Die Carpentries gebruik [Etherpad] (/resources/communications/etherpads.md) as 'n samewerkende notuingsinstrument tydens werkswinkels, opleiding en ander Carpentries-verwante geleenthede. Pads word gesinchroniseer terwyl u tik sodat almal wat die bladsy kyk, dieselfde teks sien. Dit stel almal in staat om gelyktydig aan dokumente saam te werk. Hieronder is 'n lys van Etherpads wat relevant is om as kurrikulumadviseur te dien.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of our most commonly used Etherpads and other resources.
-- {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
-- {{'[Library Carpentry CAC pad]({}/lc-cac)'.format(etherpad)}}
-- {{'[DC Image CAC pad (CodiMD)]({}/92xFxRMKQhqnoeb6Bo_iXw#)'.format(codimd)}}
-- {{'[DC Geospatial CAC pad]({}/geospatialCAC)'.format(etherpad)}}
-- {{'[DC Genomics CAC pad]({}/genomics_CAC_meeting)'.format(etherpad)}}
+- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: 'n Lys van ons mees gebruikte Etherpads en ander hulpbronne.
+- {{'[Sagteware Timmerwerk CAC pad] ({}/swc-cac) '.format (etherpad)}}
+- {{'[Biblioteek Timmerwerk CAC pad] ({}/lc-cac) '.format (etherpad)}}
+- {{'[DC Image CAC pad (CodimD)] ({}/92xFxRMKQhqnoeb6Bo_iXw#) '.formaat (codimd)}}
+- {{'[DC Geospatial CAC pad] ({}/geospatialCAC) '.format (etherpad)}}
+- {{'[DC Genomics CAC pad] ({}/genomics_CAC_meeting) '.formaat (etherpad)}}
 
-Please note that use of this service is restricted to members of The
-Carpentries community; it is not for general purpose use. All Etherpad
-content is publicly available under the Creative Commons Attribution
-Licence.
+Let daarop dat die gebruik van hierdie diens beperk is tot lede van The
+Carpentries -gemeenskap; dit is nie vir algemene gebruik nie. Alle Etherpad
+-inhoud is in die openbaar beskikbaar onder die [Creative Commons Attribution
+License] (https://creativecommons.org/licenses/by/4.0/).
 
-#### Messaging and Communication
+#### Boodskappe en kommunikasie
 
-The Carpentries uses two primary tools for supporting communications
-among our members: Slack and TopicBox. We know that everyone has
-different communication preferences, so announcements and updates coming
-from members of the Core Team are posted to both channels.
+Die Carpentries gebruik twee primêre instrumente vir die ondersteuning van kommunikasie
+onder ons lede: Slack en TopicBox. Ons weet dat almal
+verskillende kommunikasievoorkeure het, dus word aankondigings en opdaterings wat
+van lede van die kernspan kom, op albei kanale geplaas.
 
-##### Slack
+##### Slap
 
-{{'[Slack]({})'.format(slack)}} is a communications platform adopted by
-The Carpentries for instant messaging as well as synchronous and
-asynchronous collaboration. If you are new to Slack, please check out our
-{{"[Slack Guide]({})".format(slack_guide)}}.
+{{'[Slack] ({}) '.format (slack)}} is 'n kommunikasieplatform wat deur
+The Carpentries aangeneem is vir kitsboodskappe sowel as sinchrone en
+asynchrone samewerking. As jy nuut is by Slack, kyk asseblief na ons
+{{"[Slack Guide] ({})” .format (slack_guide)}}.
 
-There are many curriculum-specific channels. We recommend that
-Curriculum Advisors join the channels for all lessons within their
-curriculum. Lesson-specific channels can usually be found based on a
-common prefix based on the lesson program they belong to (“swc-” for
-Software Carpentry, “lc-” for Library Carpentry, and “dc-” for Data
-Carpentry)
+Daar is baie kurrikulumspesifieke kanale. Ons beveel aan dat
+-kurrikulumadviseurs by die kanale aansluit vir alle lesse binne hul
+-kurrikulum. Lesspesifieke kanale kan gewoonlik gevind word op grond van 'n
+algemene voorvoegsel gebaseer op die lesprogram waaraan hulle behoort (“swc-” vir
+sagtewarestuurwerk, “lc-” vir biblioteekstuurwerk, en “dc-” vir data
+timmerwerk)
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} using this invite link.
+{{'[Sluit aan by die Carpentries Slack werkruimte] ({}) '.format (slack_invite)}} met behulp van hierdie uitnodigingskakel.
 
-##### Mailing List
+##### Poslys
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}. There are
-numerous mailing lists you can join based on the volunteer roles you are
-supporting and your interests. Below is a list of mailing lists relevant
-to the activities and programs covered by this handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+U kan toegang tot The Carpentries -poslyste verkry vanaf
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Daar is
+talle poslyste waarby u kan aansluit op grond van die vrywilligersrolle wat u
+ondersteun en u belangstellings. Hieronder is 'n lys poslyste wat relevant is
+vir die aktiwiteite en programme wat deur hierdie handboek gedek word. As jy nuut is by Topicbox, kyk asseblief na ons {{"[Topicbox Guide] ({})” .format (topicbox_guide)}}.
 
-- [curriculum-advisors-all TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-all)
-  - a general list for communication with and between all Curriculum
-    Advisors
-- [curriculum-advisors-astronomy Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-astronomy)
-  - DC Astronomy
-- [curriculum-advisors-ecology TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-ecology)
-  - DC Ecology
-- [curriculum-advisors-genomics Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-genomics)
-  - DC Genomics
-- [curriculum-advisors-geospatial Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-geospatial)
-  - DC Geospatial
-- [curriculum-advisors-image TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-image)
-  - DC Image Processing
-- [curriculum-advisors-LC Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
-  - Library Carpentry
-- [curriculum-advisors-social-sciences Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-social-sci)
-  - DC Social Sciences
-- [curriculum-advisors-swc Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-swc)
-  - Software Carpentry
+- [kurrikulum-adviseur-alle TopicBox] (https://carpentries.topicbox.com/groups/curriculum-advisors-all)
+  - 'n algemene lys vir kommunikasie met en tussen alle kurrikulum
+    -adviseurs
+- [kurrikulum-adviseur-sterrekunde Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-astronomy)
+  - DC Sterrekunde
+- [kurrikulum-adviseur-ekologie-TopicBox] (https://carpentries.topicbox.com/groups/curriculum-advisors-ecology)
+  - DC Ekologie
+- [kurrikulum-adviseur-genomika Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-genomics)
+  - DC Genomika
+- [kurrikulum-adviseur-geospatial Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-geospatial)
+  - DC Geo-ruimtelike
+- [kurrikulum-adviseurs-beeld TopicBox] (https://carpentries.topicbox.com/groups/curriculum-advisors-image)
+  - DC-beeldverwerking
+- [Kurrikulum-adviseurs-LC Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
+  - Biblioteek Timmerwerk
+- [kurrikulum-adviseurs-sosiale wetenskappe Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-social-sci)
+  - DC Sosiale Wetenskappe
+- [kurrikulum-adviseurs-swc Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-swc)
+  - Sagteware Timmerwerk
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once you
-have done this, you can scroll through the list of groups and click
-“Join the Conversation” (for open listservs) or “Request to Join” (for
-those listservs requiring administrator approval).
+Om by een of meer Carpentries-poslyste aan te sluit, moet u {{'[skep 'n aanmelding] ({}/latest) '.format (topicbox)}}. Sodra u
+dit gedoen het, kan u deur die lys van groepe blaai en klik op
+“Sluit aan by die gesprek” (vir oop lysterv's) of “Versoek om aan te sluit” (vir
+daardie lysterwe wat administrateur goedkeuring benodig).
 
-## Step-by-Step Guides
+## Stap-vir-stap
 
-Below is a step-by-step guide to support you in your role as a
-Curriculum Advisor.
+Hieronder is 'n stap-vir-vir-vir-gids om u rol as 'n
+-kurrikulumadviseur te ondersteun.
 
-### Meeting Checklist
+### Kontrolelys vir vergaderings
 
-- Secretary: Create an availability poll using [whenisgood](https://whenisgood.net/) (or a similar service). Be sure to enable the “use timezones” feature.
+- Sekretaris: Skep 'n beskikbaarheidspeiling met behulp van [when isgood] (https://whenisgood.net/) (of 'n soortgelyke diens). Maak seker dat jy die funksie “gebruik tymezones” aktiveer.
 
-- Secretary: Start scheduling the meeting using the
-  [email template](#scheduling-a-meeting).
+- Sekretaris: Begin met die skedulering van die vergadering met behulp van die
+  [e-possjabloon] (#scheduling-a-meeting).
 
-- Secretary: Determine the best meeting time (or two if
-  needed) from the availability poll. Create an event time announcement
-  using TimeandDate (or a similar service). Include an event time
-  announcement link in all communications about meeting times.
+- Sekretaris: Bepaal die beste vergaderingstyd (of twee indien
+  nodig) uit die beskikbaarheidspeiling. Skep 'n gebeurtenstyd-aankondiging
+  met behulp van TimeAndDate (of 'n soortgelyke diens). Sluit 'n aankondigingskakel vir geleentheidstyd
+  in alle kommunikasie oor vergaderingstye in.
 
-- Secretary: Set up a meeting room with Zoom (or
-  similar service). If you need a room provided by The Carpentries,
-  contact {{'[{}](mailto:{})'.format(team_email, team_email)}}.
+- Sekretaris: Stel 'n vergaderkamer op met Zoom (of
+  soortgelyke diens). As jy 'n kamer nodig het wat deur The Carpentries verskaf word,
+  kontak {{'[{}] (mailto:{}) '.format (team_email, team_email)}}.
 
-- Secretary: [Set up Etherpad](/resources/communications/etherpads.md). For the first meeting, create Etherpad by visiting your desired URL starting with {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
+- Sekretaris: [Stel Etherpad op] (/resources/communications/etherpads.md). Skep Etherpad vir die eerste vergadering deur u gewenste URL te besoek, begin met {{ etherpad }} (bv. https://pad.carpentries.org/my-cac-name). Dit sal 'n Etherpad skep wat vooraf gevul is met standaardtaal oor The Carpentries. Gebruik dieselfde Etherpad vir daaropvolgende vergaderings. Die geskiedenis sal outomaties argiveer. Sluit op Etherpad in:
 
-  - Meeting connection information (Zoom link and dial-in options)
-  - Time zone converter link for meeting time
-  - Sign-in
-  - Meeting roles (leave blank for the Chair to fill in)
-  - Agenda (leave blank for Chair to fill in)
+  - Vergaderverbindingsinligting (Zoomskakel en inskakelopsies)
+  - Tydsone-omskakelaarskakel vir vergaderingstyd
+  - Meld aan
+  - Vergaderrolle (laat leeg vir die voorsitter om in te vul)
+  - Agenda (laat leeg vir voorsitter om in te vul)
 
-- Secretary: Send meeting invitations on Google
-  Calendar. Include Etherpad and Zoom connection links in the invite.
+- Sekretaris: Stuur vergaderingsuitnodigings op Google
+  Calendar. Sluit Etherpad- en Zoom-verbindingskakels in die uitnodiging in.
 
-- Secretary: Send meeting announcement using this
-  [Meeting announcement email template](#meeting-announcement).
+- Sekretaris: Stuur vergaderingsaankondiging deur hierdie
+  [E-possjabloon vir vergaderingsaankondiging] (#meeting-announcement
 
-- Chair: Determine meeting roles using random assignment
+- Voorsitter: Bepaal vergaderrolle met behulp van ewe
 
-- Chair: Create agenda on Etherpad, collecting agenda items
-  from:
+- Voorsitter: Skep agenda op Etherpad en versamel agenda-items
+  uit:
 
-- Issues and pull requests tagged to the CAC on GitHub.
+- Kwessies en terugversoeke wat op die CAC op GitHub gemerk is.
 
-  - Requests that have come in by email to the TopicBox or from The
-    Carpentries Core Team.
-  - Upcoming changes to software or changes in practice occurring in
-    the field that should be considered by CAC.
-  - Other agenda items brought to the Chair by CAC members.
-  - Each agenda item should include links to relevant conversations or
-    information, as well as an approximate length of time for
-    discussion. Notify the Secretary when the agenda is ready to share.
+  - Versoeke wat per e-pos na die TopicBox of van The
+    Carpentries Core Team ingekom het.
+  - Komende veranderinge aan sagteware of veranderinge in die praktyk wat plaasvind in
+    die veld wat deur CAC oorweeg moet word.
+  - Ander agenda-items wat deur CAC -lede aan die voorsitter gebring is.
+  - Elke agenda-item moet skakels na relevante gesprekke of
+    -inligting insluit, asook 'n benaderde tydperk vir
+    -bespreking. Stel die sekretaris in kennis wanneer die agenda gereed is om te deel.
 
-- Chair: Maintain open agenda items as issues to the CAC
-  GitHub repository. Update these with links to relevant conversations
-  (e.g. tagging other issues in various lessons, or copying in emails
-  from community members), re-opening/closing issues as needed.
+- Voorsitter: Handhaaf oop agenda-items as kwessies vir die CAC
+  GitHub-bewaarplek. Dateer dit op met skakels na relevante gesprekke
+  (bv. Merking van ander kwessies in verskillende lesse, of kopieer in e-posse
+  van gemeenskapslede), kwessies weer oopen/sluit indien nodig.
 
-- Secretary: Send meeting reminder using the [meeting reminder email template](#meeting-reminder).
+- Sekretaris: Stuur vergaderherinnering met behulp van die [vergaderherinnering e-possjabloon] (#meeting-reminder).
 
-- Chair: Ensure that meeting proceeds smoothly using the
-  assigned meeting roles.
+- Voorsitter: Maak seker dat die vergadering glad verloop deur die
+  toegewyse vergaderrolle te gebruik
 
-- Secretary: Compile meeting minutes from notes. Add
-  minutes as a PR to the GH repository using the file format
-  MONTH-minutes.md. Include in minutes:
+- Sekretaris: Stel vergaderingsnotules uit notas saam. Voeg
+  minute as 'n PR by die GH-bewaarplek met behulp van die lêerformaat
+  Month-Minutes.md. Sluit binne minute in:
 
-  - Date and time of meeting
-  - Names of those in attendance
-  - Agenda items discussed, a summary of each discussion, and outcomes
-    of any votes taken
+  - Datum en tyd van vergadering
+  - Naam van diegene wat bywoon
+  - Agenda-items wat bespreek word, 'n opsomming van elke bespreking en uitkomste
+    van enige stemme wat geneem is
 
-- Chair: Review and edit or approve minutes. Merge PR.
+- Voorsitter: Hersien en wysig of goedkeur die notule. Voeg PR saam.
 
-- Secretary: Send meeting follow-up to the group using the [Meeting follow-up email template](#meeting-follow-up). Include a link to minutes and information about any follow-up tasks.
+- Sekretaris: Stuur vergaderingsopvolg aan die groep met behulp van die [Vergaderingsopvolg-e-possjabloon] (#meeting-follow-up). Sluit 'n skakel na minute en inligting oor enige opvolgtake in.
 
-- Chair: Communicate about decisions with relevant
-  Maintainers or other community members as needed using individual
-  lesson repositories, mailing lists, or other channels as appropriate.
+- Voorsitter: Kommunikeer oor besluite met relevante
+  Onderhouders of ander gemeenskapslede indien nodig met behulp van individuele
+  lesbewaarplekke, poslyste of ander kanale soos toepaslik.
 
-- Secretary: Set reminder to self to schedule next
-  meeting.
+- Sekretaris: Stel self herinnering om volgende
+  -vergadering te skeduleer.
 
-## Resources
+## Hulpbronne
 
-### Curriculum Advisory Committee Consultation Rubric
+### Kurrikulumadvieskomitee Konsultasierubriek
 
-_This rubric defines the division of responsibilities between The
-Carpentries Maintainers and The Carpentries Curriculum Advisory
-Committees (CACs)._
+\*Hierdie rubriek definieer die verdeling van verantwoordelikhede tussen The
+Carpentries Maintainers en The Carpentries Curriculum Advisory
+Committees (CACs) . \*
 
-#### Issues over which Maintainers have full authority and which do not need CAC involvement.
+#### Kwessies waaroor Onderhouders volle gesag het en wat nie CAC betrokkenheid benodig nie.
 
-- Addition or removal of exercises
-- Reorganisation of material within episodes
-- Addition or removal of callout boxes
-- Addition or removal of or changes to figures
-- Changes to episode timings
-- Changes to lesson text
+- Byvoeging of verwydering van oefeninge
+- Herorganisasie van materiaal binne episodes
+- Byvoeging of verwydering van uitroepbokse
+- Byvoeging of verwydering van of veranderinge aan syfers
+- Veranderinge aan episode tydperk
+- Veranderinge aan lesteks
 
-#### Issues about which Maintainers should consult the CAC.
+#### Kwessies oor watter onderhouders die CAC moet raadpleeg.
 
-- Any new versions of a dataset (either a new release or a modification
-  of existing data)
-- Any major adjustments to the lesson (e.g., episode order,
-  passwordless access)
-- Any updates to a lesson that Maintainers wish to share for
-  informational purposes
+- Enige nuwe weergawes van 'n datastel (óf 'n nuwe vrystelling óf 'n wysiging
+  van bestaande data)
+- Enige groot aanpassings aan die les (bv. Episodevolgorde,
+  wagwoordlose toegang)
+- Enige opdaterings van 'n les wat Onderhouders vir
+  inligtingsdoeleindes wil deel
 
-#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority.
+#### Kwessies wat voordeel kan trek uit Onderhouders wat met die CAC konsulteer, maar waaroor Onderhouders gesag behou.
 
-- Addition of a new library or package
-- Introduction of a new topic/learning objective (e.g., adding file
-  permissions to LC shell lesson)
-- Updates to software/packages that are minor versions (e.g., Python
-  3.7 -> 3.8) when the new version is backward compatible with the current
-  version
-- Additions of experimental features (e.g., git checkout → git restore
-  / git switch)
-- Any change to a lesson that impacts the content/scope of another
-  lesson in the curriculum
-- For Incubator lessons - Review a lesson outline where a lesson
-  developers would like the lesson to be considered for eventual
-  adoption into a Lesson Program’s official curriculum
-- Issues which are not covered anywhere else in this rubric
+- Byvoeging van 'n nuwe biblioteek of pakket
+- Bekendstelling van 'n nuwe onderwerp/leerdoelwit (bv. die toevoeging van lêer
+  -toestemmings by LC-skulples)
+- Opdaterings van sagteware/pakkette wat klein weergawes is (bv. Python
+  3.7 -> 3.8) wanneer die nuwe weergawe agterversoenbaar is met die huidige
+  weergawe
+- Toevoegings van eksperimentele funksies (bv. Git checkout → git restore
+  /git switch)
+- Enige verandering aan 'n les wat die inhoud/omvang van 'n ander
+  -les in die kurrikulum beïnvloed
+- Vir broeikas-lesse - Hersien 'n lesuiteensetting waar 'n les
+  -ontwikkelaars wil hê dat die les oorweeg moet word vir uiteindelike
+  aanvaarding in 'n lesprogram se amptelike kurrikulum
+- Kwessies wat nêrens anders in hierdie rubriek behandel word nie
 
-#### Issues for which Maintainers must seek CAC approval.
+#### Kwessies waarvoor Onderhouders CAC goedkeuring moet soek.
 
-- Replacing the dataset used in the lesson with a different dataset.
-  This does not include cases in which the data being used in the
-  lesson is being updated to a new version (e.g., a new data release)
-  or is modified to make it more suitable for the teaching environment
-  (e.g., introduction of messiness to the dataset).
+- Vervang die datastel wat in die les gebruik is, met 'n ander datastel.
+  Dit sluit nie gevalle in waarin die data wat in die
+  -les gebruik word, opgedateer word na 'n nuwe weergawe (bv. 'n nuwe datavrystelling)
+  of aangepas word om dit meer geskik te maak vir die onderrigomgewing
+  (bv. bekendstelling van morsig aan die datastel).
 
-- Changing the software being used in the lesson. This does not include
-  updating to a new stable, backwards-compatible version of the
-  existing software (e.g., Python 3.6 → 3.7.x), but does include:
+- Verander die sagteware wat in die les gebruik word. Dit sluit nie
+  -opdatering in na 'n nuwe stabiele, agterversoenbare weergawe van die
+  bestaande sagteware (bv. Python 3.6 → 3.7.x), maar sluit wel in:
 
-  - Updating to a non-backwards compatible version of existing
-    software (e.g., Python 2.x → 3.x, R 3.x → 4.x)
-  - Change in plotting library (e.g., Matplotlib, Plotly, Seaborn,
+  - Opdatering na 'n nie-terugversoenbare weergawe van bestaande
+    -sagteware (bv. Python 2.x → 3.x, R 3.x → 4.x)
+  - Verandering in plotbiblioteek (bv. Matplotlib, Plotly, Seaborn,
     ggplot, Altair)
-  - Change in libraries/packages taught (i.e., removal or
-    replacement)
-  - Change in SQL dialect (e.g., SQLite, MySQL, PostgreSQL, MSSQL
+  - Verandering in biblioteke/pakkette wat onderrig word (d.w.s. verwydering of
+    vervanging)
+  - Verandering in SQL-dialek (bv. SQLite, MySQL, PostgreSQL, MSSQL
     Server)
-  - Change in IDE being used to teach the lessons (RStudio, Jupyter
+  - Verandering in IDE wat gebruik word om die lesse te leer (RStudio, Jupyter
     Notebook)
-  - Change from GitHub as a remote hosting platform to a different
-    remote hosting platform, e.g., GitLab
+  - Verander van GitHub as 'n afgeleë gasheerplatform na 'n ander
+    afstandgasheerplatform, bv. GitLab
 
-- Removal of an entire episode’s worth of content
+- Verwydering van 'n hele episode se waarde van inhoud
 
-- Change in lesson infrastructure (e.g., moving Genomics lessons from
-  AWS to CyVerse)
+- Verandering in lesinfrastruktuur (bv. Die skuif van Genomika-lesse van
+  AWS na CyVerse)
 
-- Retirement of a lesson (e.g., MATLAB, Mercurial)
+- Aftrede van 'n les (bv. MATLAB, Mercurial)
 
-- Addition of a new lesson to the core curriculum (e.g., adding Julia
-  as an alternative to R / Python)
+- Toevoeging van 'n nuwe les tot die kernkurrikulum (bv. Die byvoeging van Julia
+  as alternatief vir R/ Python)
 
-- Adding or removing prerequisites from a lesson (for curricula with
-  multiple lessons)
+- Voeg of verwydering van voorvereistes uit 'n les (vir kurrikulums met
+  veelvuldige lesse)
 
-- Promotion or graduation of a lesson from alpha to beta to stable.
-  Decisions on approval can be based on recommendations from the
-  Curriculum Team, CAC member involvement in lesson pilot workshops,
-  and/or open peer review of lessons in The Carpentries Lab.
+- Bevordering of gradering van 'n les van alfa na beta tot stabiel.
+  Besluite oor goedkeuring kan gebaseer wees op aanbevelings van die
+  -kurrikulumspan, die betrokkenheid van die CAC-lede by lesvlieënige werkswinkels,
+  en/of oop ewekniehersiening van lesse in The Carpentries Lab.
 
-### Email templates
+### E-pos sjablone
 
-_Curriculum Advisors can use these email templates for planning their
-meetings._
+- Kurrikulumadviseurs kan hierdie e-possjablone gebruik om hul
+  -vergaderings te beplan. \*
 
-#### Scheduling a meeting
+#### Skeduleer 'n vergadering
 
-Subject: Scheduling [ QUARTER YEAR ] Meeting of the [ Data Carpentry /
-Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
-Advisory Committee
+Onderwerp: Skedulering [KWARTAJAAR] Vergadering van die [Datastemmerk/
+Biblioteekstuurwerk/sagtewarestuurwerk] [KURRIKULUMTITEL] Kurrikulum
+Advissiekomitee
 
-Hi everyone,
+Hallo almal,
 
-I’d like to get us started on setting up our meeting for [ QUARTER YEAR
-]. This meeting will be between [ DATE ] and [ DATE ].
+Ek wil ons graag begin met die oprigting van ons vergadering vir [KWARTAJAAR
+]. Hierdie vergadering sal tussen [DATE] en [DATE] wees.
 
-To help schedule the meeting, could everyone please add their
-availability to this whenisgood by
-this coming Friday ([ DATE ])? Please make sure to put in your time zone
-at the top of the poll. I’ll review the results and let everyone know
-the meeting time by [ DATE ] so that you can clear up any holds on your
-calendar.
+Om die vergadering te help skeduleer, kan almal asseblief hul
+beskikbaarheid by hierdie wanneer is goed by
+hierdie komende Vrydag ([DATUM]) voeg? Maak asseblief seker dat jy jou tydsone
+bo-aan die peiling plaas. Ek sal die resultate hersien en almal laat weet
+die vergaderingstyd teen [DATE] sodat u enige houdings op u
+-kalender kan opstel.
 
-Best, [ sender name ]
+Beste, [sender naam]
 
-#### Meeting announcement
+#### Vergadering aankondiging
 
-Subject: [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library
-Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
-Advisory Committee
+Onderwerp: [KWARTAJAAR] Vergadering van die [Datastemmerk/Biblioteek
+Timmerkwerk/Sagteware-timmerwerk] [KURRIKULUMTITEL] Kurrikulum
+Advissiekomitee
 
-Hi all,
+Hallo almal,
 
-Thank you for providing your availability. Our [ QUARTER YEAR ] meeting
-will be [ TIME AND DATE IN UTC ONLY ]. You can check the meeting’s time
-in your local time zone by clicking this link.
-You should have received a Google calendar invite to the meeting with
-Zoom connection information and the link to our Etherpad.
+Dankie dat u u beskikbaarheid verskaf het. Ons [KWARTAJAAR] -vergadering
+sal wees [SLEGS TYD EN DATUM IN UTC]. U kan die vergadering se tyd
+in u plaaslike tydsone nagaan deur op hierdie skakel te klik.
+U moes 'n Google-kalenderuitnodiging na die vergadering ontvang het met
+Zoom-verbindingsinligting en die skakel na ons Etherpad.
 
-A week before the meeting, I will send out our full agenda as well as
-meeting roles (notetaker, timekeeper, facilitator).
+'N Week voor die vergadering sal ek ons volledige agenda sowel as
+vergaderrolle (notemaker, tydbeker, fasiliteerder) uitstuur.
 
-Please let me know if you have any questions in the meantime or if you
-didn’t get the GCal invite.
+Laat weet my asseblief as u intussen enige vrae het of as u
+nie die GCal-uitnodiging gekry het nie.
 
-Best, [ sender name ]
+Beste, [sender naam]
 
-#### Meeting reminder
+#### Vergaderherinnering
 
-Subject: [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library
-Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
-Advisory Committee
+Onderwerp: [KWARTAJAAR] Vergadering van die [Datastemmerk/Biblioteek
+Timmerkwerk/Sagteware-timmerwerk] [KURRIKULUMTITEL] Kurrikulum
+Advissiekomitee
 
-Hi everyone,
+Hallo almal,
 
-Just a reminder that we’ll be meeting on [ DATE AND TIME IN UTC ONLY ].
-You should have a Google Calendar invite for the meeting with connection
-information. You can double-check the meeting time in your local time
-zone by following this link.
+Net 'n herinnering dat ons sal vergader op [DATUM EN TYD SLEGS IN UTC].
+U moet 'n Google Kalender-uitnodiging hê vir die vergadering met inligting oor verbinding
+. U kan die vergaderingstyd in u plaaslike tyd
+-sone dubbel nagaan deur hierdie skakel te volg.
 
-[ NAME OF CHAIR ] has prepared an agenda for our meeting. Please review
-the agenda on our Etherpad in advance of the
-meeting and be prepared to share your thoughts.
+[NAAM VAN VOORSITTER] het 'n agenda vir ons vergadering voorberei. Hersien asseblief
+die agenda op ons Etherpad voor die
+-vergadering en wees voorbereid om jou gedagtes te deel.
 
-Our roles for the meeting are also listed on the Etherpad. As a
-reminder, we will be using the following roles. If you are not able to
-or comfortable with carrying out your assigned role, please contact [
-NAME OF CHAIR ].
+Ons rolle vir die vergadering word ook op die Etherpad gelys. As 'n
+-herinnering sal ons die volgende rolle gebruik. As jy nie in staat is om
+te doen of gemaklik is om jou toegewyse rol uit te voer nie, kontak asseblief [
+NAAM VAN VOORSITTER].
 
-Facilitator - Introduces each agenda item. Monitors both the chat and
-the visual meeting window for “hands”, keeps track of the order, and
-acknowledges whose turn it is to speak. Make sure everyone has a chance
-to share their views.
+Fasilitator - Stel elke agenda-item bekend. Monitor beide die chat en
+die visuele vergadervenster vir “hande”, hou tred met die volgorde, en
+erken wie se beurt dit is om te praat. Maak seker dat almal die kans
+het om hul standpunte te deel.
 
-Notetaker - Records meeting attendance and major points of discussion.
-Especially takes note of decisions and action items.
+Notetaker - Teken vergaderingsbywoning en belangrikste besprekingspunte aan.
+Neem veral kennis van besluite en aksie-items.
 
-Timekeeper - monitors time and notifies the group when the time for specific
-agenda items are short.
+Tydbeker - monitor tyd en stel die groep in kennis wanneer die tyd vir spesifieke
+-agenda-items kort is.
 
-Excited to meet with you all soon.
+Opgewonde om binnekort met julle almal te ontmoet.
 
-Best, [ sender name ]
+Beste, [sender naam]
 
-#### Meeting follow-up
+#### Vergaderopvolg
 
-Subject: Follow-up from [ QUARTER YEAR ] Meeting of the [ Data Carpentry
-/ Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ]
-Curriculum Advisory Committee
+Onderwerp: Opvolg van [KWARTAJAAR] Vergadering van die [Data-timmerwerk
+/Biblioteekstuurmoerwerk/sagtewarestuurwerk] [KURRIKULUMTITEL]
+Kurrikulumadvieskomitee
 
-Hi all,
+Hallo almal,
 
-Thank you again for a very productive meeting last week. Our minutes for
-the meeting are posted to our repository. Minutes include decision
-points and action items for follow-up. I would like everyone to review
-them to make sure that I’ve correctly identified the decisions that were
-made.
+Weereens dankie vir 'n baie produktiewe vergadering verlede week. Ons notule vir
+die vergadering word by ons bewaarplek geplaas. Notule bevat besluit
+-punte en aksie-items vir opvolg. Ek wil graag hê dat almal
+hulle moet hersien om seker te maak dat ek die besluite wat
+geneem is, korrek geïdentifiseer het.
 
-Please review and respond to the minutes and
-let me know by \`DATE AND TIME
-UTC if you find any
-problems or have any objections to the decisions and action items. At
-that point, [ CHAIR NAME ] will follow up with the Maintainers on the
-next steps.
+Hersien asseblief die notule en reageer daarop en
+laat my weet deur \`DATUM EN TYD
+UTC as jy enige
+-probleme vind of enige besware het teen die besluite en aksie-items. Op
+daardie stadium sal [VOORSITTER NAAM] opvolg met die Onderhouders oor die
+volgende stappe.
 
-Thank you everyone for bringing your knowledge and expertise to the
-meeting last week and for your deep thought about this curriculum. I’m
-excited about [ upcoming publication or major lesson change ].
+Dankie almal dat u kennis en kundigheid verlede week na die
+-vergadering gebring het en vir u diep nadenke oor hierdie kurrikulum. Ek is
+opgewonde oor [komende publikasie of groot lesverandering].
 
-Please let me know if you have any questions or comments.
+Laat weet my asseblief as u enige vrae of kommentaar het.
 
-Best, [ sender name ]
+Beste, [sender naam]
 
-### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
+### [Kurrikulumaansluitmateriaal] (/resources/curriculum/curriculum_onboarding.md)
 
 ## FAQ
 
-**How do the responsibilities of Curriculum Advisors differ from
-Maintainers?**
+\*\*Hoe verskil die verantwoordelikhede van kurrikulumadviseurs van
+Onderhouders? \*\*
 
-Please review the Curriculum Advisory Committee Consultation
-Rubric.
+Hersien asseblief die [Kurrikulumadvieskomitee konsultasie
+rubriek] (#curriculum-advisory-committee-consultation-rubric).
 
