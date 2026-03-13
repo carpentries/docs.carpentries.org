@@ -1,63 +1,63 @@
-# The Carpentries Task Force Guidelines
+# Die riglyne vir die Carpentries Task Force
 
-These guidelines provide the recommended process for establishing a task force to ensure transparency, accountability, and sustainability of task forces' activities.
+Hierdie riglyne bied die aanbevole proses vir die oprigting van 'n taakspan om deursigtigheid, aanspreeklikheid en volhoubaarheid van taakmagte se aktiwiteite te verseker.
 
-## Task Force Proposal
+## Taakgrupvoorstel
 
-A task force proposal should:
+'N Taakgropvoorstel moet:
 
-- explain the need for or the context of the task force
-- list the aims and objectives of the task force
-- set a timeline for starting and completing the task force's activities/deliverables.
+- verduidelik die behoefte aan of die konteks van die taakspan
+- lys die doelwitte en doelwitte van die taakspan
+- stel 'n tydlyn in vir die begin en voltooiing van die taakspan se aktiwiteiteite/aflewerings.
 
-Task force proposals can be submitted by creating an
-issue in the
-[_task forces_ repository](https://github.com/carpentries/task-forces) in [The Carpentries GitHub](https://github.com/carpentries/) or
-by emailing the proposal to the [Core Team](mailto:team@carpentries.org).
+Taakgropvoorstelle kan ingedien word deur ['n
+-uitgawe te skep] (https://github.com/carpentries/task-forces/issues) in die
+[_taakmags_ bewaarplek] (https://github.com/carpentries/task-forces) in [The Carpentries GitHub] (https://github.com/carpentries/) of
+deur die voorstel aan die [Core Team] (mailto:team@carpentries.org) te stuur.
 
-## Task Force Formation
+## Taakmagvorming
 
-Task force proposals do not require formal approval, though the [Core Team should be informed](mailto:team@carpentries.org) of task force formation. Active task forces are listed in [The Carpentries task forces repository](https://github.com/carpentries/task-forces) with a link to its public documentation.
+Taakgroepvoorstelle vereis nie formele goedkeuring nie, alhoewel die [kernspan ingelig moet word] (mailto:team@carpentries.org) van die vorming van taakgroep. Aktiewe taakmagte word gelys in [The Carpentries task forces bewaarplek] (https://github.com/carpentries/task-forces) met 'n skakel na sy openbare dokumentasie.
 
-## Task Force Operations
+## Taakmagbedrywighede
 
-The following are recommended guidelines for committees. Each committee should:
+Die volgende is aanbevole riglyne vir komitees. Elke komitee moet:
 
-- Create the official [task force charter](https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md),
-  including the task force's roles and responsibilities
-- Appoint the task force chair and, optionally, a co-chair
-- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the task force meetings
-- Create a public space for the task force, including:
-  - The task force's charter and its current status (e.g., active, completed)
-  - Contact information for the task force
-  - Other public materials (if available)
-  - Information on when the task force meetings are held
-  - Meeting notes (if appropriate)
-  - Name of the Core Team liaison
-  - Information on how to apply to join the task force
-- Create internal [documentation for operational procedures](https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md#task-force-charter-name-of-task-force) (which may also be made public), including:
-  - Process for recruiting and/or selecting new members
-  - Decision-making process
-- Maintain internal and public-facing communication:
-  - Organise regular meetings to progress with the task force's activities and post meeting notes in a consistent location (meeting notes should be public unless the work of the task force requires them to remain private)
-  - Post meetings in the community calendar (note that meetings do not necessarily need to be open to the public to attend even though they are added to the calendar)
-  - Utilise other [Carpentries community communication pathways](/resources/communications/index.md) to engage with the community as needed
+- Skep die amptelike [taakgruphandves] (https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md),
+  , insluitend die rolle en verantwoordelikhede van die taakspan
+- Stel die taakgroepvoorsitter aan en opsioneel 'n mede-voorsitter
+- Versoek 'n lidskakeling van [Core Team] (https://carpentries.org/team/) om as kontakpunt te dien en (opsioneel) die taakgroepvergaderings by te woon
+- Skep 'n openbare ruimte vir die taakspan, insluitend:
+  - Die handves van die taakspan en sy huidige status (bv. Aktief, voltooi)
+  - Kontakinligting vir die taakspan
+  - Ander openbare materiaal (indien beskikbaar)
+  - Inligting oor wanneer die taakgroepvergaderings gehou word
+  - Vergaderingsnotas (indien toepaslik)
+  - Naam van die kernspanskakeling
+  - Inligting oor hoe om aansoek te doen om by die taakspan aan te sluit
+- Skep interne [dokumentasie vir operasionele prosedures] (https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md#task-force-charter-name-of-task-force) (wat ook openbaar gemaak kan word), insluitend:
+  - Proses vir die werwing en/of die keuse van nuwe lede
+  - Besluitnemingsproses
+- Handhaaf interne en openbare kommunikasie:
+  - Organiseer gereelde vergaderings om te vorder met die taakspan se aktiwiteite en plaas vergaderingsnotas op 'n konsekwente plek (vergaderingsnotas moet openbaar wees, tensy die werk van die taakspan vereis dat dit privaat moet bly)
+  - Plaas vergaderings in die gemeenskapskalender (let daarop dat vergaderings nie noodwendig oop hoef te wees vir die publiek om by te woon nie, alhoewel dit by die kalender gevoeg word nie)
+  - Gebruik ander [Carpentries gemeenskapskommunikasiepaaie] (/resources/communications/index.md) om met die gemeenskap betrokke te raak indien nodig
 
-The task force's public documentation should be stored in a folder within the [`task-forces` repository](https://github.com/carpentries/task-forces)
-in [The Carpentries GitHub](https://github.com/carpentries/).
+Die taakspan se openbare dokumentasie moet in 'n gids binne die [`task-forces` -bewaarplek] (https://github.com/carpentries/task-forces)
+in [The Carpentries GitHub] (https://github.com/carpentries/) gestoor word.
 
-## Task Force Termination
+## Taakmag beëindiging
 
-A task force will naturally cease to function upon fulfilling its goals, in which case the Core Team should be notified.
+'N Taakspan sal natuurlik ophou om te funksioneer wanneer sy doelwitte vervul word, in welke geval die kernspan in kennis gestel moet word.
 
-## Past & Current Task Forces
+## Verlede en huidige taakkragte
 
-- [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) - a recurring task force that gets periodically
-  reformed to organise the international [CarpentryCon](https://carpentries.org) conference on behalf of The Carpentries.
-- Other past and current task forces can be found in [The Carpentries Task Force Repository](https://github.com/carpentries/task-forces).
+- [CarpentryCon Task Force] (https://carpentries.org/carp-con-tf/) - 'n herhalende taakspan wat gereeld
+  hervorm word om die internasionale [CarpentryCon] (https://carpentries.org) konferensie namens The Carpentries te organiseer.
+- Ander taakmagte uit die verlede en huidige kan gevind word in [The Carpentries Task Force Repository] (https://github.com/carpentries/task-forces).
 
-## Update Log
+## Opdatering Logboek
 
-- 2024-01-25: Renamed Task Force Policy to Task Force Guidelines, including recommendations and removing requirements for task forces.
-- [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council.
-- [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council.
+- 2024-01-25: Hernoem die taakmagbeleid na taakmagriglyne, insluitend aanbevelings en verwydering van vereistes vir taakmagte.
+- [Goedgekeur op 2022-12-02] (https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) deur die Uitvoerende Raad.
+- [Goedgekeur op 2020-09-23] (https://github.com/carpentries/executive-council-info/issues/44) deur die Uitvoerende Raad.
