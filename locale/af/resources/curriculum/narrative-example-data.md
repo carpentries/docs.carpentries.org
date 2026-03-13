@@ -1,153 +1,153 @@
-# Choosing a Narrative and Dataset for a Lesson
+# Die keuse van 'n narratief en datastel vir 'n les
 
-Writing your lesson as a story helps learners stay motivated and engaged, and can prevent you from making leaps from one topic to the next without covering a step that learners will find to be important later.
-The narrative you create can also help learners more easily connect how the skills they are learning now could be useful after the workshop.
-You can enable learners to make connections between what they learn in your lesson and their own work, by creating a narrative that resembles a situation the learners might encounter there.
+Om jou les as 'n storie te skryf, help leerders om gemotiveerd en betrokke te bly, en kan jou verhoed om van een onderwerp na die volgende te spring sonder om 'n stap te dek wat leerders later belangrik sal vind.
+Die verhaal wat u skep, kan ook leerders help om makliker te koppel hoe die vaardighede wat hulle nou leer nuttig kan wees na die werkswinkel.
+U kan leerders in staat stel om verbindings te maak tussen wat hulle in u les leer en hul eie werk deur 'n verhaal te skep wat lyk soos 'n situasie wat die leerders daar kan teëkom.
 
-For a lot of lessons developed in The Carpentries community, the narrative is closely tied to the example data used in the lesson.
-A good example dataset makes it easier to teach the relevant skills, helps learners manage their cognitive load by focusing on what is most important.
-Just like the narrative, finding the right dataset involves striking a balance between authenticity and clarity.
+Vir baie lesse wat in The Carpentries -gemeenskap ontwikkel is, is die verhaal nou gekoppel aan die voorbeelddata wat in die les gebruik word.
+'N Goeie voorbeelddatastel maak dit makliker om die relevante vaardighede te leer, help leerders om hul kognitiewe las te bestuur deur te fokus op wat die belangrikste is.
+Net soos die verhaal, behels die vind van die regte datastel om 'n balans tussen egtheid en duidelikheid te verkry.
 
-## Top Tips: Lesson Narrative
+## Top wenke: lesverhaal
 
-1. When choosing a narrative, consider:
-   - Complexity: how easy will it be for learners to follow the narrative of the lesson?
-   - Order: when should you introduce each of the key concepts to manage cognitive load most effectively?
-     Could you sacrifice some realism to keep things simple at the beginning?
-     How can you position [the most important things as early as possible](https://www.youtube.com/watch?v=fQ4t7p6ZXDg) in the lesson?
-   - Authenticity: will learners be able to relate to the story being told and the examples being used?
-   - Efficiency: can you avoid or remove tangents and "side quests" that might distract learners (and instructors) from the lesson's objectives?
-2. Devote time at the beginning of the lesson for a short introduction to the narrative.
-   An effective introduction should help learners understand how the story relates to their work, the problems they encounter, and the things they want to do with the skills they will learn.
-3. Make use of images and figures to enhance your narrative.
-   [Consider the licensing and terms of reuse on those images](#finding-images), and respect the intellectual property rights of image creators.
-   Images can be distracting when they appear in the wrong place or are irrelevant or contradictory to the lesson content they accompany.
-4. A single narrative throughout the lesson is often preferable but can be difficult to achieve.
-   Use multiple, mini narratives for individual or groups of episodes if you need to.
-   Where you wish for learners to develop understanding of more abstract concepts, [provide a variety of examples with a common theme](https://neverworkintheory.org/2022/05/25/brown-mind-learns.html).
-   This could be achieved by providing multiple opportunities to recognise and apply the concept in taught examples, activities, and exercises.
-5. Look for example data that will support your chosen narrative (see below).
+1. As u 'n verhaal kies, oorweeg:
+   - Kompleksiteit: hoe maklik sal dit vir leerders wees om die verhaal van die les te volg?
+   - Bestel: wanneer moet u elk van die sleutelkonsepte bekendstel om kognitiewe las die doeltreffendste te bestuur?
+     Kan jy 'n bietjie realisme opoffer om dinge aan die begin eenvoudig te hou?
+     Hoe kan jy [die belangrikste dinge so vroeg as moontlik] (https://www.youtube.com/watch?v=fQ4t7p6ZXDg) in die les posisioneer?
+   - Egtheid: sal leerders kan verband hou met die verhaal wat vertel word en die voorbeelde wat gebruik word?
+   - Doeltreffendheid: kan u raakmante en “syvrae” vermy of verwyder wat leerders (en instrukteurs) van die les se doelstellings kan aflei?
+2. Bestee tyd aan die begin van die les vir 'n kort inleiding tot die verhaal.
+   'N Effektiewe inleiding moet leerders help om te verstaan hoe die verhaal verband hou met hul werk, die probleme wat hulle ondervind en die dinge wat hulle wil doen met die vaardighede wat hulle sal leer.
+3. Maak gebruik van beelde en figure om u vertelling te verbeter.
+   [Oorweeg die lisensiëring en voorwaardes van hergebruik op daardie beelde] (#finding-images), en respekteer die intellektuele eiendomsreg van beeldskeppers.
+   Beelde kan afleidend wees as hulle op die verkeerde plek verskyn of relevant of teenstrydig is met die lesinhoud wat hulle vergesel.
+4. 'N Enkele verhaal gedurende die les is dikwels verkieslik, maar kan moeilik wees om te bereik.
+   Gebruik veelvuldige, mini-vertellings vir individuele of groepe episodes as u nodig het.
+   Waar u wil hê dat leerders begrip van meer abstrakte konsepte kan ontwikkel, [verskaf 'n verskeidenheid voorbeelde met 'n gemeenskaplike tema] (https://neverworkintheory.org/2022/05/25/brown-mind-learns.html).
+   Dit kan bereik word deur verskeie geleenthede te bied om die konsep in voorbeelde, aktiwiteite en oefeninge te erken en toe te pas.
+5. Soek byvoorbeeld data wat u gekose verhaal sal ondersteun (sien hieronder).
 
-### Examples of Lesson Narratives
+### Voorbeelde van lesvertellings
 
-- [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of Alfredo, a chef working with his team to create a repository of his favorite recipes.
-- [Data Carpentry for Ecologists](https://datacarpentry.github.io/ecology-workshop/) uses a narrative of working through a data analysis project from data organization to data cleaning to data manipulations and visualizations.
-- [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/) uses the narrative of a poorly designed software project
-  (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
+- [Software Carpentry Git-les] (https://swcarpentry.github.io/git-novice/index.html) gebruik die verhaal van Alfredo, 'n sjef wat saam met sy span werk om 'n bewaarplek van sy gunsteling resepte te skep.
+- [Data Timmerry for Ecologists] (https://datacarpentry.github.io/ecology-workshop/) gebruik 'n narratief van die werk deur 'n data-analise-projek van data-organisasie tot data-skoonmaak tot datamanipulasies en visualiserings.
+- [Building Better Research Software] (https://carpentries-incubator.github.io/better-research-software/) gebruik die verhaal van 'n swak ontwerpte sagtewareprojek
+  (wat [NASA se oop data oor ruimtewandelinge] ontleed (https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d) wat deur ruimtevaarders van 1965 tot 2013 onderneem is) wat gedurende die les verbeter word ten opsigte van kode toeganklikheid, leesbaarheid, korrektheid en herbruikbaarheid.
 
-### Finding Images
+### Beelde vind
 
-Copying an image from a website is technologically simple but can be legally and ethically complex.
-Images are intellectual property and are subject to intellectual property laws including, but not limited to, copyright and trademark laws.
-These laws differ by country but are consistent in theme: do not use intellectual property that does not belong to you without permission.
+Om 'n beeld vanaf 'n webwerf te kopieer, is tegnologies eenvoudig, maar kan wettig en eties kompleks wees.
+Beelde is intellektuele eiendom en is onderhewig aan intellektuele eiendomswette, insluitend, maar nie beperk nie tot, kopiereg- en handelsmerk
+Hierdie wette verskil per land, maar is konsekwent in tema: gebruik nie intellektuele eiendom wat nie aan u behoort sonder toestemming nie.
 
-When looking for images that illustrate the narrative of your lesson, avoid copying images that do not include a reuse license.
-Assume that you cannot reuse these images unless you seek written permission from the image creator or owner.
-Instead, look for images that indicate that they are in the public domain or carry a permissive reuse license such as CC0 or CC-BY.
-Public domain images can be freely reused and adapted.
-Images carrying a reuse license can be used and adapted in accordance with their license terms.
+As u op soek is na beelde wat die verhaal van u les illustreer, moet u beelde kopieer wat nie 'n hergebruikslisensie insluit nie.
+Neem aan dat u hierdie beelde nie kan hergebruik nie, tensy u skriftelike toestemming van die beeldskepper of eienaar soek.
+Soek eerder beelde wat aandui dat dit in die openbare domein is of 'n permissiewe hergebruikslisensie soos CC0 of CC-BY het.
+Publieke domeinbeelde kan vrylik hergebruik en aangepas word.
+Beelde met 'n hergebruikslisensie kan gebruik en aangepas word in ooreenstemming met hul lisensiebepalings.
 
-If you cannot find reusable images that match your narrative, you can create your own images or seek help from others in the Carpentries community.
-When incorporating original images into your lesson, be sure to license these images to be [compatible with the license](#compatible-licenses) on the rest of your lesson materials.
+As jy nie herbruikbare beelde vind wat by jou verhaal pas nie, kan jy jou eie beelde skep of hulp van ander in die Carpentries-gemeenskap soek.
+As u oorspronklike beelde in u les inkorporeer, moet u hierdie beelde lisensieer om [verenigbaar met die lisensie] te wees (#compatible-licenses) op die res van u lesmateriaal.
 
-The guidance in this section is not a substitute for legal advice.
+Die leiding in hierdie afdeling is nie 'n plaasvervanger vir regsadvies nie.
 
-#### Compatible Licenses
+#### Versoenbare lisensies
 
-Creative Commons offers a chart that identifies which CC licenses are compatible with each other for adaptation ("remix") purposes:
-[Creative Commons license comparison chart](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
+Creative Commons bied 'n grafiek aan wat identifiseer watter CC-lisensies met mekaar versoenbaar is vir aanpassing (“remix”) doeleindes:
+[Creative Commons-lisensievergelykingskaart] (https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
 
-GNU offers commentary about a variety of licenses for free software; this resource may be valuable when considering a license for code:
-[GNU: Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html).
+GNU bied kommentaar oor 'n verskeidenheid lisensies vir vrye sagteware; hierdie bron kan waardevol wees as u 'n lisensie vir kode oorweeg word:
+[GNU: Verskeie lisensies en kommentaar oor hulle] (https://www.gnu.org/licenses/license-list.en.html).
 
-#### Catalogues of Open Images
+#### Katalogusse van oop beelde
 
-The following repositories are good places to start looking for openly-licensed images to use in your lesson.
+Die volgende bewaarplekke is goeie plekke om te begin soek na open-gelisensieerde beelde om in u les te gebruik.
 
-- [Unsplash](https://unsplash.com/)
-- [Undraw](https://undraw.co/)
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- [Onsplet] (https://unsplash.com/)
+- [Ongegroei] (https://undraw.co/)
+- [Wikimedia Commons] (https://commons.wikimedia.org/wiki/Main_Page)
 
 ::::::::::::::::::
 
-## Top Tips: Example Datasets
+## Top wenke: Voorbeelddatastelle
 
-1. Consider:
-   - Authenticity: will your learners feel that the example data is representative of the kind of data they are/will be working with?
-   - Size: data sets are often (very) large in modern data science and research.
-     Large example data sets may feel more authentic to learners, and help you illustrate important concepts and skills in your lesson.
-     But larger datasets typically take longer to process, which may mean more time waiting for things to run during a workshop.
-     They also place higher demands on learners' time and equipment, for downloading, storing, and processing files.
-   - Complexity: keeping example data too simple may not prepare learners for what they will encounter after the workshop.
-     However, data that is too complex will make it more difficult to manage cognitive load during the workshop.
-   - Messiness: real data is often messy, and using example data that has been extensively sanitised or synthesised wholesale may not prepare learners for this.
-     However, data cleaning can be time-consuming, reducing the space available for learners to explore other skills and concepts in the workshop.
-2. Many of the points above are in contradiction to each other, and choosing the right dataset usually involves finding an acceptable balance between them.
-   Some lesson developers choose to create their own example data: generating or synthesising your own example data provides a degree of control that is unavailable when reusing existing, real data, but may come at the cost of reduced authenticity.
-   Others modify existing data, e.g. by subsampling or selecting a subset of variables and tables from the full, published dataset.
-   If you do this, make sure to document the changes made to ensure reproducibility.
-3. Also consider licensing: has the data provider granted permission for you to freely use it in your lesson and workshops?
-   The best option is a dataset with a CC0 (Public Domain Dedication) license, as other licenses may have ambiguity around data reuse.
-   If you'd like to learn more about CC0 and CC-BY licensing in relation to data, refer to Katie Fortney's excellent [blog post on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
-   Lessons included in [The Carpentries Incubator][carpentries-incubator] are encouraged to use CC0 licensed data, and may be required to do so to qualify for peer review in [The Carpentries Lab][carpentries-lab].
-   Even with data in the public domain, please follow best practice and give attribution to the data provider or collecting agency.
-4. Look for example data in public repositories.
-   Data is often uploaded and published to [domain-specific or generalist repositories](#examples-of-public-repositories).
-   If you create or modify your own data to use an example in your lesson, consider uploading and publishing it (with a CC0 license) for others to re-use.
-5. It is also essential to think about data privacy: is there any potentially identifiable information included in the data?
-   If so, how could you remove it?
-6. Data is commonly misused from historically excluded and exploited groups.
-   When choosing a dataset, ensure that the data was collected with permission from the groups or individuals included.
-   Consider whether the data could be upsetting to learners in a workshop.
-   The [CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point for thinking about data sovereignty and considering the ethics of data collected about an individual or groups of people.
-7. Provide a "data dictionary" in your lesson, giving an overview of the data, where it came from, and how it was generated.
-   Include a short description of each variable, a key for the column names in data tables, encoding of values, etc.
-   For inspiration, see [the data dictionary from the Data Carpentry: Social Sciences curriculum](https://datacarpentry.org/socialsci-workshop/data.html).
+1. Oorweeg:
+   - Egtheid: sal u leerders voel dat die voorbeelddata verteenwoordigend is van die soort data waarmee hulle is/sal werk?
+   - Grootte: datastelle is dikwels (baie) groot in moderne datawetenskap en -navorsing.
+     Groot voorbeelddatastelle voel dalk meer outentiek vir leerders en help u om belangrike konsepte en vaardighede in u les te illustreer.
+     Maar groter datastelle neem gewoonlik langer om te verwerk, wat kan beteken dat meer tyd wag vir dinge om tydens 'n werkswinkel te loop.
+     Hulle stel ook hoër eise op leerders se tyd en toerusting vir die aflaai, stoor en verwerking van lêers.
+   - Kompleksiteit: om voorbeelddata te eenvoudig te hou, kan leerders nie voorberei op wat hulle na die werkswinkel sal teëkom nie.
+     Data wat te kompleks is, sal dit egter moeiliker maak om kognitiewe las tydens die werkswinkel te bestuur.
+   - Monster: werklike data is dikwels morsig, en die gebruik van voorbeelddata wat omvang gesontig of groothandaal gesintetiseer is, kan leerders hiervoor nie voorberei nie.
+     Data-skoonmaak kan egter tydrowend wees, wat die beskikbare ruimte vir leerders verminder om ander vaardighede en konsepte in die werkswinkel te verken.
+2. Baie van die punte hierbo is in stryd met mekaar, en die keuse van die regte datastel behels gewoonlik die vind van 'n aanvaarbare balans tussen hulle.
+   Sommige lesontwikkelaars kies om hul eie voorbeelddata te skep: die generering of sintetisering van u eie voorbeelddata bied 'n mate van beheer wat nie beskikbaar is wanneer bestaande, werklike data hergebruik word, maar kan ten koste van verminderde egtheid kom.
+   Ander verander bestaande data, bv. deur ondersteekproefneming of 'n substel veranderlikes en tabelle uit die volledige, gepubliseerde datastel te kies.
+   As u dit doen, maak seker dat u die veranderinge wat aangebring is, dokumenteer om reproduceerbaarheid te verseker.
+3. Oorweeg ook lisensiëring: het die dataverskaffer toestemming gegee vir u om dit vrylik in u les en werkswinkels te gebruik?
+   Die beste opsie is 'n datastel met 'n CC0 (Public Domain Indication) lisensie, aangesien ander lisensies dubbelsinnigheid kan hê oor die hergebruik van data.
+   As u meer wil leer oor CC0- en CC-BY-lisensiëring met betrekking tot data, verwys na Katie Fortney se uitstekende \[blogpos oor waarom CC-BY nie altyd goed pas nie] (https\://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
+   Lesse wat in \[The Carpentries Incubator] \[carpentries-inkubator] ingesluit is, word aangemoedig om CC0 gelisensieerde data te gebruik, en kan dit nodig wees om dit te doen om in te kwalifiseer vir ewekniebeoordeling in \[The Carpentries Lab] [carpentries-lab].
+   Selfs met data in die openbare domein, volg asseblief die beste praktyk en gee toeskrywing aan die dataverskaffer of versamelingsagentskap.
+4. Soek byvoorbeeld data in openbare bewaarplekke.
+   Data word dikwels opgelaai en gepubliseer na [domeinspesifieke of algemene bewaarplekke] (#examples-of-public-repositories).
+   As u u eie data skep of verander om 'n voorbeeld in u les te gebruik, moet u dit oorweeg om dit op te laai en te publiseer (met 'n CC0-lisensie) vir ander om weer te gebruik.
+5. Dit is ook noodsaaklik om na te dink oor data privaatheid: is daar enige potensieel identifiseerbare inligting in die data ingesluit?
+   Indien wel, hoe kan jy dit verwyder?
+6. Data word algemeen misbruik van histories uitgesluite en uitgebuite groepe.
+   As u 'n datastel kies, moet u seker dat die data versamel is met toestemming van die groepe of individue wat ingesluit is.
+   Oorweeg of die data vir leerders in 'n werkswinkel ontsteld kan wees.
+   Die [CARE-beginsels vir inheemse data-bestuur] (https://datascience.codata.org/articles/10.5334/dsj-2020-043) (kollektiewe voordeel, gesag om te beheer, verantwoordelikheid en etiek) is goeie beginpunt om na te dink oor data-soewereiniteit en die etiek van data wat versamel word oor 'n individu of groepe mense in ag neem.
+7. Verskaf 'n “data-woordeboek” in u les, wat 'n oorsig gee van die data, waar dit vandaan kom en hoe dit gegenereer is.
+   Sluit 'n kort beskrywing van elke veranderlike in, 'n sleutel vir die kolomname in datatabelle, kodering van waardes, ens.
+   Vir inspirasie, sien [die data-woordeboek uit die Data Masperry: Social Sciences -kurrikulum] (https://datacarpentry.org/socialsci-workshop/data.html).
 
-#### Examples of Example Datasets
+#### Voorbeelde van voorbeelddatastelle
 
-- The [Ecology Data Carpentry curriculum's](https://datacarpentry.org/lessons/#ecology) dataset comes from the Portal
-  Project Teaching Database.
-  This dataset is an actual ecological research project's data that was simplified for teaching.
-  The reuse of this dataset throughout the Data Carpentry Ecology lessons helps stitch together the process of data analysis throughout the workshop, from data entry and cleaning to analysis and visualisation.
-- The [Social Sciences Data Carpentry curriculum's](https://datacarpentry.org/lessons/#social-science) dataset is the
-  [teaching version](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) of the full Studying African Farmer-Led Irrigation (SAFI) dataset.
-  The SAFI dataset represents interviews of farmers in Mozambique and Tanzania, conducted between November 2016 and June 2017.
-  The interviews surveyed household features (e.g. construction materials used for dwellings, number of household members), agricultural practices (e.g. water usage) and assets (e.g. number and types of livestock).
-  The teaching version of the SAFI dataset has been simplified and intentionally "messed up"" to enable demonstrating common data cleaning issues often found in real-life data.
-- [Patient inflammation dataset](https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) - from the Software Carpentry Python [novice](https://swcarpentry.github.io/python-novice-inflammation/index.html) and the [incubating intermediate](https://carpentries-incubator.github.io/python-intermediate-development/index.html) lessons - is used to study the effect of a new treatment for arthritis by analysing the inflammation levels in patients who have been given this treatment.
-- A [river catchment dataset](https://github.com/carpentries-incubator/python-intermediate-rivercatchment/tree/main/data) from the [Lowland Catchment Research (LOCAR) Datasets](https://catalogue.ceh.ac.uk/documents/db9f6ef9-9512-4f39-aca3-3c55f51a7487) is used in the [Earth and Environmental Sciences Intermediate Python lesson](https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/index.html) to analyse hydrological, hydrogeological, geomorphological and ecological interactions within permeable catchment systems.
-- Data Carpentry's [Astronomical Data Science with Python](https://datacarpentry.org/astronomy-python/) lesson uses two astronomical datasets, from the Gaia satellite and the Pan-STARRS photometric survey, to reproduce part of an analysis described in a published article.
+- Die [Ecology Data Carpentry Curriculum se] (https://datacarpentry.org/lessons/#ecology) datastel kom van die [Portal
+  Project Teaching Database] (https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
+  Hierdie datastel is 'n werklike data van ekologiese navorsingsprojek wat vereenvoudig is vir onderrig.
+  Die hergebruik van hierdie datastel gedurende die lesse van Data Carpture Ecology help om die proses van data-analise regdeur die werkswinkel saam te steek, van data-invoer en skoonmaak tot analise en visualisering.
+- Die [Social Sciences Data Maspery-kurrikulum se] (https://datacarpentry.org/lessons/#social-science) datastel is die
+  [onderrigweergawe] (https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) van die volledige Studie African Farmer-Led Irrigation (SAFI) -datastel.
+  Die SAFI-datastel verteenwoordig onderhoude met boere in Mosambiek en Tanzanië, wat tussen November 2016 en Junie 2017 uitgevoer is.
+  Die onderhoude het huishoudelike kenmerke ondersoek (bv. konstruksiemateriaal wat vir wonings gebruik word, aantal huishoudelike lede), landboupraktyke (bv. Watergebruik) en bates (bv. aantal en soorte vee).
+  Die onderrigweergawe van die SAFI-datastel is vereenvoudig en doelbewus “gemors"” om algemene data-skoonmaakkwessies wat dikwels in werklike data voorkom, te demonstreer.
+- [Pasiëntontstekingsdatastel] (https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) - van die Software Carptery Python [novice] (https://swcarpentry.github.io/python-novice-inflammation/index.html) en die [inkuberende intermediêre] (https://carpentries-incubator.github.io/python-intermediate-development/index.html) lesse - word gebruik om die effek van 'n nuwe behandeling vir artritis te bestudeer deur die ontstekingsvlakke by pasiënte wat hierdie behandeling gekry het, te ontleed.
+- 'N [rivieropvangdatastel] (https://github.com/carpentries-incubator/python-intermediate-rivercatchment/tree/main/data) van die [Lowland Catchment Research (LOCAR) Datastelle] (https://catalogue.ceh.ac.uk/documents/db9f6ef9-9512-4f39-aca3-3c55f51a7487) word gebruik in die [Earth and Environmental Sciences Intermediate Python -les] (https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/index.html) om hidrologiese, hidrogeologiese, geomorfologiese en ekologiese interaksies binne deurlaatbare opvangstelsels te ontleed.
+- Data Carptery se [Astronomical Data Science with Python] (https://datacarpentry.org/astronomy-python/) les gebruik twee astronomiese datastelle, van die Gaia-satelliet en die Pan-STARRS fotometriese opname, om 'n deel van 'n analise wat in 'n gepubliseerde artikel beskryf word, weer te gee.
 
-#### Public Repositories for Data
+#### Openbare bewaarplekke vir data
 
-The following repositories are good places to start looking for example data to use in your lesson, and/or to deposit the example data you produce.
+Die volgende bewaarplekke is goeie plekke om na voorbeelddata te begin soek om in u les te gebruik en/of om die voorbeelddata wat u produseer te deponeer.
 
-- [Dryad](https://datadryad.org/)
-- [The Open Science Framework](https://osf.io/)
-- [The Official Portal for European Data](https://data.europa.eu/)
-- [Harvard Dataverse](https://dataverse.harvard.edu/)
-- [DataONE](https://www.dataone.org/)
-- [The Data Curation Network's datasets](https://datacuration.network/datasets/)
-- [The Official Portal for Argentina Data](https://www.datos.gob.ar/) (in Spanish)
-- [LANFRICA](https://lanfrica.com/)
+- [Dryad] (https://datadryad.org/)
+- [Die oop wetenskapsraamwerk] (https://osf.io/)
+- [Die amptelike portaal vir Europese data] (https://data.europa.eu/)
+- [Harvard Dataverse] (https://dataverse.harvard.edu/)
+- [DataEen] (https://www.dataone.org/)
+- [Die datastelle van die Data Curation Network] (https://datacuration.network/datasets/)
+- [Die amptelike portaal vir Argentinië data] (https://www.datos.gob.ar/) (in Spaans)
+- [AFRIKA] (https://lanfrica.com/)
 
-GitHub is not a good place to store data, especially when it is large and/or does not consist of text files.
-Instead, we recommend that you publish your example data elsewhere and link to it from your lesson website.
-This has the added advantages that you can publish the data under its own license (ideally CC0, as discussed above), obtain a separate DOI for it, and create another backup of your data.
-[Dryad](https://datadryad.org/), [Figshare](https://figshare.com/), the [Open Science Framework](https://osf.io/), and [Zenodo](https://zenodo.org/) are good general platforms for publishing data.
-However, if your lesson covers a particular domain with its own established standard for publishing data, we recommend that you use that.
-The [Generalist Repositories Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) includes several more general options, and provides a [decision tree to help you choose the most appropriate location for your data](https://zenodo.org/records/11105430).
+GitHub is nie 'n goeie plek om data te stoor nie, veral as dit groot is en/of nie uit tekslêers bestaan nie.
+In plaas daarvan beveel ons aan dat u u voorbeelddata elders publiseer en daaraan skakel vanaf u leswebwerf.
+Dit het die bykomende voordele dat u die data onder sy eie lisensie kan publiseer (ideaal CC0, soos hierbo bespreek), 'n aparte DOI daarvoor kan verkry en nog 'n rugsteun van u data skep.
+[Dryad] (https://datadryad.org/), [Figshare] (https://figshare.com/), die [Open Science Framework] (https://osf.io/) en [Zenodo] (https://zenodo.org/) is goeie algemene platforms vir die publikasie van data.
+As u les egter 'n spesifieke domein met sy eie gevestigde standaard vir die publikasie van data dek, beveel ons aan dat u dit gebruik.
+Die [Generalist Repositories Ecosystem Initiative (GREI)] (https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) bevat verskeie meer algemene opsies, en bied 'n [besluitboom om jou te help om die geskikste plek vir jou data te kies] (https://zenodo.org/records/11105430).
 
-When you publish the data for your lesson, make sure to include:
+Wanneer jy die data vir jou les publiseer, maak seker dat jy die volgende insluit:
 
-- a description of each of the files included.
-- information about the provenance of those files.
-- the lesson in which those files are used.
-- the license terms.
-- anything else you think people need to know about the data.
+- 'n beskrywing van elk van die lêers wat ingesluit is.
+- inligting oor die oorsprong van daardie lêers.
+- die les waarin die lêers gebruik word.
+- die lisensiebepalings.
+- enigiets anders wat jy dink mense moet weet oor die data.
 
-See [the Figshare entry of data used in Data Carpentry Image Processing workshops](https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677) for an example.
+Sien [die Figshare-inskrywing van data wat gebruik word in Data Carpment Image Processing werkswinkels] (https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677) vir 'n voorbeeld.
 
 [carpentries-incubator]: https://carpentries-incubator.org/
 [carpentries-lab]: https://carpentries-lab.org/
