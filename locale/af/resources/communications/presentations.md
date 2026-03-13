@@ -1,20 +1,20 @@
-# Presentations
+# Aanbiedings
 
-It is great for community members to give presentations on The Carpentries!
-Include your work with The Carpentries in a presentation, or you are more than welcome
-to give talks or discuss the organisation in general.
+Dit is wonderlik vir gemeenskapslede om aanbiedings oor The Carpentries te lewer!
+Sluit jou werk met The Carpentries in 'n aanbieding in, of jy is meer as welkom
+om gesprekke te hou of die organisasie in die algemeen te bespreek.
 
-There are some general Google slide decks as well as ones more tailored to
-particular topics or events. The General slide deck is CC0, so you are welcome to use it how you wish. Please just keep attributions on individual figures or photos if they are there.
+Daar is 'n paar algemene Google-skyfidekke sowel as diegene wat meer aangepas is vir
+spesifieke onderwerpe of geleenthede. Die Algemene skyfidek is CC0, so u is welkom om dit te gebruik soos u wil. Hou asseblief net toeskrywings op individuele figure of foto's as dit daar is.
 
-Other slide decks are CC-BY.
+Ander skyfidekke is CC-BY.
 
-Please use the following template when you are presenting on a topic related to The Carpentries. The template can be modified and adapted as necessary. However, please ensure that you are adhering to the general visual identity including colors, blocks, and fonts.
+Gebruik asseblief die volgende sjabloon wanneer u aanbied oor 'n onderwerp wat verband hou met The Carpentries. Die sjabloon kan aangepas en aangepas word indien nodig. Maak egter seker dat u voldoen aan die algemene visuele identiteit, insluitend kleure, blokke en lettertipes.
 
-[Carpentries Presentation Template](https://docs.google.com/presentation/d/160gj2GGepxlwJb2F0mPjUQ92aYENr8R_qulkuHXe5SU/edit#slide=id.p)
+[Carpentries aanbieding sjabloon] (https://docs.google.com/presentation/d/160gj2GGepxlwJb2F0mPjUQ92aYENr8R_qulkuHXe5SU/edit#slide=id.p)
 
-[About The Carpentries - General Slide Deck Presentation](https://docs.google.com/presentation/d/1PmkGMXN5-jZNugEJXYxlEBE-ecTxXFIZHMJLwQ96Haw)
+[Oor The Carpentries - Algemene skyfiedekaanbieding] (https://docs.google.com/presentation/d/1PmkGMXN5-jZNugEJXYxlEBE-ecTxXFIZHMJLwQ96Haw)
 
-[List of past Data Carpentry presentations on Zotero](https://www.zotero.org/groups/597593/datacarpentry/items/collectionKey/WT38F37Q) including abstracts and links to slide decks.
+[Lys van vorige Data Carpentery-aanbiedings op Zotero] (https://www.zotero.org/groups/597593/datacarpentry/items/collectionKey/WT38F37Q) insluitend opsommings en skakels na skyfidekke.
 
-Updates to slide decks or contributing your slide decks is encouraged and welcomed too!
+Opdaterings op skyfidekke of bydra van jou skyfidekke word ook aangemoedig en verwelkom!
