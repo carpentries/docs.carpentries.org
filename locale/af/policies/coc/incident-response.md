@@ -1,74 +1,74 @@
-# Code of Conduct Incident Response Guidelines
+# Gedragskode-riglyne vir reaksie vir voorvalle
 
-Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md).
+Inligting oor hoe om 'n voorval van gedragskode (CoC) aan te meld, word uiteengesit in ons [Riglyne vir verslagdoening van gedragskode] (incident-reporting.md).
 
-The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident **before** reporting it to the Code of Conduct committee (CoCc). You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident.
+Die kontrolelyste hieronder uiteengesit die stappe wat enige gemeenskapslid (werkswinkelgasheer, [instrukteur] (https://carpentries.org/instructors/), helper, ens.) kan tydens 'n moontlike gedragskode-voorval **before** neem wat dit aan die Code of Gedragskomitee (CoCC) rapporteer word. U kan uitdagende situasies ondervind en beperkte ervaring of opleiding hê om gemaklik te voel deur die CoC af te dwing. Hierdie riglyne is bedoel om jou te help lei deur die proses om ander gemeenskapslede en jouself tydens 'n voorval te ondersteun.
 
-All Carpentries community members should feel empowered to enforce the Code of Conduct.
+Alle lede van Carpentries -gemeenskap moet gemagtig voel om die gedragskode af te dwing.
 
-Ideally, we would all be able to defuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident.
+Ideaal gesproke sou ons almal 'n voorval kan ontbreek. In die praktyk het ons verskillende troos met situasies, afhangende van ons huidige ervaring en die omgewing. Hieronder is maniere waarop u ondersteunend kan wees en stappe wat u tydens of na 'n voorval kan neem.
 
-If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report via the [Code of Conduct incident report form][reporting-form] to the CoCc.
-For in person events, please immediately contact a workshop host or instructor so that they can assist you in implementing the **Immediate Response Checklist** as listed below, and help submit a report to the CoCc.
+As u kan, beweeg van 'n omstander na 'n eerste reageerder van gedragskode. As jy iets onvanpas sien gebeur, praat dan. As u nie gemaklik voel om in te gryp nie, maar voel dat iemand moet, dien asseblief 'n verslag via die \[Gedragskode-voorvalle verslagvorm] \[verslagvorm] by die CoCC in.
+Vir persoonlike geleenthede, kontak asseblief onmiddellik 'n werkswinkelgasheer of instrukteur sodat hulle u kan help met die implementering van die **Onmiddellike reaksie-kontrolelyst** soos hieronder gelys, en help om 'n verslag aan die CoCC in te dien.
 
-## Immediate Response
+## Onmiddellike reaksie
 
-The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.
+Die aanvanklike reaksie op 'n voorval is baie belangrik en sal die toon stel vir The Carpentries -gemeenskap. Afhangende van die erns en/of besonderhede van die voorval, kan 'n onmiddellike reaksie nodig wees. As 'n voorval fisiese gevaar behels of 'n bedreiging vir enigiemand se veiligheid behels (bv. dreigemente van geweld), kan enige lid van die gemeenskap - en moet - onmiddellik optree om veiligheid te beskerm. Dit kan insluit om nood- of krisishulpbronne te kontak.
 
-## Ongoing Incidents
+## Deurlopende voorvalle
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the CoCc for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
+As 'n voorval aan die gang is, hetsy persoonlik of aanlyn, kan enige gemeenskapslid (werkswinkelgasheer, instrukteur, helper) onmiddellik optree en enige van die gereedskap wat vir die gemeenskapslid beskikbaar is, gebruik om die situasie te kalmeer. In situasies waar 'n individuele gemeenskapslid onmiddellik optree, moet hulle die werkswinkelgasheer so gou as moontlik inlig en hul optrede aan die CoCC rapporteer vir hersiening binne 24 uur na die voorval. As daar 'n onmiddellike reaksie nodig is, sien asseblief die [Kontrolelys vir onmiddellike reaksie] (#checklists-for-responding-to-an-incident).
 
-## Checklists for Responding to an Incident
+## Kontrolelyste vir die reaksie op 'n voorval
 
-**Immediate Response Checklist**
+**Kontrolelys vir onmiddellike reaksie**
 
-- Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.
-- If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.
-- If individuals are physically safe, contact law enforcement or security only at the reporter’s request.
-- Follow any local guidelines for handling incidents, including if you have a legal reporting role.
+- Evalueer of u 'n eersteantwoorder nodig het (wetstoepassing, ens.) om onmiddellik op die voorval te reageer. Indien wel, vra die verslaggewer om by u te bly en skakel die toepaslike noodreaksie-nommer.
+- As daar enige algemene bedreiging is vir deelnemers en/of die veiligheid van enigiemand wat 'n Carpentries-geleentheid bywoon, kontak die noodreaksie-nommer wat gevestig is.
+- As individue fisies veilig is, kontak wetstoepassing of sekuriteit slegs op versoek van die verslaggewer.
+- Volg enige plaaslike riglyne vir die hantering van voorvalle, insluitend as u 'n regsverslagdoenrol het.
 
-**In-Person and Online Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
+\*\* Kontrolelys vir persoonlike en aanlyn geleenthede (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instruktoropleiding) \*\*
 
-- Ensure participants are safe.
-- If participants are not safe, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
-- Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form].
-- If they would like your help or feel more comfortable if you complete the report, talk to them or communicate via email/online call to get their inputs in getting as much detail as possible, and help submit the report with their assistance.
-- Inform the workshop host or the listed contact person (such as a CoC facilitator) that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host or instructor, report the incident directly to the CoCc via the incident report form.
+- Verseker dat deelnemers veilig is.
+- As deelnemers nie veilig is nie, verwys na die [Kontrolelys vir onmiddellike reaksie] (#checklists-for-responding-to-an-incident).
+- Vra die verslaggewer om die voorval aan te meld via die \[Code of Gedragsindalverslag Vorm] \[verslagvorm].
+- As hulle u hulp wil hê of gemakliker voel as u die verslag voltooi, praat met hulle of kommunikeer via e-pos/aanlyn-oproep om hul insette soveel as moontlik besonderhede te kry, en help om die verslag met hul hulp in te dien.
+- Stel die werkswinkelgasheer of die gelyste kontakpersoon (soos 'n CoC-fasiliteerder) in kennis dat daar 'n voorval was en dat 'n verslag ingedien is via die \[voorvalverslagvorm] \[verslagvorm]. As die voorval die werkswinkelgasheer of instrukteur behels, rapporteer die voorval direk aan die CoCC via die voorvalverslagvorm.
 
-**Online Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
+\*\* Kontrolelys vir aanlynkommunikasiekanale (onderrigdemonstrasies, gemeenskapsbesprekings, Carpentries Instruktoropleiding, Slack Channels, TopicBox) \*\*
 
-- Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form].
-- Save screenshots of any online interactions where the issue occured and share in your report.
-- If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
+- Stel die geleentheidsgasheer/vergaderingsfasiliteerder in kennis dat daar 'n probleem was en stuur 'n verslag via die \[voorvalle verslagvorm] \[verslagvorm].
+- Stoor skermkiekies van enige aanlyninteraksies waar die probleem plaasgevind het en deel dit in u verslag.
+- As die voorval die geleentheidsgasheer/vergaderingsfasiliteerder behels, voltooi asseblief die \[voorvalle verslagvorm] \[verslagvorm] en wees verseker dat vertroulikheid en u ervaring in ons gemeenskap ons eerste prioriteit is.
 
-If a community member has violated the CoC via an online event, the CoCc can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the CoCc has concluded their investigation of the reported incident.
+As 'n gemeenskapslid die CoC via 'n aanlyngeleentheid oortree het, kan die CoCC 'n korttermyn-opskorting (termed-suspension.md) uitvoer, en die verslaggewer se voorregte vir alle Carpentries kommunikasiekanale kan opgeskort word totdat die CoCC hul ondersoek van die gerapporteerde voorval afgesluit het.
 
-Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
+Individue wat gerapporteer word, word dikwels ontsteld, verdedigend of ontken die verslag. Laat hulle toe om addisionele besonderhede oor die voorval te gee. Onthou egter:
 
-- It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively.
-- It is not your job to reassure or forgive them.
-- Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
+- Dit maak nie saak of hulle nie van plan was om iemand seergemaak nie; hul gedrag het deelnemers steeds negatief beïnvloed.
+- Dit is nie jou taak om hulle gerusstel of te vergewe nie.
+- Moenie toelaat dat die gerapporteerde persoon die verslaggewer of betrokke persoon verskoning vra nie. Dikwels sentreer 'n verskoning die gevoelens van die gerapporteerde persoon en nie die persoon wat geraak is nie. U kan hul verskoning aanvaar en aanbied om dit oor te dra, maar u moet dit nie verwag as u dink dit sal die verslaggewer negatief beïnvloed nie.
 
-## Incidents involving Core Team members
+## Voorvalle waarby kernspanlede betrokke
 
-- If there are CoC reports either about or from (or in any way involving) Core
-  Team members, and those reports
-  have the potential to rise to the level of harassment as defined by United States law,
-  The Carpentries Executive Team must be made aware immediately.
-- If a non-U.S. based Core Team member is involved, we may
-  need to bring in the Employer of Record (EOR) for country-specific advice.
-- In cases involving Core Team members that are definitely not harassment, it is ok
-  to handle through CoCc without involving the Executive Team. Examples of types of things that
-  might be reported to the CoCc but that are not harassment are a workshop
-  participant swearing at an Instructor, or a community member who is rude and
-  pushy but not in any way related to sexual advances or protected categories.
+- As daar CoC-verslae is, óf oor of van (of op enige manier betrek) Core
+  -spanlede, en daardie verslae
+  die potensiaal het om tot die vlak van teistering te styg soos gedefinieer deur die Verenigde State se wet, moet
+  Die uitvoerende span van Carpentries onmiddellik bewus gemaak word.
+- As 'n nie-VSA gebaseerde kernspanlid is betrokke, ons sal moontlik
+  die Werkgewer van Rekord (EOR) moet inbring vir landspesifieke advies.
+- In gevalle waarby kernspanlede betrokke is wat beslis nie teistering is nie, is dit ok
+  om deur CoCC te hanteer sonder om die uitvoerende span te betrek. Voorbeelde van soorte dinge wat
+  aan die CoCC gerapporteer kan word, maar wat nie teistering is nie, is 'n werkswinkel
+  -deelnemer wat sweer by 'n instrukteur, of 'n gemeenskapslid wat onbeskof en
+  druk is, maar op geen manier verband hou met seksuele vooruitgang of beskermde kategorieë nie.
 
-If a report involving a Core Team member is susceptible to meet the appropriate
-criteria for harassment, the CoCc should contact the Core Team liaison to the
-CoCc. The Core Team CoCc liaison will elevate anything that comes in by or about
-Core Team members to the Executive Team if appropriate and to the EOR if needed.
-If a report involves the Core Team CoCc
-liaison, the CoCc needs to contact the Executive Director directly.
+As 'n verslag waarby 'n kernspanlid betrokke is, vatbaar is om aan die toepaslike
+-kriteria vir teistering te voldoen, moet die CoCC die kernspan-skakeling met die
+CoCC kontak. Die Core Team CoCC-skakeling sal enigiets wat deur of oor
+Core Team lede inkom, verhoog na die Uitvoerende Span indien toepaslik en na die EOR indien nodig.
+As 'n verslag die Core Team CoCC
+-skakeling behels, moet die CoCC die Uitvoerende Direkteur direk kontak.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
