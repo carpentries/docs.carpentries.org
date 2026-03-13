@@ -1,101 +1,101 @@
-# Board of Directors Handbook
+# Handboek van Raad van Direkteure
 
-## About This Handbook
+## Oor hierdie handboek
 
-This handbook provides useful information about how The Carpentries functions in collaboration with the  Board of Directors including the mission and programs of The Carpentries, the governing documents and policies of The Carpentries and Board, and the general and specific roles and responsibilities of the Board, Core Team and community. This document will be reviewed annually by the Governance and Personnel Committee and updated as needed. To provide feedback on its content, email
-{{'[{}](mailto:{})'.format(team_email, team_email)}}.   If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Hierdie handboek verskaf nuttige inligting oor hoe The Carpentries funksioneer in samewerking met die Raad van Direkteure, insluitend die missie en programme van The Carpentries, die beheerdokumente en beleide van The Carpentries en Board, en die algemene en spesifieke rolle en verantwoordelikhede van die Raad, Kernspan en gemeenskap. Hierdie dokument sal jaarliks deur die Bestuur- en Personeelkomitee hersien word en indien nodig opgedateer word. Om terugvoer te gee oor die inhoud daarvan, stuur 'n e-pos aan
+{{'[{}] (mailto:{}) '.format (team_email, team_email)}}.   As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
-## Introduction
+## Inleiding
 
-Governance of The Carpentries is undertaken by the Board of Directors to whom the Executive Director reports. The Board comprises 7-13 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least 33% of the Board members are elected by the Carpentries community.
+Die bestuur van The Carpentries word onderneem deur die Raad van Direkteure aan wie die Uitvoerende Direkteur rapporteer. Die Raad bestaan uit 7-13 persone, óf lede van die Carpentries-gemeenskap óf uit eksterne gemeenskappe wat vir spesifieke kundigheid ingebring is. Ten minste 33% van die Raadslede word deur die Carpentries -gemeenskap verkies.
 
-## Roles and Responsibilities
+## Rolle en verantwoordelikhe
 
-The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms.
+Die Raad is verantwoordelik vir strategiese en organisatoriese beplanning, die keuse van die uitvoerende direkteur en evaluering van hul prestasie, finansiële toesig, die identifisering van inkomstestrome en hulpbronontwikkeling, die Carpentries-programme en dienste goedkeur en monitering, en die verbetering van die openbare beeld van The Carpentries. Lede van die Raad dien ook as advokate en ambassadeurs vir die organisasie, en benut hul netwerke om die organisasie se reputasie en fondsinsameling te bevoordeel. Die Raad voer hierdie verantwoordelikhede uit deur middel van vergaderings, gereelde korrespondensie en samewerking via e-pos en aanlynplatforms.
 
-- In practice, each Board member is responsible for the following general tasks:
-  - Support the Mission and Vision of The Carpentries
-  - Exemplify the {{'[Code of Conduct]({})'.format(code_of_conduct)}} and {{"[Core Values]({}/about-us/#our-values)".format(carpentries_website)}}
-  - Ensure The Carpentries’ adherence to legal agreements and standards
-  - Offer expertise to help ensure the health and success of the organisation
-  - Actively participate in discussions about strategic and financial decisions
-  - Provide feedback and vote on formal motions
-  - Dedicate four to six volunteer hours per month toward Carpentries activities (including meeting attendance)
-- Each Board member is expected to serve on at least one, but no more than two standing committees. Serving on a specific standing committee allows Board members to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximise time and resources between meetings. The current standing committees are
-  - [Audit](https://docs.google.com/document/d/1ybrzsxpybIVCdupw81I_Hs6VGSHXgtthDLixsXJYenc/edit?usp=drive_link) [private document]
-  - [Finance](https://docs.google.com/document/d/1zbqrhVlPTkLhGHLLJdyv5tAqSPQ2IMY2JfYwOCC1dfg/edit?usp=drive_link)  [private document]
-  - [Governance & Personnel](https://docs.google.com/document/d/1sH6HXDO0Ffast9rJmic2rxRlbqvPNZkBBUMn0uE780E/edit?usp=drive_link)  [private document]
-  - [Program](https://docs.google.com/document/d/1JAzBMjJ3TvIPPruQMYyvaRgrTbcTJXF0xagZr1xXfGA/edit?usp=drive_link)  [private document]
-- The Board consists of four officers listed below. Learn more about the responsibilities of the officers in {{"[Article VIII of the bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}.
-  - Chair (President)
-  - Chair-Elect (Vice President)
-  - Secretary
-  - Treasurer
-- Each Board member must dedicate at least four to six volunteer hours per month toward Carpentries activities. This number includes meeting attendance.
-  - Meetings
-    - Quarterly Meetings \- Two-hour long meetings held virtually every quarter
-    - Standing Committee Meetings \- Each committee holds at least three meetings per year
-    - Board Retreat \- A once-yearly in-person or virtual meeting. The Carpentries will cover expenses for this retreat.
-    - Additional meetings as necessary
-    - It is expected that Board members will attend (in person or by phone/web-based platform) at least 75% of the meetings held each year
-  - Board membership also includes the following asynchronous commitments
-    - Suggesting agenda items for meetings
-    - Responding to email requests for opinions
-    - Formal voting on resolutions
-    - Work resulting from being on a task force or committee representing the Board.
+- In die praktyk is elke Raadslid verantwoordelik vir die volgende algemene take:
+  - Ondersteun die missie en visie van The Carpentries
+  - Voorbeeld die {{'[Gedragskode] ({}) '.format (code_of_conducte)}} en {{"[Kernwaardes] ({}/about-us/#our-values)” .format (carpentries_website)}}
+  - Verseker dat die Carpentries nakoming van wetlike ooreenkomste en standaarde
+  - Bied kundigheid aan om die gesondheid en sukses van die organisasie te verseker
+  - Neem aktief deel aan besprekings oor strategiese en finansiële besluite
+  - Verskaf terugvoer en stem oor formele mosies
+  - Toe vier tot ses vrywilligure per maand toe aan Carpentries -aktiwiteite (insluitend vergaderingsbywoning)
+- Daar word verwag dat elke Raadslid in ten minste een, maar nie meer as twee permanente komitees sal dien nie. Deur in 'n spesifieke permanente komitee te dien, kan Raadslede hul vakkundigheid na spesifieke bestuur en operasionele prioriteite bring, kwessies en projekte meer effektief en doeltreffend hanteer en tyd en hulpbronne tussen vergaderings maksimeer. Die huidige permanente komitees is
+  - [Oudiet] (https://docs.google.com/document/d/1ybrzsxpybIVCdupw81I_Hs6VGSHXgtthDLixsXJYenc/edit?usp=drive_link) [privaat dokument]
+  - [Finansies] (https://docs.google.com/document/d/1zbqrhVlPTkLhGHLLJdyv5tAqSPQ2IMY2JfYwOCC1dfg/edit?usp=drive_link) [privaat dokument]
+  - [Bestuur en Personeel] (https://docs.google.com/document/d/1sH6HXDO0Ffast9rJmic2rxRlbqvPNZkBBUMn0uE780E/edit?usp=drive_link) [privaat dokument]
+  - [Program] (https://docs.google.com/document/d/1JAzBMjJ3TvIPPruQMYyvaRgrTbcTJXF0xagZr1xXfGA/edit?usp=drive_link) [privaat dokument]
+- Die Raad bestaan uit vier beamptes wat hieronder gelys word. Kom meer te wete oor die verantwoordelikhede van die beamptes in {{"[Artikel VIII van die verordeninge] ({}/about-us/governance/#carpentries-bylaws-and-policies)” .format (carpentries_website)}}.
+  - Voorsitter (President)
+  - Voorsitter-verkose (vise-president)
+  - sekretaris
+  - Tesourier
+- Elke Raadslid moet minstens vier tot ses vrywilligure per maand aan Carpentries -aktiwiteite wy. Hierdie nommer sluit vergaderingsbywoning in.
+  - Vergaderings
+    - Kwartaallikse vergaderings\ - Twee uur lange vergaderings wat feitlik elke kwartaal
+    - Staande Komiteevergaderings\ - Elke komitee hou ten minste drie vergaderings per jaar
+    - Board Retreat\ - 'n Persoonlike of virtuele vergadering een keer per jaar. Die Carpentries sal uitgawes vir hierdie toevlugsoord dek.
+    - Bykomende vergaderings indien nodig
+    - Daar word verwag dat Raadslede minstens 75% van die vergaderings wat elke jaar gehou word (persoonlik of per telefoon/webgebaseerde platform) sal bywoon
+  - Raadslidmaatskap sluit ook die volgende asynchrone verbintenisse in
+    - Voorstel van agenda-items vir vergaderings
+    - Antwoord op e-pos versoeke vir menings
+    - Formele stemming oor resolusies
+    - Werk wat voortspruit uit die wees in 'n taakspan of komitee wat die Raad verteenwoordig.
 
-## Onboarding
+## Onboord
 
-- Onboarding typically occurs in January which is between the election and the first Board meeting in February. The official term of office for incoming Board members is 1 February. Onboarding is found in the [Board of Directors Onboarding Checklist](https://docs.google.com/document/d/1SosQK9hyYvYDBtGy5heLKXiAfhwGybHF8mH9P8CFhZI/edit) [private document]. This document will guide learning more about The Carpentries, the Board, and general orientation to both.
+- Onboarding vind gewoonlik plaas in Januarie, wat tussen die verkiesing en die eerste raadsvergadering in Februarie is. Die amptelike ampstermyn vir inkomende Raadslede is 1 Februarie. Onboarding word gevind in die [Board of Directors Onboarding Checklys] (https://docs.google.com/document/d/1SosQK9hyYvYDBtGy5heLKXiAfhwGybHF8mH9P8CFhZI/edit) [privaat dokument]. Hierdie dokument sal lei om meer te wete te kom oor The Carpentries, die Raad en algemene oriëntasie vir albei.
 
-### Nomination and Election Frequency
+### Benoeming en verkiesingsfrekw
 
-- Community-elected (At-Large) members will be elected per the 33% Board member requirement outlined in the bylaws. These elections typically occur once every three calendar years and no later than 30 days before the new Board becomes active on February 1.
-- Board-elected members will be elected every two years. This vote will not take place until after the voting results for community-elected members are known and no later than December 15.
-- Learn more about nominations and elections in {{"[Article VI Section 6.06 of the bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}.
+- Gemeenskapsverkose (At-Large) lede sal verkies word volgens die 33% raadslidvereiste wat in die verordeninge uiteengesit word. Hierdie verkiesings vind gewoonlik een keer elke drie kalenderjaar plaas en nie later nie as 30 dae voordat die nuwe Raad op 1 Februarie aktief word nie.
+- Lede wat deur die raad verkies word, sal elke twee jaar verkies word. Hierdie stemming sal eers plaasvind nadat die stemuitslae vir gemeenskapsverkose lede bekend is en nie later as 15 Desember nie.
+- Kom meer te wete oor benoemings en verkiesings in {{"[Artikel VI Afdeling 6.06 van die verordeninge] ({}/about-us/governance/#carpentries-bylaws-and-policies)” .format (carpentries_website)}}.
 
-## Offboarding
+## Afboording
 
-- Please refer to the [Board Member Account Access Checklist](https://docs.google.com/document/d/1ZE6mW1Sv-IGSyZxjHBv_3VqWs-n4bjy1X6Y9Si84cJk/edit#heading=h.gmdhm3dzqkqz).
+- Verwys asseblief na die [Kontrolelys vir Toegang vir Raadslede] (https://docs.google.com/document/d/1ZE6mW1Sv-IGSyZxjHBv_3VqWs-n4bjy1X6Y9Si84cJk/edit#heading=h.gmdhm3dzqkqz).
 
-## Communication and Collaboration Spaces
+## Kommunikasie- en samewerkings
 
-### Board of Directors Calendar
+### Raad van Direkteure Kalender
 
-Once scheduled, Quarterly, committee, and special meetings will appear on the [Carpentries Board of Directors Google calendar](https://calendar.google.com/calendar/u/0?cid=cTdqMWZ0ZGxkb2FhcHNvMm9uNDRxcmRucHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [private calendar]. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
+Sodra dit geskeduleer is, sal kwartaallikse, komitee- en spesiale vergaderings verskyn op die [Carpentries Board of Directors Google-kalender] (https://calendar.google.com/calendar/u/0?cid=cTdqMWZ0ZGxkb2FhcHNvMm9uNDRxcmRucHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [private kalender]. U kan van daar vanaf relevante geleenthede by u kalender voeg deur op die geleentheid te klik wat u wil bywoon.
 
 ### Google Drive
 
-The Board uses a private Google shared drive to store collaborative documents:
+Die Raad gebruik 'n privaat Google gedeelde skyf om samewerkende dokumente te stoor:
 
-- [The Carpentries, Inc. Board of Directors](https://drive.google.com/drive/folders/0AElzed8dqYAlUk9PVA) \- See its [README](https://docs.google.com/document/d/1g8ZQwbu6OD7KFgqhnnan3fnIKPe_txMM/edit) for orientation to content.
+- [The Carpentries, Inc. Raad van Direkteure] (https://drive.google.com/drive/folders/0AElzed8dqYAlUk9PVA)\\ - Sien sy [README] (https://docs.google.com/document/d/1g8ZQwbu6OD7KFgqhnnan3fnIKPe_txMM/edit) vir oriëntasie op inhoud.
 
-## Step-by-Step Guides
+## Stap-vir-stap
 
 ### GitHub
 
-Learn more about enabling notifications and participating in discussions on GitHub by clicking on the resources provided below:
+Kom meer te wete oor die aktivering van kennisgewings en deel te neem aan besprekings op GitHub deur op die hulpbronne hieronder te klik:
 
-- [About notifications \- GitHub Docs](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)
-- [About discussions \- GitHub Docs](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- [Introduction to Using GitHub](https://rainsworth.github.io/intro-to-github/)
+- [Oor kennisgewings\ - GitHub Docs] (https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)
+- [Oor besprekings\ - GitHub Docs] (https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+- [Inleiding tot die gebruik van GitHub] (https://rainsworth.github.io/intro-to-github/)
 
-## Resources
+## Hulpbronne
 
-- [2025 Board of Directors Work Plan](https://docs.google.com/document/d/1uRYgwFJNB050XZ6TMEh_YpphgqgXSVN5Vx_ml08G2J4/edit?tab=t.0) \- A monthly timeline of activities and focus for the Board.
-- {{"[The Carpentries Core Values]({}/about-us/#our-values)".format(carpentries_website)}} \- Values and goals of The Carpentries Community
-- {{"[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}} \- Rules and guidance for the Carpentries community, Board, and Core Team members regarding how to operate as an organisation while keeping our Core Values, mission, and vision at the forefront of our work.
-- {{"[Annual Reports]({}/about-us/impact/#annual-reports)".format(carpentries_website)}}
-- {{"[Financial Statements]({}/about-us/financials/)".format(carpentries_website)}}
-- [2024 Budget](https://docs.google.com/spreadsheets/d/1t2iPylgzUf8d1Y5k19M-Vjwk_3JgXE86/edit#gid=1870417438) [private document] - The budget passed for the 2024 fiscal year.
-- [Parliamentary Procedures for Board Meetings](https://docs.google.com/document/d/1kiKg7dAE9lz30JGMlClrS5oxEeXlvkBrPd3ukeI13Ho/edit#heading=h.3gfqlv3v1whv) [private document] - Supporting document for decision-making during Board meetings and for making official motions, amending motions, and voting on motions.
-- [Election Timeline and Procedures for The Carpentries Board of Directors](https://docs.google.com/document/d/17Twk9LIPwUfdXOnal0A-ScdRfL4NhFT0UPQiP7tZnAI/edit#heading=h.97mnd6s3j6dc) [private document] - A checklist for how to administer community elections.
+- [2025 Raad van Direkteure Werkplan] (https://docs.google.com/document/d/1uRYgwFJNB050XZ6TMEh_YpphgqgXSVN5Vx_ml08G2J4/edit?tab=t.0)\\ - 'n Maandelikse tydlyn van aktiwiteite en fokus vir die Raad.
+- {{"[The Carpentries Core Values] ({}/about-us/#our-values)” .format (carpentries_website)}}\ - Waardes en doelwitte van The Carpentries Community
+- {{"[The Carpentries Statlaws] ({}/about-us/governance/#carpentries-bylaws-and-policies)” .format (carpentries_website)}}\ - Reëls en leiding vir die Carpentries -gemeenskap, raad en kernspanlede oor hoe om as organisasie te werk terwyl ons kernwaardes, missie en visie aan die voorpunt van ons werk hou.
+- {{"[Jaarverslae] ({}/about-us/impact/#annual-reports)” .format (carpentries_website)}}
+- {{"[Finansiële Statements] ({}/about-us/financials/)” .format (carpentries_website)}}
+- [2024 Begroting] (https://docs.google.com/spreadsheets/d/1t2iPylgzUf8d1Y5k19M-Vjwk_3JgXE86/edit#gid=1870417438) [privaat dokument] - Die begroting aangeneem vir die 2024 boekjaar.
+- [Parlementêre prosedures vir raadsvergaderings] (https://docs.google.com/document/d/1kiKg7dAE9lz30JGMlClrS5oxEeXlvkBrPd3ukeI13Ho/edit#heading=h.3gfqlv3v1whv) [privaat dokument] - Ondersteunende dokument vir besluitneming tydens Raadsvergaderings en vir die maak van amptelike mosies, wysiging van mosies en stemming oor mosies.
+- [Verkiesingstydlyn en prosedures vir die Carpentries Board of Directors] (https://docs.google.com/document/d/17Twk9LIPwUfdXOnal0A-ScdRfL4NhFT0UPQiP7tZnAI/edit#heading=h.97mnd6s3j6dc) [privaat dokument] - 'n Kontrolelys vir hoe om gemeenskapsverkiesings te administreer.
 
-## Glossary of Terms
+## Woordelys van terme
 
-- [Fiscal Sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship): Refers to the practice of non-profit organisations offering their legal and tax-exempt status to groups—typically projects—engaged in activities related to the sponsoring organisation's mission. It typically involves a fee-based contractual arrangement between a project and an established non-profit.
-- [Non-Profit Organisation](https://en.wikipedia.org/wiki/Nonprofit_organization): A legal entity organised and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.
-- [501(c)(3) Organisation](https://en.wikipedia.org/wiki/501\\(c\\)\\(3\\)_organization): a United States corporation, trust, unincorporated association or other type of organisation exempt from federal income tax under section 501(c)(3) of Title 26 of the United States Code.
+- [Fiskale borging] (https://en.wikipedia.org/wiki/Fiscal_sponsorship): Verwys na die praktyk van nie-winsgewende organisasies wat hul wettige en belastingvrygestelde status bied aan groepe - tipies projekte - wat betrokke is by aktiwiteite wat verband hou met die borgerorganisasie se missie. Dit behels tipies 'n foooggebaseerde kontraktuele reëling tussen 'n projek en 'n gevestigde winsgewende winsgewende
+- [Nie-winsgewende organisasie] (https://en.wikipedia.org/wiki/Nonprofit_organization): 'n Regspersoon wat georganiseer en bedryf word vir 'n kollektiewe, openbare of maatskaplike voordeel, in teenstelling met 'n entiteit wat as 'n onderneming werk wat daarop gemik is om 'n wins vir sy eienaars te genereer.
+- [501 (c) (3) Organisasie] (https://en.wikipedia.org/wiki/501\\(c\\)\\ (3\) _organisasie): 'n Verenigde State se korporasie, trust, ongeïnkorporeerde vereniging of ander soort organisasie wat vrygestel is van federale inkomstebelasting ingevolge artikel 501 (c) (3) van titel 26 van die Verenigde State se kode.
 
-For a full glossary of terms for The Carpentries community, see the {{'[Glossary of terms]({})'.format(glossary)}}.
+Vir 'n volledige woordelys van terme vir The Carpentries -gemeenskap, sien die {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
