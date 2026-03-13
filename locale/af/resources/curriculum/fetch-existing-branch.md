@@ -1,63 +1,63 @@
-# Building on somebody else's existing branch
+# Gebou op iemand anders se bestaande tak
 
-Sometimes, you may want or need to build on top of the changes another person has already commited to a branch of a lesson repository, e.g. [if they are no longer able to complete the work and you want to help finish their pull request](/handbooks/maintainers.md#situation-1-a-pull-request-exists-but-is-incomplete).
-This page describes two ways you can get set up to build on top of the changes they have already made.
-The instructions assume some familiarity with version control, Git, and GitHub.
+Soms wil of moet jy dalk bo-op die veranderinge aanbou wat 'n ander persoon reeds aan 'n tak van 'n lesbewaarplek toegewy het, bv. [as hulle nie meer die werk kan voltooi nie en jy wil help om hul trekversoek te voltooi] (/handbooks/maintainers.md#situation-1-a-pull-request-exists-but-is-incomplete).
+Hierdie bladsy beskryf twee maniere waarop u kan opstel om bo-op te bou van die veranderinge wat hulle reeds aangebring het.
+Die instruksies veronderstel 'n mate van vertroudheid met weergawebeheer, Git en GitHub.
 
-## 1. Fork their repository and branch
+## 1. Vurk hul bewaarplek en tak
 
-### Find the original contributor's fork
+### Vind die oorspronklike bydraer se vurk
 
-Starting from the open pull request that you want to continue working on, scroll to the top of the _Conversation_ tab.
-Under the title of the pull request, you will find a summary of the branches that would be combined if the pull request was merged: usually the lesson program organisation and `main` on the left, and the original contributor's username and the branch name they chose on the right (the "feature branch").
+Begin vanaf die oop trekversoek waaraan u wil voortgaan werk, blaai na die bokant van die oortjie _Gesprek_.
+Onder die titel van die trekversoek vind u 'n opsomming van die takke wat gekombineer sou word as die trekversoek saamgesmelt is: gewoonlik die lesprogramorganisasie en `hoof` aan die linkerkant, en die oorspronklike bydraer se gebruikersnaam en die taknaam wat hulle aan die regterkant gekies het (die “kenmerktak”).
 
-![Branch information for a pull request on GitHub. The name of the official repository default branch, datacarpentry:main, and of the contributor's feature branch, example-user:example-branch, are displayed.](./img/branch-info-pr.png)
+! [Takinligting vir 'n trekversoek op GitHub. Die naam van die amptelike standaardtak vir bewaarplek, `datacarpentry:main`, en van die bydraer se funksietak, `voorbeeld-gebruiker:voorbeeld-branch`, word vertoon.] (./img/branch-info-pr.png)
 
-Clicking on the name of the contributor's feature branch will direct you to that branch on their fork of the lesson repository.
+As u op die naam van die bydraer se funksietak klik, sal u na daardie tak op hul vurk van die lesbewaarplek lei.
 
-### Make your own fork from theirs
+### Maak jou eie vurk van hulle
 
-From this page, you can create your own fork of their repository with the "Fork" button near the top-right of the page.
-This will open a short form, where you can set a name and a description for the new fork you will create.
-The important thing to do here is **uncheck the "Copy the main branch only" box** so that you also get a copy of the feature branch they were working on for the pull request.
+Vanaf hierdie bladsy kan u u eie vurk van hul bewaarplek skep met die “Vurk” -knoppie regs bo van die bladsy.
+Dit sal 'n kort vorm oopmaak waar u 'n naam en 'n beskrywing kan instel vir die nuwe vurk wat u sal skep.
+Die belangrikste ding om hier te doen is **om die blokkie “Kopieer slegs die hooftak” -blokkie te verwyder** sodat u ook 'n afskrif van die funksietak kry waaraan hulle gewerk het vir die trekversoek.
 
-![The form presented when forking an existing repository on GitHub, with the "Copy the main branch only" box unchecked.](./img/new-fork-all-branches.png)
+! [Die vorm wat aangebied word wanneer 'n bestaande bewaarplek op GitHub gekies word, met die blokkie “Kopieer slegs die hooftak” ongekeerde.] (./img/new-fork-all-branches.png)
 
-### Edit the lesson on GitHub
+### Wysig die les op GitHub
 
-After your fork has been created, use the dropdown near the top-left of the repository homepage to choose the branch that the original contributor was working on.
-Once this branch is selected, you can start editing the files on GitHub being careful to commit your changes to this same branch.
-Alternatively, you can [open the github.dev IDE in your browser](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), select the branch and continue editing and commiting there.
+Nadat u vurk geskep is, gebruik die aftreklys links bo van die bewaarplek tuisblad om die tak te kies waaraan die oorspronklike bydraer gewerk het.
+Sodra hierdie tak gekies is, kan u die lêers op GitHub begin redigeer en versigtig wees om u veranderinge aan dieselfde tak toe te bring.
+Alternatiewelik kan jy [die github.dev IDE in jou blaaier oopmaak] (https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), die tak kies en voortgaan om daar te redigeer en te doen.
 
-### Edit the lesson locally
+### Wysig die les plaaslik
 
-Follow these steps after your fork has been created.
+Volg hierdie stappe nadat u vurk geskep is.
 
-1. Clone it to your local system.
-2. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
-3. Fetch the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`).
-4. Switch to it (`git switch <their-branch-name>`, e.g. `git switch 123-better-captions`).
+1. Kloon dit na jou plaaslike stelsel.
+2. Navigeer in die dop na u plaaslike kloon van die projek, bv. `cd ~/documents/datacarpentry/R-ecologie-leson`.
+3. Kry die tak waaraan die oorspronklike bydraer gewerk het (`git fetch origin <their-branch-name>`, bv. `git fetch origin 123-better-captions`).
+4. Skakel daaroor (`git switch <their-branch-name>`, bv. `git switch 123-better-captions`).
 
-Once you are working on this branch, you can edit the lesson and commit your changes as usual.
-When you are ready, add your own fork of the lesson repository as a remote (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, e.g. `git remote add myfork git@github.com:myusername/image-processing.git`) push the commits you have made and open a pull request to the official repository.
+Sodra u aan hierdie tak gewerk het, kan u die les wysig en u veranderinge soos gewoonlik pleeg.
+As jy gereed is, voeg jou eie vurk van die lesbewaarplek by as 'n afstandbestanddeel (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, bv. `git remote add myfork git@github.com:myusername/image-processing.git`) druk die verbindings wat jy gemaak het en maak 'n trekversoek na die amptelike bewaarplek oop.
 
-## 2. Add their fork as a remote repository
+## 2. Voeg hul vurk by as 'n afgeleë bewaarplek
 
-If you already have a local clone of the lesson repository, you can add the original contributor's fork of the lesson as another remote repository for the project and fetch the branch they were working on from there.
+As u reeds 'n plaaslike kloon van die lesbewaarplek het, kan u die oorspronklike bydraer se vurk van die les voeg as 'n ander afgeleë bewaarplek vir die projek en die tak waaraan hulle gewerk het, van daar af haal.
 
-1. Follow the steps described in [_Find the original contributor's fork_](#1-fork-their-repository-and-branch) above.
-2. Click the _Code_ button and copy the address of this repository to your clipboard.
-3. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
-4. Add the original contributor's fork as a new remote repository for this clone: `git remote add <remote-name> <address-of-forked-repository-you-just-copied>`,
-   e.g. `git remote add toby git@github.com:tobyhodges/image-processing.git`.
-5. Fetch the branch they were working on from their fork, e.g. `git fetch toby 123-better-captions`.
-6. Switch to this branch, e.g. `git switch 123-better-captions`.
+1. Volg die stappe wat beskryf word in [_Vind die oorspronklike bydraer se vurk_] (#1-fork-their-repository-and-branch) hierbo.
+2. Klik op die _Code_ -knoppie en kopieer die adres van hierdie bewaarplek na u knipbord.
+3. Navigeer in die dop na u plaaslike kloon van die projek, bv. `cd ~/documents/datacarpentry/R-ecologie-leson`.
+4. Voeg die oorspronklike bydraer se vurk by as 'n nuwe afstandbewaarplek vir hierdie kloon: `git remote add <remote-name> <address-of-forked-repository-you-just-copied>`,
+   bv. `git remote add toby git@github.com:tobyhodges/image-processing.git`.
+5. Haal die tak waaraan hulle gewerk het, van hul vurk, bv. `git fetch toby 123-better-captions`.
+6. Skakel oor na hierdie tak, bv. `git switch 123-better-captions`.
 
-Once you are working on this branch, you can edit the lesson and commit your changes as usual then push them to your fork and open a pull request when you are ready.
+Sodra jy aan hierdie tak gewerk het, kan jy die les wysig en jou veranderinge soos gewoonlik pleeg, dan dit na jou vurk druk en 'n trekversoek oopmaak wanneer jy gereed is.
 
-## Opening a pull request with your updates
+## Maak 'n trekversoek oop met u opdaterings
 
-When you are ready to open a new pull request that will include your changes, make sure that you do this to the correct repository (usually a repository in one of The Carpentries official organisations e.g. `datacarpentry`): GitHub may first try to help you open a pull request to the original contributor's fork instead of the central Carpentries repository.
+As u gereed is om 'n nuwe trekversoek oop te maak wat u veranderinge sal insluit, maak seker dat u dit aan die regte bewaarplek doen (gewoonlik 'n bewaarplek in een van die Carpentries amptelike organisasies bv. `datacarpentry`): GitHub kan u eers help om 'n trekversoek na die oorspronklike bydraer se vurk oop in plaas van die sentrale Carpentries-bewaarplek.
 
-When opening your pull request, tell the Maintainers that you have built on top of the previous work of the other contributor. Tag that original contributor, and reference their pull request by its number, e.g. `This pull request builds on and replaces #37 by @USERNAME to close issue #34 by [some description of the changes made in your pull request...]`.
-This will help the lesson Maintainers understand that they can close the other pull request, and the relationship between the two sets of changes.
+Wanneer u u trekversoek oopmaak, vertel die Onderhouders dat u bo-op die vorige werk van die ander bydraer gebou het. Merk die oorspronklike bydraer en verwys na hul trekversoek volgens sy nommer, bv. “Hierdie trekversoek bou op en vervang #37 deur @USERNAME om uitgawe #34 te sluit deur ['n beskrywing van die veranderinge wat in jou trekversoek aangebring is...] '.
+Dit sal die lesOnderhouders help om te verstaan dat hulle die ander trekversoek en die verhouding tussen die twee stelle veranderinge kan sluit.
