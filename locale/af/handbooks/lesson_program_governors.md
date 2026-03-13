@@ -1,171 +1,171 @@
-# Lesson Program Governor Handbook
+# Lesprogram Goewerneur Handboek
 
-## About This Handbook
+## Oor hierdie handboek
 
-The Lesson Program Governor Handbook is designed to support members of The
-Carpentries community who are serving as a {{'[Lesson Program Governor]({}/community/lesson_program_governors/)'.format(carpentries_website)}}. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Die lesprogram-goewerneurhandboek is ontwerp om lede van die
+Carpentries-gemeenskap te ondersteun wat dien as 'n {{'[Lesprogramgoewerneur] ({}/community/lesson_program_governors/) '.format (carpentries_website)}}. Dit word onderhou deur The Carpentries Curriculum Team.  As u glo dat iets hier bygevoeg of opgedateer moet word, of as u terugvoer oor die inhoud wil gee, stuur asseblief e-pos aan die {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} of maak 'n probleem op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
-## Introduction
+## Inleiding
 
-Lesson Program Governors are members of **Lesson Program Governance Committees (LPGCs)**, groups of community members that oversee and guide the strategy and health of The Carpentries Lesson Programs.
+Lesprogramgoewerneurs is lede van \*\*Lesprogrambestuurskomitees (LPGC's) \*\*, groepe gemeenskapslede wat toesig hou oor die strategie en gesondheid van The Carpentries Lessprogramme en lei.
 
-The responsibilities of Lesson Program Governance Committees fall into three main categories of leadership: strategy, advocacy, and communication.
+Die verantwoordelikhede van lesprogrambestuurskomitees val in drie hoofkategorieë van leierskap: strategie, voorspraak en kommunikasie.
 
-- Strategy:
-  - Monitoring the health of the lesson program and designing strategies to maintain and improve it.
-  - Identifying priorities for growing the community and reach of the lesson program.
-- Advocacy:
-  - Representing the lesson program in their local and professional networks.
-  - Working with the Board of Directors and Core Team to promote the interests of the lesson program within The Carpentries.
-- Communication:
-  - Reporting on the activities, objectives, and needs of the lesson program to the Board of Directors and Core Team.
-  - Engaging the community on topics and projects relevant to the development of the lesson program.
-  - Maintaining up-to-date information about the lesson program on The Carpentries' websites.
+- Strategie:
+  - Monitering van die gesondheid van die lesprogram en die ontwerp van strategieë om dit te handhaaf en te verbeter.
+  - Identifisering van prioriteite vir die groei van die gemeenskap en bereik van die lesprogram.
+- Voorspraak:
+  - Verteenwoordiging van die lesprogram in hul plaaslike en professionele netwerke.
+  - Werk saam met die Raad van Direkteure en Kernspan om die belange van die lesprogram binne The Carpentries te bevorder.
+- Kommunikasie:
+  - Verslaggewing oor die aktiwiteite, doelwitte en behoeftes van die lesprogram aan die Raad van Direkteure en Kernspan.
+  - Betrek die gemeenskap by onderwerpe en projekte wat relevant is vir die ontwikkeling van die lesprogram.
+  - Die handhawing van bygewerkte inligting oor die lesprogram op The Carpentries se webwerwe.
 
-A Lesson Program Governance Committee will typically have 3-5 members, including at least one member acting in each of the two Officer roles, Chair and Secretary.
+'N Lesprogrambestuurskomitee sal gewoonlik 3-5 lede hê, insluitend ten minste een lid wat in elk van die twee offisierrolle, voorsitter en sekretaris optree.
 
-## Roles and Responsibilities
+## Rolle en verantwoordelikhe
 
-### Chair
+### stoel
 
-- Prepare agenda for regular meetings, including time estimates for each item.
-- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of the meeting.
-- Assign meeting roles.
-- Serve as the primary point of contact for the Board of Directors, Core Team members, and Curriculum Advisors for the relevant lesson program.
-- Prepare a written update, twice per year, for the Board of Directors, summarising the committee’s activities, main points and outcomes of discussion, and any major decisions made.
-- Communicate with the lesson program community and the Core Team, through GitHub issues, blog posts, or another appropriate platform, about decisions made by the LPGC.
-- Coordinate with Curriculum Team Lead (Toby Hodges) to request information and support from the Core Team to help the LPGC perform its functions, e.g. data and information relating to the health of the lesson program, or delegate responsibility for this to another committee member.
-- Notify the Curriculum Team Lead if an LPGC member needs to step down mid-term or becomes unresponsive to communications so that the Core Team can help recruit a replacement if needed.
-- Approve meeting minutes.
-- Fulfil all other responsibilities of an LPGC member.
+- Berei agenda voor vir gereelde vergaderings, insluitend tydsberamings vir elke item.
+- Stel die agenda en stuur dit saam met enige ander relevante dokumente minstens een week voor die vergadering aan komiteelede uit.
+- Ken vergaderrolle toe.
+- Ddien as die primêre kontakpunt vir die Raad van Direkteure, kernspanlede en kurrikulumadviseurs vir die relevante lesprogram.
+- Berei 'n skriftelike opdatering, twee keer per jaar, voor vir die Raad van Direkteure, waarin die komitee se aktiwiteite, hoofpunte en uitkomste van bespreking en enige belangrike besluite geneem word opsomming.
+- Kommunikeer met die lesprogramgemeenskap en die kernspan deur middel van GitHub-kwessies, blogplasings of 'n ander toepaslike platform oor besluite wat deur die LPGC geneem word.
+- Koördineer met Curriculum Team Lead (Toby Hodges) om inligting en ondersteuning van die kernspan aan te vra om die LPGC te help om sy funksies te verrig, bv. data en inligting rakende die gesondheid van die lesprogram, of verantwoordelikheid hiervoor aan 'n ander komiteelid oor te gee.
+- Stel die kurrikulumspanleier in kennis indien 'n LPGC-lid middeltermyn moet aftree of onreageer op kommunikasie, sodat die kernspan kan help om 'n plaasvervanger te werf indien nodig.
+- Goedkeur vergaderingsnotule.
+- Vervul alle ander verantwoordelikhede van 'n LPGC-lid.
 
-### Secretary
+### sekretaris
 
-- Schedule regular meetings.
-- Arrange meeting room logistics.
-- Send calendar invites.
-- Send meeting reminders.
-- Prepare meeting minutes and post them to the appropriate LPGC GitHub repository.
-- Fulfil all other responsibilities of an LPGC member.
+- Beplan gereelde vergaderings.
+- Reël vergaderkamerlogistiek.
+- Stuur kalenderuitnodigings.
+- Stuur vergaderingsherinneringe.
+- Berei vergaderingsnotule voor en plaas dit na die toepaslike LPGC GitHub-bewaarplek.
+- Vervul alle ander verantwoordelikhede van 'n LPGC-lid.
 
-### Other members
+### Ander lede
 
-- Notify the Chair of potential agenda items as they arise.
-- Review the agenda and other relevant documents sent by the Chair before the meeting.
-- Attend and actively participate in regular meetings by being attentive, and sharing knowledge, expertise, ideas, and information.
-- Participate in asynchronous voting through GitHub as needed.
-- Work with community members and the Core Team to implement voted-upon changes as needed.
-- (Optional) Be involved in discussions relevant to the LPGC on GitHub and elsewhere.
+- Stel die voorsitter in kennis van potensiële agenda-items soos dit opduik.
+- Hersien die agenda en ander relevante dokumente wat deur die voorsitter gestuur is voor die vergadering.
+- Woon gereelde vergaderings by en neem aktief aan deel deur oplettend te wees en kennis, kundigheid, idees en inligting te deel.
+- Neem deel aan asynchrone stemming deur GitHub indien nodig.
+- Werk saam met gemeenskapslede en die kernspan om gestemde veranderinge te implementeer soos nodig.
+- (Opsioneel) Wees betrokke by besprekings wat relevant is vir die LPGC op GitHub en elders.
 
-## Onboarding
+## Onboord
 
-_Details of frequency and format of future Lesson Program Governor selections coming soon..._
+_Besonderhede oor frekwensie en formaat van toekomstige lesprogram-goewerneurskeuses wat binnekort kom... _
 
-- Rounds of recruitment will be announced on The Carpentries blog.
-- Onboarding aims to provide new Lesson Program Governors with context for the role of how LPGCs fit into The Carpentries model for community governance, and what they can expect as they prepare to join their first committee meeting.
-- The first onboarding for Lesson Program Governors took place in three parts:
-  - A general onboarding for all Lesson Program Governors
-  - An optional but recommended session on [How to Run a Meeting](#how-to-run-a-meeting-presentation), led by Greg Wilson
-  - An additional onboarding for the committee officers (Roles and responsibilities above)
-- Onboardings are delivered by the Curriculum Team over Zoom, with the possibility of being onboarded through a recording of the sessions available for those who cannot attend synchronously.
-  - Links to onboarding slides are provided in [the Resources section](#resources).
-- After these onboarding sessions, Lesson Program Governors should complete the following steps:
-  - [Log into AMY](https://amy.carpentries.org/) with GitHub credentials and update their profile.
-  - When updating their AMY profile, it is essential that Governors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
-  - Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups).
-- Subscribe to notifications from the GitHub repository for their committee
-  - Repositories for each committee are listed in [the Communication and Collaboration Spaces section](#communication-and-collaboration-spaces).
+- Werwingsondes sal op The Carpentries-blog aangekondig word.
+- Onboarding het ten doel om nuwe lesprogram-goewerneurs van konteks te bied vir die rol van hoe LPGC's pas by The Carpentries-model vir gemeenskapsbestuur, en wat hulle kan verwag terwyl hulle voorberei om by hul eerste komitee vergadering aan te sluit.
+- Die eerste aansluiting vir die lesprogramgoewerneurs het in drie dele plaasgevind:
+  - 'N Algemene aansluiting vir alle lesprogramgoewerneurs
+  - 'N Opsionele maar aanbevole sessie oor [Hoe om 'n vergadering uit te voer] (#how-to-run-a-meeting-presentation), gelei deur Greg Wilson
+  - 'N Bykomende aansluiting vir die komitee beamptes (rolle en verantwoordelikhede hierbo)
+- Onboord word deur die kurrikulumspan oor Zoom afgelewer, met die moontlikheid om aan boord te word deur 'n opname van die sessies wat beskikbaar is vir diegene wat nie sinchronies kan bywoon nie.
+  - Skakels na onboardskyfies word verskaf in [die afdeling Hulpbronne] (#resources).
+- Na hierdie aansluitsessies moet die lesprogramgoewerneurs die volgende stappe voltooi:
+  - [Meld aan by AMY] (https://amy.carpentries.org/) met GitHub-bewysings en werk hul profiel op.
+  - By die opdatering van hul AMY-profiel is dit noodsaaklik dat goewerneurs toestemming gee vir The Carpentries om hul profiel te publiseer sodat hulle op The Carpentries -webwerwe gelys kan word.
+  - Sluit aan by die poslys vir hul komitee oor [The Carpentries TopicBox] (https://carpentries.topicbox.com/groups).
+- Teken in op kennisgewings van die GitHub-bewaarplek vir hul komitee
+  - Bewaarplekke vir elke komitee word gelys in [die afdeling Kommunikasie- en Samewerkingsruimtes] (#communication-and-collaboration-spaces).
 
-### Term Length
+### Termlengte
 
-Term lengths for Lesson Program Governors are defined in the charter document of each committee. The committee charter can be found in the committee’s GitHub repository.
+Termlengtes vir lesprogramgoewerneurs word in die handverdokument van elke komitee gedefinieer. Die komitee Handves kan gevind word in die komitee se GitHub-bewaarplek.
 
-## Offboarding
+## Afboording
 
-Offboarding is necessary when a Lesson Program Governor’s term ends or if they choose to step away from the role for any other reason. If a Governor wishes to leave their role outside the standard term limit, they should [notify the Curriculum Team](mailto:curriculum@carpentries.org).
+Offboarding is nodig wanneer die termyn van 'n lesprogram se goewerneur eindig of as hulle om enige ander rede kies om van die rol weg te stap. As 'n goewerneur hul rol buite die standaardtermyn wil verlaat, moet hy [die kurrikulumspan in kennis stel] (mailto:curriculum@carpentries.org).
 
-Lesson Program Governor offboarding includes the following steps, which will be coordinated by the Curriculum Team:
+Lesprogram Goewerneur van afboarding sluit die volgende stappe in, wat deur die kurrikulumspan gekoördineer sal word:
 
-- Reassigning any open issues on the committee repository to another committee member.
-- Revoking their access to the GitHub repository.
-- Removing them from the TopicBox group for the committee.
-- Removing them from the LPGC listing on the lesson program and Carpentries websites.
-- Inviting feedback from the departing member on their experience as an LPGC member.
+- Hertoestelling van enige oop kwessies op die komiteebewaarplek aan 'n ander komiteelid.
+- Herroep hul toegang tot die GitHub-bewaarplek.
+- Verwyder hulle uit die TopicBox-groep vir die komitee.
+- Verwyder dit uit die LPGC-lys op die lesprogram en Carpentries -webwerwe.
+- Uitnooi terugvoer van die vertrekende lid oor hul ervaring as LPGC-lid.
 
-## Communication and Collaboration Spaces
+## Kommunikasie- en samewerkings
 
 ### Etherpad
 
-The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
-collaborative note-taking tool during workshops, training, and other
-Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Program Governor.
+Die Carpentries gebruik {{'[Etherpad] ({}) '.format (etherpad)}} as 'n
+samewerkende notuingsinstrument tydens werkswinkels, opleiding en ander
+Carpentries-verwante geleenthede. Hieronder is 'n lys van Etherpads wat relevant is om as 'n lesprogramgoewerneur te dien.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
-- {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}: an etherpad for signing up to upcoming discussion events. If the LPGC schedules any discussions e.g. to consult with the lesson program community on a topic, these events will be listed here.
+- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: 'n Lys van The Carpentries se mees gebruikte Etherpads en ander hulpbronne.
+- {{'[Gemeenskapsbesprekings Etherpad] ({}/community-discussions) '.format (etherpad)}}: 'n etherpad om aan te meld by komende besprekingsgeleenthede. As die LPGC enige besprekings skeduleer, bv. om met die lesprogramgemeenskap oor 'n onderwerp te konsulteer, sal hierdie geleenthede hier gelys word.
 
 ### GitHub
 
-The following LPGC repositories exist on GitHub, for collecting meeting minutes, managing discussion issues, etc:
+Die volgende LPGC-bewaarplekke bestaan op GitHub vir die versameling van vergaderingsnotules, die bestuur van besprekingskwessies, ens.:
 
-- Data Carpentry: <https://github.com/datacarpentry/governance>
-- Library Carpentry: <https://github.com/LibraryCarpentry/governance>
-- Software Carpentry: <https://github.com/swcarpentry/governance>
+- Data-timmerwerk: <https://github.com/datacarpentry/governance>
+- Biblioteek Timmerwerk: <https://github.com/LibraryCarpentry/governance>
+- Sagteware Timmerwerk: <https://github.com/swcarpentry/governance>
 
-### Slack
+### Slap
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. Although decision-making should be done in meetings and/or publicly visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
-If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+{{'[Sluit aan by die Carpentries Slack werkruimte] ({}) '.format (slack_invite)}}. Alhoewel besluitneming in vergaderings en/of in die openbaar sigbare kommunikasiekanale gedoen moet word, wil LPGC's ook 'n privaat kanaal op hierdie Slack-werkruimte skep vir daaglikse besprekings, vergaderingsbeplanning, ens.
+As jy nuut is by Slack, kyk asseblief na ons {{"[Slack Guide] ({})” .format (slack_guide)}}.
 
-### TopicBox
+### Onderwerpaksie
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}. Each LPGC has a dedicated mailing list on TopicBox:
+U kan toegang tot The Carpentries -poslyste verkry vanaf
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Elke LPGC het 'n toegewyde poslys op TopicBox:
 
-- {{'[Data Carpentry]({}/dc-governors)'.format(topicbox)}}
-- {{'[Library Carpentry]({}/lc-governors)'.format(topicbox)}}
-- {{'[Software Carpentry]({}/swc-governors)'.format(topicbox)}}
+- {{'[Data Timmerwerk] ({}/dc-governors) '.format (topicbox)}}
+- {{'[Biblioteek Timmerwerk] ({}/lc-governors) '.format (topicbox)}}
+- {{'[Sagteware Timmerwerk] ({}/swc-governors) '.format (topicbox)}}
 
-These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
+Hierdie poslyste is gekonfigureer sodat enigiemand 'n boodskap aan hulle kan stuur, maar lyslidmaatskap word gemodereer sodat slegs huidige lede van die komitee boodskappe sal ontvang wat aan die groep gestuur word.
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Om by een of meer Carpentries-poslyste aan te sluit, moet u {{'[skep 'n aanmelding] ({}/latest) '.format (topicbox)}}. Sodra u dit gedoen het, kan u deur die lys van groepe blaai en klik op “Sluit aan by die gesprek” (vir oop pos) of “Versoek om aan te sluit” (vir die poslyste wat administrateur goedkeuring vereis). As jy nuut is by Topicbox, kyk asseblief na ons {{"[Topicbox Guide] ({})” .format (topicbox_guide)}}.
 
-## Step-by-Step Guides
+## Stap-vir-stap
 
-### Writing a blog post
+### Skryf 'n blogpos
 
-Blog posts are a good way to publicise information to the community and call for contributions/feedback. Posts can be published to The Carpentries website by submitting a Markdown source file to [the carpentries/carpentries.org GitHub repository](https://github.com/carpentries/carpentries.org) via pull request. Blog post templates (as [a GoogleDoc template](https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) and [a CodiMD template](https://codimd.carpentries.org/blog-post-template?both)) are provided to help you get started.
+Blogplasings is 'n goeie manier om inligting aan die gemeenskap bekend te maak en te vra vir bydraes/terugvoer. Blykke kan op die Carpentries-webwerf gepubliseer word deur 'n Markdown-bronlêer by [die carpentries/carpentries.org GitHub-bewaarplek] (https://github.com/carpentries/carpentries.org) in te dien via pull request. Blogplassjablone (as ['n GoogleDoc-sjabloon] (https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) en ['n CodimD-sjabloon] (https://codimd.carpentries.org/blog-post-template?both)) word verskaf om u te help om aan die gang te kom.
 
-The Curriculum Team can help LPGCs draft and publish blog posts.
+Die kurrikulumspan kan LPGC's help om blogplasings op te stel en te publiseer.
 
-## Resources
+## Hulpbronne
 
-### [Lesson Program Governor Onboarding Presentation](https://docs.google.com/presentation/d/1oDanpPZfEYgdg5yk0kKPMkFyBQ4nQN2ZyLru2SPIlBo/edit?usp=sharing)
+### [Lesprogram Goewerneur Onboardaanbieding] (https://docs.google.com/presentation/d/1oDanpPZfEYgdg5yk0kKPMkFyBQ4nQN2ZyLru2SPIlBo/edit?usp=sharing)
 
-#### About this resource
+#### Oor hierdie hulpbron
 
-The slide deck for LPGC Onboarding in March and April 2023. This was a general onboarding session for all incoming Governance Committee members, providing information on The Carpentries, the history and structure of lesson program governance, the powers and responsibilities of LPGCs, and some of the logistics of committee operations.
+Die skyfidek vir LPGC Onboarding in Maart en April 2023. Dit was 'n algemene aanlynsessie vir alle inkomende lede van die bestuurskomitee, wat inligting verskaf het oor The Carpentries, die geskiedenis en struktuur van lesprogrambestuur, die magte en verantwoordelikhede van LPGC's, en sommige van die logistiek van komitee bedrywighede.
 
-### [LPGC Officer Onboarding Presentation](https://docs.google.com/presentation/d/1Fd6aANyU3mh_RbIBh9t2G5GR7DKVEfSXBrgVqos9-_E/edit?usp=sharing)
+### [LPGC -beampte se aanbieding] (https://docs.google.com/presentation/d/1Fd6aANyU3mh_RbIBh9t2G5GR7DKVEfSXBrgVqos9-_E/edit?usp=sharing)
 
-#### About this resource
+#### Oor hierdie hulpbron
 
-The slide deck for onboarding LPGC Officers (chairs and secretaries) in March and April 2023. This session looked in more detail at these officer roles and the responsibilities that come with them, as well as discussing some of the logistics of organising and running committee meetings and some first steps officers could take to get started with their committees.
+Die skyfidek vir die aansluiting van LPGC-beamptes (stoele en sekretarisse) in Maart en April 2023. Hierdie sessie het in meer besonderhede gekyk na hierdie offisierrolle en die verantwoordelikhede wat daarmee gepaard gaan, asook die bespreking van sommige van die logistiek van die organisering en bestuur van komiteevergaderings en 'n paar eerste stappe wat beamptes kon neem om met hul komitees aan die gang te kom.
 
-### [How to Run a Meeting Presentation](https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit?usp=sharing)
+### [Hoe om 'n vergaderaanbieding uit te voer] (https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit?usp=sharing)
 
-#### About this resource
+#### Oor hierdie hulpbron
 
-The slide deck from Greg Wilson’s How to Run a Meeting session was delivered to incoming LPGC members as part of onboarding in March and April 2023. This session provided some advice and guidance to follow to help ensure that time spent in committee meetings is used as effectively as possible.
+Die skyfidek van Greg Wilson se How to Run a Meeting -sessie is aan inkomende LPGC -lede gelewer as deel van die inboord in Maart en April 2023. Hierdie sessie het advies en leiding verskaf om te volg om te help verseker dat die tyd wat aan komiteevergaderings spandeer word so effektief as moontlik gebruik word.
 
-### [Lesson Program Governance Policy](/resources/curriculum/lesson-program-governance.md)
+### [Lesprogrambestuurbeleid] (/resources/curriculum/lesson-program-governance.md)
 
-#### About this resource
+#### Oor hierdie hulpbron
 
-Official policy from The Carpentries Board of Directors describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
+Amptelike beleid van The Carpentries Board of Directors wat beskryf hoe individuele lesprogramme beheer moet word en 'n lys van die magte en verantwoordelikhede van LPGC's.
 
-### [Committee Policy](/resources/general/committees.md)
+### [Komitee Beleid] (/resources/general/committees.md)
 
-#### About this resource
+#### Oor hierdie hulpbron
 
-The Carpentries general policy for committees is provided by the Board of Directors. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
+Die algemene beleid van Carpentries vir komitees word deur die Raad van Direkteure verskaf. Hierdie beleid beskryf in algemeen die verantwoordelikhede en vereistes van 'n amptelike komitee soos 'n LPGC binne die organisasie.
 
