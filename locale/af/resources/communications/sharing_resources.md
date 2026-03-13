@@ -1,53 +1,53 @@
-# A Guide to Sharing Communications with The Carpentries
+# 'N Gids vir die deel van kommunikasie met The Carpentries
 
-The Carpentries welcomes blog posts, newsletter announcements, social media posts, and other communications requests from our community members, including workshop hosts, learners, and others.
+Die Carpentries verwelkom blogplasings, nuusbriefaankondigings, plasings op sosiale media en ander kommunikasieversoeke van ons gemeenskapslede, insluitend werkswinkelgashere, leerders en ander.
 
-## Sharing a blog post
+## Deel 'n blogpos
 
-### Writing and Formatting Your Blog Post
+### Skryf en formatering van u blogpos
 
-Please draft your blog post using [The Carpentries Blog Post Template](https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0).
+Stel asseblief u blogpos op met behulp van [The Carpentries Blog Post Template] (https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0).
 
-Please follow the [Carpentries Style Guide](https://docs.carpentries.org/resources/communications/style-guide.html) when writing your blog post. Pay special attention to guidelines regarding abbreviations, acronyms, capitalisation, and use of inclusive language (e.g., remove ableist language). In addition,
+Volg asseblief die [Carpentries Style Guide] (https://docs.carpentries.org/resources/communications/style-guide.html) wanneer u u blogpos skryf. Gee veral aandag aan riglyne rakende afkortings, akronieme, hoofkapitaal en gebruik van inklusiewe taal (bv. Verwyder ableistiese taal). Daarbenewens,
 
-- Add descriptive alt text to all images included in your post.
-- Avoid excessive use of italics, underlines, or all caps.
-- For images that are not photos, use an online contrast checker (example) to check that the text and background colours have sufficient contrast to comply with accessibility standards.
-- If your communication includes videos, provide accurate captions and transcripts for the content.
-- Make sure that links and buttons are clearly labelled and distinguishable. Avoid using generic phrases like "click here" instead of descriptive text.
+- Voeg beskrywende alt teks by alle beelde wat in u pos ingesluit is.
+- Vermy oormatige gebruik van kursief, onderstrepe of alle pette.
+- Vir beelde wat nie foto's is nie, gebruik 'n aanlyn kontraskontroler (voorbeeld) om te kyk of die teks- en agtergrondkleure voldoende kontras het om aan toeganklikheidstandaarde te voldoen.
+- As u kommunikasie video's insluit, verskaf akkurate onderskrifte en transkripsies vir die inhoud.
+- Maak seker dat skakels en knoppies duidelik gemerk en onderskeibaar is. Vermy die gebruik van generiese frases soos “klik hier” in plaas van beskrywende teks.
 
-When defining terminology popular with The Carpentries community, please use the definitions in our {{'[Community Glossary of Terms]({})'.format(glossary)}}.
+As u terminologie definieer wat gewild is by The Carpentries -gemeenskap, gebruik asseblief die definisies in ons {{'[Gemeenskapswoordelys van terme] ({}) '.format (woordelys)}}.
 
-### Single-Authored Blog Post Writing
+### Skryf met enkelouteur van blogpos
 
-Do you have an idea you would like to develop and publish as a blog post?
+Het u 'n idee wat u as 'n blogpos wil ontwikkel en publiseer?
 
-- Email [community@carpentries.org](mailto:community@carpentries.org) with your idea, and one of the Core Team members will discuss it with you and also guide you through submitting it to our blog.
+- E-pos aan [community@carpentries.org] (mailto:community@carpentries.org) met jou idee, en een van die kernspanlede sal dit met jou bespreek en jou ook lei deur dit by ons blog in te dien.
 
-### Collaborative Blog Post Writing
+### Samewerkende blogplasskrywing
 
-Are you interested in collaborating with another community member to co-author and publish a post on The Carpentries blog?
+Stel u belang om met 'n ander gemeenskapslid saam te werk om mede-outeur en 'n plasing op The Carpentries-blog te publiseer?
 
-- Join The Carpentries Slack and share your blog post idea in the \#blog-post-ideas channel to start a discussion. Invite other community members to collaborate with you. (_**preferred**_)
-- Email [community@carpentries.org](mailto:community@carpentries.org) with your idea, and one of the Core Team members will amplify the concept in the community so others can reach out and collaborate with you. (_**optional**_)
+- Sluit aan by The Carpentries Slack en deel jou blogplasingsidee in die\ #blog -post-idees-kanaal om 'n bespreking te begin. Nooi ander gemeenskapslede uit om met u saam te werk. (_**verkeur**_)
+- E-pos aan [community@carpentries.org] (mailto:community@carpentries.org) met jou idee, en een van die kernspanlede sal die konsep in die gemeenskap versterk sodat ander met jou kan uitreik en saamwerk. (\*\*\* opsioneel\*\*\*)
 
-## Sharing a Newsletter Update
+## Deel 'n nuusbrief opdatering
 
-Do you have an announcement you would like us to include in [_Carpentries Clippings_](https://carpentries.org/about-us/newsletter/), our monthly newsletter? Announcements could be job opportunity openings, a special update from your subcommunity or an event that might interest the community.
+Het u 'n aankondiging wat u wil hê ons moet insluit in [_Carpentries Clippings_] (https://carpentries.org/about-us/newsletter/), ons maandelikse nuusbrief? Aankondigings kan openinge vir werksgeleenthede wees, 'n spesiale opdatering van u subgemeenskap of 'n geleentheid wat die gemeenskap kan interesseer.
 
-- Email [community@carpentries.org](mailto:community@carpentries.org) with your request; we will include it in the next newsletter.
-- Please note that the **newsletter is released on the 4th (not last) Thursday of the month**. Please bear this in mind when sending time-sensitive notices.
+- E-pos [community@carpentries.org] (mailto:community@carpentries.org) met jou versoek; ons sal dit in die volgende nuusbrief insluit.
+- Let daarop dat die **nuusbrief op die 4de (nie laaste) Donderdag van die maand** vrygestel word. Hou dit asseblief in gedagte wanneer u tydsensitiewe kennisgewings stuur.
 
-## Sharing a social media post
+## Deel 'n plasing op sosiale media
 
-The Carpentries is active on the following social media platforms:
+The Carpentries is aktief op die volgende sosiale media-platforms:
 
-- [Mastodon](https://hachyderm.io/@thecarpentries)
-- [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
-- [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
+- [Mastodon] (https://hachyderm.io/@thecarpentries)
+- [LinkedIn] (https://www.linkedin.com/company/the-carpentries/)
+- [Bluesky] (https://bsky.app/profile/carpentries.carpentries.org)
 
-Please engage with us and tag us on any social media communication you wish for us to reshare on our platforms. Although we reshare most social media posts that tag our accounts, a reshare is not guaranteed.
+Kontak ons asseblief en merk ons op enige sosiale media-kommunikasie wat u wil hê dat ons op ons platforms kan weer deel. Alhoewel ons die meeste plasings op sosiale media wat ons rekeninge merk, herdeel, is 'n herdeel nie gewaarborg nie.
 
-Please also note that we do not post messages directly on our accounts promoting events in which members of our Core Team or governance are not directly involved or calls to attend Carpentries workshop events.
+Let ook daarop dat ons nie boodskappe direk op ons rekeninge plaas wat geleenthede bevorder waarin lede van ons kernspan of bestuur nie direk betrokke is nie, of oproep om Carpentries-werkswinkelgeleenthede by te woon nie.
 
-If you have any announcements you would like us to share on your behalf, email [community@carpentries.org](mailto:community@carpentries.org), and we will let you know if we can assist.
+As u enige aankondigings het wat u wil hê dat ons namens u moet deel, e-pos aan [community@carpentries.org] (mailto:community@carpentries.org), en ons sal u laat weet as ons kan help.
