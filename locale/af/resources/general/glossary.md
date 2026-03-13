@@ -1,14 +1,14 @@
-# Glossary of Terms
+# Woordelys van terme
 
 ## A
 
 ```{glossary}
 
-Accessibility
-    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as “a11y”, pronounced "ally", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
+Toeganklikheid
+    ontwerp van produkte, toestelle, dienste of omgewings om bruikbaar te wees deur alle mense ongeag hul vermoëns; soms afgekort as “a11y”, uitgespreek “bondgenoot”, waar 11 staan vir die aantal letters tussen die eerste “a” en die laaste “y” in die woord toeganklikheid.
 
-[AMY](https://amy.carpentries.org)
-    the community data management software of The Carpentries; it allows: the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional partnerships; community members to find and sign up for training events, and to view their contributions.
+[AMY] (https://amy.carpentries.org)
+    die gemeenskapsdatabestuursagteware van The Carpentries; dit laat: die organisasie toe om programmatiese aktiwiteite op te spoor, insluitend werkswinkels, opleidings, gemeenskapsrolle en kentekens, en institusionele vennootskappe; gemeenskapslede om op te vind en aan te meld vir opleidingsgeleenthede, en om hul bydraes te sien.
 
 ```
 
@@ -17,13 +17,13 @@ Accessibility
 ```{glossary}
 
 Badge
-    indicator of a commitment or contribution to The Carpentries community; for roles either that require training and/or onboarding, or to recognise particular achievements in the community; refer to {term}`Certification <certification>`, {term}`Certified Role <certified role>` and {term}`Contributor Role <contributor role>`
+    aanduiding van 'n verbintenis of bydrae tot The Carpentries -gemeenskap; vir rolle wat opleiding en/of aansluiting vereis, óf om spesifieke prestasies in die gemeenskap te erken; verwys na {term}`Sertifisering <certification>`, {term}`Sertifiseerde rol <certified role>` en {term}`Bydraerrol <contributor role>`
 
 Blog Post
-    written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
+    geskrewe inhoud gedeel op The Carpentries-webwerf wat deur die gemeenskap of die kernspan geskryf is om inligting, gemeenskapsontwikkelings of onderrigwenke en truuks te deel. 
 
-Board of Directors
-    the governing body of The Carpentries, to whom the Executive Director reports; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Board of Directors meetings and regular correspondence and collaboration via email and online platforms.
+Raad van Direkteure
+    die beheerliggaam van The Carpentries, aan wie die Uitvoerende Direkteur rapporteer; die hoogste leiersliggaam van The Carpentries-projek verantwoordelik vir strategiese en organisatoriese beplanning, die keuse van die uitvoerende direkteur en evaluering van hul prestasie, finansiële toesig, identifisering van inkomstestrome en hulpbronontwikkeling, goedkeuring en monitering van The Carpentries openbare beeld; lede van die raad dien ook as advokate en ambassadeurs vir die organisasie, wat hul netwerke gebruik om die projek se reputasie en fondsinsameling te bevoordeel; voer hierdie verantwoordelikhede uit deur 'n kombinasie van kwartaallikse vergaderings van Raad van Direkteure en gereelde korrespondensie en samewerking via e-pos en aanlynplatforms.
 
 ```
 
@@ -134,13 +134,13 @@ Curriculum Team
 ```{glossary}
 
 Demo
-    short for demonstration, a brief presentation showing how to do a specific task; refer to {term}`Teaching demo <teaching demo>`.
+    kort vir demonstrasie, 'n kort aanbieding wat wys hoe om 'n spesifieke taak te doen; verwys na {term}`Teaching demo <teaching demo>`.
 
-Diversity
-    individual differences (e.g., personality, language, learning preferences and life experiences) and group-social differences (e.g., race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) that can be engaged in the service of learning.
+Diversiteit
+    individuele verskille (bv. Persoonlikheid, taal, leervoorkeure en lewenservarings) en groepsosiale verskille (bv. Ras, etnisiteit, klas, geslag, geslagsidentiteit, seksuele oriëntasie, seksuele identiteit, land van oorsprong en vermoë status, sowel as kulturele, politieke, godsdienstige of ander affiliasies) wat betrokke kan wees by die diens van leer.
 
-Donor
-    an individual who contributes financially to The Carpentries, whether one-time or regularly.
+Skenker
+    'n individu wat finansieel bydra tot The Carpentries, hetsy eenmalig of gereeld.
 
 ```
 
@@ -148,20 +148,20 @@ Donor
 
 ```{glossary}
 
-Editor
-    coordinates and oversees the open peer review of lessons in The Carpentries Lab.
+Redakteur
+    koördineer en hou toesig oor die oop ewekniebeoordeling van lesse in The Carpentries Lab.
 
-Episode (Lesson Episode)
-    a single page in the body of a Carpentries lesson; multiple episodes make up a lesson; an episode does not need to be self-contained.
+Episode (Lesepisode)
+    'n enkele bladsy in die liggaam van 'n Carpentries-les; verskeie episodes maak 'n les uit; 'n episode hoef nie selfstandig te wees nie.
 
 Equity
-    creation of opportunities for access to and participation in programs that are capable of closing participation gaps in our community.
+    skep van geleenthede vir toegang tot en deelname aan programme wat in staat is om deelnemingsgaptes in ons gemeenskap te sluit.
 
 Etherpad
-    open-source, web-based collaborative real-time editor; allows authors to edit a text document simultaneously and access all of the participants' edits in real-time, with the ability to display each author's text in a different colour; there is also a chat box in the sidebar to allow meta communication.
+    oopbron, webgebaseerde samewerkende intydse redakteur; stel skrywers in staat om 'n teksdokument gelyktydig te wysig en toegang tot al die deelnemers se wysigings in intyds toegang te kry, met die vermoë om elke skrywer se teks in 'n ander kleur te vertoon; daar is ook 'n geselskassie in die sybalk om metakommunikasie moontlik te maak.
 
-Executive Team
-    members of the {term}`Core Team <core team>` who proactively bring together perspectives from all individual programmatic teams and established community segments; they discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Board of Directors.
+Uitvoerende span
+    lede van die {term}`Core Team <core team>`wat proaktief perspektiewe uit alle individuele programmatiese spanne en gevestigde gemeenskapssegmente bymekaarbring; hulle bespreek en los voortdurende uitdagings op, ontwikkel en implementeer 'n gedeelde benadering tot bestuur en leierskap, hersien en neem besluite oor die kern Die span werk saam, hou toesig oor projekwerk, ondersteun die ontwikkeling van inkomstegeleenthede, insluitend toelaes, en ondersteun die Uitvoerende Direkteur in hul werk met die Raad van Direkteure.
 
 ```
 
@@ -169,14 +169,14 @@ Executive Team
 
 ```{glossary}
 
-Governance
-    system by which an organisation is controlled and operates; governance of The Carpentries is undertaken by the Board of Directors, to whom the Executive Director reports; refer to {term}`Board of Directors <board of directors>`.
+Bestuur
+    -stelsel waardeur 'n organisasie beheer en bedryf word; die bestuur van The Carpentries word onderneem deur die Raad van Direkteure, aan wie die Uitvoerende Direkteur rapporteer; verwys na {term}`Raad van Direkteure <board of directors>`.
 
-Gratitudes
-    opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customised emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share gratitude in Slack or social media.
+Dankie
+    geleenthede beskikbaar vir die gemeenskap om 'n waardering vir mekaar te deel en alles wat ons saam kon bereik; 'n dankbaarheidsafdeling is in elke nuusbrief ingesluit; ['n aangepaste emoji] (https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is ook beskikbaar om dankbaarheid in Slack of sosiale media te deel.
 
 Green Sticky
-    positive feedback from the community or for the community.
+    positiewe terugvoer van die gemeenskap of vir die gemeenskap.
 
 ```
 
@@ -184,59 +184,59 @@ Green Sticky
 
 ```{glossary}
 
-Handbook
-    collection of information on policies and procedures; refer to  {term}`Carpentries Handbook <carpentries handbook>`.
+Handboek
+    versameling van inligting oor beleide en prosedures; verwys na  {term}`Carpentries Handbook <carpentries handbook>`.
 
 Helper
-    volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
+    vrywilliger gewerf deur die werkswinkelorganiseerder om Carpentries-werkswinkels te ondersteun; ondersteun leerders een-tot-een as hulle vassit om sagteware te installeer, 'n reël kode of enige ander dele van die leerproses te verstaan; hoef nie 'n gesertifiseerde instrukteur of lid van The Carpentries -gemeenskap te wees nie; verwys na [helper checklist] (https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) vir meer inligting.
 
-Host Organisation(s)
-    institution(s) responsible for planning a Carpentries event; can also be the institution where the event is held.
+Gasheerorganisasie (s)
+    instelling (s) wat verantwoordelik is vir die beplanning van 'n Carpentries-geleentheid; kan ook die instelling wees waar die geleentheid gehou word.
 
 ```
 
-## I
+## EK
 
 ```{glossary}
 
 Incident Response Group (IRG)
-    group of people who work on a specific Code of Conduct incident; there will be a minimum of three people from the Code of Conduct committee on each IRG.
+    groep mense wat aan 'n spesifieke gedragskode-voorval werk; daar sal 'n minimum van drie mense uit die Gedragskode-komitee op elke IRG wees.
 
-Incident Response Lead
-    a person on the Code of Conduct committee heading the Incidence Response Group (IRG); this person is appointed on a per-incident basis by the IRG.
+Voorval Response Lead
+    'n persoon in die Gedragskode-komitee onder leiding van die Incidence Response Group (IRG); hierdie persoon word op 'n voorval deur die IRG aangestel.
 
-Inclusion
-    active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community.
+Insluiting
+    aktiewe, opsetlike en deurlopende betrokkenheid van uiteenlopende mense en gemeenskappe wat bewustheid, inhoudskennis en empatiese begrip verhoog van die maniere waarop ons binne ons gemeenskap kommunikeer (en verander).
 
 Incubator
-    refer to  {term}`Carpentries Incubator <carpentries incubator>`.
+    verwys na  {term}`Carpentries Incubator <carpentries incubator>`.
 
-Incubator Lesson
-    lesson under development by the community in The Carpentries Incubator, using the Carpentries lesson infrastructure.
+Incubator Les
+    -les wat deur die gemeenskap in The Carpentries Incubator ontwikkel word, met behulp van die Carpentries-lesinfrastruktuur.
 
-Instructors
-    community members who are certified to teach Carpentries workshops after completing Instructor Training and checkout.
+Instrukteurs
+    gemeenskapslede wat gesertifiseer is om Carpentries-werkswinkels te onderrig nadat hulle instrukteeropleiding en afhand
 
-Instructor Meeting
-    every other month meetings where Instructors discuss pre/post workshops, challenges and wins, and receive important announcements from the Core Team.
+Instruktorvergadering
+    elke tweede maand vergaderings waar instrukteurs voor/na-werkswinkels, uitdagings en oorwinning bespreek en belangrike aankondigings van die kernspan ontvang.
 
-Instructor Trainee
-    individual who is in the process of being certified as an Instructor.
+Instrukteur Leeringee
+    individu wat besig is om as 'n instrukteur gesertifiseer te word.
 
 Instructor Trainer
-    community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations and attend Instructor Trainer meetings.
+    gemeenskapslid wat opgelei en gesertifiseer is om instruktoropleiding te onderrig; hulle bied ook onderrigdemonstrasies aan en woon instrukteur-afrigtervergaderings by.
 
-Instructor Trainer Training
-    training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
+Instrukteur Trainer Trainer opleiding
+    opleiding in hoe om instruktoropleiding te leer; 'n noodsaaklike stap om Instructor Trainer afhandeling en sertifisering te voltooi. 
 
-Instructor Trainers Leadership
-    committee of Instructor Trainers responsible for community oversight and governance.
+Instruktoropleiers Leierskap
+    komitee van Instruktoropleiers wat verantwoordelik is vir gemeenskapstoesig
 
-Instructor Training
-    training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer also to {term}`Checkout <checkout>`
+Instruktoropleiding
+    opleiding in hoe om Carpentries-werkswinkels te onderrig, insluitend opvoedkundige sielkunde, bewysgebaseerde onderrigpraktyke en Carpentries-spesifieke inligting; 'n noodsaaklike stap vir die voltooiing van instrukteur -afhandeling en sertifisering; verwys ook na {term}`Checkout <checkout>`
 
-Internationalisation
-    initiative to translate Carpentries resources into multiple languages and support the adoption of The Carpentries internationally; sometimes abbreviated as "i18n" where 18 stands for the number of letters between the first “i” and the last “n” in the word internationalisation.
+Internasionalisasie
+    inisiatief om Carpentries hulpbronne te vertaal in verskeie tale en ondersteun die aanvaarding van The Carpentries internasionaal; soms afgekort as “i18n” waar 18 staan vir die aantal letters tussen die eerste “i” en die laaste “n” in die woord internasionalisering.
 
 ```
 
@@ -245,46 +245,46 @@ Internationalisation
 ```{glossary}
 
 Lab
-    refer to {term}`Carpentries Lab<carpentries lab>`.
+    verwys na {term}`Carpentries Lab<carpentries lab>`.
 
-Lab Lesson
-    peer-reviewed lesson in The Carpentries Lab; lab lessons typically begin in the Incubator and enter the Lab after passing the peer review and editorial processes.
+Laboratoriumles
+    medetersende les in The Carpentries Lab; laboratoriumlesse begin gewoonlik in die inkubator en betree die laboratorium nadat die ewekniebeoordeling en redaksionele prosesse geslaag het.
 
-Learner
-    anyone who participates in a Carpentries workshop.
+Leerder
+    almal wat deelneem aan 'n Carpentries-werkswinkel.
 
-Lesson
-    self-contained collection of episodes teaching skills within a single topic, built using the Lesson Infrastructure.
+Les
+    selfstandige versameling van episodes onderrig vaardighede binne 'n enkele onderwerp, gebou met behulp van die lesinfrastruktuur.
 
-Lesson Developer
-    member of the community who creates lesson content; may use the Lesson Developer Handbook as a primary resource.
+Lesontwikkelaar
+    lid van die gemeenskap wat lesinhoud skep; mag die Lesontwikkelaarhandboek as 'n primêre hulpbron gebruik.
 
-Lesson Developer Trainer
-    member of the community who has been trained and certified to teach Collaborative Lesson Development Training; they also attend Lesson Developer Trainer meetings.
+Lesontwikkelaarafrigter
+    lid van die gemeenskap wat opgelei en gesertifiseer is om Samewerkende Lesontwikkelingsopleiding aan te leer; hulle woon ook lesontwikkelaarafrigtingsvergaderings by.
 
-Lesson Development Sprint
-    dedicated event to make progress and encourage collaboration on the development of a lesson.
+Lesontwikkeling Sprint
+    toegewyde geleentheid om vordering te maak en samewerking aan te moedig oor die ontwikkeling van 'n les.
 
-Lesson Infrastructure
-    collection of software tools that are used to build, style, and validate a Carpentries lesson website; also known as The Carpentries Workbench.
+Lesinfrastruktuur
+    versameling sagteware-instrumente wat gebruik word om 'n Carpentries-leswebwerf te bou, te styl en te bevestig; ook bekend as The Carpentries Workbench.
 
-Lesson Maintainer
-    refer to {term}`Maintainer<maintainer>`.
+Lesonderhouer
+    verwys na {term}`Onderhouder<maintainer>`.
     
-Lesson Program
-    collection of lessons (i.e., Data Carpentry, Library Carpentry, Software Carpentry, and HPC Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
+Lesprogram
+    versameling lesse (d.w.s. Data-timmerwerk, biblioteektimmerwerk, sagtewarestuurwerk en HPC timmerwerk lesse) wat uit een of meer Carpentries-werkswinkels bestaan en die leierskap wat die ontwikkeling en implementering daarvan lei.
 
-Lesson Program Governance Committee
-    group overseeing the strategy and policies of a Lesson Program. 
+Lesprogrambestuurskomitee
+    -groep wat toesig hou oor die strategie en beleide van 'n lesprogram. 
 
-Liaison
-    representative of the Core Team who sits on a committee or task force to support the group's work. 
+Contact
+    verteenwoordiger van die kernspan wat in 'n komitee of taakspan sit om die groep se werk te ondersteun. 
 
 Listserv
-    refer to  {term}`Mailing List<mailing list>`.
+    verwys na  {term}`Poslys<mailing list>`.
 
-Local Community
-    members of a subcommunity whose focus is Carpentries activities at a specified local and institutional level (town, city, at a university or research institution); refer to {term}`Subcommunity<subcommunity>`; compare to {term}`Regional Community <regional community>`.
+Plaaslike Gemeenskap
+    lede van 'n subgemeenskap wie se fokus Carpentries aktiwiteite op 'n spesifieke plaaslike en institusionele vlak is (dorp, stad, by 'n universiteit of navorsingsinstelling); verwys na {term}`Subcommunity<subcommunity>`; vergelyk met {term}`Streekgemeenskap <regional community>`.
 
 ```
 
@@ -292,17 +292,17 @@ Local Community
 
 ```{glossary}
 
-Mailing List
-    email list you can subscribe to for receiving communications from the community; [TopicBox](#topicbox) is the platform The Carpentries uses for supporting mailing lists.
+Poslys
+    e-poslys waarop u kan inteken vir die ontvang van kommunikasie van die gemeenskap; [TopicBox] (#topicbox) is die platform wat The Carpentries gebruik om poslyste te ondersteun.
 
-Maintainer
-    community member working to keep Carpentries lessons stable and functional.
+Onderhouder
+    gemeenskapslid wat werk om Carpentries-lesse stabiel en funksioneel te hou.
 
-Membership
-    refer to {term}`Member Organisation<member organisation>`.
+Lidmaatskap
+    verwys na {term}`Lidorganisasie<member organisation>`.
 
-Member Organisation
-    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement.
+Lidorganisasie
+    'n instelling wat verbind is om die instandhouding en groei van The Carpentries -gemeenskap te ondersteun volgens die spesifieke besonderhede wat in elke instelling se lidmaatskapsooreenkoms of ooreenkomsmemorandum uiteengesit word.
 
 ```
 
@@ -310,8 +310,8 @@ Member Organisation
 
 ```{glossary}
 
-Newsletter
-    refer to {term}`Carpentries Clippings<carpentries clippings>`.
+Nuusbrief
+    verwys na {term}`Carpentries Clippels<carpentries clippings>`.
 
 ```
 
@@ -319,8 +319,8 @@ Newsletter
 
 ```{glossary}
 
-Official Lesson
-    the single lesson within a Lesson Program that can be taught in an official Carpentries workshop.
+Amptelike les
+    die enkele les binne 'n lesprogram wat in 'n amptelike Carpentries-werkswinkel geleer kan word.
 
 ```
 
@@ -328,26 +328,26 @@ Official Lesson
 
 ```{glossary}
 
-Partner
-    refer to {term}`Partner Organisation<partner organisation>`.
+Vennoot
+    verwys na {term}`Vennootorganisasie<partner organisation>`.
 
-Partner Organisation
-    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Partnership Agreement or Memorandum of Agreement. 
+Vennootorganisasie
+    'n instelling wat verbind is om die instandhouding en groei van The Carpentries -gemeenskap te ondersteun volgens die spesifieke besonderhede wat in elke instelling se vennootskapsooreenkoms of ooreenkomsmemorandum uiteengesit word. 
 
-Partnership
-    refer to {term}`Partner Organisation<partner organisation>`.
+Vennootskap
+    verwys na {term}`Vennootorganisasie<partner organisation>`.
 
-Partnership Program
-    a program granting Partner Organisations access to workshops, trainings and other service offerings from The Carpentries, designed to strengthen the two-way relationship between the organisations.
+Vennootskapsprogram
+    'n program wat vennootorganisasies toegang gee tot werkswinkels, opleidings en ander diensaanbiedings van The Carpentries, wat ontwerp is om die tweerigtingsverhouding tussen die organisasies te versterk.
 
 Pilot Workshop
-    event where a new lesson is being tested.
+    -geleentheid waar 'n nuwe les getoets word.
 
-Policy
-    guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
+Beleid
+    -riglyn wat deur The Carpentries aangeneem is, wat inlig oor die implementering van prosedures, insluitend maar nie beperk tot, finansies, infrastruktuur en programmering nie; vir meer inligting oor ons beleide, verwys na [beleide in The Carpentries handboek] (https://docs.carpentries.org/policies/).
 
-[Pretix](https://pretix.carpentries.org)
-    an [open source scheduling system](https://pretix.eu) that The Carpentries hosts on its cloud infrastructure to manage community events and attendance
+[Pretix] (https://pretix.carpentries.org)
+    'n [open source skeduleringstelsel] (https://pretix.eu) wat The Carpentries op sy wolkinfrastruktuur aanbied om gemeenskapsgeleenthede en bywoning te bestuur
 
 ```
 
@@ -356,19 +356,19 @@ Policy
 ```{glossary}
 
 Red Sticky
-    constructive feedback from the community or for the community.
+    konstruktiewe terugvoer van die gemeenskap of vir die gemeenskap.
 
-Regional Community
-    a subcommunity whose focus is Carpentries activities at a specified large geographical (regional, national, provincial or district) area; refer to {term}`Subcommunity<subcommunity>`; compare to {term}`Local Community <local community>`.
+Streekgemeenskap
+    'n subgemeenskap waarvan die fokus Karpentrie-aktiwiteite op 'n gespesifiseerde groot geografiese (streeks-, nasionale, provinsiale of distrik) gebied is; verwys na {term}`Subgemeenskap<subcommunity>`; vergelyk met {term}`Plaaslike Gemeenskap <local community>`.
 
-Regional Community Call
-    community session of regional subcommunity matters. 
+Streekgemeenskapsroep
+    gemeenskapsessie van streekssubgemeenskapsake. 
 
-Reviewer
-    community member providing feedback on a lesson as part of The Carpentries Lab's open peer review process.
+Resensent
+    gemeenskapslid wat terugvoer verskaf oor 'n les as deel van The Carpentries Lab se oop ewekniebeoorsieningsproses.
 
-Roadmap
-    plan that defines a goal or desired outcome and includes the major steps or milestones needed to achieve it.
+Padkaart
+    -plan wat 'n doel of gewenste uitkoms definieer en die belangrikste stappe of mylpale insluit wat nodig is om dit te bereik.
 
 ```
 
@@ -376,32 +376,32 @@ Roadmap
 
 ```{glossary}
 
-Self-Organised Workshop
-    workshop that is facilitated and organised by a certified Carpentries Instructor and their local community.
+Selfgeorganiseerde Werkswinkel
+    werkswinkel wat deur 'n gesertifiseerde Carpentries Instrukteur en hul plaaslike gemeenskap gefasiliteer en georganiseer word.
 
 Skill-Up Session
-    community session offering professional development opportunities for the community where the Community Session Host teaches relevant skills.
+    gemeenskapsessie bied professionele ontwikkelingsgeleenthede vir die gemeenskap waar die gemeenskapsessie-gasheer relevante vaardighede leer.
 
 Slack
-    software platform used by The Carpentries to support synchronous and asynchronous communications; channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose.
+    sagtewareplatform wat deur The Carpentries gebruik word om sinchrone en asynchrone kommunikasie te ondersteun; kanale ondersteun kommunikasie, samewerking en mede-skepping tussen 'n subset gemeenskapslede, afhangende van die kanaal se doel.
 
 Sponsor
-    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to {term}`Sponsorship Program <sponsorship program>`. 
+    'n organisasie wat daartoe verbind het om The Carpentries finansieel te ondersteun deur die Carpentries Borgingsprogram; verwys na {term}`Borgingsprogram <sponsorship program>`. 
 
-Sponsorship Program
-    program that allows a company, firm, or other entity to contribute financially to The Carpentries. 
+Borgingsprogram
+    -program wat 'n maatskappy, firma of ander entiteit toelaat om finansieel by te dra tot The Carpentries. 
 
-Strategic Plan
-    document used to communicate The Carpentries' goals, objectives, and actions taken to achieve those goals over a three to five-year period.
+Strategiese Plan
+    -dokument wat gebruik word om The Carpentries se doelwitte, doelwitte en aksies wat geneem is om daardie doelwitte oor 'n tydperk van drie tot vyf jaar te kommunikeer.
 
-Subcommunity
-    a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests; refer to {term}`Local Community <local community>` and {term}`Regional Community <regional community>`.
+Subgemeenskap
+    'n subversameling van die groter Carpentries -gemeenskap; kan plaaslike, streeks-, domeinspesifieke of 'n groep gemeenskapslede wees wat 'n gemeenskaplike taal of belange deel; verwys na {term}`Plaaslike Gemeenskap <local community>`en {term}`Streekgemeenskap <regional community>`.
 
-Subcommunity Coordinator
-    member of the community who serves as leader of a subcommunity.
+Subgemeenskapskoördineerder
+    lid van die gemeenskap wat dien as leier van 'n subgemeenskap.
 
-Subcommunity Registry
-    [a registry of all The Carpentries subcommunities](https://carpentries.org/community/get-connected/#subcommunity-registry) who have officially registered with the organisation.
+Subcommunity Register
+    ['n register van alle The Carpentries subgemeenskappe] (https://carpentries.org/community/get-connected/#subcommunity-registry) wat amptelik by die organisasie geregistreer het.
 
 ```
 
@@ -410,28 +410,28 @@ Subcommunity Registry
 ```{glossary}
 
 Task Force
-    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](https://docs.carpentries.org/resources/general/taskforce.html) to carry out their work.
+    -groep geskep om idees te ondersoek en opdaterings in beleid, prosedures en riglyne te maak; hulle bring 'n klein groep mense bymekaar wat op 'n spesifieke onderwerp gefokus is vir 'n vasgestelde tydperk met toepassing van 'n [aanbevole stel riglyne] (https://docs.carpentries.org/resources/general/taskforce.html) om hul werk uit te voer.
 
 Teaching Demo
-    a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
+    'n sessie waar instruktorleerleerlinge 'n kort demonstrasie gee van hoe hulle 'n les sou leer; deel van die instruktorsertifiseringsproses.
 
 Technology Team
-    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the computational infrastructure and services that keep our organisation operating (e.g., Etherpads and CodiMD, the Workbench and our lesson templates, GitHub organisations and repositories, our internal database AMY, and our cloud infrastructure).
+    lede van The Carpentries Core Team wat die ontwikkeling, instandhouding en nakoming van al die berekenaarinfrastruktuur en dienste verseker wat ons organisasie bedryf hou (bv. Etherpads en CodiMD, die Workbench en ons lessjablone, GitHub-organisasies en bewaarplekke, ons interne databasis AMY en ons wolkinfrastruktuur).
 
-Tip Sheet
-    community resource that synthesises and summarises information; an example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
+Wenkblad
+    gemeenskapshulpbron wat inligting sintetiseer en opsom; 'n voorbeeld sluit ons [Welcome Tip Sheet] (https://zenodo.org/records/14591202) in.
 
 TopicBox
-    platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
+    platform Die Carpentries gebruik vir die ondersteuning van e-poslyste; daar is talle poslyste waarby u kan aansluit op grond van die gemeenskapsrolle wat u ondersteun en u belangstellings.
 
-Trainee
-    an individual who has registered for or attended a Carpentries Training (e.g., Collaborative Lesson Development Training, Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
+Leerling
+    'n individu wat geregistreer het vir 'n Carpentries -opleiding of bygewoon het (bv. Samewerkende lesontwikkelingsopleiding, instrukteeropleiding, instrukteur afrigteropleiding), maar nog nie sertifisering voltooi het nie; verwys na {term}`Instructor Trainee<instructor trainee>`.
 
 Trainer
-    community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>` and {term}`Collaborative Lesson Development Training`.
+    gemeenskapslid wat 'n Carpentries -opleiding onderrig; verwys na {term}`Instructor Trainer<instructor trainer>`en {term}`Samewerkende lesontwikkelingsopleiding`.
 
 Training
-    event that provides instruction on specific competencies, knowledge, or skills; individuals who complete training become eligible for certification upon completion of the program requirements; for example, refer to {term}`Instructor Training<instructor training>`
+    -geleentheid wat onderrig bied oor spesifieke vaardighede, kennis of vaardighede; individue wat opleiding voltooi, kom in aanmerking vir sertifisering na voltooiing van die programvereistes; verwys byvoorbeeld na {term}`Instruktoropleiding<instructor training>`
 
 ```
 
@@ -439,32 +439,32 @@ Training
 
 ```{glossary}
 
-Welcome Session
-    a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities; it also supports onboarding for those who recently completed Instructor training.
+Welkomsessie
+    'n spesiale tipe gemeenskapsbesprekingsessie om nuwe lede van die gemeenskap by ons organisasie te verwelkom; die agenda bevat tyd vir netwerking, dek maniere om met ons organisasie betrokke te raak, en sluit aankondigings en komende geleenthede in; dit ondersteun ook inboarding vir diegene wat onlangs instruktoropleiding voltooi het.
 
 Workbench
-    the collection of three packages used to build Carpentries lessons: [sandpaper](https://carpentries.github.io/sandpaper), [pegboard](https://carpentries.github.io/pegboard), [varnish](https://carpentries.github.io/varnish); refer to {term}`Lesson Infrastructure <lesson infrastructure>`.
+    die versameling van drie pakkette wat gebruik word om Carpentries-lesse te bou: [skuurpapier] (https://carpentries.github.io/sandpaper), [pegboard] (https://carpentries.github.io/pegboard), [vernis] (https://carpentries.github.io/varnish); verwys na {term}`Lesinfrastruktuur <lesson infrastructure>`.
 
-Workshop
-    event that is taught by Carpentries Instructors who teach the curriculum of Data Carpentry, Library Carpentry and Software Carpentry; refer to {term}`Self-Organised Workshop<self-organised workshop>` and {term}`Centrally-Organised Workshop<centrally-organised workshop>`    
+Werkswinkel
+    -geleentheid wat aangebied word deur Carpentries -instrukteurs wat die kurrikulum van Data-timmerwerk, biblioteektimmerwerk en sagtewarestuurwerk onderrig; verwys na {term}`Selfgeorganiseerde Werkswinkel<self-organised workshop>`en {term}`Sentraal-Georganiseerde Werkswinkel<centrally-organised workshop>`    
 
-Workshop Administrator
-    role within The Carpentries Core Team that supports the organisation and execution of workshops requested by members and hosts.
+Werkswinkel Administrator
+    rol binne The Carpentries Kernspan wat die organisasie en uitvoering van werkswinkels ondersteun wat deur lede en gashere aangevra word.
 
-Workshops and Instruction Team
-    members of The Carpentries Core Team who develop and implement workflows to keep our workshops operating smoothly. The team also supports the growth and development of the Instructor Training and Instructor Trainer Training programs.
+Werkswinkels en Instruksiepan
+    lede van The Carpentries Core Team wat werkvloei ontwikkel en implementeer om ons werkswinkels glad te laat werk. Die span ondersteun ook die groei en ontwikkeling van die Instruktoropleiding en Instruktorafrigtingsprogramme.
 
-Workshop Format
-    how a workshop is delivered, either online, in-person, or hybrid (Hybrid workshops are only offered as Self-Organised Workshops).
+Werkswinkelformaat
+    hoe 'n werkswinkel afgelewer word, hetsy aanlyn, persoonlik of hibried (Hibriede werkswinkels word slegs aangebied as selfgeorganiseerde werkswinkels).
 
-Workshop Host
-    a person who organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
+Workshopgasheer
+    'n persoon wat namens hul instelling 'n Carpentries-werkswinkel organiseer; vir 'n Sentraal-georganiseerde werkswinkel versoek hulle die werkswinkels- en instruksiespan om die werkswinkel deur 'n werkswinkeladministrateur te koördineer. 
 
 Workshop Slug
-    the specific name identifier for a workshop with the format yyyy-mm-dd-site-format.
+    die spesifieke naamidentifiseerder vir 'n werkswinkel met die formaat yyyy-mm-dd-site-formaat.
 
-Workshop Website
-    a link that is used for the public to learn about a workshop; the link shares information such as date, location, how to register, the name of Instructors and helpers, the curriculum, contact information, workshop surveys, and instructions on how to pre-install software.
+Werkswinkel Webwerf
+    'n skakel wat gebruik word vir die publiek om meer te wete te kom oor 'n werkswinkel; die skakel deel inligting soos datum, ligging, hoe om te registreer, die naam van instrukteurs en helpers, die kurrikulum, kontakinligting, werkswinkelopnames en instruksies oor hoe om sagteware vooraf te installeer.
 
 ```
 
@@ -473,11 +473,11 @@ Workshop Website
 ```{glossary}
 
 Zoom
-    video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as Instructor Training, community discussions, teaching demos, and committee meetings. 
+    videokonferensie-platform; Die Carpentries bied drie Zoom-kamers vir openbare gemeenskapsgeleenthede soos instruktoropleiding, gemeenskapsbesprekings, onderrigdemo's en komiteevergaderings. 
 
 ```
 
-## Archived Terms
+## Gearchiveer bepalings
 
 ```{glossary}
 
