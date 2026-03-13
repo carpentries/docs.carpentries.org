@@ -1,18 +1,18 @@
-# Workshop Resources
+# Werkswinkel Hulpbronne
 
-[Workshop Checklists](checklists.md): Best practices for planning a Carpentries workshop for your role as a host, Instructor, or helper.
+[Werkswinkel Kontrolelyste] (checklists.md): Beste praktyke vir die beplanning van 'n Carpentries-werkswinkel vir u rol as gasheer, instrukteur of helper.
 
-[Resources for Online Workshops](resources_for_online_workshops.md): A collection of tips and best practices for teaching workshops online.
+[Hulpbronne vir aanlynwerkswinkels] (resources_for_online_workshops.md): 'n Versameling wenke en beste praktyke vir die onderrig van werkswinkels aanlyn.
 
-[Creating a Workshop Website Demonstration](https://drive.google.com/file/d/1kGmy9oUs7jR_k3qPzAgmrSRmD6M_j04L/view?usp=sharing): Step by step video on how to create a Carpentries workshop website.
+[Skep van 'n werkswinkelwebwerfdemonstrasie] (https://drive.google.com/file/d/1kGmy9oUs7jR_k3qPzAgmrSRmD6M_j04L/view?usp=sharing): Stap vir stap video oor hoe om 'n Carpentries-werkswinkel webwerf te skep.
 
-[Email Templates](email_templates.md): Pre-written text to advertise your workshop, recruit helpers, email learners, and more!
+[E-possjablone] (email_templates.md): Voorgeskrewe teks om u werkswinkel te adverteer, helpers te werf, e-pos leerders en meer!
 
-[Learner Certificates](https://github.com/carpentries/learner-certificates): Build certificates to distribute to learners as acknowledgement of their participation in your workshop.
+[Leerdersertifikate] (https://github.com/carpentries/learner-certificates): Bou sertifikate om aan leerders te versprei as erkenning van hul deelname aan u werkswinkel.
 
-[AMY Community Users Guide](https://carpentries.github.io/amy/users_guide/community_index/): Information for accessing your AMY profile.
+[AMY Community Gebruikersgids] (https://carpentries.github.io/amy/users_guide/community_index/): Inligting vir toegang tot u AMY-profiel.
 
-[Genomics Workshops Terms of Agreement](genomics_policy.md): Policy about setting up AWS instances for Data Carpentry Genomics workshops.
+[Ooreenkomsvoorwaardes vir genomika-werkswinkels] (genomics_policy.md): Beleid oor die opstel van AWS-instansies vir Data Masinery Genomics werkswinkels.
 
-For more resources, please visit the Additional Resources section of the [Instructor Tip Sheet](/resources/general/tip-sheets.md).
+Vir meer hulpbronne, besoek asseblief die afdeling Bykomende hulpbronne van die [Instruktorwenkblad] (/resources/general/tip-sheets.md).
 
