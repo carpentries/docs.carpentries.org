@@ -1,27 +1,27 @@
-# Lesson Program Governance Policy
+# Lesprogrambestuursbeleid
 
-Note that the [Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) will also follow this policy.
+Let daarop dat die [Trainers Leadership Committee] (https://github.com/carpentries/trainers/blob/main/governance.md) ook hierdie beleid sal volg.
 
-- Each Lesson Program will have a Lesson Program Governance Committee.
-- Each Lesson Program Governance Committee will comply with the general [committee policy as described in the Carpentries Handbook](/resources/general/committees.md).
-- In addition, each Lesson Program Governance Committee:
-  - Maintains a minimum of 3 members to serve on the committee and act as a point of contact with The Carpentries Board of Directors and Core Team.
-  - Follows all general policies as outlined by The Carpentries, including, but not limited to, the {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
-  - Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding [Curriculum Advisory Committee](/handbooks/curriculum_advisors.md) or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee.
-  - Decides if and when new lessons are added to or removed from the Lesson Program or delegate the decision of adding or removing a lesson to the corresponding Curriculum Advisory Committee.
-  - Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured.
-  - Decides how and how often they engage the Lesson Program community/communities.
-  - Decides between:
-    - seeking approval from the Executive Council to elect members to the Lesson Program Governance Committee.
-    - appointing members based on an application process.
-  - Decides committee members term lengths.
-  - Decides on requesting additional Roles and Responsibilities beyond those described in this policy from the Board of Directors.
-  - Works with The Carpentries Core Team to maintain documentation (including the Lesson Program website) with information about its goals, workshops and curricula.
-  - Coordinates with The Carpentries to release and publish lessons with permanent identifiers on a regular basis or delegates this responsibility to the corresponding Curriculum Advisory Committee.
-  - Maintains and develops lessons in accordance with Carpentries guidelines as outlined in The Carpentries Curriculum Development Handbook.
-- The Board of Directors:
-  - Decides if a new Lesson Program can join The Carpentries as regulated by the {{'[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)'.format(carpentries_website)}} and the [Lesson Program Policy](lesson-program-governance.md).
-  - Decides if a Lesson Program Governance Committee’s policies do not align with the Code of Conduct or other Carpentries policies.
-  - Decides whether to approve a Lesson Program Governance Committee’s request to elect committee members by its subcommunity, instead of being appointed through an application process.
-  - Decides whether to approve a request from a Lesson Program Governance Committee for additional Roles and Responsibilities beyond those described in this policy.
-- Each Lesson Program Governance Committee has a Core Team Liaison assigned to it.
+- Elke lesprogram sal 'n lesprogrambestuurskomitee hê.
+- Elke lesprogrambestuurskomitee sal voldoen aan die algemene [komitee beleid soos beskryf in die Carpentries Handbook] (/resources/general/committees.md).
+- Daarbenewens, elke lesprogrambestuurskomitee:
+  - Handhaaf 'n minimum van 3 lede om in die komitee te dien en dien as 'n kontakpunt met The Carpentries Board of Directeurs en Core Team.
+  - Volg alle algemene beleide soos uiteengesit deur The Carpentries, insluitend, maar nie beperk nie tot, die {{'[Gedragskode] ({}) '.format (code_of_conducte)}}.
+  - Bepaal die kurrikulum en kernkurrikulum vir (elk van) die lesprogram se werkswinkel (s), tesame met die ooreenstemmende [Kurrikulumadvieskomitee] (/handbooks/curriculum_advisors.md) of deur kurrikulumbesluite aan die ooreenstemmende kurrikulumadvieskomitee te delegeer.
+  - Besluit of en wanneer nuwe lesse by die lesprogram gevoeg of uit verwyder word, of delegeer die besluit om 'n les by te voeg of te verwyder aan die ooreenstemmende Kurrikulumadvieskomitee.
+  - Besluit of een of meer kurrikulumadvieskomitees nodig is vir hul kurrikulums en hoe dit gestruktureer is.
+  - Besluit hoe en hoe gereeld hulle die lesprogramgemeenskap/gemeenskappe betrek.
+  - Besluit tussen:
+    - om goedkeuring van die Uitvoerende Raad te soek om lede tot die Lesprogrambestuurskomitee te kies.
+    - aanstelling van lede op grond van 'n aansoekproses.
+  - Besluit die termynlengte van die komitee.
+  - Besluit oor die aansoek van addisionele rolle en verantwoordelikhede buite dié wat in hierdie beleid beskryf word, van die Raad van Direk
+  - Werk saam met The Carpentries Core Team om dokumentasie (insluitend die lesprogram-webwerf) in stand te hou met inligting oor sy doelwitte, werkswinkels en kurrikulums.
+  - Koördineer met The Carpentries om gereeld lesse met permanente identifiseerders vry te stel en te publiseer of hierdie verantwoordelikheid aan die ooreenstemmende kurrikulumadvieskomitee toe te gee.
+  - Handhaaf en ontwikkel lesse in ooreenstemming met Carpentries-riglyne soos uiteengesit in The Carpentries Curriculum Development Handbook.
+- Die Raad van Direkteure:
+  - Besluit of 'n nuwe lesprogram by The Carpentries kan aansluit soos gereguleer deur die {{'[The Carpentries Verbylaws] ({}/about-us/governance/#carpentries-bylaws-and-policies) '.format (carpentries_website)}} en die [Lesprogrambeleid] (lesson-program-governance.md).
+  - Besluit of die beleid van 'n lesprogrambestuurskomitee nie ooreenstem met die gedragskode of ander Carpentries -beleide nie.
+  - Besluit of die versoek van 'n Lesprogrambestuurskomitee goedkeur om komiteelede deur sy subgemeenskap te kies, in plaas daarvan om deur 'n aansoekproses aangestel te word.
+  - Besluit of 'n versoek van 'n lesprogrambestuurskomitee moet goedkeur vir addisionele rolle en verantwoordelikhede buite dié wat in hierdie beleid beskryf word.
+- Elke lesprogrambestuurskomitee het 'n kernspanskakelaar wat daaraan toegewys is.
