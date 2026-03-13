@@ -1,36 +1,36 @@
-# Curriculum Overview Pages
+# Kurrikulumoorsigbladsye
 
-By default, The Carpentries Workbench is designed to build [lesson websites consisting of multiple episode pages](./curriculum-structure.md), reflecting the typical structure of our lessons.
-However, it is sometimes helpful to be able to provide a single-page "lesson" site, typically as an overview or "landing page" for a collection of lessons that belong together ([we call this a _curriculum_](./curriculum-structure.md)).
+Die Carpentries Workbench is standaard ontwerp om [leswebwerwe bestaande uit verskeie episode bladsye] (./curriculum-structure.md) te bou, wat die tipiese struktuur van ons lesse weerspieël.
+Dit is egter soms nuttig om 'n enkelbladsy-leswebwerf te kan verskaf, tipies as 'n oorsig of 'landingsblad' vir 'n versameling lesse wat bymekaar behoort ([ons noem dit 'n _kurrikulum_] (./curriculum-structure.md)).
 
-In the Workbench, this is supported with the optional `overview` parameter in the global configuration file (`config.yaml`).
-Adding `overview: true` as a new line to `config.yaml` prevents the infrastructure from raising an error if no files are present in the `episodes` folder. The front page of the overview site is built from the `index.md` and `learners/setup.md` as usual.
+In die Workbench word dit ondersteun met die opsionele `oorsig'-parameter in die globale konfigurasielêer (`config.yaml`).
+Die byvoeging van `oorsig: true`as 'n nuwe reël na`config.yaml`verhoed dat die infrastruktuur 'n fout veroorsaak as geen lêers in die`episodes`-lêers teenwoordig is nie. Die voorblad van die oorsigwebwerf is gebou uit die`index.md`en`leerners/setup.md\` soos gewoonlik.
 
-## What Should an Overview Page Contain?
+## Wat moet 'n oorsigbladsy bevat?
 
-Lesson Developers can choose to populate these pages however they like.
-Here are some recommendations for what to include:
+Lesontwikkelaars kan kies om hierdie bladsye te bevul soos hulle wil.
+Hier is 'n paar aanbevelings vir wat om in te sluit:
 
-- A short description of the curriculum as a whole, including its target audience and most important learning outcomes.
-- A list of prerequisite knowledge for the curriculum. (This can be formatted as a fenced div with the `prereq` class.)
-- A table describing the lessons included in the curriculum, and the recommended order in which they should be taught.
-  - If multiple possible pathways exist through your curriculum, these should be described as individual tables or in some introductory text before the table of all lessons is displayed. If many pathways exist through your lessons, describe these on a separate page built from a source file in the `learners/` folder and link to it from `index.md`.
-- Setup instructions such as for software installation and data download should be described in `learners/setup.md`.
-  As with a lesson in the default configuration, the contents of this page will be appended to the landing page of the site.
-- If your lessons share a common example dataset, you may wish to describe it on a dedicated page in this overview site.
-  For example, this page could include a _data dictionary_ describing the features of the dataset, a brief description of its origins, a link to the raw data, and a link to further information (e.g. a publication featuring the original data).
-  - See the [_Workshop Data_ page of the Data Carpentry Ecology Curriculum Overview](https://datacarpentry.org/ecology-workshop/data.html) for an example.
+- 'N Kort beskrywing van die kurrikulum as geheel, insluitend die teikengehoor en die belangrikste leeruitkomste.
+- 'N Lys van voorvereiste kennis vir die kurrikulum. (Dit kan geformateer word as 'n omheinde div met die `prereq` klas.)
+- 'N Tabel beskryf die lesse wat in die kurrikulum ingesluit is, en die aanbevole volgorde waarin hulle geleer moet word.
+  - As verskeie moontlike paaie deur u kurrikulum bestaan, moet dit beskryf word as individuele tabelle of in 'n inleidende teks voordat die tabel van alle lesse vertoon word. As daar baie paaie deur u lesse bestaan, beskryf dit op 'n aparte bladsy wat uit 'n bronlêer in die `leerders/` -lêergids gebou is en skakel daarna vanaf `index.md`.
+- Opstelinstruksies soos vir sagteware-installasie en data-aflaai moet in `leers/setup.md` beskryf word.
+  Soos met 'n les in die standaardkonfigurasie, sal die inhoud van hierdie bladsy by die landing bladsy van die webwerf aangeheg word.
+- As u lesse 'n algemene voorbeelddatastel deel, wil u dit dalk op 'n toegewyde bladsy op hierdie oorsigwebwerf beskryf.
+  Hierdie bladsy kan byvoorbeeld 'n _data-woordeboek_ insluit wat die kenmerke van die datastel beskryf, 'n kort beskrywing van die oorsprong daarvan, 'n skakel na die rou data en 'n skakel na verdere inligting (bv. 'n publikasie met die oorspronklike data).
+  - Sien die [_Workshopdata_ -bladsy van die Data Masinery Ecology Curriculum Overview] (https://datacarpentry.org/ecology-workshop/data.html) vir 'n voorbeeld.
 
-All of the items described above should be included in the overview site of an official Carpentries curriculum.
+Al die items wat hierbo beskryf word, moet ingesluit word in die oorsigwebwerf van 'n amptelike Carpentries-kurrikulum.
 
-## Template Markdown for Curriculum Overview Table
+## Sjabloon Markdown vir kurrikulumoorsigtabel
 
-Make a copy of this template to help you build a Markdown table describing the lessons in your curriculum.
+Maak 'n afskrif van hierdie sjabloon om jou te help om 'n Markdown-tabel te bou wat die lesse in jou kurrikulum beskryf.
 
 ```markdown
-| **Lesson**                                   | **Overview**                                                               |
-|:-------------------------------------------- | -------------------------------------------------------------------------- |
-| [Title of First Lesson](URL-of-lesson-site)  | A short description what the first lesson teaches                          |
-| [Title of Second Lesson](URL-of-lesson-site) | A short description what the second lesson teaches                         | 
-| ...                                          | Keep adding lines in this format until you have listed all of your lessons |
+| **Les** | **Oorsig** |
+|: -------------------------------------------- | -------------------------------------------------------------------------- |
+| [Titel van die eerste les] (URL-of-lesson-site) | 'n Kort beskrywing wat die eerste les leer |
+| [Titel van die tweede les] (URL-of-lesson-site) | 'n Kort beskrywing wat die tweede les leer | 
+|... | Hou voeg lyne in hierdie formaat by totdat u al u lesse gelys het
 ```
