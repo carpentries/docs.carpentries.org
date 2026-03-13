@@ -1,289 +1,289 @@
-# Instructor Trainers Handbook
+# Handboek vir instruktoropleiers
 
-## About This Handbook
+## Oor hierdie handboek
 
-The Instructor Trainers Handbook is designed to support members of The
-Carpentries community who are serving as an Instructor Trainer. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Die Instructor Trainers-handboek is ontwerp om lede van die
+Carpentries-gemeenskap te ondersteun wat as 'n instrukteurafrigter dien. Dit word onderhou deur The Carpentries Workshops and Instruction Team.  As u glo dat iets hier bygevoeg of opgedateer moet word, of as u terugvoer oor die inhoud wil gee, stuur asseblief die {{'[Werkswinkels en instruksiespan] (mailto:{}) '.format (workshops_email)}} of maak 'n probleem op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
-## Introduction
+## Inleiding
 
-Instructor Trainers are certified to co-teach Carpentries Instructor Training events, the first step in certification for Carpentries Instructors. Instructor Trainers also support [Instructor certification](https://carpentries.github.io/instructor-training/14-checkout.html), also known as Checkout, evaluating trainees’ teaching demonstrations.
+Instruktoropleiers is gesertifiseer om Carpentries Instructor Training geleenthede saam te leer, die eerste stap in sertifisering vir Carpentries-instrukteurs. Instruktoropleiers ondersteun ook [Instruktorsertifisering] (https://carpentries.github.io/instructor-training/14-checkout.html), ook bekend as Checkout, wat leerlinge se onderrigdemonstrasies evalueer.
 
-The Instructor Trainer community plays a leading role in The Carpentries, maintaining our flagship [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/), supporting policy development around training, and bringing Carpentries instructional practices to leadership roles across our local and global communities.
+Die Instructor Trainer -gemeenskap speel 'n leidende rol in The Carpentries, handhaaf ons vlagskip [Instructor Training Curriculum] (https://carpentries.github.io/instructor-training/), ondersteun beleidsontwikkeling rondom opleiding en bring Carpentries-onderrigpraktyke na leiersarrolle in ons plaaslike en wêreldwye gemeenskappe.
 
-Instructor Trainers join a global community of skilled professionals with a passion for evidence-based teaching and a shared goal of expanding access to instructional training. Instructor Trainers build their knowledge and skills through co-instruction and monthly discussions, with additional opportunities for in-depth exploration of relevant topics throughout the year.
+Instrukteur-opleiers sluit aan by 'n wêreldwye gemeenskap van geskoolde professionele persone met 'n passie vir bewysgebaseerde onderrig en 'n gedeelde doel om toegang tot onderrigopleiding uit Instrukteur-opleiers bou hul kennis en vaardighede op deur mede-onderrig en maandelikse besprekings, met bykomende geleenthede vir diepgaande ondersoek van relevante onderwerpe deur die jaar.
 
-Instructor Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. Instructor Trainers can assume leadership roles within the Instructor Trainer community as Instructor Training Curriculum Maintainers or members of the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers?tab=readme-ov-file).
+Instruktoropleiers betrokke dikwels leiersarrolle in hul tuisgemeenskappe, menteer plaaslike instrukteurs en modelleer beste praktyke. Instruktoropleiers kan leiersrolle binne die Instrukteur Trainer gemeenskap aanvaar as instrukteeropleidingskurrikulumonderhouders of lede van die [Instrukteur Trainer Leadership Committee] (https://github.com/carpentries/trainers?tab=readme-ov-file).
 
-## Roles and Responsibilities
+## Rolle en verantwoordelikhe
 
-Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. [Requirements for active status are defined below](#active-status-renewal-process).
+Instruktoropleiers leer instruktoropleidingsgeleenthede, bied onderrigdemonstrasies aan en woon die gemeenskapsvergaderings van instruktor [Vereistes vir aktiewe status word hieronder gedefinieer] (#active-status-renewal-process).
 
-The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
+Die geskatte tydsbelegging vir hierdie aktiwiteite is 25-30 uur per jaar, afhangende van voorbereidingsbehoeftes.
 
-Instructor Trainers whose service is included in a member agreement may have additional requirements – please refer to your member agreement for details.
+Instruktoropleiers wie se diens in 'n lidsooreenkoms ingesluit is, kan addisionele vereistes hê - verwys asseblief na u lidsooreenkoms vir besonderhede.
 
-### Scheduling Training Events
+### Skedulerende opleidingsgeleenthede
 
-Instructor Training events, bonus modules, and teaching demos are scheduled on a quarterly basis. Four times a year, the Core Team will poll Trainers for their availability to teach Instructor Training. At the same time, Trainers will be asked to sign up to host teaching demos using Calendly.
+Instruktoropleidingsgeleenthede, bonusmodules en onderrigdemo's word kwartaallikse geskeduleer. Vier keer per jaar sal die kernspan opleiers ondersoek vir hul beskikbaarheid om instrukteeropleiding te leer. Terselfdertyd sal opleiers gevra word om aan te meld om onderrigdemo's aan te bied met behulp van Calendly.
 
-The Core Team creates a training calendar by matching up availability of Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar).  Member sites each receive a unique registration code allowing their team members to sign up for these events.
+Die kernspan skep 'n opleidingskalender deur die beskikbaarheid van opleiers op te pas en [plaas dit met ons kurrikulum] (https://carpentries.github.io/instructor-training/training_calendar).  Lidwebwerwe ontvang elkeen 'n unieke registrasiekode wat hul spanlede toelaat om vir hierdie geleenthede aan te meld.
 
-Teaching demos are listed on the [teaching demo etherpad](https://pad.carpentries.org/teaching-demos).  Trainees can sign up for teaching demos at any time.
+Onderrigdemo's word op die [onderrig demo-etherpad] gelys (https://pad.carpentries.org/teaching-demos).  Leerlinge kan te eniger tyd aanmeld vir onderrig demo's.
 
-## Onboarding
+## Onboord
 
-### Instructor Trainer Training Program
+### Instrukteur Trainer Opleidingsprogram
 
-#### Admission
+#### Toelating
 
-The Instructor Trainer community periodically accepts new members via application.
+Die Instructor Trainer -gemeenskap aanvaar gereeld nuwe lede via aansoek.
 
-- Instructor Trainer Training is a **10-week program held 1-2 times per year** as needed.
-- All Instructor Trainer **candidates must apply and be approved** by a panel of current Instructor Trainers. We strongly recommend that candidates have either had
-  - **prior experience teaching Carpentries workshops** (with existing Instructor certification) or
-  - **significant prior training in teaching** (e.g. courses or a degree in education; experience teaching is also useful but is not the same as training)
-- Instructor Trainer Training seats are offered to approved applicants based on current organisational needs and training capacity. Space is limited, and qualified candidates may not be selected if we have low demand or multiple applicants in the same region.
-- Members can reserve Instructor Trainer Training seats for a fee. In these cases, while the seat is reserved for someone from the member institution, individual candidates must still apply and be approved.
-- The Carpentries keeps a list of interested applicants and member contacts who would like to be notified when the next round of Instructor Trainer Training applications open. To be added to this list, please email the [Instructor Training Team](mailto:instructor.training@carpentries.org).
+- Instructor Trainer Trainer Trainer is 'n program van 10 weke wat 1-2 keer per jaar\*\* gehou word indien nodig.
+- Alle instrukteur afrigter\*\*kandidate moet aansoek doen en goedgekeur word deur 'n paneel van huidige instrukteur-afrigters. Ons beveel sterk aan dat kandidate óf gehad het
+  - **vorige ervaring met die onderrig van Carpentries-werkswinkel** (met bestaande instrukteur sertifisering) of
+  - **beduidende voorafopleiding in onderwys** (bv. kursusse of 'n graad in onderwys; ervaringsonderrig is ook nuttig, maar is nie dieselfde as opleiding nie)
+- Instrukteur Trainer Opleidingsitplekke word aangebied aan goedgekeurde aansoekers gebaseer op huidige organisatoriese behoeftes Die ruimte is beperk, en gekwalifiseerde kandidate kan nie gekies word as ons lae vraag of verskeie aansoekers in dieselfde streek het nie.
+- Lede kan instrukteur Trainer Trainer Trainer sitplekke teen 'n fooi bespreek. In hierdie gevalle, terwyl die setel vir iemand van die lidinstelling gereserveer is, moet individuele kandidate steeds aansoek doen en goedgekeur word.
+- Die Carpentries hou 'n lys van belangstellende aansoekers en lidkontakte wat in kennis gestel wil word wanneer die volgende ronde van Instructor Trainer Trainer Trainer -aansoeke oopgaan. Om by hierdie lys gevoeg te word, stuur asseblief 'n e-pos aan die [Instruktoropleidingspan] (mailto:instructor.training@carpentries.org).
 
-#### Training and Initial Certification
+#### opleiding en aanvanklike sertifisering
 
-To be certified as an Instructor Trainer, all trainees must:
+Om as 'n instruktorafrigter gesertifiseer te word, moet alle leerlinge:
 
-- Agree to abide by the {{'[Code of Conduct]({})'.format(code_of_conduct)}} in all communications and interactions with The Carpentries community.
-- Attend weekly virtual seminar meetings.
-  - Time commitment: 1 hour per week for 10 weeks; can miss up to 2 meetings.
-  - Meeting times are determined by a poll. Trainees may wait for a future cohort if their scheduling needs are unmet.
-- Review _How Learning Works_ by Susan Ambrose et al. and The Carpentries [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
-  - Time commitment: approximately 2-4 hours per week.
-  - The actual time necessary for the full benefit of preparation depends on prior familiarity with content and English language proficiency.
-- Agree to participate as an Active Instructor Instructor Trainer for at least 1 year.
+- Stem in om die {{'[Gedragskode] ({}) '.format (code_of_conducte)}} te nakom in alle kommunikasie en interaksies met The Carpentries -gemeenskap.
+- Woon weeklikse virtuele seminaarvergaderings by.
+  - Tydsverbintenis: 1 uur per week vir 10 weke; kan tot 2 vergaderings misloop.
+  - Vergaderingstye word deur 'n peiling bepaal. Leeringe kan wag vir 'n toekomstige kohort as hul skeduleringsbehoeftes onvoldoen word nie.
+- Hersien _Hoe leer werk_ deur Susan Ambrose et al. en The Carpentries [Instrukteur opleidingskurrikulum] (https://carpentries.github.io/instructor-training/).
+  - Tydsverbintenis: ongeveer 2-4 uur per week.
+  - Die werklike tyd wat nodig is vir die volle voordeel van voorbereiding hang af van voorafgaande vertroudheid met inhoud en Engelse taalvaardigheid.
+- Stem in om minstens 1 jaar as 'n aktiewe instrukteur-instrukteur-afrigter deel te neem.
 
-Trainees who are previously certified as Carpentries Instructors must additionally:
+Leeringe wat voorheen as Carpentries -instrukteurs gesertifiseer is, moet ook:
 
-- Observe a teaching demonstration session (1 hour).
-- Observe part of an online Instructor Training event (4 hours).
+- Let op 'n onderrigdemonstrasiesessie (1 uur).
+- Let op 'n deel van 'n aanlyn instrukteeropleidingsgeleentheid (4 uur).
 
-Trainees who are \*not\* previously certified as Carpentries Instructors must concurrently pursue [Instructor certification](https://carpentries.org/become-instructor/), with all steps completed or scheduled prior to receiving the Instructor Trainer badge
+Leeringe wat\ \*nie\ \* voorheen as Carpentries -instrukteurs gesertifiseer is nie, moet gelyktydig [Instruktorsertifisering] (https://carpentries.org/become-instructor/) volg, met alle stappe voltooi of geskeduleer voordat hulle die Instructor Trainer -kenteken ontvang word
 
-**Total time estimate** for previously certified Instructors to become certified Instructor Trainers: 35 hours (minimum) over a 3-month period
+**Totale tydsberaming** vir voorheen gesertifiseerde instrukteurs om gesertifiseerde instrukteeropleiers te word: 35 uur (minimum) oor 'n tydperk van 3 maande
 
-For more information, see [The Carpentries Instructor Trainer Training Curriculum](https://carpentries.github.io/trainer-training/).
+Vir meer inligting, sien [The Carpentries Instructor Trainer Trainer Trainer Trainer Curriculum] (https://carpentries.github.io/trainer-training/).
 
-### Active Status Renewal Process
+### Aktiewe statusvernuwingsproses
 
-Version 1.0.2 – Approved 4 February, 2025
+Weergawe 1.0.2 - Goedgekeur op 4 Februarie 2025
 
-### Active status for Instructor Instructor Trainers is renewed annually.
+### Aktiewe status vir instrukteurinstruktor-opleiers word jaarliks hernu.
 
-New Instructor Trainers who have _not_ yet been certified for a full year and Instructor Trainers who have returned to Active status within the past year will automatically be renewed.
+Nuwe instruktoropleiers wat nog nie vir 'n volle jaar gesertifiseer is nie en Instruktoropleiers wat binne die afgelope jaar na Aktiewe status teruggekeer het, sal outomaties hernu word.
 
-#### Active status may be renewed by either:
+#### Aktiewe status kan hernu word deur een of ander:
 
-A. participating in curriculum and community activities during the prior year, as described below OR  
-B. meet with the Director of Workshops and Training (DWIT) to catch up on curriculum and community changes and discuss plans for the coming year.
+A. deelname aan kurrikulum- en gemeenskapsaktiwiteite gedurende die vorige jaar, soos hieronder beskryf OR  
+B. vergader met die Direkteur van Werkswinkels en Opleiding (DWIT) om die kurrikulum- en gemeenskapsveranderinge op te vang en planne vir die komende jaar te bespreek.
 
-Instructor Trainers who do not renew their Active status before the deadline will have their status changed to Alumni. Instructions for Alumni returning to Active status are detailed below.
+Instrukteur-opleiers wat nie hul Aktiewe status voor die sperdatum hernu nie, sal hul status na Alumni verander word. Instruksies vir Alumni wat na Aktiewe status terugkeer, word hieronder uiteengesit.
 
-In the case of option A above, certification will be renewed automatically when records indicate that Instructor Trainers have completed all activities expected for Active Instructor Trainers, detailed below. If records are incomplete, Instructor Trainers may self-report their activities via a form. The Instructor Trainers Leadership Committee will review form responses and recommend either renewal or a meeting (option B) based on reported activities.
+In die geval van opsie A hierbo, sal sertifisering outomaties hernu word wanneer rekords aandui dat instruktoropleiers alle aktiwiteite wat vir Aktiewe Instruktoropleiers verwag word, voltooi het, wat hieronder uiteengesit word. As rekords onvolledig is, kan instruktoropleiers hul aktiwiteite self via 'n vorm rapporteer. Die leierskapkomitee vir instruktoropleiers sal vormreaksies hersien en óf hernuwing óf 'n vergadering (opsie B) aanbeveel op grond van gerapporteerde aktiwiteite.
 
-#### Participation Expectations for Active Instructor Trainers
+#### Deelnemingsverwagtinge vir aktiewe instrukteur
 
-To be renewed based on prior participation, an Instructor Trainer is expected to participate as follows during the 1 year period prior to renewal:
+Om op grond van voorafgaande deelname hernu te word, word van 'n instruktorafrigter verwag om gedurende die periode van 1 jaar voor hernuwing soos volg deel te neem:
 
-- teach 1 Instructor Training event, and
-- host 2 teaching demos, and
-- attend 4 Instructor Trainer community meetings, and
-- respond to 4 quarterly scheduling polls
+- leer 1 instrukteur opleidingsgeleentheid, en
+- bied 2 onderrigdemo's aan, en
+- woon 4 Instructor Trainer gemeenskapsvergaderings by, en
+- reageer op 4 kwartaallikse skeduleringspeilings
 
-If an Instructor Trainer does not participate in the ways listed above, during the renewal period, the Workshops and Instruction Team will provide additional ways to maintain Active Status.
+As 'n instrukteur-afrigter nie deelneem op die maniere wat hierbo gelys word nie, sal die werkswinkels en instruksiepan gedurende die hernuwingsperiode addisionele maniere bied om aktiewe status te handhaaf.
 
-## Offboarding
+## Afboording
 
-### Instructor Trainer Alumni Status
+### Alumnistatus van instrukteur afrigter
 
-Active Instructor Trainers may elect to become inactive by requesting Instructor Trainer Alumni status at any time by contacting [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Alumni may also submit re-activation requests to the same address.
+Aktiewe Instruktoropleiers kan kies om onaktief te word deur te eniger tyd Instructor Trainer Alumni-status aan te vra deur te kontak met [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org). Alumni kan ook heraktiversoeke op dieselfde adres indien.
 
-Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not renew their Active status during the annual renewal period.
+Aktiewe instrukteur-opleiers kan kies om te eniger tyd onaktief te raak as hulle verwag om nie beskikbaar te wees om vir 1 jaar of langer aan die rolle en verantwoordelikhede van die instrukteur afrigter deel te neem. Aktiewe Instruktoropleiers kan ook hul rol verander na Instructor Trainer Alumni as hulle nie hul Aktiewe status gedurende die jaarlikse vernuwingstydperk hernu nie.
 
-### Instructor Trainer Alumni will not be permitted to:
+### Instrukteur Trainer Alumni sal nie toegelaat word om:
 
-- Teach Carpentries Instructor Training workshops.
-- Host teaching demonstrations.
-- Vote in Instructor Trainer community elections.
+- Leer Carpentries Instruktoropleidingswerkswinkels.
+- Gasheer onderrigdemonstrasies.
+- Stem in Instructor Trainer gemeenskapsverkiesings.
 
-Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+Uitsonderings kan na goeddunke van The Carpentries Core Team gemaak word. Om toestemming te vra om 'n demo te onderrig of aan te bied, kontak [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org).
 
-### Instructor Trainer Alumni may select to:
+### Instrukteur Trainer Alumni kan kies om:
 
-- Continue to receive Topicbox Instructor Training emails and participate in conversations.
-- Continue to participate in the Slack private Instructor Trainers channel.
-- Receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status.
+- Hou aan om Topicbox Instructor Training e-posse te ontvang en neem deel aan gesprekke.
+- Gaan voort om deel te neem aan die Slack private Instructor Trainers-kanaal.
+- Ontvang 'n jaarlikse nuusbrief tydens die vernuwing van ooreenkoms met gemeenskapsopdaterings en besonderhede oor hoe om terug te keer
 
-An Instructor Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
+'N Instruktorafrigter wat na Aktiewe status wil terugkeer, sal 'n ander pad hê, afhangende van die hoeveelheid tyd wat hulle onaktief was:
 
-- 0-12 months: Meet with the Director of Workshops and Training to learn about curriculum updates and discuss plans for re-activating.
-- more than 12 months: review Instructor Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with the Director of Workshops and Training to review and discuss plans, including re-introduction to the Instructor Trainer community via meetings or other arrangements.
+- 0-12 maande: Ontmoet die direkteur van werkswinkels en opleiding om meer te wete te kom oor kurrikulumopdaterings en planne vir heraktivering te bespreek.
+- meer as 12 maande: hersien kurrikulum vir instrukteur afrigteropleiding, neem deel van 'n instrukteur-opleidingswerkswinkel waar, en ontmoet die direkteur van werkswinkels en opleiding om planne te hersien en te bespreek, insluitend herbekendstelling aan die Instruktorafriggemeenskap via vergaderings of ander reëlings.
 
-## Communication and Collaboration Spaces
+## Kommunikasie- en samewerkings
 
-### Community Calendar
+### Gemeenskapskalender
 
-All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/events/). Below is a list of Etherpads relevant to serving as an Instructor  Trainer.
+Alle gereeld geskeduleerde Instructor Trainer gemeenskapsvergaderings en onderrigdemonstrasies wat deur Instructor Trainers aangebied word, word op The Carpentries [Community Calendar] (https://carpentries.org/community/events/) gelys. Hieronder is 'n lys van Etherpads wat relevant is om as instrukteurafrigter te dien.
 
-- [Instructor Trainer Meetings](https://pad.carpentries.org/trainers): Used for monthly Instructor Trainer meetings.
-- [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, see the instructions below.
-- [Instructor Training Etherpad Template](https://pad.carpentries.org/ttt-template): Structured template that may be copied and pasted to create an Etherpad for any Instructor Training event.
-- [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
+- [Instrukteur Trainer Vergaderings] (https://pad.carpentries.org/trainers): Word gebruik vir maandelikse vergaderings vir instrukteur-afrigters.
+- [Onderrigdemonstrasies] (https://pad.carpentries.org/teaching-demos): Aanmeldblad vir onderrig van demo's. Dit kan gebruik word om registrasie vir komende geleenthede te monitor. Raadpleeg die onderstaande instruksies vir veranderinge aan die skedule.
+- [Instruktoropleiding Etherpad-sjabloon] (https://pad.carpentries.org/ttt-template): Gestruktureerde sjabloon wat gekopieer en geplak kan word om 'n Etherpad vir enige instrukteur opleidingsgeleentheid te skep.
+- [Pad-of-pads] (https://pad.carpentries.org/pad-of-pads): 'n Lys van ons mees gebruikte Etherpads en ander hulpbronne.
 
-### GitHub Repositories
+### GitHub-bewaarplekke
 
-- [carpentries/instructor-training](https://github.com/carpentries/instructor-training): the Instructor Training Curriculum. Specific suggestions or observations regarding curriculum content should be directed to issues or pull requests here for further discussion.
-- [carpentries/Instructor Trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.
-- [carpentries/instructor-training-bonus-modules](https://github.com/carpentries/instructor-training-bonus-modules): the Instructor Training Bonus Module Curriculum.
+- [carpentries/instruktor-opleiding] (https://github.com/carpentries/instructor-training): die instruktoropleidingskurrikulum. Spesifieke voorstelle of waarnemings rakende kurrikuluminhoud moet gerig word op kwessies of versoeke hier trek vir verdere bespreking.
+- [Carpentries/Instructor Trainers] (https://github.com/carpentries/trainers): die Instructor Trainer gemeenskapbewaarplek. Sluit argiewe in van instrukteur Trainer vergadernotas, materiaal en voorstelle vir instruktoropleiers Leierskap, en besprekings van belang vir die Instructor Trainer -gemeenskap
+- [carpentries/instruktor-opleidingbonus-modules] (https://github.com/carpentries/instructor-training-bonus-modules): die kurrikulum vir instrukteur opleiding bonusmodule.
 
-### Slack
+### Slap
 
-{{'[Join]({})'.format(slack_invite)}} The Carpentries Slack workspace.  To follow conversations relevant to this role, you should join the following channels:
+{{'[Join] ({}) '.format (slack_invite)}} Die Carpentries Slack werkruimte.  Om gesprekke wat relevant is vir hierdie rol te volg, moet u by die volgende kanale aansluit:
 
-- **\#trainers**: a private channel open to only Instructor Trainers and members of The Carpentries Core Team used to discuss anything related to Instructor Training
-- **\#welcome**: new instructor trainees are often directed here to introduce themselves upon joining Slack.
+- \*\*\ #trainers \*\*: 'n privaat kanaal wat slegs oop is vir instruktoropleiers en lede van The Carpentries Core Team wat gebruik is om enigiets wat verband hou met instrukteeropleiding te bespreek
+- \*\*\ #welcome \*\*: nuwe instrukteerleerlinge word dikwels hier gerig om hulself voor te stel wanneer hulle by Slack aansluit.
 
-Instructor Trainers may also wish to join:
+Instrukteur-opleiers wil dalk ook aansluit by:
 
-- **\#Instructor-training**: this low-traffic channel is open to the full community for questions or conversations related to Instructor Training
-- **\#jobs**: recruit more Carpentries folks to build your community at work, or find a new post that values Carpentries credentials
+- **\ #Instructor -opleiding**: hierdie lae verkeer kanaal is oop vir die volle gemeenskap vir vrae of gesprekke wat verband hou met instrukteeropleiding
+- \*\*\ #jobs \*\*: werf meer mense van Carpentries om u gemeenskap by die werk te bou, of vind 'n nuwe pos wat Carpentries-bewysings waardeer
 
-New to Slack? Check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+Nuut by Slack? Kyk na ons {{"[Slack Guide] ({})” .format (slack_guide)}}.
 
-### TopicBox
+### Onderwerpaksie
 
-You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+U kan toegang tot The Carpentries -poslyste vanaf [TopicBox] (https://carpentries.topicbox.com/latest) verkry. Hieronder is 'n lys van diegene wat relevant is vir die aktiwiteite en programme wat deur hierdie handboek gedek word.  As jy nuut is by Topicbox, kyk asseblief na ons {{"[Topicbox Guide] ({})” .format (topicbox_guide)}}.
 
-- [Instructor Trainers](https://carpentries.topicbox.com/groups/trainers): This is the primary communication channel for Instructor Trainers. All active Instructor Trainers are required to be on this list. It is used for community announcements and occasional discussions about issues relevant to Instructor Training or the Instructor Trainer community.
-- [Discuss](https://carpentries.topicbox.com/groups/discuss): This general community list is one of The Carpentries’ oldest channels and is a useful way for Instructor Trainers to keep up with news and events from the broader community.
+- [Instruktoropleiers] (https://carpentries.topicbox.com/groups/trainers): Dit is die primêre kommunikasiekanaal vir instrukteur-opleiers. Alle aktiewe instruktoropleiers moet op hierdie lys wees. Dit word gebruik vir gemeenskapsaankondigings en af en toe besprekings oor kwessies wat relevant is vir Instruktoropleiding of die Instructor Trainer gemeenskap.
+- [Bespreek] (https://carpentries.topicbox.com/groups/discuss): Hierdie algemene gemeenskapslys is een van The Carpentries se oudste kanale en is 'n nuttige manier vir instruktoropleiers om tred te hou met nuus en gebeure uit die breër gemeenskap.
 
-To join or view the archives of one or more Carpentries mailing lists, you will need to [create a login on TopicBox](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and select “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval).
+Om aan te sluit of die argiewe van een of meer Carpentries-poslyste te sien, moet u ['n aanmelding op TopicBox skep] (https://carpentries.topicbox.com/latest). Sodra u dit gedoen het, kan u deur die lys van groepe blaai en “Sluit aan by die gesprek” kies (vir oop pos) of “Versoek om aan te sluit” (vir die poslyste wat administrateur goedkeuring vereis).
 
-### Meetings
+### Vergaderings
 
-Instructor Trainer meetings are scheduled at two time slots, twice monthly. Each month includes a primary, “discussion” meeting, where Instructor Trainers are invited to discuss upcoming trainings or events they have recently led, and receive updates on recent developments from the community and Core Team. The second time slot is used on an “as needed” basis, and may be used for focused discussion on a specific topic or cancelled.
+Instrukteurafrigersvergaderings word twee keer maandeliks op twee tydslowe geskeduleer. Elke maand sluit 'n primêre, “bespreking” -vergadering in, waar Instruktoropleiers uitgenooi word om komende opleidings of geleenthede wat hulle onlangs gelei het te bespreek, en opdaterings oor onlangse ontwikkelings van die gemeenskap en kernspan te ontvang. Die tweede tydslot word op 'n basis “soos nodig” gebruik, en kan gebruik word vir gefokusde bespreking oor 'n spesifieke onderwerp of gekanselleer word.
 
-Meetings are open to Instructor Trainers, Instructor Trainer trainees, and invited guests. Anyone else with interest in attending an Instructor Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
+Vergaderings is oop vir instrukteur-afrigters, leerlinge vir instrukteur afrigter en genooide gaste. Enigiemand anders wat belangstel om 'n instrukteur-afrigtingsvergadering by te woon, moet eers die [Instruktoropleidingspan] (mailto:instructor.training@carpentries.org) kontak.
 
-Meeting notes are recorded in the [Instructor Trainers Etherpad](https://pad.carpentries.org/trainers) and [archived in the Instructor Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
+Vergaderingsnotas word aangeteken in die [Instructor Trainers Etherpad] (https://pad.carpentries.org/trainers) en [gearchiveer in die Instructor Trainers-bewaarplek op GitHub] (https://github.com/carpentries/trainers/tree/main/minutes).
 
-## Step-by-Step Guides
+## Stap-vir-stap
 
-### Quarterly Scheduling Calendar
+### Kwartaallikse skeduleringskalender
 
-Instructor Training events and Teaching Demonstrations are scheduled on a quarterly basis. Refer to this schedule for planning and signing up to support events, using the instructions below.
+Instruktoropleidingsgeleenthede en onderrigdemonstrasies word kwartaallikse geskeduleer. Verwys na hierdie skedule vir beplanning en aanmelding om geleenthede te ondersteun, met behulp van die onderstaande instruksies.
 
-| For the period        | 1 Jan \- 31 Mar (Q1) | 1 Apr \- 30 Jun (Q2) | 1 Jul \- 30 Sep (Q3) | 1 Oct \- 31 Dec (Q4) |
-| :-------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| Signups open on       | 15 Nov                                   | 15 Feb                                   | 15 May                                   | 15 Aug                                   |
-| Responses due by      | 30 Nov                                   | 28 Feb                                   | 31 May                                   | 31 Aug                                   |
-| Calendar published by | 7 Dec                                    | 7 Mar                                    | 7 Jun                                    | 7 Sept                                   |
+| Vir die tydperk           | 1 Jan\ - 31 Maart (Q1) | 1 April\ - 30 Junie (Q2) | 1 Julie\ - 30 Sep (Q3) | 1 Oktober\ - 31 Desember (Q4) |
+| :------------------------ | :---------------------------------------- | :------------------------------------------ | :---------------------------------------- | :----------------------------------------------- |
+| Aanmeldings maak oop      | 15 Nov                                    | 15 Februarie                                | 15 Mei                                    | 15 Aug                                           |
+| Antwoorde wat deur        | 30 Nov                                    | 28 Februarie                                | 31 Mei                                    | 31 Aug                                           |
+| Kalender gepubliseer deur | 7 Desember                                | 7 Maart                                     | 7 Junie                                   | 7 Sept.                          |
 
-### Training events
+### Opleidingsgeleenthe
 
-#### Sign up to Teach an Instructor Training Event
+#### Teken in om 'n instrukteeropleidingsgeleentheid te leer
 
-- When signups open, Instructor Trainers will receive an email via Topicbox asking them to share their availability for the upcoming quarter in a Google form based on the dates provided.
-- After the response deadline has passed, a Carpentries Core Team member will create a draft schedule and confirm events with individual Instructor Trainers.
-- We ask that Instructor Trainers keep available dates open until they have received confirmation of a training date or notification that they have not been scheduled for the quarter.
-- Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar).
+- Wanneer aanmeldings oopmaak, sal instruktor-opleiers 'n e-pos via Topicbox ontvang wat hulle vra om hul beskikbaarheid vir die komende kwartaal in 'n Google-vorm te deel, gebaseer op die datums wat verskaf word.
+- Nadat die reaksiesperdatum verby is, sal 'n lid van Carpentries Core Team 'n konsepskedule opstel en geleenthede met individuele instruktoropleiers bevestig.
+- Ons vra dat instruktoropleiers beskikbare datums oop hou totdat hulle bevestiging van 'n opleidingsdatum of kennisgewing ontvang het dat hulle nie vir die kwartaal geskeduleer is nie.
+- Sodra alle geleenthede bevestig is, word die skedule op die [Instruktoropleidingskalender] (https://carpentries.github.io/instructor-training/training_calendar) geplaas.
 
-In rare instances, events may be cancelled due to low enrollment. If this happens, Instructor Trainers will be notified of potential cancellation two weeks before the event.
+In seldsame gevalle kan geleenthede gekanselleer word weens lae inskrywing. As dit gebeur, sal instruktoropleiers twee weke voor die geleentheid in kennis gestel word van moontlike kansellasie.
 
-#### Cancel a Teaching Signup
+#### Kanselleer 'n onderrigaanmelding
 
-Once events have been scheduled, any Instructor Trainer who needs to cancel will normally be replaced by another Instructor Trainer from the community or The Carpentries Core Team.
+Sodra geleenthede geskeduleer is, sal enige instruktorafrigter wat moet kanselleer gewoonlik vervang word deur 'n ander Instructor Trainer uit die gemeenskap of The Carpentries Core Team.
 
-If you need to cancel after signing up to teach an Instructor Training event, email the [Instructor Training Team](mailto:instructor.training@carpentries.org). If your event is less than 2 weeks away, please include “urgent” in your subject line. For last-minute emergencies (e.g. illness on the day of an event), additionally consider using Slack to the \#Instructor Trainers channel, tagging members of the [Core Team](https://carpentries.org/team/).
+As u moet kanselleer nadat u aangemeld het om 'n Instruktoropleidingsgeleentheid te leer, stuur u 'n e-pos aan die [Instruktoropleidingspan] (mailto:instructor.training@carpentries.org). As u geleentheid minder as 2 weke weg is, sluit asseblief “dringend” in u onderwerp in. Vir noodgevalle op die laaste oomblik (bv. siekte op die dag van 'n gebeurtenis), oorweeg ook om Slack na die\ #Instructor Trainers-kanaal te gebruik en lede van die [Core Team] (https://carpentries.org/team/) te merk.
 
-#### Teach Instructor Training
+#### Leer instruktoropleiding
 
-##### Preparation and Instruction
+##### Voorbereiding en instruksie
 
-Guidelines on preparing to teach an Instructor Training Event can be found in the  [Instructor Trainer Notes section of the Instructor Training Curriculum](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)
+Riglyne oor die voorbereiding om 'n instruktoropleidingsgeleentheid te leer, kan gevind word in die [Instrukteur Trainer Notes afdeling van die Instruktoropleidingskurrikulum] (https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)
 
-##### Tracking Training Event Attendance
+##### Opsporing van opleidingsgeleenthede
 
-During an Instructor Training event, Instructor Trainers are asked to record attendance for all trainees using [a spreadsheet similar to this](https://docs.google.com/spreadsheets/d/1RjiM8tL6CToMwGO2w7GAQwWHfYPb82RrQfuflF7hMjU/edit#gid=0). This spreadsheet will be created by the Core Team and shared with Instructor Trainers a week before their event. Attendance may be taken at the beginning of an event. In addition, Instructor Trainers are asked to observe continued attendance for all participants and annotate the attendance sheet if a trainee is absent for more than 1 hour on any day. Accurate records of time missed will allow the Core Team to determine appropriate makeup options for trainees who wish to complete checkout.
+Tydens 'n instruktoropleidingsgeleentheid word instrukteurafrigters gevra om bywoning vir alle leerlinge aan te teken met behulp van ['n sigblad soortgelyk aan hierdie] (https://docs.google.com/spreadsheets/d/1RjiM8tL6CToMwGO2w7GAQwWHfYPb82RrQfuflF7hMjU/edit#gid=0). Hierdie sigblad sal deur die kernspan geskep word en 'n week voor hul geleentheid met instrukteeropleiers gedeel word. Bywoning kan aan die begin van 'n geleentheid geneem word. Daarbenewens word instruktoropleiers gevra om voortgesette bywoning vir alle deelnemers waar te neem en die bywoningsblad te annoteer as 'n leerling op enige dag langer as 1 uur afwesig is. Akkurate rekords van tyd wat gemis is, sal die kernspan in staat stel om toepaslike grimeringsopsies te bepaal vir leeringe wat die afhandeling wil voltooi.
 
-### Teaching Demonstrations
+### Onderrigdemonstrasies
 
-#### Sign up to Host a Demo
+#### Teken in om 'n demo aan te bied
 
-Signups for teaching demonstrations are normally announced with Instructor Training event signups, but may be opened at other times if there is a need for additional sessions.
+Inskrywings vir onderrigdemonstrasies word gewoonlik aangekondig met inskrywings vir Instructor Training geleenthede, maar kan op ander tye oopgemaak word indien daar addisionele sessies nodig is.
 
-- When signups open, Instructor Trainers will receive an email via Topicbox asking them to sign up for teaching demos in the coming quarter via Calendly.
-- Calendly will automatically send an event confirmation email and calendar invitation.
-- After the response deadline has passed, a Carpentries Core Team member will create a list of events to post to the [Teaching Demonstrations Etherpad](https://pad.carpentries.org/teaching-demos).
+- Wanneer aanmeldings oopmaak, sal instruktor-opleiers 'n e-pos via Topicbox ontvang wat hulle vra om in die komende kwartaal via Calendly aan te meld vir onderrigdemo's.
+- Calendly sal outomaties 'n e-pos vir geleentheidsbevestiging en kalenderuitnodiging stuur.
+- Nadat die reaksiesperdatum verby is, sal 'n lid van Carpentries Core Team 'n lys van gebeure skep om by die [Teaching Demonstrations Etherpad] (https://pad.carpentries.org/teaching-demos) te plaas.
 
-#### Prepare for a Demo
+#### Berei voor vir 'n demo
 
-- If you would like to review an example teaching demo, there is a [recording of one here](https://www.youtube.com/watch?v=3NCpPk8jvQo).
-- Instructor Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) section of the Instructor Training Curriculum.
-- Get acquainted with using [Zoom](/resources/communications/zoom_rooms.md) for videoconferencing.
-- Check your Calendly confirmation email for the Host Key to use on Zoom, and keep this where you can find it. This will be necessary to allow trainees to screen share during your demo.
-- A day or two before the demo, send a reminder to trainees based on this [email template](/resources/instructor-training/index.md#reminder-teaching-demo). This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.
-- Trainees will select their starting point. Suggested start points are available in the [Instructor Training Curriculum (under More)](https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).
-- If a trainee has selected a lesson that is not on the list above, you may ask them to choose a different lesson or, if you are familiar with the lesson, you may choose a start point and allow them to use it anyway. Be sure the start point does not require any setup or rely on any dependencies from prior episodes.
+- As u 'n voorbeeldonderrigdemo wil hersien, is daar 'n [opname van een hier] (https://www.youtube.com/watch?v=3NCpPk8jvQo).
+- Instruktor-opleidervoorgestelde skrifte en ander wenke en truuks vir die aanbied van hierdie sessies word ingesluit in die afdeling [Instruktornotas] (https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) van die instruktoropleidingskurrikulum.
+- Maak kennis met die gebruik van [Zoom] (/resources/communications/zoom_rooms.md) vir videokonferensies.
+- Gaan u Calendly-bevestigings-e-pos na vir die gasheersleutel om op Zoom te gebruik, en hou dit waar u dit kan vind. Dit sal nodig wees om leerlinge in staat te laat om te skermdeel tydens u demo.
+- Stuur 'n dag of twee voor die demo 'n herinnering aan leeringers gebaseer op hierdie [e-possjabloon] (/resources/instructor-training/index.md#reminder-teaching-demo). Dit veroorsaak dikwels vrae of kansellasies. U wil dalk hierdie [gemeenskapsontwikkelde skrif] (https://github.com/jcoliver/auto-demo-email) gebruik om u e-posse te genereer.
+- Leeringe sal hul beginpunt kies. Voorgestelde beginpunte is beskikbaar in die [Instruktoropleidingskurrikulum (onder meer)] (https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).
+- As 'n leerling 'n les gekies het wat nie op die lys hierbo is nie, kan u hulle vra om 'n ander les te kies, of as u vertroud is met die les, kan u 'n beginpunt kies en hulle in elk geval toelaat om dit te gebruik. Maak seker dat die beginpunt geen opstelling benodig nie of staatmaak op afhanklikhede van vorige episodes.
 
-#### Host a Demo
+#### Bestuur 'n Demo
 
-- Go to the Zoom room. The link is in the [Etherpad](https://pad.carpentries.org/teaching-demos).
-- Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for one episode, and if so, suggest strongly they reschedule.
-- Let trainees know that you will not tell them if they passed during the session, but instead will follow up with an email afterward. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
-- Ask those not presenting to give feedback using the same [positive-vs-areas of improvement and content-vs-presentation rubric](https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) used in training. For a full session (5 trainees), they should add feedback to the Etherpad for you to summarise. If you have fewer people, you may have them take turns sharing verbally.
-- Give each trainee a few moments to get set up and initiate screen sharing before counting down to begin. Start a timer.
-- While they present, consider feedback, and take notes privately. Use this [rubric](https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) as a guide, focusing on feedback that you think will be most necessary or helpful for the trainee as they progress toward teaching.
-- After the timer ends, trainees should wrap up and share feedback on themselves first.
-- Summarise or share other trainees’ feedback as time allows, concluding with your own comments. It is sometimes necessary to (gently) disagree with feedback from another trainee.
-- Do NOT tell a trainee whether they passed immediately after their demo.
-- After everyone has gone, if all of the trainees passed, it is ok to tell the group. Either way, tell the group you will email them afterward to follow up .
-- More tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) of the instructor training website.
+- Gaan na die Zoom-kamer. Die skakel is in die [Etherpad] (https://pad.carpentries.org/teaching-demos).
+- Sodra almal op die oproep is (met hul klank- en video werk), herinner hulle aan die gedragskode, verduidelik die prosedure vir die demo-sessie en herinner hulle daaraan dat leeringers uit enige episode uit hul gekose les moet leer. Vra of iemand net vir een episode voorberei het, en indien wel, stel sterk voor dat hulle herskeduleer.
+- Laat leeringers weet dat u hulle nie sal vertel of hulle tydens die sessie geslaag het nie, maar eerder daarna met 'n e-pos sal opvolg. Dit kan help om hulle te herinner dat dit nie 'n hoë standtoets is nie, maar 'n vriendelike geleentheid vir terugvoer.
+- Vra diegene wat nie aanbied nie, om terugvoer te gee deur dieselfde [positive-vs-areas van verbetering en inhoud-vs-aanbieding rubriek] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) wat tydens opleiding gebruik word. Vir 'n volledige sessie (5 leerlinge) moet hulle terugvoer by die Etherpad voeg sodat u kan opsomming gee. As u minder mense het, kan u hulle moet beurt mondelings deel.
+- Gee elke leerling 'n paar oomblikke om op te stel en skermdeel te begin voordat u aftel om te begin. Begin 'n timer.
+- Terwyl hulle aanbied, oorweeg terugvoer en neem privaat aantekeninge. Gebruik hierdie [rubriek] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) as 'n gids en fokus op terugvoer wat u dink die noodsaaklikste of nuttigste sal wees vir die leerling namate hulle na onderrig vorder.
+- Nadat die timer geëindig het, moet leerlinge eers terugvoer oor hulself afsluit en deel.
+- Som of deel ander leerlinge se terugvoer soos die tyd dit toelaat, en sluit af met u eie kommentaar. Dit is soms nodig om (saggies) nie saam te stem met terugvoer van 'n ander leerling nie.
+- Moenie vir 'n leerling vertel of hulle onmiddellik na hul demo geslaag het nie.
+- Nadat almal weg is, as al die leerlinge verbygegaan het, is dit goed om die groep te vertel. Hoe dit ook al sy, vertel die groep dat u daarna hulle e-pos sal stuur om op te volg.
+- Meer wenke kan gevind word in die [instrukteurnotas] (https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) van die instrukteeropleidingswebwerf.
 
-#### After a Demo: Report and Etherpad Cleanup
+#### Na 'n demo: verslag en Etherpad-skoonmaak
 
-- Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.
-- Save Etherpad by selecting the “star” at the top right of the screen
-- Clear Etherpad of data from your session.
-- Send each trainee an email using our templates letting them know they [passed](/resources/instructor-training/index.md#trainee-passed-teaching-demo) or [did not pass](/resources/instructor-training/index.md#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
+- Vul [hierdie vorm] in (https://forms.gle/ZusNhyhNh4rvCmxH8) om The Carpentries in kennis te stel van wie gegaan het en wie nie geslaag het nie.
+- Stoor Etherpad deur die “ster” regs bo van die skerm te kies
+- Maak Etherpad skoon van data uit u sessie.
+- Stuur vir elke leerling 'n e-pos met behulp van ons sjablone en laat hulle weet dat hulle die onderrigdemo [geslaag] (/resources/instructor-training/index.md#trainee-passed-teaching-demo) of [nie geslaag het] (/resources/instructor-training/index.md#trainee-invited-to-repeat-teaching-demo) nie. Laat hulle weet indien nodig die rede waarom hulle nie verbygegaan het nie en vra hulle om weer te probeer.
 
-#### Cancel a Demo
+#### Kanselleer 'n Demo
 
-**If no trainees have signed up:**
+\*\*As geen leerlinge aangemeld het nie: \*\*
 
-1. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos). It is important to do this first to prevent anyone from signing up\! You have permission to remove your own demo and do not need to ask.
-2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+1. Verwyder die gebeurtenis uit die [Etherpad] (https://pad.carpentries.org/teaching-demos). Dit is belangrik om dit eers te doen om te verhoed dat iemand aanmeld\! U het toestemming om u eie demo te verwyder en hoef nie te vra nie.
+2. Stel [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org) in kennis om ons te laat weet dat u geleentheid uit die [Gemeenskapskalender] (https://carpentries.org/community/#community-events) verwyder moet word.
 
-**If trainees have signed up:**
+\*\*As leerlinge aangemeld het: \*\*
 
-1. If there is enough time, post a message in the \#Trainers Slack channel and/or send an email to [Instructor Trainers@lists.carpentries.org](mailto:trainers@lists.carpentries.org) to find someone who can take your place. (You may choose to skip this step, e.g. if there are only 1-2 people signed up.)
-   1. If someone can take your place, confirm with them and have them add their information on the Etherpad.
-   2. Ensure someone on the Core Team knows so they can be added to the calendar invitation. When in doubt, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
-   3. You are done\!
-2. If step 1 is skipped or unsuccessful, email the trainees to let them know the demo has been cancelled, and ask them to sign up for a different session.
-3. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos).
-4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+1. As daar genoeg tyd is, plaas 'n boodskap in die\ #Trainers Slack-kanaal en/of stuur 'n e-pos aan [Instrukteur Trainers@lists.carpentries.org] (mailto:trainers@lists.carpentries.org) om iemand te vind wat jou plek kan inneem. (U kan kies om hierdie stap oor te slaan, bv. as daar slegs 1-2 mense aangemeld is.)
+   1. As iemand jou plek kan inneem, bevestig dit met hulle en laat hulle hul inligting op die Etherpad byvoeg.
+   2. Maak seker dat iemand in die kernspan weet sodat hulle by die kalenderuitnodiging gevoeg kan word. As u twyfel, stuur 'n e-pos aan [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org).
+   3. Jy is klaar\!
+2. As stap 1 oorgeslaan of onsuksesvol is, stuur 'n e-pos aan die leerings om hulle te laat weet dat die demo gekanselleer is, en vra hulle om aan te meld vir 'n ander sessie.
+3. Verwyder die gebeurtenis uit die [Etherpad] (https://pad.carpentries.org/teaching-demos).
+4. Stel [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org) in kennis om ons te laat weet dat u geleentheid uit die [Gemeenskapskalender] (https://carpentries.org/community/#community-events) verwyder moet word.
 
-#### Share lessons learned from a Training event or Demo
+#### Deel lesse wat geleer is uit 'n opleidingsgeleentheid of demo
 
-Sharing your experience after teaching or hosting a demo helps everyone to think about their practice, learn from what you have learned, and consider ways to make our program better. To make the most of this opportunity, consider sharing details about:
+Om jou ervaring te deel nadat jy 'n demo onderrig of aangebied het, help almal om na te dink oor hul praktyk, te leer uit wat jy geleer het en maniere te oorweeg om ons program beter te maak. Om hierdie geleentheid die beste te benut, oorweeg dit om besonderhede te deel oor:
 
-- **What content you spent extra time on**. This tells people what you and your trainees considered most interesting, most important, or most challenging. Sometimes there are good things to explore behind those choices.
-- **What content you skipped**. This helps newer Instructor Trainers consider how to cut when they need to. It also helps Maintainers think about areas where future cuts or adjustments should be made in the curriculum.
-- **What choices you made to manage engagement**. Every group is different\! Did you need to work harder to allow everyone to contribute? Mix up groups to break up some low energy combinations? Maybe you embraced your introverts and did more work in the Etherpad this time. Sharing choices you made in response to ‘reading the room’ (or your feedback) helps others expand their choice options and discussion can inspire new ideas for handling tough problems.
-- **Subjective details.** “It went well” is great but hard to learn from. Why do you think particular things worked for your group? In what areas do you feel uncertain about your outcomes, and why? There are no right or wrong answers to questions like this, but your opinions tell a story that helps others reflect and understand their own practice.
+- \*\*Op watter inhoud het jy ekstra tyd spandeer \*\*. Dit vertel mense wat u en u leerlinge as die interessantste, belangrikste of uitdagendste beskou het. Soms is daar goeie dinge om agter die keuses te ondersoek.
+- **Watter inhoud het jy oorgeslaat**. Dit help nuwer instruktoropleiers om te oorweeg hoe om te sny wanneer hulle dit nodig het. Dit help onderhouders ook om te dink oor gebiede waar toekomstige snye of aanpassings in die kurrikulum aangebring moet word.
+- **Watter keuses het jy gemaak om betrokkenheid te bestuur**. Elke groep is anders\! Het jy meer moes werk om almal toe te laat om by te dra? Meng groepe op om 'n paar kombinasies met lae energie op te breek? Miskien het u u introverte omhels en hierdie keer meer werk in die Etherpad gedoen. Om keuses te deel wat u gemaak het in reaksie op 'die lees van die kamer' (of u terugvoer), help ander om hul keuseopsies uit te brei en bespreking kan nuwe idees inspireer vir die hantering van moeilike probleme.
+- \*\*Subjektiewe besonderhede. \*\* “Dit het goed gegaan” is wonderlik, maar moeilik om van te leer. Hoekom dink u spesifieke dinge vir u groep gewerk het? Op watter gebiede voel jy onseker oor jou uitkomste, en waarom? Daar is geen regte of verkeerde antwoorde op vrae soos hierdie nie, maar u menings vertel 'n storie wat ander help om hul eie praktyk na te dink en te verstaan.
 
-Don’t remember? You’ll be surprised how much you can refresh in 5 minutes\! A quick review of  your Etherpad, notes, etc. really helps to get ideas flowing before the meeting.
+Onthou jy nie? Jy sal verbaas wees hoeveel jy binne 5 minute kan verfris\! 'N Vinnige oorsig van u Etherpad, notas, ens. help regtig om idees voor die vergadering te laat vloei.
 
-To share these ideas, please join one of the monthly Instructor Trainer meetings. There will always be time allotted to share feedback.
+Om hierdie idees te deel, sluit asseblief aan by een van die maandelikse vergaderings vir instrukteur Trainer. Daar sal altyd tyd toegeken word om terugvoer te deel.
 
-## Resources
+## Hulpbronne
 
-Visit our [Instructor Training resources section](/resources/instructor-training/index.md) for more resources including email templates for Trainers and Member Organisations.
+Besoek ons [Instruktoropleidingshulpbronne afdeling] (/resources/instructor-training/index.md) vir meer hulpbronne, insluitend e-possjablone vir opleiers en lidorganisasies.
