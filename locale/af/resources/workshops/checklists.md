@@ -1,145 +1,145 @@
-# Workshop Checklists
+# Werkswinkel Kontrolelyste
 
-## Host Checklist
+## Gasheerkontrolelys
 
-A workshop host contacts The Carpentries Core Team about running a workshop. They will work with The Carpentries Workshop Administration Team to plan and implement the workshop.
+'N Werkswinkelgasheer kontak met The Carpentries Core Team oor die bestuur van 'n werkswinkel. Hulle sal saam met The Carpentries Workshop Administration Team werk om die werkswinkel te beplan en te implementeer.
 
-**Before the workshop, the host will**
+**Voor die werkswinkel sal die gasheer**
 
-1. Decide on the [Data Carpentry](http://www.datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) curriculum that would best serve your learners.
-2. Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/).
-3. Work with The Carpentries Workshops and Instruction Team to set dates and location for your workshop, unless your workshop is virtual.
-   - Be sure to account for other events and programs at your site that may affect room availability and participant availability.
-   - Ensure your location is [accessible](workshop_needs.md#accessibility).
-4. Recruit helpers to join your workshop. They do not need to be directly connected with The Carpentries. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two Instructors.
-5. Advertise your workshop. For Centrally-Organised workshops the Workshops and Instruction Team can help by creating an Eventbrite registration page.
-6. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshops and Instruction Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-7. Work with The Carpentries Operations Manager to make arrangements to pay the workshop fee (only for Centrally-Organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
-8. Make travel arrangements for visiting Instructors (or communicate process to reimburse them for expenses) if the workshop is in person.
-9. Get emergency contact information for Instructors in case of last minute changes.
-10. Arrange for [required materials and equipment](workshop_needs.md).
-11. Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
-12. Email learners to remind them of workshop location, timing, pre-workshop survey and software installation requirements.
-13. Organise a meetup with the Instructors the day before the workshop if the workshop is in person, or sooner if the workshop is virtual.  While this is not always possible, it is useful for the host and Instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
+1. Besluit oor die [Data Timmerry] (http://www.datacarpentry.org/lessons/), [Library Timmerwerk] (https://librarycarpentry.org/lessons/) of [Software Timmerry] (https://software-carpentry.org/lessons/) kurrikulum wat u leerders die beste sal dien.
+2. Vul die [werkswinkel versoekvorm] in (https://amy.carpentries.org/forms/workshop/).
+3. Werk saam met The Carpentries Workshops and Instruction Team om datums en ligging vir jou werkswinkel vas te stel, tensy jou werkswinkel virtueel is.
+   - Maak seker dat u rekening hou met ander geleenthede en programme op u webwerf wat die beskikbaarheid van die kamers en die beskikbaarheid van die deelnemers
+   - Maak seker dat jou ligging [toeganklik] is (workshop_needs.md#accessibility).
+4. Werf helpers om by u werkswinkel aan te sluit. Hulle hoef nie direk met The Carpentries verbind te wees nie. Hulle benodig wel basiese kennis van die gereedskap wat ons leer en entoesiasme om ander te help leer.  Ons beveel 1 helper aan vir elke 8-10 studente, en tel nie die twee instrukteurs nie.
+5. Adverteer jou werkswinkel. Vir sentraal-georganiseerde werkswinkels kan die werkswinkels- en instruksiespan help deur 'n Eventbrite-registrasiebladsy te skep.
+6. Besluit of u 'n werkswinkelfooi wil vra. Selfs 'n klein fooi kan die no-vertoningskoers aansienlik verlaag. As die werkswinkels- en instruksiespan 'n Eventbrite-registrasiebladsy skep, kan The Carpentries hierdie fooi via Eventbrite insamel en dit gebruik om u werkswinkelfooi te vergoed.
+7. Werk saam met The Carpentries Operations Manager om reëlings te maak om die werkswinkelfooi te betaal (slegs vir sentraal-georganiseerde werkswinkels). Dit sluit in om seker te wees dat verkopervorms of ander dokumentasie in plek is. Die werklike faktuur sal uitgereik word nadat die werkswinkel voltooi is.
+8. Maak reisreëlings vir besoekende instrukteurs (of kommunikeer proses om dit vir uitgawes te vergoed) indien die werkswinkel persoonlik is.
+9. Kry noodkontakinligting vir instrukteurs in geval van veranderinge op die laaste oomblik.
+10. Reël vir [vereiste materiaal en toerusting] (workshop_needs.md).
+11. Reël koffie, versnaperinge en/of middagete. Ons leer almal beter met brandstof!
+12. E-pos leerders om hulle te herinner aan werkswinkelligging, tydsberekening, opname voor die werkswinkel en sagtewareinstallasievereistes.
+13. Reël 'n vergadering met die instrukteurs die dag voor die werkswinkel as die werkswinkel persoonlik is, of vroeër as die werkswinkel virtueel is.  Alhoewel dit nie altyd moontlik is nie, is dit nuttig vir die gasheer en instrukteurs om mekaar te leer ken. Dit kan oor koffie, aandete of enigiets anders wees wat vir u span werk.
 
-**During the workshop, the host will**
+**Tydens die werkswinkel sal die gasheer**
 
-1. Meet the Instructors and learners.
-2. Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.md).
-3. Periodically check in on the class to be sure things are running smoothly.
+1. Ontmoet die instrukteurs en leerders.
+2. Maak seker dat die kamer met alle [nodige materiaal en toerusting] ingestel is (workshop_needs.md).
+3. Gaan gereeld in die klas om seker te maak dat dinge glad verloop.
 
-**After the workshop, the host will**
+**Na die werkswinkel sal die gasheer**
 
-1. Collect workshop attendance.
-2. Send attendance and any other feedback to The Carpentries Workshops and Instruction Team.
-3. Pay the workshop fee (only for Centrally-Organised workshops).
-4. Reimburse the Instructors.
+1. Versamel werkswinkelbywoning.
+2. Stuur bywoning en enige ander terugvoer aan The Carpentries Workshops and Instruction Team.
+3. Betaal die werkswinkelfooi (slegs vir sentraal-georganiseerde werkswinkels).
+4. Vergoed die instrukteurs.
 
-### Billing Guidelines
+### Rekeningsriglyne
 
-Payment for workshops is generally due 30 days after the invoice is issued.
+Betaling vir werkswinkels is oor die algemeen 30 dae na die faktuur uitgereik.
 
-Invoices overdue four or more months may lead to the cessation of work on current activities involving the organisation to whom the overdue invoice was issued until the payment process is addressed.
+Fakture wat vier of meer maande versteld is, kan lei tot die beëindiging van werk aan huidige aktiwiteite wat die organisasie betrokke is by wie die verstallige faktuur uitgereik is totdat die betaalproses aangespreek is.
 
-## Instructor Checklist
+## Kontrolelys vir instrukteur
 
-The Workshops and Instruction Team will introduce workshop hosts and Instructors.
+Die werkswinkels en instruksiepan sal werkswinkelgashere en instrukteurs bekendstel.
 
-**Before the workshop, Instructors will**
+**Voor die werkswinkel sal instrukteur**
 
-1. Decide on the order of the lessons and who will teach what modules.
-2. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send it to The Carpentries Workshops and Instruction Team. Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
-3. Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/)).
-4. Assist the host in recruiting helpers, if possible.
-5. Assist the host in ensuring the workshop location is accessible.
-6. Share emergency contact information with the host in case of last minute changes.
-7. Practice teaching the material.
-8. Remind the host of the [necessary equipment](workshop_needs.md).
-9. Join a [community discussion](https://pad.carpentries.org/community-discussions).
-10. Confirm criteria for reimbursement (_per diem_ or save receipts).
+1. Besluit oor die volgorde van die lesse en wie watter modules sal leer.
+2. Stel die werkswinkel webwerf op met behulp van die [werkswinkel sjabloon] (https://github.com/carpentries/workshop-template) en stuur dit na The Carpentries Workshops and Instruction Team. Gedetailleerde instruksies is in hierdie repo se [README] (https://github.com/carpentries/workshop-template#workshop-template).
+3. Skep 'n samewerkingsdokument vir die werkswinkel (bv. 'n [Etherpad] (https://pad.carpentries.org/)).
+4. Help die gasheer om helpers te werf, indien moontlik.
+5. Help die gasheer om te verseker dat die werkswinkelligging toeganklik is.
+6. Deel noodkontakinligting met die gasheer in geval van veranderinge op die laaste oomblik.
+7. Oefen om die materiaal te leer.
+8. Herinner die gasheer aan die [nodige toerusting] (workshop_needs.md).
+9. Sluit aan by 'n [gemeenskapsbespreking] (https://pad.carpentries.org/community-discussions).
+10. Bevestig kriteria vir terugbetaling (_per dien_ of stoor kwitansies).
 
-**During the workshop, Instructors will**
+**Tydens die werkswinkel sal instrukteur**
 
-1. Review Code of Conduct with learners.
-2. Remind learners to use sticky notes to give feedback.
-3. Get feedback at lunch and end of each day using minute cards.
-4. Support the host in collecting attendee names and emails.
-5. Send out the post-workshop survey at the very end of the workshop.
+1. Hersien gedragskode met leerders.
+2. Herinner leerders om taai aantekeninge te gebruik om terugvoer te gee.
+3. Kry terugvoer tydens middagete en einde van elke dag met minuutkaarte.
+4. Ondersteun die gasheer in die versameling van die name en e-posse van deelnemers.
+5. Stuur die opname na werkswinkel aan die einde van die werkswinkel uit.
 
-**After the workshop, Instructors will**
+**Na die werkswinkel sal instrukteurs ver**
 
-1. Remind the host to send workshop attendance data to The Carpentries Workshops and Instruction Team.
-2. Submit receipts for reimbursement.
-3. Send their own feedback to the Workshops and Instruction Team including any configuration problems.
-4. Take part in a [community discussion](https://pad.carpentries.org/community-discussions).
-5. Report any lesson errors or suggest improvements on GitHub or by email to The Carpentries Workshops and Instruction Team.
+1. Herinner die gasheer om werkswinkelbywoningsdata aan The Carpentries Workshops and Instruction Team te stuur.
+2. Dien kwitansies in vir terugbetaling.
+3. Stuur hul eie terugvoer aan die werkswinkels en instruksiespan, insluitend enige konfigurasieprobleme.
+4. Neem deel aan 'n [gemeenskapsbespreking] (https://pad.carpentries.org/community-discussions).
+5. Rapporteer enige lesfoute of stel verbeterings op GitHub of per e-pos aan die Carpentries Workshops and Instruction Team voor.
 
-## Helper Checklist
+## Helperkontrolelys
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+Helpers word dikwels uit die plaaslike gemeenskap op die gasheerterrein gewerf om Carpentries-werkswinkels te ondersteun. Helpers ondersteun leerders een-tot-een as hulle vassit om sagteware te installeer, 'n sekere reël kode te verstaan of enige ander dele van die leerproses.
 
-**Before a workshop, helpers will**
+**Voor 'n werkswinkel sal helpers**
 
-1. Introduce themselves to the Instructors, letting them know any particular areas of expertise.
-2. Review the curriculum the Instructors will be teaching.
-3. Review the software installation instructions to be prepared to troubleshoot with learners.
-4. Make sure the Instructors have listed you on the workshop website.
+1. Stel hulself voor aan die instrukteurs en laat hulle enige spesifieke kundigheidsgebiede ken.
+2. Hersien die kurrikulum wat die instrukteurs sal onderrig.
+3. Hersien die sagteware-installasie-instruksies om voorbereid te wees om probleme met leerders op te los.
+4. Maak seker dat die instrukteurs u op die werkswinkelwebwerf gelys het.
 
-**During the workshop, helpers will**
+**Tydens die werkswinkel sal helpers**
 
-1. Help learners with setup problems or anywhere else they get stuck.
-2. Monitor room for anyone who may need help. Learners may put up a red sticky note or indicate in other ways that they are stuck.
-3. Monitor any questions that come up on the collaborative document and answer them or remind the Instructor about them during a break.
+1. Help leerders met opstelprobleme of oral anders wat hulle vas raak.
+2. Monitor kamer vir almal wat hulp nodig het. Leerders kan 'n rooi taai noot opsit of op ander maniere aandui dat hulle vas is.
+3. Monitor enige vrae wat op die samewerkingsdokument voorkom en beantwoord dit of herinner die instrukteur daaraan tydens 'n pouse.
 
-**After the workshop, helpers will**
+**Na die werkswinkel sal helpers**
 
-1. Send their own feedback to the Instructors and the Workshops and Instruction Team including any configuration problems.
-2. Consider applying to become a certified Carpentries Instructor.
+1. Stuur hul eie terugvoer aan die instrukteurs en die werkswinkels en instruksiespan, insluitend enige konfigurasieprobleme.
+2. Oorweeg om aansoek te doen om 'n gesertifiseerde Carpentries Instrukteur te word
 
-## Teaching Rules
+## Onderrigreëls
 
-**Rule #1: Be kind**
+**Reël #1: Wees vriendelik**
 
-This means to be inclusive, respectful, mindful and welcoming.
+Dit beteken om inklusief, respekvol, bedagsaam en verwelkomend te wees.
 
-**Rule #2: Remember that we are all learners**
+**Reël #2: Onthou dat ons almal leerders is**
 
-Admitting that you do not know everything helps create a growth mindset, where we are all constantly learning.
-When you make a mistake, calmly talk about the error, how it is part of the process and necessary to make progress.
+Om te erken dat u nie alles weet nie, help om 'n groeiingesteldheid te skep, waar ons almal voortdurend leer.
+As u 'n fout maak, praat rustig oor die fout, hoe dit deel is van die proses en nodig is om vordering te maak.
 
-**Rule #3: Be aware of demotivating attitudes**
+**Reël #3: Wees bewus van demotiverende houdings**
 
-There are several things that can be demotivating or impair the learners' experience. Examples of what not to do:
+Daar is verskeie dinge wat demotiverend kan wees of die leerders se ervaring kan benadeel. Voorbeelde van wat nie moet doen nie:
 
-- Take over the learner's keyboard. Instead, encourage and guide them through the solution, but let them type themselves.
-- Dive into deep discussions with more advanced learners (who might actually not need to be there). You can have those conversations during the break.
+- Neem die leerder se sleutelbord oor. Moedig hulle eerder aan en lei hulle deur die oplossing, maar laat hulle self tik.
+- Duik in diepe besprekings met meer gevorderde leerders (wat dalk nie daar hoef te wees nie). U kan die gesprekke tydens die pouse voer.
 
-**Rule #4: Be aware of demotivating words**
+**Reël #4: Wees bewus van demotiverende woorde**
 
-Avoid saying things like:
+Vermy om dinge te sê soos:
 
-- Just: "oh, that is easy, you just..."
-- "It is too easy..."
-- "It is too hard..."
-- "I cannot believe you do not know X ..."
-- Negative things about any applications or OS (Word, Excel, Windows, Mac, GUI): No tool is perfect, and this kind of disdain is not productive or conducive to the learning process.
+- Net: “o, dit is maklik, jy net...”
+- “Dit is te maklik...”
+- “Dit is te moeilik...”
+- “Ek kan nie glo dat jy nie X ken nie...”
+- Negatiewe dinge oor enige toepassings of bedryfstelsel (Word, Excel, Windows, Mac, GUI): Geen instrument is perfek nie, en hierdie soort minagting is nie produktief of bevorderlik vir die leerproses nie.
 
-### Code of Conduct (Summary View)
+### Gedragskode (opsomming)
 
-> We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries’ Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+> Ons is toegewyd daaraan om 'n verwelkomende en ondersteunende omgewing vir alle mense te bied, ongeag agtergrond of identiteit. Deur deel te neem aan hierdie gemeenskap, aanvaar deelnemers om die Carpentries se gedragskode te voldoen en die prosedures te aanvaar waardeur enige gedragskode-voorvalle opgelos word. Enige vorm of gedrag om ongemak uit te sluit, te intimideer of te veroorsaak, is 'n oortreding van die gedragskode. Om 'n positiewe en professionele leeromgewing te bevorder, moedig ons die volgende soorte gedrag op alle platforms en geleenthede aan:
 
-- Use welcoming and inclusive language.
-- Be respectful of different viewpoints and experiences.
-- Gracefully accept constructive criticism.
-- Focus on what is best for the community.
-- Show courtesy and respect towards other community members.
+- Gebruik verwelkomende en inklusiewe taal.
+- Wees respekvol vir verskillende standpunte en ervarings.
+- Aanvaar grasieus konstruktiewe kritiek.
+- Fokus op wat die beste vir die gemeenskap is.
+- Toon hoeflikheid en respek teenoor ander gemeenskapslede.
 
 >
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2), who will take the appropriate action to address the situation.
+As u glo dat iemand die gedragskode oortree, vra ons dat u dit aan die Carpentries Code of Conduct Committee rapporteer wat [hierdie vorm] (https://goo.gl/forms/KoUfO53Za3apOuOK2) voltooi, wat die toepaslike stappe sal neem om die situasie aan te spreek.
 
-More info can be found here: {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
+Meer inligting kan hier gevind word: {{'[Gedragskode] ({}) '.format (code_of_duct)}}.
 
-## Email Templates
+## E-pos sjablone
 
-Use [these](email_templates.md) templated emails for communicating with the learners.
+Gebruik [hierdie] (email_templates.md) gemabloerde e-posse om met die leerders te kommunikeer.
