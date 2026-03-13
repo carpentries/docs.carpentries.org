@@ -1,179 +1,179 @@
-# Instructor Training Resources
+# Hulpbronne vir instrukteurs
 
-## Community-developed Resources
+## Gemeenskapsontwikkelde hulpbronne
 
-- [Instructor Trainers Folder](https://drive.google.com/drive/folders/1A3mOUSX7P1Cgfxxx5sANiychJKa-5pPM): This folder contains documents created by or for Instructor Trainers. Anyone may add or store content relevant to Carpentries Instructor Training or the Instructor Trainer community. Contents may not be up to date.
-- Neil’s [TTT Planning Document](https://docs.google.com/spreadsheets/d/1TFcgQaj527EenrSekPiDo9WVY_Vw-HOOzp2MlAp83Bw/edit?usp=sharing): A useful item in the Instructor Trainers folder, this spreadsheet can help you equitably divide up teaching duties for an Instructor Training event as well as keep track of section start and stop times in two time zones.
-- Jeff’s [email templating script for demos](https://github.com/jcoliver/auto-demo-email): this community-developed resource can lighten the load of preparing for your teaching demonstration.
+- [Instrukteur Trainer Folder] (https://drive.google.com/drive/folders/1A3mOUSX7P1Cgfxxx5sANiychJKa-5pPM): Hierdie lêergids bevat dokumente wat deur of vir instruktoropleiers geskep is. Enigiemand kan inhoud byvoeg of stoor wat relevant is vir Carpentries Instructor Trainer of die Instructor Trainer -gemeenskap. Die inhoud is moontlik nie op datum nie.
+- Neil se [TTT-beplanningsdokument] (https://docs.google.com/spreadsheets/d/1TFcgQaj527EenrSekPiDo9WVY_Vw-HOOzp2MlAp83Bw/edit?usp=sharing): Hierdie sigblad, 'n nuttige item in die Instructor Trainers-lêergids, kan u help om onderrigpligte vir 'n Instruktoropleidingsgeleentheid billik op te verdeel, asook om die begin- en stoptye in twee tydsones by te hou.
+- Jeff se [email templating script for demos] (https://github.com/jcoliver/auto-demo-email): hierdie gemeenskapsontwikkelde hulpbron kan die vrag van voorbereiding vir u onderrigdemonstrasie verlig.
 
-## Email Templates for Instructor Trainers
+## E-pos sjablone vir instrukteur-opleiers
 
-### Reminder Teaching Demo
+### Herinneringsonderrig Demo
 
-Note: There are instructions under “Preparing for a Demo”
+Let wel: Daar is instruksies onder “Voorbereiding vir 'n demo”
 
-Subject: The Carpentries teaching demonstration
+Onderwerp: Die onderrigdemonstrasie van die Carpentries
 
-Hi,
+Hallo
 
-According to the Teaching Demo Etherpad you have signed up to give an online teaching demo on \[ date \] at \[ time \] (Local time: \[ timeanddate.com link \]) as part of your checkout. I will be the Instructor Trainer hosting the session.
+Volgens die Teaching Demo Etherpad het jy aangemeld om 'n aanlyn onderrigdemo te gee op\ [datum\] op\ [tyd\] (Plaaslike tyd:\ [timeanddate.com skakel\]) as deel van jou betaalpunt. Ek sal die instruktorafrigter wees wat die sessie aanbied.
 
-For your teaching demonstration, you will prepare to teach a 5 minute segment of an approved Carpentries Lesson, starting at the beginning of an episode that includes participatory live instruction. To select an episode, please visit this [list of recommended episodes](https://carpentries.github.io/instructor-training/demo_lessons). If your preferred lesson is not on the list or includes only ineligible episodes, please choose a different lesson.
+Vir jou onderrigdemonstrasie sal jy voorberei om 'n segment van 5 minute van 'n goedgekeurde Carpentries-les te leer, wat begin aan die begin van 'n episode wat deelnemende lewendige onderrig insluit. Om 'n episode te kies, besoek asseblief hierdie [lys van aanbevole episodes] (https://carpentries.github.io/instructor-training/demo_lessons). As u voorkeurles nie op die lys is nie of slegs onkwalifiseerde episodes insluit, kies asseblief 'n ander les.
 
-A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
+'N Les stem ooreen met 'n enkele reël in die lestabelle (https://software-carpentry.org/lessons/, http://www.datacarpentry.org/lessons/ en https://librarycarpentry.org/lessons/) en 'n enkele bewaarplek op GitHub. Sommige lesse het aanvullende modules, maar u hoef nie voorbereid te wees om die aanvullende modules vir u onderrigdemonstrasie te leer nie.
 
-Please remember – this is not a high stakes test\! This is a friendly opportunity to give and receive feedback on a more polished presentation style. In the event that I ask you to repeat your demo, I will provide this information with clear instructions on what to change in an email to you after the demo. You will only receive qualitative feedback publicly during the demo, not information regarding whether this checkout step is considered complete.
+Onthou asseblief - dit is nie 'n hoë standtoets nie! Dit is 'n vriendelike geleentheid om terugvoer te gee en te ontvang oor 'n meer gepoleerde aanbiedingsstyl. In die geval dat ek u vra om u demo te herhaal, sal ek hierdie inligting duidelike instruksies verskaf oor wat u moet verander in 'n e-pos aan u na die demo. U sal slegs kwalitatiewe terugvoer in die openbaar ontvang tydens die demo, nie inligting oor of hierdie afhandelstap as voltooi beskou word nie.
 
-\[ sender name \]
+\ [sender naam\]
 
-### Bilingual Demo: Reminder Teaching Demo
+### Tweetalige Demo: Demo vir herinnering vir onderrig
 
-Subject: Carpentries instructor training: Teaching Demo
+Onderwerp: Carpentries instrukteur opleiding: Onderrig Demo
 
-Hello,
+Hallo,
 
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process. We will meet on \[ Insert Date \] at \[ Insert Time \] in this Zoom videoconferencing room (insert zoom link here). Please review this short bi-lingual description of how Teaching Demo session works (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md\\#). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
+Dankie dat u aangemeld het om u “Teaching Demo” te voltooi as deel van die instrukteersertifiseringsproses. Ons sal vergader op\ [Voeg datum in\] om\ [Voeg tyd in\] in hierdie Zoom-videokonferensiekamer (voeg zoomskakel hier in). Hersien asseblief hierdie kort tweetalige beskrywing van hoe Teaching Demo-sessie werk (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md\\ #). Disclaimer: Ek verstaan Spaans beter as wat ek dit praat. Ek sal dus soveel as moontlik in Spaans praat, maar ek sal waarskynlik terugvoer gee oor u onderrig in Engels.
 
-Please let me know if you have any questions or concerns.
+Laat weet my asseblief as u enige vrae of bekommernisse het.
 
-Hola,
+Hallo,
 
-Gracias por inscribirte para completar tu demostración de enseñanza como parte del proceso de certificación para instructores. Nos reuniremos \[ Insert Date \] \[ insert time \] aquí: (insert zoom link here). Por favor, lee ésta breve descripción bilingüe de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md\\#). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
+Dankie dat u ingeskryf het om jou onderwysdemonstrasie as deel van sertifiseringsproses vir onderwysers te voltooi. Ons ontmoet\ [Voeg datum\]\ [invoeg tyd\] hier: (voeg zoomskakel hier in). Lees asseblief hierdie kort tweetalige beskrywing van hoe die onderwysdemonstrasie werk hier: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md\\ #). waarskuwing: Ontdek die beste Spaans van wat ek praat. Daarom, ek sal 'n bietjie in Spaans praat, maar dit is baie waarskynlik dat hulle kommentaar oor u onderwys in Engels sal hê.
 
-Por favor, hazme saber si tienes alguna pregunta o inquietud.
+Weet asseblief of jy enige vraag of navraag het.
 
-Best/Saludos,
+Beste/Groete,
 
-\[ sender name \]
+\ [sender naam\]
 
-### Trainee Invited to Repeat Teaching Demo
+### Leerling genooi om onderrigdemo te herhaal
 
-_**Note to Instructor Trainers:** Even with a template, these emails can be hard to compose and send\! When in doubt, do not hesitate to connect with the Instructor Trainer community and/or Core Team for support in deciding, customising, or responding to questions about these messages._
+\*\*\* Opmerking aan instruktoropleiers: \*\* Selfs met 'n sjabloon, kan hierdie e-posse moeilik wees om te komponeer en te stuur\! As u twyfel, moet u nie huiwer om kontak te maak met die Instructor Trainer -gemeenskap en/of die kernspan vir ondersteuning om te besluit, aan te pas of op vrae oor hierdie boodskappe te reageer nie. \*
 
-Subject: Carpentries Instructor Training: Teaching Demo
+Onderwerp: Carpentries Instruktoropleiding: Onderrig Demo
 
-Hi \[ trainee name \],
+Hallo\ [leeringnaam\],
 
-Thank you for completing your teaching demonstration. While you demonstrated good \[ something they did well, e.g. command of the subject material\], I am inviting you to return for another try at the teaching demo. The primary reason is because \[ reason \]. \[ Explanation of what you would like to prefer instead, and why it is central to Carpentries teaching practices. \]
+Dankie dat u u onderrigdemonstrasie voltooi het. Alhoewel jy goed getoon het\ [iets wat hulle goed gedoen het, bv. die beheer van die vakmateriaal\], nooi ek jou uit om terug te keer vir nog 'n probeer by die onderrigdemo. Die primêre rede is omdat\ [rede\]. \ [Verduideliking van wat jy eerder wil verkies, en waarom dit sentraal is vir Carpentries onderrigpraktyke. \]
 
-We are excited about having you as a Carpentries Instructor and we want to have you on board\! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional practice and feedback to be worthwhile.
+Ons is opgewonde daaroor om jou as 'n Carpentries Instrukteur te hê en ons wil jou aan boord hê\! Ek weet dit is moeilik om tyd te maak vir hierdie sessies, en ek hoop dat u die geleentheid sal vind vir addisionele oefening en terugvoer die moeite werd.
 
-I have contacted our Core Team to indicate that this session should be repeated. If you are close to the end of your checkout period, you can email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to request an extension if you need one.
+Ek het ons kernspan gekontak om aan te dui dat hierdie sessie herhaal moet word. As u naby aan die einde van u afhandelperiode is, kan u 'n e-pos aan [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org) stuur om 'n verlenging aan te vra as u dit nodig het.
 
-Please contact us with questions\!
+Kontak ons asseblief met vrae\!
 
-Best wishes,
+Beste wense,
 
-\[ sender name \]
+\ [sender naam\]
 
-### Spanish: Trainee Invited to Repeat Teaching Demo
+### Spaans: leerling genooi om onderrigdemo te herhaal
 
-Nota a los Instructor Trainers: Incluso con un template, este tipo de emails son difíciles de redactar y enviar\! Si tienes preguntas, no dudes en contactar con la comunidad de Instructor Trainers y/o nuestro personal para tomar decisiones, personalizar o responder preguntas sobre estos mensajes.
+Let wel aan die instruktor-opleiers: Insluitend met 'n sjabloon, is hierdie tipe e-posse moeilik om te redakteer en te stuur\! As jy enige vrae het, kontak jou nie met die gemeenskap van Instruktor-opleiers en/of ons persoonlike om besluite te neem, vrae oor hierdie boodskappe te pas of te beantwoord nie.
 
-Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
+Onderwerp: Formación para instructor de las Carpentries: Demonstración de enseñanza
 
-Hola \[nombre del aprendiz\],
+Hallo\ [naam van die leerder\],
 
-Gracias por realizar tu demostración de enseñanza. A pesar de que has demostrado un buen \[algo que hizo bien, puntos positivos, e.g. conocimiento de los materiales de enseñanza\], me gustaría invitarte a realizar de nuevo la demostración de enseñanza. La razón principal es \[razón\]. \[Explicar lo que te gustaría ver en el/la candidato/a, y por qué es fundamental de acuerdo a las prácticas educativas de Carpentries\].
+Dankie dat jy jou onderwysdemonstrasie uitvoer het. As jy 'n goeie\ [iets wat goed gedoen het, positiewe punte, bv. Kennis van die onderwysmateriaal\] getoon het, het ek geniet om nuwe onderwysdemonstrasie uit te voer. Die belangrikste rede is\ [saak\]. \ [Verduidelik wat jy by el/die kandidaat/a wil sien, en waarom dit fundamenteel is om die opvoedkundige praktyke van Carpentries te aanvaar\].
 
-Esta no ha sido una decisión fácil de tomar – nos encantaría tenerte como instructor en Carpentries\! Sé que es complicado hacer tiempo para este tipo de sesiones pero espero que consideres este tiempo adicional de práctica y feedback como una oportunidad.
+Dit was nie 'n maklike besluit om te neem nie - ons sou graag as instrukteur in Carpentries wees\! Ek weet dat dit ingewikkeld is om tyd te maak vir hierdie tipe sessies, maar ek hoop dat u hierdie bykomende praktiese tyd en terugvoer as 'n geleentheid beskou.
 
-Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email a instructor.training@carpentries.org para solicitar una extensión si la necesitas.
+Ek kon met ons betaalpersoonlike kontak om aan te dui dat hierdie aanmelding herhaal moet word. As jy naby jou afhandeltyd is, kan jy 'n e-pos stuur na instructor.training@carpentries.org om 'n uitbreiding te vra indien nodig.
 
-No dudes en ponerte en contacto si tienes cualquier pregunta\!
+Moenie ouens kontak as jy enige vraag wil hê\!
 
-Saludos,
+Groete,
 
-\[nombre del remitente\]
+\ [inskrywer naam\]
 
-### Trainee Passed Teaching Demo
+### Leerling het onderrigdemo geslaag
 
-Subject: Carpentries Instructor Training: Teaching Demo
+Onderwerp: Carpentries Instruktoropleiding: Onderrig Demo
 
-Hi \[ trainee name \],
+Hallo\ [leeringnaam\],
 
-I’m happy to share that you have passed your teaching demonstration\! You demonstrated a \[good command of the subject material and a solid understanding of The Carpentries teaching methods\]. We are excited about having you as a Carpentries Instructor.
+Ek deel graag dat jy jou onderrigdemonstrasie geslaag het\! U het 'n goeie beheer van die onderwerpmateriaal en 'n soliede begrip van The Carpentries -onderrigmetodes getoon. Ons is opgewonde daaroor om u as 'n Carpentries -instrukteur te hê.
 
-I’ve forwarded this information to our Core Team. If this was the last step in your Instructor Training checkout, you will be contacted in about a week.
+Ek het hierdie inligting aan ons kernspan gestuur. As dit die laaste stap in u Instructor Training -betaalpunt was, sal u oor ongeveer 'n week gekontak word.
 
-Welcome to The Carpentries Instructor community\!
+Welkom by The Carpentries Instructor Gemeenskap\!
 
-Best wishes,
+Beste wense,
 
-\[ sender name \]
+\ [sender naam\]
 
-Email Templates (Instructor Trainers: Spanish)
+E-possjablone (Instruktoropleiers: Spaans)
 
-### Spanish: Trainee Did Pass Teaching Demo
+### Spaans: leerlinge het onderwysdemo geslaag
 
-Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
+Onderwerp: Formación para instructor de las Carpentries: Demonstración de enseñanza
 
-Hola \[nombre del aprendiz\],
+Hallo\ [naam van die leerder\],
 
-Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro Core Team. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a instructor.training@carpentries.org.
+Ek wil weet dat jy jou onderwysdemonstrasie verbygegaan het. Hy het 'n goeie domein getoon van die inhoud van materiaal en van die onderwysmetodologieë van die Carpentries, dit is dus 'n plek wat as onderwyser in die Carpentries ontvang word. Ek het hierdie inligting nou aan ons Core Team oorgedra. As dit die laaste deel van u sertifiseringsproses was, ontvang u amptelike sertifisering van die Carpentries saam met die instruksies om te skryf om gesprekke binne ongeveer 'n week uit te voer. As jy nog 'n stap in jou sertifiseringsproses voltooi het, maak seker dat jy dit voltooi voor die limite datum. As jy enige vraag het, stuur asseblief 'n e-pos aan instructor.training@carpentries.org.
 
-Bienvenida/o a la comunidad de las Carpentries.
+Welkom by die gemeenskap van die Carpentries.
 
-Saludos,
+Groete,
 
-\[nombre del remitente\]
+\ [inskrywer naam\]
 
-### Teaching demo cancelled \- trainees
+### Onderrigdemo gekanselleer\ - leerlinge
 
-Subject: Teaching demo cancelled \- please reschedule
+Onderwerp: Onderrigdemo gekanselleer\ - herskeduleer asseblief
 
-Dear checkout participant,
+Geagte deelnemer vir die kassa
 
-Thank you for signing up to do your teaching demonstration at \[time in UTC from Etherpad\] \[time and date link\]. Unfortunately, we need to cancel this session due to \[reason (optional)\]. There are still spots open in upcoming sessions on the Etherpad, and I hope you will be able to find one that suits your schedule.
+Dankie dat u aangemeld het om u onderrigdemonstrasie te doen om\ [tyd in UTC van Etherpad\]\ [tyd en datum skakel\]. Ongelukkig moet ons hierdie sessie kanselleer weens\ [rede (opsioneel)\]. Daar is nog plekke oop in komende sessies op die Etherpad, en ek hoop jy sal een kan vind wat by jou skedule pas.
 
-I know it is hard to make time for these sessions, and I apologise for any inconvenience this has caused. I am excited to have  you as a part of our Instructor community.
+Ek weet dit is moeilik om tyd te maak vir hierdie sessies, en ek vra om verskoning vir enige ongerief wat dit veroorsaak het. Ek is opgewonde om jou as deel van ons instruktorgemeenskap te hê.
 
-Sincerely,  
-\[Name\]
+Opregte,  
+\ [Naam\]
 
-## Email templates for Members
+## E-pos sjablone vir lede
 
-### Trainee Recruitment Email (From Member Contact)
+### E-pos vir werwing van leerlinge (van lidkontak)
 
-Dear [ name ],
+Liewe [naam],
 
-We are excited to announce that [ site name ] has become a member of The Carpentries!
+Ons is opgewonde om aan te kondig dat [webwerfnaam] 'n lid van The Carpentries geword het!
 
-[The Carpentries](https://carpentries.org) is a global community of volunteers who develop and teach interactive, hands-on workshops on computing and data skills, addressing basic training needs that are unmet in most disciplines.
+[The Carpentries] (https://carpentries.org) is 'n wêreldwye gemeenskap van vrywilligers wat interaktiewe, praktiese werkswinkels oor rekenaar- en data-vaardighede ontwikkel en onderrig, wat basiese opleidingsbehoeftes aan wat in die meeste dissiplines nie voldoen word nie.
 
-As part of our Carpentries membership, we can have [ number ] people from [ site name ] complete [The Carpentries’ Instructor Training program](https://carpentries.github.io/instructor-training/) and become certified Carpentries Instructors.
+As deel van ons Carpentries-lidmaatskap kan ons [aantal] mense van [werfnaam] laat voltooi [The Carpentries se Instructor Training Program] (https://carpentries.github.io/instructor-training/) en gesertifiseerde Carpentries-instrukteurs word.
 
-Certified Instructors can co-teach [Carpentries workshops](https://carpentries.org/workshops/) here at [ site name ], helping us reach more people and build these skills across our community. In addition, Carpentries Instructors also have the opportunity to teach as part of a team at other institutions in The Carpentries network, meeting others with similar skills who enjoy sharing them. Hosting institutions cover travel and expenses for volunteer Instructors teaching workshops in-person.
+Gesertifiseerde instrukteurs kan [Carpentries-werkswinkels] (https://carpentries.org/workshops/) hier by [werfnaam] saam leer, wat ons help om meer mense te bereik en hierdie vaardighede regoor ons gemeenskap op te bou. Daarbenewens het Carpentries-instrukteurs ook die geleentheid om as deel van 'n span by ander instellings in The Carpentries-netwerk te onderrig en ander met soortgelyke vaardighede te ontmoet wat dit geniet om dit te deel. Gasheerinstellings dek reis en uitgawes vir vrywillige instrukteur wat werkswinkels persoonlik onderrig
 
-[Service as a Carpentries Instructor is a voluntary activity. This service can support existing work responsibilities in a variety of roles. It also represents an opportunity for career development. Carpentries Instructors are sought after in a variety of academic and professional teaching roles. Participation as an Instructor builds skills as well as a track record in teaching while expanding your professional network.]
+[Diens as 'n Carpentries Instrukteur is 'n vrywillige aktiwiteit. Hierdie diens kan bestaande werksverantwoordelikhede in 'n verskeidenheid rolle ondersteun. Dit verteenwoordig ook 'n geleentheid vir loopbaanontwikkeling. Carpentries Instrukteurs word gesoek in 'n verskeidenheid akademiese en professionele onderrigrolle. Deelname as instrukteur bou vaardighede sowel as 'n rekord in onderrig op terwyl u professionele netwerk uitbrei.]
 
-The Carpentries Instructor Training is primarily focused on evidence-based teaching practices and does not include technical skills training. It is expected that trainees will have or will develop the technical skills necessary to guide learners through the entry level curricula for one or more [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) workshops.
+Die Carpentries Instructor Training is hoofsaaklik gefokus op bewysgebaseerde onderrigpraktyke en sluit nie tegniese vaardigheidsopleiding in nie. Daar word verwag dat leerlinge die tegniese vaardighede sal hê of sal ontwikkel wat nodig is om leerders deur die inskrywingsvlakkurrikulums te lei vir een of meer [Data Timmerry] (https://datacarpentry.org/lessons/), [Library Timmerry] (https://librarycarpentry.org/lessons/) of [Software Timmerry] (https://software-carpentry.org/lessons/) werkswinkels.
 
-If you are interested in being trained and certified as a Carpentries Instructor, please [ instructions to express interest or apply ] by [ deadline ].
+As u belangstel om opgelei en gesertifiseer te word as 'n Carpentries -instrukteur, asseblief [instruksies om belangstelling uit te spreek of aansoek te doen] teen [sperdatum].
 
-Please get in touch with questions!
+Kontak asseblief met vrae!
 
-### Selected Trainee Information Email (From Member Contact for pooled training events)
+### Geselekteerde leeringsinligtinge-pos (van lidkontak vir saamgevoegde opleidingsgeleenthede)
 
-SUBJECT: Invitation to become a certified Carpentries Instructor
+ONDERWERP: Uitnodiging om 'n gesertifiseerde Carpentries Instrukteur te word
 
-Dear [ name ],
+Liewe [naam],
 
-Thank you for your interest in Carpentries Instructor Training! I am pleased to be able to offer you an opportunity to be trained through our Carpentries membership.
+Dankie vir u belangstelling in Carpentries Instructor Training! Ek is bly om u 'n geleentheid te kan bied om deur middel van ons Carpentries-lidmaatskap opgelei te word.
 
-Instructor Training events are held online via video conference, with schedule options including two full days or four half days. There are two steps to register:
+Instruktoropleidingsgeleenthede word aanlyn via videokonferensie gehou, met skedule opsies wat twee volle dae of vier halwe dae insluitend. Daar is twee stappe om te registreer:
 
-1. Visit the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar) and select an event. Click on the link to Eventbrite and use the following code: [ CODE ]. Please do not share this code.
-2. Complete The Carpentries’ [profile-creation form](https://amy.carpentries.org/forms/request_training/) using the same registration code: [ CODE ]. This allows The Carpentries to track your progress to certification.
+1. Besoek die [Instruktoropleidingskalender] (https://carpentries.github.io/instructor-training/training_calendar) en kies 'n geleentheid. Klik op die skakel na Eventbrite en gebruik die volgende kode: [KODE]. Moet asseblief nie hierdie kode deel nie.
+2. Voltooi die Carpentries se [profielskeppingsvorm] (https://amy.carpentries.org/forms/request_training/) met dieselfde registrasiekode: [KODE]. Dit stel The Carpentries in staat om u vordering tot sertifisering op te spoor.
 
-You will receive more details about your training from The Carpentries (instructor.training@carpentries.org) one week prior to your event. Be sure to look out for this email, and check your spam filters. There is a small amount of preparation expected before the training as well as three short tasks involved in certification. To learn more, see [Preparing for your Training](https://carpentries.github.io/instructor-training/#preparing-for-your-training).
+U sal meer besonderhede oor u opleiding ontvang van The Carpentries (instructor.training@carpentries.org) een week voor u geleentheid. Maak seker dat jy kyk na hierdie e-pos en kyk na jou strompfilters. Daar word 'n klein hoeveelheid voorbereiding verwag voor die opleiding asook drie kort take wat by sertifisering betrokke is. Vir meer inligting, sien [Voorbereiding vir jou opleiding] (https://carpentries.github.io/instructor-training/#preparing-for-your-training).
 
-If anything comes up and you are no longer interested or able to participate, please let me know as soon as possible so that I can offer this seat to another person.
+As iets opduik en u nie meer belangstel of kan deelneem nie, laat my asseblief so gou as moontlik weet sodat ek hierdie sitplek aan 'n ander persoon kan bied.
 
-We are all excited to grow our local Carpentries community and look forward to bringing you on board.
+Ons is almal opgewonde om ons plaaslike Carpentries-gemeenskap te laat groei en sien uit daarna om jou aan boord te bring.
 
-If you have any questions, please contact me or The Carpentries Instructor Training team at instructor.training@carpentries.org.
+As u enige vrae het, kontak my asseblief of die Carpentries Instructor Training span by instructor.training@carpentries.org.
 
-Best,
+Beste,
 
-[ sender name ]
+[sender naam]
