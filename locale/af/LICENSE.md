@@ -1,67 +1,67 @@
-# License
+# Lisensie
 
-## Website content
+## Webwerf inhoud
 
-Unless specified otherwise, the text content of this website is
-licensed Creative Commons Attribution 4.0 International
-License. This is a human-readable
-summary of (and not a substitute for) the
-license.
+Tensy anders gespesifiseer word, is die teksinhoud van hierdie webwerf
+gelisensieer [Creative Commons Attribution 4.0 International
+License] (https://creativecommons.org/licenses/by/4.0/). Dit is 'n menslike leesbare
+-opsomming van (en nie 'n plaasvervanger vir) [die
+lisensie] (https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Images on this website are under copyright of the original creator unless
-otherwise specified.
+Beelde op hierdie webwerf is onder kopiereg van die oorspronklike skepper tensy
+anders gespesifiseer word.
 
-### You are free to:
+### Jy is vry om:
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+- **Deel** - kopieer en herverdeel die materiaal in enige medium of formaat
+- **Aanpas** — remix, transformeer en bou op die materiaal vir enige doel, selfs kommersieel.
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+Die lisensiewer kan nie hierdie vryhede herroep solank u die lisensiebepalings volg nie.
 
-### Under the following terms:
+### Onder die volgende bepalings:
 
-- **Attribution** — You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made. You may do so in any reasonable
-  manner, but not in any way that suggests the licensor endorses you or your
-  use.
-- **No additional restrictions** — You may not apply legal terms or
-  technological measures that legally restrict others from doing anything the
-  license permits.
+- **Toeskrywing** - U moet toepaslike krediet gee, 'n skakel na die
+  -lisensie verskaf en aandui of veranderinge aangebring is. U mag dit op enige redelike
+  manier doen, maar nie op enige manier wat daarop dui dat die lisensiewer u of u
+  -gebruik onderskryf nie.
+- **Geen addisionele beperkings** - U mag nie wetlike bepalings of
+  tegnologiese maatreëls toepas wat ander wettig beperk om enigiets te doen wat die
+  -lisensie toelaat nie.
 
-### Notices:
+### Kennisgewings:
 
-You do not have to comply with the license for elements of the material in the
-public domain or where your use is permitted by an applicable exception or limitation.
+U hoef nie aan die lisensie te voldoen vir elemente van die materiaal in die
+openbare domein of waar u gebruik deur 'n toepaslike uitsondering of beperking toegelaat word nie.
 
-No warranties are given. The license may not give you all of the permissions necessary
-for your intended use. For example, other rights such as publicity, privacy, or moral
-rights may limit how you use the material.
+Geen waarborge word gegee nie. Die lisensie gee u moontlik nie al die toestemmings wat nodig is
+vir u beoogde gebruik nie. Byvoorbeeld, ander regte soos publisiteit, privaatheid of morele
+-regte kan beperk hoe u die materiaal gebruik.
 
-## Copyright
+## kopiereg
 
-Copyright (c) 2018-2024 The Carpentries
+Kopiereg (c) 2018-2024 Die Carpentries
 
-### The MIT License (MIT)
+### Die MIT-lisensie (MIT)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Toestemming word hiermee gratis verleen aan enige persoon wat 'n kopie
+van hierdie sagteware en gepaardgaande dokumentasie lêers verkry (die “Sagteware”), om
+in die Sagteware sonder beperking te hanteer, insluitend sonder beperking die regte
+om te gebruik, te kopieer, wysig, saam te publiseer, te versprei, sublisensiëring en/of
+kopieë van die sagteware te verkoop, en om persone aan wie die sagteware is
+gemeubileer om dit te doen, onderhewig aan die volgende voorwaardes:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Bogenoemde kopieregkennisgewing en hierdie toestemmingskennisgewing sal in alle
+-kopieë of aansienlike gedeeltes van die sagteware ingesluit
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+DIE SAGTEWARE WORD VOORSIEN “SOOS IS”, SONDER WAARBORG VAN ENIGE SOORT, UITDRUKLIK OF
+GEÏMPLISEER, INSLUITEND MAAR NIE BEPERK NIE TOT DIE WAARBORGE VAN VERHANDELBAARHEID,
+FIKSHEID VIR 'N SPESIFIEKE DOEL EN NIE-OORTREDING NIE. IN GEEN GEVAL SAL DIE
+-SKRYWERS OF KOPIEREGHOUERS AANSPREEKLIK WEES VIR ENIGE EIS, SKADE OF ANDER
+AANSPREEKLIKHEID, HETSY IN 'N AKSIE VAN KONTRAK, DELIKTEIT OF ANDERS, WAT VOORTSPRUIT UIT,
+UIT OF IN VERBAND MET DIE SAGTEWARE OF DIE GEBRUIK OF ANDER HANDELINGS IN DIE
+SAGTEWARE NIE.
 
-## Trademarks
+## Handelsmerke
 
-"Software Carpentry", "Data Carpentry", and "The Carpentries" and their
-respective logos are registered trademarks of The Carpentries Inc. 501(c)3.
+“Software Carpenterry”, “Data Carpentries” en “The Carpentries” en hul
+onderskeie logo's is geregistreerde handelsmerke van The Carpentries Inc. 501 (c) 3.
