@@ -1,598 +1,596 @@
-# Instructors Handbook
+# Instrukteurs Handboek
 
-## About This Handbook
+## Oor hierdie handboek
 
-The Instructor Handbook is designed to support members of The
-Carpentries community who are serving as an Instructor. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Die Instruktorhandboek is ontwerp om lede van die
+Carpentries-gemeenskap wat as instrukteur dien, te ondersteun. Dit word onderhou deur The Carpentries Workshops and Instruction Team.  As u glo dat iets hier bygevoeg of opgedateer moet word, of as u terugvoer oor die inhoud wil gee, stuur asseblief die {{'[Werkswinkels en instruksiespan] (mailto:{}) '.format (workshops_email)}} of maak 'n probleem op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
-## Introduction
+## Inleiding
 
-Carpentries Instructors are volunteers who are certified through the
-Carpentries {{"[Instructor Training program]({})".format(instructor_training_curriculum)}} to teach live-coding and data
-skills to learners through evidence-based teaching practices.
+Carpentries Instructors is vrywilligers wat gesertifiseer is deur die
+Carpentries {{"[Instructor Training program] ({})” .format (instructor_training_curriculum)}} om lewendige kodering en data
+vaardighede aan leerders te leer deur bewysgebaseerde onderrigpraktyke.
 
-## Roles and Responsibilities
+## Rolle en verantwoordelikhe
 
-- Organise and facilitate Self-Organised Workshops.
-- Volunteer to facilitate Centrally-Organised Workshops.
+- Organiseer en fasiliteer selforganiseerde werkswinkels
+- Vrywilliger om sentraal-georganiseerde werkswinkels te
 
-**Time Expectation**: Flexible.
+**Tydverwagting**: Buigsaam.
 
-Instructors can decide when they would like to plan a Self-Organised
-Workshop or support a Centrally-Organised Workshop.
+Instrukteurs kan besluit wanneer hulle 'n selfgeorganiseerde
+-werkswinkel wil beplan of 'n sentraal georganiseerde werkswinkel wil ondersteun.
 
-For a **Self-Organised Workshop** Instructors should expect to dedicate
-the duration of the workshop which is approximately 16 hours, in
-addition to at least five hours to organise a workshop.
+Vir 'n **Selfgeorganiseerde werkswinkel** moet instrukteurs verwag om die duur van die werkswinkel, wat ongeveer 16 uur is,
+toe te wy, benewens
+benewens ten minste vyf uur om 'n werkswinkel te organiseer.
 
-For a **Centrally-Organised Workshop** Instructors should expect to
-dedicate the duration of the workshop which is approximately 16 hours,
-in addition to approximately one to three hours of pre-planning meetings.
+Vir 'n **Sentraal-georganiseerde werkswinkel** moet instrukteurs verwag om
+die duur van die werkswinkel te wy, wat ongeveer 16 uur is,
+benewens ongeveer een tot drie uur se voorbeplanningsvergaderings.
 
-### Instructor Communication and Participation Expectations
+### Instrukteur Kommunikasie en Deelname Verwag
 
-To support a smooth, collaborative organising process, we ask that you reply to the workshop host and fellow Instructors within two working days of the introduction. If we do not hear from you within five working days, we may need to invite another Instructor to take your place to ensure the workshop goes as planned.
+Om 'n gladde, samewerkende organiseringsproses te ondersteun, vra ons dat u binne twee werksdae na die inleiding aan die werkswinkel gasheer en mede-instrukteurs antwoord. As ons nie binne vyf werksdae van u hoor nie, moet ons dalk 'n ander instrukteur nooi om jou plek in te neem om te verseker dat die werkswinkel soos beplan gaan.
 
-We understand that circumstances may sometimes prevent a timely response. If this happens, please let the organising team know your expected availability. If you need to withdraw from teaching a Centrally-Organised workshop, please let both the workshop host and the Workshop and Instruction Team know as soon as possible so that we can arrange a suitable replacement.
+Ons verstaan dat omstandighede soms 'n tydige reaksie kan voorkom. As dit gebeur, laat die organiseerspan weet asseblief u verwagte beskikbaarheid. As u moet onttrek uit die onderrig van 'n sentrale georganiseerde werkswinkel, laat asseblief die werkswinkelgasheer en die werkswinkel- en instruksiespan so gou as moontlik weet sodat ons 'n geskikte vervanging kan reël.
 
-Active participation in all workshop-related activities, including communication with the organising team, attendance at the pre-workshop meeting, and participation during the workshop, is essential. If these expectations are not met, a member of the Workshop and Instruction Team may reach out to talk about how we can better support your engagement. Continued lack of participation may affect your status as an active Instructor.
+Aktiewe deelname aan alle werkswinkelverwante aktiwiteite, insluitend kommunikasie met die organiseerspan, bywoning by die voorwerkswinkelvergadering en deelname tydens die werkswinkel, is noodsaaklik. As hierdie verwagtinge nie nagekom word nie, kan 'n lid van die werkswinkel- en instruksiespan kontak om te praat oor hoe ons u betrokkenheid beter kan ondersteun. Voortgesette gebrek aan deelname kan jou status as aktiewe instrukteur beïnvloed.
 
-## Onboarding
+## Onboord
 
-Steps to becoming an Instructor.
+Stappe om 'n instrukteur te word
 
-1. **Attend an Instructor Training event**. The training runs over two full days or four half days and covers the basics of educational    psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the [Instructor training curriculum page](https://carpentries.github.io/instructor-training/).
-2. **Complete the checkout process**. You must complete three short tasks after the training to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://carpentries.github.io/instructor-training/checkout) page for more details.
+1. \*\*Bywoon 'n instrukteer-opleidingsgeleentheid by \*\*. Die opleiding duur oor twee volle dae of vier halfdae en dek die basiese beginsels van opvoedkundige sielkunde, bewysgebaseerde klaskamerpraktyke en hoe om albei toe te pas op onderrigwerkswinkels vir The Carpentries. Vir meer besonderhede, besoek die [Instruktor-opleidingskurrikulumbladsy] (https://carpentries.github.io/instructor-training/).
+2. **Voltooi die afhandelproses**. U moet drie kort take na die opleiding voltooi om sertifisering as 'n Carpentries-instrukteur te voltooi. Sien ons [Checkout Instruksies] (https://carpentries.github.io/instructor-training/checkout) bladsy vir meer besonderhede.
 
-### Instructor Training Attendance Policy
+### Instruktoropleidingsbywoningsbeleid
 
-#### No Shows
+#### Geen vertonings
 
-A ‘No Show’ is when a trainee does not cancel or contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} before an event, and does not attend training. In a 'No Show' event, the training seat will be considered used.
+'N 'No Show' is wanneer 'n leerling nie die {{'[Instructor Training Team] (mailto:{}) '.format (instructor_training_email)}} voor 'n geleentheid kanselleer of kontak nie, en nie opleiding bywoon nie. In 'n 'No Show'-geleentheid sal die oefenssitplek as gebruik beskou word.
 
-If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}}.
+As verliggende omstandighede 'n leerling verhinder het om 'n geleentheid te kanselleer, te kontak of by te woon, kan hulle toestemming vra om vir 'n bykomende geleentheid te registreer met dieselfde registrasiekode deur 'n e-pos te stuur {{'[{}] (mailto:{}) '.format (instructor_training_email, instructor_training_email)}}.
 
-IMPORTANT: **Requests to re-register _must_ be received within seven days of the training end date.**
+BELANGRIK: \*\*Versoeke om weer te registreer _moet_ binne sewe dae na die einddatum van die opleiding ontvang word. \*\*
 
-Trainees with multiple unexplained no-shows may be barred from future registration.
+Leeringe met verskeie onverklaarbare geen vertonings kan toekomstige registrasie verbied word.
 
-#### Partial Absence
+#### Gedeeltelike afwe
 
-Trainees who miss up to four hours (one-half day) of an event can schedule a 45-minute one-to-one makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than four hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
+Leeringe wat tot vier uur ('n halwe dag) van 'n geleentheid mis, kan 'n 45-minute een-tot-een-grimeringsvergadering skeduleer om hul opleiding saam met The Carpentries Directeur of Workshops and Training te voltooi. [Grimeringsvergaderings kan via Calendly geskeduleer word] (https://calendly.com/sheraaron/instructor-training-makeup). Om voor te berei op 'n grimeringsvergadering, moet leeringers alle afdelings van die instruktoropleidingskurrikulum hersien wat hulle gemis het en voorbereid wees om gedagtes en vrae oor daardie afdelings te deel. Leeringe wat meer as vier uur van 'n geleentheid gemis het, behoort nie\*\* 'n grimeringsvergadering te skeduleer nie. (Sien die herneem van 'n opleidingsgeleentheid hieronder.)
 
-Trainees are not eligible for Instructor certification until their record indicates they have completed an entire Instructor Training event.
+Leeringers kom nie in aanmerking vir instrukteur sertifisering totdat hul rekord aandui dat hulle 'n hele instrukteur-opleidingsgeleentheid voltooi het nie.
 
-#### Re-taking a Training Event
+#### Herneem 'n opleidingsgeleentheid
 
-Trainees who miss more than four hours (one-half day) of an event are not eligible for a makeup meeting but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} within 30 days of a missed event.
+Leeringe wat meer as vier uur ('n halwe dag) van 'n geleentheid mis, kom nie in aanmerking vir 'n grimeringsvergadering nie, maar kan vra om 'n ander geleentheid ten volle by te woon. Om toestemming te vra om vir 'n bykomende opleidingsgeleentheid te registreer, moet leeringers binne 30 dae na 'n gemiste geleentheid aan die {{'[Instructor-opleidingspan] (mailto:{}) '.format (instructor_training_email)}} 'n e-pos stuur.
 
-When re-taking a training, trainees who miss more than two hours may be marked absent, even when they have attended part of a prior event. Multiple partial trainings may not be used to complete the training requirement.
+Wanneer hulle weer 'n opleiding neem, kan leeringers wat meer as twee uur mis, afwesig gemerk word, selfs al het hulle 'n deel van 'n vorige geleentheid bygewoon het. Verskeie gedeeltelike opleidings mag nie gebruik word om die opleidingsvereiste te voltooi nie.
 
-#### Ineligibility for Makeup Opportunities
+#### Ongeskiktheid vir make-up geleenthede
 
-Trainees who miss an event in full without cancelling within seven days (no-show) or who miss part of an event but do not request a makeup opportunity within seven days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} to be advised on their options for re-admission.
+Leeringe wat 'n geleentheid volledig misloop sonder om binne sewe dae te kanselleer (geen vertoning nie) of wat 'n deel van 'n geleentheid misloop, maar binne sewe dae nie 'n make-up geleentheid aanvra nie, kom nie in aanmerking om vir 'n nuwe opleidingsgeleentheid te registreer met dieselfde registrasiekode nie. Leeringe wat belangstel om opleiding te voltooi, kan die {{'[Instruktoropleidingspan] (mailto:{}) '.format (instructor_training_email)}} kontak om aangeraai te word oor hul opsies vir hertoelating.
 
-### Checkout Extensions Policy
+### Betaaluitbreidingsbeleid
 
-Trainees are asked to complete checkout within 90 days of attending an Instructor Training event. Having a deadline is necessary to support busy people in prioritising a goal we all care about. However, it is sometimes necessary for trainees to postpone completing checkout.
+Leeringers word gevra om die afhandeling binne 90 dae na bywoonheid van 'n Instruktoropleidingsgeleentheid te voltooi. Om 'n sperdatum te hê, is nodig om besige mense te ondersteun in die prioriteit van 'n doelwit waarvoor ons almal omgee. Dit is egter soms nodig vir leeringers om die voltooiing van die afhandeling uit te stel.
 
-Trainees who are unable to complete checkout within the 90-day deadline should contact us at {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to explore opportunities to re-take the training.
+Leeringe wat nie die afhandeling binne die sperdatum van 90 dae kan voltooi nie, moet ons kontak by {{'[{}] (mailto:{}) '.format (instructor_training_email, instructor_training_email)}} om 'n uitbreiding aan te vra. Verlengings kan toegestaan word tot een jaar na die afhandelsperdatum.  Na een jaar kan u {{'[{}] (mailto:{}) '.format (instructor_training_email, instructor_training_email)}} kontak om geleenthede te ondersoek om die opleiding weer te neem.
 
-## Offboarding
+## Afboording
 
-At this time, we do not have a formal offboarding process for Instructors. Once you become an Instructor, your
-profile remains active in our database, and you can log in at any time to access it.
+Op die oomblik het ons nie 'n formele afboordproses vir instrukteurs nie. Sodra jy 'n instrukteur geword het, bly jou
+-profiel aktief in ons databasis, en jy kan te eniger tyd aanmeld om toegang daartoe te verkry.
 
-If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at
-{{'[Workshops](mailto:{})'.format(workshops_email)}} and let us know you would like to unsubscribe from the Instructor Teaching Opportunities list.
+As u nie meer belangstel om e-posse oor komende onderriggeleenthede te ontvang nie, stuur ons asseblief e-pos by
+{{'[Werkswinkels] (mailto:{}) '.format (workshops_email)}} en laat weet ons dat u wil afteken van die lys vir instruktoronderriggeleenthede.
 
-## Communication and Collaboration Spaces
+## Kommunikasie- en samewerkings
 
-### Instructor Meetings
+### Instrukteur Vergaderings
 
-Join the Workshops and Instruction Team every other month on the second Tuesday
-at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
-updates and tips, learn from community members, and enjoy networking opportunities. Please
-sign up on the {{'[Instructor Meetings Etherpad]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}.
+Sluit elke tweede maand by die werkswinkels- en instruksiespan aan op die tweede Dinsdag
+om 15:00 en 21:00 UTC. Tydens vergaderings sal ons terugvoer van instrukteurs versamel,
+-opdaterings en wenke deel, leer van gemeenskapslede en netwerkgeleenthede geniet. Teken asseblief
+aan op die {{'[Instrukteur Meetings Etherpad] ({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D) '.format (etherpad)}}.
 
-### Upcoming Workshops
+### Komende werkswinkels
 
-If you are a {{"[Carpentries Certified Instructor]({}/instructors/)".format(carpentries_website)}} and would like to view teaching
-opportunities that need Instructors, please log in to your {{'[AMY profile]({})'.format(amy_link)}}
-for a list of upcoming {{"[Centrally-Organised]({}/workshops/host-workshop/)".format(carpentries_website)}} workshops that are open for recruitment.
+As jy 'n {{"[Carpentries Certified Instructor] ({}/instructors/)” .format (carpentries_website)}} is en wil sien onderrig
+geleenthede wat instrukteurs benodig, meld asseblief aan by jou {{'[AMY profiel] ({}) '.format (amy_link)}}
+vir 'n lys van komende {{"[Centrally-Organized] ({}/workshops/host-workshop/)” .format (carpentries_website))}} werkswinkels wat oop is vir werwing.
 
-### Community Calendar
+### Gemeenskapskalender
 
-Once scheduled, all {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}} (i.e
-pre- and post workshop discussions, Themed Discussions and Carpentries
-Conversations) and {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}} are listed
-on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can
-add relevant events to your personal calendar from there by clicking on
-the event you would like to attend.
+Sodra geskeduleer is alle {{'[Community Sessions] ({}/community-discussions) '.format (etherpad)}} (dws
+voor- en na werkswinkel besprekings, temasprekings en Carpentries
+Conversals) en {{' [Teaching Demo] ({}/teaching-demos) '.format (etherpad)}} gelys
+op ons {{'[Gemeenskapkalender] ({}/community/events/) '.format (carpentries_website)}}. U kan
+van daar vanaf relevante geleenthede by u persoonlike kalender voeg deur op
+te klik die geleentheid wat u wil bywoon.
 
 ### Etherpad
 
-The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
+Die Carpentries gebruik [Etherpad] (/resources/communications/etherpads.md) as 'n samewerkende notuingsinstrument tydens werkswinkels, opleiding en ander Carpentries-verwante geleenthede. Dikwels word Etherpad ook gebruik as 'n metode om aan te meld vir geleenthede. Hieronder is 'n lys van Etherpads wat relevant is om as instrukteur te dien.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
-- {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}}: A list of our Community Discussions (including Welcome sessions) and how to sign up to attend.
-- {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}}: Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
-- {{'[Instructor Meetings]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}: A list of our Instructor Meetings pads in descending order.
+- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: 'n Lys van The Carpentries se mees gebruikte Etherpads en ander hulpbronne.
+- {{'[Gemeenskapssessies] ({}/community-discussions) '.format (etherpad)}}: 'n Lys van ons gemeenskapsbesprekings (insluitend welkomsessies) en hoe om aan te meld om by te woon.
+- {{'[Teaching Demo] ({}/teaching-demos) '.format (etherpad)}}: Inligting oor [Onderrigdemonstrasies] (https://carpentries.github.io/instructor-training/checkout.html#demonstration), insluitend komende datums en hoe om te registreer.
+- {{'[Instrukteur Vergaderings] ({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D) '.format (etherpad)}}: 'n Lys van ons Instruktorvergaderingsblokkies in dalende volgorde.
 
 ### GitHub
 
-- [Glosario](https://github.com/carpentries/glosario): A multilingual
-  glossary for computing and data science terms
-- Workshop
-  Template: Step-by-step guide to creating the workshop website
+- [Glosario] (https://github.com/carpentries/glosario): 'n Veeltalige
+  woordelys vir rekenaar- en datawetenskapterme
+- [Werkswinkel
+  sjabloon] (https://github.com/carpentries/workshop-template): Stap-vir-stap gids vir die skep van die werkswinkel webwerf
 
-### Slack
+### Slap
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} To follow conversations
-relevant to the Instructor role, please consider joining the following channels:
+{{'[Sluit aan by die Carpentries Slack workspace] ({}) '.format (slack_invite)}} Om gesprekke
+wat relevant is vir die Instrukteurrol te volg, oorweeg asseblief om by die volgende kanale aan te sluit:
 
-- The Carpentries General Channel
-- The Carpentries Instructor Channel
+- Die algemene kanaal van die Carpentries
+- Die Carpentries-instrukteerkanaal
 
-If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+As jy nuut is by Slack, kyk asseblief na ons {{"[Slack Guide] ({})” .format (slack_guide)}}.
 
-### TopicBox
+### Onderwerpaksie
 
-You can access The Carpentries mailing lists from
-[TopicBox](https://carpentries.topicbox.com/latest). Below are
-the lists relevant to the activities and programs covered by the Instructor handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+U kan toegang tot The Carpentries -poslyste verkry vanaf
+[TopicBox] (https://carpentries.topicbox.com/latest). Hieronder is
+die lyste wat relevant is vir die aktiwiteite en programme wat deur die instruktorhandboek gedek word. As jy nuut is by Topicbox, kyk asseblief na ons {{"[Topicbox Guide] ({})” .format (topicbox_guide)}}.
 
-- discuss \|
-  Topicbox
-- instructors \|
-  Topicbox
+- [bespreek\ |
+  Topicbox] (https://carpentries.topicbox.com/groups/discuss)
+- [instrukteurs\ |
+  Topicbox] (https://carpentries.topicbox.com/groups/instructors)
 
-To join one or more Carpentries listservs, you will need to create a
-login on the site. Once you
-have created your login, you can scroll through the list of groups and click
-"Join the Conversation" (for open mailing) or "Request to Join" (for
-the mailing lists that require administrator approval).
+Om by een of meer Carpentries-lystervs aan te sluit, moet u ['n
+-aanmelding op die webwerf skep] (https://carpentries.topicbox.com/latest). Sodra u
+u aanmelding geskep het, kan u deur die lys van groepe blaai en klik op
+“Sluit aan by die gesprek” (vir oop pos) of “Versoek om aan te sluit” (vir
+die poslyste wat administrateur goedkeuring benodig).
 
-## Step-by-Step Guides
+## Stap-vir-stap
 
-### Planning & Organising a workshop
+### Beplanning en organisering van 'n werkswinkel
 
-1. Decide on the order of the lessons and who will teach which modules.
-2. Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). _Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email_
-3. Create a collaborative document for the workshop (e.g. an Etherpad).
-4. Assist the host in recruiting helpers if possible.
-5. Assist the host in ensuring the workshop location is accessible.
-6. Share emergency contact information with the host in case of last-minute changes.
-7. Practice teaching the material.
-8. Remind the host of the necessary equipment.
-9. Join a community discussion.
-10. Confirm criteria for reimbursement (per diem or save receipts).
+1. Besluit oor die volgorde van die lesse en wie watter modules sal leer.
+2. Stel die werkswinkelwebwerf op met behulp van die Carpentries-sjabloon en stuur dit aan die werkswinkels- en instruksiespan deur 'n [Self-organiseerde werkswinkelvorm] (https://amy.carpentries.org/forms/self-organised/) in te dien. Gedetailleerde instruksies is in die README van die [werkswinkel webwerf sjabloon repo] (https://github.com/carpentries/workshop-template). _Let wel: As u 'n sentraal-georganiseerde werkswinkel onderrig, deel u die webwerf direk met die werkswinkels en instruksiespan per e-pos_
+3. Skep 'n samewerkingsdokument vir die werkswinkel (bv. 'n Etherpad).
+4. Help die gasheer om helpers te werf indien moontlik.
+5. Help die gasheer om te verseker dat die werkswinkelligging toeganklik is.
+6. Deel noodkontakinligting met die gasheer in geval van veranderinge op die laaste oomblik.
+7. Oefen om die materiaal te leer.
+8. Herinner die gasheer aan die nodige toerusting.
+9. Sluit aan by 'n gemeenskapsbespreking.
+10. Bevestig kriteria vir terugbetaling (dagdag of stoor kwitansies).
 
-### Setting Up a Workshop Website
+### Die opstel van 'n werkswinkelwebwerf
 
-For instructions on setting up a website for a workshop, please visit the
-workshop template home
-page.
+Vir instruksies oor die opstel van 'n webwerf vir 'n werkswinkel, besoek asseblief die
+[werkswinkel sjabloon tuisblad
+] (https://github.com/carpentries/workshop-template#readme).
 
-Self-Organised Workshops
-Checklist
-is a guide to help Instructors/Workshop Hosts teach Self-Organised
-workshops. The checklist provides a high-level overview of all the steps needed
-to successfully coordinate a Carpentries workshop from beginning to end.
+[Selfgeorganiseerde werkswinkels
+Kontrolelys] (https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit)
+is 'n gids om instruktors/werkswinkelgashere te help om selfgeorganiseerde
+werkswinkels te onderrig. Die kontrolelys bied 'n hoëvlakoorsig van al die stappe wat nodig is
+om 'n Carpentries-werkswinkel van begin tot einde suksesvol te koördineer.
 
-### Software Installation
+### Sagteware installasie
 
-Installing software on laptops has been made easier over the years,
-but it can still be a huge challenge at the start of a workshop. Below
-are suggestions for ensuring the process goes as smoothly as possible.
+Die installering van sagteware op skootrekenaars is deur die jare makliker gemaak,
+maar dit kan steeds 'n groot uitdaging wees aan die begin van 'n werkswinkel. Hieronder
+is voorstelle om te verseker dat die proses so glad as moontlik verloop.
 
-**What you can do in advance:**
+\*\*Wat jy vooraf kan doen: \*\*
 
-- Plan for installation help at the start of both workshop days. Put
-  it on the schedule and make sure it is clear that people can and
-  should show up during that time.
-- Email the participants a week in advance and the day before to
-  remind them to install the needed software before the workshops.
-- If possible, recruit helpers who use Linux, Mac, and Windows
-  operating systems.
-- If you/helpers/instructors have time, test the install instructions
-  on a fresh user account on your computer.
-- If you are teaching for an organisation where participants are
-  bringing work laptops and they do not have administrative access
-  (common in government organisations) -- ask about it. Try to plan
-  ahead either with their central IT organisation or with the
-  "emergency exits" listed below.
-- Will you have decent Wi-Fi? Many people installing software at
-  once can hinder a poor internet connection. If this is the case, prep
-  a few flash drives with the relevant installers.
-- Attend a Community
-  Discussion,
-  where you can talk to other Instructors to ask questions and get
-  feedback to help you prepare to teach.
+- Beplan vir installasiehulp aan die begin van beide werkswinkeldae. Sit
+  dit op die skedule en maak seker dat dit duidelik is dat mense kan en
+  gedurende daardie tyd moet verskyn.
+- E-pos die deelnemers 'n week vooraf en die dag tevore na
+  herinner hulle om die nodige sagteware voor die werkswinkels te installeer.
+- Werf indien moontlik helpers wat Linux-, Mac- en Windows
+  -bedryfstelsels gebruik.
+- As jul/helpers/instrukteurs tyd het, toets die installasie-instruksies
+  op 'n nuwe gebruikersrekening op u rekenaar.
+- As u onderrig vir 'n organisasie waar deelnemers
+  werkskootrekenaars bring en hulle het nie administratiewe toegang
+  nie (algemeen in regeringsorganisasies) - vra daaroor. Probeer om
+  vooruit te beplan óf met hul sentrale IT-organisasie óf met die
+  “nooduitgange” wat hieronder gelys word.
+- Sal jy ordentlike Wi-Fi hê? Baie mense wat sagteware op
+  een keer installeer, kan 'n swak internetverbinding belemmer. As dit die geval is, berei
+  'n paar flash drives voor met die betrokke installeerders.
+- Woon 'n [Gemeenskap
+  -bespreking] (https://pad.carpentries.org/community-discussions),
+  by waar u met ander instrukteurs kan praat om vrae te stel en
+  -terugvoer te kry om u te help voorberei om te onderrig.
 
-**On the day of:**
+\*\*Op die dag van: \*\*
 
-- Refer to our Wiki page for solutions to common
-  problems.
-- If someone has come in early and the software still cannot be
-  installed by the time the workshop starts, try one of the "emergency
-  exits" below or keep working with them one-on-one until they are
-  able to start.
-- If someone comes in late or is having such trouble with an installation
-  that they cannot start, have them watch (and maybe work with a
-  neighbour) until the first break, when you can work
-  on installation issues together.
+- Verwys na ons [Wiki-bladsy vir oplossings vir algemene
+  -probleme] (https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions).
+- As iemand vroeg ingekom het en die sagteware nog nie
+  geïnstalleer kan word teen die tyd dat die werkswinkel begin nie, probeer een van die “nood-
+  -uitgange” hieronder of hou aan om een-tot-een met hulle te werk totdat hulle
+  kan begin.
+- As iemand laat inkom of so probleme ondervind met 'n installasie
+  dat hy nie kan begin nie, laat hulle kyk (en dalk saam met 'n
+  -buurman werk) tot die eerste pouse, wanneer jy
+  saam kan werk aan installasieprobleme.
 
-**"Emergency Exits"**
+**"Nooduitgange"**
 
-If there is no way that you will be able to install the
-software locally on someone's computer, consider using the following
-solutions:
+As daar geen manier is dat u die
+-sagteware plaaslik op iemand se rekenaar kan installeer nie, oorweeg dit om die [volgende
+oplossings] (https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) te gebruik:
 
-Find solutions on our blog post, Scaffolding Installation for Online
-Workshops
+Vind oplossings op ons blogpos, [steierinstallasie vir aanlyn
+werkswinkels] (https://carpentries.org/blog/2020/04/scaffolds/)
 
-- Pre-configured "scaffolds" for RStudio
-  Cloud
-  and My
-  Binder
-  (hosting Jupyter and OpenRefine).
-- [Microsoft Azure](https://notebooks.azure.com/) gives you a cloud
-  based Jupyter notebook with many languages and platforms installed.
-  It also includes a shell terminal with git.
-- If your institution's library does laptop rentals, rent one to two laptops
-  and set them up with the software before the workshop and keep them
-  on hand as loaners during the workshop.
+- Vooraf gekonfigureerde “steiers” vir [RStudio
+  Cloud] (https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#rstudio-cloud)
+  en [My
+  Binder] (https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#my-binder)
+  (gasheer Jupyter en OpenRefine).
+- [Microsoft Azure] (https://notebooks.azure.com/) gee jou 'n wolkgebaseerde Jupyter-notaboek met baie tale en platforms geïnstalleer.```
+  Dit bevat ook 'n skulpterminaal met git.
+  ```
+- As jou instelling se biblioteek skootrekenaars huur, huur een tot twee skootrekenaars
+  en stel dit voor die werkswinkel met die sagteware op en hou hulle
+  byderhand as leners tydens die werkswinkel.
 
-### About the Code of Conduct
+### Oor die gedragskode
 
-The {{'[Code of Conduct]({})'.format(code_of_conduct)}}
-is a key tool for fostering and upholding an inclusive, respectful
-learning environment. But for people who are new to the idea of a Code
-of Conduct, it can be a little awkward to talk about. Here is a sample
-of how you might introduce the Code of Conduct -- please do not use this
-verbatim, but adapt it to your own audience and style of introduction:
+Die {{'[[Gedragskode] ({}) '.format (code_of_conducte)}}
+is 'n sleutelhulpmiddel om 'n inklusiewe, respekvolle
+-leeromgewing te bevorder en te handhaaf. Maar vir mense wat nuut is met die idee van 'n gedragskode
+, kan dit 'n bietjie ongemaklik wees om oor te praat. Hier is 'n voorbeeld
+van hoe u die gedragskode kan bekendstel - gebruik asseblief nie hierdie
+woordelik nie, maar pas dit aan by u eie gehoor en styl van inleiding:
 
-The Carpentries is a community-led project. We value the involvement of
-everyone in the community. We are committed to creating a friendly and
-respectful place for learning, teaching and contributing. All
-participants in our events and communications are expected to show
-respect and courtesy to others.
+The Carpentries is 'n gemeenskapsgeleide projek. Ons waardeer die betrokkenheid van
+almal in die gemeenskap. Ons is daartoe verbind om 'n vriendelike en
+respekvolle plek te skep vir leer, onderrig en bydrae. Daar word van alle
+-deelnemers aan ons geleenthede en kommunikasie verwag om
+respek en hoof aan ander te toon.
 
-What kinds of behaviours are expected?
+Watter soort gedrag word verwag?
 
-All interactions should be professional regardless of platform: either
-online or in-person. In order to foster a positive and professional
-learning environment we encourage the following kinds of behaviours in
-all Carpentries events and platforms:
+Alle interaksies moet professioneel wees, ongeag die platform: óf
+aanlyn of persoonlik. Om 'n positiewe en professionele
+-leeromgewing te bevorder, moedig ons die volgende soorte gedrag aan in
+alle Carpentries -geleenthede en platforms:
 
-- Use welcoming and inclusive language
-- Be respectful of different viewpoints and experiences
-- Gracefully accept constructive criticism
-- Focus on what is best for the community
-- Show courtesy and respect towards other community members
+- Gebruik verwelkomende en inklusiewe taal
+- Wees respekvol vir verskillende standpunte en ervarings
+- Aanvaar grasieus konstruktiewe kritiek
+- Fokus op wat die beste vir die gemeenskap is
+- Toon hoeflikheid en respek teenoor ander gemeenskapslede
 
-Examples of unacceptable behaviour by participants at any Carpentries
-event/platform can be found in the {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
-We Instructors take the Code of Conduct very seriously, and we have a
-process for dealing with violations and complaints. Read the {{'[Reporting Guidelines section]({})'.format(code_of_conduct)}}
-for the details on how to handle Code of Conduct violations.
+Voorbeelde van onaanvaarbare gedrag deur deelnemers aan enige Carpentries
+-geleenthe/platform kan gevind word in die {{'[Gedragskode] ({}) '.format (code_of_conducte)}}.
+Ons instrukteurs neem die gedragskode baie ernstig op, en ons het 'n
+-proses om oortredings en klagtes te hanteer. Lees die {{'[Verslaggewingsriglyne afdeling] ({}) '.format (code_of_conducte)}}
+vir die besonderhede oor hoe om gedragskodeoortredings te hanteer.
 
-### Using Exercises
+### Gebruik oefeninge
 
-When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
+As u 'n les leer, is dit 'n baie goeie idee om vooraf die les deur te gaan en te kies watter oefeninge u wil hê deelnemers moet probeer.
 
-Once you have selected exercises, there are several ways to display them to the participants during the workshop. Choose from the options below, depending on the tool you are using or
-the exercise you selected.
+Sodra u oefeninge gekies het, is daar verskillende maniere om dit tydens die werkswinkel aan die deelnemers te vertoon. Kies uit die opsies hieronder, afhangende van die instrument wat u gebruik of
+die oefening wat u gekies het.
 
-- From the lesson website (zoomed in).
-  - This is the least effort, but requires having the right lesson page open + finding the right exercise.
-- Make slides.
-  - More effort, but easy to flip forward to the next one.
-  - Have a document of some kind with all the exercises in it.
-  - More effort, but exercises are all in one place.
-- Put exercises in the Etherpad.
-  - If you do this in advance, pretty low-effort.
-  - Can also use this with any of the other strategies so people can
-    find the exercise in two places.
-- Online tools, like [Socrative](https://www.socrative.com/).
-  - Requires time to set up, but is great for multiple choice and T/F questions and promotes participation.
+- Vanaf die leswebwerf (ingesoem).
+  - Dit is die minste moeite, maar vereis om die regte lesbladsy oop te hê + om die regte oefening te vind.
+- Maak skyfies.
+  - Meer moeite, maar maklik om vorentoe na die volgende een te draai.
+  - Hou 'n dokument van een of ander aard met al die oefeninge daarin.
+  - Meer moeite, maar oefeninge is alles op een plek.
+- Plaas oefeninge in die Etherpad.
+  - As u dit vooraf doen, redelik min moeite.
+  - Kan dit ook met enige van die ander strategieë gebruik sodat mense
+    die oefening op twee plekke kan vind.
+- Aanlyn gereedskap, soos [Socratief] (https://www.socrative.com/).
+  - Vereis tyd om op te stel, maar is ideaal vir meerkeuse- en T/F-vrae en bevorder deelname.
 
-In all of the examples, you will have to switch from the tool you are
-using for live coding to however you are showing the exercises. For
-something like R or Python, one way to reduce the amount of switching is
-to put all the exercises in an R script / Python notebook and have that
-open alongside your main working script/notebook so that it is
-relatively easy to switch back and forth.
+In al die voorbeelde moet u oorskakel van die instrument wat u
+gebruik vir lewendige kodering na hoe u die oefeninge wys. Vir
+iets soos R of Python, is een manier om die hoeveelheid skakeling te verminder
+om al die oefeninge in 'n R-skrip/Python-notaboek te plaas en daardie
+langs u hoofwerkende skript/notaboek oop te laat sodat dit
+relatief maklik is om heen en weer te skakel.
 
-### General Tips
+### Algemene wenke
 
-**Introductions**
+**Inleidings**
 
-The introduction is one of the most important pieces of the workshop! It
-sets the tone for the day. The [instructor training material](https://carpentries.github.io/instructor-training/23-introductions) has some suggestions of how to build a good workshop introduction.
+Die inleiding is een van die belangrikste stukke van die werkswinkel! Dit
+stel die toon vir die dag. Die [instrukteur opleidingsmateriaal] (https://carpentries.github.io/instructor-training/23-introductions) bevat 'n paar voorstelle oor hoe om 'n goeie werkswinkelinleiding te bou.
 
-**Accessibility Check-In**
+**Toeganklikheidsinskrywing**
 
-The Carpentries Toolkit of IDEAS \|
-Zenodo
+[Die Carpentries Toolkit van IDEES\ |
+Zenodo] (https://zenodo.org/record/7041935#.Y4on_svMJD_)
 
-**Varying Skill Level**
+**Veranderlike vaardigheidsvlak**
 
-Carpentries workshops frequently include many people with widely varying
-skills and experiences. The end of The Carpentries Instructor Training
-on Carpentries teaching
-practices
-has some strategies when working with a diverse classroom.
+Carpentries werkswinkels sluit gereeld baie mense in met baie wisselende
+-vaardighede en ervarings. Die einde van The Carpentries Instructor Training
+oor [Carpentries onderrig
+praktyke] (https://carpentries.github.io/instructor-training/24-practices)
+het 'n paar strategieë wanneer u met 'n uiteenlopende klaskamer werk.
 
 ## FAQ
 
-List of frequently asked
-questions relevant to the
-content in the handbook.
+[Lys van gereelde
+vrae] (https://carpentries.org/workshop_faq/) relevant vir die
+-inhoud in die handboek.
 
-### Pre-workshop
+### Voorwerkswinkel
 
-- **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
-  - There are three things that must happen in order for a workshop to
-    appear on The Carpentries webpage. You must complete the
-    [Workshop Request Form](https://amy.carpentries.org/forms/self-organised/), the workshop website
-    must include the venue, and at least one instructor must be
-    identified. If the instructors change, we will get notified and
-    will be able to make the update.
-- **If I am teaching a Data Carpentry Genomics workshop, how many AWS
-  Instances will be provided and when will we receive the AWS
-  Instances?**
-  - Approximately one week before the workshop, the Workshops
-    and Instruction Team (WIT) will provide you with instances for
-    each Instructor and helper for testing and practice. On the day before
-    the workshop, WIT will provide you with the remaining instances. All AWS Instances
-    will be terminated the day after the workshop.
+- \*\* Waarom is my werkswinkel nie op die [carpentries.org] (http://carpentries.org) webblad gelys nie? \*\*
+  - Daar is drie dinge wat moet gebeur sodat 'n werkswinkel
+    op The Carpentries -webblad kan verskyn. U moet die
+    [Werkswinkel Versoekvorm] (https://amy.carpentries.org/forms/self-organised/) voltooi, die werkswinkelwebwerf
+    moet die lokaal insluit, en ten minste een instrukteur moet
+    geïdentifiseer word. As die instrukteurs verander, sal ons in kennis gestel word en
+    sal die opdatering kan maak.
+- \*\* As ek 'n Data Carpment Genomics -werkswinkel onderrig, hoeveel AWS
+  -instansies sal verskaf word en wanneer sal ons die AWS
+  -instansies ontvang? \*\*
+  - Ongeveer een week voor die werkswinkel sal die Werkswinkels
+    en Instruksiespan (WIT) jou voorsien van gevalle vir
+    elke instrukteur en helper vir toetsing en oefening. Op die dag voor
+    die werkswinkel sal WIT u die oorblywende gevalle voorsien. Alle AWS Instansies
+    sal die dag na die werkswinkel beëindig word.
 
-    The number of instances received are dependant upon the number requested by the host,
-    per the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.md).
-- **What is a slug? And how should I use it to name my workshop
-  website?**
-  - A slug is a unique identifier used to name the GitHub repository when creating
-    your Carpentries workshop website.
-    The slug is used by The Carpentries to identify your workshop in
-    our database and workflows. Each workshop will have its own unique
-    slug. The slug should use the following format:
-    YEAR-MM-DD-SITE-(online)
-  - YEAR being replaced by the four-digit year (2020)
-  - MM being replaced by the two-digit month (03)
-  - DD being replaced by the two digits representing the first day
-    of the workshop (23)
-  - SITE being replaced by the organisation or location name
+    Die aantal gevalle wat ontvang word, hang af van die nommer wat deur die gasheer aangevra word,
+    volgens die [Genomics Workshops-ooreenkomsvoorwaardes] (/resources/workshops/genomics_policy.md).
+- \*\*Wat is 'n slak? En hoe moet ek dit gebruik om my werkswinkel
+  -webwerf te noem? \*\*
+  - 'N Slak is 'n unieke identifiseerder wat gebruik word om die GitHub-bewaarplek te noem wanneer u
+    u Carpentries-werkswinkel webwerf skep.
+    Die slak word deur The Carpentries gebruik om u werkswinkel in
+    ons databasis en werkstrome te identifiseer. Elke werkswinkel sal sy eie unieke
+    -slak hê. Die slak moet die volgende formaat gebruik:
+    YEAR-MM-DD-SITE- (aanlyn)
+  - JAAR word vervang deur die viersyferjaar (2020)
+  - MM word vervang deur die tweesyfermaand (03)
+  - DD word vervang deur die twee syfers wat die eerste dag
+    van die werkswinkel verteenwoordig (23)
+  - WEBWERF word vervang deur die organisasie of liggingnaam
     (stanford)
-  - If the workshop will take place online, please add online
-    (online)
-  - This slug format is a part of a validation check in our system,
-    including the dashes separating these variables.
-- **Does the instructor need to be listed as the contact person on the
-  workshop webpage or a member of the host institution?**
-  - The person listed should be knowledgeable about the workshop so they
-    can answer questions regarding the workshop such as attendance policy,
-    waitlist information, location, installation, etc. You can have multiple
-    persons listed as the contact person if needed.
-- **Where do I find the pre/post survey for the learners to use?**
-  - The learner-facing survey links are automatically generated on
-    the workshop's webpage. They will be located directly
-    above and within the schedule. You are welcome to share the
-    survey links (located on the workshop webpage) with your
-    attendees whenever the time is right for your workshop.
-- **How do I access the survey results?**
-  - If you are planning a workshop please notify the Workshop
-    Administration Team of your planned workshop using the workshop
-    request form. The
-    Workshop Administration Team will send the link to view results
-    of the survey one to two weeks prior to the workshop. If there are more
-    than 10 survey responses, you will have the option to download
-    the survey data, using the 'Download CSV' link at the bottom
-    right of the survey results page.
-- **Who can be a Helper and what do they contribute to the workshop?**
-  - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+  - As die werkswinkel aanlyn plaasvind, voeg asseblief aanlyn by
+    (aanlyn)
+  - Hierdie slakformaat is deel van 'n valideringskontrole in ons stelsel,
+    insluitend die strepies wat hierdie veranderlikes skei.
+- \*\* Moet die instrukteur gelys word as die kontakpersoon op die
+  werkswinkel webblad of 'n lid van die gasheerinstelling? \*\*
+  - Die persoon wat gelys word, moet kundig wees oor die werkswinkel sodat hulle
+    vrae rakende die werkswinkel kan beantwoord, soos bywoningsbeleid,
+    waglysinligting, ligging, installasie, ens. U kan verskeie
+    -persone as die kontakpersoon laat gelys indien nodig.
+- \*\* Waar vind ek die voor/na-opname wat die leerders kan gebruik? \*\*
+  - Die ondernemingskakels word outomaties op
+    die werkswinkel se webblad gegenereer. Hulle sal direk
+    bo en binne die skedule geleë wees. U is welkom om die
+    -opname-skakels (geleë op die werkswinkel webblad) met u
+    -deelnemers te deel wanneer die tyd reg is vir u werkswinkel.
+- \*\*Hoe kry ek toegang tot die opname-resultate? \*\*
+  - As u 'n werkswinkel beplan, stel asseblief die werkswinkel
+    -administrasiespan in kennis van u beplande werkswinkel met behulp van die [werkswinkel
+    -versoekvorm] (https://amy.carpentries.org/forms/workshop/). Die
+    Workshop Administration Team sal die skakel stuur om resultate
+    van die opname een tot twee weke voor die werkswinkel te sien. As daar meer
+    as 10 opname-antwoorde is, sal u die opsie hê om
+    die opnamedata af te laai, met behulp van die skakel 'Laai CSV' aan die onderkant
+    regs van die opname-resultate bladsy.
+- \*\* Wie kan 'n Helper wees en wat dra hulle by tot die werkswinkel? \*\*
+  - [Helpers] (/resources/workshops/checklists.md#helper-checklist) word dikwels uit die plaaslike gemeenskap op die gasheerterrein gewerf om Carpentries-werkswinkels te ondersteun. Helpers ondersteun leerders een-tot-een as hulle vassit om sagteware te installeer, 'n sekere reël kode te verstaan of enige ander dele van die leerproses.
 
-### Workshop Challenges
+### Werkswinkel uitdagings
 
-- **What should I do if I experience internet connectivity issues during a workshop?**
-  - Assign backup Instructors (e.g., newly certified Instructors, helpers who are comfortable filling in) to step in if technical issues arise.
-  - Never teach alone.
-- **How can I keep learners engaged, and what if they miss a session?**
-  - Use interactive methods (e.g., random call-outs, polls, Zoom check-ins).
-  - Encourage learners to use the materials listed on the workshop website.
-  - If you are able, offer office hours to help the learners 1:1 or in small groups.
-- **How can I handle time zone differences or punctuality challenges?**
-  - Communicate start times in advance.
-  - Begin sessions with informal discussions or a review to accommodate latecomers without disrupting key content.
-  - When scheduling a time to meet with other Instructors and the host, consider using tools such as [Doodle](https://doodle.com/en/) or [WhenIsGood](https://whenisgood.net/). These applications are free and they will allow each person to know the proposed meeting time(s) in their designated time zone.
-  - The [time and date tool](https://www.timeanddate.com/) is a great way to check the time of events in a region that is different from your own. Use the      World Clock search bar to search the time in any city or place.
-- **What can I do if learners have trouble retaining information or keep asking the same questions?**
-  - Use recaps to reinforce key points.
-  - Encourage learners to review lesson materials as listed on the workshop website.
-  - Encourage learners to continue practicing on their own.
+- \*\* Wat moet ek doen as ek probleme met internetverbinding ondervind tydens 'n werkswinkel? \*\*
+  - Ken rugsteuninstrukteurs toe (bv. nuut gesertifiseerde instrukteurs, helpers wat gemaklik invul) om in te tree as tegniese probleme ontstaan.
+  - Moet nooit alleen leer nie.
+- \*\*Hoe kan ek leerders betrokke hou, en wat as hulle 'n sessie mis? \*\*
+  - Gebruik interaktiewe metodes (bv. ewekansige uitroepe, peilings, Zoom-aanmeldinge).
+  - Moedig leerders aan om die materiaal wat op die werkswinkelwebwerf gelys word, te gebruik.
+  - As u in staat is, bied kantoorure aan om die leerders 1:1 of in klein groepe te help.
+- \*\* Hoe kan ek tydsone-verskille of stiptelikheidsuitdagings hanteer? \*\*
+  - Kommunikeer begintye vooraf.
+  - Begin sessies met informele besprekings of 'n resensie om laatkomers te akkommodeer sonder om sleutelinhoud te ontwrig.
+  - As u 'n tyd skeduleer om met ander instrukteurs en die gasheer te ontmoet, moet u dit oorweeg om gereedskap soos [Doodle] (https://doodle.com/en/) of [WhenIsGood] (https://whenisgood.net/) te gebruik. Hierdie aansoeke is gratis en dit sal elke persoon toelaat om die voorgestelde vergadertyd (s) in hul aangewese tydsone te ken.
+  - Die [tyd en datum instrument] (https://www.timeanddate.com/) is 'n goeie manier om die tyd van gebeure in 'n streek wat anders is van u eie na te gaan. Gebruik die World Clock -soekbalk om die tyd in enige stad of plek te soek.
+- \*\* Wat kan ek doen as leerders probleme ondervind om inligting te behou of aanhou om dieselfde vrae te vra? \*\*
+  - Gebruik opsommings om sleutelpunte te versterk.
+  - Moedig leerders aan om lesmateriaal te hersien soos op die werkswinkel webwerf gelys.
+  - Moedig leerders aan om aan te gaan oefen op hul eie.
 
-### Curricula
+### Kurrikulums
 
-- **If I am only teaching portions of the Carpentries curricula, do I
-  still need to register my workshop?**
-  - It is important that we know about workshops being publicised
-    because people often contact us to report that they will be
-    unable to attend a workshop or to ask questions and if we do not
-    know about planned workshops we can not provide support or share
-    information with instructors.
-  - If you are teaching only a portion of The Carpentries curricula or
-    if the workshop does not align with the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program, we
-    ask that you still {{'[register]({}/forms/workshop/)'.format(amy_link)}} your self-organised workshop and
-    select the "Mix & Match" option for the question "Which
-    Carpentries workshop are you teaching?". **This option is only
-    available for Self-Organised workshops. Centrally-organised
-    workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
+- \*\* As ek slegs gedeeltes van die Carpentries-kurrikulums onderrig, moet ek
+  nog my werkswinkel registreer? \*\*
+  - Dit is belangrik dat ons weet van werkswinkels wat
+    bekend gemaak word omdat mense ons dikwels kontak om aan te meld dat hulle
+    nie kan wees om 'n werkswinkel by te woon of vrae te stel nie, en as ons nie
+    weet van beplande werkswinkels kan ons nie ondersteuning bied of
+    inligting met instrukteurs deel nie.
+  - As u slegs 'n gedeelte van The Carpentries-kurrikulums onderrig of
+    as die werkswinkel nie ooreenstem met die {{"[Core Curricula] ({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)” .format (carpentries_website)}} van 'n lesprogram nie, vra ons
+    dat u steeds {{'[register] ({}/forms/workshop/) '.format (amy_link)}} u selfgeorganiseerde werkswinkel kies en
+    die opsie “Mix & Match” vir die vraag “Watter
+    Carpentries Werkswinkel leer jy?”. \*\* Hierdie opsie is slegs
+    beskikbaar vir selfgeorganiseerde werkswinkels. Sentrale georganiseerde
+    werkswinkels moet die {{"[Kernkurrikulums] ({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)” .format (carpentries_website)}} volg . \*\*
 
-### Self-Organised
+### Selfgeorganiseerde
 
-- **What is a Carpentries Self-Organised Workshop?**
-  - A Carpentries workshop that is organised and administered independently of The Carpentries
-    Workshops and Instruction Team (WIT). A Self-Organised workshop should be submitted using a
-    Self-Organised workshop form, and WIT
-    will enter it into The Carpentries database (AMY) and provide the following support:
+- \*\* Wat is 'n Carpentries selfgeorganiseerde werkswinkel? \*\*
+  - 'N Carpentries-werkswinkel wat onafhanklik van The Carpentries
+    Workshops and Instruction Team (WIT) georganiseer en bestuur word. 'N Selfgeorganiseerde werkswinkel moet ingedien word [met behulp van 'n
+    Self-Organiseerde werkswinkelvorm] (https://amy.carpentries.org/forms/self-organised/), en WIT
+    sal dit in die Carpentries-databasis (AMY) invoer en die volgende ondersteuning bied:
 
-    - Survey result links
-    - AWS instances for Genomics workshops. _Fees apply. Please refer to the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.md) for additional information._
-    - Advertisement of the workshop on the [Upcoming Carpentries Workshops](https://carpentries.org/upcoming_workshops/) page
-    - Credit in AMY for Instructors and Helpers teaching the workshop
+    - Opname-resultate skakels
+    - AWS-gevalle vir Genomics werkswinkels. \*Fooie is van toepassing. Verwys asseblief na die [Genomics Workshops Voorwaardes van ooreenkoms] (/resources/workshops/genomics_policy.md) vir bykomende inligting. \*
+    - Advertensie van die werkswinkel op die [Coming Carpentries Workshops] (https://carpentries.org/upcoming_workshops/) bladsy
+    - Krediet in AMY vir instrukteurs en helpers wat die werkswinkel onderrig
 
-- **What are the requirements for a Self-Organised Workshop?**
+- \*\* Wat is die vereistes vir 'n selfgeorganiseerde werkswinkel? \*\*
 
-  - Teaches one or more lessons from any of the three lesson programs (Software, Data, Library Carpentry), also called Mix-and-Match
+  - Leer een of meer lesse uit enige van die drie lesprogramme (sagteware, data, biblioteekstuurwerk), ook genaamd Mix-and-match
 
-  - Has at least one Carpentries certified Instructor teaching the workshop
+  - Het ten minste een Carpentries gesertifiseerde instrukteur wat die werkswinkel onderrig
 
-  - Uses a Carpentries webpage with a naming convention that follows the required slug format (found on the [Carpentries workshop template](https://github.com/carpentries/workshop-template))
+  - Gebruik 'n Carpentries-webblad met 'n naamkonvensie wat die vereiste slakformaat volg (gevind op die [Carpentries workshop sjabloon] (https://github.com/carpentries/workshop-template))
 
-  - [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment)
+  - [Gebruik die Carpentries -opnames vir evaluering] (https://carpentries.org/about-us/impact/#assessment)
 
-  - Abides by the {{'[Code of Conduct]({})'.format(code_of_conduct)}}
+  - Voldoen aan die {{'[Gedragskode] ({}) '.format (code_of_duct)}}
 
-- **What is not a Carpentries Self-Organised workshop (what will not be accepted)?**
+- \*\* Wat is nie 'n Carpentries Self-Organiseerde werkswinkel nie (wat sal nie aanvaar word nie)? \*\*
 
-  - A workshop that teaches material not from one of the three lesson programs (Software, Data, Library Carpentry). This includes workshops that teach Carpentries curricula in addition to non-Carpentries curricula.
-  - An incubator lesson (please submit incubator lessons on [The Carpentries Incubator page](https://carpentries-incubator.org/))
-  - A workshop that does not have a webpage created using the [Carpentries workshop template](https://github.com/carpentries/workshop-template) (if a webpage is submitted that does not follow the naming format, we will ask you to update it before we can enter it into our database)
-  - A workshop that does not have at least one Carpentries Certified Instructor teaching
+  - 'N Werkswinkel wat materiaal leer nie uit een van die drie lesprogramme nie (sagteware, data, biblioteekstuurwerk). Dit sluit werkswinkels in wat Carpentries-kurrikulums onderrig, benewens nie-Karpentries-kurrikulums.
+  - 'N Broeikas-les (dien asseblief broeikas-lesse in op [The Carpentries Incubator-bladsy] (https://carpentries-incubator.org/))
+  - 'N Werkswinkel wat nie 'n webblad het wat geskep is met behulp van die [Carpentries werkswinkel sjabloon] (https://github.com/carpentries/workshop-template) (as 'n webblad ingedien word wat nie die naamformaat volg nie, sal ons u vra om dit op te dateer voordat ons dit in ons databasis kan invoer)
+  - 'N Werkswinkel wat nie ten minste een Carpentries Certified Instructor onderrig het nie
 
-### Centrally-Organised
+### Sentraal georganiseerd
 
-- **What is a Centrally-Organised workshop?**
-  - A Centrally-Organised workshop is an integrative approach to planning a Carpentries event,
-    where the host organisation collaborates with the Carpentries Workshops and Instruction Team
-    (WIT) to coordinate. WIT lists Centrally-Organised workshops on the AMY recruiting page for
-    Carpentries certified Instructors to teach.
-    _Please visit our [host a workshop page](https://carpentries.org/workshops/host-workshop/#host-a-workshop)
-    to learn more about Centrally-Organised workshops._
+- \*\*Wat is 'n sentraal georganiseerde werkswinkel? \*\*
+  - 'N Sentraal-georganiseerde werkswinkel is 'n integrerende benadering tot die beplanning van 'n Carpentries-geleentheid,
+    waar die gasheerorganisasie saamwerk met die Carpentries Workshops and Instruction Team
+    (WIT) om te koördineer. WIT lys sentraal-georganiseerde werkswinkels op die AMY-werwingbladsy vir
+    Carpentries gesertifiseerde instrukteurs om te onderrig.* Besoek asseblief ons [bied 'n werkswinkel bladsy aan] (https://carpentries.org/workshops/host-workshop/#host-a-workshop)
+      om meer te wete te kom oor Sentraal-Georganiseerde werkswinkels. \*
 
-- **How do I sign up to teach a Centrally-Organised Workshop?**
-  - Once you have completed [Instructor training and the three checkout steps](https://carpentries.github.io/instructor-training/checkout.html),
-    you can [login to your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/) to view and sign up for Centrally-Organised workshops.
-  - Follow step-by-step instructions on how to sign up in the
-    [viewing teaching opportunities](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
-    section of our AMY Community Users Guide.
+- \*\*Hoe teken ek aan om 'n sentraal-georganiseerde werkswinkel aan te rig? \*\*
+  - Sodra u voltooi het [Instruktoropleiding en die drie afhandelstappe] (https://carpentries.github.io/instructor-training/checkout.html),
+    , kan u [aanmeld by jou AMY-profiel] (https://carpentries.github.io/amy/users_guide/community_index/) om Sentraal-Georganiseerde werkswinkels te sien en aan te meld.
+  - Volg stap-vir-stap-instruksies oor hoe om aan te meld in die afdeling
+    [besigtig vir onderriggeleenthede] (https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
+    van ons AMY Community Gebruikersgids.
 
-- **When will I be considered an Experienced Instructor?**
-  - After being an Instructor for three Carpentries workshops you
-    will be able to take the role of Experienced Instructor in any
-    Carpentries workshop.
+- \*\* Wanneer sal ek as 'n ervare instrukteur beskou word? \*\*
+  - Nadat u 'n instrukteur was vir drie Carpentries-werkswinkels, sal jy
+    die rol van ervare instrukteur in enige
+    Carpentries-werkswinkel kan neem.
 
-- **Are Instructors paid a stipend?**
-  - Instructors selected to teach workshops are volunteers and
-    are not paid for their service. To compensate for Instructor time we
-    require the Host to cover travel expenses.
+- \*\*Word instrukteurs 'n geloning betaal? \*\*
+  - Instrukteurs wat gekies is om werkswinkels te onderrig, is vrywilligers en
+    word nie betaal vir hul diens nie. Om te vergoed vir die instrukteur tyd, vereis ons
+    dat die gasheer reisuitgawes dek.
 
-- **As an instructor, will I still get credit for a workshop if the host canceled?**
-  - If you are scheduled to teach a Carpentries workshop and the
-    host cancels, you will still receive credit for the workshop. If
-    a workshop is scheduled and you have to resign from teaching,
-    you will not receive credit for the workshop.
+- \*\* As instrukteur, sal ek steeds krediet vir 'n werkswinkel kry as die gasheer gekanselleer het? \*\*
+  - As u geskeduleer is om 'n Carpentries-werkswinkel te onderrig en die
+    -gasheer kanselleer, sal u steeds krediet vir die werkswinkel ontvang. As
+    'n werkswinkel geskeduleer is en jy van onderrig moet bedank, sal jy nie krediet vir die werkswinkel ontvang nie.
 
-- **Will I be notified if a workshop is canceled or postponed?**
-  - Someone from the Workshops and Instruction Team will notify Instructors as soon as a
-    workshop has been canceled or postponed by the Host. Confirmed
-    Instructors for the original workshop dates will be given
-    priority selection when the new dates are confirmed.
+- \*\* Sal ek in kennis gestel word as 'n werkswinkel gekanselleer of uitgestel word? \*\*
+  - Iemand van die Werkswinkels en Instruksiepan sal instrukteurs in kennis stel sodra 'n
+    -werkswinkel deur die gasheer gekanselleer of uitgestel is. Bevestigde
+    -instrukteurs vir die oorspronklike werkswinkeldatums sal
+    prioriteitseleksie kry wanneer die nuwe datums bevestig word.
 
-#### Online workshop
+#### Aanlyn werkswinkel
 
-- **Will I be provided with a Zoom room to teach my online workshop?**
-  - If your institution has a videoconferencing platform available,
-    we recommend that you use that same platform for The Carpentries
-    workshop. This will reduce the time needed for workshop
-    organisers and learners to learn a new system. However, if you
-    do not have access to a video conferencing system, we will be
-    able to provide you with access to one of our Zoom rooms.
+- \*\* Sal ek 'n Zoom-kamer voorsien word om my aanlynwerkswinkel te leer? \*\*
+  - As u instelling 'n videokonferensie-platform beskikbaar het, beveel ons aan dat u dieselfde platform vir The Carpentries
+    -werkswinkel gebruik.
+    Dit sal die tyd verminder wat nodig is vir werkswinkel
+    -organiseerders en leerders om 'n nuwe stelsel te leer. As u
+    egter nie toegang tot 'n videokonferensiestelsel het nie, sal ons u
+    toegang tot een van ons Zoom-kamers kan bied.
 
-- **I have never taught an online workshop, where should I begin?**
-  - All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries styled workshops.
+- \*\* Ek het nog nooit 'n aanlyn werkswinkel geleer nie, waar moet ek begin? \*\*
+  - Alle instrukteurs moet vertroud wees met die [Aanbevelings vir die onderrig van karpentries werkswinkels aanlyn] (/resources/workshops/resources_for_online_workshops.md). Dit sal jou die grondslag gee vir aanlyn Carpentries -stylwerkswinkels.
   -
 
-- **How do I indicate my workshop will be online in the workshop
-  website template?**
-  - We updated the workshop website
-    template to
-    make it easier to indicate that a workshop will be taught
-    online.
+- \*\* Hoe dui ek aan dat my werkswinkel aanlyn sal wees in die werkswinkel
+  -webwerf sjabloon? \*\*
+  - Ons het die [werkswinkel webwerf
+    sjabloon] (https://github.com/carpentries/workshop-template) opgedateer na
+    , maak dit makliker om aan te dui dat 'n werkswinkel
+    aanlyn aangebied sal word.
 
-- **How many instructors are needed to teach an online workshop?**
-  - Teaching online is a challenge. We recommend a minimum of two
-    instructors and a maximum of four instructors with the
-    assistance of helpers. Please review the recommended
-    instruction
-    roles
-    for a workshop.
+- \*\* Hoeveel instrukteurs is nodig om 'n aanlynwerkswinkel te leer? \*\*
+  - Onderrig aanlyn is 'n uitdaging. Ons beveel 'n minimum van twee
+    -instrukteurs en 'n maksimum van vier instrukteurs aan met die
+    -hulp van helpers. Hersien asseblief die aanbevole
+    [instruksie
+    rolle] (https://carpentries.org/online-workshop-recommendations/#instructional-roles)
+    vir 'n werkswinkel.
 
-- **Can I record my workshop?**
-  - Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that
-    participants join in real time rather than relying on recordings.
+- \*\* Kan ek my werkswinkel opneem? \*\*
+  - Carpentries werkswinkels is ontwerp om interaktief eerder as op lesingsgebaseer te wees, met lesse wat op mekaar bou. Om 'n gemaklike aanlyn leeromgewing te bevorder, beveel ons sterk aan dat
+    -deelnemers intyds aansluit eerder as om op opnames te vertrou.
 
-  - If you still plan to record, please obtain consent from all attendees, including Instructors and Helpers, before the workshop starts.
+  - As u steeds van plan is om op te neem, kry asseblief toestemming van alle deelnemers, insluitend instrukteurs en helpers, voordat die werkswinkel begin.
 
-#### In-person workshop
+#### Persoonlike werkswinkel
 
-- **Do Instructors pay for travel?**
-  - As a volunteer Instructor who is not paid for their time
-    teaching, we ask the host to cover travel and accommodation
-    costs either directly or through their organisation's reimbursement
-    process. We recommend that the host budget approximately \$1500
-    per Instructor for all travel expenses. Once all Instructors are
-    confirmed and have been connected with the host, you will work with the
-    host to plan travel and accommodations. The Carpentries is not involved
-    in this part of the planning process
-- **What if I am no longer able to teach at an in-person workshop
-  after the travel has been purchased?**
-  - For transportation (flights, train tickets, bus tickets, etc.), we encourage the
-    purchase of fully refundable tickets or insurance where possible. This will
-    help ensure that most funds will be recovered in the event of
-    cancellation.
-  - In the event an Instructor is being reimbursed for
-    expenses and cancels, the host cannot be held responsible for any
-    costs, including costs that were paid for insurance.
-  - If a host pays for travel and accommodations upfront and an Instructor is no longer able to teach,
-    the Instructor will be held responsible for reimbursing any funds the host is
-    unable to recover.
-  - If possible, we would ask that the Instructor teaches virtually. Learners
-    will then participate either fully online or fully in-person.
-- **What if the in-person event policy changes before the workshop
-  takes place?**
-  - We understand that policies change regularly and sometimes
-    unexpectedly. We ask that the host provide any changes
-    immediately to all involved parties so that the coordination can
-    align with those changes.
-- **What are The Carpentries' in-person event procedures for in-person
-  workshops?**
-  - We will follow the in-person event guidelines of the host
-    institution. This will differ between organisations and we will
-    ensure that all parties involved are aware of any policies that
-    are in place.
+- \*\* Betaal instrukteurs vir reis? \*\*
+  - As 'n vrywillige instrukteur wat nie betaal word vir hul tyd
+    -onderrig nie, vra ons die gasheer om reis- en akkommodasie
+    -koste te dek, óf direk of deur hul organisasie se terugbetaling
+    -proses. Ons beveel aan dat die gasheerbegroting ongeveer\ $1500
+    per instrukteur vir alle reisuitgawes. Sodra alle instrukteurs
+    bevestig is en met die gasheer verbind is, sal u saam met die
+    -gasheer werk om reis en akkommodasie te beplan. Die Carpentries is nie
+    betrokke by hierdie deel van die beplanningsproses nie
+- \*\* Wat as ek nie meer in staat kan leer by 'n persoonlike werkswinkel
+  nadat die reis gekoop is nie? \*\*
+  - Vir vervoer (vlugte, treinkaartjies, buskaartjies, ens.), Moedig ons die
+    -aankoop van ten volle terugbetaalbare kaartjies of versekering aan waar moontlik. Dit sal
+    help om te verseker dat die meeste fondse herwin sal word in die geval van
+    kansellasie.
+  - In die geval dat 'n instrukteur vir
+    -uitgawes terugbetaal word en kanselleer, kan die gasheer nie verantwoordelik gehou word vir enige
+    -koste nie, insluitend die koste wat vir versekering betaal is nie.
+  - As 'n gasheer vooraf vir reis en akkommodasie betaal en 'n instrukteur nie meer in staat is om te leer nie, sal
+    die instrukteur verantwoordelik gehou word vir die terugbetaling van enige geld wat die gasheer
+    nie kan herstel nie.
+  - Indien moontlik, sal ons vra dat die instrukteur feitlik leer. Leerders
+    sal dan óf ten volle aanlyn óf ten volle persoonlik deelneem.
+- \*\* Wat as die persoonlike geleentheidsbeleid verander voordat die werkswinkel
+  plaasvind? \*\*
+  - Ons verstaan dat beleide gereeld verander en soms
+    onverwags. Ons vra dat die gasheer enige veranderinge
+    onmiddellik aan alle betrokke partye verskaf sodat die koördinasie
+    kan ooreenstem met daardie veranderinge.
+- \*\* Wat is The Carpentries se persoonlike geleentheidsprosedures vir persoonlike
+  werkswinkels? \*\*
+  - Ons sal die persoonlike geleentheidsriglyne van die gasheer
+    -instelling volg. Dit sal tussen organisasies verskil en ons sal
+    verseker dat alle betrokke partye bewus is van enige beleide wat
+    in plek is.
 
-### General
+### algehele
 
-- **How do I get survey data/links for previous workshops?**
-  - The Workshop Administration Team can provide survey result links
-    for past workshops (August 2018 - present) to workshop
-    instructors/organizers or instructors affiliated with the
-    hosting organisation. To request survey results links, please
-    send an email to the Workshop Administration
-    Team with your request and
-    include a link to the workshop website(s) and/or slug(s).
-- **How many times a year do I have to teach to be eligible to vote?**
-  - Instructors are required to teach at least one time per year to
-    be eligible for voting. Please find our
-    {{"[Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}
-    for more information.
-- **What happens if I need to make changes to my workshop website?**
-  - Please feel free to make changes to your website. You do not
-    need to let us know, these changes are updated manually each
-    week. However, if you change your workshop repo name (or link),
-    please do let us know as we will not be able to pull information
-    from your website without updating the link in our database.
+- \*\* Hoe kry ek opnamedata/skakels vir vorige werkswinkels? \*\*
+  - Die werkswinkeladministrasiespan kan opname-resultate skakels
+    verskaf vir vorige werkswinkels (Augustus 2018 - hede) aan werkswinkel
+    instruktors/organiseerders of instrukteurs verbonde aan die
+    -gasheerorganisasie. Om skakels vir opname-resultate aan te vra, stuur asseblief
+    'n e-pos aan die [Workshop Administration
+    Team] (mailto:workshops@carpentries.org) met u versoek en
+    sluit 'n skakel na die werkswinkelwebwerf en/of slug (s) in.
+- Hoeveel keer per jaar moet ek leer om in aanmerking te kom om te stem? \*\*
+  - Instrukteurs moet ten minste een keer per jaar leer om
+    in aanmerking te kom vir stemming. Vind asseblief ons
+    {{"[Verordeninge] ({}/about-us/governance/#carpentries-bylaws-and-policies)” .format (carpentries_website)}}
+    vir meer inligting.
+- \*\* Wat gebeur as ek veranderinge aan my werkswinkel webwerf moet aanbring? \*\*
+  - Voel gerus om veranderinge aan u webwerf aan te bring. U hoef ons nie
+    te laat weet nie, hierdie veranderinge word elke
+    week met die hand opgedateer. As u egter u werkswinkel repo-naam (of skakel) verander, laat
+    ons asseblief weet, aangesien ons nie inligting
+    van u webwerf kan haal sonder om die skakel in ons databasis op te dateer nie.
 
 
