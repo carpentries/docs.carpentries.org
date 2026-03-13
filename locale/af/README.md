@@ -1,68 +1,68 @@
-# The Carpentries Handbook
+# Die Carpentries Handboek
 
-This is the repo that builds [The Carpentries Handbook](https://docs.carpentries.org).
+Dit is die repo wat [The Carpentries Handbook] (https://docs.carpentries.org) bou.
 
-## Site Organization
+## webwerforganisasie
 
-This handbook has three main sections:
+Hierdie handboek het drie hoofafdelings:
 
-- **Handbooks**.  This contains handbooks for each community role (Community Session Host, Instructor, etc.).  Each community role has the same following sections, to ensure users have a consisent experience as they explore each role.
-  - Roles and Responsibilities
-  - Onboarding
-  - Offboarding
-  - Communication and Collaboration Spaces
-  - Step by step guides
-  - Resources
+- **Handboek**.  Dit bevat handboeke vir elke gemeenskapsrol (gemeenskapsessie-gasheer, instrukteur, ens.).  Elke gemeenskapsrol het dieselfde volgende afdelings om te verseker dat gebruikers 'n inhoudende ervaring het terwyl hulle elke rol ondersoek.
+  - Rolle en verantwoordelikhe
+  - Onboord
+  - Afboording
+  - Kommunikasie- en samewerkings
+  - Stap vir stap gidse
+  - Hulpbronne
   - FAQ
-- **Resources**.  This is a listing of general resources available to The Carpentries community (Style guide, Communication resources, etc.).
-- **Policies**.  This is a listing of all Carpentries policies (Code of Conduct, Privacy, etc.)
+- **Hulpbronne**.  Dit is 'n lys van algemene hulpbronne wat beskikbaar is vir die Carpentries-gemeenskap (Stylgids, Kommunikasiebronne, ens.).
+- **Beleids**.  Dit is 'n lys van alle Carpentries -beleide (gedragskode, privaatheid, ens.)
 
-## File structure
+## Lêerstruktuur
 
-- `/build/` Used to build local website. In `.gitignore` so this will not show up in the repo.  Do not edit these files.
-- `/source/` Contains all the files needed to build the site.  Includes:
-  - css files and page templates that override styles and templates in the theme
-  - folders for handbooks, resources, and policies, with `md` files with content for each page.
-  - `/_includes/` - text blocks and other content to be included in other pages
-  - `/_templates/` - templates for specialized content such as the table of contents in the sidebar
-  - `/_static/` - contains custom css styles
-  - `conf.py` - site settings
-  - `index.rst` - sets structure for home page
-- `.gitignore` Standard gitignore file
-- `Makefile` - includes custom Make commands and inherits general Sphinx Make commands.
+- `/bou/` Word gebruik om plaaslike webwerf te bou. In `.gitignore` sal dit dus nie in die repo verskyn nie.  Moenie hierdie lêers wysig nie.
+- `/bron/` Bevat al die lêers wat nodig is om die webwerf te bou.  Sluit in:
+  - css-lêers en bladsysjablone wat style en sjablone in die tema oorheers
+  - vouers vir handboeke, hulpbronne en beleide, met `md` lêers met inhoud vir elke bladsy.
+  - `/_includes/` - teksblokke en ander inhoud wat op ander bladsye ingesluit moet word
+  - `/_templates/` - sjablone vir gespesialiseerde inhoud soos die inhoudsopgawe in die kantbalk
+  - `/_static/` - bevat persoonlike css-style
+  - `conf.py` - webwerfinstellings
+  - `index.rst` - stel struktuur vir tuisblad
+- `.gitignore` Standaard gitignore lêer
+- `Makefile` - sluit pasgemaakte Make-opdragte in en erf algemene Sphinx Make-opdragte.
 
-## Editing content
+## Redigeer inhoud
 
-Content is organized in the `source` directory.  Edits to content should be made to these files.  Do not edit files in the `build` folder.
+Inhoud is georganiseer in die “bron” -gids.  Wysigings aan die inhoud moet aan hierdie lêers gemaak word.  Moenie lêers in die `build` -lêergids wysig nie.
 
-## Editing styles
+## Redigeerstyle
 
-Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are implemented in `/source/_static/css`.  This includes the font files for the Mulish Google font and a custom css file.
+Die meeste stilering kom van die `pydata_sphinx_theme` sjabloon.  Pasgemaakte style word geïmplementeer in `/source/_static/css`.  Dit sluit die lettertiplêers vir die Mulish Google-lettertipe en 'n pasgemaakte css-lêer in.
 
-## Editing templates and layouts
+## Redigeer sjablone en uitlegte
 
-Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are then called in `html_theme_options` in `conf.py`.
+Die meeste sjablone en uitlegte kom van die `pydata_sphinx_theme` sjabloon.  Pasgemaakte bladsysjablone word geïmplementeer in `/bronce/_templates/`.  Die standaardtema bevat byvoorbeeld Python-funksies om sjablone vir die inhoudsopgawe in die kantbalk en boonste navigasiebalk te bou. In plaas daarvan gebruik ons pasgemaakte en hard gekodeerde sjablone.  Dit word dan genoem in `html_theme_options` in `conf.py`.
 
-## Building the handbook locally
+## Die bou van die handboek plaaslik
 
-The handbook is built using Sphinx and the `pydata_sphinx_theme`.
+Die handboek is gebou met behulp van Sphinx en die `pydata_sphinx_theme`.
 
-- `make clean` Removes all files in the `build` directory
-- `make html` Builds the site and publishes html content to the build directory. Run a Python server with `python -m http.server -d build/html/` to preview the site. The site will need to be re-built with each change.
+- `maak skoon` Verwyder alle lêers in die `build` gids
+- `make html` Bou die webwerf en publiseer html-inhoud in die bougids. Begin 'n Python-bediener met `python -m http.server -d build/html/` om die webwerf te voorsien. Die webwerf sal met elke verandering weer gebou moet word.
 
-Alternatively, use `sphinx-autobuild` to rebuild the site and reload the browser anytime changes are made with `sphinx-autobuild source/ build/html/`
+Alternatiewelik, gebruik `sphinx-autobuild` om die webwerf te herbou en die blaaier weer te laai wanneer veranderinge aangebring word met `sphinx-autobuild source/ build/html/`
 
-## Changes to `conf.py`
+## Veranderinge aan `conf.py`
 
-After setting the theme, the additional following changes were needed to `conf.py`.  Note this list does not include changes that only reflect The Carpentries identity (setting the name, social media handles, etc.).  The list includes changes that affect the site functionality.
+Nadat die tema ingestel is, was die bykomende volgende veranderinge nodig om `conf.py`.  Let daarop dat hierdie lys nie veranderinge bevat wat slegs The Carpentries identiteit weerspieël nie (instelling van die naam, sosiale media handvatsels, ens.).  Die lys bevat veranderinge wat die funksionaliteit van die webwerf beïnvloed.
 
-- To make the template render markdown files properly, add `.md` to the `source_suffix` list and add `myst_parser` to the `extensions` list
-- To use a custon style sheet, set `html_static_path = ['_static']` and `html_css_files = ['css/custom.css']`
-- Add navbar and sidebar settings to `html_context`
-- To use headers as anchor links, add `myst_heading_anchors = 6`
-- To suppress warnings about duplicate headers across documents, add `suppress_warnings = ['autosectionlabel.*']`
+- Om die sjabloon die markdownlêers behoorlik te laat weergee, voeg `.md` by die `source_suffix` -lys en voeg `myst_parser` by die \`uitbreidings' lys
+- Om 'n custon-stylblad te gebruik, stel `html_static_path = ['_static'] `en `html_css_files = ['css/custom.css']`
+- Voeg navbalk- en sykantinstellings by `html_context`
+- Om kopskrifte as ankerskakels te gebruik, voeg `myst_heading_anchors = 6` by
+- Om waarskuwings oor duplikaatkopskrifte oor dokumente te onderdruk, voeg `suppress_warning = ['autosectionlabel.*'] `by
 
-## Useful links
+## Nuttige skakels
 
-- [Pydata Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
-- [General Sphinx Documentation](https://www.sphinx-doc.org/en/master/usage/configuration.html)
+- [Pydata Sfinx Tema] (https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
+- [Algemene Sfinks-dokumentasie] (https://www.sphinx-doc.org/en/master/usage/configuration.html)
