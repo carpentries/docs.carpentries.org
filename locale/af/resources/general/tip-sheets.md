@@ -1,5 +1,5 @@
-# The Carpentries Tip Sheets
+# Die Carpentries -wenkblaaie
 
-- [Welcome Tip Sheet](https://zenodo.org/records/10785524)
-- [Instructor Tip Sheet](https://zenodo.org/doi/10.5281/zenodo.8125137)
-- [Membership Tip Sheet](https://zenodo.org/records/15081158)
+- [Welkomende wenkblad] (https://zenodo.org/records/10785524)
+- [Instrukteurwenkblad] (https://zenodo.org/doi/10.5281/zenodo.8125137)
+- [Lidmaatskapwenkblad] (https://zenodo.org/records/15081158)
