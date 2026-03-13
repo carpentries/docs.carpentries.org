@@ -1,53 +1,53 @@
-# Admonitions
+# Vermoedings
 
-See documentation on [admonitions](https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html).
+Sien dokumentasie oor [waarnemings] (https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html).
 
-:::{attention} Pay attention!
-Let's give readers something to draw their attention to.
+:::{attention} Let op!
+Kom ons gee lesers iets om op hul aandag te vestig.
 :::
 
-:::{caution} Caution!
-Let's caution readers about something.
+:::{caution} Versigtig!
+Laat ons lesers versigtig oor iets.
 :::
 
-:::{danger} Danger lies ahead.
-Let's inform readers about a danger.
+:::{danger} Gevaar lê voor.
+Laat ons lesers in kennis stel oor 'n gevaar.
 :::
 
 :::{error}
-Let's inform readers about an error.
+Laat ons lesers in kennis stel oor 'n fout.
 :::
 
 :::{hint}
-Let's give readers a hint.
+Kom ons gee lesers 'n wenk.
 :::
 
 :::{important}
-Let's emphasize something important.
+Laat ons iets belangrik beklemtoon.
 :::
 
 :::{note}
-Let's make a note.
+Kom ons maak 'n nota.
 :::
 
 :::{seealso}
-Let's direct readers to other resources.
+Laat ons lesers na ander hulpbronne rig.
 :::
 
 :::{tip}
-Let's give readers a tip.
+Kom ons gee lesers 'n wenk.
 :::
 
 :::{warning}
-Let's give readers a warning.
+Kom ons gee lesers 'n waarskuwing.
 :::
 
-:::{admonition} This is the title
+:::{admonition} Dit is die titel
 :class: tip
-Use the `admonition` directive and specify the type. Let's give readers some more information.
+Gebruik die “waarneming” -opdrag en spesifiseer die tipe. Kom ons gee lesers meer inligting.
 :::
 
-:::{admonition} This is the title of a warning
-:class: warning
-Use the `admonition` directive and specify the type. Let's give readers some more information.
+:::{admonition} Dit is die titel van 'n waarskuwing
+:class: waarskuwing
+Gebruik die “waarneming” -opdrag en spesifiseer die tipe. Kom ons gee lesers meer inligting.
 :::
