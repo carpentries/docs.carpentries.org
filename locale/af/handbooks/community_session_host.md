@@ -2,7 +2,7 @@
 
 ## Oor hierdie handboek
 
-Die Community Session Hosting Handbook is ontwerp om lede van die Carpentries-gemeenskap te ondersteun wat as gemeenskapssessiegasheers dien. Die Carpentries Community Engagement Team onderhou dit.  As u glo dat iets hier bygevoeg of opgedateer moet word, of as u terugvoer oor die inhoud wil gee, stuur asseblief die {{'[Community Engagement Team] (mailto:{}) '.format (community_email)}} of maak 'n probleem op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As u onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
+Die handboek is ontwerp om lede van die Carpentries-gemeenskap te ondersteun wat as gemeenskapssessiegasheers dien. Die Carpentries Gemeenskap Betrokkenheid Span onderhou dit.  As jy glo dat iets hier bygevoeg of opgedateer moet word, of as jy terugvoer oor die inhoud wil gee, stuur asseblief die {{'[Community Engagement Team] (mailto:{}) '.format (community_email)}} of maak 'n "issue" op die {{' [bronbewaarplek van hierdie handboek] ({}) '.format (gh_repo)}} oop. As jy onvertroud is met enige van die terme wat in hierdie handboek gebruik word, verwys asseblief na ons {{'[Woordelys van terme] ({}) '.format (woordelys)}}.
 
 ## Inleiding
 
