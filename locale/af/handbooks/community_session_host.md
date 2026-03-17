@@ -8,7 +8,7 @@ Die Community Session Hosting Handbook is ontwerp om lede van die Carpentries-ge
 
 Die aanbied van 'n gemeenskapsessie is 'n goeie manier om meer mense in die Carpentries-gemeenskap te ontmoet, die organisasie beter te leer, uit ander se ervarings te leer en u kennis en kundigheid met 'n nog groter aantal mense te deel.
 
-Gemeenskapsessies is ook 'n integrale deel van ons {{'[Instruktoropleidingsertifiseringsproses] ({}/checkout) '.format (instructor_training_curriculum)}}, ook bekend as 'Checkout'. As gemeenskapsessiegasheer kan u nuwe instrukteurs in ons wêreldwye gemeenskap verwelkom en hulle aan gemeenskapssessies bekendstel as 'n deurlopende hulpbron vir ondersteuning en advies terwyl hulle hul onderrigpraktyke ontwikkel.
+Gemeenskapsessies is ook 'n integrale deel van ons {{'[Instruktoropleidingsertifiseringsproses] ({}/checkout) '.format (instructor_training_curriculum)}}, ook bekend as 'Checkout'. As gemeenskapsessiegasheer kan jy nuwe Instrukteurs in ons wêreldwye gemeenskap verwelkom en hulle aan gemeenskapssessies bekendstel as 'n deurlopende hulpbron vir ondersteuning en advies terwyl hulle hul onderrigpraktyke ontwikkel.
 
 Onderwerpe wat tydens gemeenskapssessies gedek word, wissel van onderrig werkswinkels en die ontwikkeling van kurrikulums tot die bou van plaaslike gemeenskappe en
 wat die impak van ons werks Daar is vier soorte:
