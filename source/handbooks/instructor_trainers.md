@@ -27,7 +27,7 @@ Instructor Trainers whose service is included in a Partnership Agreement may hav
 
 Instructor Training events, bonus modules, and teaching demos are scheduled on a quarterly basis. Four times a year, the Core Team will poll Instructor Trainers for their availability to teach Instructor Training. At the same time, Instructor Trainers will be asked to sign up to host teaching demos using Calendly.    
 
-The Core Team creates a training calendar by matching up availability of Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar). Partner sites each receive a unique registration code allowing their team members to sign up for these events. 
+The Core Team creates a training calendar by matching up availability of Instructor Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar). Partner sites each receive a unique registration code allowing their team members to sign up for these events. 
 
 Teaching demos are listed on the [teaching demo etherpad](https://pad.carpentries.org/teaching-demos).  Trainees can sign up for teaching demos at any time. 
 
