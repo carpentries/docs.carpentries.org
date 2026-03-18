@@ -12,7 +12,7 @@ Note that the [Trainers Leadership Committee](https://github.com/carpentries/tra
     * Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured.
     * Decides how and how often they engage the Lesson Program community/communities.
     * Decides between:
-        * seeking approval from the Executive Council to elect members to the Lesson Program Governance Committee.
+        * seeking approval from the Board of Directors to elect members to the Lesson Program Governance Committee.
         * appointing members based on an application process.
     * Decides committee members term lengths.
     * Decides on requesting additional Roles and Responsibilities beyond those described in this policy from the Board of Directors.
