@@ -125,7 +125,7 @@ to any third party. However, we may share de-identified aggregate or summary
 information regarding instructors publicly or with volunteers, Partner sites, or 
 third parties, including but not limited to funding entities.
 
-### Trainers
+### Instructor Trainers
 
 "Trainers" includes Trainers, Trainer Trainees and Trainer Applicants
 
