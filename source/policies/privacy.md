@@ -336,7 +336,7 @@ following ways:
   materials and information about your progress towards The Carpentries Instructor
   certification may be shared with our contacts at your Partner institution.
 - If you have chosen "Open training application": your application
-  materials may be shared with The Carpentries Trainers in order to review and
+  materials may be shared with The Carpentries Instructor Trainers in order to review and
   accept your application.
 
 ### Affiliates and Service Providers
