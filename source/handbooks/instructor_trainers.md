@@ -21,13 +21,13 @@ Instructor Trainers teach Instructor Training events, host teaching demonstratio
 
 The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
 
-Instructor Trainers whose service is included in a member agreement may have additional requirements – please refer to your member agreement for details.
+Instructor Trainers whose service is included in a Partnership Agreement may have additional requirements – please refer to your Partnership Agreement for details.
 
 ### Scheduling Training Events
 
 Instructor Training events, bonus modules, and teaching demos are scheduled on a quarterly basis. Four times a year, the Core Team will poll Trainers for their availability to teach Instructor Training. At the same time, Trainers will be asked to sign up to host teaching demos using Calendly.    
 
-The Core Team creates a training calendar by matching up availability of Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar).  Member sites each receive a unique registration code allowing their team members to sign up for these events. 
+The Core Team creates a training calendar by matching up availability of Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar). Partner sites each receive a unique registration code allowing their team members to sign up for these events. 
 
 Teaching demos are listed on the [teaching demo etherpad](https://pad.carpentries.org/teaching-demos).  Trainees can sign up for teaching demos at any time. 
 
@@ -44,7 +44,7 @@ The Instructor Trainer community periodically accepts new members via applicatio
   * **prior experience teaching Carpentries workshops** (with existing Instructor certification) or  
   * **significant prior training in teaching** (e.g. courses or a degree in education; experience teaching is also useful but is not the same as training)  
 * Instructor Trainer Training seats are offered to approved applicants based on current organisational needs and training capacity. Space is limited, and qualified candidates may not be selected if we have low demand or multiple applicants in the same region.  
-* Members can reserve Instructor Trainer Training seats for a fee. In these cases, while the seat is reserved for someone from the member institution, individual candidates must still apply and be approved.  
+* Partner Organisations can reserve Instructor Trainer Training seats for a fee. In these cases, while the seat is reserved for someone from the Partner institution, individual candidates must still apply and be approved.  
 * The Carpentries keeps a list of interested applicants and member contacts who would like to be notified when the next round of Instructor Trainer Training applications open. To be added to this list, please email the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
 #### Training and Initial Certification
@@ -287,4 +287,4 @@ To share these ideas, please join one of the monthly Instructor Trainer meetings
 
 ## Resources
 
-Visit our [Instructor Training resources section](/resources/instructor-training/index.md) for more resources including email templates for Trainers and Member Organisations.  
+Visit our [Instructor Training resources section](/resources/instructor-training/index.md) for more resources including email templates for Trainers and Partner Organisations.  
