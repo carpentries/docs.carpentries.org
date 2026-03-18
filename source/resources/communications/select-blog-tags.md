@@ -150,8 +150,8 @@ For posts related to the Library Carpentry lesson program of The Carpentries.
 ### Maintainers
 Community members working on keeping our lessons stable and functional.
 
-### Membership 
-For Member organisation updates, big changes, or announcements.
+### Partnership 
+For Partner Organisation updates, or changes to the Partnership Program.
 
 ### Merger
 For blog posts relating to the merging of different lesson programs (e.g., Data Carpentry, HPC Carpentry, Library Carpentry, Software Carpentry, etc.) into The Carpentries.
