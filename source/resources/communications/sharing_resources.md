@@ -1,6 +1,6 @@
 # A Guide to Sharing Communications with The Carpentries
 
-The Carpentries welcomes blog posts, newsletter announcements, social media posts, and other communications requests from our community members, including workshop hosts, learners, and others. 
+The Carpentries welcomes blog posts, newsletter announcements, social media posts, and other communications requests from our Partner Organisations and community members, including learners 
 
 ## Sharing a blog post 
 
@@ -33,7 +33,7 @@ Are you interested in collaborating with another community member to co-author a
 
 ## Sharing a Newsletter Update 
 
-Do you have an announcement you would like us to include in [*Carpentries Clippings*](https://carpentries.org/about-us/newsletter/), our monthly newsletter? Announcements could be job opportunity openings, a special update from your subcommunity or an event that might interest the community. 
+Do you have an announcement you would like us to include in [*Carpentries Clippings*](https://carpentries.org/about-us/newsletter/), our monthly newsletter? Announcements could be job opportunity openings, a special update from your subcommunity or an event that might interest the community. Accepted annoucements from our Partner Organisations will get first priority in our newsletter. 
 
 * Email [community@carpentries.org](mailto:community@carpentries.org) with your request; we will include it in the next newsletter.   
 * Please note that the **newsletter is released on the 4th (not last) Thursday of the month**. Please bear this in mind when sending time-sensitive notices. 
