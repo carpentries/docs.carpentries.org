@@ -9,7 +9,7 @@ global community that includes
 [Instructor Trainers](https://carpentries.org/trainers),
 [Maintainers](https://carpentries.org/maintainers),
 [Mentors](https://carpentries.org/mentors), community champions, [Partner
-Organisations](https://carpentries.org/members), supporters, and workshop
+Organisations](https://carpentries.org/partners), supporters, and workshop
 organisers. We ask that your participation in the Carpentries community follows
 our [Code of
 Conduct](/policies/coc/index.md).
