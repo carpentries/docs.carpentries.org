@@ -1,6 +1,6 @@
 # A Guide to Sharing Communications with The Carpentries
 
-The Carpentries welcomes blog posts, newsletter announcements, social media posts, and other communications requests from our Partner Organisations and community members, including learners 
+The Carpentries welcomes blog posts, newsletter announcements, social media posts, and other communications requests from our Partner Organisations and community members, including learners. 
 
 ## Sharing a blog post 
 
