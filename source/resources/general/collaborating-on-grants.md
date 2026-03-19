@@ -36,7 +36,7 @@ Below is a list of sources of grants and sponsors who have funded The Carpentrie
 
 For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/blog/posts-by-tags/#blog-tag-grants).
 
-### Past Sponsors
+### Current and Past Sponsors
 - [Biotech Partners](http://www.biotechpartners.org/)
 - [Jump Recruits, LLC](https://jumprecruits.com/)
 - [Posit PBC](https://rstudio.com/)
