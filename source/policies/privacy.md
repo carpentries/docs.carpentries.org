@@ -42,11 +42,11 @@ You may give us information by:
 * applying to become an Instructor, a Maintainer, a Trainer
 * volunteering to serve in one of our committees or task forces
 * serving as a Regional Coordinator
-* requesting information on workshops or memberships
+* requesting information on workshops or Partnerships
 * participating in any capacity in a workshop, training, or event
 * entering information through our online collaborative note taking tools
 * submitting forms or surveys
-* entering into a membership agreement
+* entering into a Partnership Agreement
 * making a donation
 * providing sponsorship
 * contacting us by phone or email for information or services
@@ -58,7 +58,7 @@ The categories of information include:
   and social media account handles
 * Contact information, such as address, location, email, and telephone number
 * Financial information, such as bank account number, credit card number, or
-  debit card number, for sponsorships, donations, and membership fees
+  debit card number, for sponsorships, donations, and partnership fees
 * If you choose to self-identify, for research purposes, characteristics of
   protected classifications, such as race, color, national origin, religion,
   relationship to volunteer organisations, gender, disability, age, ancestry,
@@ -74,7 +74,7 @@ The categories of information include:
 
 ### Workshop Participants
 
-"Workshop participants" include Learners, Helpers and Hosts.
+"Workshop participants" include Learners, helpers and Hosts.
 
 **What information do we collect?**
 
@@ -93,7 +93,7 @@ contact you about additional opt-in opportunities for training, teaching,
 surveys and/or community engagement. We do not provide personally identifiable 
 information to any third party. However, we may share de-identified aggregate 
 or summary information regarding participants publicly or with volunteers, 
-member sites or third parties, including but not limited to funding entities.
+Partner sites or third parties, including but not limited to funding entities.
 
 Workshop Hosts are bound by the Data Usage and Privacy stipulations within the 
 Workshop Agreement, and the Carpentries Code of Conduct (CoC) with respect to any 
@@ -122,10 +122,10 @@ With your consent, we may use volunteer information to contact you about
 additional opt-in opportunities for assessment, training, teaching, volunteering
 and/or community engagement. We do not provide personally identifiable information 
 to any third party. However, we may share de-identified aggregate or summary
-information regarding instructors publicly or with volunteers, member sites, or 
+information regarding instructors publicly or with volunteers, Partner sites, or 
 third parties, including but not limited to funding entities.
 
-### Trainers
+### Instructor Trainers
 
 "Trainers" includes Trainers, Trainer Trainees and Trainer Applicants
 
@@ -149,7 +149,7 @@ With your consent, we may use volunteer information to contact you about
 additional opt-in opportunities for assessment, training, teaching, volunteering 
 and/or community engagement. We do not provide personally identifiable information 
 to any third party. However, we may share de-identified aggregate or 
-summary information regarding Trainers publicly or with volunteers, partners
+summary information regarding Trainers publicly or with volunteers, Partners
 or third parties, including but not limited to funding entities.
 
 ### Curriculum Maintainers and Contributors
@@ -195,7 +195,7 @@ calendar events, to contact you directly about lesson(s) you have maintained or
 contributed to, and we use your GitHub handle to create or update GitHub teams
 within our organisations, so that you can be tagged in issues/PRs as appropriate.
 
-### Volunteers for subcommittees, liaisons, and Executive Council
+### Volunteers for subcommittees, liaisons, and Board of Directors
 
 **What information do we collect?**
 
@@ -208,12 +208,12 @@ stage, ORCID ID, GitHub, any social media handles, and personal URL.
 **How is this information used?**
 
 We use this information to communicate with other volunteers, including communication
-about the organisation and your role(s) within it. For committee and Executive Council members,
+about the organisation and your role(s) within it. For committee and Board of Directors members,
 we list your name and committee membership on our website. We may use volunteer
 information to contact you about additional opt-in opportunities for assessment, training,
 teaching, volunteering and/or community engagement. We do not provide personally
 identifiable information to any third party. However, we may share de-identified aggregate
-or summary information regarding volunteers publicly or with other volunteers, member
+or summary information regarding volunteers publicly or with other volunteers, Partner
 sites or third parties, including but not limited to funding entities.
 
 ### Form and Survey Respondents
@@ -270,7 +270,7 @@ depend on the policies and your account settings with the third party service.
 
 In addition, we may collect textual input (e.g. Etherpad entries) from
 you which may be associated with your name, affiliation and/or social media handles.
-If you provide financial information to pay for a workshop or membership or make
+If you provide financial information to pay for a workshop or Partnership or make
 a donation, the transaction information will be processed by a third-party 
 secured site. This information will only be accessible to our staff or 
 authorised administrators. We engage with third-parties to gather 
@@ -334,9 +334,9 @@ with members of the Carpentries Core Team. We may also share your information in
 following ways:
 - If you have chosen "Pre-approved registration": your application
   materials and information about your progress towards The Carpentries Instructor
-  certification may be shared with our contacts at your member institution.
+  certification may be shared with our contacts at your Partner institution.
 - If you have chosen "Open training application": your application
-  materials may be shared with The Carpentries Trainers in order to review and
+  materials may be shared with The Carpentries Instructor Trainers in order to review and
   accept your application.
 
 ### Affiliates and Service Providers
@@ -376,7 +376,7 @@ protection.
 
 We reserve the right to share aggregate or de-identified information about you 
 with our volunteers, workshop partners, and funding partners in order to analyse
-and improve our programs, market our membership program, and apply for funding.
+and improve our programs, market our Partnership Program, and apply for funding.
 We use this information to help evaluate and improve programs, report on impact
 and outcomes and understand the needs and interests of our community. Where we
 share open-ended responses or testimonials, we always do so anonymously or ask

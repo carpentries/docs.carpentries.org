@@ -45,9 +45,9 @@ This page contains:
 - The Carpentries Instructor Training recruitment and retention strategies will include building communities of Instructors in domains and communities served by the Lesson Program.
 - The Carpentries will include the Lesson Program in all community efforts, including but not limited to the activities of the Instructor Development committee, Mentorship program and BugBBQs.
 - The Carpentries programmatic and assessment reports will include Lesson Program activities. The Lesson Program will also have access to data specific to its activities.
-- The Carpentries Member Organisations program will include The Lesson Program.
+- The Carpentries Partner Organisations program will include The Lesson Program.
 - The Carpentries will provide an annual financial report to the Lesson Program Committee, including an assessment of the financial stability and sustainability of The Carpentries.
-- The Carpentries general revenue through Memberships, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.  
+- The Carpentries general revenue through Partnerhips, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.  
 - The Carpentries maintains and documents an administrative and financial management structure that supports the Lesson Program.
 
 ## Lesson Program Incubation Roadmap
@@ -109,7 +109,7 @@ _Goal: to ensure compliance with existing Carpentries policies and processes._
 1. Agree to have at least one trained instructor for each workshop.
 1. Agree to The Carpentries workshop fee structure.
 1. Define at least one curriculum that fits The Carpentries two-day workshop structure.
-1. Agree for the Lesson Project to be included in Member Organisation agreements.
+1. Agree for the Lesson Project to be included in Partner Organisation Agreements.
 
 #### 2. Governance
 _Goal: to ensure consistency with existing Lesson Program governance, and accountability for leading the work during Incubation._
@@ -147,7 +147,7 @@ _Goal: to ensure quality of curriculum, and demand for workshops._
 - Letters of interest from organisations wanting to host workshops. 
   These letters of interest might indicate that the organisation 
     1. would be interested in requesting a centrally-organised workshop from the Lesson Program.
-    1. would explore organisational membership to build their own capacity for teaching the Lesson Program's workshops.
+    1. would explore organisational partnership to build their own capacity for teaching the Lesson Program's workshops.
     1. would host Self-Organised workshops for the Lesson Program.
 - Summary of where funding support has been sought for this work, whether or not applications were successful.
 - Summary of how personal time has been dedicated to this project 

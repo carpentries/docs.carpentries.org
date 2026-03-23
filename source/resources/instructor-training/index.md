@@ -132,17 +132,17 @@ I know it is hard to make time for these sessions, and I apologise for any incon
 Sincerely,  
 \[Name\]
 
-## Email templates for Members
+## Email templates for Partners
 
-### Trainee Recruitment Email (From Member Contact)
+### Trainee Recruitment Email (From Partner Contact)
 
 Dear [ name ],
 
-We are excited to announce that [ site name ] has become a member of The Carpentries!
+We are excited to announce that [ site name ] has become a Partner of The Carpentries!
 
 [The Carpentries](https://carpentries.org) is a global community of volunteers who develop and teach interactive, hands-on workshops on computing and data skills, addressing basic training needs that are unmet in most disciplines.
 
-As part of our Carpentries membership, we can have [ number ] people from [ site name ] complete [The Carpentries’ Instructor Training program](https://carpentries.github.io/instructor-training/) and become certified Carpentries Instructors. 
+As part of our Carpentries Partnership, we can have [ number ] people from [ site name ] complete [The Carpentries’ Instructor Training program](https://carpentries.github.io/instructor-training/) and become certified Carpentries Instructors. 
 
 Certified Instructors can co-teach [Carpentries workshops](https://carpentries.org/workshops/) here at [ site name ], helping us reach more people and build these skills across our community. In addition, Carpentries Instructors also have the opportunity to teach as part of a team at other institutions in The Carpentries network, meeting others with similar skills who enjoy sharing them. Hosting institutions cover travel and expenses for volunteer Instructors teaching workshops in-person.
 
@@ -155,12 +155,12 @@ If you are interested in being trained and certified as a Carpentries Instructor
 Please get in touch with questions! 
 
 
-### Selected Trainee Information Email (From Member Contact for pooled training events)
+### Selected Trainee Information Email (From Partner Contact for pooled training events)
 SUBJECT: Invitation to become a certified Carpentries Instructor
 
 Dear [ name ],
 
-Thank you for your interest in Carpentries Instructor Training! I am pleased to be able to offer you an opportunity to be trained through our Carpentries membership. 
+Thank you for your interest in Carpentries Instructor Training! I am pleased to be able to offer you an opportunity to be trained through our Carpentries Partnership. 
 
 Instructor Training events are held online via video conference, with schedule options including two full days or four half days. There are two steps to register: 
 
