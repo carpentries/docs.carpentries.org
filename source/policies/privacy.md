@@ -149,7 +149,7 @@ With your consent, we may use volunteer information to contact you about
 additional opt-in opportunities for assessment, training, teaching, volunteering 
 and/or community engagement. We do not provide personally identifiable information 
 to any third party. However, we may share de-identified aggregate or 
-summary information regarding Trainers publicly or with volunteers, Partners
+summary information regarding Instructor Trainers publicly or with volunteers, Partners
 or third parties, including but not limited to funding entities.
 
 ### Curriculum Maintainers and Contributors
