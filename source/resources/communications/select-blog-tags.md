@@ -55,7 +55,7 @@ For blog posts related to CarpentryConnect events, local and regional events led
 For blog posts about The Carpentries' Collaborative Lesson Development Training program.
 
 ### Code of Conduct
-Policy agreement that guides how we interact with each other and the greater community.
+For blog posts related to the policy agreement that guides how we interact with each other and the greater community, and blog posts related to the Code of Conduct Committee that enforces that policy.
 
 ### Communications
 For blog posts related to the communications activities and strategies of The Carpentries.
