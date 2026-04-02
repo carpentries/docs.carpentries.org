@@ -6,10 +6,10 @@ The Carpentries teaches foundational coding and data science skills to
 researchers worldwide. We are a 501(c)(3) non-profit organisation. The Carpentries is a diverse,
 global community that includes
 [Instructors](https://carpentries.org/instructors/), helpers,
-[Trainers](https://carpentries.org/trainers),
+[Instructor Trainers](https://carpentries.org/trainers),
 [Maintainers](https://carpentries.org/maintainers),
-[Mentors](https://carpentries.org/mentors), community champions, [member
-organisations](https://carpentries.org/members), supporters, and workshop
+[Mentors](https://carpentries.org/mentors), community champions, [Partner
+Organisations](https://carpentries.org/support/partnership/partner-list/), supporters, and workshop
 organisers. We ask that your participation in the Carpentries community follows
 our [Code of
 Conduct](/policies/coc/index.md).

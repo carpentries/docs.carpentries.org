@@ -85,7 +85,7 @@ Resources and information regarding our equity, inclusion, and accessibility roa
 Related to Carpentries sponsored or related events. Examples include CarpentryConnects, online symposiums and more.
 
 ### Feedback
-Comments on experience from Instructors, hosts, Members, and other community members.
+Comments on experience from Instructors, hosts, Partners, and other community members.
 
 ### Git
 For blog posts highlighting teaching recommendations on Git, or the use of Git in our activities, including references to GitHub. 
@@ -150,8 +150,8 @@ For posts related to the Library Carpentry lesson program of The Carpentries.
 ### Maintainers
 Community members working on keeping our lessons stable and functional.
 
-### Membership 
-For Member organisation updates, big changes, or announcements.
+### Partnership 
+For Partner Organisation updates, or changes to the Partnership Program.
 
 ### Merger
 For blog posts relating to the merging of different lesson programs (e.g., Data Carpentry, HPC Carpentry, Library Carpentry, Software Carpentry, etc.) into The Carpentries.
