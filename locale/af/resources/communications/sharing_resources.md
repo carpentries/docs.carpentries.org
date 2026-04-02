@@ -33,7 +33,7 @@ Stel u belang om met 'n ander gemeenskapslid saam te werk om mede-outeur en 'n p
 
 ## Deel 'n nuusbrief opdatering
 
-Het u 'n aankondiging wat u wil hê ons moet insluit in [_Carpentries Clippings_] (https://carpentries.org/about-us/newsletter/), ons maandelikse nuusbrief? Aankondigings kan openinge vir werksgeleenthede wees, 'n spesiale opdatering van u subgemeenskap of 'n geleentheid wat die gemeenskap kan interesseer.
+Het u 'n aankondiging wat u wil hê ons moet insluit in [_Carpentries Clippings_] (https://carpentries.org/about-us/newsletter/), ons maandelikse nuusbrief? Aankondigings kan openinge vir werksgeleenthede wees, 'n spesiale opdatering van u subgemeenskap of 'n geleentheid wat die gemeenskap kan interesseer. Accepted annoucements from our Partner Organisations will get first priority in our newsletter.
 
 - E-pos [community@carpentries.org] (mailto:community@carpentries.org) met jou versoek; ons sal dit in die volgende nuusbrief insluit.
 - Let daarop dat die **nuusbrief op die 4de (nie laaste) Donderdag van die maand** vrygestel word. Hou dit asseblief in gedagte wanneer u tydsensitiewe kennisgewings stuur.
