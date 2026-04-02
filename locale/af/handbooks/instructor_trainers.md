@@ -27,7 +27,7 @@ Instruktoropleiers wie se diens in 'n lidsooreenkoms ingesluit is, kan addisione
 
 Instruktoropleidingsgeleenthede, bonusmodules en onderrigdemo's word kwartaallikse geskeduleer. Vier keer per jaar sal die kernspan opleiers ondersoek vir hul beskikbaarheid om instrukteeropleiding te leer. Terselfdertyd sal opleiers gevra word om aan te meld om onderrigdemo's aan te bied met behulp van Calendly.
 
-Die kernspan skep 'n opleidingskalender deur die beskikbaarheid van opleiers op te pas en [plaas dit met ons kurrikulum] (https://carpentries.github.io/instructor-training/training_calendar).  Lidwebwerwe ontvang elkeen 'n unieke registrasiekode wat hul spanlede toelaat om vir hierdie geleenthede aan te meld.
+Die kernspan skep 'n opleidingskalender deur die beskikbaarheid van opleiers op te pas en [plaas dit met ons kurrikulum] (https://carpentries.github.io/instructor-training/training_calendar). Lidwebwerwe ontvang elkeen 'n unieke registrasiekode wat hul spanlede toelaat om vir hierdie geleenthede aan te meld.
 
 Onderrigdemo's word op die [onderrig demo-etherpad] gelys (https://pad.carpentries.org/teaching-demos).  Leerlinge kan te eniger tyd aanmeld vir onderrig demo's.
 
