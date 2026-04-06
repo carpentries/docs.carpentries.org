@@ -1,159 +1,250 @@
 # Email templates
 
 ## From Instructors and Hosts
+The following templates can be used to email co-Instructors, Helpers, and learners for your upcoming workshop. Information in brackets is meant 
+to be updated with the specifics of your workshop. Please feel free to update in other places as needed!
 
 ### For Self-Organised Workshops: Recruiting Co-instructor
+Subject: Recruiting co-Instructors: Carpentries Workshop at [ University/Organisation ]
 
-Subject: Recruiting co-instructors for Carpentry Workshop
+Hi [ person name ],
 
-Hi [ person name ], 
+I would love to have you teach with me at an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ], hosted [ at location/ online ]. 
 
-I am organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a 501c3 non-profit organisation. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
+[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am a [Certified Carpentries Instructor](https://docs.carpentries.org/handbooks/instructors.html#introduction) and I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
 
-I have completed Instructor Training for The Carpentries and am certified to teach their materials. To lead a workshop, I will need at least one (preferably two) co-instructors to help out in teaching the material. The workshops are two days long and instructors usually switch every half day. I am planning to cover [ your workshop topics ] and was hoping you could teach the [ topic ] section of the workshop. The Carpentries provides ready-to-use lesson materials, so we would not need to develop anything from scratch. If you are interested, you can review the materials for [ topic ] here [ link to lesson ] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/].
+**Your Role as a Co-Instructor**
 
-I am excited to teach  a workshop here and think it will be very helpful to our [ target audience ]. If you are interested in being a co-instructor, please let me know and we can get together and plan. Let me know if you know anyone else who might be interested and able to help out with the [ topic ] part of the workshop.
+The Carpentries provide ready-to-use lesson materials, so we would not need to develop anything from scratch. At this workshop, I plan to teach:
 
- Excited about the prospect of co-teaching with you! 
+- Lesson [link]
+- Lesson [link]
+  
+I was hoping that you would teach:
 
-Best,
+- Lesson [link]
+- Lesson [link]
+  
+This would be a [#] hour/s time commitment.
+
+I am excited to teach this workshop and I would love to have you teach it with me. If you are interested, please review the materials linked above. Let me know by [date] if you are available and we can organise a time to meet and plan!
+
+If you know anyone else who might be interested and able to help out with the [ lesson/episode ] part of the workshop, let me know. It would be great to have additional Instructors.
+
+Thank you for considering this opportunity!
+
+Sincerely,
 
 [ sender name ]
 
 
 ### Recruiting Helpers
-
-Subject: Recruiting helpers for Carpentry Workshop
+Subject: Recruiting Helpers: Carpentries Workshop at [ University/Organisation ]
 
 Hi [ name ], 
 
-I am setting up a [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The Carpentries is a 501c3 non-profit organisation.  They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
+We would love to have you join us as a Helper for an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The workshop will be [ at location/ virtual ]. 
 
-During the workshop, I will need a few people to help out in case learners have  problems or get stuck. Helpers move around the room to answer questions and help learners work through things like installation problems, error messages and unexpected output. You do not need to be an expert in the tools we are covering, just to have used one or more of them and be comfortable helping people troubleshoot. At this workshop, we are planning on covering [ list of your topics ]. I think you would be a great person to help out with [ topic ]. If you are interested, you can review the materials for [ topic] here [link to lesson] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/]. Please let me know if you are interested in being a helper and if you know anyone else who might be willing to help out.
+[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
 
-Best,
+**Your Role as a Helper**
+
+During the workshop, I will need a few people to help out in case learners have problems or get stuck. Helpers:
+
+- monitor the room to identify learners who are stuck 
+- respond to learner questions 
+- help learners work through things like installation problems, error messages and unexpected output
+  
+You do not need to be an expert in the tools we are covering, but should have familiarity with at least one of them and be comfortable helping people troubleshoot. 
+
+At this workshop, we are planning on covering 
+
+- Lesson [link]
+- Lesson [link]
+- Lesson [link]
+  
+You would be great at helping with [ topic ], because [reason]. If you are interested, please review the materials linked above and let me know your availability. Additionally, if you know anyone else who might be interested and willing to help out, I’d love to connect with them.
+
+Thank you for considering this opportunity!
+
+Sincerely,
 
 [ sender name ]
 
 
 ### Advertising your Workshop  
 
-Subject: Carpentries workshop at [ site name ]  
+Subject: Learn to Code at our Beginner [Lesson Program] Workshop at [ site/organization name ]  
 
-On [ dates ], [ organisation name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
+We’re excited to invite you to our [ Workshop Title ] at [ site/organisation ]!
 
-The Carpentries is a 501c3 non-profit organisation. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
-
-
-This workshop is focused on [ Carpentry/domain ]. The curriculum will include:
-
-- [names of lessons]
-- [names of lessons]
-- [names of lessons]
-- [names of lessons]
-
-The target audience is learners who have little to no prior computational experience, and the instructors put a priority on creating a friendly environment to empower researchers and enable data-driven discovery. Even those with some experience will benefit, as the goal is to teach not only how to do analyses, but how to manage the process to make it as automated and reproducible as possible. For instance, after attending this workshop you will be able to:
+Taught by certified [Carpentries](https://carpentries.org/about-us/) Instructors, our [ Lesson Program ] workshop is an introduction to coding for those with little or no previous experience. Welcoming, hands-on and interactive, this workshop teaches the fundamentals of [ XYZ ], preparing learners to:
 
 - [skill 1]
 - [skill 2]
 - [skill 3]
+- [skill 4]
 
-Space is limited and it will likely fill quickly. [ Add sentence about whether workshop is free or if there is a fee. ]. Here is a registration link [ link to your registration page ], and the workshop webpage [ link to your workshop webpage ] for more information. Questions? Send email to [ email contact ].
+**Workshop Details**
+Dates: 
+Time: 
+Location: 
 
-We hope you will sign up!
+**Interested in learning more?** Please use the following link to find the full details and register:
+[ Link to registration and/or workshop webpage ]
 
-Best,
+Please let us know what questions you have at [ contact email ].
+
+We can’t wait to learn with you!
+
+Sincerely,
 
 [ sender name ]
 
 
 ### Email Learners before Workshop   
+Subject: We Can't Wait to Welcome You! Upcoming Carpentries Workshop at [your university/orgaisation]
 
-Hello,  
+We are excited for you to join us at the [ Data/Library/Software ] Carpentry workshop, hosted by [your university/orgaisation]!
 
-We are excited for the [ Data/Library/Software ] Carpentry workshop this coming [ days of week ] and hope you are too. A few notes:  
+This email includes everything you need to prepare for the session and join the workshop each day.
 
-Be sure to complete the pre-workshop survey [ link to survey - custom link is generated in workshop website]. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.  
+**Prepare for the Workshop**
 
-Make sure you have the necessary software installed on your laptop [ list required software for your workshop ]. Here are the instructions [ link to instructions ]. If you have any trouble, send us an email or come a little early [ day of week ] morning. Someone will be there by [ time ] to help with installation issues.  
+To get the most out of your experience, please complete the following before the workshop:
 
-[ Say if you will be providing coffee, snacks, and/or lunch. Include time of lunch break if not providing lunch. ] 
+**1. Complete the pre-workshop survey.** Your responses help Instructors tailor the workshop to your needs and experience level: [Add pre-workshop survey link from workshop website]
+ 
+**2. Set up your computer for learning.** Please use a desktop or laptop with administrative privileges. This ensures you can install any needed software and fully engage in activities. Follow the instructions on the workshop webpage [Add workshop website link to instructions]
 
-If you will not be able to attend, please let us know so that we can offer your seat to someone on the waitlist. 
+**Need help with computer setup?** Join our Support Session on:
 
-Here are some links that will be used in the workshop: workshop page [ link to workshop page ], lesson materials [ link to lesson materials ], Etherpad [ link to workshop Etherpad ].  
+[Add support session information]
 
-Getting to the workshop: [ add directions to your workshop location ]  
+**OR**
 
-Please review {{"[The Carpentries Code of Conduct]({})".format(code_of_conduct)}} so that we all are aware of how to treat each other respectfully.  
+If you have any trouble, send us an email or come a little early [ day of week ] morning. Someone will be there by [ time ] to help with installation issues.
 
-We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
+**Joining the Workshop** 
 
-Let us know if you have any questions, we are excited to have you at the workshop [day of week] morning!  
+Workshop Dates: 
 
-Excited to have you in the workshop!
+Time: 
 
-Best,
+Location: The workshop will take place via [meeting platform] 
 
-[ sender name ]
+[Add meeting link and password]
+
+**OR**
+
+Location: The workshop will be at [Add building name, address, directions].
+
+**Special Notes** 
+- **The workshop will not be recorded** - please plan to join the sessions live.
+- **Need accommodations?** Let us know in advance so we can support your learning: (https://carpentries.typeform.com/to/B2OSYaD0)
+- **Visit the workshop webpage** to review the schedule and code of conduct, add the event to your calendar, and more: [Add workshop website]
+
+**If you can no longer join the workshop,** please let us know so that we can offer your seat to someone on the waitlist.
+
+We’re excited to learn with you! Let us know what questions you have in the meantime at [contact email].
+
+Warmly,
+
+[Sender’s Name]
 
 
 ### Email Helpers before Workshop   
+Subject: Upcoming Carpentries Workshop at [your university/orgaisation]
 
 Hi [ helper names ],
  
-Thanks for making yourselves available to help with the [ workshop name ] workshop on [ workshop date ].
- 
-The workshop is being held at [ add location and directions ]. The teaching component will be [ start to finish time ]. Please arrive at the venue at [ briefing time ] for a briefing – we will go through the schedule for the day and make sure we all have an understanding of the goals for the day. We want to ensure the learners optimise their time with us. 
- 
-The material we will be teaching is available at: [ add workshop webpage ]. Please review it prior to the workshop and review  the Code of Conduct for The Carpentries workshops that we will be abiding by: {{ code_of_conduct }}.
- 
-[ Say if you will be providing coffee, snacks, and/or lunch. Include time of lunch break if not providing lunch ]. Please bring a drink bottle and/or a reusable cup so we can reduce waste.
- 
-Please remember to bring your laptop charger so you are able to power your laptop. We are excited you will be helping to facilitate the workshop. 
- 
-Best,
+Thank you for being a Helper for the [ Data/Library/Software ] Carpentry workshop at [ organisation ]! Below, I have added information to
+assist you with preparing for the upcoming workshop.
+
+**Logistics**
+
+Location:
+[ Address / Meeting Platform ]
+[ Directions / Meeting Platform Link]
+
+The workshop will be from [ start to finish time ] with lunch at [ time ]. [**In-person** Include whether or not you will be providing coffee, snacks, and/or lunch.]
+
+Please [ arrive at the venue/ join the meeting ] at [ briefing time ] for a briefing. We will go through the schedule and make sure we all have an understanding of the goals for the day.
+
+**Preparation**
+
+Please take some time before the workshop to review the following:
+
+- The  lessons we will be teaching. You can find the lessons on the (workshop webpage)[ link webpage ] within the schedule. 
+- [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/). The code of conduct helps set expectations and encourages a welcoming and supportive environment for all.
+  
+**What to Bring**
+
+- A drink bottle and/or a reusable cup so we can reduce waste.
+- Your laptop and charger (to power your laptop).
+  
+We are so excited you will be helping to facilitate the workshop! Please let us know your questions in the meantime.
+
+Sincerely,
+
 [ sender name ]
 
 
 
 ### Email Learners after Workshop  
+Subject: Thank you for attending the Carpentries workshop at [organisation]!
 
 Hello,
 
-Thank you for attending our [ Data/Library/Software ] Carpentry workshop. We hope that you had fun and learned a lot of useful skills. 
+Thank you for attending the [ Data/Library/Software ] Carpentry workshop at [ organisation ]. We hope that you had fun and the skills you learnt will be useful!
 
-Please be sure to complete our post-workshop survey [ link to survey ]. Your answers are essential to allow us to continuously improve our workshops for future learners. 
+Please take a moment to complete the post-workshop survey at [ link to survey ]. Your answers are essential to the continued improvement of our workshops for future learners.
 
-If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please contact us (team@carpentries.org). You can also join The Carpentries Discussion mailing list (https://carpentries.topicbox.com/groups/discuss), follow us on Mastodon (hachyderm.io/@thecarpentries) or BlueSky (bsky.app/profile/carpentries.carpentries.org) or LinkedIn (linkedin.com/company/the-carpentries/), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
+If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please email team@carpentries.org. 
 
-The Carpentries is excited to support you as you  continue to develop your data analysis skills!
+More ways to connect with The Carpentries:
 
-Best, 
+- join The Carpentries [Discussion mailing list] (https://carpentries.topicbox.com/groups/discuss)
+- follow on [Mastodon](hachyderm.io/@thecarpentries), [BlueSky](bsky.app/profile/carpentries.carpentries.org), or [LinkedIn](linkedin.com/company/the-carpentries/)
+- get involved with lesson development on [GitHub]( https://github.com/datacarpentry and https://github.com/swcarpentry/ )
+  
+The Carpentries is excited to support you as you continue to develop your data analysis skills!
+
+Best wishes,
 
 [ sender name ]
 
 
 ### Encourage Learners to Complete Pre-workshop Survey
+Subject: Upcoming Carpentries Workshop at [organization]: Pre-workshop Survey
 
 Hello,
 
-We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] (INSERT WORKSHOP WEBSITE LINK). To help your instructors provide an inclusive environment, and to learn more about your current experience with the tools you will learn, we ask that you complete our pre-workshop survey ( INSERT LINK TO SURVEY ). 
+We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] with [organisation]! As a reminder, you can find the workshop schedule, installation information, and more at [ WORKSHOP WEBSITE LINK]. 
 
-Your responses will be recorded anonymously. Your IP address will be registered; however, your responses will remain anonymous. You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. You may quit the survey at any time, or skip any item other than those required to correctly sort your responses. 
+To ensure the workshop is inclusive, and to help the Instructors tailor the content to your needs and experience level, please complete our pre-workshop survey [ INSERT LINK TO SURVEY ].
 
-If you have any questions about our assessment strategy, please contact Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org.
+You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. All responses will be recorded anonymously (IP addresses will be registered; however, the responses will remain anonymous). You may quit the survey at any time, or skip any item other than those required to correctly sort your responses.
+
+To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
+
+We are excited to meet with you soon!
 
 Our best,  
 Your instructors
 
 ### Encourage Learners to Complete Post-workshop Survey
+Subject: Carpentries Workshop at [organization]: Post-workshop Survey
 
 Hello,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We would like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (  INSERT LINK TO SURVEY  ) as soon as possible.
+Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]! We hope you left the workshop feeling more comfortable with the tools you learned and empowered to continue learning. 
 
-If you have any questions about our assessment strategy, please contact Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org. We are excited about  your continued involvement with our community!
+We would love to learn about your workshop experience. Please take a few minutes to complete the post-workshop survey at [ INSERT LINK TO SURVEY ]. Not only will the survey help us understand your outcome from the workshop, but it will also help The Carpentries understand their programmatic efforts and the organisation’s  long-term impact on learners.
+
+To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
+
+We are excited about your continued involvement with our community!
 
 Our best,  
 Your instructors
