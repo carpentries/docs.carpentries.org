@@ -247,6 +247,6 @@ To learn more about Carpentries assessment, please visit the [Impact page](https
 We are excited about your continued involvement with our community!
 
 Our best,  
-Your instructors
+Your Instructors
 
 
