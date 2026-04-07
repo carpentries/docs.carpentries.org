@@ -231,7 +231,7 @@ To learn more about Carpentries assessment, please visit the [Impact page](https
 We are excited to meet with you soon!
 
 Our best,  
-Your instructors
+Your Instructors
 
 ### Encourage Learners to Complete Post-workshop Survey
 Subject: Carpentries Workshop at [organization]: Post-workshop Survey
