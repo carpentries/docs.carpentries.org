@@ -196,10 +196,6 @@ Vir poste wat verband hou met die Library Carpentries lesprogram van The Carpent
 
 Gemeenskapslede werk daaraan om ons lesse stabiel en funksioneel te hou.
 
-### Lidmaatskap
-
-Vir lidorganisasie-opdaterings, groot veranderinge of aankondigings.
-
 ### Samesmelting
 
 Vir blogplasings wat verband hou met die samesmelting van verskillende lesprogramme (bv. Data-timmerwerk, HPC timmerwerk, biblioteekstuurwerk, sagtewarestuurwerk, ens.) In die Carpentries.
@@ -219,6 +215,10 @@ Werkswinkels wat slegs aanlyn is, ervaar om 'n aanlynwerkswinkel te onderrig, id
 ### OpenRefine
 
 Vir blogplasings wat onderrigaanbevelings van OpenRefine beklemtoon, of die gebruik van OpenRefine in ons aktiwiteite.
+
+### Lidmaatskap
+
+Vir lidorganisasie-opdaterings, groot veranderinge of aankondigings.
 
 ### Vlieënierwerks
 
