@@ -150,9 +150,6 @@ For posts related to the Library Carpentry lesson program of The Carpentries.
 ### Maintainers
 Community members working on keeping our lessons stable and functional.
 
-### Partnership 
-For Partner Organisation updates, or changes to the Partnership Program.
-
 ### Merger
 For blog posts relating to the merging of different lesson programs (e.g., Data Carpentry, HPC Carpentry, Library Carpentry, Software Carpentry, etc.) into The Carpentries.
 
@@ -167,6 +164,9 @@ Workshops that are solely online, experience teaching an online workshop, sharin
 
 ### OpenRefine
 For blog posts highlighting teaching recommendations of OpenRefine, or the use of OpenRefine in our activities.
+
+### Partnership 
+For Partner Organisation updates, or changes to the Partnership Program.
 
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
