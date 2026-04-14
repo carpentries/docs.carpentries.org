@@ -1,74 +1,73 @@
-# Code of Conduct Incident Response Guidelines
+# Code de conduite et directives relatives à la réponse aux incidents
 
-Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md).
+Les informations sur la manière de signaler un incident lié au Code de conduite (CoC) sont décrites dans nos [Directives de signalement des incidents liés au Code de conduite] (incident-reporting.md).
 
-The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident **before** reporting it to the Code of Conduct committee (CoCc). You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident.
+Les listes de contrôle ci-dessous décrivent les étapes à suivre par tout membre de la communauté (hôte de l'atelier, [instructeur] (https://carpentries.org/instructors/), assistant, etc.) peut survenir lors d'un éventuel incident lié au code de conduite **before** en le signalant au comité du code de conduite (CoCC). Il se peut que vous soyez confronté à des situations difficiles et que vous n'ayez qu'une expérience ou une formation limitée pour vous sentir à l'aise pour appliquer le CoC. Ces directives ont pour but de vous guider tout au long du processus visant à soutenir les autres membres de la communauté et à vous aider vous-même lors d'un incident.
 
-All Carpentries community members should feel empowered to enforce the Code of Conduct.
+Tous les membres de la communauté Carpentries devraient se sentir habilités à appliquer le Code de conduite.
 
-Ideally, we would all be able to defuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident.
+Dans l'idéal, nous serions tous en mesure de désamorcer un incident. Dans la pratique, nous sommes plus ou moins à l'aise face aux situations en fonction de notre expérience actuelle et de l'environnement. Vous trouverez ci-dessous des moyens d'apporter votre soutien et les mesures que vous pouvez prendre pendant ou après un incident.
 
-If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report via the [Code of Conduct incident report form][reporting-form] to the CoCc.
-For in person events, please immediately contact a workshop host or instructor so that they can assist you in implementing the **Immediate Response Checklist** as listed below, and help submit a report to the CoCc.
+Si possible, passez du statut de spectateur à celui de premier intervenant conforme au Code de conduite. Si vous voyez quelque chose d'inapproprié se produire, parlez-en. Si vous ne vous sentez pas à l'aise d'intervenir, mais que vous pensez que quelqu'un devrait le faire, veuillez soumettre un rapport via le \[formulaire de rapport d'incident lié au Code de conduite] \[formulaire de signalement] au CoCC.
+Pour les événements en personne, veuillez contacter immédiatement un animateur ou un instructeur de l'atelier afin qu'il puisse vous aider à mettre en œuvre la **Liste de contrôle des réponses instantanées** comme indiqué ci-dessous, et à soumettre un rapport au CoCC.
 
-## Immediate Response
+## Réponse immédiate
 
-The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.
+La réponse initiale à un incident est très importante et donnera le ton à la communauté de The Carpentries. Selon la gravité et/ou les détails de l'incident, une réponse immédiate peut être requise. Si un incident implique un danger physique ou met en danger la sécurité de quiconque (par exemple des menaces de violence), tout membre de la communauté peut - et doit - agir immédiatement pour protéger la sécurité. Cela peut inclure le contact avec les ressources d'urgence ou de crise.
 
-## Ongoing Incidents
+## Incidents en cours
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the CoCc for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
+Si un incident est en cours, que ce soit en personne ou en ligne, tout membre de la communauté (animateur de l'atelier, instructeur, assistant) peut agir immédiatement et utiliser n'importe quel outil à sa disposition pour apaiser la situation. Dans les situations où un membre individuel de la communauté agit immédiatement, il doit en informer l'hôte de l'atelier dès que possible et signaler ses actions au CoCC pour examen dans les 24 heures suivant l'incident. Si une réponse immédiate s'avère nécessaire, veuillez consulter la [Liste de contrôle des réponses immédiates] (#checklists-for-responding-to-an-incident).
 
-## Checklists for Responding to an Incident
+## Listes de contrôle pour répondre à un incident
 
-**Immediate Response Checklist**
+**Liste de contrôle pour les réponses instantanées**
 
-- Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.
-- If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.
-- If individuals are physically safe, contact law enforcement or security only at the reporter’s request.
-- Follow any local guidelines for handling incidents, including if you have a legal reporting role.
+- Déterminez si vous avez besoin d'un premier intervenant (forces de l'ordre, etc.) pour réagir immédiatement à l'incident. Si c'est le cas, demandez au journaliste de rester avec vous et composez le numéro d'urgence approprié.
+- En cas de menace générale pour les participants et/ou pour la sécurité de toute personne participant à un événement de Carpentries, contactez le numéro d'urgence établi.
+- Si les personnes sont physiquement en sécurité, contactez les forces de l'ordre ou la sécurité uniquement à la demande du journaliste.
+- Suivez toutes les directives locales en matière de gestion des incidents, y compris si vous avez un rôle légal de signalement.
 
-**In-Person and Online Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
+\*\*Liste de contrôle des événements en personne et en ligne (ateliers de menuiserie, CarpentryCon, CarpentryConnect, formation d'instructeur de menuiserie) \*\*
 
-- Ensure participants are safe.
-- If participants are not safe, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
-- Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form].
-- If they would like your help or feel more comfortable if you complete the report, talk to them or communicate via email/online call to get their inputs in getting as much detail as possible, and help submit the report with their assistance.
-- Inform the workshop host or the listed contact person (such as a CoC facilitator) that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host or instructor, report the incident directly to the CoCc via the incident report form.
+- Assurez-vous que les participants sont en sécurité.
+- Si les participants ne sont pas en sécurité, reportez-vous à la [Liste de contrôle des réponses immédiates] (#checklists-for-responding-to-an-incident).
+- Demandez au journaliste de signaler l'incident via le \[formulaire de rapport d'incident lié au code de conduite] \[formulaire de signalement].
+- S'ils ont besoin de votre aide ou s'ils se sentent plus à l'aise si vous complétez le rapport, parlez-leur ou communiquez par courriel/appel en ligne pour obtenir leurs commentaires et obtenir le plus de détails possible, et aidez-les à soumettre le rapport avec leur assistance.
+- Informez l'hôte de l'atelier ou la personne de contact indiquée (telle qu'un animateur du CoC) qu'un incident s'est produit et qu'un rapport a été soumis via le \[formulaire de rapport d'incident] \[formulaire de signalement]. Si l'incident implique l'hôte de l'atelier ou l'instructeur, signalez-le directement au CoCC via le formulaire de rapport d'incident.
 
-**Online Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
+\*\*Liste de contrôle des canaux de communication en ligne (démonstrations pédagogiques, discussions communautaires, formation des instructeurs de menuiserie, chaînes Slack, TopicBox) \*\*
 
-- Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form].
-- Save screenshots of any online interactions where the issue occured and share in your report.
-- If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
+- Informez l'organisateur de l'événement/l'animateur de la réunion qu'il y a eu un problème et envoyez un rapport via le \[formulaire de rapport d'incident] \[formulaire de rapport].
+- Enregistrez des captures d'écran de toutes les interactions en ligne au cours desquelles le problème est survenu et partagez-les dans votre rapport.
+- Si l'incident implique l'organisateur de l'événement/l'animateur de la réunion, veuillez remplir le \[formulaire de rapport d'incident] \[formulaire de signalement] et soyez assuré que la confidentialité et votre expérience au sein de notre communauté sont notre priorité absolue.
 
-If a community member has violated the CoC via an online event, the CoCc can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the CoCc has concluded their investigation of the reported incident.
+Si un membre de la communauté enfreint le CoC lors d'un événement en ligne, le CoCC peut décréter une suspension de courte durée (appelée suspension) (termed-suspension.md), et les privilèges de la personne signalée sur tous les canaux de communication de Carpentries pourraient être suspendus jusqu'à ce que le CoCC ait terminé son enquête sur l'incident signalé.
 
-Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
+Les personnes signalées s'énervent souvent, se mettent sur la défensive ou nient le signalement. Permettez-leur de donner des détails supplémentaires sur l'incident. Cependant, n'oubliez pas :
 
-- It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively.
-- It is not your job to reassure or forgive them.
-- Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
+- Peu importe qu'ils n'aient pas eu l'intention de blesser qui que ce soit ; leur comportement a tout de même eu un impact négatif sur les participants.
+- Ce n'est pas à vous de les rassurer ou de les pardonner.
+- Ne permettez pas à la personne signalée de présenter des excuses au journaliste ou à la personne concernée. Souvent, les excuses sont centrées sur les sentiments de la personne dénoncée et non sur la personne touchée. Vous pouvez accepter leurs excuses et leur proposer de les transmettre, mais vous n'êtes pas obligé de le faire si vous pensez que cela aurait un impact négatif sur le journaliste.
 
-## Incidents involving Core Team members
+## Incidents impliquant des membres de l'équipe principale
 
-- If there are CoC reports either about or from (or in any way involving) Core
-  Team members, and those reports
-  have the potential to rise to the level of harassment as defined by United States law,
-  The Carpentries Executive Team must be made aware immediately.
-- If a non-U.S. based Core Team member is involved, we may
-  need to bring in the Employer of Record (EOR) for country-specific advice.
-- In cases involving Core Team members that are definitely not harassment, it is ok
-  to handle through CoCc without involving the Executive Team. Examples of types of things that
-  might be reported to the CoCc but that are not harassment are a workshop
-  participant swearing at an Instructor, or a community member who is rude and
-  pushy but not in any way related to sexual advances or protected categories.
+- S'il existe des rapports du CoC concernant ou émanant (ou impliquant de quelque manière que ce soit) des membres de l'équipe Core
+  , et que ces signalements
+  sont susceptibles d'atteindre le niveau de harcèlement défini par la législation des États-Unis,
+  L'équipe exécutive de Carpentries doit en être informée immédiatement.
+- Si vous n'êtes pas américain Un membre de l'équipe principale basé est impliqué, il se peut que nous devions
+  faire appel à l'employeur de référence (EOR) pour obtenir des conseils spécifiques au pays.
+- Dans les cas impliquant des membres de l'équipe principale qui ne constituent certainement pas du harcèlement, il est possible de traiter
+  par le biais du CoCC sans impliquer l'équipe de direction. Voici des exemples de choses qui peuvent être signalées au CoCC mais qui ne constituent pas du harcèlement : un participant à l'atelier
+  qui jure sur un instructeur, ou un membre de la communauté qui est grossier et
+  arrogant mais qui n'est en aucun cas lié à des avances sexuelles ou à des catégories protégées.
 
-If a report involving a Core Team member is susceptible to meet the appropriate
-criteria for harassment, the CoCc should contact the Core Team liaison to the
-CoCc. The Core Team CoCc liaison will elevate anything that comes in by or about
-Core Team members to the Executive Team if appropriate and to the EOR if needed.
-If a report involves the Core Team CoCc
-liaison, the CoCc needs to contact the Executive Director directly.
+Si un signalement impliquant un membre de l'équipe principale est susceptible de répondre aux critères
+appropriés en matière de harcèlement, le CoCC doit contacter l'agent de liaison de l'équipe principale auprès du CoCC
+. L'agent de liaison CoCC de l'équipe principale transmettra tout ce qui sera communiqué par ou concernant les membres de l'équipe principale
+à l'équipe exécutive le cas échéant et à l'EOR si nécessaire.
+Si un rapport implique la liaison de l'équipe principale CoCC
+, le CoCC doit contacter directement le directeur exécutif.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
