@@ -1,87 +1,87 @@
-# Lesson Development Roles
+# Rôles d'élaboration des leçons
 
-**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training.
-Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
-You may also notice the same distinction between _Maintainers_, who have completed Maintainer Onboarding and take care of an official Carpentries lesson, and _maintainers_, who look after community lessons.
+**Remarque concernant les _instructeurs_ et les _instructeurs_ :** dans la majeure partie de ce manuel, nous faisons référence aux instructeurs, en majuscules pour indiquer qu'il s'agit d'un poste certifié au sein de la communauté, c'est-à-dire d'une personne qui a suivi la formation d'instructeur de menuiserie.
+Certains contenus de notre manuel sur l'élaboration des programmes font référence aux formateurs (sans majuscules), afin de faire la distinction entre ceux qui enseignent un atelier mais qui ne sont peut-être pas encore des instructeurs certifiés.
+Vous remarquerez peut-être également la même distinction entre les _mainteneurs_, qui ont terminé l'intégration des mainteneurs et s'occupent d'une leçon officielle de menuiserie, et les _mainteneurs_, qui s'occupent des leçons communautaires.
 
-Creation of a new lesson or curriculum is a collaborative process, usually involving many community members taking up different roles. It is also [an iterative process](./lesson-life-cycle.md), meaning that a lesson can always be considered as under development to some extent.
+La création d'une nouvelle leçon ou d'un nouveau programme est un processus collaboratif, impliquant généralement de nombreux membres de la communauté assumant différents rôles. Il s'agit également d'un [processus itératif] (./lesson-life-cycle.md), ce qui signifie qu'une leçon peut toujours être considérée comme étant en cours de développement dans une certaine mesure.
 
-This page describes the different roles people can take in the design, development, testing, and maintenance of a new lesson or curriculum.
+Cette page décrit les différents rôles que les utilisateurs peuvent jouer dans la conception, le développement, les tests et la maintenance d'une nouvelle leçon ou d'un nouveau programme.
 
-- [Lesson Developers](#lesson-developers)
-- [Pilot Workshop Instructors](#pilot-workshop-instructors)
-  - [Alpha Pilot Instructors](#alpha-pilot-instructors)
-  - [Beta Pilot Instructors](#beta-pilot-instructors)
-- [Maintainers](#maintainers)
-- [Reviewers](#reviewers)
+- [Développeurs de leçons] (#lesson-developers)
+- [Instructeurs de l'atelier pilote] (#pilot-workshop-instructors)
+  - [Instructeurs Alpha Pilot] (#alpha-pilot-instructors)
+  - [Instructeurs pilotes bêta] (#beta-pilot-instructors)
+- [Mainteneurs] (#maintainers)
+- [Réviseurs] (#reviewers)
 
-## Lesson Developers
+## Développeurs de leçons
 
-A lesson may have one or several initial developers. Developers draft the lesson content, figures, and code and create appropriate challenge problems. The team of developers should have among them both appropriate domain experience -- working in the same field as the intended audience for the materials -- and programmatic experience –- regularly using the tools for which they are developing lessons in their own work. From a technical standpoint, lesson developers will also need to be familiar with the infrastructure that we use for developing and hosting The Carpentries lessons: primarily git, GitHub, and Markdown and/or R Markdown. If you’re not comfortable with any or all of these tools, some of the resources listed below can be used to learn and practice with them.
+Une leçon peut avoir un ou plusieurs développeurs initiaux. Les développeurs rédigent le contenu, les figures et le code de la leçon et créent des problèmes de défi appropriés. L'équipe de développeurs devrait avoir à la fois une expérience du domaine appropriée (travaillant dans le même domaine que le public cible des matériaux) et une expérience programmatique, en utilisant régulièrement les outils pour lesquels elle développe des leçons dans son propre travail. D'un point de vue technique, les développeurs de leçons devront également se familiariser avec l'infrastructure que nous utilisons pour développer et héberger les leçons de The Carpentries : principalement git, GitHub et Markdown et/ou R Markdown. Si vous n'êtes pas à l'aise avec l'un ou l'ensemble de ces outils, certaines des ressources répertoriées ci-dessous peuvent être utilisées pour les apprendre et les utiliser.
 
-Drafting a lesson is only one part of the development process: new lessons need to be thoroughly tested in [_pilot workshops_](lesson-pilots), adjusted in response to feedback, then updated and maintained in the longer term. [This life cycle of a lesson is discussed in more detail elsewhere in this handbook](lesson-life-cycle.md).
+La rédaction d'une leçon n'est qu'une partie du processus de développement : les nouvelles leçons doivent être testées de manière approfondie dans le cadre d' [_ateliers pilotes_] (lesson-pilots), ajustées en fonction des commentaires, puis mises à jour et maintenues à long terme. [Ce cycle de vie d'une leçon est abordé plus en détail ailleurs dans ce manuel] (lesson-life-cycle.md).
 
-### Resources for Lesson Developers
+### Ressources pour les développeurs de leçons
 
-- Our [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) teaches principles and good practices in curriculum design and development, and collaboration skills to help the lesson development team work together effectively. It also introduces the fundamentals of creating accessible lesson content with The Carpentries Workbench -- the tools we use to build lesson websites from source files in a GitHub repository.
-- [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/) provides more comprehensive documentation of the lesson infrastructure.
-- [A Primer on Markdown and GitHub](https://carpentries.github.io/lesson-development-training/instructor/markdown-github-primer.html) links out to two resources teaching the fundamentals of two tools central to lesson development in The Carpentries.
+- Notre [Formation collaborative pour le développement des leçons] (https://carpentries.github.io/lesson-development-training/) enseigne les principes et les bonnes pratiques en matière de conception et de développement de programmes, ainsi que des compétences de collaboration pour aider l'équipe chargée de l'élaboration des leçons à travailler ensemble efficacement. Il présente également les principes fondamentaux de la création de contenu de cours accessible avec The Carpentries Workbench, les outils que nous utilisons pour créer des sites Web de leçons à partir de fichiers sources d'un référentiel GitHub.
+- [Introduction à The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/) fournit une documentation plus complète sur l'infrastructure des leçons.
+- [Une introduction à Markdown et GitHub] (https://carpentries.github.io/lesson-development-training/instructor/markdown-github-primer.html) renvoie à deux ressources qui enseignent les principes fondamentaux de deux outils essentiels au développement des leçons dans The Carpentries.
 
-## Pilot Workshop Instructors
+## Instructeurs de l'atelier pilote
 
-Our lessons are primarily intended to be taught in workshops, and their design and content should be tested out in that setting. Feedback should be collected during the workshop and incorporated into the lesson. We refer to the events where a new lesson is tested as _pilot workshops_.
-[The Lesson Pilot Workshops section of this handbook](lesson-pilots) provides more information about these events, including templates and guidance on event logistics.
+Nos leçons sont principalement destinées à être enseignées dans le cadre d'ateliers, et leur conception et leur contenu doivent être testés dans ce cadre. Les commentaires doivent être recueillis pendant l'atelier et intégrés à la leçon. Nous appelons _ateliers pilotes_ les événements au cours desquels une nouvelle leçon est testée.
+[La section Ateliers pilotes de ce manuel] (lesson-pilots) fournit plus d'informations sur ces événements, y compris des modèles et des conseils sur la logistique des événements.
 
-### Alpha Pilot Instructors
+### Instructeurs Alpha Pilot
 
-It is common – but not essential – that the instructors for the first pilot of a new lesson will be the original lesson developers. We refer to these events as _alpha pilots_ and they present a great opportunity to gather information and get early feedback to inform the further development of the content. In addition to collecting feedback from learners, alpha pilot instructors should take extensive notes during the event. We recommend that pilot instructors meet as soon as possible after the workshop, or at the end of each teaching session, to debrief their experience and prepare a list of action points for lesson developers to address to improve the lesson.
+Il est courant, mais ce n'est pas essentiel, que les instructeurs du premier projet pilote d'une nouvelle leçon soient les développeurs de la leçon d'origine. Nous appelons ces événements _alpha pilots_ et ils constituent une excellente occasion de recueillir des informations et d'obtenir des commentaires précoces afin d'éclairer le développement futur du contenu. En plus de recueillir les commentaires des apprenants, les instructeurs du projet alpha pilot devraient prendre de nombreuses notes pendant l'événement. Nous recommandons aux instructeurs pilotes de se rencontrer dès que possible après l'atelier, ou à la fin de chaque session d'enseignement, pour faire le point sur leur expérience et préparer une liste de points d'action que les concepteurs de leçons devront aborder pour améliorer la leçon.
 
-### Beta Pilot Instructors
+### Instructeurs Beta Pilot
 
-If the new lesson is being considered for adoption into The Carpentries official curriculum, instructors for these beta pilot workshops should be certified Carpentries Instructors who have previously taught at least two Carpentries workshops. Instructors with this level of experience will be more prepared to troubleshoot issues that arise during the workshop, and more likely to provide useful feedback after the workshop. Certified Instructors are not required for beta pilots of lessons that will not become official Carpentries curriculum.
+Si l'adoption de la nouvelle leçon dans le programme officiel de The Carpentries est envisagée, les instructeurs de ces ateliers pilotes bêta doivent être des instructeurs de menuiserie certifiés ayant déjà enseigné au moins deux ateliers de menuiserie. Les formateurs possédant ce niveau d'expérience seront mieux préparés à résoudre les problèmes survenant pendant l'atelier et plus susceptibles de fournir des commentaires utiles après l'atelier. Les instructeurs certifiés ne sont pas requis pour les pilotes bêta de leçons qui ne deviendront pas le programme officiel de menuiserie.
 
-Beta pilot instructors may be Maintainers, Curriculum Advisors, or any Carpentries community member other than the original lesson developers. In fact, recruiting beta pilot instructors who are already playing active roles in the lesson is likely to be fruitful, as these people are invested in bringing the lesson to maturity. For two beta pilot workshops, you will need at least four instructors. Lesson authors should plan to meet virtually with pilot instructors before the workshop to answer questions and provide any technical help with setup.
+Les instructeurs du pilote bêta peuvent être des mainteneurs, des conseillers pédagogiques ou tout autre membre de la communauté Carpentries autre que les développeurs des leçons d'origine. En fait, le recrutement d'instructeurs pilotes bêta qui jouent déjà un rôle actif dans la leçon risque d'être fructueux, car ces personnes sont investies dans la maturation de la leçon. Pour deux ateliers pilotes bêta, vous aurez besoin d'au moins quatre instructeurs. Les auteurs des leçons devraient prévoir de rencontrer virtuellement les instructeurs pilotes avant l'atelier pour répondre aux questions et fournir toute aide technique concernant la configuration.
 
-### Resources for Pilot Workshop Instructors
+### Ressources pour les instructeurs des ateliers pilotes
 
-- [The Lesson Pilot Workshops section of this handbook](lesson-pilots) includes more information about the purpose of lesson pilots, guidance for lesson developers and hosts, templates for communications and feedback surveys, etc.
-- The [Preparing to Teach](https://carpentries.github.io/lesson-development-training/preparing.html) episode of Collaborative Lesson Development Training provides guidance for lesson developers planning alpha pilots for a new lesson.
+- [La section Ateliers pilotes de ce manuel] (lesson-pilots) comprend plus d'informations sur l'objectif des leçons pilotes, des conseils pour les développeurs et les animateurs de leçons, des modèles pour les communications et les enquêtes de satisfaction, etc.
+- L'épisode [Preparing to Teach] (https://carpentries.github.io/lesson-development-training/preparing.html) de Collaborative Lesson Development Training fournit des conseils aux développeurs de leçons qui planifient des pilotes alpha pour une nouvelle leçon.
 
-## Maintainers
+## Mainteneurs
 
-Lesson maintainers are essential for the long-term viability of a lesson. As a lesson is taught, instructors and learners identify potential places for improvement - whether correcting a typo, simplifying code, or suggesting a significant shift in the narrative of a lesson. Maintainers proactively monitor their lesson’s GitHub repository to make sure that issues and suggestions for improvement are addressed in a timely manner. Maintainers also play a vital role in communicating with contributors, ensuring that our community lives up to its ideals in welcoming and appreciating contributions from everyone - from first-time contributors to long-time members of The Carpentries community.
-People acting as maintainers should be experienced with the tools that are taught in the lesson, ideally using it daily or weekly in their own work. In addition, they should have experience working in a relevant domain related to the lesson, and/or experience working with GitHub and the other technologies we use to create and host our lessons. Each lesson should have at least two maintainers, and it is beneficial for those maintainers to have a diversity of experience levels with the domain and technical aspects of the lesson – and the tools for maintenance.
+Les mainteneurs de leçons sont essentiels à la viabilité à long terme d'une leçon. Au fur et à mesure qu'une leçon est enseignée, les professeurs et les apprenants identifient les points à améliorer, qu'il s'agisse de corriger une faute de frappe, de simplifier le code ou de suggérer un changement significatif dans le récit d'une leçon. Les responsables surveillent de manière proactive le référentiel GitHub de leur leçon pour s'assurer que les problèmes et les suggestions d'amélioration sont traités en temps opportun. Les mainteneurs jouent également un rôle essentiel dans la communication avec les contributeurs, en veillant à ce que notre communauté soit à la hauteur de ses idéaux en accueillant et en appréciant les contributions de tous, des nouveaux contributeurs aux membres de longue date de la communauté The Carpentries.
+Les personnes agissant en tant que mainteneurs doivent avoir de l'expérience avec les outils enseignés dans la leçon, idéalement en les utilisant quotidiennement ou chaque semaine dans leur propre travail. En outre, ils doivent avoir de l'expérience dans un domaine pertinent lié à la leçon, et/ou une expérience de travail avec GitHub et les autres technologies que nous utilisons pour créer et héberger nos leçons. Chaque leçon doit avoir au moins deux responsables, et il est avantageux pour ces derniers d'avoir des niveaux d'expérience variés en ce qui concerne le domaine et les aspects techniques de la leçon, ainsi que les outils de maintenance.
 
-### Resources for Maintainers
+### Ressources pour les mainteneurs
 
-- The [Maintainers Handbook](../../handbooks/maintainers.md) includes guidance on communications, lesson repository management, and other aspects of the role.
-- The [Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/) contains the information we provide to Maintainers for official Carpentries lessons when they begin the role.
-- [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/) provides more comprehensive documentation of the lesson infrastructure: the tools we use to build lesson websites from source files in a GitHub repository.
+- Le [Manuel des mainteneurs] (../../handbooks/maintainers.md) comprend des conseils sur les communications, la gestion du référentiel de leçons et d'autres aspects du rôle.
+- Le [Programme d'intégration des mainteneurs] (https://carpentries.github.io/maintainer-onboarding/) contient les informations que nous fournissons aux mainteneurs pour les cours officiels de menuiserie lorsqu'ils entrent en fonction.
+- [Introduction à The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/) fournit une documentation plus complète sur l'infrastructure des leçons : les outils que nous utilisons pour créer des sites Web de leçons à partir des fichiers sources d'un référentiel GitHub.
 
-## Curriculum Advisors
+## Conseillers des programmes
 
-(Although Curriculum Advisors can be very helpful for the development of any new lesson/curriculum, they are only required for official Carpentries curriculum.)
+(Bien que les conseillers pédagogiques puissent être très utiles pour l'élaboration de toute nouvelle leçon/programme, ils ne sont requis que pour le programme officiel de menuiserie.)
 
-While lesson developers and maintainers handle the day-to-day improvement and upkeep of lessons, Curriculum Advisors provide higher level guidance on the direction of that development. Curriculum Advisors should be experts in the domain of the lesson, and aware of the way the skills it teaches are (or need to be) applied in that domain. Curriculum Advisors take responsibility for guiding the development of a whole [curriculum](./curriculum-structure.md): where that curriculum consists of multiple lessons, Curriculum Advisors should consider how it needs to develop as a whole – and how changes in one lesson might impact the others.
+Alors que les concepteurs et les mainteneurs de leçons s'occupent de l'amélioration et de la maintenance quotidiennes des leçons, les conseillers pédagogiques fournissent des conseils de niveau supérieur sur l'orientation de ce développement. Les conseillers pédagogiques doivent être des experts dans le domaine de la leçon et être conscients de la manière dont les compétences enseignées sont (ou doivent être) appliquées dans ce domaine. Les conseillers en programmes ont la responsabilité de guider l'élaboration d'un [programme] complet (./curriculum-structure.md) : lorsque ce programme comprend plusieurs leçons, les conseillers en programmes doivent réfléchir à la manière dont il doit être développé dans son ensemble et à l'impact des modifications apportées à une leçon sur les autres.
 
-If a new lesson is intended to be incorporated into an existing curriculum, the lesson developers should consult the existing Curriculum Advisory Committee about their plans as early in the development process as possible. For example, lesson developers might share an overview of the planned design and content of the lesson before investing a lot of time in creating material. This early consultation allows Curriculum Advisors to comment on the planned lesson, evaluate how easily it will fit into the existing curriculum, and consider the impact it may have on other lessons therein.
+Si une nouvelle leçon est destinée à être intégrée à un programme existant, les concepteurs de leçons doivent consulter le comité consultatif du programme existant au sujet de leurs plans le plus tôt possible dans le processus de développement. Par exemple, les développeurs de leçons peuvent partager un aperçu de la conception et du contenu prévus de la leçon avant d'investir beaucoup de temps dans la création du matériel. Cette consultation précoce permet aux conseillers pédagogiques de commenter la leçon prévue, d'évaluer dans quelle mesure elle s'intégrera facilement au programme existant et de réfléchir à l'impact qu'elle pourrait avoir sur les autres leçons du programme.
 
-### Resources for Curriculum Advisors
+### Ressources pour les conseillers en matière de programmes
 
-The [Curriculum Advisors Handbook](/handbooks/curriculum_advisors.md) includes more information on the role, the logistics of how Curriculum Advisory Committees are run, etc.
+Le [Manuel des conseillers en matière de programmes] (/handbooks/curriculum_advisors.md) contient plus d'informations sur le rôle, la logistique de la gestion des comités consultatifs sur les programmes, etc.
 
-## Reviewers
+## Réviseurs
 
-Feedback is essential to the development of an effective lesson. The primary goal of [pilot workshops](lesson-pilots.md) is to provide feedback that developers can use to improve the design and content of their new lesson. In this regard, instructors at pilot workshops can be considered important reviewers, especially those who conduct and provide feedback from beta pilots. Nevertheless, it can be beneficial to invite additional feedback from reviewers. Reviewers should focus their assessment of a lesson on its utility as an accessible learning and teaching resource, its suitability for its stated target audience, and the accuracy of its content.
-Lesson developers can find reviewers through their own networks, or by communicating with the wider community to call for volunteers. Reviewers might provide feedback and suggest improvements directly, in the form of issues and pull requests on the lesson repository, or via email/discussion. The Carpentries also hosts a platform for structured, open peer review of lessons by the community.
+La rétroaction est essentielle à l'élaboration d'une leçon efficace. L'objectif principal des [ateliers pilotes] (lesson-pilots.md) est de fournir des commentaires que les développeurs peuvent utiliser pour améliorer la conception et le contenu de leur nouvelle leçon. À cet égard, les formateurs participant aux ateliers pilotes peuvent être considérés comme des évaluateurs importants, en particulier ceux qui dirigent et fournissent des commentaires sur les pilotes bêta. Néanmoins, il peut être utile de solliciter des commentaires supplémentaires de la part des évaluateurs. Les évaluateurs doivent axer leur évaluation d'une leçon sur son utilité en tant que ressource d'apprentissage et d'enseignement accessible, sur son adéquation avec son public cible et sur l'exactitude de son contenu.
+Les concepteurs de leçons peuvent trouver des réviseurs via leurs propres réseaux ou en communiquant avec l'ensemble de la communauté pour appeler des volontaires. Les réviseurs peuvent fournir des commentaires et suggérer des améliorations directement, sous la forme de problèmes et de demandes d'extraction sur le référentiel des leçons, ou par e-mail/discussion. The Carpentries héberge également une plateforme d'évaluation structurée et ouverte des leçons par les pairs par la communauté.
 
-### Open Peer Review of Lessons in The Carpentries Lab
+### Évaluation ouverte par les pairs des leçons du laboratoire de menuiserie
 
-[The Carpentries Lab](https://carpentries-lab.org/) hosts community-owned lessons that have passed peer review, and provides a platform for the process of peer review to take place.
-Reviews exist as publicly-visible issue discussions on [the Lab Reviews repository](https://github.com/carpentries-lab/reviews/). Members of The Carpentries community volunteer as Reviewers and Editors for the Lab.
+[The Carpentries Lab] (https://carpentries-lab.org/) propose des leçons gérées par la communauté qui ont été évaluées par les pairs et fournit une plate-forme pour le processus d'évaluation par les pairs.
+Les évaluations existent sous forme de discussions sur des problèmes visibles par le public sur [le référentiel Lab Reviews] (https://github.com/carpentries-lab/reviews/). Les membres de la communauté The Carpentries se portent volontaires en tant que réviseurs et éditeurs pour le laboratoire.
 
-### Resources for Reviewers
+### Ressources pour les évaluateurs
 
-- Documentation on the Carpentries Lab Reviews repository provides [more information about the peer review process](https://github.com/carpentries-lab/reviews?tab=readme-ov-file#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab), and [the guidance provided to Reviewers](https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md).
-- The Carpentries [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) provides guidance on best practices in lesson design and content development, which can be used to inform lesson reviews.
+- La documentation du référentiel Carpentries Lab Reviews fournit [plus d'informations sur le processus d'évaluation par les pairs] (https://github.com/carpentries-lab/reviews?tab=readme-ov-file#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab) et [les conseils fournis aux évaluateurs] (https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md).
+- The Carpentries [Collaborative Lesson Development Training] (https://carpentries.github.io/lesson-development-training/) fournit des conseils sur les meilleures pratiques en matière de conception de leçons et de développement de contenu, qui peuvent être utilisées pour éclairer les révisions des leçons.
 
