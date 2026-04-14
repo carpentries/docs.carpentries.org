@@ -1,42 +1,42 @@
-# Donation Request Resources
+# Ressources pour les demandes de dons
 
-## Introduction
+## Présentation
 
-The following resources were created to aid The Carpentries community in fundraising for the organisation.
+Les ressources suivantes ont été créées pour aider la communauté de The Carpentries à collecter des fonds pour l'organisation.
 
-## Donation Request Letter - Individual
+## Lettre de demande de don - Individuel
 
-Email Subject Line: A Call to Action: Help The Carpentries with its Fundraising Efforts
+Objet du courriel : Un appel à l'action : aidez The Carpentries dans ses efforts de collecte de fonds
 
-Dear \[potential donor’s name\]
+Cher \ [nom du donateur potentiel \]
 
-My name is \[your name\], and I am the \[position or role at your institution\]. I am also \[position or role\] with The Carpentries, an organisation whose mission is to build global capacity in essential data and computational skills. The Carpentries helps train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research.
+Je m'appelle \ [votre nom \], et je suis le \ [poste ou rôle au sein de votre institution \]. Je suis également \ [poste ou rôle \] au sein de The Carpentries, une organisation dont la mission est de renforcer les capacités mondiales en matière de données essentielles et de compétences informatiques. The Carpentries aide à former et à favoriser une communauté active, inclusive et diversifiée d'apprenants et de formateurs qui promeut et modélise l'importance des logiciels et des données dans la recherche.
 
-In February 2025 The Carpentries [transitioned out of fiscal sponsorship](https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/) to operate as an independent 501(c)(3) non-profit organisation, and is seeking donations from individuals who wish to support the sustainability of its independence to carry out its global mission. Independence empowers The Carpentries with greater autonomy, allowing it the flexibility to innovate, experiment, and respond swiftly to emerging trends and challenges in data science and education.
+En février 2025, The Carpentries [est passée du parrainage fiscal] (https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/) pour fonctionner en tant qu'organisation indépendante à but non lucratif 501 (c) (3), et sollicite des dons auprès de personnes souhaitant soutenir la durabilité de son indépendance afin de mener à bien sa mission mondiale. L'indépendance confère à The Carpentries une plus grande autonomie, lui permettant d'innover, d'expérimenter et de répondre rapidement aux tendances et défis émergents en matière de science des données et d'enseignement.
 
-**You can support the sustainability of our independence by donating any amount.**
+\*\*Vous pouvez soutenir la durabilité de notre indépendance en faisant un don de n'importe quel montant. \*\*
 
-The Carpentries supports more than 5,000 highly skilled Instructors in communities in over 100 countries across the world. We have experience training educators, researchers, librarians, and technologists. We are working to scale our Instructor Training and curriculum development programs to respond to the shift in the nature of education around the world. **Now more than ever we need you to champion our mission**. You can help us teach data skills to the communities that need them most by donating any amount you feel comfortable with.
+The Carpentries soutient plus de 5 000 instructeurs hautement qualifiés dans des communautés de plus de 100 pays à travers le monde. Nous avons de l'expérience dans la formation d'éducateurs, de chercheurs, de bibliothécaires et de technologues. Nous nous efforçons de développer nos programmes de formation des instructeurs et de développement de programmes afin de répondre à l'évolution de la nature de l'éducation dans le monde. **Aujourd'hui plus que jamais, nous avons besoin de vous pour défendre notre mission**. Vous pouvez nous aider à enseigner les compétences en matière de données aux communautés qui en ont le plus besoin en faisant don du montant qui vous convient le mieux.
 
-Donating even a small amount can make a big difference \- we value all contributions. Your donation will allow The Carpentries to scale as an independent tax-exempt non-profit organisation,and will help bring Carpentries programming to individuals who might otherwise have barriers to participation.
+Faire un don, même minime, peut faire une grande différence \ - nous apprécions toutes les contributions. Votre don permettra à The Carpentries de devenir une organisation indépendante à but non lucratif exonérée d'impôts et aidera à proposer la programmation de Carpentries à des personnes qui pourraient autrement rencontrer des obstacles à la participation.
 
-If you are interested in supporting The Carpentries’ mission of teaching data skills globally, {{"[please visit our Donate page]({})".format(donate_letter)}} to give any amount you are comfortable with.
+Si vous souhaitez soutenir la mission de The Carpentries qui consiste à enseigner les compétences en matière de données dans le monde entier, {{"[veuillez visiter notre page de dons] ({}) » .format (donate_letter)}} pour donner le montant qui vous convient.
 
-Thank you so much\!
+Merci beaucoup \ !
 
-Sincerely,  
-\[Your name\]  
-\[Your role within The Carpentries\]
+Cordialement,  
+ \ [Votre nom \]  
+ \ [Votre rôle au sein de The Carpentries \]
 
-## Short Calls to Action/Mastodon Length Messages
+## Courts appels à l'action et messages de la longueur d'un mastodonte
 
-- A Call To Action: Support The Carpentries <br />
-  Consider donating to The Carpentries to help us reach our annual fundraising goal! <br /> {{ donate_letter }}
+- Un appel à l'action : Soutenez The Carpentries <br />
+  Pensez à faire un don à The Carpentries pour nous aider à atteindre notre objectif annuel de collecte de fonds ! <br /> {{ donate_letter }}
 
-- “The Carpentries supports more than 4,200 highly skilled instructors in communities in 65 countries. Now more than ever, we need you to champion our mission.” - Dr. Kari L. Jordan <br />
-  Help us teach data skills to the communities that need them most.<br />
+- « The Carpentries soutient plus de 4 200 instructeurs hautement qualifiés dans des communautés de 65 pays. Aujourd'hui plus que jamais, nous avons besoin de vous pour mener à bien notre mission. » - Dr. Kari L. Jordan <br />
+  Aidez-nous à enseigner les compétences en matière de données aux communautés qui en ont le plus besoin.<br />
   {{ donate_letter }}
 
-- Thank you to everyone who has donated to help The Carpentries achieve our mission! With your help, we are on track to reach our goal. Please consider donating to help us achieve our annual fundraising goal.<br />
+- Merci à tous ceux qui ont fait un don pour aider The Carpentries à réaliser sa mission ! Avec votre aide, nous sommes sur la bonne voie pour atteindre notre objectif. Pensez à faire un don pour nous aider à atteindre notre objectif annuel de collecte de fonds.<br />
   {{ donate_letter }}
 
