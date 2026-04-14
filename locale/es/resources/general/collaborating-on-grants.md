@@ -1,54 +1,54 @@
-# Una guía para colaborar con The Carpentries en materia de subvenciones
+# A Guide for Collaborating with The Carpentries on Grants
 
-## Declaración a los colaboradores interesados
+## Statement to Interested Collaborators
 
-Esta guía fue desarrollada para posibles colaboradores interesados en involucrar a The Carpentries en una propuesta de subvención. Valoramos todas las contribuciones a nuestra misión y nos entusiasma colaborar con personas y organizaciones interesadas en actividades alineadas con la misión (es decir, talleres de carpintería, capacitación de instructores, planes de estudios y desarrollo comunitario). Ofrecemos dos opciones para colaborar con The Carpentries en las propuestas de subvenciones:
+This guide was developed for potential collaborators interested in involving The Carpentries in a grant proposal. We value all contributions to our mission and are excited to collaborate with individuals and organisations interested in mission-aligned activities (i.e., Carpentries workshops, Instructor training, curriculum, and community development). We offer two options for collaborating with The Carpentries on grant proposals:
 
-1. **Solicita una carta de apoyo**. Si tiene previsto incluir en su propuesta de subvención la programación de Carpentries (es decir, talleres, asociaciones o plazas de formación de instructores) y desea solicitar una carta de apoyo, [complete este formulario] (https://carpentries.typeform.com/to/oK25vSPE). Los precios de la programación de Carpentries están en nuestra [página de asociación] (https://carpentries.org/support/partnership/). Todas las solicitudes de cartas de apoyo requieren **cinco días laborables** para tramitarse.
+1. **Request a letter of support**. If you are planning to budget Carpentries programming (i.e., workshops, Partnership, Instructor Training seats) into your grant proposal and would like to request a letter of support, please [complete this form](https://carpentries.typeform.com/to/oK25vSPE). Pricing for Carpentries programming is on our [partnership page](https://carpentries.org/support/partnership/). All requests for letters of support require **five business days** to be fulfilled.
 
-2. **Solicitud para conocer a uno de los líderes de nuestro programa**. Si tiene una idea para apoyar a una de las {{'[prioridades estratégicas] ({}/about-us/strategic-plan/) '.format (carpentries_website)}} de los Carpentries y desea coescribir una propuesta de subvención, programe una reunión con el director del programa correspondiente utilizando los enlaces que aparecen a continuación. Los requisitos mínimos para coescribir una propuesta de subvención con The Carpentries se proporcionan a continuación.
+2. **Request to meet one of our program leads**. If you have an idea supporting one of the Carpentries' {{'[strategic priorities]({}/about-us/strategic-plan/)'.format(carpentries_website)}} and would like to co-write a grant proposal, please schedule a meeting with the corresponding program lead using the links below. Minimum requirements for co-writing a grant proposal with The Carpentries are provided below.
 
-- [Carpinterías en África] (https://calendly.com/angelique_v) - Angelique Trusler
-- [Participación de la comunidad] (https://calendly.com/angelique_v) - Angelique Trusler
-- [Currículo y capacitación colaborativa para el desarrollo de lecciones (CLDT)] (https://calendly.com/tobyhodges) - Toby Hodges
-- [Asociación] (https://calendly.com/ebecker-1) - Erin Becker
-- [Talleres, formación de instructores y formación de formadores] (https://calendly.com/sheraaron/) - SherAaron Hurt
+- [Carpentries in Africa](https://calendly.com/angelique_v) - Angelique Trusler
+- [Community Engagement](https://calendly.com/angelique_v) - Angelique Trusler
+- [Curriculum and Collaborative Lesson Development Training (CLDT)](https://calendly.com/tobyhodges) - Toby Hodges
+- [Partnership](https://calendly.com/ebecker-1) - Erin Becker
+- [Workshops, Instructor Training, and Trainer Training](https://calendly.com/sheraaron/) - SherAaron Hurt
 
-Lo invitamos a incluir The Carpentries en su subvención para apoyar talleres, asociaciones y capacitación de instructores, ya sea que presente su solicitud como institución individual o como consorcio. También nos complace colaborar en propuestas de subvenciones que respalden nuestra misión, [valores fundamentales] (https://carpentries.org/values/) y prioridades. Esta guía debe usarse como un recurso antes del desarrollo de la propuesta.
+We invite you to include The Carpentries in your grant to support workshops, Partnership, and Instructor Training whether you apply as an individual institution or a consortium. We are also happy to collaborate on grant proposals supporting our mission, [core values](https://carpentries.org/values/), and priorities. This guide should be used as a resource in advance of proposal development.
 
-## ¿Cómo se financia The Carpentries?
+## How is The Carpentries Funded?
 
-Los financiadores que ayudan a The Carpentries a cumplir nuestra misión y visión _**financieramente**_ incluyen [Organizaciones asociadas] (https://carpentries.org/support/partnership/partner-list/) y [Patrocinadores] (https://carpentries.org/sponsorship/), fundaciones caritativas. The Carpentries se financia actualmente con subvenciones y patrocinios (~ 16%), asociaciones (~ 68%), tarifas programáticas (~ 15%) y otras fuentes, incluidas las donaciones. Nuestro objetivo es ser transparentes en cuanto a nuestras fuentes de ingresos y a la forma en que se alinean con nuestra visión y valores, y buscamos financiación para apoyar las prioridades actuales y los objetivos futuros en consonancia con nuestro {{'[plan estratégico] ({}/about-us/strategic-plan/) '.format (carpentries_website)}}.
+Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Partner Organisations](https://carpentries.org/support/partnership/partner-list/) and [Sponsors](https://carpentries.org/sponsorship/), charitable foundations. The Carpentries is currently funded by grants and sponsorships (~16%), Partnerships (~68%), programmatic fees (~15%), and other sources including donations. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our {{'[strategic plan]({}/about-us/strategic-plan/)'.format(carpentries_website)}}.
 
-A continuación se muestra una lista de las fuentes de subvenciones y patrocinadores que han financiado The Carpentries.
+Below is a list of sources of grants and sponsors who have funded The Carpentries.
 
-### Subvenciones y subpremios actuales y anteriores
+### Current and Past Grants and Subawards
 
-- [Fundación Alfred P. Sloan] (https://sloan.org/)
-- [Biblioteca digital de California (CDL)] (https://cdlib.org/)
-- [Iniciativa Chan Zuckerberg (CZI)] (https://chanzuckerberg.com/)
-- [Fundación Gordon y Betty Moore] (https://www.moore.org/)
-- [Laboratorio Lawrence Berkeley] (https://www.lbl.gov/)
-- [Programa de soporte de código abierto (MOSS) de Mozilla] (https://www.mozilla.org/en-US/moss/)
-- [Red de la Oficina Nacional de Capacitación (NTO) de la Biblioteca Nacional de Medicina (NNLM)] (https://nnlm.gov/about/offices/nto)
-- [Consorcio R] (https://www.r-consortium.org/)
-- [Departamento de Agricultura de los Estados Unidos (USDA)] (https://www.usda.gov/)
-- [Fundación Mellon] (https://www.mellon.org/grant-programs/public-knowledge)
-- [El Fondo de Navegación] (https://www.navigation.org/)
+- [Alfred P. Sloan Foundation](https://sloan.org/)
+- [California Digital Library (CDL)](https://cdlib.org/)
+- [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/)
+- [Gordon and Betty Moore Foundation](https://www.moore.org/)
+- [Lawrence Berkeley Laboratory](https://www.lbl.gov/)
+- [Mozilla Open Source Support (MOSS) Program](https://www.mozilla.org/en-US/moss/)
+- [Network of the National Library of Medicine (NNLM) National Training Office (NTO)](https://nnlm.gov/about/offices/nto)
+- [R Consortium](https://www.r-consortium.org/)
+- [United States Department of Agriculture (USDA)](https://www.usda.gov/)
+- [Mellon Foundation](https://www.mellon.org/grant-programs/public-knowledge)
+- [The Navigation Fund](https://www.navigation.org/)
 
-Para obtener más información sobre las subvenciones que hemos recibido de estas fuentes, lea nuestras [publicaciones de blog etiquetadas como subvenciones] (https://carpentries.org/blog/posts-by-tags/#blog-tag-grants).
+For more information about grants we have received from these sources, please read our [blog posts tagged grants](https://carpentries.org/blog/posts-by-tags/#blog-tag-grants).
 
-### Patrocinadores actuales y pasados
+### Current and Past Sponsors
 
-- [Socios biotecnológicos] (http://www.biotechpartners.org/)
-- [Jump Recruits, LLC] (https://jumprecruits.com/)
-- [Publicar PBC] (https://rstudio.com/)
+- [Biotech Partners](http://www.biotechpartners.org/)
+- [Jump Recruits, LLC](https://jumprecruits.com/)
+- [Posit PBC](https://rstudio.com/)
 
-Para obtener más información sobre las oportunidades de patrocinio, visita nuestra [página del Programa de patrocinio] (https://carpentries.org/sponsorship/).
+For more information about sponsorship opportunities, visit our [Sponsorship Program page](https://carpentries.org/sponsorship/).
 
-## Requisitos mínimos para coescribir una beca con The Carpentries
+## Minimum Requirements for Co-Writing a Grant with The Carpentries
 
-The Carpentries ha identificado los resultados ideales para recibir apoyo en especie o subvenciones para el desarrollo curricular, el desarrollo comunitario, los talleres, la formación de instructores y la infraestructura. Por lo general, estos proyectos requieren que un porcentaje del tiempo del equipo principal de The Carpentries se destine al presupuesto de la subvención para apoyar el desarrollo, la administración y la infraestructura del programa. A continuación se muestran ejemplos de requisitos mínimos para coescribir una subvención con The Carpentries.
+The Carpentries has identified deliverables ideal for in-kind support and/or grant funding in curriculum development, community development, workshops, instructor training, and infrastructure. These projects typically require that a percentage of The Carpentries Core Team time be written into the grant budget to support program development, administration, and infrastructure. Below are examples of minimum requirements for co-writing a grant with The Carpentries.
 
-- \*\*Plazo: \*\* Espere de 3 a 6 meses para trabajar en una propuesta de subvención con un líder del equipo principal. Espere varias reuniones/sesiones de trabajo conjunto para desarrollar la narrativa y el presupuesto de la propuesta durante ese tiempo. Se elaborará conjuntamente un cronograma más claro una vez que se haya tomado la decisión de seguir adelante con la redacción de una subvención.
-- \*\*Presupuesto: \*\* The Carpentries es una organización sin fines de lucro 501 (c) (3). Por lo tanto, todas las propuestas presupuestarias incluirán una tarifa general del 20%. Además, para cualquier personal clave que trabaje en la subvención, se debe incluir en el presupuesto un \*\*mínimo del 15% \*\* de su tiempo durante la subvención. El personal clave puede incluir, pero no se limita a, los líderes del equipo principal, los administradores o los contratistas que trabajan con The Carpentries. Por último, el apoyo que se incluirá en el presupuesto de una subvención puede incluir infraestructura, equipo y/o viajes, según corresponda.
+- **Timeframe:** Please allow 3-6 months to work on a grant proposal with a Core Team Lead. Expect several meetings/co-working sessions to develop the proposal narrative and budget during that time. A clearer timeline will be co-developed once a decision to move forward with writing a grant has been made.
+- **Budget:** The Carpentries is a 501(c)(3) non-profit organisation. As such, all budget proposals will include a 20% overhead fee. Additionally, for any key personnel working on the grant, a **minimum of 15%** of their time throughout the grant must be included in the budget. Key personnel may include, but is not limited to, Core Team Leads, administrators, or contractors working with The Carpentries. Lastly, support to be written into a grant budget may include infrastructure, equipment, and/or travel as appropriate.
