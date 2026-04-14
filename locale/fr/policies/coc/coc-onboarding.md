@@ -1,68 +1,68 @@
-# CoCc Onboarding procedures for new members
+# Procédures d'intégration du CoCC pour les nouveaux membres
 
-Any voting member of the Carpentries community, as defined in The Carpentries bylaws, is eligible to express their interest to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/).
-The Committee will invite new members every year  through open calls and from available volunteers. When a current member needs to step down quickly/urgently, the Onboarding team will open an extraordinary call for volunteers.
+Tout membre votant de la communauté Carpentries, telle que définie dans les statuts de The Carpentries, peut exprimer son intérêt à se porter volontaire pour siéger au [Comité du Code de conduite (CoCC)] (https://carpentries.org/coc-ctte/).
+Le Comité invitera de nouveaux membres chaque année par le biais d'appels ouverts et auprès de bénévoles disponibles. Lorsqu'un membre actuel doit quitter ses fonctions rapidement ou de toute urgence, l'équipe d'intégration lance un appel extraordinaire à des bénévoles.
 
-The [template document](https://docs.google.com/document/d/12GtF4xbnfm0aopKZAUOaFhKJ1OB1SOj09PHBbxY55kk/edit?usp=sharing) provides a set of questions used in the previous calls for application. These questions can be updated or changed by the Code of Conduct committee for subsequent calls as needed.
+Le [modèle de document] (https://docs.google.com/document/d/12GtF4xbnfm0aopKZAUOaFhKJ1OB1SOj09PHBbxY55kk/edit?usp=sharing) fournit une série de questions utilisées lors des précédents appels à candidatures. Ces questions peuvent être mises à jour ou modifiées par le comité du code de conduite pour les appels ultérieurs, selon les besoins.
 
-Application review is carried out by the onboarding team members, and applicants are selected based on their previous experience and motivation to support the work of CoCc in the future.
-The onboarding team brings their decision to be discussed by the rest of the CoCc. The rest of the CoCc flags issues or concerns and confirms the selection when they agree with the initial decision.
-New members are invited to sit in the CoCc as full members upon their onboarding as described below.
+L'examen des candidatures est effectué par les membres de l'équipe d'intégration, et les candidats sont sélectionnés en fonction de leur expérience antérieure et de leur motivation à soutenir le travail du CoCC à l'avenir.
+L'équipe d'intégration prend sa décision pour qu'elle soit discutée par le reste du CoCC. Les autres membres du CoCC signalent les problèmes ou les préoccupations et confirment la sélection lorsqu'ils sont d'accord avec la décision initiale.
+Les nouveaux membres sont invités à siéger au CoCC en tant que membres à part entière lors de leur intégration, comme décrit ci-dessous.
 
-## General onboarding procedure:
+## Procédure d'intégration générale :
 
-Members invited or elected as Staff/Core Team and EC liaison, as well as selected through open calls for volunteers, will become full members through the following onboarding process:
+Les membres invités ou élus en tant que personnel/équipe principale et agent de liaison avec la CE, ainsi que sélectionnés par le biais d'appels ouverts à des volontaires, deviendront membres à part entière selon le processus d'intégration suivant :
 
-- Read [the Code of Conduct document](index.md)
-  - Review CoC [process flow diagram](index.md#process-flow-diagram)
-- Read the first chapter of [How to respond to Code of Conduct Reports](https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view), a book by Valerie Aurora, based on a short guide written by Mary Gardiner.
-- Read the four CoC policy documents
+- Lisez [le document sur le code de conduite] (index.md)
+  - Réviser le CoC [diagramme de flux de processus] (index.md#process-flow-diagram)
+- Lisez le premier chapitre de [How to respond to Code of Conduct Reports] (https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view), un livre de Valerie Aurora, basé sur un petit guide écrit par Mary Gardiner.
+- Lisez les quatre documents de politique du CoC
 
-* [Incident Response Guidelines](incident-response.md)
-* [Incident Reporting Guidelines](incident-reporting.md)
-* [Incident Response Procedure](enforcement-guidelines.md)
-* [Termed Suspension Guidelines](termed-suspension.md)
+* [Directives de réponse aux incidents] (incident-response.md)
+* [Directives relatives au signalement des incidents] (incident-reporting.md)
+* [Procédure de réponse aux incidents] (enforcement-guidelines.md)
+* [Directives dites de suspension] (termed-suspension.md)
 
-- Review the [membership agreement](coc-membership-agreement.md) (includes confidentiality agreement)
-- Review the [CoCc Governance Document](coc-governance.md)
-- Participate in an onboarding meeting: Bring questions, challenge our processes and finish onboarding.
-- Send an acknowledgment of the [membership agreement](coc-membership-agreement.md) by email to the committee.
+- Consultez le [contrat d'adhésion] (coc-membership-agreement.md) (comprend un accord de confidentialité)
+- Consultez le [Document de gouvernance du CoCC] (coc-governance.md)
+- Participez à une réunion d'intégration : posez des questions, remettez en question nos processus et terminez l'intégration.
+- Envoyez un accusé de réception de la [convention d'adhésion] (coc-membership-agreement.md) par e-mail au comité.
 
-### Access to CoCc resources
+### Accès aux ressources du CoCC
 
-The Onboarding committee will file a GitHub Issue to update the composition of the CoCc (onboarded/offboarded members). The Staff/Core Team Liaison will add the new members to and remove previous members from the:
+Le comité d'intégration déposera un problème GitHub pour mettre à jour la composition du CoCC (membres intégrés/non intégrés). L'agent de liaison entre le personnel et l'équipe principale ajoutera les nouveaux membres et retirera les anciens membres des :
 
-- Mailing list (coc@carpentries.org)
-- Google drive folder (non-restricted for all members)
-- Google drive folder (restricted for chairs and staff liaison)
-- Update CoCc web page with bio: https://carpentries.org/coc-ctte/
-- Slack Channels: Private for CoCc for discussion and updates
+- Liste de diffusion (coc@carpentries.org)
+- Dossier Google Drive (non restreint pour tous les membres)
+- Dossier Google Drive (réservé aux présidents et aux agents de liaison avec le personnel)
+- Mettre à jour la page Web du CoCC avec la biographie : https://carpentries.org/coc-ctte/
+- Chaînes Slack : privées pour les discussions et les mises à jour du CoCC
 
-#### Information management
+#### Gestion de l'information
 
-- New members need to not have access to previous incidents
-- Staff liaison should be responsible for maintaining previous records
-- Only the Staff Liaison and the CoCc chair have access to the restricted Google Drive where reports are received and stored - and names and information of the reporters and reportees are maintained. They are responsible for communicating that with the rest of the committee.
-- All notes are maintained in another Google drive that are accessible for all CoCc members. Report handling meeting notes are taken with pseudonymised the reporter and reportee names.
-- All transparency reports are released periodically on GitHub repository for Executive Council, maintained under The Carpentries GitHub organisation: https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports.
-- All CoCc policies are released on [The Carpentries Handbook](/policies/coc/index.md).
+- Les nouveaux membres ne doivent pas avoir accès aux incidents précédents
+- Les agents de liaison avec le personnel devraient être chargés de tenir à jour les dossiers précédents
+- Seuls l'agent de liaison du personnel et le président du CoCC ont accès au Google Drive restreint où les rapports sont reçus et stockés, et les noms et informations des journalistes et des déclarants sont conservés. Ils sont chargés de communiquer cela au reste du comité.
+- Toutes les notes sont conservées dans un autre lecteur Google accessible à tous les membres du CoCC. Les notes de réunion de gestion des rapports sont prises avec un pseudonyme du journaliste et des déclarants.
+- Tous les rapports de transparence sont publiés périodiquement sur le référentiel GitHub pour le Conseil exécutif, géré par l'organisation GitHub The Carpentries : https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports.
+- Toutes les politiques du CoCC sont publiées sur [The Carpentries Handbook] (/policies/coc/index.md).
 
-### Next steps
+### Prochaines étapes
 
-- The Carpentries Staff Team and Executive Council (EC) will be notified by the onboarding team members about any new members
-- All CoCc members will be eligible to join general discussion and business meetings upon their onboarding
-- New Staff/Core Team Liaison will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and had a handover meeting with the previous Team Liaison stepping down from this role
-- New EC Liaison will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and had a handover meeting with the previous EC Liaison stepping down from this role
-- All members will follow the [membership agreement](coc-membership-agreement.md) (includes confidentiality agreement) and the [governance procedure](coc-governance.md) closely
+- L'équipe du personnel de Carpentries et le Conseil exécutif (CE) seront informés par les membres de l'équipe d'intégration de tout nouveau membre
+- Tous les membres du CoCC pourront participer à des discussions générales et à des réunions d'affaires dès leur intégration
+- Les nouveaux agents de liaison entre le personnel et l'équipe de base ne seront inclus dans les discussions du comité qu'après avoir satisfait aux exigences d'intégration spécifiées par le CoCC et tenu une réunion de transfert avec l'ancien agent de liaison de l'équipe ayant quitté ses fonctions
+- Les nouveaux agents de liaison de la CE ne seront inclus dans les discussions du comité qu'une fois qu'ils auront satisfait aux exigences d'intégration spécifiées par le CoCC et qu'ils auront eu une réunion de transfert avec l'ancien agent de liaison de la CE qui a quitté ses fonctions.
+- Tous les membres suivront de près le [contrat d'adhésion] (coc-membership-agreement.md) (y compris l'accord de confidentialité) et la [procédure de gouvernance] (coc-governance.md)
 
-## Follow-up Procedures
+## Procédures de suivi
 
-### Mock incident-based training as ongoing process
+### Formation simulée basée sur les incidents en tant que processus continu
 
-Upon onboarding of new members, the designated CoCc members (specific area leads) will hold discussion on the following content as part of the CoCc business meeting:
+Lors de l'intégration des nouveaux membres, les membres désignés du CoCC (responsables de domaine spécifiques) discuteront du contenu suivant dans le cadre de la réunion d'affaires du CoCC :
 
-- Discussion based on selected theories from ([How to respond to Code of Conduct Reports](https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view)) -  Aurora and Gardner.
-- Specific CoC policy and enforcement documents
-- Mock-scenario or external incident-based discussions for exercise
+- Discussion basée sur certaines théories tirées de ([Comment répondre aux rapports sur le code de conduite] (https://drive.google.com/file/d/1B3rC9fwSDDVzrJ-e-vCO5O4Q3ndfzy47/view)) - Aurora et Gardner.
+- Politique et documents d'application spécifiques du CoC
+- Discussions basées sur des scénarios simulés ou des incidents externes pour l'exercice
 
-Currently, the CoCc training team is responsible for holding training and discussion sessions as part of the continuing CoC committee development.
+Actuellement, l'équipe de formation du CoCC est chargée d'organiser des sessions de formation et de discussion dans le cadre du développement continu du comité CoC.
