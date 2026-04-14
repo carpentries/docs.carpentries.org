@@ -1,105 +1,105 @@
-# Code of Conduct Termed Suspension Guidelines
+# Code de conduite appelé lignes directrices relatives à la suspension
 
-## The Carpentries Termed Suspension Checklist
+## Liste de contrôle de la menuiserie appelée suspension
 
-As a part of their enforcement options, The Carpentries Code of Conduct (CoC) committee can place a community member in Termed Suspension, where the community member is removed from all Carpentries engagement for a period of time.
+Dans le cadre de ses options d'application, le comité du code de conduite (CoC) de The Carpentries peut placer un membre de la communauté en suspension, où le membre de la communauté est retiré de tout engagement de Carpentries pendant un certain temps.
 
-The goal of a Termed Suspension is to 1) limit a person's participation in virtual and in-person Carpentries spaces for a set time to create a safe space for the community, and 2) to give time and opportunity for the individual to review their response to the incident and demonstrate immediate, ongoing, and demonstrable changes as evaluated by the CoC committee before possible reinstatement.
+L'objectif d'une suspension temporaire est de 1) limiter la participation d'une personne aux espaces de menuiserie virtuels et en personne pendant une durée déterminée afin de créer un espace sûr pour la communauté, et 2) de donner le temps et l'opportunité à la personne de revoir sa réponse à l'incident et de démontrer les changements immédiats, continus et démontrables évalués par le comité du CoC avant une éventuelle réintégration.
 
-In most cases, a Termed Suspension will only be enacted after an incident has been reviewed by the CoC committee and a resolution is reached. However, in severe situations, in particular where there is active harassment, the CoC committee may enact an immediate short-term Termed Suspension while an incident is under review.
+Dans la plupart des cas, une suspension temporaire ne sera promulguée qu'après qu'un incident aura été examiné par le comité du CoC et qu'une résolution aura été trouvée. Cependant, dans les situations graves, en particulier en cas de harcèlement actif, le comité du CoC peut décréter une suspension temporaire immédiate pendant qu'un incident est en cours d'examen.
 
-If there is a decision for a Termed Suspension, the following checklist is followed by the appropriate personnel to enact the Termed Suspension. In accordance with CoC confidentiality guidelines, only essential personnel will be involved in implementation of these actions.
+Si une décision de suspension temporaire est prise, la liste de contrôle suivante est suivie par le personnel approprié pour promulguer la suspension temporaire. Conformément aux directives de confidentialité du CoC, seul le personnel essentiel sera impliqué dans la mise en œuvre de ces actions.
 
-## Online Communication and Communities
+## Communication et communautés en ligne
 
-Revoke access from the following communication channels and communities:
+Révoquez l'accès aux canaux de communication et communautés suivants :
 
-- Email lists on [TopicBox](https://carpentries.topicbox.com/groups)
-- Email lists on Google Groups including but not limited to:
-  - Library Carpentry Governance Group
-  - Library Carpentry Maintainer Onboarding
-  - Code of Conduct Committee
-  - Carpentries Mentoring Groups
-- Twitter:
-  - [@datacarpentry](https://twitter.com/datacarpentry)
-  - [@swcarpentry](https://twitter.com/swcarpentry)
-  - [@libcarpentry](https://twitter.com/libcarpentry)
-  - [@thecarpentries](https://twitter.com/thecarpentries)
-- Blogs
-  - [Data Carpentry](https://datacarpentry.org/blog/)
-  - [Software Carpentry](https://software-carpentry.org/blog/)
-  - [Library Carpentry](https://librarycarpentry.org/blog/)
-  - [The Carpentries](https://carpentries.org/blog/)
-- GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
-- Gitter - Library Carpentry Lobby
-- {{'[Slack]({})'.format(slack)}}
-- [Facebook](https://www.facebook.com/carpentries/)
-- [LinkedIn Carpentries](https://www.linkedin.com/company/the-carpentries/about/) and [LinkedIn Instructors](https://www.linkedin.com/groups/8279689/)
+- Listes d'e-mails sur [TopicBox] (https://carpentries.topicbox.com/groups)
+- Listes d'e-mails sur Google Groups, y compris, mais sans s'y limiter :
+  - Groupe de gouvernance de la menuiserie des bibliothèques
+  - Intégration des mainteneurs en menuiserie de bibliothèque
+  - Comité du code de conduite
+  - Groupes de mentorat en menuiserie
+- Twitter :
+  - [@datacarpentry] (https://twitter.com/datacarpentry)
+  - [@swcarpentry] (https://twitter.com/swcarpentry)
+  - [@libcarpentry] (https://twitter.com/libcarpentry)
+  - [@thecarpentries] (https://twitter.com/thecarpentries)
+- Blogues
+  - [Menuiserie de données] (https://datacarpentry.org/blog/)
+  - [Software Carpentry] (https://software-carpentry.org/blog/)
+  - [Menuiserie de bibliothèque] (https://librarycarpentry.org/blog/)
+  - [Les charpenteries] (https://carpentries.org/blog/)
+- GitHub (y compris, mais sans s'y limiter, la menuiserie de données, la menuiserie de bois, la menuiserie de bibliothèque, les leçons de données, les laboratoires de menuiserie)
+- Gitter - Hall de menuiserie de la bibliothèque
+- {{'[Slack] ({}) '.format (slack)}}
+- [Facebook] (https://www.facebook.com/carpentries/)
+- [LinkedIn Carpentries] (https://www.linkedin.com/company/the-carpentries/about/) et [LinkedIn Instructors] (https://www.linkedin.com/groups/8279689/)
 
-Additionally, the community member will not be allowed to attend community discussions.
+De plus, le membre de la communauté ne sera pas autorisé à participer aux discussions communautaires.
 
-## Teaching Workshops
+## Ateliers pédagogiques
 
-The suspended member will, for the duration of their suspension:
+Le membre suspendu devra, pendant la durée de sa suspension :
 
-- Be asked not to sign up for workshops on the Instructor Spreadsheet.
-- Not be able to participate as a helper at any workshops.
-- Be removed from Eventbrite login access.
-- Not be allowed to plan Self-Organised workshops.
-- Not be allowed to request or host centrally coordinated workshops.
-- Not be listed as an instructor on the “Instructors” webpage.
-- Be removed from the instructors email list.
+- Il vous sera demandé de ne pas vous inscrire aux ateliers sur la feuille de calcul de l'instructeur.
+- Ne pas pouvoir participer en tant qu'assistant à aucun atelier.
+- Être supprimé de l'accès de connexion à Eventbrite.
+- Ne pas être autorisé à planifier des ateliers auto-organisés.
+- Ne pas être autorisé à demander ou à organiser des ateliers coordonnés de manière centralisée.
+- Ne pas être répertorié en tant que professeur sur la page Web « Instructeurs ».
+- Être retiré de la liste d'e-mails des professeurs.
 
-## Organising Workshops
+## Organisation d'ateliers
 
-If the suspended member is a Regional Coordinator or serves in another role whereby they organise workshops for The Carpentries, for the duration of their suspension they will not have access to:
+Si le membre suspendu est coordinateur régional ou occupe une autre fonction consistant à organiser des ateliers pour The Carpentries, pendant la durée de sa suspension, il n'aura pas accès à :
 
-- LastPass
+- Dernier Pass
 - AMY
-- Regional Email
+- E-mail régional
 - Asana
 - HelpScout
 - Zoom
-- Regional Coordinators Slack Channel
-- Regional Coordinators Email List
+- Coordinateurs régionaux Slack Channel
+- Liste électronique des coordonnateurs régionaux
 
-## Instructor Training
+## Formation des instructeurs
 
-The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to:
+Le membre suspendu sera retiré de la page Web « Nos formateurs » pendant la durée de sa suspension. De plus, le membre suspendu ne sera pas autorisé à :
 
-- Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed.
-- Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance.
-- Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension.
-- Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension.
-- Participate in review of applications for open instructor training or Trainer training.
-  Participate as a learner in instructor training.
+- Former des instructeurs ou animer des sessions de démonstration d'enseignement. Le directeur adjoint de la formation des instructeurs (DDIT) vérifiera la démonstration pédagogique Etherpad pour s'assurer que le membre suspendu n'est pas inscrit pour animer des démonstrations d'enseignement et trouvera un formateur de remplacement si nécessaire.
+- Participez aux réunions des formateurs. Le DDIT vérifiera la réunion Etherpad et, si le membre suspendu est inscrit pour y assister, lui enverra un e-mail si nécessaire pour confirmer qu'il ne sera pas présent.
+- Publiez des pull requests (PR), des problèmes ou des commentaires dans le référentiel GitHub de formation des instructeurs. L'accès écrit ou administratif aux référentiels sera supprimé pendant la durée de la suspension.
+- Publiez sur la chaîne Slack de Trainers ou sur les listes de diffusion. Le membre suspendu sera retiré de ces listes pendant la durée de sa suspension.
+- Participez à l'examen des candidatures pour une formation d'instructeur ouverte ou une formation de formateur.
+  Participez en tant qu'apprenant à la formation des instructeurs.
 
-## Trainer Training
+## Formation des formateurs
 
-The suspended member will not be allowed to participate in Trainer Training (if they are currently enrolled) and will not be accepted for Trainer Training (if they apply during the suspension period). Additionally, they will not be allowed to shadow a current Carpentries Trainer. They may apply or reapply for future rounds of Trainer Training.
+Le membre suspendu ne sera pas autorisé à participer à la formation des formateurs (s'il est actuellement inscrit) et ne sera pas accepté à la formation des formateurs (s'il présente une demande pendant la période de suspension). De plus, ils ne seront pas autorisés à suivre un formateur en menuiserie actuel. Ils peuvent postuler ou présenter une nouvelle demande pour les prochains cycles de formation des formateurs.
 
-## Member Organisation and Local Activities
+## Organisation membre et activités locales
 
-The suspended member shall not be involved in officially branded Carpentries workshops or activities at the member or local site for the duration of the suspension. We expect the suspended member to assert that they will be able to carry out this suspension accordingly and to notify the CoC committee if this suspension will interfere with their expected employment duties.
+Le membre suspendu ne doit pas participer à des ateliers ou à des activités de menuiserie portant une marque officielle sur le site membre ou local pendant la durée de la suspension. Nous attendons du membre suspendu qu'il affirme qu'il sera en mesure de mettre en œuvre cette suspension en conséquence et qu'il informe le comité du CoC si cette suspension interfère avec ses fonctions professionnelles attendues.
 
-If the suspension does affect employment duties or the suspended member is the key contact for a member site, the member will work with The Carpentries Executive Director to determine a course of action.
+Si la suspension affecte les tâches professionnelles ou si le membre suspendu est le contact principal d'un site membre, le membre travaillera avec le directeur exécutif de The Carpentries pour déterminer une ligne de conduite.
 
-## Lesson Development and Maintenance
+## Développement et maintenance des leçons
 
-The suspended member will not be allowed to post PRs, issues, or comments to any repository in the carpentries, including but not limited to datacarpentry, swcarpentry, library carpentry, data-lessons, and carpentrieslab organisations. Administrative or write privileges to repositories in these organisations will be removed for the duration of the suspension.
+Le membre suspendu ne sera pas autorisé à publier des PR, des problèmes ou des commentaires dans aucun référentiel des charpenteries, y compris, mais sans s'y limiter, les organisations de charpenterie informatique, de menuiserie de bibliothèque, de leçons de données et de labos de menuiserie. Les privilèges administratifs ou d'écriture accordés aux référentiels de ces organisations seront supprimés pendant la durée de la suspension.
 
-If the suspended member is a Maintainer, their name will be removed from the lessons page and they will not appear on the Maintainers page for the duration of their suspension.
+Si le membre suspendu est mainteneur, son nom sera supprimé de la page des leçons et il n'apparaîtra pas sur la page des mainteneurs pendant la durée de sa suspension.
 
-## Executive Council
+## Conseil exécutif
 
-If the suspended member is a member of the Executive Council, they will not participate in Executive Council responsibilities and will be removed from the Executive Council repositories and list of Executive Council members on the website for the duration of their suspension. The Executive Council will review the CoC incident to determine if a suspension will affect their long term position on the Executive Council.
+Si le membre suspendu est membre du Conseil exécutif, il ne participera pas aux responsabilités du Conseil exécutif et sera retiré des référentiels du Conseil exécutif et de la liste des membres du Conseil exécutif sur le site Web pendant la durée de sa suspension. Le Conseil exécutif examinera l'incident du CoC afin de déterminer si une suspension affectera leur position à long terme au sein du Conseil exécutif.
 
-## Committees, Task Forces, and Other Interactions
+## Comités, groupes de travail et autres interactions
 
-Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended.
+Participation à tous les comités, communautés et groupes de travail (African Task Force, Carpentries en LatinoAmérica, etc.) sera suspendu.
 
-## Other Interactions
+## Autres interactions
 
-- The suspended members' ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
+- La capacité des membres suspendus à se connecter à AMY pour gérer leur propre profil ou d'autres tâches sera révoquée pendant la durée de leur suspension.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
