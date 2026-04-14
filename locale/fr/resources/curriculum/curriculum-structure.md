@@ -1,19 +1,19 @@
-# Curriculum Structure
+# Structure du programme
 
-The Carpentries contains multiple _Lesson Programs_ (Data Carpentry, Library Carpentry, Software Carpentry). Each _Lesson Program_ contains at least one _curriculum_. A curriculum is composed of one or more _lessons_.
-Lessons are built from a series of _episodes_.
+The Carpentries contient plusieurs _programmes de leçons_ (menuiserie de données, menuiserie de bibliothèque, menuiserie logicielle). Chaque _Programme de leçon_ contient au moins un _curriculum_. Un programme est composé d'une ou de plusieurs _leçons_.
+Les leçons sont construites à partir d'une série d' _épisodes_.
 
-More detailed definitions of these terms are available in the {{'[Community Glossary of Terms]({})'.format(glossary)}}.
+Des définitions plus détaillées de ces termes sont disponibles dans le {{'[Glossaire communautaire des termes] ({}) '.format (glossaire)}}.
 
-![The structure of curricula in The Carpentries](img/curriculum-structure.png "schematic showing that a lesson program includes one or more curricula, which each include one or more lessons, which each include one or more episodes.")
+! [La structure des programmes dans The Carpentries] (img/curriculum-structure.png « schéma montrant qu'un programme de cours comprend un ou plusieurs programmes, chacun comprenant une ou plusieurs leçons, chacun comprenant un ou plusieurs épisodes. »)
 
-The table below provides some examples of lessons and episodes that exist within each of our lesson programs.
+Le tableau ci-dessous fournit quelques exemples de leçons et d'épisodes qui existent dans chacun de nos programmes de leçons.
 
-| Lesson Program     | Curriculum | Lesson                                           | Episode                           |
-| :----------------- | :--------- | :----------------------------------------------- | :-------------------------------- |
-| Data Carpentry     | Ecology    | Data Organization in Spreadsheets for Ecologists | Exporting data                    |
-|                    | Genomics   | Data Wrangling and Processing for Genomics       | Assessing Read Quality            |
-| Library Carpentry  | N/A        | Open Refine                                      | Faceting and filtering            |
-|                    | N/A        | The Unix Shell                                   | Automating the tedious with loops |
-| Software Carpentry | N/A        | Plotting and Programming in Python               | Writing Functions                 |
-|                    | N/A        | R para Análisis Científicos Reproducibles        | Guardando datos                   |
+| Programme de cours         | Curriculum | Leçon                                                                     | Épisode                                              |
+| :------------------------- | :--------- | :------------------------------------------------------------------------ | :--------------------------------------------------- |
+| Charpenterie de données    | Écologie   | Organisation des données dans des feuilles de calcul pour les écologistes | Exportation de données                               |
+|                            | Génomique  | Arrangement et traitement des données pour la génomique                   | Évaluation de la qualité de lecture                  |
+| Menuiserie de bibliothèque | N/A        | Ouvrez Affiner                                                            | Facettage et filtrage                                |
+|                            | N/A        | Le shell Unix                                                             | Automatiser les tâches fastidieuses avec des boucles |
+| Menuiserie logicielle      | N/A        | Tracé et programmation en Python                                          | Fonctions d'écriture                                 |
+|                            | N/A        | R pour l'analyse scientifique reproductible                               | Sauvegarde des données                               |
