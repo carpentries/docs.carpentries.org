@@ -1,171 +1,171 @@
-# Lesson Program Governor Handbook
+# Manuel du gouverneur du programme de leçons
 
-## About This Handbook
+## À propos de ce manuel
 
-The Lesson Program Governor Handbook is designed to support members of The
-Carpentries community who are serving as a {{'[Lesson Program Governor]({}/community/lesson_program_governors/)'.format(carpentries_website)}}. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Le manuel du gouverneur du programme de leçons est conçu pour aider les membres de la communauté The
+Carpentries qui agissent en tant que {{'[Gouverneur du programme de leçons] ({}/community/lesson_program_governors/) '.format (carpentries_website)}}. Il est géré par l'équipe du programme The Carpentries.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} ou ouvrez un numéro sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
-## Introduction
+## Présentation
 
-Lesson Program Governors are members of **Lesson Program Governance Committees (LPGCs)**, groups of community members that oversee and guide the strategy and health of The Carpentries Lesson Programs.
+Les gouverneurs des programmes de leçons sont membres des \*\*Comités de gouvernance des programmes de leçons (LPGC) \*\*, des groupes de membres de la communauté qui supervisent et orientent la stratégie et la santé des programmes de leçons The Carpentries.
 
-The responsibilities of Lesson Program Governance Committees fall into three main categories of leadership: strategy, advocacy, and communication.
+Les responsabilités des comités de gouvernance des programmes de cours se répartissent en trois grandes catégories de leadership : stratégie, plaidoyer et communication.
 
-- Strategy:
-  - Monitoring the health of the lesson program and designing strategies to maintain and improve it.
-  - Identifying priorities for growing the community and reach of the lesson program.
-- Advocacy:
-  - Representing the lesson program in their local and professional networks.
-  - Working with the Board of Directors and Core Team to promote the interests of the lesson program within The Carpentries.
-- Communication:
-  - Reporting on the activities, objectives, and needs of the lesson program to the Board of Directors and Core Team.
-  - Engaging the community on topics and projects relevant to the development of the lesson program.
-  - Maintaining up-to-date information about the lesson program on The Carpentries' websites.
+- Stratégie :
+  - Surveiller l'état du programme de cours et concevoir des stratégies pour le maintenir et l'améliorer.
+  - Identifier les priorités pour développer la communauté et la portée du programme de cours.
+- Plaidoyer :
+  - Représenter le programme de cours dans leurs réseaux locaux et professionnels.
+  - Travailler avec le conseil d'administration et l'équipe de base pour promouvoir les intérêts du programme de cours au sein de The Carpentries.
+- Communiquer :
+  - Rendre compte des activités, des objectifs et des besoins du programme de cours au conseil d'administration et à l'équipe principale.
+  - Impliquer la communauté sur des sujets et des projets pertinents pour le développement du programme de cours.
+  - Maintien à jour des informations sur le programme de cours sur les sites Web de The Carpentries.
 
-A Lesson Program Governance Committee will typically have 3-5 members, including at least one member acting in each of the two Officer roles, Chair and Secretary.
+Un comité de gouvernance du programme de leçons est généralement composé de 3 à 5 membres, dont au moins un membre agissant dans chacun des deux rôles d'agent, président et secrétaire.
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-### Chair
+### Chaise
 
-- Prepare agenda for regular meetings, including time estimates for each item.
-- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of the meeting.
-- Assign meeting roles.
-- Serve as the primary point of contact for the Board of Directors, Core Team members, and Curriculum Advisors for the relevant lesson program.
-- Prepare a written update, twice per year, for the Board of Directors, summarising the committee’s activities, main points and outcomes of discussion, and any major decisions made.
-- Communicate with the lesson program community and the Core Team, through GitHub issues, blog posts, or another appropriate platform, about decisions made by the LPGC.
-- Coordinate with Curriculum Team Lead (Toby Hodges) to request information and support from the Core Team to help the LPGC perform its functions, e.g. data and information relating to the health of the lesson program, or delegate responsibility for this to another committee member.
-- Notify the Curriculum Team Lead if an LPGC member needs to step down mid-term or becomes unresponsive to communications so that the Core Team can help recruit a replacement if needed.
-- Approve meeting minutes.
-- Fulfil all other responsibilities of an LPGC member.
+- Préparez l'ordre du jour des réunions régulières, y compris des estimations de temps pour chaque point.
+- Établissez l'ordre du jour et envoyez-le avec tout autre document pertinent aux membres du comité au moins une semaine avant la réunion.
+- Attribuez des rôles aux réunions.
+- Servir de point de contact principal pour le conseil d'administration, les membres de l'équipe principale et les conseillers pédagogiques pour le programme de cours concerné.
+- Préparer une mise à jour écrite, deux fois par an, pour le conseil d'administration, résumant les activités du comité, les principaux points et les résultats des discussions, ainsi que toutes les décisions importantes prises.
+- Communiquez avec la communauté du programme de cours et l'équipe principale, via des numéros GitHub, des articles de blog ou toute autre plateforme appropriée, au sujet des décisions prises par le LPGC.
+- Coordonnez-vous avec le chef de l'équipe chargée du programme (Toby Hodges) pour demander des informations et un soutien à l'équipe principale afin d'aider le LPGC à remplir ses fonctions, par exemple des données et des informations relatives à l'état du programme de cours, ou déléguez la responsabilité à un autre membre du comité.
+- Informez le responsable de l'équipe du programme si un membre de la LPGC doit quitter ses fonctions à la mi-mandat ou ne répond pas aux communications afin que l'équipe principale puisse aider à recruter un remplaçant si nécessaire.
+- Approuver le procès-verbal de la réunion.
+- Assumez toutes les autres responsabilités d'un membre de la LPGC.
 
-### Secretary
+### Secrétaire
 
-- Schedule regular meetings.
-- Arrange meeting room logistics.
-- Send calendar invites.
-- Send meeting reminders.
-- Prepare meeting minutes and post them to the appropriate LPGC GitHub repository.
-- Fulfil all other responsibilities of an LPGC member.
+- Planifiez des réunions régulières.
+- Organiser la logistique de la salle de réunion.
+- Envoyez des invitations au calendrier.
+- Envoyez des rappels de réunion.
+- Préparez les comptes rendus des réunions et publiez-les dans le référentiel GitHub de la LPGC approprié.
+- Assumez toutes les autres responsabilités d'un membre de la LPGC.
 
-### Other members
+### Autres membres
 
-- Notify the Chair of potential agenda items as they arise.
-- Review the agenda and other relevant documents sent by the Chair before the meeting.
-- Attend and actively participate in regular meetings by being attentive, and sharing knowledge, expertise, ideas, and information.
-- Participate in asynchronous voting through GitHub as needed.
-- Work with community members and the Core Team to implement voted-upon changes as needed.
-- (Optional) Be involved in discussions relevant to the LPGC on GitHub and elsewhere.
+- Informez le président des points potentiels à l'ordre du jour au fur et à mesure qu'ils se présentent.
+- Passez en revue l'ordre du jour et les autres documents pertinents envoyés par le président avant la réunion.
+- Assistez et participez activement aux réunions régulières en étant attentif et en partageant vos connaissances, votre expertise, vos idées et vos informations.
+- Participez au vote asynchrone via GitHub si nécessaire.
+- Travaillez avec les membres de la communauté et l'équipe principale pour mettre en œuvre les modifications votées si nécessaire.
+- (Facultatif) Participez aux discussions concernant le LPGC sur GitHub et ailleurs.
 
-## Onboarding
+## Intégration
 
-_Details of frequency and format of future Lesson Program Governor selections coming soon..._
+_Les détails sur la fréquence et le format des futures sélections des gouverneurs du programme de leçons seront bientôt disponibles... _
 
-- Rounds of recruitment will be announced on The Carpentries blog.
-- Onboarding aims to provide new Lesson Program Governors with context for the role of how LPGCs fit into The Carpentries model for community governance, and what they can expect as they prepare to join their first committee meeting.
-- The first onboarding for Lesson Program Governors took place in three parts:
-  - A general onboarding for all Lesson Program Governors
-  - An optional but recommended session on [How to Run a Meeting](#how-to-run-a-meeting-presentation), led by Greg Wilson
-  - An additional onboarding for the committee officers (Roles and responsibilities above)
-- Onboardings are delivered by the Curriculum Team over Zoom, with the possibility of being onboarded through a recording of the sessions available for those who cannot attend synchronously.
-  - Links to onboarding slides are provided in [the Resources section](#resources).
-- After these onboarding sessions, Lesson Program Governors should complete the following steps:
-  - [Log into AMY](https://amy.carpentries.org/) with GitHub credentials and update their profile.
-  - When updating their AMY profile, it is essential that Governors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
-  - Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups).
-- Subscribe to notifications from the GitHub repository for their committee
-  - Repositories for each committee are listed in [the Communication and Collaboration Spaces section](#communication-and-collaboration-spaces).
+- Les cycles de recrutement seront annoncés sur le blog The Carpentries.
+- L'intégration vise à fournir aux nouveaux directeurs de programmes de cours un contexte expliquant comment les LPGC s'intègrent dans le modèle de gouvernance communautaire de The Carpentries et ce à quoi ils peuvent s'attendre lorsqu'ils se préparent à participer à la première réunion de leur comité.
+- La première intégration des directeurs des programmes de cours s'est déroulée en trois étapes :
+  - Une intégration générale pour tous les directeurs de programme de cours
+  - Une session facultative mais recommandée sur [Comment organiser une réunion] (#how-to-run-a-meeting-presentation), dirigée par Greg Wilson
+  - Une intégration supplémentaire pour les membres du comité (rôles et responsabilités ci-dessus)
+- Les intégrations sont dispensées par l'équipe du programme via Zoom, avec la possibilité d'être intégrées via un enregistrement des sessions disponible pour ceux qui ne peuvent pas y assister de manière synchrone.
+  - Des liens vers les diapositives d'intégration sont fournis dans [la section Ressources] (#resources).
+- Après ces sessions d'intégration, les directeurs des programmes de cours doivent suivre les étapes suivantes :
+  - [Connectez-vous à AMY] (https://amy.carpentries.org/) avec les informations d'identification GitHub et mettez à jour son profil.
+  - Lors de la mise à jour de leur profil AMY, il est essentiel que les gouverneurs autorisent The Carpentries à publier leur profil afin qu'il puisse être répertorié sur les sites Web de The Carpentries.
+  - Inscrivez-vous à la liste de diffusion de leur comité sur [The Carpentries TopicBox] (https://carpentries.topicbox.com/groups).
+- Abonnez-vous aux notifications du référentiel GitHub pour leur comité
+  - Les référentiels de chaque comité sont répertoriés dans [la section Espaces de communication et de collaboration] (#communication-and-collaboration-spaces).
 
-### Term Length
+### Durée du mandat
 
-Term lengths for Lesson Program Governors are defined in the charter document of each committee. The committee charter can be found in the committee’s GitHub repository.
+La durée du mandat des directeurs des programmes de cours est définie dans la charte de chaque comité. La charte du comité se trouve dans le référentiel GitHub du comité.
 
-## Offboarding
+## Débarquement
 
-Offboarding is necessary when a Lesson Program Governor’s term ends or if they choose to step away from the role for any other reason. If a Governor wishes to leave their role outside the standard term limit, they should [notify the Curriculum Team](mailto:curriculum@carpentries.org).
+Le départ est nécessaire lorsque le mandat du gouverneur d'un programme de cours prend fin ou s'il choisit de quitter ses fonctions pour toute autre raison. Si un gouverneur souhaite quitter ses fonctions en dehors de la limite de mandat normale, il doit [en informer l'équipe chargée du programme] (mailto:curriculum@carpentries.org).
 
-Lesson Program Governor offboarding includes the following steps, which will be coordinated by the Curriculum Team:
+Le départ du gouverneur du programme de leçons comprend les étapes suivantes, qui seront coordonnées par l'équipe chargée du programme :
 
-- Reassigning any open issues on the committee repository to another committee member.
-- Revoking their access to the GitHub repository.
-- Removing them from the TopicBox group for the committee.
-- Removing them from the LPGC listing on the lesson program and Carpentries websites.
-- Inviting feedback from the departing member on their experience as an LPGC member.
+- Réattribuer tous les problèmes en suspens du répertoire du comité à un autre membre du comité.
+- Révocation de leur accès au référentiel GitHub.
+- Les retirer du groupe TopicBox pour le comité.
+- Les retirer de la liste de la LPGC sur le programme des leçons et sur les sites Web de Carpentries.
+- Inviter le membre sortant à faire part de ses commentaires sur son expérience en tant que membre de la LPGC.
 
-## Communication and Collaboration Spaces
+## Espaces de communication et de collaboration
 
 ### Etherpad
 
-The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
-collaborative note-taking tool during workshops, training, and other
-Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Program Governor.
+The Carpentries utilise {{'[Etherpad] ({}) '.format (etherpad)}} comme outil de prise de notes collaboratif
+lors d'ateliers, de formations et d'autres événements liés à
+Carpentries. Vous trouverez ci-dessous une liste d'Etherpads pertinents pour servir de gouverneur de programme de cours.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
-- {{'[Community Discussions Etherpad]({}/community-discussions)'.format(etherpad)}}: an etherpad for signing up to upcoming discussion events. If the LPGC schedules any discussions e.g. to consult with the lesson program community on a topic, these events will be listed here.
+- {{'[Pad-of-Pads] ({}/pad-of-pads) '.format (etherpad)}} : une liste des Etherpads les plus couramment utilisés par The Carpentries et d'autres ressources.
+- {{'[Community Discussions Etherpad] ({}/community-discussions) '.format (etherpad)}} : un etherpad pour s'inscrire aux prochains événements de discussion. Si le LPGC organise des discussions, par exemple pour consulter la communauté des programmes de leçons sur un sujet, ces événements seront répertoriés ici.
 
 ### GitHub
 
-The following LPGC repositories exist on GitHub, for collecting meeting minutes, managing discussion issues, etc:
+Les référentiels LPGC suivants existent sur GitHub, pour collecter les comptes rendus de réunions, gérer les problèmes de discussion, etc. :
 
-- Data Carpentry: <https://github.com/datacarpentry/governance>
-- Library Carpentry: <https://github.com/LibraryCarpentry/governance>
-- Software Carpentry: <https://github.com/swcarpentry/governance>
+- Data Carpentry : <https://github.com/datacarpentry/governance>
+- Menuiserie de bibliothèque : <https://github.com/LibraryCarpentry/governance>
+- Software Carpentry : <https://github.com/swcarpentry/governance>
 
 ### Slack
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. Although decision-making should be done in meetings and/or publicly visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
-If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+{{'[Rejoignez l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}}. Bien que la prise de décision doive être prise lors de réunions et/ou de canaux de communication visibles au public, les LPGC peuvent également souhaiter créer une chaîne privée sur cet espace de travail Slack pour les discussions quotidiennes, la planification de réunions, etc.
+Si vous utilisez Slack pour la première fois, consultez notre {{"[Slack Guide] ({}) » .format (slack_guide)}}.
 
-### TopicBox
+### Boîte à thème
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}. Each LPGC has a dedicated mailing list on TopicBox:
+Vous pouvez accéder aux listes de diffusion de The Carpentries depuis
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Chaque LPGC dispose d'une liste de diffusion dédiée sur TopicBox :
 
-- {{'[Data Carpentry]({}/dc-governors)'.format(topicbox)}}
-- {{'[Library Carpentry]({}/lc-governors)'.format(topicbox)}}
-- {{'[Software Carpentry]({}/swc-governors)'.format(topicbox)}}
+- {{'[Data Carpentry] ({}/dc-governors) '.format (topicbox)}}
+- {{'[Charpenterie de bibliothèque] ({}/lc-governors) '.format (topicbox)}}
+- {{'[Software Carpentry] ({}/swc-governors) '.format (topicbox)}}
 
-These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
+Ces listes de diffusion sont configurées de manière à ce que tout le monde puisse leur envoyer un message, mais l'adhésion à la liste est modérée afin que seuls les membres actuels du comité reçoivent les messages envoyés au groupe.
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Pour rejoindre une ou plusieurs listes de diffusion de Carpentries, vous devez {{'[create a login] ({}/latest) '.format (topicbox)}}. Une fois cela fait, vous pouvez faire défiler la liste des groupes et cliquer sur « Rejoindre la conversation » (pour les envois ouverts) ou sur « Demander à participer » (pour les listes de diffusion nécessitant l'approbation de l'administrateur). Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
 
-## Step-by-Step Guides
+## Guides étape par étape
 
-### Writing a blog post
+### Rédaction d'un article de blog
 
-Blog posts are a good way to publicise information to the community and call for contributions/feedback. Posts can be published to The Carpentries website by submitting a Markdown source file to [the carpentries/carpentries.org GitHub repository](https://github.com/carpentries/carpentries.org) via pull request. Blog post templates (as [a GoogleDoc template](https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) and [a CodiMD template](https://codimd.carpentries.org/blog-post-template?both)) are provided to help you get started.
+Les articles de blog sont un bon moyen de diffuser des informations auprès de la communauté et d'appeler à des contributions/commentaires. Les articles peuvent être publiés sur le site Web de The Carpentries en soumettant un fichier source Markdown à [le référentiel GitHub de carpentries/carpentries.org] (https://github.com/carpentries/carpentries.org) via une pull request. Des modèles d'articles de blog (comme [un modèle GoogleDoc] (https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) et [un modèle CodiMD] (https://codimd.carpentries.org/blog-post-template?both)) sont fournis pour vous aider à démarrer.
 
-The Curriculum Team can help LPGCs draft and publish blog posts.
+L'équipe chargée des programmes peut aider les LPGC à rédiger et à publier des articles de blog.
 
-## Resources
+## Ressources
 
-### [Lesson Program Governor Onboarding Presentation](https://docs.google.com/presentation/d/1oDanpPZfEYgdg5yk0kKPMkFyBQ4nQN2ZyLru2SPIlBo/edit?usp=sharing)
+### [Présentation de l'intégration du gouverneur du programme de leçons] (https://docs.google.com/presentation/d/1oDanpPZfEYgdg5yk0kKPMkFyBQ4nQN2ZyLru2SPIlBo/edit?usp=sharing)
 
-#### About this resource
+#### À propos de cette ressource
 
-The slide deck for LPGC Onboarding in March and April 2023. This was a general onboarding session for all incoming Governance Committee members, providing information on The Carpentries, the history and structure of lesson program governance, the powers and responsibilities of LPGCs, and some of the logistics of committee operations.
+Le diaporama de l'intégration de la LPGC en mars et avril 2023. Il s'agissait d'une séance d'intégration générale pour tous les nouveaux membres du comité de gouvernance, fournissant des informations sur The Carpentries, l'historique et la structure de la gouvernance des programmes de cours, les pouvoirs et les responsabilités des LPGC et certains aspects logistiques des opérations des comités.
 
-### [LPGC Officer Onboarding Presentation](https://docs.google.com/presentation/d/1Fd6aANyU3mh_RbIBh9t2G5GR7DKVEfSXBrgVqos9-_E/edit?usp=sharing)
+### [Présentation de l'intégration des agents de la LPGC] (https://docs.google.com/presentation/d/1Fd6aANyU3mh_RbIBh9t2G5GR7DKVEfSXBrgVqos9-_E/edit?usp=sharing)
 
-#### About this resource
+#### À propos de cette ressource
 
-The slide deck for onboarding LPGC Officers (chairs and secretaries) in March and April 2023. This session looked in more detail at these officer roles and the responsibilities that come with them, as well as discussing some of the logistics of organising and running committee meetings and some first steps officers could take to get started with their committees.
+Le diaporama pour l'intégration des agents de la LPGC (présidents et secrétaires) en mars et avril 2023. Cette session a examiné plus en détail ces rôles de responsable et les responsabilités qui en découlent, et a discuté de certains aspects logistiques liés à l'organisation et à la gestion des réunions des comités et de certaines premières mesures que les agents pourraient prendre pour démarrer avec leurs comités.
 
-### [How to Run a Meeting Presentation](https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit?usp=sharing)
+### [Comment organiser une présentation de réunion] (https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit?usp=sharing)
 
-#### About this resource
+#### À propos de cette ressource
 
-The slide deck from Greg Wilson’s How to Run a Meeting session was delivered to incoming LPGC members as part of onboarding in March and April 2023. This session provided some advice and guidance to follow to help ensure that time spent in committee meetings is used as effectively as possible.
+Le diaporama de la session How to Run a Meeting de Greg Wilson a été présenté aux nouveaux membres de la LPGC dans le cadre de leur intégration en mars et avril 2023. Cette séance a fourni quelques conseils et directives à suivre pour s'assurer que le temps consacré aux réunions des comités est utilisé le plus efficacement possible.
 
-### [Lesson Program Governance Policy](/resources/curriculum/lesson-program-governance.md)
+### [Politique de gouvernance du programme de leçons] (/resources/curriculum/lesson-program-governance.md)
 
-#### About this resource
+#### À propos de cette ressource
 
-Official policy from The Carpentries Board of Directors describing how individual lesson programs should be governed and listing the powers and responsibilities of LPGCs.
+Politique officielle du conseil d'administration de The Carpentries décrivant la manière dont les programmes de cours individuels devraient être régis et énumérant les pouvoirs et responsabilités des LPGC.
 
-### [Committee Policy](/resources/general/committees.md)
+### [Politique du comité] (/resources/general/committees.md)
 
-#### About this resource
+#### À propos de cette ressource
 
-The Carpentries general policy for committees is provided by the Board of Directors. This policy describes in general terms the responsibilities and requirements of an official committee such as an LPGC within the organisation.
+La politique générale de Menuiseries concernant les comités est définie par le conseil d'administration. Cette politique décrit en termes généraux les responsabilités et les exigences d'un comité officiel tel qu'un LPGC au sein de l'organisation.
 
