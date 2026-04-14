@@ -1,45 +1,45 @@
-# Creating Curriculum Onboarding Materials for Instructors
+# Création de matériel d'intégration au programme pour les professeurs
 
-## For Curriculum Developers
+## Pour les concepteurs de programmes
 
-1. Make a copy of [the Curriculum Onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit).
-   - If preparing an onboarding session for a Data Carpentry, Library Carpentry, or Software Carpentry curriculum, you can use one of the following lesson program-specific templates:
-     - [Data Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1VTBWHL5BHPfZ0Ejiuwk5lUGFUGaLTujTs_OfybrEZrA/edit)
-     - [Library Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1FCFfeH7wnv5sg2OI-ykzDafRdyDPkVhiyPdCSESEMo8/edit)
-     - [Software Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1U6F6hzxH2uGouS9wfqny9f6rPrOXM7KLWsyKUDawEPw/edit).
-2. Edit the presentation by following the guidance in the template.
-   - Use any template slides that you want to. You are not required to stick rigidly to the structure and layout provided in the template.
-   - Do not be afraid to add images and other visuals to make the presentation more engaging - just make sure they are [compatible with the CC-BY license](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work) of the presentation and include the appropriate attribution information.
-   - Refer to [the Accessible Presentation Guidelines](https://docs.google.com/document/d/1xc6idZHp86RNfcm6f-D2LltKHCPjXrGuHftCuYWedKg/edit) as you prepare the presentation.
-3. (Optional but recommended) Prepare a script for the presentation.
-   - This could be placed in the presenter notes of the onboarding slides, or a separate text document (e.g. a Google Doc, a CodiMD document).
-   - A script can help you make a smooth presentation, but also doubles up as a transcript that can be added to the video on YouTube and facilitate closed captioning.
-   - To create a new CodiMD document, visit https://codimd.carpentries.org and click the "New note" (if logged in) or "New guest note" button. Use the pencil or split window buttons near the top-left to switch to editing and split-screen mode.
-4. When the presentation is ready, record a video presenting the onboarding.
-   - Use whatever software you are most comfortable with to record the video.
-     - You can use Zoom to record the presentation:
-       - use the screen sharing feature to share the slides as you present.
-       - use the record feature to record the presentation.
-       - consider recording multiple "takes" (runs through the presentation).
-       - to make it easier to identify the breaks between takes when editing the video, hold an object (e.g. a piece of paper) in front of the camera briefly between each repeat.
-   - Although not required, you could present the onboarding in a community discussion-type event and record that meeting (with participants' permission).
-   - A curriculum onboarding presentation should be no more than 45 minutes long.
-5. Share the recording, a link to the slides, and a copy of the script (if you have one) with The Carpentries Curriculum Team (curriculum@carpentries.org), who will edit it and publish in the [Curriculum Onboarding Videos playlist](https://www.youtube.com/playlist?list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) on our YouTube channel.
+1. Faites une copie de [le modèle de présentation d'intégration du curriculum] (https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit).
+   - Si vous préparez une session d'intégration pour un programme de menuiserie de données, de menuiserie de bibliothèque ou de menuiserie logicielle, vous pouvez utiliser l'un des modèles spécifiques au programme de leçons suivants :
+     - [Modèle d'intégration du programme Data Carpentry] (https://docs.google.com/presentation/u/0/d/1VTBWHL5BHPfZ0Ejiuwk5lUGFUGaLTujTs_OfybrEZrA/edit)
+     - [Modèle d'intégration du programme de menuiserie de bibliothèque] (https://docs.google.com/presentation/u/0/d/1FCFfeH7wnv5sg2OI-ykzDafRdyDPkVhiyPdCSESEMo8/edit)
+     - [Modèle d'intégration du programme de menuiserie logicielle] (https://docs.google.com/presentation/u/0/d/1U6F6hzxH2uGouS9wfqny9f6rPrOXM7KLWsyKUDawEPw/edit).
+2. Modifiez la présentation en suivant les instructions du modèle.
+   - Utilisez les modèles de diapositives de votre choix. Vous n'êtes pas obligé de vous en tenir strictement à la structure et à la mise en page fournies dans le modèle.
+   - N'hésitez pas à ajouter des images et d'autres éléments visuels pour rendre la présentation plus attrayante. Assurez-vous simplement qu'ils sont [compatibles avec la licence CC-BY] (https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work) de la présentation et qu'ils incluent les informations d'attribution appropriées.
+   - Reportez-vous aux [directives de présentation accessible] (https://docs.google.com/document/d/1xc6idZHp86RNfcm6f-D2LltKHCPjXrGuHftCuYWedKg/edit) pendant que vous préparez la présentation.
+3. (Facultatif mais recommandé) Préparez un script pour la présentation.
+   - Cela peut être placé dans les notes du présentateur sur les diapositives d'intégration ou dans un document texte distinct (par exemple, un document Google Doc, un document CodiMD).
+   - Un script peut vous aider à faire une présentation fluide, mais il peut également servir de transcription qui peut être ajoutée à la vidéo sur YouTube et faciliter le sous-titrage codé.
+   - Pour créer un nouveau document CodiMD, rendez-vous sur https://codimd.carpentries.org et cliquez sur le bouton « Nouvelle note » (si vous êtes connecté) ou « Nouvelle note d'invité ». Utilisez les boutons en forme de crayon ou de fenêtre divisée en haut à gauche pour passer en mode édition et écran partagé.
+4. Lorsque la présentation est prête, enregistrez une vidéo présentant l'intégration.
+   - Utilisez le logiciel avec lequel vous êtes le plus à l'aise pour enregistrer la vidéo.
+     - Vous pouvez utiliser Zoom pour enregistrer la présentation :
+       - utilisez la fonction de partage d'écran pour partager les diapositives telles que vous les présentez.
+       - utilisez la fonction d'enregistrement pour enregistrer la présentation.
+       - envisagez d'enregistrer plusieurs « prises » (plusieurs séquences de la présentation).
+       - pour identifier plus facilement les pauses entre les prises lors du montage de la vidéo, placez brièvement un objet (une feuille de papier, par exemple) devant la caméra entre chaque répétition.
+   - Bien que cela ne soit pas obligatoire, vous pouvez présenter l'intégration lors d'un événement de type discussion communautaire et enregistrer cette réunion (avec la permission des participants).
+   - Une présentation d'intégration au programme ne doit pas durer plus de 45 minutes.
+5. Partagez l'enregistrement, un lien vers les diapositives et une copie du script (si vous en avez un) avec The Carpentries Curriculum Team (curriculum@carpentries.org), qui le modifiera et le publiera dans la [playlist des vidéos d'intégration du curriculum] (https://www.youtube.com/playlist?list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) sur notre chaîne YouTube.
 
-## For Core Team
+## Pour l'équipe principale
 
-1. Review the video and check the following:
-   - The presentation and recording conforms to The Carpentries [Code of Conduct](/policies/coc/index.md).
-   - The quality of the sound and video is sufficient.
-   - The presentation includes each of the sections laid out in [the onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit):
-     - What You Can Expect From This Onboarding
-     - Curriculum Overview
-     - Overview of Lessons (if curriculum contains multiple lessons)
-     - Common Challenges
-     - Acknowledgements.
-   - The length of the onboarding video is in the range of 15-45 minutes.
-2. Upload video to YouTube as a private video, let YouTube auto-generate the captions.
-3. After captions are ready (usually done in 24 hours), download the transcript file.
-4. Edit the transcript, using the script for reference if it was shared by the video's creator(s), and upload it back to the video.
-5. When you are ready to make the video public, add it to the Curriculum Onboarding playlist. This should automatically change the visibility setting.
-6. Announce the availability of the video to the community on general Slack channel, Instructors TopicBox list, in newsletter, link to it from the Instructor Notes page of the relevant lesson site(s).
+1. Visionnez la vidéo et vérifiez les points suivants :
+   - La présentation et l'enregistrement sont conformes au [Code de conduite] de The Carpentries (/policies/coc/index.md).
+   - La qualité du son et de la vidéo est suffisante.
+   - La présentation inclut chacune des sections présentées dans [le modèle de présentation d'intégration] (https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit) :
+     - Ce que vous pouvez attendre de cette intégration
+     - Aperçu du programme
+     - Aperçu des leçons (si le programme contient plusieurs leçons)
+     - Défis courants
+     - Remerciements.
+   - La durée de la vidéo d'intégration est de l'ordre de 15 à 45 minutes.
+2. Téléchargez une vidéo sur YouTube en tant que vidéo privée, laissez YouTube générer automatiquement les sous-titres.
+3. Une fois que les sous-titres sont prêts (généralement en 24 heures), téléchargez le fichier de transcription.
+4. Modifiez la transcription en utilisant le script comme référence s'il a été partagé par le ou les créateurs de la vidéo, puis téléchargez-la à nouveau dans la vidéo.
+5. Lorsque vous êtes prêt à rendre la vidéo publique, ajoutez-la à la playlist Curriculum Onboarding. Cela devrait automatiquement modifier le paramètre de visibilité.
+6. Annoncez la disponibilité de la vidéo à la communauté sur la chaîne Slack générale, la liste TopicBox des instructeurs, dans la newsletter, créez un lien vers celle-ci depuis la page des notes de l'instructeur du ou des sites de cours concernés.
