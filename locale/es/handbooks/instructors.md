@@ -1,596 +1,598 @@
-# Manual para instructores
+# Instructors Handbook
 
-## Acerca de este manual
+## About This Handbook
 
-El Manual para instructores está diseñado para apoyar a los miembros de la comunidad
-de Carpentries que se desempeñan como instructores. Es mantenido por el equipo de talleres e instrucción de The Carpentries.  Si cree que es necesario añadir o actualizar algo aquí, o si desea enviar comentarios sobre el contenido, envíe un correo electrónico al {{'[Equipo de talleres e instrucción] (mailto:{}) '.format (workshops_email)}} o abra una edición en el {{' [repositorio fuente de este manual] ({}) '.format (gh_repo)}}. Si no está familiarizado con alguno de los términos utilizados en este manual, consulte nuestro {{'[Glosario de términos] ({}) '.format (glossary)}}.
+The Instructor Handbook is designed to support members of The
+Carpentries community who are serving as an Instructor. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
 
-## Introducción
+## Introduction
 
-Los instructores de Carpentries son voluntarios que están certificados a través del
-Carpentries {{"[Programa de formación de instructores] ({})» .format (instructor_training_curriculum)}} para enseñar habilidades de codificación en vivo y datos
-a los alumnos a través de prácticas de enseñanza basadas en la evidencia.
+Carpentries Instructors are volunteers who are certified through the
+Carpentries {{"[Instructor Training program]({})".format(instructor_training_curriculum)}} to teach live-coding and data
+skills to learners through evidence-based teaching practices.
 
-## Funciones y responsabilidades
+## Roles and Responsibilities
 
-- Organice y facilite talleres autoorganizados.
-- Ofrézcase como voluntario para facilitar talleres organizados de forma centralizada.
+- Organise and facilitate Self-Organised Workshops.
+- Volunteer to facilitate Centrally-Organised Workshops.
 
-**Expectativa de tiempo**: flexible.
+**Time Expectation**: Flexible.
 
-Los instructores pueden decidir cuándo desean planificar un taller
-autoorganizado o apoyar un taller organizado de forma centralizada.
+Instructors can decide when they would like to plan a Self-Organised
+Workshop or support a Centrally-Organised Workshop.
 
-En el caso de un **taller autoorganizado**, los instructores deben esperar dedicar
-la duración del taller, que es de aproximadamente 16 horas, y
-, además de al menos cinco horas para organizar un taller.
+For a **Self-Organised Workshop** Instructors should expect to dedicate
+the duration of the workshop which is approximately 16 hours, in
+addition to at least five hours to organise a workshop.
 
-Para un **taller organizado centralizamente**, los instructores deben esperar
-dedicar la duración del taller, que es de aproximadamente 16 horas,
-además de aproximadamente una a tres horas a reuniones de planificación previa.
+For a **Centrally-Organised Workshop** Instructors should expect to
+dedicate the duration of the workshop which is approximately 16 hours,
+in addition to approximately one to three hours of pre-planning meetings.
 
-### Expectativas de comunicación y participación del instructor
+### Instructor Communication and Participation Expectations
 
-Para facilitar un proceso de organización fluido y colaborativo, te pedimos que respondas al anfitrión del taller y a los demás instructores en un plazo de dos días hábiles a partir de la presentación. Si no recibimos noticias tuyas en un plazo de cinco días hábiles, es posible que tengamos que invitar a otro instructor para que ocupe tu lugar para asegurarnos de que el taller se desarrolle según lo planeado.
+To support a smooth, collaborative organising process, we ask that you reply to the workshop host and fellow Instructors within two working days of the introduction. If we do not hear from you within five working days, we may need to invite another Instructor to take your place to ensure the workshop goes as planned.
 
-Entendemos que, en ocasiones, las circunstancias pueden impedir una respuesta oportuna. Si esto ocurre, comunícale al equipo organizador tu disponibilidad prevista. Si necesitas dejar de enseñar un taller organizado de forma centralizada, comunícaselo lo antes posible tanto al anfitrión del taller como al equipo de talleres e instrucción para que podamos organizar un reemplazo adecuado.
+We understand that circumstances may sometimes prevent a timely response. If this happens, please let the organising team know your expected availability. If you need to withdraw from teaching a Centrally-Organised workshop, please let both the workshop host and the Workshop and Instruction Team know as soon as possible so that we can arrange a suitable replacement.
 
-La participación activa en todas las actividades relacionadas con el taller, incluida la comunicación con el equipo organizador, la asistencia a la reunión previa al taller y la participación durante el taller, es esencial. Si no se cumplen estas expectativas, un miembro del equipo de talleres e instrucción puede comunicarse con usted para hablar sobre cómo podemos apoyar mejor su participación. La falta continua de participación puede afectar a su condición de instructor activo.
+Active participation in all workshop-related activities, including communication with the organising team, attendance at the pre-workshop meeting, and participation during the workshop, is essential. If these expectations are not met, a member of the Workshop and Instruction Team may reach out to talk about how we can better support your engagement. Continued lack of participation may affect your status as an active Instructor.
 
-## Incorporación
+## Onboarding
 
-Pasos para convertirse en instructor.
+Steps to becoming an Instructor.
 
-1. **Asista a un evento de formación de instructores**. La capacitación dura dos días completos o cuatro días y medio y cubre los conceptos básicos de la psicología educativa, las prácticas en el aula basadas en la evidencia y cómo aplicar ambas a los talleres de enseñanza para The Carpentries. Para obtener más información, visita la [página del plan de estudios de formación de instructores] (https://carpentries.github.io/instructor-training/).
-2. **Complete el proceso de compra**. Debe completar tres tareas breves después de la capacitación para completar la certificación como instructor de carpintería. Consulta nuestra página [Instrucciones de pago] (https://carpentries.github.io/instructor-training/checkout) para obtener más información.
+1. **Attend an Instructor Training event**. The training runs over two full days or four half days and covers the basics of educational    psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the [Instructor training curriculum page](https://carpentries.github.io/instructor-training/).
+2. **Complete the checkout process**. You must complete three short tasks after the training to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://carpentries.github.io/instructor-training/checkout) page for more details.
 
-### Política de asistencia a la formación de instructores
+### Instructor Training Attendance Policy
 
-#### No hay presentaciones
+#### No Shows
 
-Un alumno no se presenta cuando un alumno no cancela o se pone en contacto con el {{'[Equipo de formación de instructores] (mailto:{}) '.format (instructor_training_email)}} antes de un evento y no asiste a la formación. En caso de que no se presente, el asiento de entrenamiento se considerará utilizado.
+A ‘No Show’ is when a trainee does not cancel or contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} before an event, and does not attend training. In a 'No Show' event, the training seat will be considered used.
 
-Si circunstancias atenuantes han impedido que un alumno cancele, contacte o asista a un evento, puede solicitar permiso para registrarse en un evento adicional con el mismo código de registro enviando un correo electrónico a {{'[{}] (mailto:{}) '.format (instructor_training_email, instructor_training_email)}}.
+If extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}}.
 
-IMPORTANTE: \*\*Las solicitudes para volver a inscribirse _deberán_ recibirse en un plazo de siete días a partir de la fecha de finalización de la formación. \*\*
+IMPORTANT: **Requests to re-register _must_ be received within seven days of the training end date.**
 
-Es posible que a los alumnos que no se presenten varias veces de forma inexplicable se les excluya la posibilidad de registrarse en el futuro.
+Trainees with multiple unexplained no-shows may be barred from future registration.
 
-#### Ausencia parcial
+#### Partial Absence
 
-Los alumnos que se pierdan hasta cuatro horas (medio día) de un evento pueden programar una reunión individual de maquillaje de 45 minutos para completar su capacitación con el director de talleres y capacitación de The Carpentries. [Las reuniones de maquillaje se pueden programar a través de Calendly] (https://calendly.com/sheraaron/instructor-training-makeup). Para prepararse para una reunión de preparación, los alumnos deben revisar todas las secciones del plan de estudios de formación de instructores que no hayan leído y prepararse para compartir sus ideas y preguntas sobre esas secciones. Los alumnos que se pierdan más de cuatro horas de un evento **no** deberán\*\* programar una reunión de maquillaje. (Consulte la sección Cómo volver a participar en un evento de capacitación, más abajo).
+Trainees who miss up to four hours (one-half day) of an event can schedule a 45-minute one-to-one makeup meeting to complete their training with The Carpentries Director of Workshops and Training. [Makeup meetings can be scheduled via Calendly](https://calendly.com/sheraaron/instructor-training-makeup). To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum they missed and come prepared to share thoughts and questions about those sections. Trainees who missed more than four hours of an event **should not** schedule a makeup meeting. (See Re-taking a Training Event, below.)
 
-Los alumnos no son elegibles para la certificación de instructor hasta que su registro indique que han completado todo un evento de capacitación de instructores.
+Trainees are not eligible for Instructor certification until their record indicates they have completed an entire Instructor Training event.
 
-#### Retomar un evento de capacitación
+#### Re-taking a Training Event
 
-Los alumnos que se pierdan más de cuatro horas (medio día) de un evento no son elegibles para una reunión de maquillaje, pero pueden solicitar asistir a otro evento en su totalidad. Para solicitar permiso para inscribirse en un evento de formación adicional, los alumnos deben enviar un correo electrónico al {{'[Equipo de formación de instructores] (mailto:{}) '.format (instructor_training_email)}} dentro de los 30 días posteriores a la falta de un evento.
+Trainees who miss more than four hours (one-half day) of an event are not eligible for a makeup meeting but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} within 30 days of a missed event.
 
-Al volver a asistir a una formación, los alumnos que falten más de dos horas pueden ser marcados como ausentes, incluso cuando hayan asistido a una parte de un evento anterior. No se pueden usar múltiples capacitaciones parciales para completar el requisito de capacitación.
+When re-taking a training, trainees who miss more than two hours may be marked absent, even when they have attended part of a prior event. Multiple partial trainings may not be used to complete the training requirement.
 
-#### Inelegibilidad para oportunidades de maquillaje
+#### Ineligibility for Makeup Opportunities
 
-Los alumnos que se pierdan la totalidad de un evento sin cancelarlo en un plazo de siete días (no se presenten) o que se pierdan parte de un evento pero no soliciten una oportunidad de reposición en un plazo de siete días no podrán inscribirse en un nuevo evento de formación con el mismo código de registro. Los alumnos interesados en completar la formación pueden ponerse en contacto con el {{'[Equipo de formación de instructores] (mailto:{}) '.format (instructor_training_email)}} para recibir información sobre sus opciones de readmisión.
+Trainees who miss an event in full without cancelling within seven days (no-show) or who miss part of an event but do not request a makeup opportunity within seven days are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact the {{'[Instructor Training Team](mailto:{})'.format(instructor_training_email)}} to be advised on their options for re-admission.
 
-### Política de extensiones de pago
+### Checkout Extensions Policy
 
-Se pide a los alumnos que completen el proceso de pago en un plazo de 90 días a partir de la asistencia a un evento de formación de instructores. Tener una fecha límite es necesario para ayudar a las personas ocupadas a priorizar un objetivo que a todos nos importa. Sin embargo, a veces es necesario que los alumnos pospongan la finalización de la compra.
+Trainees are asked to complete checkout within 90 days of attending an Instructor Training event. Having a deadline is necessary to support busy people in prioritising a goal we all care about. However, it is sometimes necessary for trainees to postpone completing checkout.
 
-Los alumnos que no puedan completar el proceso de compra en el plazo de 90 días deben ponerse en contacto con nosotros en {{'[{}] (mailto:{}) '.format (instructor_training_email, instructor_training_email)}} para solicitar una prórroga. Las extensiones se pueden conceder hasta un año después de la fecha límite de pago.  Transcurrido un año, puedes ponerte en contacto con {{'[{}] (mailto:{}) '.format (instructor_training_email, instructor_training_email)}} para explorar las oportunidades de retomar la formación.
+Trainees who are unable to complete checkout within the 90-day deadline should contact us at {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to request an extension. Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact {{'[{}](mailto:{})'.format(instructor_training_email, instructor_training_email)}} to explore opportunities to re-take the training.
 
-## Desembarque
+## Offboarding
 
-En este momento, no tenemos un proceso formal de baja para los instructores. Una vez que te conviertas en instructor, tu perfil
-permanecerá activo en nuestra base de datos y podrás iniciar sesión en cualquier momento para acceder a él.
+At this time, we do not have a formal offboarding process for Instructors. Once you become an Instructor, your
+profile remains active in our database, and you can log in at any time to access it.
 
-Si ya no está interesado en recibir correos electrónicos sobre las próximas oportunidades docentes, envíenos un correo electrónico a
-{{'[Workshops] (mailto:{}) '.format (workshops_email)}} e indíquenos que desea darse de baja de la lista de oportunidades de enseñanza para instructores.
+If you are no longer interested in receiving emails about upcoming teaching opportunities, please email us at
+{{'[Workshops](mailto:{})'.format(workshops_email)}} and let us know you would like to unsubscribe from the Instructor Teaching Opportunities list.
 
-## Espacios de comunicación y colaboración
+## Communication and Collaboration Spaces
 
-### Reuniones de instructores
+### Instructor Meetings
 
-Únase al equipo de talleres e instrucción cada dos meses el segundo martes
-a las 15:00 y 21:00 UTC. Durante las reuniones, recopilaremos los comentarios de los instructores, compartiremos actualizaciones y consejos sobre
-, aprenderemos de los miembros de la comunidad y disfrutaremos de oportunidades para establecer contactos. Por favor,
-regístrese en el {{'[Instructor Meetings Etherpad] ({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D) '.format (etherpad)}}.
+Join the Workshops and Instruction Team every other month on the second Tuesday
+at 15:00 and 21:00 UTC. During meetings, we will gather feedback from Instructors, share
+updates and tips, learn from community members, and enjoy networking opportunities. Please
+sign up on the {{'[Instructor Meetings Etherpad]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}.
 
-### Próximos talleres
+### Upcoming Workshops
 
-Si eres un {{"[Instructor certificado de Carpentries] ({}/instructors/)» .format (carpentries_website)}} y te gustaría ver las oportunidades de enseñanza
-que necesitan instructores, inicia sesión en tu {{'[perfil AMY] ({}) '.format (amy_link)}}
-para ver una lista de los próximos {{"[Organizados centralmente] ({}/workshops/host-workshop/)» .format (carpentries_website)}} talleres que están abiertos a la contratación.
+If you are a {{"[Carpentries Certified Instructor]({}/instructors/)".format(carpentries_website)}} and would like to view teaching
+opportunities that need Instructors, please log in to your {{'[AMY profile]({})'.format(amy_link)}}
+for a list of upcoming {{"[Centrally-Organised]({}/workshops/host-workshop/)".format(carpentries_website)}} workshops that are open for recruitment.
 
-### Calendario comunitario
+### Community Calendar
 
-Una vez programadas, todas las {{'[Sesiones comunitarias] ({}/community-discussions) '.format (etherpad)}} (es decir,
-discusiones previas y posteriores al taller, discusiones temáticas y conversaciones sobre carpintería
-) y {{' [Demo didáctica] ({}/teaching-demos) '.format (etherpad)}} figuran
-en nuestro {{'[Calendario comunitario] ({}/community/events/) '.format (carpentries_website)}}. Desde allí, puedes añadir eventos relevantes a tu calendario personal haciendo clic en
-en el evento al que te gustaría asistir.
+Once scheduled, all {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}} (i.e
+pre- and post workshop discussions, Themed Discussions and Carpentries
+Conversations) and {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}} are listed
+on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can
+add relevant events to your personal calendar from there by clicking on
+the event you would like to attend.
 
 ### Etherpad
 
-The Carpentries usa [Etherpad] (/resources/communications/etherpads.md) como una herramienta colaborativa para tomar notas durante talleres, capacitaciones y otros eventos relacionados con Carpentries. A menudo, Etherpad también se usa como método para registrarse en eventos. A continuación se muestra una lista de Etherpads relevantes para trabajar como instructor.
+The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
 
-- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: Una lista de los Etherpads y otros recursos más utilizados por The Carpentries.
-- {{'[Sesiones comunitarias] ({}/community-discussions) '.format (etherpad)}}: Una lista de nuestros debates comunitarios (incluidas las sesiones de bienvenida) y cómo inscribirse para asistir.
-- {{'[Demo didáctico] ({}/teaching-demos) '.format (etherpad)}}: Información sobre [Demostraciones de enseñanza] (https://carpentries.github.io/instructor-training/checkout.html#demonstration), incluidas las próximas fechas y cómo registrarse.
-- {{'[Reuniones de instructores] ({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D) '.format (etherpad)}}: Una lista de nuestros paneles de reuniones de instructores en orden descendente.
+- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
+- {{'[Community Sessions]({}/community-discussions)'.format(etherpad)}}: A list of our Community Discussions (including Welcome sessions) and how to sign up to attend.
+- {{'[Teaching Demo]({}/teaching-demos)'.format(etherpad)}}: Information about [Teaching Demonstrations](https://carpentries.github.io/instructor-training/checkout.html#demonstration), including upcoming dates and how to register.
+- {{'[Instructor Meetings]({}/Carpentries_Instructor_Meetings_%5BAll_Pads%5D)'.format(etherpad)}}: A list of our Instructor Meetings pads in descending order.
 
 ### GitHub
 
-- [Glosario] (https://github.com/carpentries/glosario): Un glosario
-  multilingüe de términos de informática y ciencia de datos
-- [Plantilla Workshop
-  ] (https://github.com/carpentries/workshop-template): Guía paso a paso para crear el sitio web del taller
+- [Glosario](https://github.com/carpentries/glosario): A multilingual
+  glossary for computing and data science terms
+- Workshop
+  Template: Step-by-step guide to creating the workshop website
 
 ### Slack
 
-{{'[Únete al espacio de trabajo de Slack de The Carpentries] ({}) '.format (slack_invite)}} Para seguir las conversaciones
-relacionadas con el rol de instructor, considera unirte a los siguientes canales:
+{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} To follow conversations
+relevant to the Instructor role, please consider joining the following channels:
 
-- El canal general de los Carpentries
-- El canal de instructores de Carpentries
+- The Carpentries General Channel
+- The Carpentries Instructor Channel
 
-Si eres nuevo en Slack, consulta nuestra {{"[Guía de Slack] ({})» .format (slack_guide)}}.
+If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
-### Cuadro temático
+### TopicBox
 
-Puedes acceder a las listas de correo de The Carpentries desde
-[TopicBox] (https://carpentries.topicbox.com/latest). A continuación se muestran
-las listas relevantes para las actividades y programas incluidos en el manual para instructores. Si eres nuevo en Topicbox, consulta nuestra {{"[Topicbox Guide] ({})» .format (topicbox_guide)}}.
+You can access The Carpentries mailing lists from
+[TopicBox](https://carpentries.topicbox.com/latest). Below are
+the lists relevant to the activities and programs covered by the Instructor handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
-- [discuta\ |
-  Topicbox] (https://carpentries.topicbox.com/groups/discuss)
-- [instructores\ |
-  Topicbox] (https://carpentries.topicbox.com/groups/instructors)
+- discuss \|
+  Topicbox
+- instructors \|
+  Topicbox
 
-Para unirte a uno o más servidores de listas de Carpentries, tendrás que [crear un inicio de sesión
-en el sitio] (https://carpentries.topicbox.com/latest). Una vez que
-haya creado su nombre de usuario, puede desplazarse por la lista de grupos y hacer clic en
-«Unirse a la conversación» (para abrir el correo) o «Solicitar unirse» (para
-, las listas de correo que requieren la aprobación del administrador).
+To join one or more Carpentries listservs, you will need to create a
+login on the site. Once you
+have created your login, you can scroll through the list of groups and click
+"Join the Conversation" (for open mailing) or "Request to Join" (for
+the mailing lists that require administrator approval).
 
-## Guías paso a paso
+## Step-by-Step Guides
 
-### Planificación y organización de un taller
+### Planning & Organising a workshop
 
-1. Decida el orden de las lecciones y quién enseñará qué módulos.
-2. Configure el sitio web del taller con la plantilla de Carpentries y envíelo al equipo de talleres e instrucción enviando un [formulario de taller autoorganizado] (https://amy.carpentries.org/forms/self-organised/). Las instrucciones detalladas se encuentran en el archivo README del [repositorio de plantillas del sitio web del taller] (https://github.com/carpentries/workshop-template). _Nota: Si está enseñando un taller organizado de forma centralizada, compartirá el sitio web directamente con el equipo de talleres e instrucción por correo electrónico_
-3. Cree un documento colaborativo para el taller (por ejemplo, un Etherpad).
-4. Ayuda al anfitrión a reclutar ayudantes si es posible.
-5. Ayude al anfitrión a garantizar que la ubicación del taller sea accesible.
-6. Comparte la información de contacto de emergencia con el anfitrión en caso de cambios de última hora.
-7. Practica enseñando el material.
-8. Recuérdale al anfitrión el equipo necesario.
-9. Únase a un debate de la comunidad.
-10. Confirme los criterios de reembolso (viáticos o recibos guardados).
+1. Decide on the order of the lessons and who will teach which modules.
+2. Set up the workshop website using the Carpentries template and send it to the Workshops and Instruction Team by submitting a [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Detailed instructions are in the README of the [workshop website template repo](https://github.com/carpentries/workshop-template). _Note: If you are teaching a Centrally-Organised workshop, you will share the website directly with the Workshops and Instruction Team through email_
+3. Create a collaborative document for the workshop (e.g. an Etherpad).
+4. Assist the host in recruiting helpers if possible.
+5. Assist the host in ensuring the workshop location is accessible.
+6. Share emergency contact information with the host in case of last-minute changes.
+7. Practice teaching the material.
+8. Remind the host of the necessary equipment.
+9. Join a community discussion.
+10. Confirm criteria for reimbursement (per diem or save receipts).
 
-### Configuración de un sitio web de taller
+### Setting Up a Workshop Website
 
-Para obtener instrucciones sobre cómo configurar un sitio web para un taller, visite
-[página de inicio de la plantilla de taller
-] (https://github.com/carpentries/workshop-template#readme).
+For instructions on setting up a website for a workshop, please visit the
+workshop template home
+page.
 
-[Lista de verificación
-de talleres autoorganizados] (https://docs.google.com/document/d/19PTjQBp3JluTYi6rocxe0WYoG08taedanRRQhk_BDUs/edit)
-es una guía para ayudar a los instructores/anfitriones de talleres a impartir talleres
-autoorganizados. La lista de verificación proporciona una descripción general de alto nivel de todos los pasos necesarios
-para coordinar con éxito un taller de carpintería de principio a fin.
+Self-Organised Workshops
+Checklist
+is a guide to help Instructors/Workshop Hosts teach Self-Organised
+workshops. The checklist provides a high-level overview of all the steps needed
+to successfully coordinate a Carpentries workshop from beginning to end.
 
-### Instalación de software
+### Software Installation
 
-La instalación de software en las computadoras portátiles se ha hecho más fácil a lo largo de los años,
-, pero aun así puede ser un gran desafío al principio de un taller. Debajo de
-hay sugerencias para garantizar que el proceso se desarrolle de la manera más fluida posible.
+Installing software on laptops has been made easier over the years,
+but it can still be a huge challenge at the start of a workshop. Below
+are suggestions for ensuring the process goes as smoothly as possible.
 
-\*\*Qué puede hacer por adelantado: \*\*
+**What you can do in advance:**
 
-- Planifique la ayuda para la instalación al comienzo de los dos días del taller. Pon
-  en la agenda y asegúrate de que quede claro que las personas pueden y
-  deben presentarse durante ese tiempo.
-- Envíe un correo electrónico a los participantes con una semana de antelación y el día anterior a
-  para recordarles que deben instalar el software necesario antes de los talleres.
-- Si es posible, contrate ayudantes que usen los sistemas operativos Linux, Mac y Windows
-  .
-- Si tú, los ayudantes o los instructores tenéis tiempo, probad las instrucciones de instalación
-  en una nueva cuenta de usuario de vuestro ordenador.
-- Si está enseñando para una organización en la que los participantes
-  traen computadoras portátiles de trabajo y no tienen acceso administrativo
-  (común en las organizaciones gubernamentales), pregunte al respecto. Intente planificar
-  con antelación, ya sea con su organización de TI central o con las «salidas de emergencia»
-  que se enumeran a continuación.
-- ¿Tendrás un Wi-Fi decente? Muchas personas que instalan software en
-  una vez pueden dificultar una mala conexión a Internet. Si este es el caso, prepare
-  unas cuantas unidades flash con los instaladores correspondientes.
-- Asista a un [debate de la Comunidad
-  ] (https://pad.carpentries.org/community-discussions),
-  , donde podrá hablar con otros instructores para hacerles preguntas y obtener
-  comentarios que le ayudarán a prepararse para enseñar.
+- Plan for installation help at the start of both workshop days. Put
+  it on the schedule and make sure it is clear that people can and
+  should show up during that time.
+- Email the participants a week in advance and the day before to
+  remind them to install the needed software before the workshops.
+- If possible, recruit helpers who use Linux, Mac, and Windows
+  operating systems.
+- If you/helpers/instructors have time, test the install instructions
+  on a fresh user account on your computer.
+- If you are teaching for an organisation where participants are
+  bringing work laptops and they do not have administrative access
+  (common in government organisations) -- ask about it. Try to plan
+  ahead either with their central IT organisation or with the
+  "emergency exits" listed below.
+- Will you have decent Wi-Fi? Many people installing software at
+  once can hinder a poor internet connection. If this is the case, prep
+  a few flash drives with the relevant installers.
+- Attend a Community
+  Discussion,
+  where you can talk to other Instructors to ask questions and get
+  feedback to help you prepare to teach.
 
-\*\*El día de: \*\*
+**On the day of:**
 
-- Consulte nuestra [página wiki para encontrar soluciones a los problemas comunes de
-  ] (https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions).
-- Si alguien ha llegado antes de tiempo y aún no se puede instalar el software
-  antes de que comience el taller, pruebe una de las «salidas de emergencia
-  » que aparecen a continuación o siga trabajando con esa persona individualmente hasta que pueda empezar
-  .
-- Si alguien llega tarde o tiene tantos problemas con una instalación
-  que no puede iniciar, pídale que mire (y tal vez que trabaje con un vecino de
-  ) hasta el primer descanso, cuando puedan trabajar juntos en
-  en los problemas de instalación.
+- Refer to our Wiki page for solutions to common
+  problems.
+- If someone has come in early and the software still cannot be
+  installed by the time the workshop starts, try one of the "emergency
+  exits" below or keep working with them one-on-one until they are
+  able to start.
+- If someone comes in late or is having such trouble with an installation
+  that they cannot start, have them watch (and maybe work with a
+  neighbour) until the first break, when you can work
+  on installation issues together.
 
-**"Salidas de emergencia"**
+**"Emergency Exits"**
 
-Si no hay forma de instalar el software
-localmente en el ordenador de alguien, considere la posibilidad de utilizar las [siguientes soluciones
-] (https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds):
+If there is no way that you will be able to install the
+software locally on someone's computer, consider using the following
+solutions:
 
-Encuentre soluciones en nuestra entrada de blog, [Instalación de andamios para talleres
-en línea] (https://carpentries.org/blog/2020/04/scaffolds/)
+Find solutions on our blog post, Scaffolding Installation for Online
+Workshops
 
-- «andamios» preconfigurados para [RStudio
-  Cloud] (https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#rstudio-cloud)
-  y [My
-  Binder] (https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#my-binder)
-  (que alojan Jupyter y OpenRefine).
-- [Microsoft Azure] (https://notebooks.azure.com/) le ofrece un cuaderno Jupyter basado en la nube
-  con muchos idiomas y plataformas instalados.
-  También incluye un terminal shell con git.
-- Si la biblioteca de su institución alquila computadoras portátiles, alquile una o dos computadoras portátiles
-  y configúrelas con el software antes del taller y manténgalas
-  a mano para prestarlas durante el taller.
+- Pre-configured "scaffolds" for RStudio
+  Cloud
+  and My
+  Binder
+  (hosting Jupyter and OpenRefine).
+- [Microsoft Azure](https://notebooks.azure.com/) gives you a cloud
+  based Jupyter notebook with many languages and platforms installed.
+  It also includes a shell terminal with git.
+- If your institution's library does laptop rentals, rent one to two laptops
+  and set them up with the software before the workshop and keep them
+  on hand as loaners during the workshop.
 
-### Acerca del Código de conducta
+### About the Code of Conduct
 
-El {{'[Código de conducta] ({}) '.format (code_of_conduct)}}
-es una herramienta clave para fomentar y mantener un entorno de aprendizaje
-inclusivo y respetuoso. Pero para las personas que son nuevas en la idea de un Código de Conducta
-, puede resultar un poco incómodo hablar de ello. Este es un ejemplo
-de cómo podrías presentar el Código de conducta. No utilices este
-literalmente, sino que lo adaptes a tu audiencia y estilo de presentación:
+The {{'[Code of Conduct]({})'.format(code_of_conduct)}}
+is a key tool for fostering and upholding an inclusive, respectful
+learning environment. But for people who are new to the idea of a Code
+of Conduct, it can be a little awkward to talk about. Here is a sample
+of how you might introduce the Code of Conduct -- please do not use this
+verbatim, but adapt it to your own audience and style of introduction:
 
-The Carpentries es un proyecto dirigido por la comunidad. Valoramos la participación de
-en todos los miembros de la comunidad. Nos comprometemos a crear un lugar amigable y respetuoso
-para aprender, enseñar y contribuir. Se espera que todos los participantes de
-en nuestros eventos y comunicaciones muestren a
-respeto y cortesía hacia los demás.
+The Carpentries is a community-led project. We value the involvement of
+everyone in the community. We are committed to creating a friendly and
+respectful place for learning, teaching and contributing. All
+participants in our events and communications are expected to show
+respect and courtesy to others.
 
-¿Qué tipos de comportamientos se esperan?
+What kinds of behaviours are expected?
 
-Todas las interacciones deben ser profesionales independientemente de la plataforma: ya sea
-en línea o en persona. Para fomentar un entorno de aprendizaje
-positivo y profesional, fomentamos los siguientes tipos de comportamientos en
-, todos los eventos y plataformas de Carpentries:
+All interactions should be professional regardless of platform: either
+online or in-person. In order to foster a positive and professional
+learning environment we encourage the following kinds of behaviours in
+all Carpentries events and platforms:
 
-- Usa un lenguaje acogedor e inclusivo
-- Sea respetuoso con los diferentes puntos de vista y experiencias
-- Acepta con gracia las críticas constructivas
-- Concéntrese en lo que es mejor para la comunidad
-- Muestre cortesía y respeto hacia otros miembros de la comunidad
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
 
-Puedes encontrar ejemplos de comportamiento inaceptable por parte de los participantes en cualquier evento o plataforma de Carpentries
-en el {{'[Código de conducta] ({}) '.format (code_of_conduct)}}.
-Los instructores nos tomamos el Código de conducta muy en serio y tenemos el proceso
-para tratar las infracciones y las quejas. Lee la sección {{'[Pautas de presentación de informes] ({}) '.format (code_of_conduct)}}
-para obtener más información sobre cómo gestionar las infracciones del Código de conducta.
+Examples of unacceptable behaviour by participants at any Carpentries
+event/platform can be found in the {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
+We Instructors take the Code of Conduct very seriously, and we have a
+process for dealing with violations and complaints. Read the {{'[Reporting Guidelines section]({})'.format(code_of_conduct)}}
+for the details on how to handle Code of Conduct violations.
 
-### Uso de ejercicios
+### Using Exercises
 
-Al enseñar una lección, es muy buena idea revisarla con antelación y elegir qué ejercicios quieres que prueben los participantes.
+When teaching a lesson, it is a very good idea to go through the lesson in advance and choose which exercises you want participants to try.
 
-Una vez que haya seleccionado los ejercicios, hay varias maneras de mostrarlos a los participantes durante el taller. Elige entre las siguientes opciones, según la herramienta que estés utilizando o
-el ejercicio que hayas seleccionado.
+Once you have selected exercises, there are several ways to display them to the participants during the workshop. Choose from the options below, depending on the tool you are using or
+the exercise you selected.
 
-- Del sitio web de la lección (ampliado).
-  - Este es el menor esfuerzo, pero requiere tener abierta la página de la lección correcta y encontrar el ejercicio correcto.
-- Haz diapositivas.
-  - Más esfuerzo, pero es fácil pasar al siguiente.
-  - Tenga algún tipo de documento con todos los ejercicios que contenga.
-  - Más esfuerzo, pero todos los ejercicios están en un solo lugar.
-- Pon los ejercicios en el Etherpad.
-  - Si lo haces por adelantado, con poco esfuerzo.
-  - También puede usarlo con cualquiera de las otras estrategias para que las personas
-    puedan encontrar el ejercicio en dos lugares.
-- Herramientas en línea, como [Socrative] (https://www.socrative.com/).
-  - Requiere tiempo para configurarlo, pero es ideal para preguntas de opción múltiple y T/F y promueve la participación.
+- From the lesson website (zoomed in).
+  - This is the least effort, but requires having the right lesson page open + finding the right exercise.
+- Make slides.
+  - More effort, but easy to flip forward to the next one.
+  - Have a document of some kind with all the exercises in it.
+  - More effort, but exercises are all in one place.
+- Put exercises in the Etherpad.
+  - If you do this in advance, pretty low-effort.
+  - Can also use this with any of the other strategies so people can
+    find the exercise in two places.
+- Online tools, like [Socrative](https://www.socrative.com/).
+  - Requires time to set up, but is great for multiple choice and T/F questions and promotes participation.
 
-En todos los ejemplos, tendrás que cambiar de la herramienta que estás usando
-para programar en vivo a la forma en la que estás mostrando los ejercicios. Para
-, algo como R o Python, una forma de reducir la cantidad de cambios es
-poner todos los ejercicios en un cuaderno de R script/Python y tener ese
-abierto junto al guion o cuaderno de trabajo principal, de modo que
-sea relativamente fácil cambiar de un lado a otro.
+In all of the examples, you will have to switch from the tool you are
+using for live coding to however you are showing the exercises. For
+something like R or Python, one way to reduce the amount of switching is
+to put all the exercises in an R script / Python notebook and have that
+open alongside your main working script/notebook so that it is
+relatively easy to switch back and forth.
 
-### Consejos generales
+### General Tips
 
-**Introducciones**
+**Introductions**
 
-¡La introducción es una de las piezas más importantes del taller! El
-marca la pauta del día. El [material de formación para instructores] (https://carpentries.github.io/instructor-training/23-introductions) contiene algunas sugerencias sobre cómo crear una buena introducción al taller.
+The introduction is one of the most important pieces of the workshop! It
+sets the tone for the day. The [instructor training material](https://carpentries.github.io/instructor-training/23-introductions) has some suggestions of how to build a good workshop introduction.
 
-**Registro de accesibilidad**
+**Accessibility Check-In**
 
-[El conjunto de herramientas de ideas para carpintería\ |
-Zenodo] (https://zenodo.org/record/7041935#.Y4on_svMJD_)
+The Carpentries Toolkit of IDEAS \|
+Zenodo
 
-**Nivel de habilidad variable**
+**Varying Skill Level**
 
-Los talleres de carpintería suelen incluir a muchas personas con habilidades y experiencias muy variadas en materia de
-. El final de The Carpentries Instructor Training
-sobre [Carpentries teaching
-practices] (https://carpentries.github.io/instructor-training/24-practices)
-contiene algunas estrategias para trabajar con un aula diversa.
+Carpentries workshops frequently include many people with widely varying
+skills and experiences. The end of The Carpentries Instructor Training
+on Carpentries teaching
+practices
+has some strategies when working with a diverse classroom.
 
-## PREGUNTAS MÁS FRECUENTES
+## FAQ
 
-[Lista de preguntas frecuentes sobre
-] (https://carpentries.org/workshop_faq/) relacionadas con el contenido de
-del manual.
+List of frequently asked
+questions relevant to the
+content in the handbook.
 
-### Pre-taller
+### Pre-workshop
 
-- \*\* ¿Por qué mi taller no aparece en la página web [carpentries.org] (http://carpentries.org)? \*\*
-  - Hay tres cosas que deben suceder para que un taller
-    aparezca en la página web de The Carpentries. Debe completar el
-    [Formulario de solicitud de taller] (https://amy.carpentries.org/forms/self-organised/), el sitio web del taller
-    debe incluir el lugar y al menos un instructor debe estar identificado con el número
-    . Si los instructores cambian, se nos notificará y
-    podrá realizar la actualización.
-- \*\*Si imparto un taller de genómica de carpintería de datos, ¿cuántas instancias de AWS
-  se proporcionarán y cuándo recibiremos las instancias de AWS
-  ? \*\*
-  - Aproximadamente una semana antes del taller, los talleres
-    y el equipo de instrucción (WIT) le proporcionarán instancias para el
-    por instructor y les ayudarán a realizar las pruebas y practicar. El día antes del taller
-    , WIT le proporcionará las instancias restantes. Todas las instancias
-    de AWS finalizarán al día siguiente del taller.
+- **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**
+  - There are three things that must happen in order for a workshop to
+    appear on The Carpentries webpage. You must complete the
+    [Workshop Request Form](https://amy.carpentries.org/forms/self-organised/), the workshop website
+    must include the venue, and at least one instructor must be
+    identified. If the instructors change, we will get notified and
+    will be able to make the update.
+- **If I am teaching a Data Carpentry Genomics workshop, how many AWS
+  Instances will be provided and when will we receive the AWS
+  Instances?**
+  - Approximately one week before the workshop, the Workshops
+    and Instruction Team (WIT) will provide you with instances for
+    each Instructor and helper for testing and practice. On the day before
+    the workshop, WIT will provide you with the remaining instances. All AWS Instances
+    will be terminated the day after the workshop.
 
-    El número de instancias recibidas depende del número solicitado por el anfitrión,
-    según las [Condiciones del acuerdo de los talleres de genómica] (/resources/workshops/genomics_policy.md).
-- \*\* ¿Qué es una babosa? ¿Y cómo debo usarlo para nombrar el sitio web de mi taller
-  ? \*\*
-  - Un slug es un identificador único que se usa para nombrar el repositorio de GitHub al crear
-    , el sitio web de tu taller de Carpentries.
-    The Carpentries utiliza la babosa para identificar su taller en
-    , nuestra base de datos y flujos de trabajo. Cada taller tendrá su propia babosa
-    única. El slug debe usar el siguiente formato:
-    YEAR-MM-DD-SITE- (en línea)
-  - El AÑO se sustituye por el año de cuatro dígitos (2020)
-  - MM se sustituye por el mes de dos dígitos (03)
-  - DD se sustituye por los dos dígitos que representan el primer día
-    del taller (23)
-  - El SITIO se reemplaza por el nombre de la organización o ubicación
+    The number of instances received are dependant upon the number requested by the host,
+    per the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.md).
+- **What is a slug? And how should I use it to name my workshop
+  website?**
+  - A slug is a unique identifier used to name the GitHub repository when creating
+    your Carpentries workshop website.
+    The slug is used by The Carpentries to identify your workshop in
+    our database and workflows. Each workshop will have its own unique
+    slug. The slug should use the following format:
+    YEAR-MM-DD-SITE-(online)
+  - YEAR being replaced by the four-digit year (2020)
+  - MM being replaced by the two-digit month (03)
+  - DD being replaced by the two digits representing the first day
+    of the workshop (23)
+  - SITE being replaced by the organisation or location name
     (stanford)
-  - Si el taller se llevará a cabo en línea, añada
-    (en línea)
-  - Este formato de slug forma parte de una verificación de validación en nuestro sistema,
-    , que incluye los guiones que separan estas variables.
-- \*\* ¿Es necesario que el instructor figure como persona de contacto en la página web del taller
-  o como miembro de la institución anfitriona? \*\*
-  - La persona que figura en la lista debe conocer el taller para que
-    pueda responder a preguntas relacionadas con el taller, como la política de asistencia, la información de la lista de espera de
-    , la ubicación, la instalación, etc. Puedes tener varias personas
-    listadas como persona de contacto si es necesario.
-- \*\* ¿Dónde puedo encontrar la encuesta previa y posterior para que la usen los alumnos? \*\*
-  - Los enlaces de las encuestas dirigidas a los alumnos se generan automáticamente en
-    , la página web del taller. Estarán ubicados directamente en el
-    arriba y dentro del cronograma. Puedes compartir los enlaces de la encuesta
-    (que se encuentran en la página web del taller) con tus asistentes de
-    cuando sea el momento adecuado para tu taller.
-- \*\* ¿Cómo accedo a los resultados de la encuesta? \*\*
-  - Si está planificando un taller, notifique al equipo de administración del taller
-    sobre su taller planificado mediante el [formulario de solicitud del taller
-    ] (https://amy.carpentries.org/forms/workshop/). El equipo de administración del taller
-    enviará el enlace para ver los resultados
-    de la encuesta una o dos semanas antes del taller. Si hay más de 10 respuestas de
-    en la encuesta, tendrás la opción de descargar
-    los datos de la encuesta mediante el enlace «Descargar CSV» que se encuentra en la parte inferior
-    a la derecha de la página de resultados de la encuesta.
-- \*\* ¿Quién puede ser un ayudante y qué aporta al taller? \*\*
-  - Los [ayudantes] (/resources/workshops/checklists.md#helper-checklist) suelen ser reclutados de la comunidad local del sitio anfitrión para apoyar los talleres de carpintería. Los ayudantes ayudan a los alumnos de forma individual si están atascados instalando software, entendiendo una determinada línea de código o cualquier otra parte del proceso de aprendizaje.
+  - If the workshop will take place online, please add online
+    (online)
+  - This slug format is a part of a validation check in our system,
+    including the dashes separating these variables.
+- **Does the instructor need to be listed as the contact person on the
+  workshop webpage or a member of the host institution?**
+  - The person listed should be knowledgeable about the workshop so they
+    can answer questions regarding the workshop such as attendance policy,
+    waitlist information, location, installation, etc. You can have multiple
+    persons listed as the contact person if needed.
+- **Where do I find the pre/post survey for the learners to use?**
+  - The learner-facing survey links are automatically generated on
+    the workshop's webpage. They will be located directly
+    above and within the schedule. You are welcome to share the
+    survey links (located on the workshop webpage) with your
+    attendees whenever the time is right for your workshop.
+- **How do I access the survey results?**
+  - If you are planning a workshop please notify the Workshop
+    Administration Team of your planned workshop using the workshop
+    request form. The
+    Workshop Administration Team will send the link to view results
+    of the survey one to two weeks prior to the workshop. If there are more
+    than 10 survey responses, you will have the option to download
+    the survey data, using the 'Download CSV' link at the bottom
+    right of the survey results page.
+- **Who can be a Helper and what do they contribute to the workshop?**
+  - [Helpers](/resources/workshops/checklists.md#helper-checklist) are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
-### Desafíos del taller
+### Workshop Challenges
 
-- \*\* ¿Qué debo hacer si tengo problemas de conexión a Internet durante un taller? \*\*
-  - Asigne instructores de respaldo (p. ej., instructores recién certificados o ayudantes que se sientan cómodos sustituyéndolo) para que intervengan en caso de que surjan problemas técnicos.
-  - Nunca enseñes solo.
-- \*\* ¿Cómo puedo mantener la participación de los alumnos y qué pasa si se pierden una sesión? \*\*
-  - Utilice métodos interactivos (por ejemplo, llamadas aleatorias, encuestas, registros de Zoom).
-  - Aliente a los alumnos a utilizar los materiales que figuran en el sitio web del taller.
-  - Si puede, ofrezca horas de oficina para ayudar a los alumnos de forma individual o en grupos pequeños.
-- \*\* ¿Cómo puedo gestionar las diferencias de zona horaria o los desafíos de puntualidad? \*\*
-  - Comunique las horas de inicio con antelación.
-  - Comience las sesiones con discusiones informales o con una revisión para dar cabida a los recién llegados sin interrumpir el contenido clave.
-  - Cuando programes una reunión con otros instructores y con el anfitrión, considera la posibilidad de usar herramientas como [Doodle] (https://doodle.com/en/) o [WhenIsGood] (https://whenisgood.net/). Estas solicitudes son gratuitas y permitirán a cada persona conocer la (s) hora (s) de reunión propuesta (s) en su zona horaria designada.
-  - La [herramienta de fecha y hora] (https://www.timeanddate.com/) es una excelente manera de comprobar la hora de los eventos en una región diferente a la tuya. Usa la barra de búsqueda del Reloj Mundial para buscar la hora en cualquier ciudad o lugar.
-- \*\* ¿Qué puedo hacer si los alumnos tienen problemas para retener la información o siguen haciendo las mismas preguntas? \*\*
-  - Usa resúmenes para reforzar los puntos clave.
-  - Aliente a los alumnos a revisar los materiales de la lección tal como figuran en el sitio web del taller.
-  - Anime a los alumnos a seguir practicando por su cuenta.
+- **What should I do if I experience internet connectivity issues during a workshop?**
+  - Assign backup Instructors (e.g., newly certified Instructors, helpers who are comfortable filling in) to step in if technical issues arise.
+  - Never teach alone.
+- **How can I keep learners engaged, and what if they miss a session?**
+  - Use interactive methods (e.g., random call-outs, polls, Zoom check-ins).
+  - Encourage learners to use the materials listed on the workshop website.
+  - If you are able, offer office hours to help the learners 1:1 or in small groups.
+- **How can I handle time zone differences or punctuality challenges?**
+  - Communicate start times in advance.
+  - Begin sessions with informal discussions or a review to accommodate latecomers without disrupting key content.
+  - When scheduling a time to meet with other Instructors and the host, consider using tools such as [Doodle](https://doodle.com/en/) or [WhenIsGood](https://whenisgood.net/). These applications are free and they will allow each person to know the proposed meeting time(s) in their designated time zone.
+  - The [time and date tool](https://www.timeanddate.com/) is a great way to check the time of events in a region that is different from your own. Use the      World Clock search bar to search the time in any city or place.
+- **What can I do if learners have trouble retaining information or keep asking the same questions?**
+  - Use recaps to reinforce key points.
+  - Encourage learners to review lesson materials as listed on the workshop website.
+  - Encourage learners to continue practicing on their own.
 
-### Currículos
+### Curricula
 
-- \*\*Si solo enseño partes del plan de estudios de Carpentries, ¿todavía tengo que inscribirme en mi taller?
-  \*\*
-  - Es importante que sepamos que los talleres se publican
-    porque las personas suelen ponerse en contacto con nosotros para informarnos que
-    no podrán asistir a un taller o hacer preguntas y, si
-    no sabemos acerca de los talleres planificados, no podemos brindar apoyo ni compartir la información de
-    con los instructores.
-  - Si solo enseñas una parte del plan de estudios de The Carpentries o
-    si el taller no se ajusta al {{"[Core Curricula] ({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)» .format (carpentries_website)}} de un programa de lecciones,
-    te pedimos que sigas siendo {{'[register] ({}/forms/workshop/) '.format (amy_link)}} tu taller autoorganizado y
-    selecciones la opción «Mix & Match» para la pregunta «Cuál
-    Carpinterías taller ¿estás enseñando?». \*\*Esta opción solo está disponible
-    para talleres autoorganizados. Los talleres
-    organizados de forma centralizada deben seguir los {{"[Currículos básicos] ({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)» .format (carpentries_website)}} . \*\*
+- **If I am only teaching portions of the Carpentries curricula, do I
+  still need to register my workshop?**
+  - It is important that we know about workshops being publicised
+    because people often contact us to report that they will be
+    unable to attend a workshop or to ask questions and if we do not
+    know about planned workshops we can not provide support or share
+    information with instructors.
+  - If you are teaching only a portion of The Carpentries curricula or
+    if the workshop does not align with the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}} of a lesson program, we
+    ask that you still {{'[register]({}/forms/workshop/)'.format(amy_link)}} your self-organised workshop and
+    select the "Mix & Match" option for the question "Which
+    Carpentries workshop are you teaching?". **This option is only
+    available for Self-Organised workshops. Centrally-organised
+    workshops are required to follow the {{"[Core Curricula]({}/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops)".format(carpentries_website)}}.**
 
-### Autoorganizado
+### Self-Organised
 
-- \*\* ¿Qué es un taller autoorganizado de carpintería? \*\*
-  - Un taller de carpintería que se organiza y administra de forma independiente del equipo de talleres e instrucción (WIT) de The Carpentries
-    . Se debe enviar un taller autoorganizado [utilizando el formulario
-    para talleres autoorganizados] (https://amy.carpentries.org/forms/self-organised/), y WIT
-    lo ingresará en la base de datos de The Carpentries (AMY) y brindará el siguiente apoyo:
+- **What is a Carpentries Self-Organised Workshop?**
+  - A Carpentries workshop that is organised and administered independently of The Carpentries
+    Workshops and Instruction Team (WIT). A Self-Organised workshop should be submitted using a
+    Self-Organised workshop form, and WIT
+    will enter it into The Carpentries database (AMY) and provide the following support:
 
-    - Enlaces a los resultados de la encuesta
-    - Instancias de AWS para talleres de genómica. \*Se aplican tarifas. Consulte las [Condiciones del acuerdo de los talleres de genómica] (/resources/workshops/genomics_policy.md) para obtener información adicional. \*
-    - Anuncio del taller en la página [Próximos talleres de carpintería] (https://carpentries.org/upcoming_workshops/)
-    - Crédito en AMY para los instructores y ayudantes que impartan el taller
+    - Survey result links
+    - AWS instances for Genomics workshops. _Fees apply. Please refer to the [Genomics Workshops Terms of Agreement](/resources/workshops/genomics_policy.md) for additional information._
+    - Advertisement of the workshop on the [Upcoming Carpentries Workshops](https://carpentries.org/upcoming_workshops/) page
+    - Credit in AMY for Instructors and Helpers teaching the workshop
 
-- \*\* ¿Cuáles son los requisitos para un taller autoorganizado? \*\*
+- **What are the requirements for a Self-Organised Workshop?**
 
-  - Enseña una o más lecciones de cualquiera de los tres programas de lecciones (software, datos, carpintería de bibliotecas), también llamados Mix-and-Match
+  - Teaches one or more lessons from any of the three lesson programs (Software, Data, Library Carpentry), also called Mix-and-Match
 
-  - Tiene al menos un instructor certificado de Carpentries que imparta el taller
+  - Has at least one Carpentries certified Instructor teaching the workshop
 
-  - Utiliza una página web de Carpentries con una convención de nomenclatura que sigue el formato de babosas requerido (que se encuentra en la [plantilla de taller de carpintería] (https://github.com/carpentries/workshop-template))
+  - Uses a Carpentries webpage with a naming convention that follows the required slug format (found on the [Carpentries workshop template](https://github.com/carpentries/workshop-template))
 
-  - [Utiliza las encuestas de Carpentries para la evaluación] (https://carpentries.org/about-us/impact/#assessment)
+  - [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment)
 
-  - Cumple con el {{'[Código de conducta] ({}) '.format (code_of_conduct)}}
+  - Abides by the {{'[Code of Conduct]({})'.format(code_of_conduct)}}
 
-- \*\* ¿Qué no es un taller autoorganizado de carpintería (qué no se aceptará)? \*\*
+- **What is not a Carpentries Self-Organised workshop (what will not be accepted)?**
 
-  - Un taller que enseña material que no proviene de uno de los tres programas de lecciones (software, datos, carpintería de bibliotecas). Esto incluye talleres que enseñan los planes de estudio de Carpentries además de los planes de estudios que no son de Carpentries.
-  - Una lección de incubadora (envíe las lecciones de incubadora en [la página de The Carpentries Incubator] (https://carpentries-incubator.org/))
-  - Un taller que no tiene una página web creada con la [plantilla de taller de carpintería] (https://github.com/carpentries/workshop-template) (si se envía una página web que no sigue el formato de nombres, te pediremos que la actualices antes de poder ingresarla en nuestra base de datos)
-  - Un taller que no tenga al menos un instructor certificado de Carpentries enseñando
+  - A workshop that teaches material not from one of the three lesson programs (Software, Data, Library Carpentry). This includes workshops that teach Carpentries curricula in addition to non-Carpentries curricula.
+  - An incubator lesson (please submit incubator lessons on [The Carpentries Incubator page](https://carpentries-incubator.org/))
+  - A workshop that does not have a webpage created using the [Carpentries workshop template](https://github.com/carpentries/workshop-template) (if a webpage is submitted that does not follow the naming format, we will ask you to update it before we can enter it into our database)
+  - A workshop that does not have at least one Carpentries Certified Instructor teaching
 
-### Organizado centralmente
+### Centrally-Organised
 
-- \*\* ¿Qué es un taller organizado de forma centralizada? \*\*
-  - Un taller organizado de forma centralizada es un enfoque integrador para planificar un evento de carpintería,
-    , en el que la organización anfitriona colabora con el equipo de talleres e instrucción de carpintería
-    (WIT) para coordinarlo. WIT incluye talleres organizados de forma centralizada en la página de reclutamiento de AMY para que enseñen instructores certificados
-    de Carpentries.
-    \*Visite nuestra [página para organizar un taller] (https://carpentries.org/workshops/host-workshop/#host-a-workshop)
-    para obtener más información sobre los talleres organizados de forma centralizada. \*
+- **What is a Centrally-Organised workshop?**
+  - A Centrally-Organised workshop is an integrative approach to planning a Carpentries event,
+    where the host organisation collaborates with the Carpentries Workshops and Instruction Team
+    (WIT) to coordinate. WIT lists Centrally-Organised workshops on the AMY recruiting page for
+    Carpentries certified Instructors to teach.
+    _Please visit our [host a workshop page](https://carpentries.org/workshops/host-workshop/#host-a-workshop)
+    to learn more about Centrally-Organised workshops._
 
-- \*\* ¿Cómo me inscribo para impartir un taller organizado de forma centralizada? \*\*
-  - Cuando hayas completado [la formación de instructores y los tres pasos de pago] (https://carpentries.github.io/instructor-training/checkout.html) y
-    , puedes [iniciar sesión en tu perfil de AMY] (https://carpentries.github.io/amy/users_guide/community_index/) para ver los talleres organizados de forma centralizada e inscribirte en ellos.
-  - Siga las instrucciones paso a paso sobre cómo inscribirse en la sección
-    [viendo oportunidades de enseñanza] (https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
-    de nuestra Guía de usuarios de la comunidad AMY.
+- **How do I sign up to teach a Centrally-Organised Workshop?**
+  - Once you have completed [Instructor training and the three checkout steps](https://carpentries.github.io/instructor-training/checkout.html),
+    you can [login to your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/) to view and sign up for Centrally-Organised workshops.
+  - Follow step-by-step instructions on how to sign up in the
+    [viewing teaching opportunities](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities)
+    section of our AMY Community Users Guide.
 
-- \*\* ¿Cuándo se me considerará instructor experimentado? \*\*
-  - Después de ser instructor en tres talleres de carpintería,
-    podrás ocupar el puesto de instructor experimentado en cualquier taller de carpintería de
-    .
+- **When will I be considered an Experienced Instructor?**
+  - After being an Instructor for three Carpentries workshops you
+    will be able to take the role of Experienced Instructor in any
+    Carpentries workshop.
 
-- \*\* ¿Se les paga un estipendio a los instructores? \*\*
-  - Los instructores seleccionados para impartir talleres son voluntarios y a
-    no se les paga por su servicio. Para compensar el tiempo del instructor,
-    exigimos al anfitrión que cubra los gastos de viaje.
+- **Are Instructors paid a stipend?**
+  - Instructors selected to teach workshops are volunteers and
+    are not paid for their service. To compensate for Instructor time we
+    require the Host to cover travel expenses.
 
-- \*\* Como instructor, ¿seguiré recibiendo crédito por un taller si el anfitrión lo cancela? \*\*
-  - Si tienes previsto impartir un taller de carpintería y el anfitrión
-    cancela, seguirás recibiendo crédito por el taller. Si
-    está programado un taller y tienes que renunciar a la enseñanza,
-    no recibirás crédito por el taller.
+- **As an instructor, will I still get credit for a workshop if the host canceled?**
+  - If you are scheduled to teach a Carpentries workshop and the
+    host cancels, you will still receive credit for the workshop. If
+    a workshop is scheduled and you have to resign from teaching,
+    you will not receive credit for the workshop.
 
-- \*\* ¿Se me notificará si se cancela o pospone un taller? \*\*
-  - Alguien del equipo de talleres e instrucción notificará a los instructores tan pronto como el anfitrión cancele o pospone un taller de
-    . Los instructores
-    confirmados para las fechas originales del taller recibirán la opción
-    de prioridad cuando se confirmen las nuevas fechas.
+- **Will I be notified if a workshop is canceled or postponed?**
+  - Someone from the Workshops and Instruction Team will notify Instructors as soon as a
+    workshop has been canceled or postponed by the Host. Confirmed
+    Instructors for the original workshop dates will be given
+    priority selection when the new dates are confirmed.
 
-#### Taller en línea
+#### Online workshop
 
-- \*\* ¿Se me proporcionará una sala Zoom para impartir mi taller en línea? \*\*
-  - Si su institución tiene una plataforma de videoconferencia disponible,
-    , le recomendamos que utilice esa misma plataforma para el taller The Carpentries
-    . Esto reducirá el tiempo necesario para que los organizadores del taller
-    y los alumnos aprendan un nuevo sistema. Sin embargo, si usted
-    no tiene acceso a un sistema de videoconferencia, nosotros seremos los
-    capaces de proporcionarle acceso a una de nuestras salas Zoom.
+- **Will I be provided with a Zoom room to teach my online workshop?**
+  - If your institution has a videoconferencing platform available,
+    we recommend that you use that same platform for The Carpentries
+    workshop. This will reduce the time needed for workshop
+    organisers and learners to learn a new system. However, if you
+    do not have access to a video conferencing system, we will be
+    able to provide you with access to one of our Zoom rooms.
 
-- \*\*Nunca he impartido un taller en línea, ¿por dónde debo empezar? \*\*
-  - Todos los instructores deben estar familiarizados con las [Recomendaciones para la enseñanza de talleres de carpintería en línea] (/resources/workshops/resources_for_online_workshops.md). Esto le dará la base para talleres de estilo carpintería en línea.
+- **I have never taught an online workshop, where should I begin?**
+  - All Instructors should be familiar with the [Recommendations for Teaching Carpentries Workshops Online](/resources/workshops/resources_for_online_workshops.md). This will give you the foundation for online Carpentries styled workshops.
   -
 
-- \*\* ¿Cómo indico que mi taller estará en línea en la plantilla de sitio web del taller
-  ? \*\*
-  - Hemos actualizado la [plantilla
-    del sitio web del taller] (https://github.com/carpentries/workshop-template) a
-    para que sea más fácil indicar que un taller se impartirá
-    en línea.
+- **How do I indicate my workshop will be online in the workshop
+  website template?**
+  - We updated the workshop website
+    template to
+    make it easier to indicate that a workshop will be taught
+    online.
 
-- \*\* ¿Cuántos instructores se necesitan para impartir un taller en línea? \*\*
-  - Enseñar en línea es un desafío. Recomendamos un mínimo de dos instructores de
-    y un máximo de cuatro instructores con la ayuda de los ayudantes de
-    . Revise los roles
-    [instructivos
-    ] (https://carpentries.org/online-workshop-recommendations/#instructional-roles)
-    recomendados para un taller.
+- **How many instructors are needed to teach an online workshop?**
+  - Teaching online is a challenge. We recommend a minimum of two
+    instructors and a maximum of four instructors with the
+    assistance of helpers. Please review the recommended
+    instruction
+    roles
+    for a workshop.
 
-- \*\* ¿Puedo grabar mi taller? \*\*
-  - Los talleres de carpintería están diseñados para ser interactivos en lugar de estar basados en conferencias, con lecciones que se complementan unas sobre otras. Para fomentar un entorno de aprendizaje en línea cómodo, recomendamos encarecidamente que los participantes de
-    se unan en tiempo real en lugar de confiar en las grabaciones.
+- **Can I record my workshop?**
+  - Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that
+    participants join in real time rather than relying on recordings.
 
-  - Si aún tiene pensado grabar, obtenga el consentimiento de todos los asistentes, incluidos los instructores y los ayudantes, antes de que comience el taller.
+  - If you still plan to record, please obtain consent from all attendees, including Instructors and Helpers, before the workshop starts.
 
-#### Taller presencial
+#### In-person workshop
 
-- \*\* ¿Los instructores pagan los viajes? \*\*
-  - Como instructor voluntario al que no se le paga por su tiempo enseñando
-    , le pedimos al anfitrión que cubra los gastos de viaje y alojamiento
-    , ya sea directamente o mediante el proceso de reembolso
-    de su organización. Recomendamos que el anfitrión presupueste aproximadamente\ $1500
-    por instructor para todos los gastos de viaje. Una vez que todos los instructores tengan la posición
-    y se hayan puesto en contacto con el anfitrión, trabajarás con el anfitrión
-    para planificar el viaje y el alojamiento. The Carpentries no participa
-    en esta parte del proceso de planificación
-- \*\* ¿Qué pasa si ya no puedo dar clases en un taller presencial
-  después de haber comprado el viaje? \*\*
-  - Para el transporte (vuelos, billetes de tren, billetes de autobús, etc.), recomendamos la compra
-    de billetes o seguros totalmente reembolsables siempre que sea posible. Esto ayudará a
-    a garantizar que se recuperen la mayoría de los fondos en caso de cancelación de
-    .
-  - En caso de que a un instructor se le reembolsen los gastos de
-    y cancele, el anfitrión no se hará responsable de ningún costo de
-    , incluidos los costos pagados por el seguro.
-  - Si un anfitrión paga el viaje y el alojamiento por adelantado y un instructor ya no puede enseñar,
-    el instructor será responsable de reembolsar los fondos que el anfitrión
-    no pueda recuperar.
-  - Si es posible, le pedimos al instructor que enseñe virtualmente. Luego, los estudiantes
-    participarán completamente en línea o completamente en persona.
-- \*\* ¿Qué pasa si la política de eventos presenciales cambia antes de que se lleve a cabo el taller
-  ? \*\*
-  - Entendemos que las políticas cambian con regularidad y, a veces,
-    de forma inesperada. Pedimos al anfitrión que proporcione cualquier cambio
-    de inmediato a todas las partes involucradas para que la coordinación pueda alinearse con esos cambios.
-- \*\* ¿Cuáles son los procedimientos de eventos presenciales de The Carpentries para los talleres presenciales de
-  ? \*\*
-  - Seguiremos las pautas para eventos presenciales de la institución anfitriona
-    . Esto diferirá entre las organizaciones y
-    nos aseguraremos de que todas las partes involucradas estén al tanto de cualquier política que
-    esté en vigor.
+- **Do Instructors pay for travel?**
+  - As a volunteer Instructor who is not paid for their time
+    teaching, we ask the host to cover travel and accommodation
+    costs either directly or through their organisation's reimbursement
+    process. We recommend that the host budget approximately \$1500
+    per Instructor for all travel expenses. Once all Instructors are
+    confirmed and have been connected with the host, you will work with the
+    host to plan travel and accommodations. The Carpentries is not involved
+    in this part of the planning process
+- **What if I am no longer able to teach at an in-person workshop
+  after the travel has been purchased?**
+  - For transportation (flights, train tickets, bus tickets, etc.), we encourage the
+    purchase of fully refundable tickets or insurance where possible. This will
+    help ensure that most funds will be recovered in the event of
+    cancellation.
+  - In the event an Instructor is being reimbursed for
+    expenses and cancels, the host cannot be held responsible for any
+    costs, including costs that were paid for insurance.
+  - If a host pays for travel and accommodations upfront and an Instructor is no longer able to teach,
+    the Instructor will be held responsible for reimbursing any funds the host is
+    unable to recover.
+  - If possible, we would ask that the Instructor teaches virtually. Learners
+    will then participate either fully online or fully in-person.
+- **What if the in-person event policy changes before the workshop
+  takes place?**
+  - We understand that policies change regularly and sometimes
+    unexpectedly. We ask that the host provide any changes
+    immediately to all involved parties so that the coordination can
+    align with those changes.
+- **What are The Carpentries' in-person event procedures for in-person
+  workshops?**
+  - We will follow the in-person event guidelines of the host
+    institution. This will differ between organisations and we will
+    ensure that all parties involved are aware of any policies that
+    are in place.
 
 ### General
 
-- \*\* ¿Cómo puedo obtener los datos de las encuestas o los enlaces de los talleres anteriores? \*\*
-  - El equipo de administración del taller puede proporcionar los enlaces
-    a los resultados de las encuestas de talleres anteriores (de agosto de 2018 a la fecha) a los instructores/organizadores del taller
-    o a los instructores afiliados a la organización anfitriona de
-    . Para solicitar enlaces a los resultados de la encuesta,
-    envía un correo electrónico al [Equipo
-    de Administración del Taller] (mailto:workshops@carpentries.org) con tu solicitud y
-    incluye un enlace a los sitios web y/o páginas web del taller.
-- \*\* ¿Cuántas veces al año tengo que enseñar para poder votar? \*\*
-  - Los instructores deben enseñar al menos una vez al año para que
-    sea elegible para votar. Consulta nuestro
-    {{"[Bylaws] ({}/about-us/governance/#carpentries-bylaws-and-policies)» .format (carpentries_website)}}
-    para obtener más información.
-- \*\* ¿Qué sucede si necesito hacer cambios en el sitio web de mi taller? \*\*
-  - No dude en hacer cambios en su sitio web.
-    no necesita hacérnoslo saber, estos cambios se actualizan manualmente cada
-    semana. Sin embargo, si cambias el nombre (o el enlace) de tu repositorio de taller,
-    háznoslo saber, ya que no podremos extraer la información
-    de tu sitio web sin actualizar el enlace de nuestra base de datos.
+- **How do I get survey data/links for previous workshops?**
+  - The Workshop Administration Team can provide survey result links
+    for past workshops (August 2018 - present) to workshop
+    instructors/organizers or instructors affiliated with the
+    hosting organisation. To request survey results links, please
+    send an email to the Workshop Administration
+    Team with your request and
+    include a link to the workshop website(s) and/or slug(s).
+- **How many times a year do I have to teach to be eligible to vote?**
+  - Instructors are required to teach at least one time per year to
+    be eligible for voting. Please find our
+    {{"[Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}
+    for more information.
+- **What happens if I need to make changes to my workshop website?**
+  - Please feel free to make changes to your website. You do not
+    need to let us know, these changes are updated manually each
+    week. However, if you change your workshop repo name (or link),
+    please do let us know as we will not be able to pull information
+    from your website without updating the link in our database.
 
 
