@@ -1,63 +1,63 @@
-# The Carpentries Task Force Guidelines
+# Les directives du groupe de travail sur les charpenteries
 
-These guidelines provide the recommended process for establishing a task force to ensure transparency, accountability, and sustainability of task forces' activities.
+Ces directives fournissent le processus recommandé pour établir un groupe de travail afin de garantir la transparence, la responsabilité et la durabilité des activités des groupes de travail.
 
-## Task Force Proposal
+## Proposition du groupe de travail
 
-A task force proposal should:
+Une proposition du groupe de travail devrait :
 
-- explain the need for or the context of the task force
-- list the aims and objectives of the task force
-- set a timeline for starting and completing the task force's activities/deliverables.
+- expliquer la nécessité ou le contexte du groupe de travail
+- énumérer les buts et les objectifs du groupe de travail
+- établir un calendrier pour le démarrage et l'achèvement des activités/produits livrables du groupe de travail.
 
-Task force proposals can be submitted by creating an
-issue in the
-[_task forces_ repository](https://github.com/carpentries/task-forces) in [The Carpentries GitHub](https://github.com/carpentries/) or
-by emailing the proposal to the [Core Team](mailto:team@carpentries.org).
+Les propositions des groupes de travail peuvent être soumises en [créant un numéro
+] (https://github.com/carpentries/task-forces/issues) dans le référentiel
+[_task forces_] (https://github.com/carpentries/task-forces) dans [The Carpentries GitHub] (https://github.com/carpentries/) ou
+en envoyant la proposition par e-mail à [Core Team] (mailto:team@carpentries.org).
 
-## Task Force Formation
+## Création d'un groupe de travail
 
-Task force proposals do not require formal approval, though the [Core Team should be informed](mailto:team@carpentries.org) of task force formation. Active task forces are listed in [The Carpentries task forces repository](https://github.com/carpentries/task-forces) with a link to its public documentation.
+Les propositions du groupe de travail ne nécessitent pas d'approbation officielle, bien que [l'équipe principale doive être informée] (mailto:team@carpentries.org) de la formation du groupe de travail. Les groupes de travail actifs sont répertoriés dans [The Carpentries task forces repository] (https://github.com/carpentries/task-forces) avec un lien vers leur documentation publique.
 
-## Task Force Operations
+## Opérations de la Task Force
 
-The following are recommended guidelines for committees. Each committee should:
+Les lignes directrices suivantes sont recommandées pour les comités. Chaque comité doit :
 
-- Create the official [task force charter](https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md),
-  including the task force's roles and responsibilities
-- Appoint the task force chair and, optionally, a co-chair
-- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the task force meetings
-- Create a public space for the task force, including:
-  - The task force's charter and its current status (e.g., active, completed)
-  - Contact information for the task force
-  - Other public materials (if available)
-  - Information on when the task force meetings are held
-  - Meeting notes (if appropriate)
-  - Name of the Core Team liaison
-  - Information on how to apply to join the task force
-- Create internal [documentation for operational procedures](https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md#task-force-charter-name-of-task-force) (which may also be made public), including:
-  - Process for recruiting and/or selecting new members
-  - Decision-making process
-- Maintain internal and public-facing communication:
-  - Organise regular meetings to progress with the task force's activities and post meeting notes in a consistent location (meeting notes should be public unless the work of the task force requires them to remain private)
-  - Post meetings in the community calendar (note that meetings do not necessarily need to be open to the public to attend even though they are added to the calendar)
-  - Utilise other [Carpentries community communication pathways](/resources/communications/index.md) to engage with the community as needed
+- Créer la [charte officielle du groupe de travail] (https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md),
+  , y compris les rôles et responsabilités du groupe de travail
+- Désigner le président de l'équipe spéciale et, éventuellement, un coprésident
+- Demandez à un agent de liaison membre de [l'équipe principale] (https://carpentries.org/team/) de servir de point de contact et (éventuellement) d'assister aux réunions du groupe de travail
+- Créer un espace public pour le groupe de travail, y compris :
+  - La charte du groupe de travail et son statut actuel (par exemple, actif, terminé)
+  - Coordonnées du groupe de travail
+  - Autres documents publics (si disponibles)
+  - Informations sur la date des réunions du groupe de travail
+  - Notes de réunion (le cas échéant)
+  - Nom de l'agent de liaison de l'équipe principale
+  - Informations sur la procédure à suivre pour rejoindre le groupe de travail
+- Créer une [documentation interne pour les procédures opérationnelles] (https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md#task-force-charter-name-of-task-force) (qui peut également être rendue publique), y compris :
+  - Processus de recrutement et/ou de sélection de nouveaux membres
+  - Processus de prise de décision
+- Maintenir la communication interne et destinée au public :
+  - Organisez des réunions régulières pour faire avancer les activités de l'équipe spéciale et publiez les notes de réunion à un endroit cohérent (les notes des réunions doivent être publiques, sauf si les travaux de l'équipe spéciale exigent qu'elles restent privées)
+  - Afficher les réunions dans le calendrier communautaire (notez que les réunions ne doivent pas nécessairement être ouvertes au public, même si elles sont ajoutées au calendrier)
+  - Utiliser d'autres [voies de communication communautaires de Carpentries] (/resources/communications/index.md) pour dialoguer avec la communauté selon les besoins
 
-The task force's public documentation should be stored in a folder within the [`task-forces` repository](https://github.com/carpentries/task-forces)
-in [The Carpentries GitHub](https://github.com/carpentries/).
+La documentation publique du groupe de travail doit être stockée dans un dossier du référentiel [`task-forces`] (https://github.com/carpentries/task-forces)
+dans [The Carpentries GitHub] (https://github.com/carpentries/).
 
-## Task Force Termination
+## Résiliation du groupe de travail
 
-A task force will naturally cease to function upon fulfilling its goals, in which case the Core Team should be notified.
+Un groupe de travail cessera naturellement de fonctionner une fois ses objectifs atteints, auquel cas l'équipe principale devra en être informée.
 
-## Past & Current Task Forces
+## Groupes de travail passés et actuels
 
-- [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) - a recurring task force that gets periodically
-  reformed to organise the international [CarpentryCon](https://carpentries.org) conference on behalf of The Carpentries.
-- Other past and current task forces can be found in [The Carpentries Task Force Repository](https://github.com/carpentries/task-forces).
+- [CarpentryCon Task Force] (https://carpentries.org/carp-con-tf/) - un groupe de travail récurrent qui est régulièrement réformé
+  pour organiser la conférence internationale [CarpentryCon] (https://carpentries.org) au nom de The Carpentries.
+- D'autres groupes de travail passés et actuels se trouvent dans [The Carpentries Task Force Repository] (https://github.com/carpentries/task-forces).
 
-## Update Log
+## Journal des mises à jour
 
-- 2024-01-25: Renamed Task Force Policy to Task Force Guidelines, including recommendations and removing requirements for task forces.
-- [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council.
-- [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council.
+- 25/01/2020 : La politique du groupe de travail a été renommée en lignes directrices pour les groupes de travail, y compris des recommandations et la suppression d'exigences pour les groupes de travail.
+- [Approuvé le 02/12/2022] (https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) par le Conseil exécutif.
+- [Approuvé le 23/09/2020] (https://github.com/carpentries/executive-council-info/issues/44) par le Conseil exécutif.
