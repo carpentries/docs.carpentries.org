@@ -1,29 +1,29 @@
-# Glossary of Terms
+# Glossaire des termes
 
-## A
+## UNE
 
 ```{glossary}
 
-Accessibility
-    design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as “a11y”, pronounced "ally", where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility.
+Accessibilité
+    conception de produits, d'appareils, de services ou d'environnements utilisables par tous, quelles que soient leurs capacités ; parfois abrégé en « a11y », prononcé « allié », où 11 représente le nombre de lettres entre le premier « a » et le dernier « y » du mot accessibilité.
 
-[AMY](https://amy.carpentries.org)
-    the community data management software of The Carpentries; it allows: the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional partnerships; community members to find and sign up for training events, and to view their contributions.
+[AMY] (https://amy.carpentries.org)
+    est le logiciel de gestion des données communautaires de The Carpentries ; il permet : à l'organisation de suivre les activités programmatiques, y compris les ateliers, les formations, les rôles et les badges communautaires, et les partenariats institutionnels ; aux membres de la communauté de rechercher et de s'inscrire à des événements de formation, et de consulter leurs contributions.
 
 ```
 
 ## B
 
 ```{glossary}
+Badge 
 
-Badge
-    indicator of a commitment or contribution to The Carpentries community; for roles either that require training and/or onboarding, or to recognise particular achievements in the community; refer to {term}`Certification <certification>`, {term}`Certified Role <certified role>` and {term}`Contributor Role <contributor role>`
+    indicateur d'un engagement ou d'une contribution à la communauté The Carpentries ; pour les rôles nécessitant une formation et/ou une intégration, ou visant à reconnaître des réalisations particulières au sein de la communauté ; reportez-vous à {term}`Certification <certification>`, {term}`Rôle certifié <certified role>` et {term}`Rôle de contributeur <contributor role>` Article de blog
 
-Blog Post
-    written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks. 
 
-Board of Directors
-    the governing body of The Carpentries, to whom the Executive Director reports; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Board of Directors meetings and regular correspondence and collaboration via email and online platforms.
+    contenu écrit partagé sur le site The Carpentries, écrit par la communauté ou l'équipe principale pour partager des informations, des développements communautaires ou des conseils et astuces pédagogiques. 
+
+Conseil d'administration
+    l'organe directeur de The Carpentries, à qui le directeur exécutif rend compte ; la plus haute instance dirigeante du projet The Carpentries chargée de la planification stratégique et organisationnelle, de la sélection du directeur exécutif et de l'évaluation de ses performances, de la supervision financière, de l'identification des flux de revenus et du développement des ressources, de l'approbation et du suivi des programmes et services de The Carpentries, et de l'amélioration de l'image publique de The Carpentries ; les membres du conseil d'administration font également office de les défenseurs et les ambassadeurs de l'organisation, en tirant parti de leurs réseaux pour améliorer la réputation du projet et la collecte de fonds ; s'acquitte de ces responsabilités en combinant des réunions trimestrielles du conseil d'administration et une correspondance et une collaboration régulières par courrier électronique et sur des plateformes en ligne.
 
 ```
 
@@ -134,13 +134,13 @@ Curriculum Team
 ```{glossary}
 
 Demo
-    short for demonstration, a brief presentation showing how to do a specific task; refer to {term}`Teaching demo <teaching demo>`.
+    Abréviation de démonstration, brève présentation montrant comment effectuer une tâche spécifique ; reportez-vous à {term}`Teaching demo <teaching demo>`.
 
-Diversity
-    individual differences (e.g., personality, language, learning preferences and life experiences) and group-social differences (e.g., race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) that can be engaged in the service of learning.
+Diversité
+    les différences individuelles (par exemple, la personnalité, la langue, les préférences d'apprentissage et les expériences de vie) et les différences sociales entre les groupes (par exemple, la race, l'origine ethnique, la classe, le sexe, l'identité de genre, l'orientation sexuelle, l'identité sexuelle, le pays d'origine et le statut des capacités, ainsi que les affiliations culturelles, politiques, religieuses ou autres) qui peuvent être mises au service de l'apprentissage.
 
-Donor
-    an individual who contributes financially to The Carpentries, whether one-time or regularly.
+Donateur
+    une personne qui contribue financièrement à The Carpentries, que ce soit une fois ou régulièrement.
 
 ```
 
@@ -149,19 +149,19 @@ Donor
 ```{glossary}
 
 Editor
-    coordinates and oversees the open peer review of lessons in The Carpentries Lab.
+    coordonne et supervise l'évaluation ouverte par les pairs des leçons de The Carpentries Lab. Épisode
 
-Episode (Lesson Episode)
-    a single page in the body of a Carpentries lesson; multiple episodes make up a lesson; an episode does not need to be self-contained.
+(épisode de leçon)
+    une seule page dans le corps d'une leçon de menuiserie ; plusieurs épisodes constituent une leçon ; un épisode n'a pas besoin d'être autonome.
 
-Equity
-    creation of opportunities for access to and participation in programs that are capable of closing participation gaps in our community.
+Equité
+    création d'opportunités d'accès et de participation à des programmes capables de combler les écarts de participation dans notre communauté.
 
 Etherpad
-    open-source, web-based collaborative real-time editor; allows authors to edit a text document simultaneously and access all of the participants' edits in real-time, with the ability to display each author's text in a different colour; there is also a chat box in the sidebar to allow meta communication.
+    éditeur collaboratif en temps réel open source basé sur le Web ; permet aux auteurs de modifier un document texte simultanément et d'accéder à toutes les modifications des participants en temps réel, avec la possibilité d'afficher le texte de chaque auteur dans une couleur différente ; il y a également une boîte de discussion dans la barre latérale pour permettre la méta-communication.
 
 Executive Team
-    members of the {term}`Core Team <core team>` who proactively bring together perspectives from all individual programmatic teams and established community segments; they discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Board of Directors.
+     : membres de la « Core Team <core team> » {term}qui réunissent de manière proactive les points de vue de toutes les équipes programmatiques individuelles et des segments communautaires existants ; ils discutent et résolvent les défis actuels, élaborent et mettent en œuvre une approche partagée de la gestion et du leadership, examinent et prennent des décisions sur le budget, supervisent et prennent des décisions concernant les rôles et responsabilités de l'équipe principale, établissent et soutiennent la manière dont le noyau L'équipe travaille ensemble, supervise le travail du projet, soutient le développement d'opportunités de revenus, y compris des subventions, et soutient le directeur exécutif dans son travail avec le conseil d'administration.
 
 ```
 
@@ -169,14 +169,14 @@ Executive Team
 
 ```{glossary}
 
-Governance
-    system by which an organisation is controlled and operates; governance of The Carpentries is undertaken by the Board of Directors, to whom the Executive Director reports; refer to {term}`Board of Directors <board of directors>`.
+Système de gouvernance
+    par lequel une organisation est contrôlée et fonctionne ; la gouvernance de The Carpentries est assurée par le conseil d'administration, auquel le directeur exécutif rend compte ; voir {term}« Conseil d'administration <board of directors> ».
 
 Gratitudes
-    opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customised emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share gratitude in Slack or social media.
+    Des opportunités sont offertes à la communauté pour partager son appréciation mutuelle et pour tout ce que nous avons pu accomplir ensemble ; une section sur les remerciements est incluse dans chaque newsletter ; [un emoji personnalisé] (https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) est également disponible pour partager notre gratitude sur Slack ou les réseaux sociaux.
 
 Green Sticky
-    positive feedback from the community or for the community.
+    feedback positif de la communauté ou pour la communauté.
 
 ```
 
@@ -185,13 +185,13 @@ Green Sticky
 ```{glossary}
 
 Handbook
-    collection of information on policies and procedures; refer to  {term}`Carpentries Handbook <carpentries handbook>`.
+    collecte d'informations sur les politiques et les procédures ; reportez-vous au  {term}`Carpentries Handbook <carpentries handbook>`. Bénévole
 
 Helper
-    volunteer recruited by the workshop organiser to support Carpentries workshops; support learners one-on-one if they are stuck installing software, understanding a line of code, or any other parts of the learning process; does not have to be a certified Instructor or member of The Carpentries community; refer to [helper checklist](https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) for more information.
+    recruté par l'organisateur de l'atelier pour soutenir les ateliers de menuiserie ; aider les apprenants individuellement s'ils sont bloqués à installer un logiciel, à comprendre une ligne de code ou toute autre partie du processus d'apprentissage ; n'a pas besoin d'être un instructeur certifié ou un membre de la communauté The Carpentries ; reportez-vous à [liste de contrôle des aides] (https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist) pour plus d'informations.
 
-Host Organisation(s)
-    institution(s) responsible for planning a Carpentries event; can also be the institution where the event is held.
+Organisation (s) hôte (s)
+    institution (s) responsable (s) de la planification d'un événement sur les menuiseries ; peut également être l'institution où se tient l'événement.
 
 ```
 
@@ -200,43 +200,43 @@ Host Organisation(s)
 ```{glossary}
 
 Incident Response Group (IRG)
-    group of people who work on a specific Code of Conduct incident; there will be a minimum of three people from the Code of Conduct committee on each IRG.
+    groupe de personnes qui travaillent sur un incident spécifique lié au code de conduite ; il y aura au moins trois membres du comité du code de conduite de chaque IRG.
 
-Incident Response Lead
-    a person on the Code of Conduct committee heading the Incidence Response Group (IRG); this person is appointed on a per-incident basis by the IRG.
+Responsable de la réponse aux incidents
+    membre du comité du code de conduite à la tête de l'Incidence Response Group (IRG) ; cette personne est nommée par incident par l'IRG.
 
 Inclusion
-    active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community.
+    Engagement actif, intentionnel et continu de personnes et de communautés diverses qui accroît la prise de conscience, la connaissance du contenu et la compréhension empathique de la manière dont nous interagissons au sein (et changeons) notre communauté.
 
-Incubator
-    refer to  {term}`Carpentries Incubator <carpentries incubator>`.
+Incubateur
+    fait référence à  {term}`Carpentries Incubator <carpentries incubator>`. Leçon
 
-Incubator Lesson
-    lesson under development by the community in The Carpentries Incubator, using the Carpentries lesson infrastructure.
+Incubateur
+    en cours de développement par la communauté de The Carpentries Incubator, en utilisant l'infrastructure des leçons de menuiserie.
 
-Instructors
-    community members who are certified to teach Carpentries workshops after completing Instructor Training and checkout.
+Instructeurs
+    membres de la communauté qui sont certifiés pour donner des ateliers de menuiserie après avoir terminé la formation des instructeurs et passé leur commande.
 
-Instructor Meeting
-    every other month meetings where Instructors discuss pre/post workshops, challenges and wins, and receive important announcements from the Core Team.
+Réunion des instructeurs
+    Des réunions tous les deux mois au cours desquelles les instructeurs discutent des ateliers avant et après les ateliers, des défis et des victoires, et reçoivent des annonces importantes de la part de l'équipe principale.
 
-Instructor Trainee
-    individual who is in the process of being certified as an Instructor.
+Entraîneur stagiaire
+    personne en cours de certification en tant qu'instructeur. Membre de la communauté
 
 Instructor Trainer
-    community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations and attend Instructor Trainer meetings.
+    qui a été formé et certifié pour enseigner la formation des instructeurs ; ils organisent également des démonstrations pédagogiques et participent à des réunions de formateurs d'instructeurs. Formation des formateurs
 
-Instructor Trainer Training
-    training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification. 
+
+    sur la façon d'enseigner la formation des instructeurs ; une étape nécessaire pour terminer la vérification et la certification des formateurs d'instructeurs. 
 
 Instructor Trainers Leadership
-    committee of Instructor Trainers responsible for community oversight and governance.
+    comité d'instructeurs formateurs responsable de la supervision et de la gouvernance de la communauté.
 
-Instructor Training
-    training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer also to {term}`Checkout <checkout>`
+Formation des instructeurs
+    formation sur la façon d'enseigner des ateliers de menuiserie, y compris la psychologie pédagogique, les pratiques pédagogiques fondées sur des preuves et des informations spécifiques à la menuiserie ; une étape nécessaire pour terminer l'évaluation et la certification des formateurs ; reportez-vous également à {term}`Checkout <checkout>`
 
-Internationalisation
-    initiative to translate Carpentries resources into multiple languages and support the adoption of The Carpentries internationally; sometimes abbreviated as "i18n" where 18 stands for the number of letters between the first “i” and the last “n” in the word internationalisation.
+Initiative d'internationalisation
+    visant à traduire les ressources de menuiserie dans de nombreuses langues et soutiennent l'adoption de The Carpentries à l'échelle internationale ; parfois abrégé en « i18n » où 18 représente le nombre de lettres entre le premier « i » et le dernier « n » du mot internationalisation.
 
 ```
 
@@ -245,73 +245,73 @@ Internationalisation
 ```{glossary}
 
 Lab
-    refer to {term}`Carpentries Lab<carpentries lab>`.
+    fait référence à {term}`Carpentries Lab<carpentries lab>`. Leçon de laboratoire
 
-Lab Lesson
-    peer-reviewed lesson in The Carpentries Lab; lab lessons typically begin in the Incubator and enter the Lab after passing the peer review and editorial processes.
 
-Learner
-    anyone who participates in a Carpentries workshop.
+    leçon évaluée par des pairs dans The Carpentries Lab ; les leçons de laboratoire commencent généralement dans l'incubateur et entrent dans le laboratoire après avoir passé avec succès les processus d'évaluation par les pairs et de rédaction.
 
-Lesson
-    self-contained collection of episodes teaching skills within a single topic, built using the Lesson Infrastructure.
+Apprenant
+    toute personne participant à un atelier de menuiserie.
+
+Leçon
+    Collection autonome d'épisodes enseignant des compétences dans un seul sujet, construite à l'aide de l'infrastructure des leçons.
 
 Lesson Developer
-    member of the community who creates lesson content; may use the Lesson Developer Handbook as a primary resource.
+    membre de la communauté qui crée le contenu des leçons ; peut utiliser le manuel du développeur de leçons comme ressource principale.
 
 Lesson Developer Trainer
-    member of the community who has been trained and certified to teach Collaborative Lesson Development Training; they also attend Lesson Developer Trainer meetings.
+    membre de la communauté qui a été formé et certifié pour enseigner la formation collaborative au développement de leçons ; ils participent également à des réunions de formateurs de développeurs de leçons.
 
 Lesson Development Sprint
-    dedicated event to make progress and encourage collaboration on the development of a lesson.
+    événement dédié pour progresser et encourager la collaboration sur le développement d'une leçon.
 
 Lesson Infrastructure
-    collection of software tools that are used to build, style, and validate a Carpentries lesson website; also known as The Carpentries Workbench.
+    collection d'outils logiciels utilisés pour créer, styliser et valider un site Web de leçons de menuiserie ; également connu sous le nom de The Carpentries Workbench.
 
 Lesson Maintainer
-    refer to {term}`Maintainer<maintainer>`.
+    fait référence à {term}`Maintainer<maintainer>`.
     
 Lesson Program
-    collection of lessons (i.e., Data Carpentry, Library Carpentry, Software Carpentry, and HPC Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation.
+    collection de leçons (c'est-à-dire des leçons de menuiserie de données, de menuiserie de bibliothèque, de menuiserie logicielle et de menuiserie HPC) comprenant un ou plusieurs ateliers de menuiserie et la direction guidant leur développement et leur mise en œuvre.
 
-Lesson Program Governance Committee
-    group overseeing the strategy and policies of a Lesson Program. 
+Comité de gouvernance du programme de leçons
+    groupe supervisant la stratégie et les politiques d'un programme de leçons. Représentant 
 
 Liaison
-    representative of the Core Team who sits on a committee or task force to support the group's work. 
+    de l'équipe principale qui siège à un comité ou à un groupe de travail pour soutenir les travaux du groupe. 
 
 Listserv
-    refer to  {term}`Mailing List<mailing list>`.
+    fait référence à  {term}`Mailing List<mailing list>`.
 
-Local Community
-    members of a subcommunity whose focus is Carpentries activities at a specified local and institutional level (town, city, at a university or research institution); refer to {term}`Subcommunity<subcommunity>`; compare to {term}`Regional Community <regional community>`.
+Communauté locale
+    membres d'une sous-communauté qui se concentre sur les activités de menuiserie à un niveau local et institutionnel spécifié (ville, université ou institut de recherche) ; reportez-vous à {term}`Sous-communauté<subcommunity>`; comparez à {term}`Communauté régionale <regional community>`.
 
 ```
 
 ## M
 
 ```{glossary}
+Liste de diffusion 
 
-Mailing List
-    email list you can subscribe to for receiving communications from the community; [TopicBox](#topicbox) is the platform The Carpentries uses for supporting mailing lists.
+    Liste de diffusion à laquelle vous pouvez vous abonner pour recevoir des communications de la communauté ; [TopicBox] (#topicbox) est la plateforme utilisée par The Carpentries pour soutenir les listes de diffusion. Membre de la communauté
 
 Maintainer
-    community member working to keep Carpentries lessons stable and functional.
+    qui travaille pour que les leçons de menuiserie restent stables et fonctionnelles.
 
 Membership
-    refer to {term}`Member Organisation<member organisation>`.
+    fait référence à {term}« Organisation membre<member organisation> ».
 
 Member Organisation
-    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement.
+    une institution engagée à soutenir le maintien et la croissance de la communauté The Carpentries selon les détails spécifiques décrits dans le contrat d'adhésion ou le mémorandum d'accord de chaque institution.
 
 ```
 
 ## N
 
 ```{glossary}
+La newsletter 
 
-Newsletter
-    refer to {term}`Carpentries Clippings<carpentries clippings>`.
+    fait référence à {term}`Carpentries Clippings<carpentries clippings>`.
 
 ```
 
@@ -319,8 +319,8 @@ Newsletter
 
 ```{glossary}
 
-Official Lesson
-    the single lesson within a Lesson Program that can be taught in an official Carpentries workshop.
+Leçon officielle
+    la leçon unique d'un programme de leçons qui peut être dispensée dans un atelier de menuiserie officiel.
 
 ```
 
@@ -329,25 +329,25 @@ Official Lesson
 ```{glossary}
 
 Partner
-    refer to {term}`Partner Organisation<partner organisation>`.
+    fait référence à {term}« Organisation partenaire<partner organisation> ».
 
 Partner Organisation
-    an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Partnership Agreement or Memorandum of Agreement. 
+    une institution engagée à soutenir le maintien et la croissance de la communauté The Carpentries selon les détails spécifiques décrits dans l'accord de partenariat ou le mémorandum d'accord de chaque institution. 
 
 Partnership
-    refer to {term}`Partner Organisation<partner organisation>`.
+    fait référence à {term}« Organisation partenaire<partner organisation> ».
 
 Partnership Program
-    a program granting Partner Organisations access to workshops, trainings and other service offerings from The Carpentries, designed to strengthen the two-way relationship between the organisations.
+    un programme permettant aux organisations partenaires d'accéder à des ateliers, à des formations et à d'autres offres de services de The Carpentries, conçu pour renforcer la relation bidirectionnelle entre les organisations. Atelier pilote
 
-Pilot Workshop
-    event where a new lesson is being tested.
+
+    événement au cours duquel une nouvelle leçon est testée. Directive
 
 Policy
-    guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/policies/).
+    adoptée par The Carpentries qui oriente la mise en œuvre des procédures, y compris, mais sans s'y limiter, les finances, l'infrastructure et la programmation ; pour plus d'informations sur nos politiques, consultez [les politiques du manuel The Carpentries] (https://docs.carpentries.org/policies/).
 
-[Pretix](https://pretix.carpentries.org)
-    an [open source scheduling system](https://pretix.eu) that The Carpentries hosts on its cloud infrastructure to manage community events and attendance
+[Pretix] (https://pretix.carpentries.org)
+    un [système de planification open source] (https://pretix.eu) que The Carpentries héberge sur son infrastructure cloud pour gérer les événements communautaires et la participation
 
 ```
 
@@ -356,82 +356,82 @@ Policy
 ```{glossary}
 
 Red Sticky
-    constructive feedback from the community or for the community.
+    Feedback constructif de la communauté ou pour la communauté.
 
-Regional Community
-    a subcommunity whose focus is Carpentries activities at a specified large geographical (regional, national, provincial or district) area; refer to {term}`Subcommunity<subcommunity>`; compare to {term}`Local Community <local community>`.
+Communauté régionale
+    une sous-communauté qui se concentre sur les activités de menuiserie dans une grande zone géographique spécifiée (régionale, nationale, provinciale ou district) ; reportez-vous à {term}« Sous-communauté<subcommunity> » ; comparez à {term}« Communauté locale <local community> ». Appel communautaire régional
 
-Regional Community Call
-    community session of regional subcommunity matters. 
+
+    session communautaire sur les questions relatives aux sous-communautés régionales. Membre de la communauté 
 
 Reviewer
-    community member providing feedback on a lesson as part of The Carpentries Lab's open peer review process.
+    fournissant des commentaires sur une leçon dans le cadre du processus ouvert d'évaluation par les pairs de The Carpentries Lab. Feuille de route
 
-Roadmap
-    plan that defines a goal or desired outcome and includes the major steps or milestones needed to achieve it.
+Plan
+    qui définit un objectif ou un résultat souhaité et inclut les principales étapes ou jalons nécessaires pour l'atteindre.
 
 ```
 
 ## S
 
 ```{glossary}
-
-Self-Organised Workshop
-    workshop that is facilitated and organised by a certified Carpentries Instructor and their local community.
+Atelier auto-organisé 
+Atelier
+    animé et organisé par un instructeur de menuiserie certifié et sa communauté locale.
 
 Skill-Up Session
-    community session offering professional development opportunities for the community where the Community Session Host teaches relevant skills.
+    Session communautaire offrant des opportunités de développement professionnel à la communauté où l'animateur de la session communautaire enseigne des compétences pertinentes. Plateforme logicielle
 
 Slack
-    software platform used by The Carpentries to support synchronous and asynchronous communications; channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose.
+    utilisée par The Carpentries pour prendre en charge les communications synchrones et asynchrones ; les canaux prennent en charge les communications, la collaboration et la co-création entre un sous-ensemble de membres de la communauté, en fonction de l'objectif de la chaîne.
 
 Sponsor
-    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to {term}`Sponsorship Program <sponsorship program>`. 
+    une organisation qui s'est engagée à soutenir financièrement The Carpentries par le biais du programme de parrainage Carpentries ; reportez-vous à {term}« Programme de parrainage <sponsorship program> ». Programme de parrainage 
 
-Sponsorship Program
-    program that allows a company, firm, or other entity to contribute financially to The Carpentries. 
+Programme
+    qui permet à une entreprise, une entreprise ou une autre entité de contribuer financièrement à The Carpentries. Document du plan stratégique 
 
-Strategic Plan
-    document used to communicate The Carpentries' goals, objectives, and actions taken to achieve those goals over a three to five-year period.
 
-Subcommunity
-    a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests; refer to {term}`Local Community <local community>` and {term}`Regional Community <regional community>`.
+    utilisé pour communiquer les buts, les objectifs et les mesures prises par The Carpentries pour atteindre ces objectifs sur une période de trois à cinq ans.
 
-Subcommunity Coordinator
-    member of the community who serves as leader of a subcommunity.
+Sous-communauté
+    un sous-ensemble de l'ensemble de la communauté Carpentries ; elle peut être locale, régionale, spécifique à un domaine ou un groupe de membres de la communauté partageant une langue ou des intérêts communs ; reportez-vous à {term}« Communauté locale <local community> » et {term}« Communauté régionale <regional community> ». Coordinateur de sous-communauté
 
-Subcommunity Registry
-    [a registry of all The Carpentries subcommunities](https://carpentries.org/community/get-connected/#subcommunity-registry) who have officially registered with the organisation.
+
+    membre de la communauté qui agit en tant que leader d'une sous-communauté. Registre sous-communautaire
+
+
+    [un registre de toutes les sous-communautés de The Carpentries] (https://carpentries.org/community/get-connected/#subcommunity-registry) qui se sont officiellement enregistrées auprès de l'organisation.
 
 ```
 
 ## T
 
 ```{glossary}
+Groupe de travail 
 
-Task Force
-    group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period applying a [recommended set of guidelines](https://docs.carpentries.org/resources/general/taskforce.html) to carry out their work.
+    créé pour explorer des idées et mettre à jour les politiques, les procédures et les directives ; il réunit un petit groupe de personnes qui se concentrent sur un sujet particulier pendant une période donnée en appliquant un [ensemble de directives recommandé] (https://docs.carpentries.org/resources/general/taskforce.html) pour mener à bien leur travail.
 
 Teaching Demo
-    a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process.
+    une session au cours de laquelle les formateurs stagiaires font une courte démonstration de la façon dont ils enseigneraient une leçon ; cela fait partie du processus de certification des instructeurs.
 
 Technology Team
-    members of The Carpentries Core Team that ensure the development, maintenance, and compliance of all the computational infrastructure and services that keep our organisation operating (e.g., Etherpads and CodiMD, the Workbench and our lesson templates, GitHub organisations and repositories, our internal database AMY, and our cloud infrastructure).
+    , membres de l'équipe centrale de The Carpentries qui assurent le développement, la maintenance et la conformité de toutes les infrastructures et services informatiques qui permettent à notre organisation de fonctionner (par exemple, Etherpads et CodiMD, le Workbench et nos modèles de leçons, les organisations et les référentiels GitHub, notre base de données interne AMY et notre infrastructure cloud). Fiche de conseils
 
-Tip Sheet
-    community resource that synthesises and summarises information; an example includes our [Welcome Tip Sheet](https://zenodo.org/records/14591202).
+
+    Ressource communautaire qui synthétise et résume les informations ; un exemple inclut notre [Fiche de conseils de bienvenue] (https://zenodo.org/records/14591202). Plateforme
 
 TopicBox
-    platform The Carpentries uses for supporting email mailing lists; there are numerous mailing lists you can join based on the community roles you are supporting and your interests.
+    que The Carpentries utilise pour soutenir les listes de diffusion par e-mail ; il existe de nombreuses listes de diffusion auxquelles vous pouvez vous inscrire en fonction des rôles communautaires que vous soutenez et de vos intérêts.
 
-Trainee
-    an individual who has registered for or attended a Carpentries Training (e.g., Collaborative Lesson Development Training, Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to {term}`Instructor Trainee<instructor trainee>`.
+Stagiaire
+    une personne qui s'est inscrite à une formation sur la menuiserie ou qui y a participé (par exemple, une formation d'élaboration de leçons en collaboration, une formation d'instructeur, une formation de formateur d'instructeurs) mais qui n'a pas encore obtenu sa certification ; reportez-vous à {term}« Instructor Trainee<instructor trainee> ». Membre de la communauté
 
 Trainer
-    community member who teaches a Carpentries Training; refer to {term}`Instructor Trainer<instructor trainer>` and {term}`Collaborative Lesson Development Training`.
+    qui donne une formation en menuiserie ; reportez-vous à {term}« Instructor Trainer<instructor trainer> » et {term}« Collaborative Lesson Development Training ».
 
 Training
-    event that provides instruction on specific competencies, knowledge, or skills; individuals who complete training become eligible for certification upon completion of the program requirements; for example, refer to {term}`Instructor Training<instructor training>`
+    Événement qui fournit des instructions sur des compétences, des connaissances ou des aptitudes spécifiques ; les personnes qui terminent la formation deviennent éligibles à la certification une fois les exigences du programme terminées ; par exemple, reportez-vous à {term}`Instructor Training<instructor training>`
 
 ```
 
@@ -439,45 +439,45 @@ Training
 
 ```{glossary}
 
-Welcome Session
-    a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities; it also supports onboarding for those who recently completed Instructor training.
+Session de bienvenue
+    un type spécial de session de discussion communautaire pour accueillir les nouveaux membres de la communauté au sein de notre organisation ; l'ordre du jour comprend du temps pour le réseautage, des moyens de s'engager avec notre organisation, des annonces et des opportunités à venir ; il prend également en charge l'intégration des personnes qui ont récemment terminé la formation d'instructeur.
 
 Workbench
-    the collection of three packages used to build Carpentries lessons: [sandpaper](https://carpentries.github.io/sandpaper), [pegboard](https://carpentries.github.io/pegboard), [varnish](https://carpentries.github.io/varnish); refer to {term}`Lesson Infrastructure <lesson infrastructure>`.
+    est la collection de trois packages utilisés pour créer des leçons de menuiserie : [sandpaper] (https://carpentries.github.io/sandpaper), [pegboard] (https://carpentries.github.io/pegboard), [varnish] (https://carpentries.github.io/varnish) ; reportez-vous à {term}`Lesson Infrastructure <lesson infrastructure>`. Atelier
 
-Workshop
-    event that is taught by Carpentries Instructors who teach the curriculum of Data Carpentry, Library Carpentry and Software Carpentry; refer to {term}`Self-Organised Workshop<self-organised workshop>` and {term}`Centrally-Organised Workshop<centrally-organised workshop>`    
 
-Workshop Administrator
-    role within The Carpentries Core Team that supports the organisation and execution of workshops requested by members and hosts.
+    , événement dispensé par des professeurs de menuiserie qui enseignent le programme de menuiserie des données, de menuiserie de bibliothèque et de menuiserie logicielle ; reportez-vous à {term}« Atelier auto-organisé<self-organised workshop> » et {term}« Atelier organisé de manière centralisée<centrally-organised workshop>`    
 
-Workshops and Instruction Team
-    members of The Carpentries Core Team who develop and implement workflows to keep our workshops operating smoothly. The team also supports the growth and development of the Instructor Training and Instructor Trainer Training programs.
+Rôle de l'administrateur de l'atelier
+    au sein de The Carpentries Équipe principale qui soutient l'organisation et l'exécution des ateliers demandés par les membres et les hôtes.
 
-Workshop Format
-    how a workshop is delivered, either online, in-person, or hybrid (Hybrid workshops are only offered as Self-Organised Workshops).
+Ateliers et équipe pédagogique
+    membres de l'équipe principale de The Carpentries qui développent et mettent en œuvre des flux de travail pour assurer le bon fonctionnement de nos ateliers. L'équipe soutient également la croissance et le développement des programmes de formation des instructeurs et de formation des formateurs d'instructeurs. Format d'atelier
 
-Workshop Host
-    a person who organises a Carpentries workshop on behalf of their institution; for a Centrally-Organised Workshop, they request the Workshops and Instruction Team to coordinate the workshop by a Workshop Administrator. 
+
+    Comment un atelier est dispensé, que ce soit en ligne, en personne ou hybride (les ateliers hybrides ne sont proposés que sous forme d'ateliers auto-organisés).
+
+Animateur d'atelier
+    une personne qui organise un atelier de menuiserie pour le compte de son institution ; pour un atelier organisé de manière centralisée, elle demande aux ateliers et à l'équipe pédagogique de coordonner l'atelier par un administrateur de l'atelier. 
 
 Workshop Slug
-    the specific name identifier for a workshop with the format yyyy-mm-dd-site-format.
+    l'identifiant de nom spécifique pour un atelier au format yyyy-mm-dd-site-format.
 
-Workshop Website
-    a link that is used for the public to learn about a workshop; the link shares information such as date, location, how to register, the name of Instructors and helpers, the curriculum, contact information, workshop surveys, and instructions on how to pre-install software.
+Site Web de l'atelier
+    un lien qui permet au public de se renseigner sur un atelier ; le lien partage des informations telles que la date, le lieu, la procédure d'inscription, le nom des professeurs et des assistants, le programme, les coordonnées, les enquêtes sur les ateliers et les instructions sur la façon de préinstaller le logiciel.
 
 ```
 
 ## Z
 
 ```{glossary}
-
+Plateforme de visioconférence 
 Zoom
-    video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as Instructor Training, community discussions, teaching demos, and committee meetings. 
+     ; The Carpentries propose trois salles Zoom pour des événements communautaires publics tels que la formation des instructeurs, les discussions communautaires, les démonstrations pédagogiques et les réunions de comités. 
 
 ```
 
-## Archived Terms
+## Termes archivés
 
 ```{glossary}
 
