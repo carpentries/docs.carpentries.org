@@ -1,99 +1,99 @@
-# Zoom Rooms
+# Salles Zoom
 
-The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for The Carpentries events such as instructor trainings, discussion sessions, teaching demos, and committee meetings. The following information assumes you are using the [most recent version of the Zoom client](https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-).
+The Carpentries propose trois salles Zoom pour des événements communautaires publics.  Des salles Zoom sont disponibles pour les événements de The Carpentries tels que les formations d'instructeurs, les sessions de discussion, les démonstrations pédagogiques et les réunions de comités. Les informations suivantes supposent que vous utilisez la [version la plus récente du client Zoom] (https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-).
 
-## General Room Usage and Links
+## Utilisation générale de la salle et liens
 
-Rooms are generally used as follows. However, any room can be used for other purposes if it is available.
+Les chambres sont généralement utilisées comme suit. Cependant, n'importe quelle pièce peut être utilisée à d'autres fins si elle est disponible.
 
-- Room 1: Instructor Training
-- Room 2: Community events (teaching demos, discussion sessions, committee meetings, etc.)
-- Room 3: Other events as needed
+- Salle 1 : Formation des instructeurs
+- Salle 2 : événements communautaires (démonstrations pédagogiques, sessions de discussion, réunions de comités, etc.)
+- Salle 3 : Autres événements selon les besoins
 
-Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom.us/my/**room_name**`.
+Des événements sont programmés pour chaque salle par l'équipe principale de The Carpentries. Chaque événement aura une URL au format `https://carpentries.zoom.us/my/**room_name **`.
 
-For Instructor Training events, this link will be shared with the Instructor Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  As required by Zoom, all rooms have a password.  The password is available to all participants via the event's etherpad, the calendar listing, or shared directly by the event host or organiser.
+Pour les événements de formation des instructeurs, ce lien sera partagé avec les formateurs d'instructeurs et les stagiaires participant à cet événement.  Pour les sessions de discussion communautaire et les démonstrations pédagogiques, le lien se trouvera sur l'Etherpad concerné et dans la description de cet événement sur notre calendrier communautaire.  Comme l'exige Zoom, toutes les salles disposent d'un mot de passe.  Le mot de passe est accessible à tous les participants via l'Etherpad de l'événement, la liste du calendrier ou partagé directement par l'hôte ou l'organisateur de l'événement.
 
-## Information for event hosts
+## Informations pour les hôtes de l'événement
 
-Please read below if you are teaching an Instructor Training workshop or hosting a Teaching Demo or Community Discussion.
+Veuillez lire ce qui suit si vous organisez un atelier de formation d'instructeurs ou si vous organisez une démonstration pédagogique ou une discussion communautaire.
 
-### Gaining Host Access
+### Obtenir l'accès à l'hôte
 
-If you are teaching an Instructor Training workshop, about a week before the event, you will receive an email with host credentials and other logistical information.
+Si vous animez un atelier de formation d'instructeurs, environ une semaine avant l'événement, vous recevrez un e-mail contenant les informations d'identification de l'hôte et d'autres informations logistiques.
 
-If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event.
+Si vous organisez une discussion communautaire ou une démonstration pédagogique, vous devriez vous être inscrit via Calendly. Deux jours avant l'événement, vous recevrez un e-mail automatique de Calendly contenant la clé d'hôte de l'événement.
 
-[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866)
+[Découvrez comment utiliser la clé d'hôte pour réclamer l'accès à l'hôte.] (https://support.zoom.us/hc/en-us/articles/115001315866)
 
-### Using a Waiting Room
+### Utilisation d'une salle d'attente
 
-Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.  The host can then admit or deny people in the waiting room; send existing participants to the waiting room; and send messages to the waiting room.  Waiting room participants can not message the host.
+Une fois que vous êtes entré et que vous avez réclamé l'accès hôte, il est recommandé de créer une salle d'attente.  Cela vous permet de laisser entrer explicitement les gens, plutôt que de simplement autoriser n'importe qui à entrer.  Il permet d'empêcher le « zoombombing » ou l'entrée d'invités indésirables.  L'hôte peut ensuite admettre ou refuser des personnes dans la salle d'attente, envoyer des participants existants dans la salle d'attente et envoyer des messages à la salle d'attente.  Les participants à la salle d'attente ne peuvent pas envoyer de message à l'hôte.
 
-[Read about how to enable and use a waiting room as host.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
+[Découvrez comment activer et utiliser une salle d'attente en tant qu'hôte.] (https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
 
-### Transferring host privileges or assigning a co-host
+### Transférer les privilèges d'hôte ou affecter un co-hôte
 
-A host may transfer host privileges or assign a co-host. It is highly recommended that the host always assign 1-2 co-hosts. The co-hosts can be whoever is facilitating the session with you, or at your discretion, a trusted participant if you are leading a session alone. The co-hosts can help moderate the room, including making sure people are muted. This also ensures that if the host is accidentally bumped from the call, host access will go to a co-host. Otherwise, Zoom will assign host status to a random participant, making it potentially difficult to re-claim host access.
+Un hôte peut transférer les privilèges d'hôte ou affecter un co-hôte. Il est fortement recommandé que l'hôte désigne toujours 1 à 2 co-hôtes. Les co-animateurs peuvent être la personne qui anime la session avec vous ou, à votre discrétion, un participant de confiance si vous dirigez la session seul. Les co-animateurs peuvent aider à modérer la salle, notamment en veillant à ce que le son des participants soit muet. Cela garantit également que si l'hôte est accidentellement retiré de l'appel, l'accès à l'hôte sera redirigé vers un co-hôte. Dans le cas contraire, Zoom attribuera le statut d'hôte à un participant choisi au hasard, ce qui pourrait rendre difficile la récupération de l'accès à l'hôte.
 
-[Read about how to make a participant a co-host](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
+[Découvrez comment faire d'un participant un co-animateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
-The co-host has most but not all of the same privileges as host. [Read about the co-host's limitations](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
+Le co-hôte bénéficie de la plupart des mêmes privilèges que l'hôte, mais pas de tous. [Découvrez les limites du co-animateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
 
-### Turning participants' audio on or off
+### Activer ou désactiver le son des participants
 
-As host or co-host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
+En tant qu'hôte ou co-hôte, vous pourrez désactiver et réactiver le son des participants.  Cela peut être fait de manière sélective ou pour la pièce dans son ensemble. Par défaut, les participants peuvent se réactiver eux-mêmes. L'hôte peut également choisir de ne pas autoriser les participants à se désactiver.
 
-[Read more about how to manage muting participants](https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
+[En savoir plus sur la gestion de la mise en sourdine des participants] (https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
 
-### Creating Breakout Rooms
+### Création de salles de réunion
 
-Either the host or co-host can assign, start, and end breakout rooms.  They can also move between rooms and message all rooms.
+L'hôte ou le co-organisateur peuvent attribuer, démarrer et terminer les salles de réunion.  Ils peuvent également se déplacer entre les pièces et envoyer des messages à toutes les pièces.
 
-[Read more about how to create and manage breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  This includes setting options for rooms to be created automatically, manually (assigned by host), or allowing participants to choose their own rooms.
+[En savoir plus sur la création et la gestion de salles de sous-groupes] (https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  Cela inclut la configuration des options pour les salles à créer automatiquement, manuellement (attribuées par l'hôte) ou pour permettre aux participants de choisir leurs propres chambres.
 
-### Non-verbal, real time feedback
+### Feedback non verbal en temps réel
 
-Participants can offer non-verbal feedback during a call.  This may include using emojis to represent yes/no responses, a raised hand, and more.  Available reactions may depend on the user's platform.
+Les participants peuvent fournir des commentaires non verbaux lors d'un appel.  Cela peut inclure l'utilisation d'émojis pour représenter les réponses par oui ou par non, une main levée, etc.  Les réactions disponibles peuvent dépendre de la plateforme de l'utilisateur.
 
-[Read more about how to manage non-verbal and real time feedback.](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
+[En savoir plus sur la gestion des commentaires non verbaux et en temps réel.] (https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
-### Screen sharing
+### Partage d'écran
 
-Screen sharing access is limited to hosts and co-hosts. They can choose to grant access to participants.
+L'accès au partage d'écran est limité aux hôtes et aux co-hôtes. Ils peuvent choisir d'accorder l'accès aux participants.
 
-[Read more about granting or denying participants ability to screen share](https://support.zoom.us/hc/en-us/articles/115005759423).
+[En savoir plus sur le fait d'accorder ou de refuser aux participants la possibilité de partager l'écran] (https://support.zoom.us/hc/en-us/articles/115005759423).
 
-Screen sharing options include ability to share just one window or the entire desktop; to share sound; and more.  Some of these features may be limited by the user's operating system.
+Les options de partage d'écran incluent la possibilité de partager une seule fenêtre ou l'ensemble du bureau, de partager le son, etc.  Certaines de ces fonctionnalités peuvent être limitées par le système d'exploitation de l'utilisateur.
 
-[Read more about managing screen sharing features](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
+[En savoir plus sur la gestion des fonctionnalités de partage d'écran] (https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
 
-### Zoom chat
+### Zoom sur le chat
 
-During a meeting, users can send message to all other users or to individual participants.  Hosts can manage who participants can chat with or disable chat entirely.
+Au cours d'une réunion, les utilisateurs peuvent envoyer un message à tous les autres utilisateurs ou à des participants individuels.  Les hôtes peuvent gérer les personnes avec lesquelles les participants peuvent discuter ou désactiver complètement le chat.
 
-[Read more about managing chat during a meeting](https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
+[En savoir plus sur la gestion du chat pendant une réunion] (https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
-### Closed captioning
+### Sous-titrage codé
 
-Zoom provides automatic captioning of calls.  Accuracy of captioning may be limited due to factors such sound quality, accents, dialects, and jargon.
+Zoom propose le sous-titrage automatique des appels.  La précision du sous-titrage peut être limitée en raison de facteurs tels que la qualité sonore, les accents, les dialectes et le jargon.
 
-[Read about how to enable automatic captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
+[Découvrez comment activer le sous-titrage automatique] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
 
-The host can also assign a participant to type closed captions.
+L'hôte peut également demander à un participant de taper des sous-titres codés.
 
-[Read more about how to assign a participant to type closed captions](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
+[En savoir plus sur la façon d'assigner à un participant la saisie de sous-titres codés] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
 
-### Ending a call
+### Mettre fin à un appel
 
-When the room host clicks "End" a dialogue box appears with two  options: "Leave Meeting" and "End Meeting for All". Be careful not to end the meeting if you are leaving the room while the event is still active.
+Lorsque l'hôte de la salle clique sur « Fin », une boîte de dialogue apparaît avec deux options : « Quitter la réunion » et « Mettre fin à la réunion pour tous ». Veillez à ne pas mettre fin à la réunion si vous quittez la salle alors que l'événement est toujours actif.
 
-If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
+Si l'hôte part alors que les participants sont encore dans la chambre, il lui sera demandé de désigner un nouvel hôte avant que ceux-ci ne puissent partir.
 
-### Participant view
+### Vue du participant
 
-Participants can manage their screen view to show a gallery view of all participants or only show the current speaker.  Views can also be set when screensharing.
+Les participants peuvent gérer leur affichage d'écran pour afficher une vue de la galerie de tous les participants ou n'afficher que l'orateur actuel.  Les vues peuvent également être définies lors du partage d'écran.
 
-[Read more about adjusting screen views during a meeting](https://support.zoom.us/hc/en-us/articles/201362323-Adjusting-screen-view-settings-during-a-virtual-meeting).
+[En savoir plus sur le réglage de l'affichage des écrans pendant une réunion] (https://support.zoom.us/hc/en-us/articles/201362323-Adjusting-screen-view-settings-during-a-virtual-meeting).
 
 
