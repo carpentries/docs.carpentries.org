@@ -1,364 +1,364 @@
-# The Carpentries Style Guide
+# Le guide de style des menuiseries
 
-This guide aims to provide a standard reference point when questions arise about style for The Carpentries - how we would prefer people to reference us, how best to render dates and times for a global community, when to use what capitalisation, and other questions of style.
+Ce guide vise à fournir un point de référence standard lorsque des questions se posent concernant le style de The Carpentries : comment nous préférerions que les gens nous référencent, comment rendre au mieux les dates et heures pour une communauté mondiale, quand utiliser quelle majuscule, et d'autres questions de style.
 
-The guide should be followed when preparing materials for circulation within The Carpentries community and on its public platforms (websites, social media, repositories, etc.). Materials about The Carpentries that are submitted to other fora (conferences, journals, grant applications, blogs and websites of other organisations, etc.) need not follow this style guide, until or unless they are also to be published and circulated on any of The Carpentries' public platforms.
+Le guide doit être suivi lors de la préparation du matériel à diffuser au sein de la communauté The Carpentries et sur ses plateformes publiques (sites Web, réseaux sociaux, référentiels, etc.). Documents sur The Carpentries qui sont soumis à d'autres forums (conférences, revues, demandes de subventions, blogs et sites Web d'autres organisations, etc.) n'ont pas besoin de suivre ce guide de style, avant ou à moins qu'ils ne soient également publiés et diffusés sur l'une des plateformes publiques de The Carpentries.
 
-Lesson contributors and Maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
+Les contributeurs et les responsables des leçons doivent aspirer à adhérer à ce style, mais peuvent donner la priorité à la mise à disposition du matériel plutôt qu'à des considérations de style. Pour garantir que le guide de style soit aussi largement applicable que possible, l'orthographe et l'utilisation de l'anglais britannique seront utilisées au profit de l'orthographe américaine.
 
-Please note, as outlined in [section C](#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+Veuillez noter, comme indiqué dans [section C] (#c) : The Carpentries, bien que cela sonne au pluriel, est une entité singulière. Par conséquent, lorsque vous faites référence à The Carpentries, les verbes doivent également être au singulier, _par exemple, _ 'The Carpentries is …'. Le titre complet et correct de l'organisation fusionnée est The Carpentries. Cependant, une terminologie telle que « Un atelier de menuiserie … » est acceptable.
 
 ---
 
-## A
+## UNE
 
-### abbreviations and acronyms
+### abréviations et acronymes
 
-Generally use all capitals for initialisms, _e.g.,_ NSF, CEO, BIDS. When writing about an organisation or event within text, provide the acronym in brackets on first use, and use the acronym to refer to the organisation or event from then on. For example, ‘She was the chair of the National Science Foundation (NSF) ... The NSF … ’
+Utilisez généralement toutes les majuscules pour les sigles, par exemple, _ NSF, CEO, BIDS. Lorsque vous écrivez à propos d'une organisation ou d'un événement dans le texte, indiquez l'acronyme entre parenthèses lors de la première utilisation, et utilisez l'acronyme pour faire référence à l'organisation ou à l'événement à partir de ce moment. Par exemple, « Elle était présidente de la National Science Foundation (NSF)... La NSF … '
 
-If an organisation is mentioned only once within a piece of text, say, in a blog post, it is not necessary to provide its acronym. Do not use acronyms without spelling these out first as country-specific acronym may be unfamiliar to members of our community.
+Si une organisation n'est mentionnée qu'une seule fois dans un texte, par exemple dans un article de blog, il n'est pas nécessaire de fournir son acronyme. N'utilisez pas d'acronymes sans les épeler au préalable, car les acronymes spécifiques à un pays peuvent ne pas être familiers aux membres de notre communauté.
 
 ### accents
 
-Use on non-English words when known. People’s names, in whatever language, should also be given appropriate accents where known, _e.g.,_ ‘Arsène Lupin was a jewel thief who never got to Bogotá or Angoulême.’
+À utiliser sur des mots non anglais lorsqu'ils sont connus. Les noms des personnes, quelle que soit la langue, doivent également porter les accents appropriés lorsqu'ils sont connus, _par exemple, _ « Arsène Lupin était un voleur de bijoux qui n'est jamais arrivé à Bogotá ou à Angoulême ».
 
-### adverbs
+### adverbes
 
-Hyphens are not needed after adverbs ending in _-ly_, _e.g._ a hotly argued topic, a constantly evolving career, a recently published program, etc. Hyphens are needed with short and common adverbs, _e.g.,_ ever-faithful follower, ill-written script, much-quoted speech.
+Les tirets ne sont pas nécessaires après les adverbes se terminant par _-ly_, _e.g._ un sujet très discuté, une carrière en constante évolution, un programme récemment publié, etc. Des traits d'union sont nécessaires avec des adverbes courts et courants, par exemple, _ un suiveur toujours fidèle, une écriture mal écrite, un discours fréquemment cité.
 
-### alphabetisation
+### alphabétisation
 
-The lesson programs within The Carpentries, when listed together, should be listed in alphabetical order: Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry.
+Les programmes de cours de The Carpentries, lorsqu'ils sont répertoriés ensemble, doivent être classés par ordre alphabétique : Data Carpentry, HPC Carpentry, Library Carpentry et Software Carpentry.
 
-### alt-text
+### texte alternatif
 
-Keep alt-text as short as it can be, but provide as much detail as needed for the reader to understand what is in the image. More detailed alt-text may be necessary for [complex images](https://webaim.org/techniques/alttext/#complex), unless the detail in the image is included in the body of the text, then the alt-text of the complex image can be quite short. Provide links to the data if the image is a presentation of a data set, in order to allow the reader to explore the data for themselves.
+Faites en sorte que le texte alternatif soit aussi court que possible, mais fournissez autant de détails que nécessaire pour que le lecteur comprenne le contenu de l'image. Un texte alternatif plus détaillé peut être nécessaire pour [images complexes] (https://webaim.org/techniques/alttext/#complex). À moins que les détails de l'image ne soient inclus dans le corps du texte, le texte alternatif de l'image complexe peut être assez court. Fournissez des liens vers les données si l'image est une présentation d'un ensemble de données, afin de permettre au lecteur d'explorer les données lui-même.
 
-### ampersand
+### esperluète
 
-In text and blog posts, use the ampersand in organisations’ names when the organisation does so, _e.g.,_ P&O, AT&T.
+Dans le texte et les articles de blog, utilisez l'esperluette dans le nom des organisations lorsque celles-ci le font, par exemple, _ P&O, AT&T.
 
 ### apostrophes
 
-Indicates either a missing letter or letters (can’t, we’d, hadn’t) or a possessive (Siobhan’s script). The correct use of the apostrophe is important, as a misplacement or omission can alter a sentence’s meaning. Apostrophes are not needed in dates. Preferred form is 1990s, not 1990’s; the 70s, not the 70’s.
+Indique soit une ou plusieurs lettres manquantes (nous ne pouvons pas, nous ne l'aurions pas fait), soit une lettre possessive (l'écriture de Siobhan). L'utilisation correcte de l'apostrophe est importante, car un mauvais placement ou une omission peut modifier le sens d'une phrase. Les apostrophes ne sont pas nécessaires dans les dates. La forme préférée est celle des années 1990, pas celle des années 1990 ; celle des années 70, pas celle des années 70.
 
 ---
 
 ## B
 
-### bullet points
+### puces
 
-Should ideally include a full stop after each one if it is not just a list of terms, i.e: <br>
+Idéalement, il faudrait inclure un point après chacun d'eux s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
 
-- This is the first bullet point that covers a range of ideas.
-- This is the second that also ranges quite widely.
-- And this is the third and these are just examples.
+- Il s'agit du premier point qui couvre un éventail d'idées.
+- C'est la seconde qui varie également assez largement.
+- Et c'est le troisième et ce ne sont que des exemples.
 
-But <br>
+Mais <br>
 
-- Instructors
-- Instructor Trainers
-- Maintainers
+- Instructeurs
+- Formateurs et formateurs
+- Mainteneurs
 
 ---
 
 ## C
 
-### capital letters and capitalisation
+### lettres majuscules et majuscules
 
 **titles**<br>
-Render these with initial capitals, _e.g.,_ President Abraham Lincoln, Facebook’s CEO, Pope John Paul II, the Secretary-General Ban-Ki Moon.
+Mettez-les en majuscules initiales, _par exemple, _ le président Abraham Lincoln, le PDG de Facebook, le pape Jean-Paul II, le secrétaire général Ban-Ki Moon.
 
-**government departments** initial capitals, _e.g.,_ Department of Industry, Department of Health. Use lower case when not referring to a department by its proper name, _e.g.,_
-‘Senator Carr first led the Department of Industry. The department is now led by … ’
+**ministères gouvernementaux** capitales initiales, _par exemple, _ ministère de l'Industrie, ministère de la Santé. Utilisez des minuscules lorsque vous ne faites pas référence à un ministère par son nom propre, _par exemple, _
+« Le sénateur Carr a d'abord dirigé le ministère de l'Industrie. Le département est désormais dirigé par … '
 
-**government agencies, public bodies, quangos** <br>
-Render these with initial capitals, _e.g.,_ District Attorney’s Office, Human Rights Commission, the University of Florida. Use lower case when not referring to an organisation by its proper name, _e.g.,_ ‘She worked for the National Society of Coders. The society was founded … ’
+**agences gouvernementales, organismes publics, quangos** <br>
+Mettez-les en majuscules, _par exemple, _ Bureau du procureur du district, Commission des droits de l'homme, Université de Floride. Utilisez des minuscules lorsque vous ne faites pas référence à une organisation par son nom propre, _par exemple, _ 'Elle a travaillé pour la National Society of Coders. La société a été fondée … '
 
-**lesson titles and episode names** <br>
-Lesson titles and episodes within lessons should be rendered in Title case, i.e. all major words capitalised, _e.g.,_ Introduction to Data; Project Organisation and Management for Genomics.
+**titres des leçons et noms des épisodes** <br>
+Les titres des leçons et les épisodes des leçons doivent être écrits en majuscules, c'est-à-dire que tous les principaux mots doivent être écrits en majuscules, _par exemple, _ Introduction aux données ; Organisation et gestion du projet pour la génomique.
 
-**names of institutions** <br>
-Render these with initial capitals, _e.g.,_ Gordon and Betty Moore Foundation, Smithsonian Institute, the United Nations, the European Union.
+**noms des institutions** <br>
+Mettez-les en majuscules, par exemple, _ Fondation Gordon et Betty Moore, Smithsonian Institute, Nations Unies, Union européenne.
 
-**roles** <br>
-Roles within The Carpentries are always capitalised. Therefore we use Instructor, Instructor Trainer, Maintainer, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+**rôles** <br>
+Les rôles au sein de The Carpentries sont toujours en majuscule. C'est pourquoi nous utilisons Instructor, Instructor Trainer, Maintainer et Curriculum Advisor. Les rôles d'assistant et d'hôte ne sont pas en majuscule car il ne s'agit pas de rôles officiels.
 
-### Carpentries
+### Menuiseries
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+The Carpentries, bien que cela sonne au pluriel, est une entité singulière. Par conséquent, lorsque vous faites référence à The Carpentries, les verbes doivent également être au singulier, _par exemple, _ 'The Carpentries is …'. Le titre complet et correct de l'organisation fusionnée est The Carpentries. Cependant, une terminologie telle que « Un atelier de menuiserie … » est acceptable.
 
-### colour
+### couleur
 
-Use adequate contrast to ensure the best readability. Colour should not be the only means of conveying information (indicating action, prompting a response, or distinguishing a visual element). Avoid using the colour combinations of red/green, green/brown, green/blue, blue/gray. Use shapes, patterns, textures, and labels to help distinguish differences. [Contrast Checker from WebAIM](https://webaim.org/resources/contrastchecker).
+Utilisez un contraste adéquat pour garantir la meilleure lisibilité. La couleur ne doit pas être le seul moyen de transmettre des informations (indiquer une action, provoquer une réponse ou distinguer un élément visuel). Évitez d'utiliser les combinaisons de couleurs rouge/vert, vert/marron, vert/bleu, bleu/gris. Utilisez des formes, des motifs, des textures et des étiquettes pour mieux distinguer les différences. [Vérificateur de contraste de WebAIM] (https://webaim.org/resources/contrastchecker).
 
-### commas
+### des virgules
 
-Use commas to separate clauses in long sentences. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’
+Utilisez des virgules pour séparer les clauses des phrases longues. « Si les juges réfléchissaient réellement à leurs décisions concernant la non-attribution de prix en 2010, ils n'auraient pas de mal à comprendre pourquoi les gens s'y sont opposés. »
 
-Commas can be used definitively. For example, in this sentence: ‘The developer, Sue Miller, is a keen coder,’ the use of commas indicates that there is only one developer.
+Les virgules peuvent être utilisées définitivement. Par exemple, dans cette phrase : « La développeuse, Sue Miller, est une passionnée de programmation », l'utilisation de virgules indique qu'il n'y a qu'un seul développeur.
 
-Where no such definition is needed, _e.g.,_ ‘PyCon speaker Mary Clough won the award,’ no commas are needed since there are many speakers at PyCon, not just one.
+Lorsqu'aucune définition de ce type n'est nécessaire, _par exemple, _ « Mary Clough, conférencière de PyCon, a remporté le prix », aucune virgule n'est nécessaire car PyCon compte de nombreux conférenciers, et pas un seul.
 
-A comma is also crucial to avoid ambiguity in examples such as this: ‘The report criticises the judges who have been accused of favouritism.’ A comma after ‘judges’ would have made it clear that all judges have been accused of favouritism. Without the comma, the sentence implies that only some judges have been criticised.
+Une virgule est également cruciale pour éviter toute ambiguïté dans des exemples tels que celui-ci : « Le rapport critique les juges accusés de favoritisme ». Une virgule après le mot « juges » aurait clairement indiqué que tous les juges ont été accusés de favoritisme. Sans la virgule, la phrase implique que seuls certains juges ont été critiqués.
 
-_See also [Oxford comma](#oxford-comma)._
+_Voir aussi [virgule Oxford] (#oxford-comma) . _
 
-### company names
+### noms de sociétés
 
-Company names are always singular, _e.g.,_ ‘Mastodon is …’, ‘Amazon Web Services is …’
+Les noms des entreprises sont toujours au singulier, par exemple, _ « Mastodon is … », « Amazon Web Services is … »
 
 ---
 
 ## D
 
-### data frames
+### trames de données
 
-When referring to data frames in text, use two words, sentence case, which is [the convention in the R language](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). If you are writing for Python, then using DataFrame (one word, upper camel case) is appropriate in line with [the convention of the Python language](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+Lorsque vous faites référence à des blocs de données dans du texte, utilisez deux mots, la majuscule, qui est [la convention dans le langage R] (https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si vous écrivez pour Python, l'utilisation de DataFrame (un mot, majuscule) est appropriée conformément à [la convention du langage Python] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
 ### dates
 
-Our style is 21 July, 2011 (day month year).
+Notre style est le 21 juillet 2011 (jour, mois, année).
 
-_Other renderings:_
-‘In the 21st century’ but ‘21st-century science’.
+_Autres rendus :_
+« Au 21e siècle » mais « La science du 21e siècle ».
 
-Use figures for decades, _e.g.,_ the 1990s, the radical 60s, etc. Do not add an apostrophe to decades, i.e. 1990s, not 1990’s; the 70s, not the 70’s.
+Utilisez des chiffres pour des décennies, par exemple, les années 1990, les années 1960 radicales, etc. N'ajoutez pas d'apostrophe aux décennies, c'est-à-dire aux années 1990, pas aux années 1990 ; aux années 1970, pas aux années 1970.
 
-_See also [times](#times)._<br>
-_See also [seasons](#seasons)._
+_Voir aussi [times] (#times) ._<br>
+_Voir aussi [saisons] (#seasons) . _
 
-### diacritical marks
+### signes diacritiques
 
-If possible, use the correct diacritical marks on people’s names in any language, _e.g.,_ Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng Nguyễn (Vietnamese).
+Dans la mesure du possible, utilisez les signes diacritiques corrects sur les noms des personnes dans n'importe quelle langue, par exemple _ Sven-Göran Eriksson (suédois), Béla Bartók (hongrois), Phnh ng Nguyṣn (vietnamien).
 
 ---
 
 ## E
 
-### e.g.
+### p. ex.
 
-include full stops, and always follow with a comma, whether you are using the abbreviated form, _e.g.,_ or the written-out version, for example.
+incluez des points et suivez toujours une virgule, que vous utilisiez la forme abrégée, par exemple, _ ou la version écrite, par exemple.
 
 ### etc.
 
-Include final full stop.
+Incluez le dernier point complet.
 
 ---
 
 ## F
 
-### figures
+### chiffres
 
-Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, e.g., third, fifth, and thereafter use 10th, 31st, etc.
+Épelez toujours par écrit les chiffres de un à neuf. Utilisez des chiffres pour les chiffres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, un million de lecteurs, huit milliards de personnes, mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres de cette première partie, par exemple, 20 millions de lignes. Épelez les ordinaux du premier au neuvième, par exemple troisième, cinquième, puis utilisez le 10e, le 31e, etc.
 
 ### fractions
 
-Render as two-thirds, three-quarters, etc., but two and a half needs no hyphens.<br>
-_See also [figures](#figures)._
+Effectuez le rendu aux deux tiers, aux trois quarts, etc., mais deux et demi ne nécessitent pas de tiret d'union.<br>
+_Voir aussi [figures] (#figures) . _
 
-### full-stops
+### points complets
 
-The first character after a full-stop should be capitalised and have one space before it, rather than two.
+Le premier caractère après un point doit être en majuscule et être précédé d'un espace, au lieu de deux.
 
 ---
 
 ## G
 
-### given name
+### prénom
 
-This term to be used in preference to the terms ‘first name’, ‘forename’, and ‘Christian name’. Use given name the first time someone is mentioned, but not subsequently, _e.g.,_ ‘Mary Brown came late to programming ... Brown later went on to develop several well-known programs.’
+Ce terme doit être utilisé de préférence aux termes « prénom », « prénom » et « nom chrétien ». Utilisez le prénom la première fois que quelqu'un est mentionné, mais pas par la suite, _par exemple, _ « Mary Brown est arrivée en retard dans la programmation... Brown a ensuite développé plusieurs programmes bien connus. »
 
-Avoid using initials rather than a name, unless that is how a person is best known, _e.g.,_ N. K. Jemisin.
+Évitez d'utiliser des initiales plutôt qu'un nom, sauf si c'est ainsi qu'une personne est mieux connue, par exemple _ N.K. Jémisin.
 
 ---
 
 ## H
 
-### honourifics and titles
+### titres honorifiques et titres
 
-Honourifics which denote occupations, _e.g.,_ Doctor, Professor, can initially be used within text or in blog posts. Drop honourifics and first names after the first mention and use surname only from then on, _e.g.,_ ‘Professor Gillian Kramer teaches … Kramer has spent a lot of time...’
+Les titres honorifiques qui désignent des professions, par exemple, _ docteur, professeur, peuvent d'abord être utilisés dans le texte ou dans les articles de blog. Déposez les titres honorifiques et les prénoms après la première mention et utilisez uniquement le nom de famille à partir de ce moment-là, _par exemple, _ « La professeure Gillian Kramer enseigne … Kramer a passé beaucoup de temps... »
 
-Honourifics such as FRCS should not include full stops.
+Les titres honorifiques tels que le FRCS ne devraient pas inclure de points complets.
 
 ---
 
 ## I
 
-### i.e.
+### c'est à dire
 
-include full stops, does not precede a comma in British English
+inclut des points, ne précède pas de virgule en anglais britannique
 
-### inclusivity
+### inclusivité
 
-Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
+Utilisez un langage inclusif.  Cela inclut le choix des mots qui tient compte de la complexité du sujet et respecte la diversité de tous les membres de la communauté. Utilisez des références accessibles dans le monde entier, avec un nom plus courant ou une description plus détaillée.
 
-Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see, hear, read, look, run, reach, listen).
+Choses à éviter : langage dévalorisant ou méprisant (juste, simplement, évidemment, etc.), expressions familières locales, mots sensoriels ou mots d'action (voir, entendre, lire, regarder, courir, atteindre, écouter).
 
 ### images
 
-Include alt text on all images. _Refer also [alt-text](#alt-text)._
+Incluez du texte alternatif sur toutes les images. _Voir aussi [alt-text] (#alt-text) . _
 
-### initials
+### initiales
 
-Separate initials in names from each other with spaces and full stops, _e.g.,_ N. K. Jemisin.
+Séparez les initiales des noms les unes des autres par des espaces et des points, par exemple, _ N.K. Jémisin.
 
 ### -isation
 
-not –ization, _e.g.,_ organisation, characterisation.
+pas —isation, _p.ex., _ organisation, caractérisation.
 
 ### -ise
 
-not -ize at end of word, _e.g._, characterise, sympathise, organise. One exception is capsize.
+ne pas -ize à la fin d'un mot, _e.g._, caractériser, sympathiser, organiser. Une exception est le chavirement.
 
-### italics
+### italique
 
-Words and phrases in languages other than English, and scientific names, _e.g._, _Macropus rufus_, _Bufo marinus_.
+Mots et phrases dans des langues autres que l'anglais, et noms scientifiques, _e.g._, _Macropus rufus_, _Bufo marinus_.
 
 ---
 
 ## L
 
-### link text
+### texte du lien
 
-Avoid "click here", "more", and "read more" when embedding a link in text. Use words that describe link, not the full URL. Link up to a full sentence but avoid using longer. Use non-colour indicators such as a persistent underline to highlight link. When linking an email, use Email first name last name, instead of just the person's name.
+Évitez de « cliquer ici », « en savoir plus » et « en savoir plus » lorsque vous intégrez un lien dans du texte. Utilisez des mots qui décrivent le lien, et non l'URL complète. Créez un lien vers une phrase complète, mais évitez de l'utiliser plus longtemps. Utilisez des indicateurs non colorés, tels qu'un soulignement persistant pour surligner le lien. Lorsque vous associez un e-mail, utilisez le prénom et le nom de famille de l'e-mail, au lieu du nom de la personne.
 
 ---
 
 ## N
 
-### names
+### noms
 
-Do not use the terms Christian name, first name, or forename. Instead use given name or personal name. We will defer to people's chosen spelling, choice of given name, punctuation, capitalisation, and name order (when known or obtainable).<br>
-_See also [non-English names](#non-english-names)._
+N'utilisez pas les termes « nom chrétien », « prénom » ou « prénom ». Utilisez plutôt un prénom ou un nom personnel. Nous nous en remettrons à l'orthographe, au choix du prénom, à la ponctuation, aux majuscules et à l'ordre des noms (lorsqu'ils sont connus ou disponibles).<br>
+_Voir aussi [noms non anglais] (#non-english-names) . _
 
-### non-English names
+### Noms non anglais
 
-The French (or French origin) de, d’, des, la, les or le and the Dutch van are normally lowercase when the name is fully written out, _e.g.,_ Marianne d’Alpuget, Erik van der Walden, but capitalised when written without forenames, _e.g.,_ D’Alpuget, Van der Walden.
+Le français (ou origine française) de, d', des, la, les or le et le néerlandais van sont normalement en minuscules lorsque le nom est écrit en entier, _par exemple, _ Marianne d'Alpuget, Erik van der Walden, mais en majuscule lorsqu'il est écrit sans prénoms, _par exemple, _ D'Alpuget, Van der Walden.
 
-### non-English words and phrases
+### Phrases et mots non anglais
 
-Italicise these and provide accents where applicable, _e.g.,_ _bête noire_. In the case of frequently used non-English terms in accepted English usage, _e.g.,_ avant garde, vis a vis, vice versa, you do not need to italicise.
+Les mettre en italique et ajouter des accents le cas échéant, _par exemple, _ _bête noire_. Dans le cas de termes non anglais fréquemment utilisés dans l'usage anglais accepté, _par exemple, _ avant garde, vis à vis, vice versa, vous n'avez pas besoin de les mettre en italique.
 
-### numbers
+### nombres
 
-Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, _e.g.,_ third, fifth, and thereafter use 10th, 31st, etc.
+Épelez toujours par écrit les chiffres de un à neuf. Utilisez des chiffres pour les chiffres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, un million de lecteurs, huit milliards de personnes, mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres de cette première partie, par exemple, 20 millions de lignes. Épelez les ordinaux du premier au neuvième, par exemple, _ troisième, cinquième, puis utilisez 10, 31, etc.
 
-When starting a sentence with any number, the number should be written out as words, _e.g.,_ ‘Twenty-five people attended the workshop.’ ‘Nineteen-ninety-five was not a leap year.’
+Lorsque vous commencez une phrase par un chiffre, celui-ci doit être écrit sous forme de mots, _par exemple, _ « Vingt-cinq personnes ont participé à l'atelier ». « L'année 1995 n'était pas une année bissextile. »
 
-### numbered lists
+### listes numérotées
 
-Like bullet points,should ideally include a full stop after each one if it is not just a list of terms, i.e: <br>
+Comme les puces, elles devraient idéalement inclure un point après chacune d'elles s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
 
-1. This is the first numbered item that covers a range of ideas.
-2. This is the second that also ranges quite widely.
-3. And this is the third and these are just examples.
+1. Il s'agit du premier article numéroté qui couvre un éventail d'idées.
+2. C'est la seconde qui varie également assez largement.
+3. Et c'est le troisième et ce ne sont que des exemples.
 
-But <br>
+Mais <br>
 
-1. Instructors
-2. Instructor Trainers
-3. Maintainers
+1. Instructeurs
+2. Formateurs et formateurs
+3. Mainteneurs
 
 ---
 
 ## O
 
-### Oxford comma
+### Virgule Oxford
 
-A comma before the final ‘and’ in lists. Straightforward lists (he wrote books, short stories and poetry) do not need the extra comma, but sometimes it can help the reader to know which bits go together, e.g., ‘she wrote in these genres – horror, mystery, cloak and dagger, and fantasy’, and sometimes it is essential for clarity and meaning, e.g.,
+Une virgule avant le dernier « et » dans les listes. Les listes simples (il a écrit des livres, des nouvelles et de la poésie) n'ont pas besoin de virgule supplémentaire, mais parfois cela peut aider le lecteur à savoir quels éléments vont ensemble, par exemple, « elle a écrit dans ces genres : horreur, mystère, cape et poignard et fantaisie », et parfois c'est essentiel pour des raisons de clarté et de sens, par exemple,
 
-I spoke to my sisters, Olga Petrova, and Susanne De Vries (means I spoke to my sisters AND to Olga Petrova and Susanne De Vries)
+J'ai parlé à mes sœurs, Olga Petrova et Susanne De Vries (cela signifie que j'ai parlé à mes sœurs ET à Olga Petrova et Susanne De Vries)
 
-I spoke to my sisters, Olga Petrova and Susanne De Vries (this wrongly implies that Olga Petrova and Susanne De Vries are the sisters in question.)
+J'ai parlé à mes sœurs, Olga Petrova et Susanne De Vries (cela implique à tort qu'Olga Petrova et Susanne De Vries sont les sœurs en question.)
 
-Carpentries style is to prefer the Oxford comma unless necessary.
+Le style de menuiserie consiste à préférer la virgule Oxford sauf si nécessaire.
 
 ---
 
 ## P
 
-### per cent
+### pour cent
 
-Please spell this out in text, _e.g.,_ not as %, and write as two words, not one.
+Veuillez l'épeler dans le texte, _par exemple, _ et non sous forme de %, et écrivez-le en deux mots, pas un seul.
 
-### periods
+### périodes
 
-_See [full stops](#full-stops)._
+_Voir [points complets] (#full-stops) . _
 
 ---
 
 ## Q
 
-### quotation marks
+### guillemets
 
-Use single quotes at the start and end of a quoted section, with double quotes for quoted words within that section. Place full stops and commas inside the quotes for a complete quoted sentence; otherwise the full stop comes outside, _e.g.,_
+Utilisez des guillemets simples au début et à la fin d'une section entre guillemets, et des guillemets doubles pour les mots entre guillemets de cette section. Placez des points et des virgules entre guillemets pour obtenir une phrase complète entre guillemets ; sinon, le point apparaît à l'extérieur, _par exemple, _
 
-‘Anna said: “Your style guide needs updating,” and I said: “I agree.”’
-‘Anna said updating the guide was “a difficult and time-consuming task”.’
+« Anna m'a dit : « Votre guide de style a besoin d'être mis à jour », et j'ai répondu : « Je suis d'accord. »
+« Anna a déclaré que la mise à jour du guide était « une tâche difficile et chronophage ». »
 
-For parentheses inside direct quotes, use square brackets, _e.g.,_ The judges said, ‘We very much liked the work of Goran [Kovacs] from Croatia’.
+Pour les parenthèses entre guillemets directs, utilisez des crochets, par exemple, _ Les juges ont déclaré : « Nous avons beaucoup aimé le travail de Goran [Kovacs] de Croatie ».
 
-### quotations
+### citations
 
-Colons, rather than commas, should be used to introduce quotations from speeches or writings that run longer than a single sentence, _e.g.,_ Brown said: ‘Winning the Nobel Prize was a highlight. It will change my life. I can’t believe my luck.’
+Les deux-points, plutôt que les virgules, devraient être utilisés pour introduire des citations de discours ou d'écrits qui durent plus d'une phrase. Par exemple, _ Brown a déclaré : « Gagner le prix Nobel a été un moment fort. Cela va changer ma vie. Je n'arrive pas à croire à ma chance. »
 
-To introduce phrases or single sentence quotations, a comma is preferable, _e.g.,_ Brown said, ‘Winning the Nobel Prize was a highlight.’
+Pour introduire des phrases ou des citations d'une seule phrase, il est préférable d'utiliser une virgule. Par exemple, _ Brown a déclaré : « Gagner le prix Nobel a été un moment fort ».
 
 ---
 
 ## R
 
-### roles
+### rôles
 
-Roles within The Carpentries are always capitalised. Therefore we use Instructor, Instructor Trainer, Maintainer, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+Les rôles au sein de The Carpentries sont toujours en majuscule. C'est pourquoi nous utilisons Instructor, Instructor Trainer, Maintainer et Curriculum Advisor. Les rôles d'assistant et d'hôte ne sont pas en majuscule car il ne s'agit pas de rôles officiels.
 
 ---
 
 ## S
 
-### scientific names
+### noms scientifiques
 
-Render these in italics, with the first name, which denotes genus, having an initial capital, with the second, which denotes species, written in lower case, _e.g.,_ _Aedes aegypti_ (yellow fever mosquito), _Crocodylus porosus_ (Saltwater crocodile), _Macropus rufus_ (Red kangaroo).
+Les mettre en italique, avec le premier nom, qui indique le genre, avec une majuscule initiale, et le second, qui indique l'espèce, écrit en minuscules, _par exemple, _ _Aedes aegypti_ (moustique de la fièvre jaune), _Crocodylus porosus_ (crocodile d'eau salée), _Macropus rufus_ (kangourou rouge).
 
-### seasons
+### saisons
 
-Avoid using seasons when discussing or announcing events, as seasons vary from hemisphere to hemisphere. What is Fall in the USA is spring in Australia. Use a month range instead, _e.g.,_ January to March, or use halves or quarters, _e.g.,_ ‘This happened in the first quarter of 2018’, ‘This is planned for the second half of the year.’<br>
-_See also [dates](#dates)_.
+Évitez d'utiliser les saisons lorsque vous discutez ou annoncez des événements, car les saisons varient d'un hémisphère à l'autre. L'automne aux États-Unis, c'est le printemps en Australie. Utilisez plutôt une plage de mois, _par exemple, _ janvier à mars, ou utilisez des moitiés ou des trimestres, _par exemple, _ « Cela s'est produit au premier trimestre de 2018 », « Cela est prévu pour le second semestre de l'année ».<br>
+_Voir aussi [dates] (#dates) _.
 
-### singular or plural?
+### singulier ou pluriel ?
 
-Corporate entities take the singular: _e.g.,_ ‘The NSF has announced … ’ In subsequent references, use a singular pronoun: ‘It will cover the Olympics.’ The Carpentries is always singular.
+Les entreprises prennent le singulier : _e.g., _ « La NSF a annoncé … 'Dans les références suivantes, utilisez un pronom singulier : « Cela couvrira les Jeux olympiques ». The Carpentries est toujours unique.
 
-### square brackets
+### crochets
 
-In text, square brackets are used for interpolated words in quotations, _e.g.,_ Olav Jonsson said, ‘Matthew [Brown] went to CapeTown to address a conference.’
+Dans le texte, des crochets sont utilisés pour les mots interpolés entre guillemets, _par exemple, _ Olav Jonsson a déclaré : « Matthew [Brown] est allé au Cap pour prendre la parole lors d'une conférence ».
 
 ---
 
 ## T
 
-### times
+### temps
 
-Times should be rendered in UTC in a 24-hour format, _e.g.,_ 12:00 UTC, 17:30 UTC, 09:00 UTC. Do not use local zones, _e.g.,_ PDT, AEST. If you want to make times meaningful for people in a range of time zones, use the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) (using your UTC time and date as the basis to create the event) to create a linkable time that will render locally for each person who uses it, _e.g.,_ 20 August, 2018 22:00 UTC: [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
+Les heures doivent être affichées en UTC dans un format 24 heures, par exemple, _ 12 h 00 UTC, 17 h 30 UTC, 9 h 00 UTC. N'utilisez pas de zones locales, par exemple _ PDT, AEST. Si vous souhaitez donner un sens aux horaires pour les personnes situées dans différents fuseaux horaires, utilisez le [Annonceur horaire de l'événement] (https://www.timeanddate.com/worldclock/fixedform.html) (en utilisant votre heure et votre date UTC comme base pour créer l'événement) pour créer une heure pouvant être associée qui sera affichée localement pour chaque personne qui l'utilise, _par exemple, _ 20 août 2018 22:00 UTC : [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1 =%3A&ah=1] (https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
 
 ---
 
 ## V
 
-### versus and vs
+### contre et contre
 
-Use versus in most written cases, but if abbreviation is necessary, use "vs" rather than "vs."
+Utilisez versus dans la plupart des cas écrits, mais si une abréviation est nécessaire, utilisez « vs » plutôt que « vs »
 
-### Videos
+### Vidéos
 
-All videos should be captioned.
+Toutes les vidéos doivent être sous-titrées.
 
 ---
 
 ## W
 
-### Workbench
+### Établi
 
-The full and correct title of the lesson infrastructure is The Carpentries Workbench, which can be shortened to the Workbench thereafter.
-Consistent with the standard naming of R packages, the individual components of the Workbench should be referred to in all lowercase, e.g. sandpaper, pegboard, and varnish.
+Le titre complet et correct de l'infrastructure de la leçon est The Carpentries Workbench, qui peut ensuite être abrégé en Workbench.
+Conformément à la dénomination standard des packages R, les composants individuels du Workbench doivent être référencés en minuscules, par exemple papier abrasif, panneau perforé et vernis.
