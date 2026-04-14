@@ -1,18 +1,18 @@
-# Workshop Resources
+# Ressources pour les ateliers
 
-[Workshop Checklists](checklists.md): Best practices for planning a Carpentries workshop for your role as a host, Instructor, or helper.
+[Listes de contrôle des ateliers] (checklists.md) : Meilleures pratiques pour planifier un atelier de menuiserie pour votre rôle d'hôte, d'instructeur ou d'assistant.
 
-[Resources for Online Workshops](resources_for_online_workshops.md): A collection of tips and best practices for teaching workshops online.
+[Ressources pour les ateliers en ligne] (resources_for_online_workshops.md) : Une collection de conseils et de bonnes pratiques pour l'enseignement d'ateliers en ligne.
 
-[Creating a Workshop Website Demonstration](https://drive.google.com/file/d/1kGmy9oUs7jR_k3qPzAgmrSRmD6M_j04L/view?usp=sharing): Step by step video on how to create a Carpentries workshop website.
+[Création d'une démonstration de site Web d'atelier] (https://drive.google.com/file/d/1kGmy9oUs7jR_k3qPzAgmrSRmD6M_j04L/view?usp=sharing) : vidéo étape par étape sur la création d'un site Web d'atelier de menuiserie.
 
-[Email Templates](email_templates.md): Pre-written text to advertise your workshop, recruit helpers, email learners, and more!
+[Modèles d'e-mails] (email_templates.md) : texte pré-écrit pour annoncer votre atelier, recruter des assistants, envoyer des e-mails aux apprenants, et plus encore !
 
-[Learner Certificates](https://github.com/carpentries/learner-certificates): Build certificates to distribute to learners as acknowledgement of their participation in your workshop.
+[Certificats d'apprentissage] (https://github.com/carpentries/learner-certificates) : créez des certificats à distribuer aux apprenants en guise de reconnaissance de leur participation à votre atelier.
 
-[AMY Community Users Guide](https://carpentries.github.io/amy/users_guide/community_index/): Information for accessing your AMY profile.
+[Guide des utilisateurs de la communauté AMY] (https://carpentries.github.io/amy/users_guide/community_index/) : Informations pour accéder à votre profil AMY.
 
-[Genomics Workshops Terms of Agreement](genomics_policy.md): Policy about setting up AWS instances for Data Carpentry Genomics workshops.
+[Termes du contrat relatif aux ateliers de génomique] (genomics_policy.md) : Politique concernant la configuration d'instances AWS pour les ateliers Data Carpentry Genomics.
 
-For more resources, please visit the Additional Resources section of the [Instructor Tip Sheet](/resources/general/tip-sheets.md).
+Pour plus de ressources, veuillez consulter la section Ressources supplémentaires de la [Fiche de conseils pour les instructeurs] (/resources/general/tip-sheets.md).
 
