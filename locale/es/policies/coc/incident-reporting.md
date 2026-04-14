@@ -1,41 +1,41 @@
-# Code of Conduct Incident Reporting Guidelines
+# Pautas de notificación de incidentes del Código de Conducta
 
-## Reporting a Potential Code of Conduct Incident
+## Denunciar un posible incidente relacionado con el código de conducta
 
-If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member  to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures.
+Si asiste a un taller de carpintería, a un evento presencial o participa en uno de nuestros eventos o canales de comunicación en línea y cree que alguien está en peligro físico, pídale al anfitrión del taller, a los instructores u otro miembro de la comunidad que se ponga en contacto con el personal de emergencia correspondiente (policía, línea directa de crisis, etc.). Antes de un taller de carpintería o un evento presencial, los organizadores del evento deben determinar los números de contacto de emergencia y los procedimientos locales.
 
-If you believe someone violated the {{'[Code of Conduct]({})'.format(code\_of\_conduct)}} during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information.
+Si crees que alguien ha infringido el {{'\[Código de conducta] ({}) '.format (code\_of\_conduct)}} durante un evento de Carpentries o en un espacio en línea de Carpentries, te pedimos que lo denuncies. Si no estás seguro de si el incidente ocurrió en un espacio gobernado por Carpentries, te pedimos que sigas denunciando el incidente. Le recomendamos que envíe su informe completando el \[Formulario de notificación de incidentes del Código de Conducta] \[formulario de notificación]. El formulario puede completarse de forma anónima o puede incluir su información de contacto.
 
-**[Submit a Code of Conduct Incident Report][reporting-form]**
+\_\_ \[Presentar un informe de incidente relacionado con el código de conducta] \[formulario de informe] \_\_
 
-The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.md).  A report guarantees review, but not necessarily that an action will be taken.
+El Comité del Código de Conducta se toma muy en serio todos los informes de incidentes y los revisará de acuerdo con nuestras [Pautas de cumplimiento] (enforcement-guidelines.md).  Un informe garantiza la revisión, pero no necesariamente que se tome una medida.
 
-## Alternative Contact Points
+## Puntos de contacto alternativos
 
-If you would prefer other ways to contact us, an email to [coc@carpentries.org](mailto:coc@carpentries.org) will be seen by all of the [Code of Conduct committee](https://carpentries.org/coc-ctte). If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org).
+Si prefieres ponerte en contacto con nosotros de otras formas, todo el [comité del Código de conducta] (https://carpentries.org/coc-ctte) recibirá un correo electrónico a [coc@carpentries.org] (mailto:coc@carpentries.org). Si no se siente cómodo al informar al comité del Código de Conducta, también puede denunciar los incidentes a Cam Macdonell, el defensor del pueblo designado por The Carpentries, a [confidential@carpentries.org] (mailto:confidential@carpentries.org).
 
-The Carpentries Executive Director (Kari L. Jordan) can also be contacted by telephone at +1-407-476-6131 or email at [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org).
+También se puede contactar con la directora ejecutiva de Carpentries (Kari L. Jordan) por teléfono al +1-407-476-6131 o por correo electrónico a [kariljordan@carpentries.org] (mailto:kariljordan@carpentries.org).
 
-## Confidentiality
+## Confidencialidad
 
-You are welcome to report an incident anonymously. If you would like someone to follow-up with you about the progress of your incident report however, you would need to provide contact information.
+Le invitamos a denunciar un incidente de forma anónima. Sin embargo, si quieres que alguien haga un seguimiento contigo sobre el progreso de tu informe de incidente, tendrás que proporcionar la información de contacto.
 
-**All reports will be kept confidential** with details shared only with the Code of Conduct committee members. In the case that a CoC committee member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the CoC committee.
+**Todos los informes se mantendrán confidenciales** y los detalles solo se compartirán con los miembros del comité del Código de Conducta. En el caso de que un miembro del comité del CoC participe en una denuncia, se le pedirá que se abstenga de participar en las conversaciones en curso y no tendrá acceso a las denuncias una vez que se haya tomado la decisión de ejecución. La acción de resolución también puede incluir la destitución de ese miembro del comité del CoC.
 
-In rare cases, the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Core Team will be informed in order to prevent future harm to the community, and The Carpentries Core Team {{'[Immediate Response Checklist]({}/incident-response.html#checklists-for-responding-to-an-incident)'.format(code_of_conduct)}} will be employed.
+En raras ocasiones, el comité del CoC puede suspender a un miembro de la comunidad. En tales casos, se informará al Consejo Ejecutivo y al equipo principal de Carpentries para evitar daños futuros a la comunidad, y se empleará el equipo central de The Carpentries {{'[Lista de verificación de respuesta inmediata] ({}/incident-response.html#checklists-for-responding-to-an-incident) '.format (code_of_conduct)}}.
 
-Some incidents happen in one-on-one interactions, and though details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases, we can compile several anonymised reports into a pattern of behaviour, and take action on that pattern.
+Algunos incidentes ocurren en interacciones individuales y, aunque los detalles son anónimos, la persona denunciada puede adivinar quién hizo la denuncia. Si tiene dudas sobre las represalias o su seguridad personal, indíquelas en su informe. Aún así, le recomendamos que denuncie el incidente para que podamos apoyarlo y mantener a los miembros de nuestra comunidad a salvo. En algunos casos, podemos recopilar varios informes anónimos en un patrón de comportamiento y tomar medidas en función de ese patrón.
 
-The Code of Conduct committee may determine that a public statement should be made about the incident and/or the action taken. If that is the case, the identities of all reporters and reportees will remain confidential unless those individuals instruct the CoC committee otherwise.
+El comité del Código de Conducta puede determinar que se debe hacer una declaración pública sobre el incidente y/o la acción tomada. Si ese es el caso, las identidades de todos los reporteros y reporteros permanecerán confidenciales a menos que esas personas den instrucciones al comité del CoC de otra manera.
 
-## Report Data
+## Datos del informe
 
-Reports can be filed anonymously with minimal details. If you do not feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide, however.
+Los informes se pueden presentar de forma anónima con detalles mínimos. Si cree que no puede proporcionar detalles, nos gustaría saber que se ha producido un incidente. Sin embargo, nuestra capacidad de actuar se ve afectada por la cantidad de información que puede proporcionar.
 
-Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in The Carpentries community. In those cases, the [Termed Suspension Checklist](termed-suspension.md) will be employed.
+La información sobre un incidente puede comunicarse al personal pertinente de Carpentries en los casos en que un miembro de la comunidad sea suspendido de participar en la comunidad de The Carpentries. En esos casos, se empleará la [denominada lista de verificación de suspensión] (termed-suspension.md).
 
-## Following Up with Reporter(s)
+## Seguimiento con el (los) reportero (es)
 
-Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.md).
+Una vez que se presente una denuncia a través del \[Formulario de denuncia de incidentes del Código de Conducta] \[formulario de denuncia] u otros canales de comunicación, el comité del Código de Conducta se encargará de la revisión y el seguimiento de acuerdo con los procedimientos de las \[Pautas de cumplimiento] (enforcement-guidelines.md).
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
