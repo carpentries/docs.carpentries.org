@@ -1,67 +1,67 @@
-# License
+# Licence
 
-## Website content
+## Contenu du site Web
 
-Unless specified otherwise, the text content of this website is
-licensed Creative Commons Attribution 4.0 International
-License. This is a human-readable
-summary of (and not a substitute for) the
-license.
+Sauf indication contraire, le contenu textuel de ce site Web est sous licence
+[Licence Creative Commons Attribution 4.0 International
+] (https://creativecommons.org/licenses/by/4.0/). Il s'agit d'un résumé
+lisible par l'homme de (et ne remplace pas) [la licence
+] (https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Images on this website are under copyright of the original creator unless
-otherwise specified.
+Les images de ce site Web sont protégées par les droits d'auteur du créateur original, sauf indication contraire de
+.
 
-### You are free to:
+### Vous êtes libre de :
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+- **Partage** — copiez et redistribuez le matériel sur n'importe quel support ou format
+- **Adaptez** : remixez, transformez et exploitez le matériel pour n'importe quel usage, même commercial.
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+Le concédant ne peut pas révoquer ces libertés tant que vous respectez les termes de la licence.
 
-### Under the following terms:
+### Selon les termes suivants :
 
-- **Attribution** — You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made. You may do so in any reasonable
-  manner, but not in any way that suggests the licensor endorses you or your
-  use.
-- **No additional restrictions** — You may not apply legal terms or
-  technological measures that legally restrict others from doing anything the
-  license permits.
+- **Attribution** — Vous devez donner le crédit approprié, fournir un lien vers la licence
+  et indiquer si des modifications ont été apportées. Vous pouvez le faire de toute manière raisonnable avec
+  , mais pas d'une manière qui suggère que le concédant vous approuve ou approuve votre utilisation de
+  .
+- **Aucune restriction supplémentaire** — Vous ne pouvez pas appliquer de termes juridiques ou de mesures technologiques
+  qui empêchent légalement les autres de faire tout ce que permet la licence
+  .
 
-### Notices:
+### Avis :
 
-You do not have to comply with the license for elements of the material in the
-public domain or where your use is permitted by an applicable exception or limitation.
+Vous n'êtes pas tenu de respecter la licence pour les éléments du matériel qui sont dans le domaine public
+ou dont l'utilisation est autorisée par une exception ou une limitation applicable.
 
-No warranties are given. The license may not give you all of the permissions necessary
-for your intended use. For example, other rights such as publicity, privacy, or moral
-rights may limit how you use the material.
+Aucune garantie n'est donnée. Il se peut que la licence ne vous donne pas toutes les autorisations nécessaires
+pour l'utilisation que vous comptez en faire. Par exemple, d'autres droits tels que le droit à la publicité, à la vie privée ou le droit moral
+peuvent limiter la manière dont vous utilisez le contenu.
 
-## Copyright
+## Droits d'auteur
 
 Copyright (c) 2018-2024 The Carpentries
 
-### The MIT License (MIT)
+### La licence MIT (MIT)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+L'autorisation est accordée, gratuitement, à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés (le « Logiciel »), de vendre
+dans le Logiciel sans restriction, y compris, sans limitation, les droits
+d'utiliser, de copier, de modifier, de fusionner, de publier, de distribuer, de sous-licencier et/ou de vendre
+copies du Logiciel, et d'autoriser les personnes à qui le Logiciel est
+meublés à cette fin, sous réserve des conditions suivantes :
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+L'avis de copyright ci-dessus et cet avis d'autorisation doivent être inclus dans toutes les copies
+ou des parties importantes du logiciel.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE
+, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE,
+D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS DE
+OU LES DÉTENTEURS DES DROITS D'AUTEUR NE SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ DE
+, QUE CE SOIT DANS LE CADRE D'UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE
+SUR OU EN RELATION AVEC LE LOGICIEL OU DE L'UTILISATION OU D'AUTRES TRANSACTIONS RELATIVES AU LOGICIEL
+.
 
-## Trademarks
+## Marques de commerce
 
-"Software Carpentry", "Data Carpentry", and "The Carpentries" and their
-respective logos are registered trademarks of The Carpentries Inc. 501(c)3.
+« Software Carpentry », « Data Carpentry » et « The Carpentries » ainsi que leurs logos respectifs
+sont des marques déposées de The Carpentries Inc. 501 (c) 3.
