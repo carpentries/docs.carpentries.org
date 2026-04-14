@@ -1,83 +1,83 @@
-# How to Contribute to Carpentries Lessons
+# Comment contribuer aux cours de menuiserie
 
-All Carpentries lessons are hosted on GitHub.
+Toutes les leçons de menuiserie sont hébergées sur GitHub.
 
-This gives you access to a 'back room' where the code for the curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held.
+Cela vous donne accès à une « backroom » où le code du site Web du programme est disponible gratuitement, des suggestions de modifications peuvent être proposées et des conversations sur les modifications potentielles peuvent avoir lieu.
 
-To get there, click on the link that says "Edit this page" near the page title, or "Edit on GitHub" in the footer at the bottom of the page.
+Pour y accéder, cliquez sur le lien « Modifier cette page » à côté du titre de la page, ou sur « Modifier sur GitHub » dans le pied de page en bas de la page.
 
-![Edit this page on Github](img/edit-this-page.png "the location of the Edit this page link on a lesson website")
+! [Modifier cette page sur Github] (img/edit-this-page.png « l'emplacement du lien Modifier cette page sur le site Web d'une leçon »)
 
-Alternatively, you can find links to the GitHub repositories for each lesson in the tables on the “Lessons” page for each of The Carpentries Lesson Programs:  [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), and [Software Carpentry](https://software-carpentry.org/lessons/).
+Vous pouvez également trouver des liens vers les référentiels GitHub pour chaque leçon dans les tableaux de la page « Leçons » de chacun des programmes de leçons The Carpentries : [Data Carpentry] (https://datacarpentry.org/lessons/), [Library Carpentry] (https://librarycarpentry.org/lessons/) et [Software Carpentry] (https://software-carpentry.org/lessons/).
 
-![Software Carpentry Lessons Table](img/swc-lesson-table.png "table of the Software Carpentry lessons in English, with links to lessons repositories highlighted")
+! [Tableau des leçons de menuiserie logicielle] (img/swc-lesson-table.png « tableau des leçons de menuiserie logicielle en anglais, avec des liens vers les référentiels de leçons mis en évidence »)
 
-Links in the _Repository_ column of these tables will take you to the source repository for the relevant lesson. There are two tabs on this page that offer opportunities for interaction with the community that maintains the lesson.
+Les liens figurant dans la colonne _Repository_ de ces tableaux vous redirigeront vers le référentiel source de la leçon concernée. Cette page comporte deux onglets qui offrent des possibilités d'interaction avec la communauté qui gère la leçon.
 
-![Instructor Training GitHub repo](img/lesson-repository-homepage.png "Screen shot of Instructor Training GitHub repository with Issues and Pull Requests tabs highlighted")
+! [Dépôt GitHub de formation des instructeurs] (img/lesson-repository-homepage.png « Capture d'écran du référentiel GitHub de formation des instructeurs avec les onglets Issues et Pull Requests surlignés »)
 
-The first is the "Issues" tab. When someone has an idea or suggestion, they can start a conversation about their idea by creating an Issue. Others can then comment on the Issue to provide feedback. Issues can be searched, using the search bar at the top.
+Le premier est l'onglet « Problèmes ». Lorsqu'une personne a une idée ou une suggestion, elle peut entamer une conversation à propos de son idée en créant un numéro. D'autres personnes peuvent ensuite commenter le problème pour fournir des commentaires. Les problèmes peuvent être recherchés à l'aide de la barre de recherche en haut.
 
-![GitHub Repo issues tab](img/issue-page.png "the Issues tab of a GitHub repository, with search bar and New Issue button highlighted")"
+! [Onglet Problèmes liés au dépôt GitHub] (img/issue-page.png « l'onglet Problèmes d'un référentiel GitHub, avec la barre de recherche et le bouton Nouveau problème surlignés ») »
 
-If you have an idea, it is a good idea to search first to see if anyone else has already suggested it! If so, you can add your thoughts as a comment on the existing issue instead of starting a new one. (Either way, you can submit a link to the conversation with your contribution for [the _Get Involved_ step of Instructor Training checkout](https://carpentries.github.io/instructor-training/checkout.html#getinvolved).) Note that you must be signed in to GitHub to be able to see the comment box at the bottom of each issue.
+Si vous avez une idée, c'est une bonne idée de faire d'abord une recherche pour voir si quelqu'un d'autre l'a déjà suggérée ! Si tel est le cas, vous pouvez ajouter vos réflexions sous forme de commentaire sur le problème existant au lieu d'en créer un nouveau. (Dans tous les cas, vous pouvez soumettre un lien vers la conversation avec votre contribution pour [l'étape _Get Involved_ du paiement de la formation des instructeurs] (https://carpentries.github.io/instructor-training/checkout.html#getinvolved).) Notez que vous devez être connecté à GitHub pour pouvoir voir la zone de commentaire en bas de chaque numéro.
 
-![GitHub issue thread](img/issue-thread.png "an Issue thread on GitHub, highlighting the box used to add a comment")
+! [Fil de discussion GitHub] (img/issue-thread.png « un fil de discussion sur GitHub, surlignant la case utilisée pour ajouter un commentaire »)
 
-If you find something that you know how to fix by changing the code of the lesson, you may instead wish to submit a Pull Request (PR). You can also review and comment on existing PRs. To learn how to submit a PR, consult this [community-contributed guide][github-guide].
+Si vous trouvez un problème que vous savez comment corriger en modifiant le code de la leçon, vous pouvez plutôt soumettre une Pull Request (PR). Vous pouvez également consulter et commenter les PR existants. Pour savoir comment soumettre un PR, consultez ce \[guide fourni par la communauté] \[guide github-guide].
 
-Each lesson repository has a document, named `CONTRIBUTING.md`, that gives information on how to contribute to that lesson. ([Example: the guidelines for the Instructor Training curriculum repository][contributing].) Maintainers for each repository may choose to customize their own guidelines.
+Chaque référentiel de leçons possède un document, nommé « Contributing.md », qui donne des informations sur la manière de contribuer à cette leçon. (\[Exemple : les directives pour le référentiel des programmes de formation des instructeurs] \[contribuant].) Les responsables de chaque dépôt peuvent choisir de personnaliser leurs propres directives.
 
-The Carpentries Slack workspace hosts a channel for people contributing for the first time, called `#first-time-contributors`. This is a great place to introduce yourself, ask questions, and share your accomplishments as you learn to contribute to our open source projects.
+L'espace de travail Slack de Carpentries héberge une chaîne destinée aux personnes qui contribuent pour la première fois, appelée « #first -time-contributors ». C'est l'endroit idéal pour vous présenter, poser des questions et partager vos réalisations tout en apprenant à contribuer à nos projets open source.
 
-## Alternatives to GitHub
+## Alternatives à GitHub
 
-Learning to interact on GitHub can have many benefits, including the ability to contribute to other open-source projects! However, we understand that there are many reasons why trainees may wish to avoid engaging on GitHub. That's ok!
+Apprendre à interagir sur GitHub peut présenter de nombreux avantages, notamment la possibilité de contribuer à d'autres projets open source ! Cependant, nous comprenons qu'il existe de nombreuses raisons pour lesquelles les stagiaires peuvent souhaiter éviter de s'engager sur GitHub. C'est bon !
 
-If you do not use GitHub, you may submit your contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform). A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses.
+Si vous n'utilisez pas GitHub, vous pouvez soumettre votre contribution via [ce formulaire] (https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform). Un membre de l'équipe principale de Carpentries créera un problème en fonction du référentiel concerné et vous enverra un lien afin que vous puissiez consulter les réponses.
 
-## Help Wanted: Breaking Down Barriers
+## Aide recherchée : éliminer les obstacles
 
-At The Carpentries, we know that tools and technical procedures can present a serious barrier to progress.  That is why we exist! So we appreciate the irony when participation in our community demands tools or technical procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle; this is something our community has [discussed extensively][git-blog].
+Chez The Carpentries, nous savons que les outils et les procédures techniques peuvent constituer un sérieux obstacle au progrès.  C'est pour cela que nous existons ! Nous comprenons donc l'ironie lorsque la participation à notre communauté nécessite des outils ou des procédures techniques qui peuvent ne pas être familiers ou accessibles à tous ceux qui souhaitent contribuer. GitHub, en particulier, est souvent considéré comme un obstacle ; c'est un sujet dont notre communauté a \[discuté longuement] [git-blog].
 
-We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our community in surmounting the barriers presented by our own technologies of choice. Watch our channels for opportunities to develop your skills as a contributor! In the meantime, if you have any ideas about how we can make our resources more contributor-friendly, please [let us know][contact-page].
+Nous nous efforçons activement de rendre nos processus aussi conviviaux et inclusifs que possible, notamment en aidant notre communauté à surmonter les obstacles posés par les technologies que nous avons choisies. Surveillez nos chaînes pour découvrir les opportunités de développer vos compétences en tant que contributeur ! En attendant, si vous avez des idées sur la manière dont nous pouvons rendre nos ressources plus conviviales pour les contributeurs, veuillez \[nous en informer] \[page de contact].
 
-### Adding or Subtracting
+### Ajouter ou soustraire
 
-When considering a lesson contribution, keep in mind that most of our core lessons are already full to bursting with great content! In many cases, suggestions for how to cut or streamline may be more useful than a proposal for additional content or exercises. If you would like to propose new content, consider directing your contribution to [Glosario](https://github.com/carpentries/glosario/) or a lesson under active development in [The Carpentries Incubator](https://carpentries.org/community-lessons/).
+Lorsque vous envisagez de contribuer à une leçon, gardez à l'esprit que la plupart de nos leçons principales sont déjà complètes ou regorgent de contenu ! Dans de nombreux cas, des suggestions sur la manière de réduire ou de rationaliser peuvent être plus utiles qu'une proposition de contenu ou d'exercices supplémentaires. Si vous souhaitez proposer du nouveau contenu, pensez à adresser votre contribution à [Glosario] (https://github.com/carpentries/glosario/) ou à une leçon en cours de développement dans [The Carpentries Incubator] (https://carpentries.org/community-lessons/).
 
-### What Comes Next?
+### Qu'est-ce qui va suivre ?
 
-After you submit your contribution, the Maintainers or others may have follow-up questions or requests, so please be alert for notifications from GitHub. By default, GitHub will notify you about any further activity on conversations you have participated in or instigated. Because lesson Maintainers, like Instructors, are mostly volunteers, it may take them some time to respond! Some repositories have slower response times than others. Do not take it personally if your contribution does not get a prompt response. (Your contribution does not need to be reviewed or accepted in order to satisfy the _Get Involved_ step of Instructor Training checkout.)
+Après avoir soumis votre contribution, les responsables ou d'autres personnes peuvent avoir des questions ou des demandes complémentaires. Soyez donc attentifs aux notifications de GitHub. Par défaut, GitHub vous informera de toute activité ultérieure concernant les conversations auxquelles vous avez participé ou que vous avez initiées. Comme les responsables des leçons, comme les instructeurs, sont pour la plupart des bénévoles, ils peuvent mettre un certain temps à répondre ! Certains référentiels ont des temps de réponse plus lents que d'autres. Ne le prenez pas personnellement si votre contribution ne reçoit pas de réponse rapide. (Votre contribution n'a pas besoin d'être revue ou acceptée pour satisfaire à l'étape _Get Involved_ du processus de paiement de la formation des instructeurs.)
 
-## Making your contribution count towards Instructor certification
+## Faire en sorte que votre contribution soit prise en compte pour la certification d'instructeur
 
-If you would like your contribution to count towards the _Get Involved_ requirement of [Instructor Training checkout][it-checkout], **you must submit it via AMY**. This is true even if you attend an event where attendance is taken.
+Si vous souhaitez que votre contribution soit prise en compte dans le cadre de l'exigence _Get Involved_ de [Instructor Training checkout] [it-checkout], **vous devez la soumettre via AMY**. Cela est vrai même si vous participez à un événement auquel participent des spectateurs.
 
-For this checkout task, please:
+Pour cette tâche de paiement, veuillez :
 
-1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.
-2. Once you have logged in, select "Training progress" at the top of the screen.
-3. Select the checkbox that best describes your step to Get Involved with The Carpentries.
-4. Enter the requested information.
-5. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
+1. connectez-vous à votre \[profil AMY] [handbook-amy]. Si vous ne parvenez pas à vous connecter à AMY, veuillez consulter ci-dessous.
+2. Une fois connecté, sélectionnez « Progression de l'entraînement » en haut de l'écran.
+3. Cochez la case qui décrit le mieux votre étape pour participer à The Carpentries.
+4. Entrez les informations demandées.
+5. Votre contribution devrait être évaluée dans un délai de 7 à 10 jours. Nous vous suggérons de vérifier que votre contribution a été acceptée.
 
-If you have difficulty logging in to AMY, please:
+Si vous rencontrez des difficultés pour vous connecter à AMY, veuillez :
 
-1. Verify that you have completed the [Instructor Training application form][application], and that you have included a GitHub username in your application. Both the form and the GitHub username are necessary for us to create a profile that you can login to use.
-2. Email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). In this email, let us know when you have completed the application, and share your GitHub username if you did not previously include it. You may also share your selection for the _Get Involved_ step so that a member of our Core Team can enter it for you.
+1. Vérifiez que vous avez rempli le \[formulaire de demande de formation d'instructeur] \[candidature] et que vous avez inclus un nom d'utilisateur GitHub dans votre candidature. Le formulaire et le nom d'utilisateur GitHub sont nécessaires pour que nous puissions créer un profil que vous pouvez utiliser en vous connectant.
+2. Envoyez-nous un e-mail à [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org). Dans cet e-mail, indiquez-nous quand vous avez terminé la demande et partagez votre nom d'utilisateur GitHub si vous ne l'avez pas inclus auparavant. Vous pouvez également partager votre sélection pour l'étape _Get Involved_ afin qu'un membre de notre équipe principale puisse la saisir pour vous.
 
-### Eligible Repositories
+### Référentiels éligibles
 
-The only eligibility rule for contributions is that they must be made to a repository that is managed by The Carpentries.
-That includes (but is not limited to):
+La seule règle d'éligibilité pour les contributions est qu'elles doivent être versées dans un référentiel géré par The Carpentries.
+Cela inclut (mais sans s'y limiter) :
 
-- any [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lesson
-- The Carpentries [Instructor Training curriculum][it-curriculum] and [Collaborative Lesson Development Training curriculum][cldt-curriculum]
-- any [community developed lesson][carpentries-incubator] in The Carpentries Incubator
-- our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
+- n'importe quelle leçon [Data Carpentry] (https://datacarpentry.org/lessons/), [Library Carpentry] (https://librarycarpentry.org/lessons/) ou [Software Carpentry] (https://software-carpentry.org/lessons/)
+- The Carpentries \[Programme de formation des instructeurs] \[programme informatique] et \[Programme de formation au développement de leçons collaboratives] \[programme cldt-curriculum]
+- n'importe quelle \[leçon développée par la communauté] \[menuiseries-incubateur] dans The Carpentries Incubator
+- notre glossaire multilingue open source de termes relatifs à la science des données, \[Glosario] [glosario-github]
 
-Repositories that are **not** eligible for contribution credit include forks of Carpentries repositories and other Carpentries-based content that is not located in a Carpentries repository. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces. If you submit a link to an ineligible repository for this step, we may contact you with a request to redirect your contribution.
+Les référentiels **non** éligibles au crédit de contribution incluent les référentiels Forks of Carpentries et tout autre contenu basé sur Carpentries qui ne se trouve pas dans un référentiel Carpentries. En effet, le Code de conduite des charpenteries ne s'applique pas en dehors des espaces de menuiserie. Si vous soumettez un lien vers un référentiel non éligible pour cette étape, nous pouvons vous contacter pour vous demander de rediriger votre contribution.
 
 [application]: https://amy.carpentries.org/forms/request_training/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
