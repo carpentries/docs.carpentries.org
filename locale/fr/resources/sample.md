@@ -1,53 +1,53 @@
-# Admonitions
+# Admonestations
 
-See documentation on [admonitions](https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html).
+Consultez la documentation sur [admonitions] (https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html).
 
-:::{attention} Pay attention!
-Let's give readers something to draw their attention to.
+:::{attention} Fais attention !
+Donnons aux lecteurs de quoi attirer leur attention.
 :::
 
-:::{caution} Caution!
-Let's caution readers about something.
+:::{caution} Attention !
+Mettons les lecteurs en garde contre quelque chose.
 :::
 
-:::{danger} Danger lies ahead.
-Let's inform readers about a danger.
+:::{danger} Le danger nous attend.
+Informez les lecteurs d'un danger.
 :::
 
 :::{error}
-Let's inform readers about an error.
+Informez les lecteurs d'une erreur.
 :::
 
 :::{hint}
-Let's give readers a hint.
+Donnons un indice aux lecteurs.
 :::
 
 :::{important}
-Let's emphasize something important.
+Soulignons quelque chose d'important.
 :::
 
 :::{note}
-Let's make a note.
+Faisons une note.
 :::
 
 :::{seealso}
-Let's direct readers to other resources.
+Dirigeons les lecteurs vers d'autres ressources.
 :::
 
 :::{tip}
-Let's give readers a tip.
+Donnons un conseil aux lecteurs.
 :::
 
 :::{warning}
-Let's give readers a warning.
+Avertissons les lecteurs.
 :::
 
-:::{admonition} This is the title
-:class: tip
-Use the `admonition` directive and specify the type. Let's give readers some more information.
+:::{admonition} C'est le titre
+Conseil :class:
+Utilisez la directive `admonition` et spécifiez le type. Donnons plus d'informations aux lecteurs.
 :::
 
-:::{admonition} This is the title of a warning
+:::{admonition} C'est le titre d'un avertissement
 :class: warning
-Use the `admonition` directive and specify the type. Let's give readers some more information.
+Utilisez la directive `admonition` et spécifiez le type. Donnons plus d'informations aux lecteurs.
 :::
