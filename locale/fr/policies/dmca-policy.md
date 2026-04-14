@@ -1,112 +1,112 @@
-# The Carpentries DMCA Policy
+# La politique DMCA de Carpentries
 
-**Last updated:** 2025-02-01
+**Dernière mise à jour :** 2025-02-01
 
-We respect the copyright and other intellectual property rights of others and
-expect users of our website and application (collectively, the "Services") to do
-the same. In accordance with the United States Digital Millennium Copyright Act
-(the "DMCA") and other applicable law, we have a policy of terminating, in
-appropriate circumstances and at our sole discretion, users of the Service who
-are deemed to be repeat infringers. We also may, in our sole discretion, limit
-access to the Service and terminate the accounts of any users of the Service who
-infringe any intellectual property rights of others, whether or not there is any
-repeat infringement. See our Terms for more information.
+Nous respectons les droits d'auteur et autres droits de propriété intellectuelle d'autrui et
+attend des utilisateurs de notre site Web et de notre application (collectivement, les « Services ») qu'ils fassent de même avec
+. Conformément au Digital Millennium Copyright Act
+des États-Unis (le « DMCA ») et aux autres lois applicables, nous avons pour politique de résilier, dans les circonstances appropriées
+et à notre seule discrétion, les utilisateurs du Service qui
+sont considérés comme des contrevenants récidivistes. Nous pouvons également, à notre seule discrétion, limiter l'accès de
+au Service et fermer les comptes de tout utilisateur du Service qui enfreint les droits de propriété intellectuelle d'autrui avec
+, qu'il y ait ou non une récidive
+. Consultez nos conditions générales pour plus d'informations.
 
-## Notification of Alleged Copyright Infringement
+## Notification d'une violation présumée du droit d'auteur
 
-If you believe that content available on or through our Services infringes one
-or more of your copyrights, please immediately notify our Copyright Agent by
-mail, email or faxed notice (“Notification”) providing the information described
-below, which Notification is pursuant to DMCA 17 U.S.C. § 512(c)(3). A copy of
-your Notification will be sent to the person who posted or stored the material
-addressed in the Notification. Please be advised that pursuant to federal law
-you may be held liable for damages if you make material misrepresentations in a
-Notification. Thus, if you are not sure that content located on or linked to by
-our Website infringes your copyright, you should consider first contacting an
-attorney.
+Si vous pensez que le contenu disponible sur ou via nos Services enfreint un ou plusieurs de vos droits d'auteur
+, veuillez en informer immédiatement notre agent des droits d'auteur par courrier
+, e-mail ou télécopie (« Notification ») en fournissant les informations décrites
+ci-dessous, ladite notification étant conforme à la DMCA 17 U.S.C. Article 512 (c) (3). Une copie de
+de votre notification sera envoyée à la personne qui a publié ou stocké le contenu
+adressé dans la notification. Veuillez noter que conformément à la loi fédérale
+, vous pouvez être tenu responsable de dommages et intérêts si vous faites de fausses déclarations importantes dans une notification
+. Ainsi, si vous n'êtes pas sûr que le contenu situé sur ou auquel il est lié par
+notre site Web enfreint vos droits d'auteur, vous devriez d'abord envisager de contacter un avocat
+.
 
-**All Notifications should include the following:**
+**Toutes les notifications doivent inclure les éléments suivants :**
 
-- A physical or electronic signature of a person authorized to act on behalf of
-  the owner of an exclusive right that is allegedly infringed.
-- Identification of the copyrighted work claimed to have been infringed, or, if
-  multiple copyrighted works at a single online website are covered by a single
-  notification, a representative list of such works at that website.
-- Identification of the material that is claimed to be infringing or to be the
-  subject of infringing activity and that is to be removed or access to which is
-  to be disabled, and information reasonably sufficient to permit us to locate
-  the material (e.g. the URL link of the material).
-- Information reasonably sufficient to permit us to contact the complaining
-  party, such as the name, account name, address, telephone number, and e-mail
-  address at which the complaining party may be contacted.
-- A statement that the complaining party has a good faith belief that use of the
-  material in the manner complained of is not authorized by the copyright owner,
-  its agent, or the law.
-- A statement that the information in the notification is accurate, and under
-  penalty of perjury, that the complaining party is authorized to act on behalf
-  of the owner of an exclusive right that is allegedly infringed.
+- Signature physique ou électronique d'une personne autorisée à agir pour le compte de
+  , le propriétaire d'un droit exclusif prétendument violé.
+- Identification de l'œuvre protégée par le droit d'auteur qui aurait été violée ou, si
+  plusieurs œuvres protégées par le droit d'auteur sur un même site Web en ligne sont couvertes par une seule notification
+  , une liste représentative de ces œuvres sur ce site Web.
+- Identification du contenu prétendument contrefait ou faisant l'objet d'une activité illicite
+  et qui doit être supprimé ou dont l'accès est
+  doit être désactivé, et des informations raisonnablement suffisantes pour nous permettre de localiser
+  le contenu (par exemple, le lien URL du contenu).
+- Informations raisonnablement suffisantes pour nous permettre de contacter la partie plaignante
+  , telles que le nom, le nom du compte, l'adresse, le numéro de téléphone et l'adresse e-mail
+  à laquelle la partie plaignante peut être contactée.
+- Une déclaration indiquant que la partie plaignante pense de bonne foi que l'utilisation du matériel
+  de la manière dénoncée n'est pas autorisée par le titulaire du droit d'auteur,
+  son agent ou la loi.
+- Une déclaration indiquant que les informations contenues dans la notification sont exactes et, sous peine de parjure
+  , que la partie plaignante est autorisée à agir au nom
+  du propriétaire d'un droit exclusif prétendument violé.
 
-Submit your notice to our designated DMCA agent by mail or email as set forth
-below:
+Soumettez votre notification à notre agent DMCA désigné par courrier ou par e-mail comme indiqué
+ci-dessous :
 
-- Email: [privacy@carpentries.org](mailto:privacy@carpentries.org)
-- Mailing address:  
-  The Carpentries\
-  200 B Street, STE F\
-  Davis, CA 95616\
-  USA
+- Courrier électronique : [privacy@carpentries.org] (mailto:privacy@carpentries.org)
+- Adresse postale :  
+  The Carpentries \
+  200 B Street, STE F \
+  Davis, CA 95616 \
+  États-Unis
 
-Please note that you may be liable for damages, including court costs and
-attorney's fees, if you materially misrepresent that content on the Services is
-copyright infringing.
+Veuillez noter que vous pouvez être tenu de payer des dommages et intérêts, y compris les frais de justice et les frais d'avocat de
+, si vous déclarez de manière inexacte que le contenu des Services enfreint les droits d'auteur de
+.
 
-Upon receiving a proper notification of alleged copyright infringement, we will
-remove or disable access to the allegedly infringing material and promptly
-notify the alleged infringer of your claim. We also will advise the alleged
-infringer of the DMCA statutory counter-notification procedure described below
-by which the alleged infringer may respond to your claim and request that we
-restore this material.
+Dès réception d'une notification appropriée concernant une violation présumée du droit d'auteur,
+supprimera ou désactiverons l'accès au contenu prétendument enfreint et
+informera rapidement le contrevenant présumé de votre réclamation. Nous informerons également le contrefacteur présumé du
+de la procédure de contre-notification statutaire du DMCA décrite ci-dessous
+, par laquelle le contrefacteur présumé peut répondre à votre réclamation et demander que nous restituions ce matériel à
+.
 
-Please note that our furnishing your claim to the alleged infringer will include
-the personal information you provide in your notification, which the alleged
-infringer may use to contact you directly. As such, by submitting a notification
-of alleged copyright infringement, you consent to disclosure of your information
-in the aforementioned manner.
+Veuillez noter que la transmission de votre réclamation au contrefacteur présumé inclura
+les informations personnelles que vous fournissez dans votre notification, que le contrefacteur présumé
+pourra utiliser pour vous contacter directement. Ainsi, en soumettant une notification
+de violation présumée du droit d'auteur, vous consentez à la divulgation de vos informations
+de la manière susmentionnée.
 
-## Counter Notification
+## Contre-notification
 
-If you believe your copyrighted material has been removed from the Services as a
-result of a mistake or misidentification, you may submit a written
-counter-notification letter to us. To be an effective counter-notification under
-the DMCA, your letter must include substantially the following:
+Si vous pensez que votre matériel protégé par des droits d'auteur a été retiré des Services en raison d'une erreur ou d'une identification erronée, vous pouvez nous envoyer une lettre de contre-notification
+écrite.
+Pour être une contre-notification efficace en vertu du
+du DMCA, votre lettre doit inclure essentiellement les éléments suivants :
 
-- Identification of the material that has been removed or disabled and the
-  location at which the material appeared before it was removed or disabled.
-- A statement that you consent to the jurisdiction of the Federal District Court
-  in which your address is located, or if your address is outside the United
-  States, for any judicial district in which our Company is located.
-- A statement that you will accept service of process from the party that filed
-  the Notification or the party's agent.
-- Your name, address and telephone number.
-- A statement under penalty of perjury that you have a good faith belief that
-  the material in question was removed or disabled as a result of mistake or
-  misidentification of the material to be removed or disabled.
-- Your physical or electronic signature.
-- You may submit your Counter Notification to our Copyright Agent by mail, or
-  email as set forth above.
+- Identification du contenu qui a été supprimé ou désactivé et de l'emplacement
+  auquel le contenu apparaissait avant d'être supprimé ou désactivé.
+- Une déclaration selon laquelle vous consentez à la compétence du tribunal du district fédéral
+  dans lequel se trouve votre adresse, ou si votre adresse se trouve en dehors des États-Unis
+  , de tout district judiciaire dans lequel notre société est située.
+- Une déclaration indiquant que vous accepterez la signification de la procédure de la part de la partie qui a déposé la notification
+  ou de l'agent de la partie.
+- Vos nom, adresse et numéro de téléphone.
+- Une déclaration sous peine de parjure attestant que vous pensez de bonne foi que
+  le contenu en question a été supprimé ou désactivé à la suite d'une erreur ou d'une identification erronée
+  du contenu à supprimer ou désactiver.
+- Votre signature physique ou électronique.
+- Vous pouvez envoyer votre contre-notification à notre agent des droits d'auteur par courrier ou par e-mail
+  comme indiqué ci-dessus.
 
-If you send us a valid, written Counter Notification meeting the requirements
-described above, we will restore your removed or disabled material after 10
-business days but no later than 14 business days from the date we receive your
-Counter Notification, unless our Copyright Agent first receives notice from the
-party filing the original Notification informing us that such party has filed a
-court action to restrain you from engaging in infringing activity related to the
-material in question. Please note that if you materially misrepresent that the
-disabled or removed content was removed by mistake or misidentification, you may
-be liable for damages, including costs and attorney's fees. Filing a false
-Counter Notification constitutes perjury.
+Si vous nous envoyez une contre-notification écrite valide répondant aux exigences
+décrites ci-dessus, nous restaurerons votre contenu supprimé ou désactivé après 10
+jours ouvrables mais au plus tard 14 jours ouvrables à compter de la date de réception de votre contre-notification
+, à moins que notre agent des droits d'auteur ne reçoive d'abord une notification de la part de la partie
+qui a déposé la notification initiale nous informant que cette partie a déposé une Action en justice
+visant à vous empêcher de vous livrer à des activités illicites liées au matériel
+en question. Veuillez noter que si vous faites une fausse déclaration selon laquelle le contenu désactivé ou supprimé
+a été supprimé par erreur ou par erreur d'identification,
+peut être responsable des dommages et intérêts, y compris les frais et les honoraires d'avocat. Le dépôt d'une fausse contre-notification
+constitue un parjure.
 
-## License
+## Licence
 
-Please note our DMCA Policy is released under a Creative Commons
-Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence.
+Veuillez noter que notre politique DMCA est publiée sous une licence Creative Commons
+Attribution-NonCommercial-ShareAlike (CC BY-NC-SA).
