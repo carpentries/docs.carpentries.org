@@ -1,45 +1,45 @@
-# Creating Curriculum Onboarding Materials for Instructors
+# Creación de materiales de incorporación curricular para instructores
 
-## For Curriculum Developers
+## Para desarrolladores de currículos
 
-1. Make a copy of [the Curriculum Onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit).
-   - If preparing an onboarding session for a Data Carpentry, Library Carpentry, or Software Carpentry curriculum, you can use one of the following lesson program-specific templates:
-     - [Data Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1VTBWHL5BHPfZ0Ejiuwk5lUGFUGaLTujTs_OfybrEZrA/edit)
-     - [Library Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1FCFfeH7wnv5sg2OI-ykzDafRdyDPkVhiyPdCSESEMo8/edit)
-     - [Software Carpentry curriculum onboarding template](https://docs.google.com/presentation/u/0/d/1U6F6hzxH2uGouS9wfqny9f6rPrOXM7KLWsyKUDawEPw/edit).
-2. Edit the presentation by following the guidance in the template.
-   - Use any template slides that you want to. You are not required to stick rigidly to the structure and layout provided in the template.
-   - Do not be afraid to add images and other visuals to make the presentation more engaging - just make sure they are [compatible with the CC-BY license](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work) of the presentation and include the appropriate attribution information.
-   - Refer to [the Accessible Presentation Guidelines](https://docs.google.com/document/d/1xc6idZHp86RNfcm6f-D2LltKHCPjXrGuHftCuYWedKg/edit) as you prepare the presentation.
-3. (Optional but recommended) Prepare a script for the presentation.
-   - This could be placed in the presenter notes of the onboarding slides, or a separate text document (e.g. a Google Doc, a CodiMD document).
-   - A script can help you make a smooth presentation, but also doubles up as a transcript that can be added to the video on YouTube and facilitate closed captioning.
-   - To create a new CodiMD document, visit https://codimd.carpentries.org and click the "New note" (if logged in) or "New guest note" button. Use the pencil or split window buttons near the top-left to switch to editing and split-screen mode.
-4. When the presentation is ready, record a video presenting the onboarding.
-   - Use whatever software you are most comfortable with to record the video.
-     - You can use Zoom to record the presentation:
-       - use the screen sharing feature to share the slides as you present.
-       - use the record feature to record the presentation.
-       - consider recording multiple "takes" (runs through the presentation).
-       - to make it easier to identify the breaks between takes when editing the video, hold an object (e.g. a piece of paper) in front of the camera briefly between each repeat.
-   - Although not required, you could present the onboarding in a community discussion-type event and record that meeting (with participants' permission).
-   - A curriculum onboarding presentation should be no more than 45 minutes long.
-5. Share the recording, a link to the slides, and a copy of the script (if you have one) with The Carpentries Curriculum Team (curriculum@carpentries.org), who will edit it and publish in the [Curriculum Onboarding Videos playlist](https://www.youtube.com/playlist?list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) on our YouTube channel.
+1. Haga una copia de [la plantilla de presentación de incorporación al currículo] (https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit).
+   - Si está preparando una sesión de incorporación para un plan de estudios de carpintería de datos, carpintería de bibliotecas o carpintería de software, puede usar una de las siguientes plantillas específicas para cada programa de lección:
+     - [Plantilla de incorporación al plan de estudios de carpintería de datos] (https://docs.google.com/presentation/u/0/d/1VTBWHL5BHPfZ0Ejiuwk5lUGFUGaLTujTs_OfybrEZrA/edit)
+     - [Plantilla de incorporación al plan de estudios de carpintería de bibliotecas] (https://docs.google.com/presentation/u/0/d/1FCFfeH7wnv5sg2OI-ykzDafRdyDPkVhiyPdCSESEMo8/edit)
+     - [Plantilla de incorporación al plan de estudios de carpintería de software] (https://docs.google.com/presentation/u/0/d/1U6F6hzxH2uGouS9wfqny9f6rPrOXM7KLWsyKUDawEPw/edit).
+2. Edita la presentación siguiendo las instrucciones de la plantilla.
+   - Usa cualquier plantilla de diapositivas que desees. No es necesario que se ciña estrictamente a la estructura y el diseño proporcionados en la plantilla.
+   - No dudes en añadir imágenes y otros elementos visuales para que la presentación sea más atractiva; solo asegúrate de que son [compatibles con la licencia CC-BY] (https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work) de la presentación e incluyen la información de atribución adecuada.
+   - Consulta [las Pautas para presentaciones accesibles] (https://docs.google.com/document/d/1xc6idZHp86RNfcm6f-D2LltKHCPjXrGuHftCuYWedKg/edit) mientras preparas la presentación.
+3. (Opcional pero recomendado) Prepare un guion para la presentación.
+   - Esto podría incluirse en las notas del presentador de las diapositivas de incorporación o en un documento de texto independiente (por ejemplo, un documento de Google Doc o un documento de CodiMD).
+   - Un guion puede ayudarte a hacer una presentación fluida, pero también sirve como una transcripción que se puede añadir al vídeo en YouTube y facilitar los subtítulos opcionales.
+   - Para crear un nuevo documento de codiMD, visita https://codimd.carpentries.org y haz clic en el botón «Nueva nota» (si has iniciado sesión) o «Nueva nota de invitado». Usa los botones de lápiz o ventana dividida situados en la esquina superior izquierda para cambiar al modo de edición y de pantalla dividida.
+4. Cuando la presentación esté lista, graba un vídeo de presentación de la incorporación.
+   - Usa el software con el que te sientas más cómodo para grabar el vídeo.
+     - Puede usar Zoom para grabar la presentación:
+       - usa la función de pantalla compartida para compartir las diapositivas mientras presentas.
+       - utilice la función de grabación para grabar la presentación.
+       - considere grabar varias «tomas» (recorre toda la presentación).
+       - Para que sea más fácil identificar los descansos entre las tomas al editar el vídeo, sostenga un objeto (por ejemplo, una hoja de papel) frente a la cámara brevemente entre cada repetición.
+   - Aunque no es obligatorio, puedes presentar la incorporación en un evento tipo debate comunitario y grabar esa reunión (con el permiso de los participantes).
+   - Una presentación de incorporación al plan de estudios no debe durar más de 45 minutos.
+5. Comparte la grabación, un enlace a las diapositivas y una copia del guion (si lo tienes) con el equipo curricular de The Carpentries (curriculum@carpentries.org), quien lo editará y publicará en la [lista de reproducción de vídeos de incorporación curricular] (https://www.youtube.com/playlist?list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX) de nuestro canal de YouTube.
 
-## For Core Team
+## Para el equipo principal
 
-1. Review the video and check the following:
-   - The presentation and recording conforms to The Carpentries [Code of Conduct](/policies/coc/index.md).
-   - The quality of the sound and video is sufficient.
-   - The presentation includes each of the sections laid out in [the onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit):
-     - What You Can Expect From This Onboarding
-     - Curriculum Overview
-     - Overview of Lessons (if curriculum contains multiple lessons)
-     - Common Challenges
-     - Acknowledgements.
-   - The length of the onboarding video is in the range of 15-45 minutes.
-2. Upload video to YouTube as a private video, let YouTube auto-generate the captions.
-3. After captions are ready (usually done in 24 hours), download the transcript file.
-4. Edit the transcript, using the script for reference if it was shared by the video's creator(s), and upload it back to the video.
-5. When you are ready to make the video public, add it to the Curriculum Onboarding playlist. This should automatically change the visibility setting.
-6. Announce the availability of the video to the community on general Slack channel, Instructors TopicBox list, in newsletter, link to it from the Instructor Notes page of the relevant lesson site(s).
+1. Revisa el vídeo y comprueba lo siguiente:
+   - La presentación y la grabación se ajustan al [Código de conducta] de The Carpentries (/policies/coc/index.md).
+   - La calidad del sonido y el vídeo es suficiente.
+   - La presentación incluye cada una de las secciones establecidas en [la plantilla de presentación inicial] (https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit):
+     - Qué puede esperar de esta incorporación
+     - Descripción general del currículo
+     - Descripción general de las lecciones (si el plan de estudios contiene varias lecciones)
+     - Desafíos comunes
+     - Agradecimientos.
+   - La duración del vídeo de incorporación oscila entre 15 y 45 minutos.
+2. Sube el vídeo a YouTube como vídeo privado y deja que YouTube genere automáticamente los subtítulos.
+3. Cuando los subtítulos estén listos (normalmente se hacen en 24 horas), descarga el archivo de transcripción.
+4. Edita la transcripción, usando el guion como referencia si la han compartido los creadores del vídeo, y vuelve a subirla al vídeo.
+5. Cuando esté listo para hacer público el vídeo, agréguelo a la lista de reproducción Curriculum Onboarding. Esto debería cambiar automáticamente la configuración de visibilidad.
+6. Anuncie la disponibilidad del vídeo para la comunidad en el canal general de Slack, en la lista TopicBox de los instructores, en el boletín informativo y en un enlace al vídeo desde la página de notas para el instructor de los sitios de lecciones correspondientes.
