@@ -1,63 +1,63 @@
-# Building on somebody else's existing branch
+# S'appuyer sur la succursale existante de quelqu'un d'autre
 
-Sometimes, you may want or need to build on top of the changes another person has already commited to a branch of a lesson repository, e.g. [if they are no longer able to complete the work and you want to help finish their pull request](/handbooks/maintainers.md#situation-1-a-pull-request-exists-but-is-incomplete).
-This page describes two ways you can get set up to build on top of the changes they have already made.
-The instructions assume some familiarity with version control, Git, and GitHub.
+Parfois, il se peut que vous souhaitiez ou deviez vous appuyer sur les modifications qu'une autre personne a déjà apportées à une branche d'un référentiel de leçons, par exemple [si elle n'est plus en mesure de terminer le travail et que vous souhaitez l'aider à terminer sa pull request] (/handbooks/maintainers.md#situation-1-a-pull-request-exists-but-is-incomplete).
+Cette page décrit deux manières de vous configurer pour tirer parti des modifications déjà apportées.
+Les instructions supposent une certaine familiarité avec le contrôle de version, Git et GitHub.
 
-## 1. Fork their repository and branch
+## 1. Forker leur référentiel et leur branche
 
-### Find the original contributor's fork
+### Trouvez le fork original du contributeur
 
-Starting from the open pull request that you want to continue working on, scroll to the top of the _Conversation_ tab.
-Under the title of the pull request, you will find a summary of the branches that would be combined if the pull request was merged: usually the lesson program organisation and `main` on the left, and the original contributor's username and the branch name they chose on the right (the "feature branch").
+À partir de la pull request ouverte sur laquelle vous souhaitez continuer à travailler, faites défiler l'onglet _Conversation_ vers le haut.
+Sous le titre de la pull request, vous trouverez un résumé des branches qui seraient combinées si la pull request était fusionnée : généralement, l'organisation du programme de cours et « main » sur la gauche, et le nom d'utilisateur du contributeur d'origine et le nom de la branche qu'il a choisi sur la droite (la « branche de fonctionnalité »).
 
-![Branch information for a pull request on GitHub. The name of the official repository default branch, datacarpentry:main, and of the contributor's feature branch, example-user:example-branch, are displayed.](./img/branch-info-pr.png)
+! [Informations sur la succursale pour une pull request sur GitHub. Le nom de la branche par défaut du référentiel officiel, `datacarpentry:main`, et de la branche fonctionnelle du contributeur, `example-user:example-branch`, sont affichés.] (./img/branch-info-pr.png)
 
-Clicking on the name of the contributor's feature branch will direct you to that branch on their fork of the lesson repository.
+En cliquant sur le nom de la branche de fonctionnalités du contributeur, vous serez redirigé vers cette branche sur son fork du référentiel de leçons.
 
-### Make your own fork from theirs
+### Fabriquez votre propre fourchette à partir de la leur
 
-From this page, you can create your own fork of their repository with the "Fork" button near the top-right of the page.
-This will open a short form, where you can set a name and a description for the new fork you will create.
-The important thing to do here is **uncheck the "Copy the main branch only" box** so that you also get a copy of the feature branch they were working on for the pull request.
+À partir de cette page, vous pouvez créer votre propre fork de leur dépôt à l'aide du bouton « Fork » en haut à droite de la page.
+Cela ouvrira un court formulaire, dans lequel vous pourrez définir un nom et une description pour le nouveau fork que vous allez créer.
+La chose importante à faire ici est de \*\*décocher la case « Copier la branche principale uniquement » \*\* afin d'obtenir également une copie de la branche de fonctionnalité sur laquelle ils travaillaient pour la pull request.
 
-![The form presented when forking an existing repository on GitHub, with the "Copy the main branch only" box unchecked.](./img/new-fork-all-branches.png)
+! [Le formulaire présenté lors du fork d'un référentiel existant sur GitHub, avec la case « Copier la branche principale uniquement » décochée.] (./img/new-fork-all-branches.png)
 
-### Edit the lesson on GitHub
+### Modifier la leçon sur GitHub
 
-After your fork has been created, use the dropdown near the top-left of the repository homepage to choose the branch that the original contributor was working on.
-Once this branch is selected, you can start editing the files on GitHub being careful to commit your changes to this same branch.
-Alternatively, you can [open the github.dev IDE in your browser](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), select the branch and continue editing and commiting there.
+Une fois votre fork créé, utilisez la liste déroulante en haut à gauche de la page d'accueil du référentiel pour choisir la branche sur laquelle le contributeur d'origine travaillait.
+Une fois cette branche sélectionnée, vous pouvez commencer à modifier les fichiers sur GitHub en prenant soin de valider vos modifications dans cette même branche.
+Vous pouvez également [ouvrir l'IDE github.dev dans votre navigateur] (https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), sélectionner la branche et continuer à la modifier et à la commiter.
 
-### Edit the lesson locally
+### Modifier la leçon localement
 
-Follow these steps after your fork has been created.
+Suivez ces étapes une fois que votre fork a été créé.
 
-1. Clone it to your local system.
-2. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
-3. Fetch the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`).
-4. Switch to it (`git switch <their-branch-name>`, e.g. `git switch 123-better-captions`).
+1. Clonez-le sur votre système local.
+2. Dans le shell, accédez à votre clone local du projet, par exemple « cd ~/Documents/DataCarpEntry/R-Ecology-Lesson ».
+3. Récupérez la branche sur laquelle le contributeur d'origine travaillait (`git fetch origin <their-branch-name>`, par exemple `git fetch origin 123-better-captions`).
+4. Passez dessus (`git switch <their-branch-name>`, par exemple `git switch 123-better-captions`).
 
-Once you are working on this branch, you can edit the lesson and commit your changes as usual.
-When you are ready, add your own fork of the lesson repository as a remote (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, e.g. `git remote add myfork git@github.com:myusername/image-processing.git`) push the commits you have made and open a pull request to the official repository.
+Une fois que vous avez travaillé sur cette branche, vous pouvez modifier la leçon et valider vos modifications comme d'habitude.
+Lorsque vous êtes prêt, ajoutez votre propre fork du référentiel des leçons en tant que télécommande (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, par exemple `git remote add myfork git@github.com:myusername/image-processing.git`), poussez les commits que vous avez effectués et ouvrez une pull request vers le référentiel officiel.
 
-## 2. Add their fork as a remote repository
+## 2. Ajouter leur fork en tant que référentiel distant
 
-If you already have a local clone of the lesson repository, you can add the original contributor's fork of the lesson as another remote repository for the project and fetch the branch they were working on from there.
+Si vous possédez déjà un clone local du référentiel de leçons, vous pouvez ajouter le fork de la leçon créé par le contributeur d'origine en tant que référentiel distant pour le projet et récupérer la branche sur laquelle il travaillait à partir de là.
 
-1. Follow the steps described in [_Find the original contributor's fork_](#1-fork-their-repository-and-branch) above.
-2. Click the _Code_ button and copy the address of this repository to your clipboard.
-3. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
-4. Add the original contributor's fork as a new remote repository for this clone: `git remote add <remote-name> <address-of-forked-repository-you-just-copied>`,
-   e.g. `git remote add toby git@github.com:tobyhodges/image-processing.git`.
-5. Fetch the branch they were working on from their fork, e.g. `git fetch toby 123-better-captions`.
-6. Switch to this branch, e.g. `git switch 123-better-captions`.
+1. Suivez les étapes décrites dans [_Trouvez le fork du contributeur d'origine_] (#1-fork-their-repository-and-branch) ci-dessus.
+2. Cliquez sur le bouton _Code_ et copiez l'adresse de ce référentiel dans votre presse-papiers.
+3. Dans le shell, accédez à votre clone local du projet, par exemple « cd ~/Documents/DataCarpEntry/R-Ecology-Lesson ».
+4. Ajoutez le fork du contributeur d'origine en tant que nouveau dépôt distant pour ce clone : `git remote add <remote-name> <address-of-forked-repository-you-just-copied>`,
+   par exemple `git remote add toby git@github.com:tobyhodges/image-processing.git`.
+5. Récupérez la branche sur laquelle ils travaillaient depuis leur fork, par exemple `git fetch toby 123-better-captions`.
+6. Passez à cette branche, par exemple `git switch 123-better-captions`.
 
-Once you are working on this branch, you can edit the lesson and commit your changes as usual then push them to your fork and open a pull request when you are ready.
+Une fois que vous avez travaillé sur cette branche, vous pouvez modifier la leçon et valider vos modifications comme d'habitude, puis les envoyer vers votre fork et ouvrir une pull request lorsque vous êtes prêt.
 
-## Opening a pull request with your updates
+## Ouvrir une pull request avec vos mises à jour
 
-When you are ready to open a new pull request that will include your changes, make sure that you do this to the correct repository (usually a repository in one of The Carpentries official organisations e.g. `datacarpentry`): GitHub may first try to help you open a pull request to the original contributor's fork instead of the central Carpentries repository.
+Lorsque vous êtes prêt à ouvrir une nouvelle demande d'extraction qui inclura vos modifications, assurez-vous de le faire dans le référentiel approprié (généralement un référentiel appartenant à l'une des organisations officielles de The Carpentries, par exemple « datacarpentry ») : GitHub peut d'abord essayer de vous aider à ouvrir une pull request vers le fork du contributeur d'origine au lieu du référentiel central de Carpentries.
 
-When opening your pull request, tell the Maintainers that you have built on top of the previous work of the other contributor. Tag that original contributor, and reference their pull request by its number, e.g. `This pull request builds on and replaces #37 by @USERNAME to close issue #34 by [some description of the changes made in your pull request...]`.
-This will help the lesson Maintainers understand that they can close the other pull request, and the relationship between the two sets of changes.
+Lorsque vous ouvrez votre pull request, dites aux responsables que vous avez construit sur la base du travail précédent de l'autre contributeur. Marquez ce contributeur d'origine et faites référence à sa pull request par son numéro, par exemple `Cette pull request s'appuie sur et remplace #37 par @USERNAME pour fermer le problème #34 par [une description des modifications apportées à votre pull request...] `.
+Cela aidera les responsables de la leçon à comprendre qu'ils peuvent fermer l'autre pull request et à comprendre la relation entre les deux ensembles de modifications.
