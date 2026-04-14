@@ -1,8 +1,8 @@
-# Carpentries Resources
+# Ressources sur la menuiserie
 
-- [General Resources](/resources/general/index.md)
-- [Communications Resources](/resources/communications/index.md)
-- [Curriculum Resources](/resources/curriculum/index.md)
-- [Instructor Training Resources](/resources/instructor-training/index.md)
-- [Workshop Resources](/resources/workshops/index.md)
-- [Tip sheets](/resources/general/tip-sheets.md)
+- [Ressources générales] (/resources/general/index.md)
+- [Ressources de communication] (/resources/communications/index.md)
+- [Ressources pédagogiques] (/resources/curriculum/index.md)
+- [Ressources de formation pour les instructeurs] (/resources/instructor-training/index.md)
+- [Ressources pour l'atelier] (/resources/workshops/index.md)
+- [Fiches de conseils] (/resources/general/tip-sheets.md)
