@@ -1,23 +1,23 @@
 # Etherpads
 
-## General Usage
+## Usage général
 
-The Carpentries offers the use of our [Etherpads](https://pad.carpentries.org/) as collaborative note taking tool during workshops, training events, and other Carpentries related events.  A list of our most commonly used pads and other resources can be found on our [pad-of-pads](https://pad.carpentries.org/pad-of-pads). This list is manually created and typically only includes pads of interest to the general community.  It will not include pads specific to single events or groups.
+The Carpentries propose l'utilisation de nos [Etherpads] (https://pad.carpentries.org/) comme outil de prise de notes collaboratif lors d'ateliers, d'événements de formation et d'autres événements liés à Carpentries.  Une liste de nos blocs-notes les plus couramment utilisés et d'autres ressources se trouvent sur notre [bloc-of-pads] (https://pad.carpentries.org/pad-of-pads). Cette liste est créée manuellement et ne comprend généralement que des blocs-notes présentant un intérêt pour la communauté en général.  Il n'inclura pas de blocs-notes spécifiques à des événements individuels ou à des groupes.
 
-A new Etherpad can be created by appending a descriptive name to the url `https://pad.carpentries.org/`, such as `https://pad.carpentries.org/committeename`.
+Un nouvel Etherpad peut être créé en ajoutant un nom descriptif à l'URL https://pad.carpentries.org/, tel que https://pad.carpentries.org/committeename.
 
-Pads are synchronised as you type, so that everyone viewing this page sees the same text. This allows everyone to collaborate seamlessly on documents.
+Les blocs-notes sont synchronisés au fur et à mesure que vous tapez, de sorte que tous ceux qui consultent cette page voient le même texte. Cela permet à tout le monde de collaborer de manière fluide sur des documents.
 
-Use of this service is restricted to members of The Carpentries community; this is not for general purpose use (for that, try [Etherpad.wikimedia.org](https://Etherpad.wikimedia.org/)).
+L'utilisation de ce service est réservée aux membres de la communauté The Carpentries ; il ne s'agit pas d'un usage général (pour cela, essayez [Etherpad.Wikimedia.org] (https://Etherpad.wikimedia.org/)).
 
-Users are expected to follow our [Code of Conduct](/policies/coc/index.md). All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
+Les utilisateurs sont tenus de suivre notre [Code de conduite] (/policies/coc/index.md). Tout le contenu est accessible au public sous la [Creative Commons Attribution License] (https://creativecommons.org/licenses/by/4.0/).
 
-## Troubleshooting
+## Résolution des problèmes
 
-While Etherpads are generally reliable, you may find an Etherpad not loading as expected.  In this case, you can try appending `/export/html` to an Etherpad's url.  For example, if `https://pad.carpentries.org/committeename` is not loading, it may be possible to recover its text by going to `https://pad.carpentries.org/committeename/export/html`. This text content can then be copied and pasted to a new Etherpad. Note this will not preserve the Etherpad's history.  The chat will often still be active in the broken Etherpad, so it is recommended that you link to the new Etherpad in the broken Etherpad's chat.
+Bien que les Etherpad soient généralement fiables, il se peut qu'un Etherpad ne se charge pas comme prévu.  Dans ce cas, vous pouvez essayer d'ajouter `/export/html` à l'URL d'un Etherpad.  Par exemple, si https://pad.carpentries.org/committeename ne charge pas, il peut être possible de récupérer son texte en accédant à https://pad.carpentries.org/committeename/export/html. Ce contenu textuel peut ensuite être copié et collé sur un nouvel Etherpad. Notez que cela ne préservera pas l'historique de l'Etherpad.  Le chat sera souvent toujours actif dans l'Etherpad défectueux, il est donc recommandé de créer un lien vers le nouvel Etherpad dans le chat de l'Etherpad défectueux.
 
-If other Etherpad issues arise, please contact us at {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will help you troubleshoot.
+Si d'autres problèmes avec Etherpad surviennent, veuillez nous contacter à l'adresse {{'[{}] (mailto:{}) '.format (team_email, team_email)}} et un membre de l'équipe vous aidera à les résoudre.
 
-## See Also
+## Voir également
 
-[Codimd](/resources/communications/codimd.md) is another collaborative note taking platform used by the community members.
+[Codimd] (/resources/communications/codimd.md) est une autre plateforme de prise de notes collaborative utilisée par les membres de la communauté.
