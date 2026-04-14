@@ -1,36 +1,36 @@
-# Curriculum Overview Pages
+# Páginas de resumen del plan de estudios
 
-By default, The Carpentries Workbench is designed to build [lesson websites consisting of multiple episode pages](./curriculum-structure.md), reflecting the typical structure of our lessons.
-However, it is sometimes helpful to be able to provide a single-page "lesson" site, typically as an overview or "landing page" for a collection of lessons that belong together ([we call this a _curriculum_](./curriculum-structure.md)).
+De forma predeterminada, The Carpentries Workbench está diseñado para crear [sitios web de lecciones que constan de varias páginas de episodios] (./curriculum-structure.md), que reflejen la estructura típica de nuestras lecciones.
+Sin embargo, a veces es útil poder ofrecer un sitio de «lecciones» de una sola página, normalmente como una descripción general o «página de inicio» para una colección de lecciones que van juntas ([a esto lo llamamos _curriculum_] (./curriculum-structure.md)).
 
-In the Workbench, this is supported with the optional `overview` parameter in the global configuration file (`config.yaml`).
-Adding `overview: true` as a new line to `config.yaml` prevents the infrastructure from raising an error if no files are present in the `episodes` folder. The front page of the overview site is built from the `index.md` and `learners/setup.md` as usual.
+En Workbench, esto se admite con el parámetro opcional `overview` del archivo de configuración global (`config.yaml`).
+Agregar `overview: true` como una nueva línea a `config.yaml` evita que la infraestructura genere un error si no hay ningún archivo en la carpeta `episodes`. La página principal del sitio de información general se crea a partir de `index.md` y `learners/setup.md`, como de costumbre.
 
-## What Should an Overview Page Contain?
+## ¿Qué debe contener una página de resumen?
 
-Lesson Developers can choose to populate these pages however they like.
-Here are some recommendations for what to include:
+Los desarrolladores de lecciones pueden optar por rellenar estas páginas como quieran.
+Estas son algunas recomendaciones sobre qué incluir:
 
-- A short description of the curriculum as a whole, including its target audience and most important learning outcomes.
-- A list of prerequisite knowledge for the curriculum. (This can be formatted as a fenced div with the `prereq` class.)
-- A table describing the lessons included in the curriculum, and the recommended order in which they should be taught.
-  - If multiple possible pathways exist through your curriculum, these should be described as individual tables or in some introductory text before the table of all lessons is displayed. If many pathways exist through your lessons, describe these on a separate page built from a source file in the `learners/` folder and link to it from `index.md`.
-- Setup instructions such as for software installation and data download should be described in `learners/setup.md`.
-  As with a lesson in the default configuration, the contents of this page will be appended to the landing page of the site.
-- If your lessons share a common example dataset, you may wish to describe it on a dedicated page in this overview site.
-  For example, this page could include a _data dictionary_ describing the features of the dataset, a brief description of its origins, a link to the raw data, and a link to further information (e.g. a publication featuring the original data).
-  - See the [_Workshop Data_ page of the Data Carpentry Ecology Curriculum Overview](https://datacarpentry.org/ecology-workshop/data.html) for an example.
+- Una breve descripción del plan de estudios en su conjunto, incluido su público objetivo y los resultados de aprendizaje más importantes.
+- Una lista de los conocimientos previos para el plan de estudios. (Esto se puede formatear como un div cerrado con la clase `prereq`).
+- Una tabla en la que se describen las lecciones incluidas en el plan de estudios y el orden recomendado en el que se deben impartir.
+  - Si existen varias rutas posibles en su plan de estudios, estas deben describirse como tablas individuales o en algún texto introductorio antes de mostrar la tabla de todas las lecciones. Si existen muchas rutas a lo largo de tus lecciones, descríbelas en una página separada creada a partir de un archivo fuente de la carpeta `learners/` y enlaza a él desde `index.md`.
+- Las instrucciones de configuración, como la instalación del software y la descarga de datos, deben describirse en `learners/setup.md`.
+  Al igual que en una lección sobre la configuración predeterminada, el contenido de esta página se anexará a la página de inicio del sitio.
+- Si sus lecciones comparten un conjunto de datos de ejemplo común, es posible que desee describirlo en una página dedicada en este sitio de información general.
+  Por ejemplo, esta página podría incluir un _diccionario de datos_ que describa las características del conjunto de datos, una breve descripción de sus orígenes, un enlace a los datos sin procesar y un enlace a más información (por ejemplo, una publicación con los datos originales).
+  - Consulte la página [_Workshop Data_ de la descripción general del plan de estudios de ecología de la carpintería de datos] (https://datacarpentry.org/ecology-workshop/data.html) para ver un ejemplo.
 
-All of the items described above should be included in the overview site of an official Carpentries curriculum.
+Todos los elementos descritos anteriormente deben incluirse en el sitio de información general de un plan de estudios oficial de Carpentries.
 
-## Template Markdown for Curriculum Overview Table
+## Markdown de plantillas para la tabla de descripción general del plan de estudios
 
-Make a copy of this template to help you build a Markdown table describing the lessons in your curriculum.
+Haz una copia de esta plantilla para ayudarte a crear una tabla de Markdown que describa las lecciones de tu plan de estudios.
 
 ```markdown
-| **Lesson**                                   | **Overview**                                                               |
-|:-------------------------------------------- | -------------------------------------------------------------------------- |
-| [Title of First Lesson](URL-of-lesson-site)  | A short description what the first lesson teaches                          |
-| [Title of Second Lesson](URL-of-lesson-site) | A short description what the second lesson teaches                         | 
-| ...                                          | Keep adding lines in this format until you have listed all of your lessons |
+| **Lección** | **Resumen** |
+|: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+URL-of-lesson-site
+URL-of-lesson-site 
+agregar líneas en este formato hasta que hayas enumerado todas tus lecciones |
 ```
