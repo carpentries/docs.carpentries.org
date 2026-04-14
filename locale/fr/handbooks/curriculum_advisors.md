@@ -1,511 +1,506 @@
-# Curriculum Advisors Handbook
+# Manuel des conseillers en matière de programmes
 
-## About This Handbook
+## À propos de ce manuel
 
-The Curriculum Advisor Handbook is designed to support members of The
-Carpentries community who are serving on a Curriculum Advisory
-Committee. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Le manuel du conseiller en matière de programmes est conçu pour aider les membres de la communauté The
+Carpentries qui siègent à un comité consultatif
+sur les programmes d'études. Il est géré par l'équipe du programme The Carpentries.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} ou ouvrez un numéro sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
-## Introduction
+## Présentation
 
-Curriculum Advisors are part of a team that provides the oversight,
-vision, and leadership for a particular set of lessons. Curriculum
-Advisors represent The Carpentries community and should strive to embody
-The Carpentries philosophy by:
+Les conseillers pédagogiques font partie d'une équipe qui assure la supervision, la vision
+et le leadership pour un ensemble particulier de leçons. Curriculum
+Les conseillers représentent la communauté The Carpentries et devraient s'efforcer d'incarner la philosophie
+The Carpentries en :
 
-- Recognising the importance of communication and being welcoming to
-  all contributors.
+- Reconnaître l'importance de la communication et accueillir tous les contributeurs sur
+  .
 
-- Giving feedback to contributors using The Carpentries model:
+- Faire part de leurs commentaires aux contributeurs en utilisant le modèle The Carpentries :
 
-  - Finding what is good.
-  - Being specific about improvements needed.
-  - Using motivational language.
+  - Trouver ce qui est bon.
+  - Être précis quant aux améliorations nécessaires.
+  - Utiliser un langage motivant.
 
-- Evaluating lesson contributions in light of The Carpentries
-  pedagogical model:
+- Évaluation des contributions aux leçons à la lumière du modèle pédagogique
+  de The Carpentries :
 
-  - Teaching what is most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keeping language motivating.
-  - Emphasising the importance of continued learning and improvement.
+  - Enseigner ce qui est le plus pertinent et le plus utile pour les apprenants.
+  - Évitez de vous enliser dans les détails techniques.
+  - Faire en sorte que le langage reste motivant.
+  - Souligner l'importance de l'apprentissage et de l'amélioration continus.
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-### Chair
+### Chaise
 
-- Prepare agenda for regular meetings, including time estimates for each item.
-- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of the meeting.
-- Assign meeting roles.
-- Serve as a primary point of contact for Maintainers.
-- Review lesson repositories for instances where the Curriculum Advisory Committee (CAC) is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
-- Generally review lesson repositories for items that may come under the CAC’s purview, according to the [CAC consultation rubric](#curriculum-advisory-committee-consultation-rubric), even if not mentioned.
-- Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and
-  Maintainers in contact with CAC members who will assist with
-  implementation.
-- Notify the Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications so that the Core Team can help recruit a replacement if needed.
-- Approve meeting minutes.
-- Fulfill all other responsibilities of a CAC member.
+- Préparez l'ordre du jour des réunions régulières, y compris des estimations de temps pour chaque point.
+- Établissez l'ordre du jour et envoyez-le avec tout autre document pertinent aux membres du comité au moins une semaine avant la réunion.
+- Attribuez des rôles aux réunions.
+- Servir de point de contact principal pour les responsables.
+- Consultez les référentiels de leçons pour détecter les cas où le Comité consultatif du curriculum (CAC) est mentionné. Répondez en temps opportun, notamment en informant les responsables et les contributeurs de la date à laquelle les éléments seront examinés lors de la prochaine réunion.
+- Consultez généralement les référentiels de leçons pour les éléments susceptibles de relever de la compétence du CAC, conformément à la [rubrique de consultation du CAC] (#curriculum-advisory-committee-consultation-rubric), même s'ils ne sont pas mentionnés.
+- Communiquez avec les responsables des leçons et les contributeurs, via les problèmes de GitHub, au sujet des décisions prises par le CAC. Mettez les contributeurs et les responsables de
+  en contact avec les membres du CAC qui vous aideront à la mise en œuvre de
+  .
+- Informez le responsable de l'équipe du programme (Toby Hodges) si un membre du CAC doit quitter ses fonctions à la mi-mandat ou s'il ne répond pas aux communications, afin que l'équipe principale puisse aider à recruter un remplaçant si nécessaire.
+- Approuver le procès-verbal de la réunion.
+- Assumez toutes les autres responsabilités d'un membre du CAC.
 
-### Secretary
+### Secrétaire
 
-- Schedule regular meetings.
-- Arrange meeting room logistics.
-- Send calendar invites.
-- Send meeting reminders.
-- Prepare meeting minutes and post them to the appropriate CAC repository.
-- Fulfill all other responsibilities of a CAC member.
+- Planifiez des réunions régulières.
+- Organiser la logistique de la salle de réunion.
+- Envoyez des invitations au calendrier.
+- Envoyez des rappels de réunion.
+- Préparez les procès-verbaux des réunions et publiez-les dans le référentiel CAC approprié.
+- Assumez toutes les autres responsabilités d'un membre du CAC.
 
-### Other members
+### Autres membres
 
-- Notify the Chair of potential agenda items as they arise.
-- Review the agenda and other relevant documents sent by the Chair before the meeting.
-- Attend and actively participate in regular meetings by being attentive, and sharing knowledge, expertise, ideas, and information.
-- Participate in asynchronous voting through GitHub as needed.
-- Work with community members and Maintainers to implement voted-upon changes as needed.
-- (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned.
+- Informez le président des points potentiels à l'ordre du jour au fur et à mesure qu'ils se présentent.
+- Passez en revue l'ordre du jour et les autres documents pertinents envoyés par le président avant la réunion.
+- Assistez et participez activement aux réunions régulières en étant attentif et en partageant vos connaissances, votre expertise, vos idées et vos informations.
+- Participez au vote asynchrone via GitHub si nécessaire.
+- Travaillez avec les membres de la communauté et les responsables pour mettre en œuvre les modifications votées si nécessaire.
+- (Facultatif) Participez aux discussions sur GitHub avec les responsables et les membres de la communauté lorsque le CAC est mentionné.
 
-## Onboarding
+## Intégration
 
-- _Due to restricted capacity in the Curriculum Team, regular Curriculum Advisor Onboarding is currently suspended._ Individual Curriculum Advisory Committees may choose to recruit new members independently, making use of the process and any/all of the resources described below as needed. If you are interested in joining an existing Curriculum Advisory Committee, we recommend that you contact the relevant group [via their mailing list on TopicBox](#mailing-list).
+- _En raison de la capacité limitée de l'équipe chargée des programmes, l'intégration régulière des conseillers en programmes est actuellement suspendue._ Les comités consultatifs individuels des programmes peuvent choisir de recruter de nouveaux membres de manière indépendante, en utilisant le processus et toutes les ressources décrites ci-dessous, selon les besoins. Si vous souhaitez rejoindre un comité consultatif existant sur les programmes d'études, nous vous recommandons de contacter le groupe concerné [via sa liste de diffusion sur TopicBox] (#mailing-list).
 
-- Rounds of recruitment will be announced on {{'[The Carpentries blog]({}/blog)'.format(carpentries_website)}}.
+- Les cycles de recrutement seront annoncés sur {{'[The Carpentries blog] ({}/blog) '.format (carpentries_website)}}.
 
-- Volunteers will be asked to apply for the role by filling in a short web form describing their expertise and motivation for joining a committee.
+- Les volontaires seront invités à postuler pour le poste en remplissant un court formulaire Web décrivant leur expertise et leur motivation pour rejoindre un comité.
 
-- Templates and workflows for CAC recruitment and onboarding are maintained in the [Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
+- Les modèles et les flux de travail pour le recrutement et l'intégration des CAC sont mis à jour dans le [wiki de l'équipe principale (accès interne uniquement)] (https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
 
-- Onboarding aims to provide new Curriculum Advisors with context for the role how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
+- L'intégration vise à fournir aux nouveaux conseillers pédagogiques le contexte du rôle que les CAC jouent dans le modèle de The Carpentries en matière de développement et de maintenance des programmes, et ce à quoi ils peuvent s'attendre lorsqu'ils se préparent à participer à leur première réunion de comité.
 
-- Onboarding for Curriculum Advisors takes place in two parts:
-  1. A general onboarding for all Curriculum Advisors
-  2. An additional onboarding for the committee officers (_Roles and responsibilities_)
+- L'intégration des conseillers pédagogiques se déroule en deux étapes :
+  1. Une intégration générale pour tous les conseillers en matière de programmes
+  2. Une intégration supplémentaire pour les membres du comité (_Rôles et responsabilités_)
 
-- Both onboardings are delivered by the Curriculum Team over Zoom, with the possibility to be onboarded through a recording of the sessions available for those who cannot attend synchronously.
+- Les deux intégrations sont dispensées par l'équipe du programme via Zoom, avec la possibilité d'être intégrées via un enregistrement des sessions disponible pour ceux qui ne peuvent pas y assister de manière synchrone.
 
-- Onboarding slides:
+- Diapositives d'intégration :
 
-  1. general onboarding
-     slides
-  2. officer onboarding
-     slides
+  1. [diapositives
+     sur l'intégration générale] (https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing)
+  2. [diapositives
+     sur l'accueil des officiers] (https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing)
 
-- After these onboarding sessions, Curriculum Advisors should complete the following steps:
+- Après ces sessions d'intégration, les conseillers pédagogiques doivent suivre les étapes suivantes :
 
-  1. {{'[Log into AMY]({})'.format(amy_link)}} with GitHub
-     credentials and update their profile.
+  1. {{'[Connectez-vous à AMY] ({}) '.format (amy_link)}} avec les informations d'identification GitHub
+     et mettez à jour leur profil.
 
-     - When updating their AMY profile, it is essential that Advisors
-       give consent for The Carpentries to publish their profile so
-       that they can be listed on The Carpentries websites.
+     - Lors de la mise à jour de leur profil AMY, il est essentiel que les conseillers
+       autorisent The Carpentries à publier leur profil sur
+       afin qu'il puisse être répertorié sur les sites Web de The Carpentries.
 
-  2. [Join the mailing list for their committee on Topicbox](#mailing-list). CAC mailing lists are named with the prefix “curriculum-advisors-“.
+  2. [Inscrivez-vous à la liste de diffusion de leur comité sur Topicbox] (#mailing-list). Les listes de diffusion du CAC sont nommées par le préfixe « curriculum-advisors- ».
 
-     - These mailing lists are configured so that anyone can send a
-       message to them, but the list membership is moderated so that only
-       current members of the committee will receive messages sent to
-       the group.
+     - Ces listes de diffusion sont configurées de manière à ce que tout le monde puisse leur envoyer un message
+       , mais l'adhésion à la liste est modérée de sorte que seuls les membres actuels du comité
+       recevront les messages envoyés à
+       le groupe.
 
-  3. Subscribe to notifications from the GitHub repositories for the
-     lessons in their curriculum.
+  3. Abonnez-vous aux notifications des dépôts GitHub pour les leçons
+     de leur programme.
 
-     - This is only _required_ for CAC chairs, but is recommended for
-       all Curriculum Advisors as a way to stay up-to-date about
-       discussions and developments taking place in their curriculum.
-     - Repositories are linked from the “Repository” column of the
-       lesson tables in the “Lessons” page of each Lesson Program
-       website:
+     - Ceci n'est _obligatoire_ que pour les présidents des CAC, mais c'est recommandé pour
+       , tous les conseillers pédagogiques, afin de se tenir au courant des discussions
+       et des développements qui se déroulent dans leur programme.
+     - Les référentiels sont liés à partir de la colonne « Référentiel » des tableaux de leçons
+       de la page « Leçons » de chaque site Web du programme de leçons
+        :
 
-       - [Data Carpentry](https://datacarpentry.org/lessons/)
-       - [Library Carpentry](https://librarycarpentry.org/lessons/)
-       - [Software Carpentry](https://software-carpentry.org/lessons/)
+       - [Menuiserie de données] (https://datacarpentry.org/lessons/)
+       - [Menuiserie de bibliothèque] (https://librarycarpentry.org/lessons/)
+       - [Software Carpentry] (https://software-carpentry.org/lessons/)
 
-### Term Length
+### Durée du mandat
 
-Curriculum Advisors are expected to serve a two-year term.
+Les conseillers en matière de programmes devraient avoir un mandat de deux ans.
 
-## Offboarding
+## Débarquement
 
-We understand that circumstances can change and priorities must be re-evaluated. If a Curriculum Advisor needs to step away from the role before the end of their two-year term, the Curriculum Team will support them to do this.
+Nous comprenons que les circonstances peuvent changer et que les priorités doivent être réévaluées. Si un conseiller pédagogique doit quitter ses fonctions avant la fin de son mandat de deux ans, l'équipe des programmes l'aidera à le faire.
 
-1. After the first year, the Curriculum Team will approach Curriculum Advisors to confirm that they wish to continue in the role or to step back.
-2. If an Advisor needs to step away from the role outside this schedule, they should inform their committee Chair and [the Curriculum Team](mailto:curriculum@carpentries.org).
+1. Après la première année, l'équipe chargée des programmes contactera les conseillers en matière de programmes pour confirmer qu'ils souhaitent continuer à occuper ce poste ou prendre du recul.
+2. Si un conseiller doit quitter son poste en dehors de ce calendrier, il doit en informer le président de son comité et [l'équipe du programme] (mailto:curriculum@carpentries.org).
 
-## Communication and Collaboration Spaces
+## Espaces de communication et de collaboration
 
-Below is a list of communication channels and collaboration spaces that support Curriculum Advisors. Participants in these channels and spaces are expected to follow our {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
+Vous trouverez ci-dessous une liste des canaux de communication et des espaces de collaboration qui soutiennent les conseillers en matière de programmes d'études. Les participants à ces chaînes et espaces sont tenus de suivre notre {{'[Code de conduite] ({}) '.format (code_of_conduct)}}.
 
-### Meetings
+### Réunions
 
-Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reviewing and contributing to relevant documents in advance of the meeting.
+Chaque comité consultatif du programme se réunira au moins une fois par trimestre, et de préférence tous les deux mois. Ces réunions constituent le principal moyen par lequel les membres du CAC interagiront et devraient suivre les meilleures pratiques pour les réunions de The Carpentries, notamment en définissant les rôles des réunions, en prenant des notes et en créant et en tenant un espace permettant à chacun de contribuer. Les membres du CAC devraient préparer les réunions en examinant les documents pertinents et en y contribuant avant la réunion.
 
-### GitHub Repositories
+### Référentiels GitHub
 
-These repositories serve as a public record of meeting notes and decisions made by each of the following CACs.
+Ces référentiels servent de registre public des notes de réunion et des décisions prises par chacun des CCC suivants.
 
-- [Data Carpentry Curriculum Advisors](https://github.com/datacarpentry/curriculum-advisors)
-- [Library Carpentry Curriculum Advisors](https://github.com/LibraryCarpentry/curriculum-advisors)
-- [Software Carpentry Curriculum Advisors](https://github.com/swcarpentry/curriculum-advisors)
+- [Conseillers du programme Data Carpentry] (https://github.com/datacarpentry/curriculum-advisors)
+- [Conseillers du programme de menuiserie de bibliothèque] (https://github.com/LibraryCarpentry/curriculum-advisors)
+- [Conseillers du programme de menuiserie logicielle] (https://github.com/swcarpentry/curriculum-advisors)
 
-### Collaborative Notetaking
+### Prise de notes collaborative
 
-The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Pads are synchronised as you type so that everyone viewing the page sees the same text. This allows everyone to collaborate simultaneously on documents. Below is a list of Etherpads relevant to serving as a Curriculum Advisor.
+The Carpentries utilise [Etherpad] (/resources/communications/etherpads.md) comme outil de prise de notes collaboratif lors d'ateliers, de formations et d'autres événements liés à la menuiserie. Les blocs-notes sont synchronisés au fur et à mesure que vous tapez, de sorte que tous ceux qui consultent la page voient le même texte. Cela permet à tout le monde de collaborer simultanément sur des documents. Vous trouverez ci-dessous une liste des Etherpads pertinents pour agir en tant que conseiller pédagogique.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of our most commonly used Etherpads and other resources.
-- {{'[Software Carpentry CAC pad]({}/swc-cac)'.format(etherpad)}}
-- {{'[Library Carpentry CAC pad]({}/lc-cac)'.format(etherpad)}}
-- {{'[DC Image CAC pad (CodiMD)]({}/92xFxRMKQhqnoeb6Bo_iXw#)'.format(codimd)}}
-- {{'[DC Geospatial CAC pad]({}/geospatialCAC)'.format(etherpad)}}
-- {{'[DC Genomics CAC pad]({}/genomics_CAC_meeting)'.format(etherpad)}}
+- {{'[Pad-of-Pads] ({}/pad-of-pads) '.format (etherpad)}} : une liste de nos Etherpads les plus couramment utilisés et d'autres ressources.
+- {{'[Software Carpentry CAC pad] ({}/swc-cac) '.format (etherpad)}}
+- {{'[Library Carpentry CAC pad] ({}/lc-cac) '.format (etherpad)}}
+- {{'[CD Image CAC pad (CodiMD)] ({}/92xFxRMKQhqnoeb6Bo_iXw#) '.format (codimd)}}
+- {{'[Bloc CAC géospatial DC] ({}/geospatialCAC) '.format (etherpad)}}
+- {{'[Bloc CAC DC Genomics] ({}/genomics_CAC_meeting) '.format (etherpad)}}
 
-Please note that use of this service is restricted to members of The
-Carpentries community; it is not for general purpose use. All Etherpad
-content is publicly available under the Creative Commons Attribution
-Licence.
+Veuillez noter que l'utilisation de ce service est réservée aux membres de la communauté The
+Carpentries ; il n'est pas destiné à un usage général. Tout le contenu d'Etherpad
+est accessible au public sous la [Licence Creative Commons Attribution
+] (https://creativecommons.org/licenses/by/4.0/).
 
-#### Messaging and Communication
+#### Messagerie et communication
 
-The Carpentries uses two primary tools for supporting communications
-among our members: Slack and TopicBox. We know that everyone has
-different communication preferences, so announcements and updates coming
-from members of the Core Team are posted to both channels.
+The Carpentries utilise deux outils principaux pour faciliter les communications
+entre ses membres : Slack et TopicBox. Nous savons que chacun a des préférences de communication différentes avec
+. C'est pourquoi les annonces et les mises à jour provenant de
+émanant des membres de l'équipe principale sont publiées sur les deux canaux.
 
 ##### Slack
 
-{{'[Slack]({})'.format(slack)}} is a communications platform adopted by
-The Carpentries for instant messaging as well as synchronous and
-asynchronous collaboration. If you are new to Slack, please check out our
-{{"[Slack Guide]({})".format(slack_guide)}}.
+{{'[Slack] ({}) '.format (slack)}} est une plateforme de communication adoptée par
+The Carpentries pour la messagerie instantanée ainsi que pour la collaboration synchrone et asynchrone
+. Si vous utilisez Slack pour la première fois, consultez notre
+{{"[Slack Guide] ({}) » .format (slack_guide)}}.
 
-There are many curriculum-specific channels. We recommend that
-Curriculum Advisors join the channels for all lessons within their
-curriculum. Lesson-specific channels can usually be found based on a
-common prefix based on the lesson program they belong to (“swc-” for
-Software Carpentry, “lc-” for Library Carpentry, and “dc-” for Data
+Il existe de nombreux canaux spécifiques aux programmes d'études. Nous recommandons aux conseillers pédagogiques
+de rejoindre les chaînes pour toutes les leçons de leur programme
+. Les chaînes spécifiques aux leçons peuvent généralement être trouvées sur la base d'un préfixe commun
+basé sur le programme de leçon auquel elles appartiennent (« swc- » pour
+Software Carpentry, « lc- » pour Library Carpentry et « dc- » pour Data
 Carpentry)
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}} using this invite link.
+{{'[Rejoignez l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}} en utilisant ce lien d'invitation.
 
-##### Mailing List
+##### Liste de diffusion
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}. There are
-numerous mailing lists you can join based on the volunteer roles you are
-supporting and your interests. Below is a list of mailing lists relevant
-to the activities and programs covered by this handbook. If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Vous pouvez accéder aux listes de diffusion de The Carpentries depuis
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Il existe de nombreuses listes de diffusion
+auxquelles vous pouvez vous inscrire en fonction des rôles de bénévoles que vous soutenez
+et de vos intérêts. Vous trouverez ci-dessous une liste des listes de diffusion pertinentes
+pour les activités et les programmes couverts par ce manuel. Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
 
-- [curriculum-advisors-all TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-all)
-  - a general list for communication with and between all Curriculum
-    Advisors
-- [curriculum-advisors-astronomy Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-astronomy)
-  - DC Astronomy
-- [curriculum-advisors-ecology TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-ecology)
-  - DC Ecology
-- [curriculum-advisors-genomics Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-genomics)
+- [curriculum-advisors-all TopicBox] (https://carpentries.topicbox.com/groups/curriculum-advisors-all)
+  - une liste générale pour la communication avec et entre tous les conseillers du Curriculum
+- [Curriculum-Conseillers - Astronomie Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-astronomy)
+  - Astronomie DC
+- [Curriculum-Advisors-Ecology TopicBox] (https://carpentries.topicbox.com/groups/curriculum-advisors-ecology)
+  - Écologie DC
+- [Boîte thématique sur la génomique des conseillers en matière de programmes] (https://carpentries.topicbox.com/groups/curriculum-advisors-genomics)
   - DC Genomics
-- [curriculum-advisors-geospatial Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-geospatial)
+- [Curriculum-Advisors-Geospatial Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-geospatial)
   - DC Geospatial
-- [curriculum-advisors-image TopicBox](https://carpentries.topicbox.com/groups/curriculum-advisors-image)
-  - DC Image Processing
-- [curriculum-advisors-LC Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
-  - Library Carpentry
-- [curriculum-advisors-social-sciences Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-social-sci)
-  - DC Social Sciences
-- [curriculum-advisors-swc Topicbox](https://carpentries.topicbox.com/groups/curriculum-advisors-swc)
-  - Software Carpentry
+- [Conseillers en matière de curriculum-image TopicBox] (https://carpentries.topicbox.com/groups/curriculum-advisors-image)
+  - Traitement d'image DC
+- [Curriculum-Advisors-LC Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
+  - Menuiserie de bibliothèque
+- [Boîte thématique sur les conseillers en curriculum-sciences sociales] (https://carpentries.topicbox.com/groups/curriculum-advisors-social-sci)
+  - DC Sciences sociales
+- [Curriculum-advisors-swc Topicbox] (https://carpentries.topicbox.com/groups/curriculum-advisors-swc)
+  - Menuiserie logicielle
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once you
-have done this, you can scroll through the list of groups and click
-“Join the Conversation” (for open listservs) or “Request to Join” (for
-those listservs requiring administrator approval).
+Pour rejoindre une ou plusieurs listes de diffusion de Carpentries, vous devez {{'[create a login] ({}/latest) '.format (topicbox)}}. Une fois que vous avez terminé
+, vous pouvez faire défiler la liste des groupes et cliquer sur
+« Rejoindre la conversation » (pour les listes de diffusion ouvertes) ou « Demander à rejoindre » (pour
+, les listes de diffusion nécessitant l'approbation de l'administrateur).
 
-## Step-by-Step Guides
+## Guides étape par étape
 
-Below is a step-by-step guide to support you in your role as a
-Curriculum Advisor.
+Vous trouverez ci-dessous un guide étape par étape pour vous aider dans votre rôle de conseiller pédagogique
+.
 
-### Meeting Checklist
+### Liste de contrôle des réunions
 
-- Secretary: Create an availability poll using [whenisgood](https://whenisgood.net/) (or a similar service). Be sure to enable the “use timezones” feature.
+- Secrétaire : créez un sondage de disponibilité en utilisant [whenisgood] (https://whenisgood.net/) (ou un service similaire). Assurez-vous d'activer la fonction « Utiliser les fuseaux horaires ».
 
-- Secretary: Start scheduling the meeting using the
-  [email template](#scheduling-a-meeting).
+- Secrétaire : Commencez à planifier la réunion en utilisant le [modèle d'e-mail]
+  (#scheduling-a-meeting).
 
-- Secretary: Determine the best meeting time (or two if
-  needed) from the availability poll. Create an event time announcement
-  using TimeandDate (or a similar service). Include an event time
-  announcement link in all communications about meeting times.
+- Secrétaire : Déterminez la meilleure heure de réunion (ou deux si
+  est nécessaire) à partir du sondage de disponibilité. Créez une annonce horaire d'événement
+  à l'aide de TimeAndDate (ou d'un service similaire). Incluez un lien d'annonce
+  sur l'heure de l'événement dans toutes les communications concernant les horaires des réunions.
 
-- Secretary: Set up a meeting room with Zoom (or
-  similar service). If you need a room provided by The Carpentries,
-  contact {{'[{}](mailto:{})'.format(team_email, team_email)}}.
+- Secrétaire : configurez une salle de réunion avec Zoom (ou un service similaire
+  ). Si vous avez besoin d'une chambre fournie par The Carpentries,
+  contactez {{'[{}] (mailto:{}) '.format (team_email, team_email)}}.
 
-- Secretary: [Set up Etherpad](/resources/communications/etherpads.md). For the first meeting, create Etherpad by visiting your desired URL starting with {{ etherpad }} (e.g. https://pad.carpentries.org/my-cac-name). This will create an Etherpad pre-populated with standard language about The Carpentries. For subsequent meetings, use the same Etherpad. The history will automatically archive. Include on Etherpad:
+- Secrétaire : [Configurer Etherpad] (/resources/communications/etherpads.md). Pour la première réunion, créez Etherpad en accédant à l'URL de votre choix commençant par {{ etherpad }} (par exemple https://pad.carpentries.org/my-cac-name). Cela créera un Etherpad prérempli avec un langage standard à propos de The Carpentries. Pour les réunions suivantes, utilisez le même Etherpad. L'historique sera automatiquement archivé. Inclure sur Etherpad :
 
-  - Meeting connection information (Zoom link and dial-in options)
-  - Time zone converter link for meeting time
-  - Sign-in
-  - Meeting roles (leave blank for the Chair to fill in)
-  - Agenda (leave blank for Chair to fill in)
+  - Informations sur la connexion aux réunions (lien Zoom et options d'appel)
+  - Lien de conversion de fuseaux horaires pour l'heure de la réunion
+  - S'identifier
+  - Rôles des réunions (laissez ce champ vide pour que le président le remplisse)
+  - Ordre du jour (laisser le champ vide pour que le président le remplisse)
 
-- Secretary: Send meeting invitations on Google
-  Calendar. Include Etherpad and Zoom connection links in the invite.
+- Secrétaire : envoyez des invitations à des réunions sur Google
+  Calendar. Incluez les liens de connexion Etherpad et Zoom dans l'invitation.
 
-- Secretary: Send meeting announcement using this
-  [Meeting announcement email template](#meeting-announcement).
+- Secrétaire : Envoyez l'annonce de la réunion en utilisant ce
+  [Modèle d'e-mail d'annonce de réunion] (#meeting-announcement).
 
-- Chair: Determine meeting roles using random assignment
+- Président : Déterminez les rôles des réunions à l'aide d'une attribution aléatoire
 
-- Chair: Create agenda on Etherpad, collecting agenda items
-  from:
+- Président : Créez un ordre du jour sur Etherpad, en collectant les points de l'ordre du jour
+  auprès de :
 
-- Issues and pull requests tagged to the CAC on GitHub.
+- Problèmes et demandes d'extraction associés au CAC sur GitHub.
 
-  - Requests that have come in by email to the TopicBox or from The
-    Carpentries Core Team.
-  - Upcoming changes to software or changes in practice occurring in
-    the field that should be considered by CAC.
-  - Other agenda items brought to the Chair by CAC members.
-  - Each agenda item should include links to relevant conversations or
-    information, as well as an approximate length of time for
-    discussion. Notify the Secretary when the agenda is ready to share.
+  - Demandes reçues par e-mail à TopicBox ou émanant de l'équipe principale de The
+    Carpentries.
+  - Changements logiciels à venir ou changements de pratique survenant dans
+    , le domaine qui devrait être pris en compte par le CAC.
+  - Autres points de l'ordre du jour soumis à la présidence par les membres du CAC.
+  - Chaque point de l'ordre du jour doit inclure des liens vers des conversations pertinentes ou des informations
+    , ainsi qu'une durée approximative de la discussion
+    . Avertissez le secrétaire lorsque l'ordre du jour est prêt à être partagé.
 
-- Chair: Maintain open agenda items as issues to the CAC
-  GitHub repository. Update these with links to relevant conversations
-  (e.g. tagging other issues in various lessons, or copying in emails
-  from community members), re-opening/closing issues as needed.
+- Président : Maintenir les points de l'ordre du jour ouverts en tant que problèmes du référentiel GitHub du CAC
+  . Mettez-les à jour avec des liens vers les conversations pertinentes
+  (par exemple, en identifiant d'autres problèmes dans les différentes leçons ou en copiant les e-mails
+  des membres de la communauté), en rouvrir/clôturant les problèmes si nécessaire.
 
-- Secretary: Send meeting reminder using the [meeting reminder email template](#meeting-reminder).
+- Secrétaire : envoyez un rappel de réunion à l'aide du [modèle d'e-mail de rappel de réunion] (#meeting-reminder).
 
-- Chair: Ensure that meeting proceeds smoothly using the
-  assigned meeting roles.
+- Président : Assurez-vous que la réunion se déroule sans heurts en utilisant les rôles de réunion attribués par
+  .
 
-- Secretary: Compile meeting minutes from notes. Add
-  minutes as a PR to the GH repository using the file format
-  MONTH-minutes.md. Include in minutes:
+- Secrétaire : Compilez les procès-verbaux des réunions à partir de notes. Ajoutez
+  minutes en tant que PR au référentiel GH en utilisant le format de fichier
+  Month-Minutes.md. Inclure en quelques minutes :
 
-  - Date and time of meeting
-  - Names of those in attendance
-  - Agenda items discussed, a summary of each discussion, and outcomes
-    of any votes taken
+  - Date et heure de la réunion
+  - Noms des personnes présentes
+  - Points de l'ordre du jour discutés, résumé de chaque discussion et résultats
+    de tous les votes
 
-- Chair: Review and edit or approve minutes. Merge PR.
+- Président : Réviser et modifier ou approuver les procès-verbaux. Fusionnez PR.
 
-- Secretary: Send meeting follow-up to the group using the [Meeting follow-up email template](#meeting-follow-up). Include a link to minutes and information about any follow-up tasks.
+- Secrétaire : Envoyez le suivi de la réunion au groupe à l'aide du [Modèle d'e-mail de suivi de réunion] (#meeting-follow-up). Incluez un lien vers les procès-verbaux et des informations sur les tâches de suivi.
 
-- Chair: Communicate about decisions with relevant
-  Maintainers or other community members as needed using individual
-  lesson repositories, mailing lists, or other channels as appropriate.
+- Président : Communiquez les décisions avec les responsables de
+  concernés ou d'autres membres de la communauté, selon les besoins, en utilisant des référentiels de leçons
+  individuels, des listes de diffusion ou d'autres canaux, selon les besoins.
 
-- Secretary: Set reminder to self to schedule next
-  meeting.
+- Secrétaire : Réglez vous-même le rappel pour planifier la prochaine réunion
+  .
 
-## Resources
+## Ressources
 
-### Curriculum Advisory Committee Consultation Rubric
+### Rubrique de consultation du Comité consultatif sur les programmes
 
-_This rubric defines the division of responsibilities between The
-Carpentries Maintainers and The Carpentries Curriculum Advisory
-Committees (CACs)._
+\*Cette rubrique définit la répartition des responsabilités entre les comités consultatifs
+(CAC) The
+Carpentries Maintainers et The Carpentries Curriculum Advisory . \*
 
-#### Issues over which Maintainers have full authority and which do not need CAC involvement.
+#### Problèmes sur lesquels les mainteneurs ont pleine autorité et qui ne nécessitent pas l'intervention du CAC.
 
-- Addition or removal of exercises
-- Reorganisation of material within episodes
-- Addition or removal of callout boxes
-- Addition or removal of or changes to figures
-- Changes to episode timings
-- Changes to lesson text
+- Ajout ou suppression d'exercices
+- Réorganisation du matériel au sein des épisodes
+- Ajout ou suppression de boîtes de légende
+- Ajout, suppression ou modification de chiffres
+- Changements apportés à la programmation des épisodes
+- Modifications apportées au texte de la leçon
 
-#### Issues about which Maintainers should consult the CAC.
+#### Questions à propos desquelles les mainteneurs devraient consulter le CAC.
 
-- Any new versions of a dataset (either a new release or a modification
-  of existing data)
-- Any major adjustments to the lesson (e.g., episode order,
-  passwordless access)
-- Any updates to a lesson that Maintainers wish to share for
-  informational purposes
+- Toute nouvelle version d'un jeu de données (qu'il s'agisse d'une nouvelle version ou d'une modification
+  de données existantes)
+- Tout ajustement majeur apporté à la leçon (par exemple, ordre des épisodes, accès sans mot de passe
+  )
+- Toute mise à jour d'une leçon que les responsables souhaitent partager à des fins d'information sur
 
-#### Issues that may benefit from Maintainers consulting with the CAC, but over which Maintainers retain authority.
+#### Problèmes qui peuvent bénéficier de la consultation du CAC par les mainteneurs, mais sur lesquels les mainteneurs conservent leur autorité.
 
-- Addition of a new library or package
-- Introduction of a new topic/learning objective (e.g., adding file
-  permissions to LC shell lesson)
-- Updates to software/packages that are minor versions (e.g., Python
-  3.7 -> 3.8) when the new version is backward compatible with the current
-  version
-- Additions of experimental features (e.g., git checkout → git restore
-  / git switch)
-- Any change to a lesson that impacts the content/scope of another
-  lesson in the curriculum
-- For Incubator lessons - Review a lesson outline where a lesson
-  developers would like the lesson to be considered for eventual
-  adoption into a Lesson Program’s official curriculum
-- Issues which are not covered anywhere else in this rubric
+- Ajout d'une nouvelle bibliothèque ou d'un nouveau package
+- Introduction d'un nouveau sujet/objectif d'apprentissage (par exemple, ajout des autorisations du fichier
+  à la leçon LC shell)
+- Mises à jour des logiciels/packages qui sont des versions mineures (par exemple, Python
+  3.7 -> 3.8) lorsque la nouvelle version est rétrocompatible avec la version
+  actuelle
+- Ajouts de fonctionnalités expérimentales (par exemple, git checkout → git restore
+  /git switch)
+- Toute modification apportée à une leçon qui a un impact sur le contenu/la portée d'une autre leçon
+  du programme
+- Pour les leçons en incubateur : passez en revue un plan de leçon dans lequel les développeurs de la leçon
+  aimeraient qu'elle soit prise en compte en vue de son adoption éventuelle par
+  dans le programme officiel d'un programme de leçons
+- Questions qui ne sont abordées nulle part ailleurs dans cette rubrique
 
-#### Issues for which Maintainers must seek CAC approval.
+#### Problèmes pour lesquels les mainteneurs doivent obtenir l'approbation du CAC.
 
-- Replacing the dataset used in the lesson with a different dataset.
-  This does not include cases in which the data being used in the
-  lesson is being updated to a new version (e.g., a new data release)
-  or is modified to make it more suitable for the teaching environment
-  (e.g., introduction of messiness to the dataset).
+- Remplacement de l'ensemble de données utilisé dans la leçon par un autre ensemble de données.
+  Cela n'inclut pas les cas où les données utilisées dans la leçon
+  sont mises à jour vers une nouvelle version (par exemple, une nouvelle version de données)
+  ou sont modifiées pour les rendre plus adaptées à l'environnement d'enseignement
+  (par exemple, introduction de désordre dans l'ensemble de données).
 
-- Changing the software being used in the lesson. This does not include
-  updating to a new stable, backwards-compatible version of the
-  existing software (e.g., Python 3.6 → 3.7.x), but does include:
+- Changer le logiciel utilisé dans la leçon. Cela n'inclut pas la mise à jour
+  vers une nouvelle version stable et rétrocompatible du logiciel
+  existant (par exemple, Python 3.6 → 3.7.x), mais inclut :
 
-  - Updating to a non-backwards compatible version of existing
-    software (e.g., Python 2.x → 3.x, R 3.x → 4.x)
-  - Change in plotting library (e.g., Matplotlib, Plotly, Seaborn,
+  - Mise à jour vers une version non rétrocompatible du logiciel
+    existant (par exemple, Python 2.x → 3.x, R 3.x → 4.x)
+  - Modification de la bibliothèque de traçage (par exemple, Matplotlib, Plotly, Seaborn,
     ggplot, Altair)
-  - Change in libraries/packages taught (i.e., removal or
-    replacement)
-  - Change in SQL dialect (e.g., SQLite, MySQL, PostgreSQL, MSSQL
+  - Modification des bibliothèques/packages enseignés (suppression ou remplacement du
+    )
+  - Modification du dialecte SQL (par exemple, SQLite, MySQL, PostgreSQL, MSSQL
     Server)
-  - Change in IDE being used to teach the lessons (RStudio, Jupyter
+  - Modification de l'IDE utilisé pour enseigner les leçons (RStudio, Jupyter
     Notebook)
-  - Change from GitHub as a remote hosting platform to a different
-    remote hosting platform, e.g., GitLab
+  - Passez de GitHub en tant que plate-forme d'hébergement à distance à une autre plate-forme d'hébergement à distance
+    , par exemple GitLab
 
-- Removal of an entire episode’s worth of content
+- Suppression de l'intégralité du contenu d'un épisode
 
-- Change in lesson infrastructure (e.g., moving Genomics lessons from
-  AWS to CyVerse)
+- Modification de l'infrastructure des leçons (par exemple, transfert des leçons de génomique de
+  AWS vers CyVerse)
 
-- Retirement of a lesson (e.g., MATLAB, Mercurial)
+- Retrait d'une leçon (par exemple, MATLAB, Mercurial)
 
-- Addition of a new lesson to the core curriculum (e.g., adding Julia
-  as an alternative to R / Python)
+- Ajout d'une nouvelle leçon au programme de base (par exemple, ajout de Julia
+  comme alternative à R/Python)
 
-- Adding or removing prerequisites from a lesson (for curricula with
-  multiple lessons)
+- Ajouter ou supprimer des prérequis dans une leçon (pour les programmes comportant plusieurs leçons
+  )
 
-- Promotion or graduation of a lesson from alpha to beta to stable.
-  Decisions on approval can be based on recommendations from the
-  Curriculum Team, CAC member involvement in lesson pilot workshops,
-  and/or open peer review of lessons in The Carpentries Lab.
+- Promotion ou graduation d'une leçon de la version alpha à la version bêta à la version stable.
+  Les décisions d'approbation peuvent être basées sur les recommandations de l'équipe du programme
+  , la participation des membres du CAC à des ateliers pilotes de leçons,
+  et/ou l'évaluation ouverte par les pairs des leçons de The Carpentries Lab.
 
-### Email templates
+### Modèles de courrier électronique
 
-_Curriculum Advisors can use these email templates for planning their
-meetings._
+\*Les conseillers pédagogiques peuvent utiliser ces modèles de courrier électronique pour planifier leurs réunions
+. \*
 
-#### Scheduling a meeting
+#### Planifier une réunion
 
-Subject: Scheduling [ QUARTER YEAR ] Meeting of the [ Data Carpentry /
-Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
-Advisory Committee
+Objet : Programmation [TRIMESTRIELLE] Réunion du [Data Carpentry/
+Library Carpentry/Software Carpentry] [TITRE DU PROGRAMME] Comité consultatif du Curriculum
 
-Hi everyone,
+Bonjour à tous,
 
-I’d like to get us started on setting up our meeting for [ QUARTER YEAR
-]. This meeting will be between [ DATE ] and [ DATE ].
+J'aimerais commencer à organiser notre réunion pour [TRIMESTRE D'ANNÉE
+]. Cette réunion aura lieu entre [DATE] et [DATE].
 
-To help schedule the meeting, could everyone please add their
-availability to this whenisgood by
-this coming Friday ([ DATE ])? Please make sure to put in your time zone
-at the top of the poll. I’ll review the results and let everyone know
-the meeting time by [ DATE ] so that you can clear up any holds on your
-calendar.
+Pour faciliter la planification de la réunion, tout le monde pourrait-il ajouter sa disponibilité
+à cette page when isgood by
+vendredi prochain ([DATE]) ? Assurez-vous d'indiquer votre fuseau horaire
+en haut du sondage. Je vais passer en revue les résultats et informer tout le monde de l'heure du rendez-vous
+avant le [DATE] afin que vous puissiez éliminer les éventuelles mises en attente sur votre calendrier
+.
 
-Best, [ sender name ]
+Best, [nom de l'expéditeur]
 
-#### Meeting announcement
+#### Annonce de la réunion
 
-Subject: [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library
-Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
-Advisory Committee
+Sujet : [TRIMESTRIEL] Réunion du [Data Carpentry/Library
+Carpentry/Software Carpentry] [TITRE DU PROGRAMME] Comité consultatif du Curriculum
 
-Hi all,
+Bonjour à tous,
 
-Thank you for providing your availability. Our [ QUARTER YEAR ] meeting
-will be [ TIME AND DATE IN UTC ONLY ]. You can check the meeting’s time
-in your local time zone by clicking this link.
-You should have received a Google calendar invite to the meeting with
-Zoom connection information and the link to our Etherpad.
+Merci de nous avoir communiqué vos disponibilités. Notre réunion [TRIMESTRIELLE]
+aura lieu [HEURE ET DATE EN UTC UNIQUEMENT]. Vous pouvez consulter l'heure
+de la réunion dans votre fuseau horaire local en cliquant sur ce lien.
+Vous devriez avoir reçu une invitation Google Agenda à la réunion avec les informations de connexion
+Zoom et le lien vers notre Etherpad.
 
-A week before the meeting, I will send out our full agenda as well as
-meeting roles (notetaker, timekeeper, facilitator).
+Une semaine avant la réunion, je vous enverrai notre ordre du jour complet ainsi que les rôles de la réunion
+(preneur de notes, chronométreur, animateur).
 
-Please let me know if you have any questions in the meantime or if you
-didn’t get the GCal invite.
+N'hésitez pas à me faire savoir si vous avez des questions entre-temps ou si vous n'avez pas reçu l'invitation GCal avec
+.
 
-Best, [ sender name ]
+Best, [nom de l'expéditeur]
 
-#### Meeting reminder
+#### Rappel de réunion
 
-Subject: [ QUARTER YEAR ] Meeting of the [ Data Carpentry / Library
-Carpentry / Software Carpentry ] [ CURRICULUM TITLE ] Curriculum
-Advisory Committee
+Sujet : [TRIMESTRIEL] Réunion du [Data Carpentry/Library
+Carpentry/Software Carpentry] [TITRE DU PROGRAMME] Comité consultatif du Curriculum
 
-Hi everyone,
+Bonjour à tous,
 
-Just a reminder that we’ll be meeting on [ DATE AND TIME IN UTC ONLY ].
-You should have a Google Calendar invite for the meeting with connection
-information. You can double-check the meeting time in your local time
-zone by following this link.
+Juste pour vous rappeler que nous nous réunirons le [DATE ET HEURE EN UTC UNIQUEMENT].
+Vous devriez avoir reçu une invitation Google Agenda pour la réunion contenant les informations de connexion
+. Vous pouvez vérifier l'heure du rendez-vous dans votre fuseau horaire local
+en suivant ce lien.
 
-[ NAME OF CHAIR ] has prepared an agenda for our meeting. Please review
-the agenda on our Etherpad in advance of the
-meeting and be prepared to share your thoughts.
+[NOM DU PRÉSIDENT] a préparé l'ordre du jour de notre réunion. Veuillez consulter l'ordre du jour
+sur notre Etherpad avant la réunion
+et soyez prêt à partager vos réflexions.
 
-Our roles for the meeting are also listed on the Etherpad. As a
-reminder, we will be using the following roles. If you are not able to
-or comfortable with carrying out your assigned role, please contact [
-NAME OF CHAIR ].
+Nos rôles pour la réunion sont également répertoriés sur l'Etherpad. Pour rappel
+, nous utiliserons les rôles suivants. Si vous n'êtes pas capable de
+ou si vous êtes à l'aise avec le rôle qui vous est assigné, veuillez contacter [
+NOM DU PRÉSIDENT].
 
-Facilitator - Introduces each agenda item. Monitors both the chat and
-the visual meeting window for “hands”, keeps track of the order, and
-acknowledges whose turn it is to speak. Make sure everyone has a chance
-to share their views.
+Animateur - Présente chaque point de l'ordre du jour. Surveille à la fois le chat et
+, la fenêtre visuelle de réunion pour les « mains », suit la commande et
+indique à qui c'est le tour de prendre la parole. Assurez-vous que tout le monde a la possibilité de partager son point de vue avec
+.
 
-Notetaker - Records meeting attendance and major points of discussion.
-Especially takes note of decisions and action items.
+Preneur de notes - Enregistre la participation aux réunions et les principaux points de discussion.
+Prend note en particulier des décisions et des mesures à prendre.
 
-Timekeeper - monitors time and notifies the group when the time for specific
-agenda items are short.
+Chronométreur : surveille le temps et avertit le groupe lorsque le temps imparti pour certains points de l'ordre du jour
+est court.
 
-Excited to meet with you all soon.
+J'ai hâte de vous rencontrer tous bientôt.
 
-Best, [ sender name ]
+Best, [nom de l'expéditeur]
 
-#### Meeting follow-up
+#### Suivi des réunions
 
-Subject: Follow-up from [ QUARTER YEAR ] Meeting of the [ Data Carpentry
-/ Library Carpentry / Software Carpentry ] [ CURRICULUM TITLE ]
+Objet : Suivi de la réunion [TRIMESTRIELLE] du [Data Carpentry
+/Library Carpentry/Software Carpentry] [TITRE DU PROGRAMME]
 Curriculum Advisory Committee
 
-Hi all,
+Bonjour à tous,
 
-Thank you again for a very productive meeting last week. Our minutes for
-the meeting are posted to our repository. Minutes include decision
-points and action items for follow-up. I would like everyone to review
-them to make sure that I’ve correctly identified the decisions that were
-made.
+Merci encore pour cette réunion très productive la semaine dernière. Notre compte rendu de la réunion
+est publié dans notre répertoire. Le procès-verbal comprend les points de la décision
+et les mesures à prendre pour le suivi. J'aimerais que tout le monde passe en revue les
+pour s'assurer que j'ai correctement identifié les décisions prises par
+.
 
-Please review and respond to the minutes and
-let me know by \`DATE AND TIME
-UTC if you find any
-problems or have any objections to the decisions and action items. At
-that point, [ CHAIR NAME ] will follow up with the Maintainers on the
-next steps.
+Veuillez consulter le procès-verbal et y répondre.
+me fera savoir avant \`DATE ET HEURE
+UTC si vous rencontrez des problèmes
+ou si vous avez des objections à l'égard des décisions et des mesures à prendre. À
+, [NOM DU PRÉSIDENT] assurera un suivi auprès des mainteneurs sur les prochaines étapes de
+.
 
-Thank you everyone for bringing your knowledge and expertise to the
-meeting last week and for your deep thought about this curriculum. I’m
-excited about [ upcoming publication or major lesson change ].
+Merci à tous d'avoir apporté vos connaissances et votre expertise à la réunion
+de la semaine dernière et pour votre réflexion approfondie sur ce programme. Je suis
+enthousiasmé par [une publication à venir ou un changement de leçon majeur].
 
-Please let me know if you have any questions or comments.
+S'il vous plaît laissez-moi savoir si vous avez des questions ou des commentaires.
 
-Best, [ sender name ]
+Best, [nom de l'expéditeur]
 
-### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
+### [Matériel d'intégration au programme] (/resources/curriculum/curriculum_onboarding.md)
 
 ## FAQ
 
-**How do the responsibilities of Curriculum Advisors differ from
-Maintainers?**
+\*\*En quoi les responsabilités des conseillers pédagogiques diffèrent-elles de celles des responsables de
+ ? \*\*
 
-Please review the Curriculum Advisory Committee Consultation
-Rubric.
+Veuillez consulter la [Rubrique
+de la consultation du Comité consultatif sur les programmes] (#curriculum-advisory-committee-consultation-rubric).
 
