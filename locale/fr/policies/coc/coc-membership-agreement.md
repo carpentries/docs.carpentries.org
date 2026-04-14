@@ -1,67 +1,67 @@
-# Membership Agreement for the Code of Conduct (CoC) Committee
+# Accord d'adhésion au Comité du Code de conduite (CoC)
 
-This document describes the responsibilities that the members of the Code of Conduct committee (CoCc) must agree to meet in order to fulfill the requirements of their roles on the committee.
+Ce document décrit les responsabilités que les membres du comité du code de conduite (CoCC) doivent accepter de remplir afin de remplir les exigences de leurs rôles au sein du comité.
 
-> _The committee is what turns a code of conduct from a written document into meaningful action._  
+> _Le comité est ce qui transforme un code de conduite d'un document écrit en une action significative._  
 > Valerie Aurora, FrameShift Consulting
 
-## Core Membership Agreement:
+## Accord d'adhésion de base :
 
-The main purpose of the CoCc is to: establish, maintain and uphold the Code of Conduct; educate members of the community of policies and behaviors that can help create a more inclusive and welcoming environment; and protect all members from harm in community spaces.
+L'objectif principal du CoCC est de : établir, maintenir et faire respecter le Code de conduite ; informer les membres de la communauté des politiques et des comportements qui peuvent contribuer à créer un environnement plus inclusif et accueillant ; et protéger tous les membres contre les dommages dans les espaces communautaires.
 
-In order to uphold the CoC, the CoCc members will:
+Afin de faire respecter le CoC, les membres du CoC devront :
 
-- support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures.
-- learn about the [Code of Conduct](/policies/coc/index.md) and [reporting guidelines](/policies/coc/incident-reporting.md), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.
-- understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](/policies/coc/enforcement-guidelines.md) put in place for the relevant community spaces.
-- actively help develop and maintain existing and new documents to facilitate the work of the [Code of Conduct Committee](/policies/coc/index.md).
-- avoid _conflicts of interest_ [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC.
-- maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee.
-- not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so.
-- hold themselves accountable for their responsibilities as trustees and understand that they are expected to follow through on their commitments.
-- respect and promote diversity, equity, and inclusion in the community and act in the best interests of the Carpentries community impartially, putting aside any individual affiliations such as organizations or other Carpentries committees, and personal biases.
+- soutenir les objectifs et la mission de The Carpentries en respectant son CoC et d'autres politiques et procédures.
+- découvrez le [Code de conduite] (/policies/coc/index.md) et les [directives de signalement] (/policies/coc/incident-reporting.md), et en tant que défenseurs du CoC, faites-en part dans tous les espaces communautaires dont ils font partie.
+- comprendre les rapports liés au CoC et être à l'aise pour y donner suite conformément aux [directives d'application] (/policies/coc/enforcement-guidelines.md) mises en place pour les espaces communautaires concernés.
+- contribuer activement au développement et à la mise à jour des documents existants et nouveaux afin de faciliter le travail du [Comité du code de conduite] (/policies/coc/index.md).
+- évitez les _conflits d'intérêts_ [1] lors du traitement des rapports liés au CoC. Le fait de ne pas déclarer un conflit d'intérêts peut être considéré comme une violation du CoC.
+- préserver la confidentialité de tout incident signalé, de l'identité des personnes impliquées et des discussions qui ont lieu au sein du comité.
+- ne pas faire de commentaires sur des sujets dont ils ont été informés dans le cadre de leurs fonctions en tant que membre du CoCC, sauf autorisation contraire.
+- assument leurs responsabilités en tant que fiduciaires et comprennent qu'on attend d'eux qu'ils respectent leurs engagements.
+- respecter et promouvoir la diversité, l'équité et l'inclusion au sein de la communauté et agir dans le meilleur intérêt de la communauté Carpentries de manière impartiale, en mettant de côté toute affiliation individuelle telle qu'une organisation ou un autre comité de Carpentries, et les préjugés personnels.
 
-## Further Roles and Responsibilities:
+## Autres rôles et responsabilités :
 
-In addition to the core membership agreement, CoCc members will be required to:
+En plus de l'accord d'adhésion de base, les membres du CoCC devront :
 
-- support the committee chair and the designated Core Team liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them.
-- attend in the order of 75% of all _CoCc Business meetings_ [2]. In these meetings, CoCc members will actively engage in discussion, voting and contributing in a constructive way, listening carefully, challenging sensitively and avoiding conflict.
-- promptly respond to emails, or, if they realize they will be out of touch for a while, inform the committee chair.
-- participate in any training that is organized to support the work of the committee, and to responsibly use any technical solutions that the CoCc is asked to use in order to maintain the security and privacy of personal information conveyed to the committee.
+- soutenir le président du comité et l'agent de liaison désigné de l'équipe centrale dans la prise de décisions collectives. Pour ce faire, ils se prépareront pleinement aux réunions, notamment en lisant attentivement les rapports et les documents connexes, en interrogeant tout ce qu'ils ne comprennent pas, en réfléchissant aux problèmes avant les réunions et en accomplissant toutes les tâches qui leur ont été confiées.
+- assister dans l'ordre de 75 % de toutes les _réunions d'affaires du CoCC_ [2]. Lors de ces réunions, les membres du CoCC participeront activement à la discussion, voteront et contribueront de manière constructive, en écoutant attentivement, en lançant des défis avec sensibilité et en évitant les conflits.
+- répondez rapidement aux courriels ou, s'ils se rendent compte qu'ils ne seront plus en contact pendant un certain temps, informez-en le président du comité.
+- participer à toute formation organisée pour soutenir les travaux du comité et utiliser de manière responsable toutes les solutions techniques que le CoCC est invité à utiliser afin de maintenir la sécurité et la confidentialité des informations personnelles transmises au comité.
 
-### [1] Note on _Conflicts of Interest_:
+### [1] Remarque sur les _conflits d'intérêts_ :
 
-A conflict of interest is a situation where a member of the CoCc could be perceived to not act in the interest of the Carpentries and the members of the community. Such situations can, for instance, occur when the members have close ties with one of the parties in a CoC incident (e.g. family relationships, close friendships, business ties, or even personal considerations). Such conflicts of interest may make it difficult to fulfill their duties impartially.
+Un conflit d'intérêts est une situation dans laquelle un membre du CoCC peut être perçu comme n'agissant pas dans l'intérêt des Charpenteries et des membres de la communauté. De telles situations peuvent se produire, par exemple, lorsque les membres entretiennent des liens étroits avec l'une des parties à un incident du CoC (par exemple, des relations familiales, des amitiés étroites, des liens d'affaires ou même des considérations personnelles). Ces conflits d'intérêts peuvent les empêcher de s'acquitter de leurs fonctions de manière impartiale.
 
-If any member of the committee happens to face a conflict of interest while handling a case, they are  expected to:
+Si un membre du comité est confronté à un conflit d'intérêts lors du traitement d'une affaire, il est tenu de :
 
-- inform the chair of the CoCc and/or the full committee of the conflict of interest,
-- not be involved in the case, and if required, temporarily leave their position as a CoCc member to avoid any bias.
+- informer le président du CoCC et/ou l'ensemble du comité du conflit d'intérêts,
+- ne pas être impliqué dans l'affaire et, si nécessaire, quitter temporairement son poste de membre du CoCC pour éviter tout parti pris.
 
-### [2] Note on the _CoCc Meetings_:
+### [2] Note sur les _Réunions du CoCC_ :
 
-The committee conducts two types of meetings:
+Le comité organise deux types de réunions :
 
-- **Business meetings**: these are meetings where we discuss the status of current documents, issues brought to us by the community and other CoC related matters.
-- **Incident report related meetings**: in these meetings those that have volunteered to decide the course of action for a reported incident meet and discuss the situation. To decide on an issue, a minimum of 3 members must participate, thus not all members need to participate in every case.
+- **Réunions d'affaires** : il s'agit de réunions au cours desquelles nous discutons de l'état des documents actuels, des problèmes qui nous ont été signalés par la communauté et d'autres sujets liés au CoC.
+- **Réunions liées au signalement d'incident** : lors de ces réunions, les personnes qui se sont portées volontaires pour décider de la marche à suivre pour un incident signalé se rencontrent et discutent de la situation. Pour prendre une décision sur une question, un minimum de 3 membres doivent participer. Il n'est donc pas nécessaire que tous les membres participent dans tous les cas.
 
-### Onboarding of new committee members:
+### Intégration des nouveaux membres du comité :
 
-New committee members will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and The Carpentries Executive Council.
+Les nouveaux membres du comité ne seront inclus dans les discussions du comité qu'une fois qu'ils auront satisfait aux exigences d'intégration spécifiées par le CoCC et le Conseil exécutif de The Carpentries.
 
-### Leaving the Committee:
+### Quitter le Comité :
 
-- If a CoCc member wishes to leave the committee at any time, they will inform the Committee chair in advance (giving enough notice to hand-over their responsibility) in writing, stating their reasons for leaving.
-- Breach of any part of the CoC by any CoCc member may result in a fair procedure being put in motion that may result in them being asked to resign from the CoCc. Should this happen they will be given the opportunity to be heard. In the event they are asked to resign from the committee, they will accept the majority decision of the committee in this matter and resign at the earliest opportunity.
+- Si un membre du CoCC souhaite quitter le comité à tout moment, il en informera le président du comité à l'avance (en donnant un préavis suffisant pour transférer ses responsabilités) par écrit, en indiquant les raisons de son départ.
+- La violation de toute partie du CoC par un membre du CoCC peut entraîner la mise en place d'une procédure équitable qui peut aboutir à ce qu'il soit invité à démissionner du CoCC. Dans ce cas, ils auront la possibilité de se faire entendre. S'ils sont invités à démissionner du comité, ils accepteront la décision majoritaire du comité en la matière et démissionneront dans les meilleurs délais.
 
-## Relevant information:
+## Informations pertinentes :
 
-- CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)
-- [Code of Conduct Handbook Documentation](/policies/coc/index.md)
+- Comité du CoC : [https://carpentries.org/coc-ctte] (https://carpentries.org/coc-ctte/)
+- [Documentation du manuel du code de conduite] (/policies/coc/index.md)
 
-## References:
+## Références :
 
-- This document is largely based on “[The Code of Good Governance, DIY Committee Guide](http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now
-- [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora and Mary Gardiner, 2018
+- Ce document est largement basé sur « [The Code of Good Governance, DIY Committee Guide] (http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016 » http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now
+- [Comment répondre aux rapports sur le code de conduite] (https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora et Mary Gardiner, 2018
 
