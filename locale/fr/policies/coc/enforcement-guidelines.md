@@ -1,137 +1,137 @@
-# Code of Conduct Incident Response Procedure and Enforcement Guidelines
+# Code de conduite, procédure de réponse aux incidents et directives d'application
 
-This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form][reporting-form] or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support as a 501(c)(3) non-profit organisation should there be a need.
+Ce document décrit la procédure de réponse aux incidents et les directives d'application suivies par le comité du code de conduite des charpenteries (CoCC) une fois qu'un rapport d'incident est reçu via le \[formulaire de rapport d'incident] \[formulaire de rapport] ou d'autres canaux. Ces directives sont utilisées lorsque le CoCC examine et résout les incidents afin de garantir la cohérence, la transparence et l'équité. The Carpentries a accès à une assistance juridique en tant qu'organisation à but non lucratif 501 (c) (3) en cas de besoin.
 
-The CoC committee will attempt to ensure your safety and help with any immediate needs, particularly at in-person events. The incident reporter(s) will receive an email from the Code of Conduct committee acknowledging receipt of an incident report within 24 hours of the form submission, and we aim for the same response time through other channels.
+Le comité du CoC tentera d'assurer votre sécurité et de répondre à tous vos besoins immédiats, en particulier lors d'événements en personne. Le ou les signaleurs de l'incident recevront un e-mail du comité du code de conduite accusant réception d'un rapport d'incident dans les 24 heures suivant la soumission du formulaire, et nous visons le même temps de réponse par d'autres canaux.
 
-If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
+En cas d'incident en cours ou de menace pour la sécurité physique, la priorité immédiate du comité sera de protéger toutes les personnes impliquées. Cela signifie que nous pouvons retarder une réponse « officielle » jusqu'à ce que nous croyions que la situation est terminée et que tout le monde est en sécurité physiquement.
 
-The committee will make all efforts to meet within two business days to review the incident and determine next steps such as setting a 1:1 meeting with the reporter(s) and/or reportee(s). Once the committee has a complete account of the events, they will decide how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.
+Le comité fera tout son possible pour se réunir dans les deux jours ouvrables afin d'examiner l'incident et de déterminer les prochaines étapes, telles que l'organisation d'une réunion individuelle avec le ou les journalistes et/ou les personnes signalées. Une fois que le comité aura un compte rendu complet des événements, il décidera de la manière de réagir. Des exemples de réponses possibles aux incidents sont présentés dans The Carpentries [Enforcement Guidelines] (enforcement-guidelines.md). Le comité répondra dans un délai d'une semaine au journaliste initial en lui proposant soit une résolution, soit une explication expliquant pourquoi la situation n'est pas encore résolue.
 
-Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.
+Une fois que le comité aura déterminé sa résolution, le journaliste d'origine sera contacté pour l'informer des mesures (le cas échéant) qui seront prises. Le comité tiendra compte des commentaires du journaliste sur la pertinence de sa réponse, mais pourra décider de ne pas donner suite à ces commentaires.
 
-Finally, the Chair of the Code of Conduct Committee and Board of Directors Liaison will write up a [transparency report](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) for incidents reported through the incident report form or other channels. Names of the reporter and any persons involved in the incident will not be included unless the resolution results in a termed suspension. The Board of Directors may choose to make a public report of the incident while maintaining anonymity of those involved.
+Enfin, le président du comité du code de conduite et la liaison avec le conseil d'administration rédigeront un [rapport de transparence] (https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) pour les incidents signalés via le formulaire de rapport d'incident ou d'autres canaux. Les noms du journaliste et de toutes les personnes impliquées dans l'incident ne seront pas inclus à moins que la résolution n'entraîne une suspension temporaire. Le conseil d'administration peut choisir de rendre public l'incident tout en préservant l'anonymat des personnes impliquées.
 
-## Terminology
+## Terminologie
 
-- **Reporter**: Person reporting an incident.
-- **Reportee**: Person being reported.
-- **Incident Response Group (IRG)**: Group of people who work on a specific incident. There will be a minimum of three people from the CoC committee on each IRG.
-- **Incident Response Lead (IRL)**: Person on the CoC committee heading the IRG. This person is appointed on a per-incident basis by the IRG.
+- **Journalisateur** : Personne signalant un incident.
+- **Déclarant** : Personne signalée.
+- \*\*Groupe de réponse aux incidents (IRG) \*\* : groupe de personnes qui travaillent sur un incident spécifique. Il y aura au moins trois membres du comité du CoC dans chaque IRG.
+- \*\*Responsable de la réponse aux incidents (IRL) \*\* : membre du comité CoC qui dirige l'IRG. Cette personne est nommée par l'IRG au cas par cas.
 
-## Incident Response Procedure for The Carpentries Code of Conduct Committee
+## Procédure de réponse aux incidents pour le comité du code de conduite de The Carpentries
 
-The following is a summary of the steps the Code of Conduct Committee takes when responding to an incident reported via the incident report form. More detailed information is also provided below the summary.
+Voici un résumé des mesures prises par le Comité du code de conduite lorsqu'il répond à un incident signalé via le formulaire de rapport d'incident. Des informations plus détaillées sont également fournies sous le résumé.
 
-- If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](termed-suspension.md).
-- For non-immediate responses submitted via the [incident report form][reporting-form], an auto-generated email is sent to the Code of Conduct committee that a report has been received.
-- An auto-response is sent to the reporter acknowledging that the incident report was received via the secure form.
-- The first person on the Code of Conduct committee to see the report reviews it and provides an initial response to the reporter within 24 hours of the report being submitted or immediately if safety is an issue.
-- This response will include a timeline of what to expect as the Code of Conduct committee works to provide a resolution.
-- The first person on the Code of Conduct committee to see the report completes an [incident data collection form](https://docs.google.com/document/d/1FKR30JXU4yE7gsJa6SDQqwhWd8rUYKehy6NyMwwx7Mw/edit?usp=sharing) to share with the CoC Committee.
-- A minimum of three members of the Code of Conduct Committee (the Incident Response Group (IRG)) meet to discuss the incident. The incident report document is shared with the IRG prior to this meeting.
-- An Incident Response Lead (IRL) is appointed by the IRG.
-- The IRG determines if the incident occurred in a Carpentries space and is therefore appropriate to review.
-- The IRG reviews all of the information included in the incident report and determines whether more information is needed. If so, that information is requested from the reporter.
-- The IRL contacts the reportee(s) to set up a meeting, if necessary. At least two IRG members should be present at the meeting with the reportee(s).
-- An optional meeting with the reporter takes place to obtain more information. At least two members of the IRG should be present at the meeting.
-- After further collection and review of information, if needed, the IRG determines a resolution. Possible [resolutions](#resolutions) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension.
-- The IRL updates the reporter and  solicits feedback on the resolution. Feedback may or may not be used to update the resolution.
-- The IRL updates the reportee(s).
-- IRG conducts a final meeting/communication to ensure that reportee understands the resolution and has an opportunity to clarify concerns.
-- The Core Team Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken.
-- Essential personnel are notified to implement any actions. Report details remain confidential.
-- Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository.
-- The Chair of the Code of Conduct Committee and Board of Directors Liaison write up a transparency report.
+- Si une réponse immédiate est nécessaire (danger physique, interruption d'un atelier, conversation en ligne en cours) communiquée par n'importe quel canal, le CoCC peut activer la [Liste de contrôle de suspension qualifiée] (termed-suspension.md).
+- Pour les réponses non immédiates soumises via le \[formulaire de rapport d'incident] \[formulaire de rapport], un e-mail généré automatiquement est envoyé au comité du code de conduite indiquant qu'un rapport a été reçu.
+- Une réponse automatique est envoyée au déclarant pour confirmer que le rapport d'incident a été reçu via le formulaire sécurisé.
+- La première personne du comité du code de conduite à consulter le rapport l'examine et fournit une première réponse au journaliste dans les 24 heures suivant la soumission du rapport ou immédiatement si la sécurité est un problème.
+- Cette réponse inclura un calendrier indiquant à quoi s'attendre alors que le comité du code de conduite s'efforce de trouver une solution.
+- La première personne du comité du code de conduite à voir le rapport remplit un [formulaire de collecte de données sur les incidents] (https://docs.google.com/document/d/1FKR30JXU4yE7gsJa6SDQqwhWd8rUYKehy6NyMwwx7Mw/edit?usp=sharing) à partager avec le comité du CoC.
+- Au moins trois membres du comité du code de conduite (le groupe de réponse aux incidents (IRG)) se réunissent pour discuter de l'incident. Le document du rapport d'incident est communiqué à l'IRG avant cette réunion.
+- Un responsable de la réponse aux incidents (IRL) est désigné par l'IRG.
+- L'IRG détermine si l'incident s'est produit dans un espace de menuiserie et est donc approprié pour un examen.
+- L'IRG examine toutes les informations incluses dans le rapport d'incident et détermine si des informations supplémentaires sont nécessaires. Dans l'affirmative, ces informations sont demandées au journaliste.
+- L'IRL contacte le ou les déclarants pour organiser une réunion, si nécessaire. Au moins deux membres de l'IRG doivent être présents à la réunion avec le ou les déclarants.
+- Une réunion facultative avec le journaliste a lieu pour obtenir plus d'informations. Au moins deux membres de l'IRG devraient être présents à la réunion.
+- Après une collecte et un examen supplémentaires des informations, si nécessaire, l'IRG détermine une solution. Les [résolutions] possibles (#resolutions) se trouvent dans cette documentation et incluent, sans toutefois s'y limiter, une réprimande privée, une réprimande publique et une suspension qualifiée.
+- L'IRL informe le journaliste et sollicite des commentaires sur la résolution. Les commentaires peuvent être utilisés ou non pour mettre à jour la résolution.
+- L'IRL met à jour le ou les déclarants.
+- L'IRG organise une réunion/communication finale pour s'assurer que le déclarant comprend la résolution et a la possibilité de clarifier ses préoccupations.
+- L'agent de liaison de l'équipe principale détermine si la [liste de contrôle appelée suspension] (termed-suspension.md) doit être utilisée ou si d'autres mesures doivent être prises.
+- Le personnel essentiel est informé de la mise en œuvre de toute action. Les détails du rapport restent confidentiels.
+- Les décisions et les résultats sont enregistrés dans le référentiel privé GitHub du Comité du Code de conduite.
+- Le président du comité du code de conduite et la liaison avec le conseil d'administration rédigent un rapport de transparence.
 
-## Report Acknowledgement
+## Accusé de réception du rapport
 
-When a report is received, any one of the Code of Conduct committee members will reply to the reporter to confirm receipt. This reply will be sent within 24 hours of the incident being reported, and the CoCc will strive to respond much more quickly than that.
+Lorsqu'un rapport est reçu, l'un des membres du comité du code de conduite répondra au journaliste pour en accuser réception. Cette réponse sera envoyée dans les 24 heures suivant le signalement de l'incident, et le CoCC s'efforcera de répondre beaucoup plus rapidement que cela.
 
-For details about what the incident report should contain, see the [Incident Reporting Guidelines](incident-reporting.md). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on behalf of The Carpentries in contacting any individuals involved unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate.
+Pour plus de détails sur ce que doit contenir le rapport d'incident, consultez les [Directives de signalement des incidents] (incident-reporting.md). Si un rapport ne contient pas suffisamment d'informations, le comité tentera d'obtenir toutes les informations pertinentes pour résoudre l'incident. Le comité est habilité à agir au nom de The Carpentries en contactant toutes les personnes impliquées, sauf si le journaliste ne le demande pas. **La protection de la sécurité du journaliste est la priorité de tout signalement ou examen d'incident.** Le comité est également habilité à agir si l'un de ses membres prend connaissance d'un comportement persistant qui, pris dans son ensemble sur une longue période, est inapproprié.
 
-## Incident Response Assessment
+## Évaluation de la réponse aux incidents
 
-Upon receiving a report of an incident, at least three members of the CoCc will form the Incident Response Group (IRG). The IRG will meet to:
+À la réception d'un rapport d'incident, au moins trois membres du CoCC formeront le groupe de réponse aux incidents (IRG). L'IRG se réunira pour :
 
-- Assign an Incident Response Lead (IRL).
-- Review report documentation to determine the content and context of the incident.
-- Consult documentation of past incidents for patterns of behaviour (if available and applicable).
-- Discuss appropriate resolutions to the incident.
-- Determine the follow up actions for the reportee, reporter and anyone else named in the report who may have been impacted.
+- Désignez un responsable de la réponse aux incidents (IRL).
+- Passez en revue la documentation du rapport pour déterminer le contenu et le contexte de l'incident.
+- Consultez la documentation des incidents antérieurs pour connaître les modèles de comportement (si disponible et applicable).
+- Discutez des solutions appropriées à l'incident.
+- Déterminez les mesures de suivi à prendre pour la personne signalée, le journaliste et toute autre personne nommée dans le rapport qui pourrait avoir été touchée.
 
-The deliberations of the incident response assessment will be stored in the Code of Conduct Committee’s private GitHub repository.
+Les délibérations relatives à l'évaluation de la réponse aux incidents seront stockées dans le référentiel GitHub privé du Comité du code de conduite.
 
-The committee will aim to have a resolution agreed upon within one week of receipt of the incident response form. When a resolution cannot be determined in that time, the IRL will respond to the reporter(s) with an update and projected timeline for resolution.
+Le comité s'efforcera de parvenir à une solution dans la semaine suivant la réception du formulaire de réponse à l'incident. Lorsqu'une solution ne peut être déterminée dans ce délai, l'IRL répondra au (x) journaliste (s) avec une mise à jour et un calendrier prévisionnel de résolution.
 
-## Following up with the Reportee
+## Suivi auprès de la personne signalée
 
-When following up with the reportee, the CoCc representatives will:
+Lors du suivi auprès de la personne signalée, les représentants du CoCC devront :
 
-- Explain that an incident was reported that involves the reportee.
-- In this explanation, the focus will be on the impact of their behaviour, not their intent.
-- Reiterate the Code of Conduct and that their behaviour was deemed inappropriate.
-- Provide concrete examples of how they can improve their behaviour.
-- Give them the opportunity to state their view of the incident.
-- Remind them of the consequences of their behaviour, or future consequences if the behaviour is repeated.
-- Explain the possible resolutions that may be enforced should the CoCc determine there is a breach.
-- Conduct a final meeting to ensure that the reportee understands the resolution and has an opportunity to clarify concerns. In some cases, this final communication could be carried over email at the discretion of the IRG.
+- Expliquez qu'un incident impliquant la personne signalée a été signalé.
+- Dans cette explication, l'accent sera mis sur l'impact de leur comportement, et non sur leur intention.
+- Réitérer le code de conduite et indiquer que leur comportement a été jugé inapproprié.
+- Donnez des exemples concrets de la manière dont ils peuvent améliorer leur comportement.
+- Donnez-leur l'occasion d'exprimer leur point de vue sur l'incident.
+- Rappelez-leur les conséquences de leur comportement, ou les conséquences futures si le comportement se répète.
+- Expliquez les résolutions possibles qui pourraient être appliquées si le CoCC déterminait qu'il y a eu violation.
+- Organisez une dernière réunion pour vous assurer que la personne concernée comprend la résolution et a l'occasion de clarifier ses préoccupations. Dans certains cas, cette communication finale pourrait être transmise par courrier électronique à la discrétion de l'IRG.
 
-## Resolutions
+## Résolutions
 
-The committee must agree on a resolution by the majority of all members investigating the incident in question. If the committee cannot reach a majority decision and deadlocks for over one week, they will turn the matter over to the Board of Directors for resolution.
+Le comité doit se mettre d'accord sur une résolution adoptée par la majorité de tous les membres enquêtant sur l'incident en question. Si le comité ne parvient pas à une décision majoritaire et qu'il se trouve dans une impasse pendant plus d'une semaine, il soumettra la question au conseil d'administration pour résolution.
 
-What follows are examples of possible resolutions to an incident report. This list is not comprehensive, and The Carpentries Code of Conduct Committee reserves the right to take any action it deems necessary to resolve an incident. Possible resolutions to an incident include:
+Vous trouverez ci-dessous des exemples de solutions possibles à un rapport d'incident. Cette liste n'est pas exhaustive et le comité du code de conduite des charpenteries se réserve le droit de prendre toute mesure qu'il juge nécessaire pour résoudre un incident. Les solutions possibles à un incident sont notamment les suivantes :
 
-- Nothing, if the Code of Conduct committee determined there was no breach in the Code of Conduct.
-- A private verbal reprimand from the committee to the individual(s) involved.
-- This conversation may happen in person, over video conference call, or by phone.
-- The IRL will write a short report of the conversation to be shared with the reportee for verification purposes and then shared with the CoCc and maintained on record in the private GitHub repository.
-- A private emailed reprimand from the committee to the individual(s) involved.
-- The IRL will deliver a reprimand to the individual(s) over email, cc'ing the Code of Conduct Committee.
-- Requiring that the reportee avoid any interaction with, and physical proximity to, another person for the remainder of The Carpentries event.
-- Refusal of alcoholic beverage purchases by the reportee at Carpentries events.
-- Ending a talk that violates the Code of Conduct early.
-- Not publishing the video or slides of a talk that violated the Code of Conduct.
-- Not allowing a speaker who violated the Code of Conduct to give (further) talks at Carpentries workshops or events now or in the future.
-- Requiring that the reportee not volunteer for future Carpentries events either indefinitely or for a certain time period determined by the CoCc.
-- Requiring that the reportee refund any travel grant funding they received.
-- Requiring that the reportee immediately leave an event and not return.
-- Immediately ending any volunteer responsibilities and privileges the reportee holds.
-- A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.).
-- The CoCc may choose to publish this message elsewhere for posterity.
-- An imposed suspension (i.e. asking someone to "take a week off" from a listserv or The Carpentries’ GitHub repos).
-- The IRL will communicate this suspension to the reportee. They will be asked to take this suspension voluntarily, but if they do not agree, then a temporary ban may be imposed to enforce this suspension.
-- A permanent or temporary ban from some or all Carpentries spaces (listservs, GitHub, in-person events including workshops, etc).
-- The CoC committee will maintain records of all such bans so that they may be reviewed in the future, extended to new Carpentries communication forums, or otherwise maintained.
-- Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies.
+- Rien, si le comité du code de conduite a déterminé qu'il n'y avait aucune violation du code de conduite.
+- Une réprimande verbale privée de la part du comité à la ou aux personnes impliquées.
+- Cette conversation peut avoir lieu en personne, par vidéoconférence ou par téléphone.
+- L'IRL rédigera un bref compte rendu de la conversation qui sera partagé avec la personne signalée à des fins de vérification, puis partagé avec le CoCC et conservé dans le référentiel GitHub privé.
+- Un e-mail privé de réprimande envoyé par le comité à la ou aux personnes impliquées.
+- L'IRL enverra une réprimande à la ou aux personnes par courrier électronique, en s'adressant au comité du code de conduite.
+- Exiger que la personne signalée évite toute interaction avec une autre personne et toute proximité physique avec elle pendant le reste de l'événement The Carpentries.
+- Refus d'achats de boissons alcoolisées par le journaliste lors des événements de Carpentries.
+- Mettre fin prématurément à une discussion qui enfreint le Code de conduite.
+- Ne pas publier la vidéo ou les diapositives d'une conférence violant le Code de conduite.
+- Interdire à un orateur qui a enfreint le Code de conduite de donner (d'autres) conférences lors d'ateliers ou d'événements de Menuiseries, aujourd'hui ou à l'avenir.
+- Exiger que la personne signalée ne se porte pas volontaire pour les futurs événements de Carpentries, que ce soit indéfiniment ou pendant une certaine période déterminée par le CoCC.
+- Exiger que la personne signalée rembourse toute subvention de voyage qu'elle a reçue.
+- Exiger que la personne signalée quitte immédiatement un événement et n'y revienne pas.
+- Mettre fin immédiatement à toutes les responsabilités et privilèges de bénévole détenus par la personne signalée.
+- Annonce publique d'un incident, idéalement au même endroit que la violation s'est produite (c'est-à-dire sur la liste de diffusion pour une violation de liste ; GitHub pour une violation sur GitHub, etc.).
+- Le CoCC peut choisir de publier ce message ailleurs pour la postérité.
+- Une suspension imposée (c'est-à-dire demander à quelqu'un de « prendre une semaine de congé » sur une liste de diffusion ou sur les dépôts GitHub de The Carpentries).
+- L'IRL communiquera cette suspension à la personne signalée. Il leur sera demandé de prendre cette suspension volontairement, mais s'ils ne sont pas d'accord, une interdiction temporaire pourra être imposée pour faire appliquer cette suspension.
+- Une interdiction permanente ou temporaire de certains ou de tous les espaces de Carpentries (listes de diffusion, GitHub, événements en personne, y compris les ateliers, etc.).
+- Le comité CoC tiendra un registre de toutes ces interdictions afin qu'elles puissent être revues à l'avenir, étendues aux nouveaux forums de communication de Carpentries ou maintenues d'une autre manière.
+- Assistance au plaignant pour l'établissement d'un rapport à d'autres organes, par exemple les bureaux institutionnels ou les organismes chargés de l'application de la loi appropriés.
 
-Once a resolution is agreed upon, but before it is enacted, the IRL will contact the reporter and any other affected parties to explain the proposed resolution. The IRL will ask if this resolution is acceptable and must note feedback for the record. However, the CoC committee is not required to act on this feedback.
+Une fois qu'une résolution est convenue, mais avant qu'elle ne soit promulguée, l'IRL contactera le journaliste et toute autre partie concernée pour expliquer la résolution proposée. L'IRL demandera si cette résolution est acceptable et devra prendre note des commentaires pour le compte rendu. Cependant, le comité du CoC n'est pas tenu de donner suite à ces commentaires.
 
-## Appeal Process
+## Procédure d'appel
 
-Any individual(s) involved in a Code of Conduct report handled by CoC committee (CoCc) has the right to appeal a decision made by the committee. An appeal can be made directly to the CoCc (email: [coc@carpentries.org](mailto:coc@carpentries.org)) or to the ombudsperson (email: [confidential@carpentries.org](mailto:confidential@carpentries.org)) by sending an email with subject line **Code of Conduct Incident Appeal**.
+Toute personne impliquée dans un rapport de code de conduite traité par le comité du CoC (CoCC) a le droit de faire appel d'une décision prise par le comité. Un recours peut être déposé directement auprès du CoCC (e-mail : [coc@carpentries.org] (mailto:coc@carpentries.org)) ou auprès du médiateur (e-mail : [confidential@carpentries.org] (mailto:confidential@carpentries.org)) en envoyant un e-mail avec pour objet **Code of Conduct Incident Appeal**.
 
-The email should include documentation related to the incident to support the appeal. The said documentation may include, but does not have to be limited to:
+Le courrier électronique doit inclure la documentation relative à l'incident à l'appui de l'appel. Cette documentation peut inclure, sans toutefois s'y limiter :
 
-- Information from the reportee justifying reasoning for the appeal.
-- Letters of support from community members.
-- Statements from other individuals involved in the incident to support the appeal.
+- Informations fournies par la personne signalée justifiant la motivation de l'appel.
+- Lettres de soutien des membres de la communauté.
+- Déclarations d'autres personnes impliquées dans l'incident à l'appui de l'appel.
 
-Appeals can be requested up to 30 days after a resolution has been determined.
+Les appels peuvent être déposés jusqu'à 30 jours après qu'une solution a été déterminée.
 
-## Accountability
+## Responsabilité
 
-The CoC committee will submit a report to The Carpentries Board of Directors and The Carpentries Executive Director in the event of an ongoing resolution such as a termed suspension or ban.
+Le comité CoC soumettra un rapport au conseil d'administration de The Carpentries et au directeur exécutif de The Carpentries en cas de résolution en cours, telle qu'une suspension ou une interdiction temporaire.
 
-The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Board of Directors.
+Le comité du CoC ne discutera jamais publiquement des détails d'un incident ; toute déclaration publique sera faite par le conseil d'administration de The Carpentries.
 
-At the end of every quarter, the Board of Directors will publish an aggregated count of the incidents the Code of Conduct Committee reviewed, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and, for each of these, under which part of the Code of Conduct the incident was classified.
+À la fin de chaque trimestre, le conseil d'administration publiera un décompte agrégé des incidents examinés par le comité du code de conduite, indiquant le nombre de rapports qu'il a reçus, le nombre d'incidents sur lesquels il a enquêté de manière indépendante, le nombre de fois où il a agi unilatéralement et, pour chacun d'entre eux, dans quelle partie du code de conduite l'incident a été classé.
 
-## Conflicts of Interest
+## Conflits d'intérêts
 
-In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members and recuse themselves if necessary.
+En cas de conflit d'intérêts (un membre du comité, un membre de sa famille ou une personne avec laquelle le membre du comité entretient une relation universitaire ou professionnelle étroite est impliqué dans une plainte), le membre du comité doit immédiatement en informer les autres membres et se récuser si nécessaire.
 
-In the case that a CoCc member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the Code of Conduct committee.
+Dans le cas où un membre du CoCC est impliqué dans un signalement, il lui sera demandé de se retirer des conversations en cours, et il n'aura pas accès aux rapports une fois la décision d'exécution prise. Les mesures de résolution peuvent également inclure la révocation de ce membre du comité du code de conduite.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
