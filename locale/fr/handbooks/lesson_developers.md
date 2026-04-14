@@ -1,318 +1,315 @@
-# Lesson Developers Handbook
+# Manuel pour les développeurs de leçons
 
-## About This Handbook
+## À propos de ce manuel
 
-The Lesson Developers Handbook is designed to support members of The
-Carpentries community who are serving as a Lesson Developer. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Le manuel des développeurs de leçons est conçu pour aider les membres de la communauté The
+Carpentries qui travaillent en tant que développeurs de leçons. Il est géré par l'équipe du programme The Carpentries.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} ou ouvrez un numéro sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-Beyond ensuring that the lesson remains compliant with the requirements
-for inclusion in The Carpentries
-Incubator,
-there are no formal responsibilities associated with developing a lesson
-there: lesson projects in the Incubator are community efforts that
-belong to the individual developers contributing to them. These
-Developers can choose to manage them and commit time to them according
-to their preferences and availability.
+Au-delà de s'assurer que la leçon reste conforme aux exigences
+pour être incluse dans [The Carpentries
+Incubator] (https://github.com/carpentries-incubator/proposals/blob/main/README.md#what-are-the-requirements-for-being-included-in-the-carpentries-incubator),
+, aucune responsabilité officielle n'est associée à l'élaboration d'une leçon
+dans ce domaine : les projets de cours de l'incubateur sont des efforts communautaires et
+appartiennent aux développeurs individuels qui y contribuent. Ces développeurs
+peuvent choisir de les gérer et de leur consacrer du temps en fonction de
+en fonction de leurs préférences et de leurs disponibilités.
 
-To ensure the continuing health and sustainability of their lesson
-project, The Carpentries recommends that Lesson Developers make
-themselves responsible for the following tasks:
+Pour garantir la santé et la durabilité de leur projet de leçon
+, The Carpentries recommande aux développeurs de leçons de confier à
+la responsabilité des tâches suivantes :
 
-- Managing the design and development of the lesson.
-- Reading, responding to, and (where necessary) handling issues
-  reported by community members.
-- Welcoming and reviewing pull requests and other contributions made by
-  community members.
-- Communicating with the community about the ongoing development of the
-  lesson.
-- Recruiting Instructors to beta test the lesson, supporting
-  preparations for pilot workshops, and incorporating feedback from
-  those workshops.
-- Submitting the lesson for open peer review and acceptance to The
-  Carpentries Lab.
+- Gérer la conception et le développement de la leçon.
+- Lire, répondre et (si nécessaire) gérer les problèmes
+  signalés par les membres de la communauté.
+- Accueillir et examiner les pull requests et autres contributions faites par les membres de la communauté
+  .
+- Communiquer avec la communauté au sujet du développement en cours de la leçon
+  .
+- Recruter des instructeurs pour tester la leçon en version bêta, soutenir les préparatifs
+  pour les ateliers pilotes et intégrer les commentaires de
+  à ces ateliers.
+- Soumettre la leçon pour évaluation ouverte par les pairs et acceptation à [The
+  Carpentries Lab] (https://carpentries-lab.org).
 
-## Onboarding
+## Intégration
 
-Lesson Developers can start a new lesson any time by opening a new
-issue on The Carpentries Incubator Proposals
-repository.
-The issue template includes several questions, which should be answered
-to help the Curriculum Team set up the lesson repository correctly in
+Les développeurs de leçons peuvent commencer une nouvelle leçon à tout moment en ouvrant un nouveau numéro
+sur [le référentiel The Carpentries Incubator Proposals
+] (https://github.com/carpentries-incubator/proposals/issues/new?assignees=&labels=&template=issue_proposal.md).
+Le modèle de problème comprend plusieurs questions auxquelles il convient de répondre
+pour aider l'équipe chargée du programme à configurer correctement le référentiel des leçons dans
 the Incubator.
 
-Community members with an idea for a new lesson can also apply to join
-Collaborative Lesson Development Training, which will be scheduled
-periodically starting in 2023.
+Les membres de la communauté qui ont une idée de nouvelle leçon peuvent également s'inscrire pour participer à la formation de développement de leçons collaboratives
+, qui sera organisée périodiquement à
+à partir de 2023.
 
-## Offboarding
+## Débarquement
 
-There is no formal offboarding process for Lesson Developers working on
-projects in The Carpentries Incubator.
+Il n'existe pas de processus d'offboarding officiel pour les développeurs de leçons travaillant sur des projets
+dans The Carpentries Incubator.
 
-To ensure the continuing health and sustainability of the project, The
-Carpentries recommends that Lesson Developers take the following actions
-when stepping away from a lesson:
+Pour garantir la santé et la durabilité du projet, The
+Carpentries recommande aux développeurs de leçons de prendre les mesures suivantes
+lorsqu'ils quittent une leçon :
 
-- Communicate the decision to the other developers of the lesson, so
-  that they can redistribute tasks and plan the project accordingly.
-- Re-assign any issues assigned to them, to another member of the
-  lesson development team.
-- Remove their name from the lesson README file and anywhere else where
-  authors of the lesson are listed.
-- Ask the project owner (a developer with Admin access to the
-  repository) to revoke the outgoing developer’s privileges on the
-  lesson repository.
-- If the sole remaining developer of the lesson is leaving the project,
-  add a notice to the top of the repository README and the lesson front
-  page (`index.md`) to inform visitors that the lesson is not being
-  actively maintained/developed. In these circumstances, consider:
+- Communiquez la décision aux autres développeurs de la leçon, afin qu'ils puissent redistribuer les tâches et planifier le projet en conséquence.
+- Réattribuez tous les problèmes qui leur sont assignés à un autre membre de l'équipe de développement des leçons
+  .
+- Supprimez leur nom du fichier README de la leçon et de tout autre endroit où les auteurs
+  de la leçon sont répertoriés.
+- Demandez au propriétaire du projet (un développeur disposant d'un accès administrateur au référentiel
+  ) de révoquer les privilèges du développeur sortant sur le référentiel de leçons
+  .
+- Si le seul développeur restant de la leçon quitte le projet,
+  ajoute une notice en haut du référentiel README et à la première page
+  de la leçon (`index.md`) pour informer les visiteurs que la leçon n'est pas maintenue/développée activement
+  . Dans ces circonstances, considérez :
 
-  1. contacting the [Incubator administrator team](mailto:incubator@carpentries.org) to let them know that the lesson will be unmaintained, and
-  2. archiving the lesson repository.
+  1. en contactant [l'équipe administrative de l'incubateur] (mailto:incubator@carpentries.org) pour leur faire savoir que la leçon ne sera pas maintenue, et
+  2. archivage du référentiel des leçons.
 
-If the developers wish to remove the lesson from The Carpentries
-Incubator, the project owner (a developer with Admin access) can
-transfer the lesson repository out of the `carpentries-incubator`
-GitHub organisation via **Settings**->\ **General**->\ **Danger
-Zone**->\ **Transfer Ownership**.
+Si les développeurs souhaitent supprimer la leçon de l'incubateur The Carpentries
+, le propriétaire du projet (un développeur ayant un accès administrateur) peut transférer le référentiel des leçons hors de l'organisation GitHub
+de « carpentries-incubator\` via **Settings**-> \ **General**-> \ **Danger
+Zone**-> \ **Transférer la propriété**.
 
-## Communication and Collaboration Spaces
+## Espaces de communication et de collaboration
 
-### Community Calendar
+### Calendrier communautaire
 
-Once scheduled, all Lesson Development Coworking Sessions are listed on
-our Community
-Calendar. You
-can add relevant events to your personal calendar from there by clicking
-on the event you would like to attend.
+Une fois planifiées, toutes les sessions de coworking pour le développement des leçons sont répertoriées sur
+, notre [Calendrier communautaire
+] (https://carpentries.org/community/events/). Vous pouvez ajouter des événements pertinents à votre calendrier personnel
+à partir de là en cliquant sur
+sur l'événement auquel vous souhaitez participer.
 
 ### Etherpad
 
-The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
+The Carpentries utilise [Etherpad] (/resources/communications/etherpads.md) comme outil de prise de notes collaboratif lors d'ateliers, de formations et d'autres événements liés à la menuiserie. Vous trouverez ci-dessous une liste d'Etherpads pertinents pour le rôle de développeur de leçons.
 
-- [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of
-  our most commonly used Etherpads and other resources.
-- Lesson Development Coworking Session
-  Notes: Signup
-  information, connection details, and notes taken from monthly
-  coworking sessions (CodiMD),
+- [Pad-of-Pads] (https://pad.carpentries.org/pad-of-pads) : Une liste de
+  de nos Etherpads les plus couramment utilisés et d'autres ressources.
+- [Notes de la session de coworking
+  sur le développement de la leçon] (https://codimd.carpentries.org/lessondev-coworking) : informations d'inscription
+  , détails de connexion et notes prises lors des sessions de coworking mensuelles
+  (CodiMD),
 
 ### GitHub
 
-- The Carpentries Incubator Proposals
-  repository: a
-  place for The Carpentries community to propose new lessons for
-  development in the Incubator.
-- The Carpentries Lab Reviews
-  repository: a place
-  for Lesson Developers to submit lessons for open peer review and
-  acceptance to The Carpentries Lab.
+- [Le référentiel
+  des propositions de l'incubateur Carpentries] (https://github.com/carpentries-incubator/proposals) : un endroit
+  permettant à la communauté The Carpentries de proposer de nouvelles leçons pour le développement de
+  dans l'incubateur.
+- [Le référentiel
+  de The Carpentries Lab Reviews] (https://github.com/carpentries-lab/reviews) : un endroit
+  où les développeurs de leçons peuvent soumettre leurs leçons pour une évaluation ouverte par les pairs et une acceptation
+  à The Carpentries Lab.
 
 ### Slack
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
+{{'[Rejoignez l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}}. Pour suivre les conversations relatives à ce rôle, vous devez rejoindre les canaux suivants :
 
-- The #lesson-dev channel on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson development.
-- We recommend that Lesson Developers browse existing channels in the
-  Slack workspace, for any that are relevant to the topic/domain of
-  their lesson.
-- It can also be helpful to create a new channel for your lesson, as a
-  space for you to discuss the development process with collaborators,
-  and for community members to ask questions about the lesson.
+- La chaîne #lesson -dev de l'espace de travail Slack de The Carpentries est une plateforme permettant à l'ensemble de la communauté de poser des questions et de participer à des discussions sur le thème de l'élaboration des leçons.
+- Nous recommandons aux développeurs de leçons de parcourir les chaînes existantes dans l'espace de travail Slack
+  , pour trouver celles qui sont pertinentes pour le sujet/le domaine de
+  de leur leçon.
+- Il peut également être utile de créer une nouvelle chaîne pour votre leçon, sous forme d'espace
+  pour discuter du processus de développement avec vos collaborateurs,
+  et pour que les membres de la communauté puissent poser des questions sur la leçon.
 
-If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will help you to set up your profile and give you an overview of how we use the platform on a day-to-day basis.
+Si vous êtes nouveau sur Slack, notre {{"[Slack Guide] ({}) » .format (slack_guide)}} vous aidera à configurer votre profil et vous donnera un aperçu de la façon dont nous utilisons la plateforme au quotidien.
 
-### Mailing List
+### Liste de diffusion
 
-You can access The Carpentries mailing lists from
-[TopicBox](https://carpentries.topicbox.com/latest). The
-[incubator-developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers)
-is the one relevant to serving in this role.
+Vous pouvez accéder aux listes de diffusion de The Carpentries à l'adresse
+[TopicBox] (https://carpentries.topicbox.com/latest). La
+[liste de diffusion des développeurs de l'incubateur] (https://carpentries.topicbox.com/groups/incubator-developers)
+est celle qui convient à l'exercice de ce rôle.
 
-To join one or more Carpentries mailing lists, you will need to [create a login on the site](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Pour rejoindre une ou plusieurs listes de diffusion de Carpentries, vous devez [créer un identifiant sur le site] (https://carpentries.topicbox.com/latest). Une fois cela fait, vous pouvez faire défiler la liste des groupes et cliquer sur « Rejoindre la conversation » (pour les envois ouverts) ou sur « Demander à participer » (pour les listes de diffusion nécessitant l'approbation de l'administrateur). Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
 
-## Step-by-Step Guides
+## Guides étape par étape
 
-### Using Issue Labels to Promote Collaboration
+### Utiliser les libellés des numéros pour promouvoir la collaboration
 
-GitHub allows the maintainers of a repository to add contextual
-information to Issues and Pull Requests in the form of labels.
-[The Carpentries uses an extended set of issue labels on its lesson repositories](../resources/curriculum/issue-labels.md).
+GitHub permet aux responsables d'un dépôt d'ajouter des informations contextuelles
+aux Issues et aux Pull Requests sous forme de labels.
+[The Carpentries utilise un ensemble étendu d'étiquettes de numéros dans ses référentiels de leçons] (../resources/curriculum/issue-labels.md).
 
-Two labels, used by The Carpentries and in many repositories across GitHub,
-can be deployed to increase the visibility of your lesson and encourage
-community members to contribute to its development.
+Deux labels, utilisés par The Carpentries et dans de nombreux référentiels de GitHub,
+peuvent être déployés pour augmenter la visibilité de votre leçon et encourager les membres de la communauté
+à contribuer à son développement.
 
-The **“help wanted”** label should be used to highlight issues with
-which you would welcome additional help. The Carpentries website
-includes a Help Wanted
-page, which can
-automatically list every issue labelled “help wanted” on repositories
-from The Carpentries, Software Carpentry, Data Carpentry, Library
-Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
-to include issues from your lesson repository on the Help Wanted page by
-reviewing the Information for
-Maintainers
-on the page itself.
+L'étiquette \*\* « help wanted » \*\* doit être utilisée pour mettre en évidence les problèmes liés à
+pour lesquels vous souhaiteriez obtenir une aide supplémentaire. Le site web de Carpentries
+comprend une [page Help Wanted
+] (https://carpentries.org/help-wanted-issues/), qui peut
+répertorier automatiquement tous les problèmes étiquetés « aide recherchée » sur les référentiels
+provenant de The Carpentries, Software Carpentry, Data Carpentry, Library
+Carpentry, CarpentriesLab et The Carpentries Incubator. Découvrez comment
+peut inclure les problèmes de votre référentiel de leçons sur la page Help Wanted en passant en revue les [Informations pour les responsables de
+] (https://carpentries.org/help-wanted-issues/#for-maintainers)
+sur la page elle-même.
 
-The **“good first issue”** label should be used to identify issues that
-would make a good entry point for newcomers searching for a way to
-contribute to your lesson. The work needed to close an issue with this
-label would typically not require an extensive knowledge of the
-structure or intricacies of your lesson repository, or an expert
-understanding of the content. The “good first issue” label is used so
-extensively that GitHub provides a page at\ `[repository
-URL]/contribute <https://github.com/swcarpentry/r-novice-gapminder/contribute>`__
-for every repository, listing issues with this label.
+L'étiquette \*\* « bon premier numéro » \*\* doit être utilisée pour identifier les problèmes pour lesquels
+constituerait un bon point d'entrée pour les nouveaux arrivants qui cherchent un moyen d'apporter
+à votre leçon. Le travail nécessaire pour résoudre un problème avec cette étiquette
+ne nécessite généralement pas une connaissance approfondie de la structure
+ou des subtilités de votre référentiel de leçons, ni une compréhension experte
+du contenu. L'étiquette « bon premier numéro » est tellement utilisée
+que GitHub propose une page à l'adresse \ `[repository
+URL] /contribute <https://github.com/swcarpentry/r-novice-gapminder/contribute>`__
+pour chaque référentiel, répertoriant les problèmes liés à cette étiquette.
 
-### Adding Topic Tags to a Lesson Repository
+### Ajouter des balises de sujet à un référentiel de leçons
 
-{{'[Official Lessons in The Carpentries Lesson Programs]({}/lessons/)'.format(carpentries_website)}} are listed on The Carpentries website, based on metadata describing the lesson. This metadata is added in the form of topic tags on the lesson repository. These topic tags should be set as soon as possible after the lesson has been created or added to the Incubator. Some are essential and taken from a limited set of values, while others are more flexible. The table below has guidance about the types and number of topic tags each lesson repository should have.
+{{'[Official Lessons in The Carpentries Lesson Programs] ({}/lessons/) '.format (carpentries_website)}} sont répertoriés sur le site Web de The Carpentries, sur la base des métadonnées décrivant la leçon. Ces métadonnées sont ajoutées sous forme de balises thématiques dans le référentiel des leçons. Ces balises thématiques doivent être définies dès que possible après la création de la leçon ou son ajout à l'incubateur. Certaines sont essentielles et proviennent d'un ensemble limité de valeurs, tandis que d'autres sont plus flexibles. Le tableau ci-dessous fournit des indications sur les types et le nombre de balises thématiques que chaque référentiel de leçons doit avoir.
 
-| Category | Example                  | Number | Description                                                                                                                                                                                   |
-| -------- | ------------------------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lesson   | lesson                   | 1      | Must be lesson to be listed on the Community Developed Lessons page                                                                                                                           |
-| Location | data-carpentry           | 1      | A description of what lesson program the lesson belongs to with words separated by hyphens (i.e software-carpentry, data-carpentry, and library-carpentry) |
-| Language | español                  | > 0    | The language(s) the lesson is available in                                                                                                                                 |
-| Stage    | stable                   | 1      | The current development stage for the lesson                                                                                                                                                  |
-| Domain   | microbial-ecology        | 1-2    | The high-level domain(s) of the lesson for a general categorization                                                                                                        |
-| Tools    | python                   | 1-3    | The main tool(s) taught in the lesson                                                                                                                                      |
-| Skills   | taxonomic-classification | 1-3    | The main skill(s) taught in the lesson                                                                                                                                     |
+| Catégorie   | Exemple                    | Numéro | Descriptif                                                                                                                                                                                                          |
+| ----------- | -------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leçon       | leçon                      | 1      | Doit être une leçon pour figurer sur la page des leçons développées par la communauté                                                                                                                               |
+| Lieu        | menuiserie de données      | 1      | Une description du programme de leçon auquel appartient la leçon, avec des mots séparés par des tirets (c'est-à-dire menuiserie logicielle, menuiserie de données et menuiserie de bibliothèque) |
+| Langue      | espagnol                   | > 0    | La ou les langues dans lesquelles la leçon est disponible                                                                                                                                                           |
+| Étape       | écurie                     | 1      | Le stade de développement actuel de la leçon                                                                                                                                                                        |
+| Domaine     | écologie microbienne       | 1 à 2  | Le ou les domaines de haut niveau de la leçon pour une catégorisation générale                                                                                                                                      |
+| Outils      | python                     | 1 à 3  | Le ou les principaux outils enseignés dans la leçon                                                                                                                                                                 |
+| Compétences | classification taxonomique | 1 à 3  | La ou les compétences principales enseignées dans la leçon                                                                                                                                                          |
 
-The Curriculum Team will support you in setting appropriate topic tags
-for your lesson. To help ensure consistency across all lesson
-repositories developed by The Carpentries community, please refer
-to [this listing](https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing)
-of topic tags currently in use in The Carpentries Incubator, and re-use
-these values where appropriate, creating new topic tags where no
-pre-existing label exists for your lesson.
+L'équipe du programme vous aidera à définir les balises thématiques
+appropriées pour votre leçon. Pour garantir la cohérence de tous les référentiels de leçons
+développés par la communauté The Carpentries, veuillez vous référer
+à [cette liste] (https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit?usp=sharing)
+des balises thématiques actuellement utilisées dans The Carpentries Incubator, et réutilisez
+ces valeurs le cas échéant, en créant de nouvelles balises de sujet sans
+étiquette préexistante pour votre leçon.
 
-### [How to Organise a Lesson Development Sprint](/resources/curriculum/lesson-sprint-recommendations.md)
+### [Comment organiser un sprint de développement de leçons] (/resources/curriculum/lesson-sprint-recommendations.md)
 
-Many Lesson Developers find it helpful to organise a dedicated event to make progress and enhance collaboration on their lesson projects.
-This resource provides a set of recommendations for how to organise an effective and inclusive lesson development sprint event.
+De nombreux développeurs de leçons trouvent utile d'organiser un événement dédié pour progresser et améliorer la collaboration sur leurs projets de cours.
+Cette ressource fournit un ensemble de recommandations sur la manière d'organiser un sprint de développement de leçons efficace et inclusif.
 
-### Promoting Your Project in The Incubator Lesson Spotlight
+### Promouvoir votre projet dans le cadre de The Incubator Lesson Spotlight
 
-The Incubator Lesson Spotlight is a regular feature in The Carpentries
-blog and newsletter, highlighting a lesson currently under community
-development. The purpose of the Spotlight series is to raise the
-visibility of that lesson among the broader community, and to encourage
-community members to contribute to the further development of that
-lesson.
+The Incubator Lesson Spotlight est un article régulier du blog et de la newsletter
+de The Carpentries, mettant en lumière une leçon actuellement en cours de développement par la communauté
+. L'objectif de la série Spotlight est d'accroître la visibilité
+de cette leçon auprès de l'ensemble de la communauté et d'encourager les membres de la communauté
+à contribuer au développement ultérieur de cette leçon
+.
 
-Any lesson in The Carpentries
-Incubator is eligible to
-be included in the series, regardless of the stage of development that
-lesson is currently in. It is a good way for lessons in the early stages
-of development to attract new collaborators, and for those in later
-stages to invite others to informally review the lesson and to try
-teaching the material. To submit your lesson to be featured in the
-series, follow the steps below.
+Toutes les leçons de [The Carpentries
+Incubator] (https://github.com/carpentries-incubator/) peuvent être incluses dans la série
+, quel que soit le stade de développement actuel de la leçon
+. C'est un bon moyen pour les leçons des premiers stades
+du développement d'attirer de nouveaux collaborateurs, et pour celles des étapes ultérieures
+d'inviter d'autres personnes à revoir la leçon de manière informelle et à essayer
+d'enseigner la matière. Pour soumettre votre leçon afin qu'elle figure dans la série
+, suivez les étapes ci-dessous.
 
-1. Think about how you can prepare your lesson for new contributors
-   before the feature is published. This might mean labelling existing
-   issues (e.g. to appear on the Help Wanted
-   page) or creating
-   new ones, making sure that your CONTRIBUTING.md is up-to-date, and/or
-   planning publication of the Spotlight feature to fit with a
-   relatively quiet period in your schedule so that you can respond
-   promptly to any new issues and pull requests.
-2. Fill in the Incubator Lesson Spotlight content submission
-   form,
-   providing details of the lesson to be included in the feature. It may
-   be beneficial to collaborate on this content with other developers
-   working on the lesson. The Carpentries Core Team will use the content
-   provided in the form to create a post for The Carpentries
-   blog and an item for
-   the [Carpentries Clippings newsletter](https://carpentries.org/newsletter/).
-3. When the blog post has been drafted, a pull request will be opened to
-   add that post to the website. You will be tagged for an (optional)
-   review of this pull request before it is published. To review the
-   blog post, read through the post content and comment on the issue
-   thread to request any changes to the feature.
+1. Réfléchissez à la manière dont vous pouvez préparer votre leçon pour les nouveaux contributeurs
+   avant la publication de la fonctionnalité. Cela peut impliquer d'étiqueter les problèmes
+   existants (par exemple pour qu'ils apparaissent sur [la page Help Wanted
+   ] (https://carpentries.org/help-wanted-issues/)) ou d'en créer
+   nouveaux, en vous assurant que votre fichier CONTRIBUTING.md est à jour, et/ou
+   en planifiant la publication de la fonctionnalité Spotlight pour qu'elle corresponde à une période relativement calme de
+   de votre emploi du temps afin de pouvoir répondre
+   rapidement à tout nouveau problème et à toute demande d'extraction.
+2. Remplissez le [formulaire
+   de soumission du contenu de Incubator Lesson Spotlight] (https://docs.google.com/forms/d/e/1FAIpQLScJimGMtzqAFE-Tii-LvbfGZqtKj0OC4ken7_Qdlta8uZXAUA/viewform),
+   en fournissant les détails de la leçon à inclure dans la fonctionnalité. Il peut être bénéfique de collaborer sur ce contenu avec d'autres développeurs
+   travaillant sur la leçon.
+   L'équipe principale de Carpentries utilisera le contenu
+   fourni dans le formulaire pour créer un article pour [le blog The Carpentries
+   ] (https://carpentries.org/blog/) et un article pour
+   la [newsletter Carpentries Clippings] (https://carpentries.org/newsletter/).
+3. Une fois le billet de blog rédigé, une pull request sera ouverte pour
+   ajouter cet article au site Web. Vous serez tagué pour une révision (optionnelle)
+   de cette pull request avant sa publication. Pour consulter le billet de blog
+   , lisez le contenu de l'article et commentez le fil de discussion
+   pour demander des modifications à la fonctionnalité.
 
-### Submitting a Lesson to The Carpentries Lab
+### Soumettre une leçon à The Carpentries Lab
 
-The Carpentries Lab hosts community-developed lessons that have been
-peer reviewed and can be relied upon by Instructors to meet a high
-standard of quality and stability. The Lab provides a platform for open
-peer review of lessons, and to promote the lessons that have entered the
-collection.
+Le Carpentries Lab propose des leçons développées par la communauté qui ont été évaluées par des pairs
+et sur lesquelles les instructeurs peuvent compter pour répondre à la norme
+élevée de qualité et de stabilité. Le Lab fournit une plate-forme pour l'évaluation ouverte des leçons par les pairs
+et pour promouvoir les leçons qui ont été intégrées à la collection
+.
 
-To submit a lesson for peer review in The Carpentries Lab, follow these
-steps:
+Pour soumettre une leçon à une évaluation par les pairs dans The Carpentries Lab, suivez ces étapes
+ :
 
-1. Check the eligibility criteria for lessons to be reviewed in the
-   Lab.
-2. Open a new issue on the Reviews
-   repository
-   and answer the questions in the issue template to tell the Editors
-   about the lesson.
+1. Vérifiez les [critères d'éligibilité pour les leçons à réviser dans le laboratoire
+   ] (https://github.com/carpentries-lab/reviews#what-makes-a-lesson-a-good-candidate-for-the-carpentries-lab).
+2. Ouvrez un nouveau numéro dans le [référentiel Reviews
+   ] (https://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+)
+   et répondez aux questions du modèle de numéro pour informer les rédacteurs
+   de la leçon.
 
-### [Piloting a Lesson](/resources/curriculum/lesson-pilots.md)
+### [Piloter une leçon] (/resources/curriculum/lesson-pilots.md)
 
-Teaching a lesson for the first time is very rewarding, but the experience of the Instructors and learners also identifies opportunities to address and further clarify parts of the content.
-This makes early lesson teachings, which we refer to as _lesson pilots_, crucial milestones in the development of a high-quality lesson.
-This resource provides more information about how to test a new lesson in workshops, how these pilot workshops align with [the Lesson Life Cycle](/resources/curriculum/lesson-life-cycle.md), and guidance on logistics, gathering relevant feedback, etc.
+Enseigner une leçon pour la première fois est très enrichissant, mais l'expérience des professeurs et des apprenants permet également d'aborder et de clarifier certaines parties du contenu.
+Cela fait des enseignements précoces, que nous appelons _pilotes de leçon_, des étapes cruciales dans le développement d'une leçon de haute qualité.
+Cette ressource fournit plus d'informations sur la manière de tester une nouvelle leçon dans le cadre d'ateliers, sur la manière dont ces ateliers pilotes s'alignent sur [le cycle de vie de la leçon] (/resources/curriculum/lesson-life-cycle.md), et des conseils sur la logistique, la collecte de commentaires pertinents, etc.
 
-## Resources
+## Ressources
 
-### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
+### [Présentation de The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/)
 
-Documentation for The Carpentries Workbench, open source infrastructure
-for lesson websites. The documentation explains how to install the
-Workbench so that Lesson Developers can edit and preview their lessons
-on their own computer, how to initialise a new lesson and use the
-various elements of the lesson template, and how to keep up to date with
-the latest changes to the infrastructure.
+Documentation pour The Carpentries Workbench, infrastructure open source
+pour les sites Web de cours. La documentation explique comment installer le Workbench
+afin que les développeurs de leçons puissent modifier et prévisualiser leurs leçons
+sur leur propre ordinateur, comment initialiser une nouvelle leçon et utiliser les différents éléments
+du modèle de leçon, et comment se tenir au courant avec
+des dernières modifications apportées à l'infrastructure.
 
-### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
+### [Programme de formation pour l'élaboration de leçons en collaboration] (https://carpentries.github.io/lesson-development-training/)
 
-A lesson designed to teach skills and good practices in lesson design,
-lesson website development, and collaboration via GitHub. Community
-members can apply to join this training, and/or follow the curriculum in
-their own time.
+Une leçon conçue pour enseigner les compétences et les bonnes pratiques en matière de conception de leçons, de développement de sites Web de leçons
+et de collaboration via GitHub. Les membres de la communauté
+peuvent s'inscrire pour participer à cette formation et/ou suivre le programme en
+à leur rythme.
 
-### [Choosing a Narrative and Dataset for a Lesson](/resources/curriculum/narrative-example-data.md)
+### [Choisir un récit et un ensemble de données pour une leçon] (/resources/curriculum/narrative-example-data.md)
 
-Guidance for lesson developers when choosing a narrative for their lesson and example data to include in it.
-Includes lists of points to consider when choosing a narrative and example dataset, and associated information about licensing and the publication of data.
+Conseils pour les concepteurs de leçons lorsqu'ils choisissent un récit pour leur leçon et exemples de données à y inclure.
+Comprend des listes de points à prendre en compte lors du choix d'un jeu de données narratif et d'exemple, ainsi que des informations associées sur les licences et la publication de données.
 
-### [Pilot Workshop Feedback Survey Template](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
+### [Modèle de sondage de feedback sur l'atelier pilote] (https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
 
-The standard Carpentries pre- and post-workshop surveys do not support
-lesson pilots so you will need to create your own surveys to send out
-before/after a pilot workshop. Although surveys for pilot workshops will
-frequently include questions that are specific to the particular lesson
-being piloted, there are some standard feedback questions that can be
-asked after a pilot to assess the design and flow of the lesson. This
-template post-pilot workshop
-survey
-can be copied and adapted to suit the needs of your lesson, and shared
-with learners in place of the standard post-workshop survey.
+Les enquêtes standard de Carpentries avant et après les ateliers ne prennent pas en charge les leçons pilotes
+. Vous devrez donc créer vos propres enquêtes pour envoyer
+avant/après un atelier pilote. Bien que les enquêtes pour les ateliers pilotes incluent fréquemment des questions spécifiques à la leçon
+en cours de projet pilote, certaines questions de feedback standard peuvent être posées
+après un projet pilote afin d'évaluer la conception et le déroulement de la leçon.
+Cette enquête
+[modèle d'enquête post-atelier pilote
+] (https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
+peut être copiée et adaptée aux besoins de votre leçon, et partagée
+avec les apprenants à la place de l'enquête standard post-atelier.
 
-### [Lesson Pilot Workshops](/resources/curriculum/lesson-pilots.md)
+### [Ateliers pilotes de leçons] (/resources/curriculum/lesson-pilots.md)
 
-Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
+Informations expliquant pourquoi et comment nous testons de nouvelles leçons dans le cadre d'ateliers, y compris des conseils et des modèles à utiliser pour les animateurs et les instructeurs des ateliers pilotes.
 
-### Beta Announcement Templates
+### Modèles d'annonces bêta
 
-A template beta announcement blog
-post
-and template beta announcement email
-message
-to publicise the beta version of a lesson. These can be used to call for
-community members to volunteer to host a beta pilot workshop to aid the
-ongoing development of the lesson.
+Un [article
+sur le blog d'annonce bêta] (https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing)
+et un [modèle d'annonce bêta par e-mail
+] (https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing)
+pour faire connaître la version bêta d'une leçon. Ils peuvent être utilisés pour appeler les membres de la communauté
+à se porter volontaires pour animer un atelier pilote bêta afin de faciliter le développement continu de la leçon
+.
 
-### [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md)
+### [Matériel d'intégration au programme] (/resources/curriculum/curriculum_onboarding.md)
 
-Guidance for developing materials that will help instructors prepare to teach your new lesson or curriculum.
+Conseils pour l'élaboration de matériel qui aidera les professeurs à se préparer à enseigner votre nouvelle leçon ou votre nouveau programme.
 
-### [Lesson Release Process](/resources/curriculum/lesson-release.md)
+### [Processus de publication des leçons] (/resources/curriculum/lesson-release.md)
 
-A description of how to prepare a lesson release and publish it to Zenodo.
+Description de la façon de préparer un communiqué de leçon et de le publier sur Zenodo.
 
