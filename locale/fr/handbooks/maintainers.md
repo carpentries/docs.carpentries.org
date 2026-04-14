@@ -1,382 +1,380 @@
-# Maintainers Handbook
+# Manuel des mainteneurs
 
-## About This Handbook
+## À propos de ce manuel
 
-The Maintainers Handbook is designed to support members of The
-Carpentries community who are serving as a Lesson Maintainer. It is maintained by The Carpentries Curriculum Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Curriculum Team](mailto:{})'.format(curriculum_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Le manuel des mainteneurs est conçu pour aider les membres de la communauté The
+Carpentries qui jouent le rôle de mainteneur de leçons. Il est géré par l'équipe du programme The Carpentries.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[Curriculum Team] (mailto:{}) '.format (curriculum_email)}} ou ouvrez un numéro sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
-## Introduction
+## Présentation
 
-The Carpentries Maintainers work with the community to ensure
-lessons stay up-to-date, accurate, functional and cohesive. Maintainers
-monitor their lesson repository, ensure that pull requests and issues
-are addressed on time, and participate in the lesson
-development cycle including lesson releases. They endeavour to be
-welcoming and supportive of contributions from all members of the
-community. This community of practice is a great place to learn to
-collaborate effectively in Git and GitHub.
+The Carpentries Maintainers travaille avec la communauté pour s'assurer que les leçons
+restent à jour, précises, fonctionnelles et cohérentes. Les responsables
+surveillent leur référentiel de leçons, s'assurent que les demandes d'extraction et les problèmes
+sont résolus à temps et participent au cycle de développement de la leçon
+, y compris aux publications des leçons. Ils s'efforcent d'être
+en accueillant et en soutenant les contributions de tous les membres de la communauté
+. Cette communauté de pratique est l'endroit idéal pour apprendre à collaborer efficacement avec
+sur Git et GitHub.
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-The Carpentries teaches 400–600 workshops each year, meaning our lesson
-materials are being used practically every day for synchronous, guided
-learning. Making sure our lessons keep working without interruptions is
-therefore our number one goal for maintenance.
+The Carpentries propose 400 à 600 ateliers par an, ce qui signifie que les matériaux de notre leçon
+sont utilisés pratiquement tous les jours pour un apprentissage synchrone et guidé
+. Faire en sorte que nos leçons continuent de fonctionner sans interruption est
+, d'où notre objectif numéro un en matière de maintenance.
 
-A secondary (but still extremely important!) goal is ensuring that the
-spaces we use for lesson development and maintenance are just as
-welcoming and inclusive as our workshops.
+Un secondaire (mais toujours extrêmement important !) L'objectif est de faire en sorte que les espaces
+que nous utilisons pour le développement et la maintenance des leçons soient aussi accueillants et inclusifs
+que nos ateliers.
 
-Ensuring that our lessons are on the cutting edge of new technology and
-tooling is _not_ a priority for The Carpentries. Although we do want our
-materials to stay relevant, it is far more important that our lessons
-remain pedagogically sound and technically viable, than that they
-represent the latest and greatest new developments in the field.
+Veiller à ce que nos cours soient à la pointe des nouvelles technologies et que l'outillage
+n'est _pas_ une priorité pour The Carpentries. Bien que nous souhaitions que notre matériel
+reste pertinent, il est bien plus important que nos leçons
+restent solides sur le plan pédagogique et techniquement viables, plutôt que de s'assurer qu'elles
+représentent les derniers et les plus grands développements dans le domaine.
 
-With these goals in mind, The Carpentries' expectations of Maintainers
-are to:
+Avec ces objectifs à l'esprit, The Carpentries attend de Maintainers
+les suivantes :
 
-- Monitor the lesson repository and make sure that pull requests (PRs) and Issues are responded to promptly (even if that response is “sorry, this is out of scope”).
-- Not introduce new errors into the lesson.
-- Quickly fix anything that is unambiguously an error or that    negatively affects workshop learners.
-- Be receptive and welcoming to suggestions for improving the lessons.
-- Evaluate all contributions given The Carpentries pedagogical model:
-  - Teach what is most relevant and useful for learners.
-  - Avoid unnecessary jargon and detailed explanations. Always ask
-    yourself whether it is necessary for the learner.
-  - Keep language motivating.
-  - Meet learners where they are.
-  - Emphasise the importance of continued learning and improvement.
+- Surveillez le référentiel des leçons et assurez-vous que les demandes d'extraction (PR) et les problèmes reçoivent une réponse rapide (même si cette réponse est « désolé, c'est hors de portée »).
+- Ne pas introduire de nouvelles erreurs dans la leçon.
+- Corrigez rapidement tout ce qui constitue clairement une erreur ou qui affecte négativement les apprenants de l'atelier.
+- Soyez réceptifs et accueillants aux suggestions visant à améliorer les leçons.
+- Évaluez toutes les contributions apportées au modèle pédagogique de The Carpentries :
+  - Enseignez ce qui est le plus pertinent et le plus utile pour les apprenants.
+  - Évitez le jargon inutile et les explications détaillées. Demandez-vous toujours
+    si c'est nécessaire pour l'apprenant.
+  - Faites en sorte que le langage soit motivant.
+  - Rencontrez les apprenants là où ils se trouvent.
+  - Soulignez l'importance de l'apprentissage et de l'amélioration continus.
 
-Maintainers are responsible for:
+Les responsables de la maintenance sont chargés de :
 
-- Routinely:
-  - Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
-  - Quickly addressing issues and PRs tagged as “bug”s.
-  - Submitting Issues as they arise.
-  - Adhering to the Code of Conduct and alerting the Code of Conduct Committee to any potential violations.
-  - Identifying potential new Maintainers based on their review   activity.
+- Régulièrement :
+  - Garantir un temps de réponse raisonnable à tous les problèmes et PR soumis. Au minimum, assurez-vous que tous les problèmes et les relations publiques sont reconnus dans les deux jours.
+  - Résoudre rapidement les problèmes et les PR marqués comme des « bugs ».
+  - Soumettre les problèmes au fur et à mesure qu'ils surviennent.
+  - Adhérer au code de conduite et alerter le comité du code de conduite de toute violation potentielle.
+  - Identifier de nouveaux mainteneurs potentiels en fonction de leur activité de révision.
 
-- Periodically:
-  - Helping prepare lessons for publication.
-  - Bringing in updates to the lesson template.
+- Périodiquement :
+  - Aider à préparer les leçons en vue de leur publication.
+  - Apporter des mises à jour au modèle de leçon.
 
-Maintainers represent The Carpentries community and should strive to
-embody The Carpentries philosophy, by:
+Les responsables représentent la communauté The Carpentries et devraient s'efforcer de faire en sorte que
+incarne la philosophie de The Carpentries en :
 
-- Recognising the importance of communication and being welcoming to
-  all contributors.
+- Reconnaître l'importance de la communication et accueillir tous les contributeurs sur
+  .
 
-- Giving feedback to contributors using The Carpentries model:
+- Faire part de leurs commentaires aux contributeurs en utilisant le modèle The Carpentries :
 
-  - Find what’s good. Be specific about improvements needed. Use
-    motivational language.
+  - Trouvez ce qui est bon. Soyez précis en ce qui concerne les améliorations nécessaires. Utilisez le langage de motivation
+    .
 
-- Evaluating lesson contributions in light of Carpentries pedagogical model:
+- Évaluation des contributions aux leçons à la lumière du modèle pédagogique de Carpentries :
 
-  - Teach what’s most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keep language motivating.
-  - Emphasise the importance of continued learning and improvement.
+  - Enseignez ce qui est le plus pertinent et le plus utile pour les apprenants.
+  - Évitez de vous enliser dans les détails techniques.
+  - Faites en sorte que le langage soit motivant.
+  - Soulignez l'importance de l'apprentissage et de l'amélioration continus.
 
-## Onboarding
+## Intégration
 
-New Maintainers go through an onboarding process, led by a member of The Carpentries Curriculum Team and the Maintainer Community Lead. Maintainer Onboarding takes place at least once per year. New rounds of onboarding will be announced on The Carpentries blog and main
-communications channels (discuss@ on TopicBox, #general Slack channel).
+Les nouveaux mainteneurs passent par un processus d'intégration, dirigé par un membre de l'équipe du programme The Carpentries et le responsable de la communauté des mainteneurs. L'intégration des mainteneurs a lieu au moins une fois par an. Les nouveaux cycles d'intégration seront annoncés sur le blog The Carpentries et sur les principaux canaux de communication
+(discuss@ sur TopicBox, chaîne Slack #general).
 
-The curriculum for onboarding new Maintainers is available as a {{'[Maintainer Onboarding Lesson]({})'.format(maintainer_onboarding)}}.
+Le programme d'intégration des nouveaux mainteneurs est disponible sous la forme d'un {{'[Leçon d'intégration des mainteneurs] ({}) '.format (maintainer_onboarding)}}.
 
-## Offboarding
+## Débarquement
 
-A yearly email with a one-question survey will be sent to Maintainers in
-mid-to-late January. If the Maintainer responds “yes” to this survey,
-they will remain a Maintainer for the next year. If a Maintainer replies
-“no” or does not respond within a month of receiving the survey, they
-will become an alumnus Maintainer and their permissions to their
-repository will be revoked. Active Maintainer status can be restored at
-any time by contacting the Maintainer Community Lead.
+Un e-mail annuel contenant une question sera envoyé aux responsables du
+de la mi-janvier à la fin du mois de janvier. Si le responsable répond « oui » à cette enquête,
+, il restera mainteneur l'année prochaine. Si un responsable répond « non » à
+ou ne répond pas dans le mois suivant la réception de l'enquête, il
+deviendra un ancien mainteneur et ses autorisations sur son référentiel
+seront révoquées. Le statut de mainteneur actif peut être rétabli à tout moment à
+en contactant le responsable de la communauté des mainteneurs.
 
-[The proposal for yearly Maintainer check-ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
-more detailed information. If a Maintainer would like to step away from
-the role outside this schedule, they should inform the Maintainer
-Community Lead and the other Maintainers on their lesson(s).
+[La proposition pour les enregistrements annuels des mainteneurs] (https://github.com/carpentries/maintainer-RFCs/issues/19) contient des informations plus détaillées sur
+. Si un responsable souhaite quitter le rôle
+en dehors de ce calendrier, il doit informer le responsable de la communauté
+du responsable de la communauté et les autres mainteneurs de ses leçons.
 
-## Communication and Collaboration Spaces
+## Espaces de communication et de collaboration
 
 ### Slack
 
-{{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
+{{'[Rejoignez l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}}. Pour suivre les conversations relatives à ce rôle, vous devez rejoindre les canaux suivants :
 
-- {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
-- We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
-- It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
+- {{'[The invite-only #maintainers channel] ({}/archives/C8H5LN44V) '.format (slack)}} sur l'espace de travail The Carpentries Slack est une plateforme permettant à l'ensemble de la communauté de poser des questions et de participer à des discussions sur le thème de la maintenance des leçons. Si vous êtes mainteneur et que vous n'avez pas encore accès à cette chaîne, veuillez contacter le responsable de la communauté des mainteneurs.
+- Nous recommandons aux responsables des leçons de parcourir les chaînes existantes dans l'espace de travail Slack pour trouver celles qui sont pertinentes pour le sujet/le domaine de leur leçon.
+- Il peut également être utile de créer une nouvelle chaîne pour votre leçon, afin de vous permettre de discuter du processus de développement avec vos collaborateurs et de permettre aux membres de la communauté de poser des questions sur la leçon.
 
-If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+Si vous utilisez Slack pour la première fois, consultez notre {{"[Slack Guide] ({}) » .format (slack_guide)}}.
 
-### Community Calendar
+### Calendrier communautaire
 
-Once scheduled, all Maintainer Community Calls are listed on our
-{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
+Une fois planifiés, tous les appels à la communauté des mainteneurs sont répertoriés sur notre
+{{'[Calendrier communautaire] ({}/community/events/) '.format (carpentries_website)}}. Vous pouvez ajouter des événements pertinents à votre calendrier à partir de là en cliquant sur l'événement auquel vous souhaitez participer.
 
-### Collaborative Notes
+### Notes collaboratives
 
-The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
+The Carpentries utilise [Etherpad] (/resources/communications/etherpads.md) comme outil de prise de notes collaboratif lors d'ateliers, de formations et d'autres événements liés à la menuiserie.  Vous trouverez ci-dessous une liste d'Etherpads utiles pour servir de mainteneur de leçons.
 
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of
-  our most commonly used Etherpads and other resources.
-- {{'[Maintainer Community Call Notes]({}/maintainers)'.format(codimd)}}: Signup information, connection details, and notes taken from monthly   coworking sessions (CodiMD).
+- {{'[Pad-of-Pads] ({}/pad-of-pads) '.format (etherpad)}} : Une liste de
+  de nos Etherpads les plus couramment utilisés et d'autres ressources.
+- {{'[Notes d'appel de la communauté des mainteneurs] ({}/maintainers) '.format (codimd)}} : informations d'inscription, détails de connexion et notes prises lors des sessions de coworking mensuelles (CodiMD).
 
 ### GitHub
 
-- [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
-- [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
+- [Ressources pour les mainteneurs] (https://github.com/carpentries/maintainer-resources) : un endroit pour enregistrer les minutes des appels de la communauté des mainteneurs et des conseils utiles sur les règles de vol.
+- [Demandes de commentaires des responsables (RFC)] (https://github.com/carpentries/maintainer-RFCs) Demandes de commentaires concernant des changements technologiques et d'autres problèmes affectant les responsables des leçons.
 
-### TopicBox
+### Boîte à thème
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}. Below is a list
-of those relevant to the activities and programs covered by this
-handbook.
+Vous pouvez accéder aux listes de diffusion de The Carpentries depuis
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Vous trouverez ci-dessous une liste
+de ceux qui concernent les activités et les programmes couverts par ce manuel
+.
 
-- {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
+- {{'[La liste de diffusion des responsables] ({}/groups/maintainers) '.format (topicbox)}} est utilisée pour les annonces concernant les responsables des leçons.
 
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
-you have done this, you can scroll through the list of groups and click
-“Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval).  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Pour rejoindre une ou plusieurs listes de diffusion de Carpentries, vous devez {{'[create a login] ({}/latest) '.format (topicbox)}}. Une fois
+terminé, vous pouvez faire défiler la liste des groupes et cliquer sur
+« Rejoindre la conversation » (pour les envois ouverts) ou « Demander à rejoindre » (pour
+, les listes de diffusion nécessitant l'approbation de l'administrateur).  Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
 
-## Step-by-Step Guides
+## Guides étape par étape
 
-### Keeping the Lesson Infrastructure Up-to-date on Your Repository
+### Maintien à jour de l'infrastructure des leçons dans votre référentiel
 
-New versions of the lesson infrastructure are released periodically, to fix bugs and introduce new features.
-All of The Carpentries lesson repositories are configured to receive automated pull requests soon after release.
-These pull requests will be opened by the `carpentries-bot` account, with a title similar to “Workflows to Version x.y.z”.
-To ensure that your lesson site builds with the latest version of the Workbench, please merge these pull requests as soon as possible after they have been opened.
-Lessons based on R Markdown source files will also receive pull requests from the `carpentries-bot` account to update the versions of the R packages used in the lesson, titled “Update NN packages” where NN is the number of packages.
-Similarly to the workflow updates, these pull requests should be merged quickly to ensure that the lesson builds correctly.
+De nouvelles versions de l'infrastructure des leçons sont publiées périodiquement pour corriger les bogues et introduire de nouvelles fonctionnalités.
+Tous les référentiels de leçons de The Carpentries sont configurés pour recevoir des demandes d'extraction automatisées peu après leur sortie.
+Ces pull requests seront ouvertes par le compte « carpentries-bot », avec un titre similaire à « Workflows to Version x.y.z ».
+Pour vous assurer que votre site de cours est construit avec la dernière version du Workbench, veuillez fusionner ces pull requests dès que possible après leur ouverture.
+Les leçons basées sur les fichiers sources de R Markdown recevront également des demandes d'extraction du compte carpentries-bot pour mettre à jour les versions des packages R utilisés dans la leçon, intitulée « Mettre à jour les packages NN » où NN est le nombre de packages.
+À l'instar des mises à jour du flux de travail, ces pull requests doivent être fusionnées rapidement pour garantir que la leçon se construit correctement.
 
-The GitHub Actions workflows that create these pull requests are configured to run once per week.
-Sometimes you might want to trigger the process before the next scheduled run, e.g. if the new version of the workflows or packages will fix a problem that is preventing your lesson from building.
-To trigger these workflows manually, visit the Actions tab of your repository and select the workflow from the list on the left of the screen: both workflows include ‘Maintain’ in their name.
+Les flux de travail GitHub Actions qui créent ces pull requests sont configurés pour être exécutés une fois par semaine.
+Parfois, vous souhaiterez peut-être déclencher le processus avant la prochaine exécution planifiée, par exemple si la nouvelle version des flux de travail ou des packages résout un problème qui empêche la création de votre leçon.
+Pour déclencher ces flux de travail manuellement, rendez-vous dans l'onglet Actions de votre référentiel et sélectionnez le flux de travail dans la liste à gauche de l'écran : les deux flux de travail incluent « Maintenir » dans leur nom.
 
-![The side menu of a lesson repository's Actions tab, annotated to highlight the location of the two Maintain workflows](../img/maintain-workflows.png)
+! [Le menu latéral de l'onglet Actions d'un référentiel de leçons, annoté pour mettre en évidence l'emplacement des deux flux de travail de maintenance] (../img/maintain-workflows.png)
 
-After selecting the workflow you want to run, select ‘run workflow’ near the top right corner of the history of workflow runs. You can leave the default values in the small dropdown menu unchanged, and select ‘Run Workflow’ again.
+Après avoir sélectionné le flux de travail que vous souhaitez exécuter, sélectionnez « Exécuter le flux de travail » dans le coin supérieur droit de l'historique des exécutions du flux de travail. Vous pouvez laisser les valeurs par défaut inchangées dans le petit menu déroulant et sélectionner à nouveau « Exécuter le flux de travail ».
 
-![The interface to manually run a workflow, annotated to highlight the most relevant part of the interface](../img/run-workflow.png)
+! [L'interface pour exécuter manuellement un flux de travail, annotée pour mettre en évidence la partie la plus pertinente de l'interface] (../img/run-workflow.png)
 
-If this process does not work, or you receive error messages from the workflow and it fails to complete, contact the [Curriculum Team](mailto:curriculum@carpentries.org) and/or ask for help in the {{'[workbench channel on Slack]({}/archives/C03DEQ5T2DA)'.format(slack)}}.
+Si ce processus ne fonctionne pas, ou si vous recevez des messages d'erreur provenant du flux de travail et qu'il échoue, contactez [l'équipe chargée du programme] (mailto:curriculum@carpentries.org) et/ou demandez de l'aide sur le {{'[workbench channel on Slack] ({}/archives/C03DEQ5T2DA) '.format (slack)}}.
 
-### Using Issue Labels to Promote Collaboration
+### Utiliser les libellés des numéros pour promouvoir la collaboration
 
-GitHub allows the Maintainers of a repository to add contextual
-information to Issues and Pull Requests in the form of labels.
-[The Carpentries uses an extended set of issue labels on its lesson repositories](../resources/curriculum/issue-labels.md).
+GitHub permet aux responsables d'un dépôt d'ajouter des informations contextuelles
+aux Issues et aux Pull Requests sous forme de labels.
+[The Carpentries utilise un ensemble étendu d'étiquettes de numéros dans ses référentiels de leçons] (../resources/curriculum/issue-labels.md).
 
-Two labels, used by The Carpentries and in many repositories across GitHub,
-can be deployed to increase the visibility of your lesson and encourage
-community members to contribute to its development.
+Deux labels, utilisés par The Carpentries et dans de nombreux référentiels de GitHub,
+peuvent être déployés pour augmenter la visibilité de votre leçon et encourager les membres de la communauté
+à contribuer à son développement.
 
-The **“help wanted”** label should be used to highlight issues with
-which you would welcome additional help. The Carpentries website
-includes {{'[a Help Wanted page]({}/lessons/help_wanted)'.format(carpentries_website)}}, which can
-automatically list every issue labelled “help wanted” on repositories
-from The Carpentries, Software Carpentry, Data Carpentry, Library
-Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
-to include issues from your lesson repository on the Help Wanted page by
-reading the  {{'[information for Maintainers]({}/lessons/help_wanted#information-for-maintainers)'.format(carpentries_website)}}
-on the page itself.
+L'étiquette \*\* « help wanted » \*\* doit être utilisée pour mettre en évidence les problèmes liés à
+pour lesquels vous souhaiteriez obtenir une aide supplémentaire. Le site web de Carpentries
+inclut {{'[a Help Wanted page] ({}/lessons/help_wanted) '.format (carpentries_website)}}, qui peut automatiquement répertorier tous les problèmes étiquetés « aide recherchée » sur les référentiels
+de The Carpentries, Software Carpentry, Data Carpentry, Library
+Carpentry, CarpentriesLab et The Carpentries Incubator.
+Découvrez comment
+peut inclure les problèmes de votre référentiel de leçons sur la page Help Wanted en lisant le {{'[information pour les mainteneurs] ({}/lessons/help_wanted#information-for-maintainers) '.format (carpentries_website)}}
+sur la page elle-même.
 
-The **“good first issue”** label should be used to identify issues that
-would make a good entry point for newcomers searching for a way to
-contribute to your lesson. The work needed to close an issue with this
-label would typically not require an extensive knowledge of the
-structure or intricacies of your lesson repository, or an expert
-understanding of the content. The “good first issue” label is used so
-extensively that GitHub provides a page at `[repository
-URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/contribute>) for every repository, listing issues with this label.
+L'étiquette \*\* « bon premier numéro » \*\* doit être utilisée pour identifier les problèmes pour lesquels
+constituerait un bon point d'entrée pour les nouveaux arrivants qui cherchent un moyen d'apporter
+à votre leçon. Le travail nécessaire pour résoudre un problème avec cette étiquette
+ne nécessite généralement pas une connaissance approfondie de la structure
+ou des subtilités de votre référentiel de leçons, ni une compréhension experte
+du contenu. L'étiquette « bon premier numéro » est tellement utilisée
+que GitHub propose une page à l'adresse `[repository
+URL] /contribute` (exemple : <https://github.com/swcarpentry/r-novice-gapminder/contribute>) pour chaque référentiel, répertoriant les problèmes liés à cette étiquette.
 
-### Informing Community Members about a Period of Absence
+### Informer les membres de la communauté au sujet d'une période d'absence
 
-If you plan to temporarily step away from the role of Maintainer,
-e.g. parental leave, exam season, etc, it can be helpful to your fellow
-lesson Maintainers and potential contributors to let them know. Here are
-some steps you can take to notify the community about your temporary
-absence/unavailability:
+Si vous envisagez de vous retirer temporairement du rôle de mainteneur,
+, par exemple en cas de congé parental, de saison des examens, etc., il peut être utile à vos collègues responsables de la maintenance de la leçon
+et aux contributeurs potentiels de les en informer. Voici quelques étapes que vous pouvez suivre pour informer la communauté de votre absence/indisponibilité temporaire de
+ :
 
-1. Set a status and mark yourself as “busy” on GitHub:
+1. Définissez un statut et marquez-vous comme « occupé » sur GitHub :
 
-   1. Log into GitHub.com
-   2. Click on your profile picture at the top-right of the window
-   3. Select “Set status”
-   4. In the “What’s happening?” box, write a short statement that lets
-      other users know you are unavailable. You don’t have to tell
-      people why - your status could be “temporarily unavailable” or
-      “unavailable until DATE” to tell people when they can expect to
-      find you back on GitHub. You can choose an emoji to accompany your
-      status by clicking on the face icon next to the status message
-      input.
-   5. Check the “Busy” box, so that other users will receive a
-      notification from GitHub about your status when they mention you
-      in issues and pull requests, assign you to an issue, or request a
-      review from you.
-   6. {{"[**You can also set a status on Slack**]({})".format(slack_guide)}}. The process is very similar to GitHub’s, i.e. you should log in, click on your profile picture at the top-right of the window, and select “Update your status”. That will open a pop-up where you can write a status message.
+   1. Connectez-vous à GitHub.com
+   2. Cliquez sur votre photo de profil en haut à droite de la fenêtre
+   3. Sélectionnez « Définir le statut »
+   4. Dans la rubrique « Que se passe-t-il ? » case, rédigez une courte déclaration qui permet aux autres utilisateurs de
+      de savoir que vous n'êtes pas disponible. Vous n'êtes pas obligé de dire aux internautes pourquoi : votre statut peut être « temporairement indisponible » ou
+      « indisponible jusqu'à DATE » pour indiquer aux internautes quand ils peuvent s'attendre à ce que
+      vous retrouve sur GitHub.
+      Vous pouvez choisir un emoji pour accompagner votre statut
+      en cliquant sur l'icône représentant un visage à côté du message de statut
+      saisi.
+   5. Cochez la case « Occupé », afin que les autres utilisateurs reçoivent une notification
+      de GitHub concernant votre statut lorsqu'ils vous mentionnent
+      dans les problèmes et les pull requests, vous attribuent un problème ou vous demandent un avis
+      .
+   6. {{"[**Vous pouvez également définir un statut sur Slack**] ({}) » .format (slack_guide)}}. Le processus est très similaire à celui de GitHub, c'est-à-dire que vous devez vous connecter, cliquer sur votre photo de profil en haut à droite de la fenêtre et sélectionner « Mettre à jour votre statut ». Cela ouvrira une fenêtre contextuelle dans laquelle vous pourrez écrire un message d'état.
 
-2. Inform your co-Maintainers:
+2. Informez vos co-mainteneurs :
 
-   7. Send them an email or a direct message on Slack.
-   8. If you need help finding contact information for any of your
-      fellow Maintainers, contact the Maintainer Community Lead.
+   7. Envoyez-leur un e-mail ou un message direct sur Slack.
+   8. Si vous avez besoin d'aide pour trouver les coordonnées de l'un de vos collègues mainteneurs
+      , contactez le responsable de la communauté des mainteneurs.
 
-## Resources
+## Ressources
 
-### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
+### [Programme d'intégration des mainteneurs] (https://carpentries.github.io/maintainer-onboarding/)
 
-The curriculum used at Maintainer Onboarding. This resource can be a
-helpful reference for Maintainers after they have completed onboarding. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
+Le programme utilisé lors de Maintainer Onboarding. Cette ressource peut être une référence
+utile pour les mainteneurs une fois leur intégration terminée. Il comprend [des conseils pour gérer les problèmes sur un référentiel] (https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), des conseils pour [identifier l'équipe chargée du programme en cas de problèmes et de demandes d'extraction] (https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), et de nombreuses autres informations utiles auxquelles vous souhaiterez peut-être revenir après l'intégration.
 
-### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
+### [Présentation de The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/)
 
-Documentation for The Carpentries Workbench, open source infrastructure
-for lesson websites. The documentation explains how to install the
-Workbench so that Lesson Maintainers can edit and preview their lessons
-on their computer, how to initialise a new lesson and use the
-various elements of the lesson template, and how to keep up to date with
-the latest changes to the infrastructure.
+Documentation pour The Carpentries Workbench, infrastructure open source
+pour les sites Web de cours. La documentation explique comment installer le Workbench
+afin que les responsables de leçons puissent modifier et prévisualiser leurs leçons
+sur leur ordinateur, comment initialiser une nouvelle leçon et utiliser les différents éléments
+du modèle de leçon, et comment se tenir au courant avec
+des dernières modifications apportées à l'infrastructure.
 
-### [Curriculum Advisory Committee Consultation Rubric](/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
+### [Rubrique de consultation du Comité consultatif sur les programmes] (/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
 
-This rubric defines the division of responsibilities between The
-Carpentries Maintainers and The Carpentries Curriculum Advisory
-Committees (CACs). It can be used by Maintainers to help determine
-whether to notify or ask the relevant CAC about a proposed change to
-their lesson.
+Cette rubrique définit la répartition des responsabilités entre les comités consultatifs
+(CAC) The
+Carpentries Maintainers et The Carpentries Curriculum Advisory. Il peut être utilisé par les responsables pour aider à déterminer
+s'il faut informer ou demander au CAC concerné une modification proposée pour
+dans leur leçon.
 
-### [Lesson Sprint Recommendations](/resources/curriculum/lesson-sprint-recommendations.md)
+### [Recommandations pour les sprints de leçons] (/resources/curriculum/lesson-sprint-recommendations.md)
 
-A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
+Une collection de recommandations pour les membres de la communauté qui souhaitent organiser des événements dédiés au développement et à l'amélioration d'une leçon. Comprend des listes de choses à envisager avant, pendant et après un sprint de développement, ainsi que des outils et d'autres ressources pour favoriser sa réussite.
 
-### [Lesson Release Process](/resources/curriculum/lesson-release.md)
+### [Processus de publication des leçons] (/resources/curriculum/lesson-release.md)
 
-A description of how to prepare a lesson release and publish it to Zenodo.
-**Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
-The Curriculum Team will coordinate this process in the coming months.
+Description de la façon de préparer un communiqué de leçon et de le publier sur Zenodo.
+**Notez que les responsables des cours de menuiserie de données, de menuiserie de bibliothèque et de menuiserie logicielle ne devraient pas publier de leçons pour l'instant.**
+L'équipe chargée du programme coordonnera ce processus dans les mois à venir.
 
-### [Lesson Developer Handbook](/handbooks/lesson_developers.md)
+### [Manuel du développeur de leçons] (/handbooks/lesson_developers.md)
 
-The handbook for community members developing new lessons includes information, guidance, and further resources that may also be interesting to Maintainers.
+Le manuel destiné aux membres de la communauté qui élaborent de nouvelles leçons comprend des informations, des conseils et d'autres ressources qui peuvent également intéresser les mainteneurs.
 
-### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
+### [Programme de formation pour l'élaboration de leçons en collaboration] (https://carpentries.github.io/lesson-development-training/)
 
-A lesson designed to teach skills and good practices in lesson design,
-lesson website development, and collaboration via GitHub. Community
-members can apply to join this training, and/or follow the curriculum in
-their own time.
+Une leçon conçue pour enseigner les compétences et les bonnes pratiques en matière de conception de leçons, de développement de sites Web de leçons
+et de collaboration via GitHub. Les membres de la communauté
+peuvent s'inscrire pour participer à cette formation et/ou suivre le programme en
+à leur rythme.
 
 ## FAQ
 
-### When Should I Merge My Own Pull Request?
+### Quand dois-je fusionner ma propre pull request ?
 
-In general, we recommend that Maintainers wait for an approving review before any pull request is merged.
-However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes straight away.
+En général, nous recommandons aux responsables d'attendre un examen d'approbation avant de fusionner une pull request.
+Cependant, si les modifications sont minimes et corrigent quelque chose qui est incontestablement cassé dans la leçon, par exemple un lien cassé, une syntaxe incorrecte ou similaire, vous pouvez fusionner vos propres modifications immédiatement.
 
-#### What to Do If Other Maintainers Do Not Respond?
+#### Que faire si les autres responsables ne répondent pas ?
 
-Sometimes, a Maintainer may want a second opinion from their fellow Maintainers before merging a pull request (or might want somebody else to review their own changes).
-The table below describes the steps we recommend that you take if you have tagged your co-Maintainers and waited for a short while, e.g. one or two weeks, but not received any response.
+Parfois, un mainteneur peut avoir besoin d'un deuxième avis de la part de ses collègues mainteneurs avant de fusionner une pull request (ou peut souhaiter que quelqu'un d'autre examine ses propres modifications).
+Le tableau ci-dessous décrit les étapes que nous vous recommandons de suivre si vous avez tagué vos co-mainteneurs et que vous avez attendu un court moment, par exemple une ou deux semaines, mais que vous n'avez reçu aucune réponse.
 
-![Table recommending action a Maintainer should take if they have requested input from their fellow Maintainers on a pull request, but received no response after waiting some time. Not urgent, not complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, not complex: merge now. Not urgent, complex: wait longer, or tag the Maintainer Community Lead or Curriculum Team. Urgent, complex: tag the Maintainer Community Lead or Curriculum Team.](../img/when-to-merge.svg)
+! [Tableau recommandant l'action qu'un responsable doit entreprendre s'il a demandé l'avis de ses collègues responsables sur une pull request, mais n'a reçu aucune réponse après un certain temps d'attente. Ni urgent, ni complexe : attendez plus longtemps ou identifiez le responsable de la communauté des mainteneurs ou l'équipe du programme. Urgent, pas complexe : fusionnez dès maintenant. Pas urgent, ni complexe : attendez plus longtemps ou identifiez le responsable de la communauté des mainteneurs ou l'équipe du programme. Urgent, complexe : identifiez le responsable de la communauté des mainteneurs ou l'équipe chargée du programme.] (../img/when-to-merge.svg)
 
-- What is urgent? In general, you can consider the change urgent if the current version of the relevant content in the lesson is incorrect or broken in some way.
-  Urgent changes might be time-sensitive (e.g. a language feature is being deprecated) or would provide a significant improvement to the accessibility of the lesson content (e.g. adding or improving alternative text on an image).
-- What is complex? Here, we refer to changes as complex if they contain anything that you could reasonably expect somebody to disagree with or want to word differently.
-  Non-complex changes might be typo fixes, updates to the output of an example code block, or a new version of a screenshot used in the lesson.
+- Qu'est-ce qui est urgent ? En général, vous pouvez considérer le changement comme urgent si la version actuelle du contenu pertinent de la leçon est incorrecte ou cassée d'une manière ou d'une autre.
+  Les modifications urgentes peuvent être urgentes (par exemple, une fonctionnalité linguistique est obsolète) ou apporter une amélioration significative de l'accessibilité du contenu de la leçon (par exemple, l'ajout ou l'amélioration d'un texte alternatif sur une image).
+- Qu'est-ce qui est complexe ? Ici, nous qualifions les modifications de complexes si elles contiennent des éléments avec lesquels vous pourriez raisonnablement vous attendre à ce que quelqu'un ne soit pas d'accord ou veuille les formuler différemment.
+  Les modifications non complexes peuvent être des corrections de fautes de frappe, des mises à jour de la sortie d'un exemple de bloc de code ou une nouvelle version d'une capture d'écran utilisée dans la leçon.
 
-### When and how should I take over somebody's unfinished contribution?
+### Quand et comment dois-je prendre en charge la contribution inachevée de quelqu'un ?
 
-It is common in open source projects for community members to start work on something but run out of time or get distracted before they finish.
-One result can be open but incomplete pull requests, e.g. marked as a draft, or with reviewer comments/suggested changes left unaddressed.
-Another is issue threads that somebody has responded to, indicating that they plan to fix it, but that no pull request has appeared from them since.
+Dans les projets open source, il est courant que les membres de la communauté commencent à travailler sur quelque chose mais manquent de temps ou se laissent distraire avant de terminer.
+L'un des résultats peut être des pull requests ouvertes mais incomplètes, par exemple marquées comme brouillon, ou dont les commentaires des évaluateurs ou les modifications suggérées ne sont pas pris en compte.
+Une autre concerne les fils de discussion auxquels quelqu'un a répondu, indiquant qu'il prévoyait de le résoudre, mais qu'aucune pull request n'est apparue de sa part depuis.
 
-Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other would-be contributors from working on an issue or creating an equivalent pull request.
-Similarly, not wanting to "step on the toes" of their contributors, Maintainers are often unsure about or unwilling to "take over" an unfinished pull request e.g. by unilaterally making the changes that are required themselves before merging.
-The recommendations below are designed to address these issues, establishing a set of "social norms" for The Carpentries community that allow for progress to be made on our repositories while reflecting our [core values][values] -- especially that we _value all contributions_.
+Bien qu'ils soient motivés par de bonnes intentions, ces comportements peuvent avoir pour effet regrettable de décourager d'autres contributeurs potentiels de travailler sur un problème ou de créer une pull request équivalente.
+De même, ne voulant pas « marcher sur les pieds » de leurs contributeurs, les responsables ne sont souvent pas certains ou peu disposés à « prendre en charge » une pull request inachevée, par exemple en apportant unilatéralement les modifications nécessaires eux-mêmes avant la fusion.
+Les recommandations ci-dessous visent à résoudre ces problèmes, en établissant un ensemble de « normes sociales » pour la communauté The Carpentries qui permettent de progresser sur nos référentiels tout en reflétant nos \[valeurs fondamentales] \[valeurs], en particulier le fait que nous _valorisons toutes les contributions_.
 
-#### Situation 1: a pull request exists but is incomplete
+#### Situation 1 : une pull request existe mais elle est incomplète
 
-##### For Maintainers
+##### Pour les mainteneurs
 
-If a pull request has been opened but is not ready to be merged, and the original contributor has not responded to a message tagging them and asking for an update for at least three weeks, nor pushed any changes to the branch, Maintainers are encouraged to take any of the following actions:
+Si une pull request a été ouverte mais n'est pas prête à être fusionnée, et que le contributeur d'origine n'a pas répondu à un message le taguant et demandant une mise à jour pendant au moins trois semaines, et qu'il n'a pas non plus apporté de modifications à la branche, les responsables sont invités à prendre l'une des mesures suivantes :
 
-1. If only minor changes are pending (and you have the ability to edit the contributor's branch), commit the changes yourself, [adding the person who opened the PR as a co-author][commit-coauthors], and merge the pull request. Note that, if you suggested changes directly to the pull request on GitHub, **the author of the pull request will automatically be included as a co-author** on the commit(s) when you accept these changes.
-2. If larger changes are required, [comment on the pull request to invite others](#inviting-other-contributors-to-complete-an-open-pull-request) to pick up where the original contributor left off (linking to [instructions for how to most effectively copy and build on the original contributors' branch][setup-unfinished-branch]). Add the `help wanted` label to the pull request.
-3. If you judge that too much still needs to be done on the pull request for anybody to be able to pick it up and finish the task (or it has become too outdated), close the pull request with [a comment inviting the original contributor to reopen](#closing-a-stale-pull-request) if they wish to keep working on it. If the issue being addressed had previously been labelled `status: in progress`, remove that label and add `help wanted` instead.
+1. Si seules des modifications mineures sont en attente (et que vous avez la possibilité de modifier la branche du contributeur), validez les modifications vous-même, \[en ajoutant la personne qui a ouvert le PR en tant que co-auteur] [commit-coauthors], et fusionnez la pull request. Notez que, si vous avez suggéré des modifications directement à la pull request sur GitHub, **l'auteur de la pull request sera automatiquement inclus en tant que co-auteur** sur le (s) commit (s) lorsque vous acceptez ces modifications.
+2. Si des modifications plus importantes sont nécessaires, \[commentez la pull request pour inviter d'autres personnes] (#inviting-other-contributors-to-complete-an-open-pull-request) pour reprendre là où le contributeur d'origine s'est arrêté (lien vers \[instructions pour copier et développer au mieux la branche des contributeurs d'origine] [setup-unfinished-branch]). Ajoutez l'étiquette « help wanted » à la pull request.
+3. Si vous estimez qu'il reste encore trop à faire sur la pull request pour que quiconque puisse la récupérer et terminer la tâche (ou si elle est devenue trop obsolète), fermez la pull request avec [un commentaire invitant le contributeur d'origine à rouvrir] (#closing-a-stale-pull-request) s'il souhaite continuer à travailler dessus. Si le problème en cours de résolution avait déjà été étiqueté « statut : en cours », supprimez ce libellé et ajoutez à la place « help wanted ».
 
-##### For Contributors
+##### Pour les contributeurs
 
-If a pull request has been opened but is not ready to be merged, and the original contributor has not responded or pushed any changes for at least three weeks, any community member who wants to contribute to completing the necessary changes is encouraged to take the following actions:
+Si une pull request a été ouverte mais n'est pas prête à être fusionnée, et que le contributeur d'origine n'a pas répondu ou n'a pas proposé de modifications pendant au moins trois semaines, tout membre de la communauté souhaitant contribuer à la réalisation des modifications nécessaires est encouragé à prendre les mesures suivantes :
 
-1. First, post to the existing pull request, tagging the original author and the lesson Maintainers, to let everyone know that you would like to help get the pull request ready to merge. (Maintainers can be contacted as a team by tagging `@lesson-program/lesson-name-maintainers` e.g. `@datacarpentry/R-ecology-lesson-maintainers`.) Ask the original contributor if they are still working on the pull request, and if they would like help.
-2. If you have received no response from the original contributor after a few days, fork their repository, including all branches, or fetch their branch to your local clone of the lesson repository and make additional commits to the branch that they were working on. ([More detailed instructions for building on top of another person's branch][setup-unfinished-branch].) This will ensure that the work they have already done is included in the history of your changes. If you think it is appropriate, you can also [add them as a coauthor][commit-coauthors] on any new commits that you make.
-3. Alternatively, you can also start from scratch in a completely new branch created from `main`. If you choose to do that, make sure that you tell the Maintainers so that they can close the original pull request. Also consider adding the author of the original (now closed) pull request as [a co-author][commit-coauthors] on the commits you make, in case the unfinished changes they made provided inspiration for your own.
+1. Tout d'abord, publiez sur la pull request existante, en identifiant l'auteur original et les responsables de la leçon, pour faire savoir à tout le monde que vous souhaitez aider à préparer la pull request à fusionner. (Les responsables peuvent être contactés en équipe en taguant `@lesson -program/lesson-name-maintainers`, par exemple`@datacarpentry /R-Ecology-Lesson-Maintainers`.) Demandez au contributeur d'origine s'il travaille toujours sur la pull request et s'il souhaite obtenir de l'aide.
+2. Si vous n'avez reçu aucune réponse de la part du contributeur initial au bout de quelques jours, bifurquez son dépôt, y compris toutes les branches, ou récupérez sa branche dans votre clone local du référentiel de leçons et effectuez des commits supplémentaires dans la branche sur laquelle il travaillait. (\[Instructions plus détaillées pour construire au-dessus de la branche d'une autre personne] [setup-unfinished-branch].) Cela garantira que le travail qu'ils ont déjà effectué est inclus dans l'historique de vos modifications. Si vous pensez que c'est approprié, vous pouvez également \[les ajouter en tant que coauteur] \[commit-coauteurs] sur tous les nouveaux commits que vous effectuez.
+3. Alternativement, vous pouvez également repartir de zéro dans une toute nouvelle branche créée à partir de `main`. Si vous choisissez de le faire, assurez-vous d'en informer les responsables afin qu'ils puissent fermer la pull request d'origine. Pensez également à ajouter l'auteur de la pull request d'origine (maintenant fermée) en tant que \[co-auteur] \[commit-coauteurs] sur les commits que vous effectuez, au cas où les modifications inachevées qu'ils ont apportées vous inspireraient.
 
-#### Situation 2: somebody said they will work on an issue but no PR has appeared
+#### Situation 2 : quelqu'un a dit qu'il travaillerait sur un problème mais aucun PR n'est apparu
 
-##### For Maintainers
+##### Pour les mainteneurs
 
-If the original comment was made more than three weeks ago, and the contributor has not responded to [a message tagging them to ask if they are still planning to prepare a PR](#asking-for-an-update-on-an-issue), Maintainers are encouraged to comment inviting others to work on a fix, and remove the `status:in progress` label if it was previously added. Add the `help wanted` label instead.
+Si le commentaire d'origine a été fait il y a plus de trois semaines et que le contributeur n'a pas répondu à [un message le taguant pour lui demander s'il prévoit toujours de préparer un PR] (#asking-for-an-update-on-an-issue), les responsables sont invités à commenter en invitant les autres à travailler sur un correctif, et à supprimer le libellé \`status:en cours s'il a été ajouté précédemment. Ajoutez plutôt l'étiquette « help wanted ».
 
-##### For Contributors
+##### Pour les contributeurs
 
-If you notice that another community member said they would like to work on an issue and you cannot find an associated pull request from them, post to the issue thread, tagging that community member, to ask if they are still working on it and whether they would like any help. If you receive no response within three weeks, or a Maintainer had previously asked them for an update and has received no response for a similar period of time, reply to let everyone know that you will begin working on it and prepare a pull request as usual.
+Si vous remarquez qu'un autre membre de la communauté a déclaré qu'il aimerait travailler sur un problème et que vous ne trouvez pas de pull request associée de sa part, publiez sur le fil de discussion en taguant ce membre de la communauté, pour lui demander s'il travaille toujours dessus et s'il souhaite obtenir de l'aide. Si vous ne recevez aucune réponse dans les trois semaines, ou si un responsable lui a déjà demandé une mise à jour et n'a reçu aucune réponse pendant une période similaire, répondez pour informer tout le monde que vous allez commencer à travailler dessus et préparez une pull request comme d'habitude.
 
-#### Message Templates for Maintainers
+#### Modèles de messages pour les responsables
 
-**You do not have to use these templates** but they are provided as suggested language for communicating with contributors to your lesson repository. The important things when communicating with contributors about unfinished contributions are:
+**Vous n'êtes pas obligé d'utiliser ces modèles** mais ils sont fournis en tant que langage suggéré pour communiquer avec les contributeurs à votre référentiel de leçons. Les éléments importants lors de la communication avec les contributeurs au sujet de contributions inachevées sont les suivants :
 
-- Express gratitude for their engagement and contributions so far.
-- Be clear about the action that they and other would-be contributors should take.
-- Invite them to respond.
+- Exprimez leur gratitude pour leur engagement et leurs contributions jusqu'à présent.
+- Expliquez clairement les mesures qu'eux-mêmes et les autres contributeurs potentiels devraient prendre.
+- Invitez-les à répondre.
 
-##### Inviting other contributors to complete an open pull request
+##### Inviter d'autres contributeurs à remplir une pull request ouverte
 
-Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+Remplacez @USERNAME par le pseudo GitHub du contributeur qui a initialement ouvert la pull request.
 
 ```markdown
-It would be good to have these changes included in the lesson soon. Thank you @USERNAME for your contributions so far. 
-Since progress has been stalled for a while, I invite any other community members reading this to take on the task of making the remaining changes needed for this to be merged. 
-When doing so, please [build on top of the work already done by @USERNAME](https://docs.carpentries.org/resources/curriculum/fetch-existing-branch.html) so that their contributions are included in the commit history. 
-Feel free to post here if you have any questions about what remains to be done before the branch can be merged.
+Il serait bon que ces changements soient bientôt inclus dans la leçon. Merci @USERNAME pour vos contributions jusqu'à présent. 
+Les progrès étant au point mort depuis un certain temps, j'invite tous les autres membres de la communauté qui lisent ceci à se charger d'apporter les modifications restantes nécessaires à la fusion. 
+Ce faisant, veuillez [vous appuyer sur le travail déjà effectué par @USERNAME] (https://docs.carpentries.org/resources/curriculum/fetch-existing-branch.html) afin que leurs contributions soient incluses dans l'historique des commits. 
+N'hésitez pas à poster ici si vous avez des questions sur ce qui reste à faire avant que la branche puisse être fusionnée.
 
-@USERNAME if you would like to keep working on the pull request, please post here to let us know and tell us if there is anything we can do to help.
+@USERNAME si vous souhaitez continuer à travailler sur la pull request, veuillez poster ici pour nous le faire savoir et nous dire si nous pouvons faire quelque chose pour vous aider.
 ```
 
-##### Closing a stale pull request
+##### Fermeture d'une pull request obsolète
 
-Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+Remplacez @USERNAME par le pseudo GitHub du contributeur qui a initialement ouvert la pull request.
 
 ```markdown
-Thank you @USERNAME for your contributions so far. 
-Since progress has been stalled for a while and it could be difficult for another community member to pick up on the work already done here, I will close this pull request now. 
+Merci @USERNAME pour vos contributions jusqu'à présent. 
+Étant donné que les progrès sont au point mort depuis un certain temps et qu'il pourrait être difficile pour un autre membre de la communauté de reprendre le travail déjà effectué ici, je vais fermer cette pull request maintenant. 
 
-@USERNAME if you would like to continue working on these changes, please reopen the pull request and I will be happy to help you.
+@USERNAME si vous souhaitez continuer à travailler sur ces modifications, veuillez rouvrir la pull request et je serai heureuse de vous aider.
 ```
 
-##### Asking for an update on an issue
+##### Demander une mise à jour sur un problème
 
-Replace `@USERNAME` with the GitHub handle of the contributor who originally opened the pull request.
+Remplacez @USERNAME par le pseudo GitHub du contributeur qui a initialement ouvert la pull request.
 
 ```markdown
-@USERNAME it has been a while since we heard from you and I have not seen a pull request to address this issue yet.
-It would be good to have this issue resolved and I know that it often takes some time to make changes to a lesson. 
-Can you provide an update on your progress? Is there anything the Maintainers can do to help you with your pull request?
+@USERNAME cela fait longtemps que nous n'avons pas eu de vos nouvelles et je n'ai pas encore vu de pull request pour résoudre ce problème.
+Ce serait bien de résoudre ce problème et je sais qu'il faut souvent un certain temps pour apporter des modifications à une leçon. 
+Pouvez-vous faire le point sur vos progrès ? Les mainteneurs peuvent-ils faire quelque chose pour vous aider avec votre pull request ?
 
-If your circumstances or capacity have changed, and you are no longer able to help with this issue, that is okay too. Please let us know here, so that we can help you and/or other members of the community can start working on the issue.
+Si votre situation ou vos capacités ont changé et que vous n'êtes plus en mesure de résoudre ce problème, ce n'est pas grave non plus. Merci de nous le faire savoir ici, afin que nous puissions vous aider et/ou aider les autres membres de la communauté à commencer à travailler sur le problème.
 ```
 
 [commit-coauthors]: https://github.blog/2018-01-29-commit-together-with-co-authors/
-[setup-unfinished-branch]: ../resources/curriculum/fetch-existing-branch.md
+[setup-unfinished-branch]: <.. /ressources/curriculum/fetch-existing-branch.md>
 [values]: https://carpentries.org/about-us/#our-values
 
 
