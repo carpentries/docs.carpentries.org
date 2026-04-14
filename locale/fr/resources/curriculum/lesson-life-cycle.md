@@ -1,67 +1,67 @@
-# The Life Cycle of Lessons
+# Le cycle de vie des leçons
 
-**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training.
-Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
+**Remarque concernant les _instructeurs_ et les _instructeurs_ :** dans la majeure partie de ce manuel, nous faisons référence aux instructeurs, en majuscules pour indiquer qu'il s'agit d'un poste certifié au sein de la communauté, c'est-à-dire d'une personne qui a suivi la formation d'instructeur de menuiserie.
+Certains contenus de notre manuel sur l'élaboration des programmes font référence aux formateurs (sans majuscules), afin de faire la distinction entre ceux qui enseignent un atelier mais qui ne sont peut-être pas encore des instructeurs certifiés.
 
-The Carpentries community develops lessons as Open Source projects: lessons and their source files are typically available online from the earliest stages of development onwards.
-It can be helpful for visitors to a lesson -- instructors considering teaching it, potential contributors exploring its contents, etc -- and its developers themselves, to be able to quickly identify the development status of a lesson.
-Lesson development is an iterative process, with content and design always subject to evolution and improvement.
-For example, as feedback is received when a new lesson is taught, or in response to new features and other shifts in its subject matter.
-Over time, content typically becomes more complete, accurate, impactful, and stable, with changes -- especially major modifications such as reorganisation, or the addition/removal of whole sections -- becoming less frequent.
+La communauté Carpentries développe des leçons sous forme de projets Open Source : les leçons et leurs fichiers sources sont généralement disponibles en ligne dès les premiers stades de développement.
+Il peut être utile pour les visiteurs d'une leçon (professeurs envisageant de l'enseigner, contributeurs potentiels explorant son contenu, etc.) et pour ses développeurs eux-mêmes, de pouvoir identifier rapidement l'état de développement d'une leçon.
+L'élaboration des leçons est un processus itératif, dont le contenu et la conception sont toujours sujets à évolution et à amélioration.
+Par exemple, lorsque des commentaires sont reçus lorsqu'une nouvelle leçon est enseignée, ou en réponse à de nouvelles fonctionnalités ou à d'autres changements dans son sujet.
+Au fil du temps, le contenu devient généralement plus complet, plus précis, plus percutant et plus stable, les changements, en particulier les modifications majeures telles que la réorganisation ou l'ajout/la suppression de sections entières, devenant de moins en moins fréquents.
 
-The Carpentries labels the development status of lessons in a similar system to that used in software development: we categorise them according to their maturity/stability, ranging from _pre-alpha_ to _stable_.
+The Carpentries classe l'état de développement des leçons dans un système similaire à celui utilisé pour le développement de logiciels : nous les classons en fonction de leur maturité/stabilité, allant de _pre-alpha_ à _stable_.
 
-![The Carpentries lesson life cycle model](../../img/life_cycle.svg)
+! [Le modèle de cycle de vie de la leçon de menuiserie] (../../img/life_cycle.svg)
 
-- **_Pre-alpha:_** the lesson is in the initial stages of design and development.
-  The content of lessons in pre-alpha is likely to be incomplete and untested, and may undergo major changes at any time. This label is typically applied to a lesson until a first draft has been completed.
-- **_Alpha:_** the lesson is being piloted by its developers.
-  The content of lessons in alpha is likely to have been fully drafted, but some gaps, inconsistencies, and errors can be expected.
-  This label is typically applied to a lesson after its first draft has been completed, and before the first pilot workshops take place.
-- **_Beta:_** the lesson is ready to be piloted by other instructors.
-  The content of lessons in beta has been tested by (at least) its developers, and content has been adjusted based on that experience.
-  The content includes guidance for instructors on how to teach it effectively.
-  Further changes are likely, as feedback is incorporated from additional pilot workshops.
-  This label is typically applied to a lesson when its developers are confident that it is ready to be used in workshops by other instructors.
-- **_Stable:_**: the lesson has undergone extensive testing and major changes are not expected (without significant warning).
-  The content of stable lessons will still change from time to time, but the changes are usually small and do not heavily impact an instructor’s ability to teach it if they are familiar with an earlier (stable) version.
-  This label is typically applied to a lesson after feedback from beta pilot workshops has been incorporated.
+- **_Pre-alpha:_** la leçon en est aux premiers stades de la conception et du développement.
+  Le contenu des leçons de la version pré-alpha est susceptible d'être incomplet et non testé, et peut subir des modifications majeures à tout moment. Cette étiquette est généralement appliquée à une leçon jusqu'à ce qu'une première ébauche soit terminée.
+- **_Alpha:_** la leçon est pilotée par ses développeurs.
+  Le contenu des leçons en version alpha a probablement été entièrement rédigé, mais on peut s'attendre à des lacunes, à des incohérences et à des erreurs.
+  Ce label est généralement appliqué à une leçon une fois que sa première ébauche est terminée et avant que les premiers ateliers pilotes n'aient lieu.
+- **_Beta:_** la leçon est prête à être pilotée par d'autres instructeurs.
+  Le contenu des leçons en version bêta a été testé par (au moins) ses développeurs, et le contenu a été ajusté en fonction de cette expérience.
+  Le contenu comprend des conseils pour les instructeurs sur la manière de l'enseigner efficacement.
+  D'autres changements sont probables, car les commentaires provenant d'ateliers pilotes supplémentaires seront intégrés.
+  Cette étiquette est généralement appliquée à une leçon lorsque ses développeurs sont convaincus qu'elle est prête à être utilisée dans des ateliers par d'autres professeurs.
+- **_Stable:_** : la leçon a fait l'objet de tests approfondis et aucun changement majeur n'est attendu (sans avertissement significatif).
+  Le contenu des leçons stables peut encore changer de temps à autre, mais les modifications sont généralement minimes et n'ont pas d'impact important sur la capacité du professeur à l'enseigner s'il connaît une version antérieure (stable).
+  Cette étiquette est généralement appliquée à une leçon une fois que les commentaires des ateliers pilotes bêta ont été intégrés.
 
-The life cycle stage of a lesson is prominently displayed at the top of the page on lesson websites.
-It is also visible as a 'topic' on the GitHub repository of the lesson, beneath the _About_ box on the right-hand side of the repository homepage.
+L'étape du cycle de vie d'une leçon est affichée bien en évidence en haut de la page sur les sites Web des leçons.
+Il est également visible en tant que « sujet » sur le référentiel GitHub de la leçon, sous la case _About_ sur le côté droit de la page d'accueil du référentiel.
 
-## How is the Life Cycle Stage Set?
+## Comment se déroule l'étape du cycle de vie ?
 
-The life cycle status of a lesson can be adjusted by modifying the `life_cycle` parameter in the lesson's `config.yaml` file, as well as the equivalent topic on the source GitHub repository.
+L'état du cycle de vie d'une leçon peut être ajusté en modifiant le paramètre life_cycle dans le fichier config.yaml de la leçon, ainsi que le sujet équivalent sur le référentiel GitHub source.
 
-## Who is Responsible for Choosing the Life Cycle Stage of a Lesson?
+## Qui est responsable du choix de l'étape du cycle de vie d'une leçon ?
 
-For community-owned lessons in The Carpentries Incubator, lesson developers are free to choose whichever label they feel is appropriate.
-Community-owned lessons in The Carpentries Lab have passed peer review and should be marked stable.
-The life cycle stage of lessons belonging to a Carpentries lesson program should be changed following consultation with the relevant Curriculum Advisory Committee and/or the Curriculum Team.
-Consultation is especially important before marking a lesson as beta or stable.
+Pour les leçons organisées par la communauté dans The Carpentries Incubator, les concepteurs de leçons sont libres de choisir le label qui leur convient.
+Les cours dispensés par la communauté dans The Carpentries Lab ont été évalués par les pairs et devraient être considérés comme stables.
+L'étape du cycle de vie des leçons appartenant à un programme de cours de menuiserie doit être modifiée après consultation du comité consultatif du programme concerné et/ou de l'équipe chargée du programme.
+La consultation est particulièrement importante avant de marquer une leçon comme étant bêta ou stable.
 
-## What Happens at Each Stage of the Life Cycle?
+## Que se passe-t-il à chaque étape du cycle de vie ?
 
-[Pilot workshops](lesson-pilots.md) are probably the most important events that take place before a lesson reaches stability.
-However, here are some other actions that lesson developers can take at different stages:
+[Les ateliers pilotes] (lesson-pilots.md) sont probablement les événements les plus importants qui ont lieu avant qu'une leçon n'atteigne la stabilité.
+Cependant, voici quelques autres actions que les développeurs de leçons peuvent prendre à différentes étapes :
 
-- **Pre-alpha:**
-  - [Submit the lesson to The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/).
-  - Join [Collaborative Lesson Development Training](https://carpentries.org/lesson-development-training).
-  - Call for collaborators.
-  - If you intend the new lesson to join an existing Carpentries curriculum or lesson program, consult the relevant [Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) or [Lesson Program Governance Committee](https://carpentries.org/community/lesson_program_governors/) as early as possible.
-    These community governance groups can provide feedback on your plans and offer guidance on how to ensure successful integration of the new lesson.
-- **Alpha:**
-  - Run [alpha pilot workshops](lesson-pilots.md#alpha-and-beta-pilots) and iterate on the design and content of the lesson.
-  - Raise awareness of the lesson in The Carpentries community.
-- **Beta:**
-  - Find instructors who can teach the lesson in [beta pilot workshops](lesson-pilots.md#alpha-and-beta-pilots), and gather feedback from them to improve the lesson further.
-    Consider inviting those [beta pilot instructors](./lesson-development-roles.md#beta-pilot-instructors) to join the team developing/maintaining the lesson.
-  - [Publish the lesson to Zenodo and obtain a DOI](./lesson-release.md).
-  - [Submit the lesson for peer review in The Carpentries Lab](https://github.com/carpentries-lab/reviews/).
-- **Stable:**
-  - [Release the stable version to Zenodo](./lesson-release.md).
-    - You might like to repeat this process regularly, e.g. make annual releases.
+- **Pré-alpha :**
+  - [Soumettez la leçon à The Carpentries Incubator] (https://github.com/carpentries-incubator/proposals/).
+  - Participez à [Formation à l'élaboration de leçons en collaboration] (https://carpentries.org/lesson-development-training).
+  - Appel à collaborateurs.
+  - Si vous souhaitez que la nouvelle leçon rejoigne un programme ou un programme de cours existant sur la menuiserie, consultez le [Comité consultatif du programme] (https://carpentries.org/curriculum-advisors/) ou le [Comité de gouvernance du programme de leçons] (https://carpentries.org/community/lesson_program_governors/) concerné dès que possible.
+    Ces groupes de gouvernance communautaire peuvent fournir des commentaires sur vos projets et vous donner des conseils sur la manière de garantir une intégration réussie de la nouvelle leçon.
+- **Alpha** : \*\*
+  - Organisez [des ateliers pilotes alpha] (lesson-pilots.md#alpha-and-beta-pilots) et répétez la conception et le contenu de la leçon.
+  - Faites connaître la leçon à la communauté The Carpentries.
+- **Bêta :**
+  - Trouvez des instructeurs qui peuvent enseigner la leçon dans le cadre des [ateliers pilotes bêta] (lesson-pilots.md#alpha-and-beta-pilots), et recueillez leurs commentaires pour améliorer encore la leçon.
+    Envisagez d'inviter ces [instructeurs du pilote bêta] (./lesson-development-roles.md#beta-pilot-instructors) à rejoindre l'équipe chargée de développer et de maintenir la leçon.
+  - [Publiez la leçon sur Zénodo et obtenez un DOI] (./lesson-release.md).
+  - [Soumettez la leçon pour évaluation par les pairs dans The Carpentries Lab] (https://github.com/carpentries-lab/reviews/).
+- **Stable :**
+  - [Publiez la version stable sur Zenodo] (./lesson-release.md).
+    - Vous souhaiterez peut-être répéter ce processus régulièrement, par exemple en publiant des publications annuelles.
 
-![The Carpentries lesson life cycle model annotated to show more details of what can happen at each stage of the process](../../img/life_cycle_annotated.svg)
+! [Le modèle de cycle de vie de la leçon sur la menuiserie est annoté pour montrer plus de détails sur ce qui peut se passer à chaque étape du processus] (../../img/life_cycle_annotated.svg)
