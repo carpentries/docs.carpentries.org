@@ -1,52 +1,52 @@
-# Política de cookies de The Carpentries
+# The Carpentries Cookie Policy
 
-\*\*Última actualización: \*\* 15-01-2022
+**Last updated:** 2022-01-15
 
-Para que nuestros sitios funcionen correctamente, a veces colocamos pequeños archivos de datos llamados cookies en su dispositivo. Una cookie es un pequeño archivo de texto que un sitio web guarda en su ordenador o dispositivo móvil cuando visita el sitio. Permite que el sitio web recuerde sus acciones y preferencias (como el inicio de sesión u otras preferencias) durante un período de tiempo, para que no tenga que volver a ingresarlas cada vez que regrese al sitio o navegue de una página a otra.
+To make our sites work properly, we sometimes place small data files called cookies on your device. A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login or other preferences) over a period of time, so you do not have to keep re-entering them whenever you come back to the site or browse from one page to another.
 
-Hemos clasificado nuestras cookies en las siguientes categorías para que comprenda mejor por qué las necesitamos:
+We have put our cookies into the following categories to make it easier for you to understand why we need them:
 
-1. \*\*Estrictamente necesario: \*\* Se utilizan para ayudar a que nuestros sitios web funcionen
-   de manera eficiente, proporcionar funciones de seguridad en nuestros sitios web y proporcionar los servicios
-   necesarios para proporcionar los servicios que espera de nuestros sitios web.
-2. \*\*Rendimiento y análisis: \*\* Se utilizan para analizar el funcionamiento de nuestros sitios web
-   y cómo podemos mejorarlos.
-3. \*\*Funcionalidad: \*\* Ayudan a mejorar su experiencia al recordar las elecciones
-   que ha realizado en relación con las funciones de los sitios web (por ejemplo, el nombre de usuario
-   , el idioma o la región en la que se encuentra).
+1. **Strictly necessary:** These are used to help make our websites work
+   efficiently, provide security features on our websites, and provide services
+   that are required to provide the services you expect from our websites.
+2. **Performance/analytics:** These are used to analyze the way our websites
+   work and how we can improve it.
+3. **Functionality:** These help to enhance your experience by remembering
+   choices you have made concerning the features of the websites (e.g.,
+   username, language, region you are in).
 
-Si bien tenemos la intención de limitar las cookies de terceros, es posible que haya páginas en nuestros sitios web que establezcan cookies de terceros. Por ejemplo, cuando incrustamos contenido de otro sitio (p. ej., un vídeo) o cuando utilizamos un sistema de registro externo (p. ej., inicias sesión en {{"[AMY] ({})» .format (amy_link)}} con tus credenciales de GitHub), es posible que establezcan una cookie. Intentamos limitar estas situaciones, pero no siempre podemos controlar la forma en que estos sitios utilizan las cookies.
+While we intend to limit third-party cookies, there might be pages on our websites that may set third party cookies. For instance, when we embed content from another site (e.g., a video), or when we use an external logging system (e.g., you log into {{"[AMY]({})".format(amy_link)}} using your GitHub credentials) they may set a cookie. We try to limit these situations, but cannot always control how these sites use cookies.
 
-## Las cookies y usted
+## Cookies and You
 
-Si decide no habilitar las cookies, podrá seguir navegando por nuestros sitios web
-, pero esto restringirá parte de la funcionalidad de nuestros sitios web o lo que
-puede hacer.
+If you choose not to enable cookies, you will still be able to browse our
+websites, but it will restrict some of the functionality of our websites or what
+you can do.
 
 ### Matomo
 
-Usamos [Matomo] (https://matomo.org/) para el análisis de nuestro sitio. Lo configuramos para que
-reduzca la cantidad de información personal que recopila sobre su visita y no se utilizan cookies
-. Está habilitado en <https://carpentries.org>,
+We use [Matomo](https://matomo.org/) for our site analytics. We set it up to
+reduce the amount of personal information it collects about your visit and no
+cookies are used. It is enabled on <https://carpentries.org>,
 <https://datacarpentry.org>, <https://librarycarpentry.org>,
 <https://software-carpentry.org>, <https://carpentries-incubator.org>,
 <https://carpentries-lab.org>, <https://carpentrycon.org>,
-<https://carpentryconnect.org>y en algunos de nuestros subdominios, incluido
+<https://carpentryconnect.org>, and some of our sub-domains including
 <https://amy.carpentries.org>.
 
-### Otras cookies
+### Other cookies
 
-**Cookies en <https://pad.carpentries.org>, <https://codimd.carpentries.org>, <https://amy.carpentries.org>, <https://forum.carpentries.org>**
+**Cookies on <https://pad.carpentries.org>, <https://codimd.carpentries.org>, <https://amy.carpentries.org>, <https://forum.carpentries.org>**
 
-Las cookies de estos sitios son solo cookies propias que son estrictamente necesarias o mejoran la funcionalidad de los sitios.
+Cookies on these sites are only first-party cookies that are strictly necessary or improve the functionality of the sites.
 
-## Actualización de este aviso de cookies
+## Updating this cookie notice
 
-Actualizaremos la lista de cookies que utilizamos de vez en cuando. Si hacemos algún cambio, actualizaremos la fecha de «Última actualización» que aparece en la parte superior de este documento.
+We will update the list of cookies we use from time to time. If we make any changes, we will update the “Last Updated” date at the top of this document.
 
-## Controlar sus cookies
+## Controlling your cookies
 
-Puede controlar las cookies en su navegador para habilitarlas o deshabilitarlas. Si desea que
-restrinja o bloquee las cookies establecidas por cualquier sitio web, debe hacerlo
-a través de la configuración del navegador web de cada navegador web que utilice, en cada dispositivo
-que utilice para acceder a Internet.
+You can control cookies in your browser to enable or disable them. If you wish
+to restrict or block the cookies which are set by any website, you should do
+this through the web browser settings for each web browser you use, on each
+device you use to access the internet.
