@@ -1,88 +1,88 @@
-# Talleres piloto de lecciones
+# Lesson Pilot Workshops
 
-\*\*Nota sobre _instructores_ y _instructores_: \*\* en la mayor parte de este manual nos referimos a los instructores, con mayúsculas para indicar que se trata de un puesto certificado dentro de la comunidad, es decir, alguien que ha completado la formación de instructores de carpintería.
-Parte del contenido de nuestro manual sobre el desarrollo curricular hace referencia a los instructores (sin usar mayúsculas), para distinguir entre aquellos que imparten un taller pero es posible que aún no sean instructores certificados.
+**A note about _Instructors_ and _instructors_:** in most of this handbook we refer to Instructors, capitalised to indicate that this is a certified role within the community i.e. somebody who has completed Carpentries Instructor Training.
+Some of our handbook content about curriculum development makes reference to instructors (without capitalisation), to distinguish between those who teach a workshop but may not yet be certified Instructors.
 
-## Propósito
+## Purpose
 
-Enseñar una lección por primera vez es muy gratificante, pero la experiencia de los profesores y los alumnos también identifica oportunidades para abordar y aclarar aún más partes del contenido.
-Esto hace que estos primeros repasos de una lección, a la que denominamos _lecciones pilotos_, sean hitos cruciales en el desarrollo de una lección de alta calidad.
-Además de enseñar habilidades nuevas y emocionantes a los alumnos, el propósito adicional de los talleres piloto es recopilar información y comentarios que puedan usarse para pulir el contenido y hacer que otros instructores puedan reutilizar la lección (por ejemplo, registrando los tiempos precisos de los episodios y ejercicios, ampliando las notas del instructor, etc.).
+Teaching a lesson for the first time is very rewarding, but the experience of the instructors and learners also identifies opportunities to address and further clarify parts of the content.
+This makes these early runs through a lesson, which we refer to as _lesson pilots_, crucial milestones in the development of a high-quality lesson.
+As well as teaching new and exciting skills to learners, the additional purpose of pilot workshops is to collect information and feedback that can be used to polish content and make the lesson more reusable by other instructors (e.g. by recording accurate timings for episodes and exercises, expanding Instructor Notes, etc.).
 
-### Pilotos alfa y beta
+### Alpha and Beta Pilots
 
-El proceso de desarrollo de las lecciones incluye talleres piloto en dos etapas diferentes, a los que denominamos pilotos _alfa_ y _beta_.
-Los pilotos alfa son los primeros talleres en los que se imparte la lección, casi siempre por parte de algunos o todos los desarrolladores originales de la lección.
+The lesson development process includes pilot workshops at two different stages, which we refer to as _alpha_ and _beta_ pilots.
+Alpha pilots are the first workshops where the lesson is taught, almost always by some or all of the original developers of the lesson.
 
-Una vez que los comentarios de estos pilotos alfa se hayan utilizado para mejorar la lección, esta puede pasar a la fase beta, en la que otros instructores (
-que no tuvieron un papel importante en el desarrollo anterior de la lección) y
-la enseñan y dan su opinión.
+After the feedback from these alpha pilots has been used to improve the lesson, it can enter the beta stage, where other instructors -
+who did not have a major part in the previous development of the lesson -
+teach it and provide feedback.
 
-La [página sobre el ciclo de vida de la lección] (/resources/curriculum/lesson-life-cycle.md) incluye más información sobre cómo los talleres piloto se adaptan al proceso de desarrollo iterativo de una nueva lección/plan de estudios.
-El [episodio Cómo operamos] (https://carpentries.github.io/lesson-development-training/operations.html#pilot-workshops) de la capacitación colaborativa para el desarrollo de lecciones incluye más información sobre los talleres piloto, cómo prepararse para enseñarlos y la información que puede ser útil recopilar durante el evento.
+The [Lesson Life Cycle page](/resources/curriculum/lesson-life-cycle.md) includes more information about how pilot workshops fit into the iterative development process of a new lesson/curriculum.
+The [How We Operate episode](https://carpentries.github.io/lesson-development-training/operations.html#pilot-workshops) of Collaborative Lesson Development Training includes more discussion of pilot workshops, how to prepare to teach them, and the information it can be helpful to collect during the event.
 
-## Información para desarrolladores de lecciones
+## Information for Lesson Developers
 
-### Búsqueda de anfitriones para los pilotos beta
+### Finding Hosts for Beta Pilots
 
-Si estás desarrollando una nueva lección oficial de Carpentries (
-, una lección desarrollada sobre la base de un acuerdo previo con The Carpentries y que pretende convertirse en otra lección/plan de estudios que se imparta en talleres organizados de forma centralizada),
-[el equipo curricular] (mailto:team@carpentries.org) te ayudará a encontrar anfitriones e instructores para los talleres piloto.
+If you are developing a new official Carpentries lesson -
+a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops -
+[the Curriculum Team](mailto:team@carpentries.org) will help you find hosts and Instructors for pilot workshops.
 
-Si estás desarrollando una lección en The Carpentries Incubator, puedes reclutar anfitriones piloto haciendo una llamada a través de:
+If you are developing a lesson in The Carpentries Incubator, you can recruit pilot hosts by putting out a call via:
 
-- [la lista de TopicBox de _discus_] (https://carpentries.topicbox.com/groups/discuss).
-- [el canal _general_ del espacio de trabajo de Slack de The Carpentries] (https://carpentries.org/connect/).
-- publicando una entrada en nuestro blog.
-- y/o por cualquier otro canal de comunicación que considere apropiado (por ejemplo, la lista de correo de una comunidad específica que pueda estar interesada en el tema de la lección).
+- [the _discuss_ TopicBox list](https://carpentries.topicbox.com/groups/discuss).
+- [the _general_ channel on The Carpentries Slack workspace](https://carpentries.org/connect/).
+- by publishing a post on our blog.
+- and/or by any other communications channel that you think appropriate (e.g. the mailing list of a specific community likely to be interested in the lesson topic).
 
-Puede que esta [plantilla de entrada de blog] (https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing) y/o este [mensaje de correo electrónico de plantilla] (https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing) te resulten útiles como puntos de partida.
-Si después de tomar estas medidas, descubres que necesitas ayuda para encontrar anfitriones para poner a prueba tu lección o si tienes alguna pregunta sobre el proceso piloto de la lección para las clases de The Carpentries Incubator, puedes [contactar a incubator@carpentries.org] (mailto:incubator@carpentries.org).
+You may find this [template blog post](https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing) and/or this [template email message](https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing) helpful starting points.
+If after taking these steps, you find that you need help finding hosts to pilot your lesson, or if you have any questions about the lesson pilot process for lessons in The Carpentries Incubator, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org).
 
-### Recopilación de comentarios sobre la lección
+### Collecting Feedback on the Lesson
 
-Los comentarios de los alumnos serán una valiosa fuente de información y sugerencias sobre cómo se podría mejorar aún más la lección después del piloto.
-Las encuestas estándar de Carpentries antes y después del taller no son compatibles con las lecciones piloto, por lo que tendrás que crear tus propias encuestas para enviarlas antes o después del taller piloto.
-Si bien las encuestas para los talleres piloto suelen incluir preguntas específicas de la lección en particular que se está probando, hay algunas preguntas estándar de retroalimentación que se pueden hacer después de un piloto para evaluar el diseño y el flujo de la lección.
-Esta [plantilla de encuesta posterior al taller piloto] (https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) se puede copiar y adaptar para que se adapte a las necesidades de la lección y compartirla con los alumnos en lugar de la encuesta estándar posterior al taller.
+Feedback from learners will be a valuable source of information about and suggestions for how your lesson could be further improved after the pilot.
+The standard Carpentries pre- and post-workshop surveys do not support lesson pilots so you will need to create your own surveys to send out before/after a pilot workshop.
+Although surveys for pilot workshops will frequently include questions that are specific to the particular lesson being piloted, there are some standard feedback questions that can be asked after a pilot to assess the design and flow of the lesson.
+This [template post-pilot workshop survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) can be copied and adapted to suit the needs of your lesson, and shared with learners in place of the standard post-workshop survey.
 
-También es importante recopilar información sobre la lección mientras se enseña.
-Consulta el [episodio Cómo operamos] (https://carpentries.github.io/lesson-development-training/operations.html#pilot-workshops) de la capacitación colaborativa para el desarrollo de lecciones para ver una lista de cosas que debes tener en cuenta durante el taller piloto.
-Recomendamos asignar a una persona o personas específicas para llevar un registro de estos puntos (por ejemplo, un instructor o un ayudante).
-Puede resultarle útil hacer una copia de [la plantilla de notas de observación del piloto] (https://codimd.carpentries.org/lesson-pilot-observation-notes-template) para usarla durante el taller.
+It is also important to gather information about the lesson while it is being taught.
+Check the [How We Operate episode](https://carpentries.github.io/lesson-development-training/operations.html#pilot-workshops) of Collaborative Lesson Development Training for a list of things to take note of during the pilot workshop.
+We recommend assigning a specific person or people to keep track of these points (e.g. an instructor or helper).
+You may find it helpful to make a copy of [the pilot observation notes template](https://codimd.carpentries.org/lesson-pilot-observation-notes-template) to use during the workshop.
 
-## Información para anfitriones
+## Information for Hosts
 
-### Reclutamiento de instructores para pilotos beta
+### Recruiting Instructors for Beta Pilots
 
-Si estás organizando una nueva lección oficial de Carpentries (
-, una lección desarrollada en base a un acuerdo previo con The Carpentries y que pretende convertirse en otra lección/plan de estudios que se ofrezca en talleres organizados de forma centralizada),
-[el equipo curricular] (mailto:team@carpentries.org) te ayudará a encontrar instructores para los talleres piloto.
-[Los instructores deben estar certificados y haber impartido al menos dos talleres de carpintería] (./lesson-development-roles.md#beta-pilot-instructors).
+If you are hosting a pilot of a new official Carpentries lesson -
+a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in centrally-organised workshops -
+[the Curriculum Team](mailto:team@carpentries.org) will help you find Instructors for pilot workshops.
+[Instructors should be certified and have taught at least two Carpentries workshops](./lesson-development-roles.md#beta-pilot-instructors).
 
-The Carpentries también desea apoyar el desarrollo y la puesta a prueba de las lecciones en The Carpentries Incubator.
-Si estás organizando una lección piloto en la incubadora, te pedimos que, **primero**, intentes encontrar tú mismo instructores para los talleres piloto.
-A menudo, los anfitriones pueden contratar instructores de su comunidad local con conocimientos relevantes sobre el tema de la lección, pero en algunos casos esto no será posible.
-Si deseas reclutar instructores para un taller piloto, intenta hacer un llamado:
+The Carpentries is also keen to support the development and piloting of lessons in The Carpentries Incubator.
+If you are hosting a pilot of a lesson in the Incubator, we ask that you **first** try to find Instructors for pilot workshops yourself.
+Often, hosts are able to recruit instructors from their local community with relevant knowledge of the lesson topic, but in some cases this will not be possible.
+If you wish to recruit Instructors for a pilot workshop, try putting a call out:
 
-- en [listas de correo de comunidades locales/regionales] (https://carpentries.topicbox.com/groups).
-- a cualquier canal relevante en [El espacio de trabajo de Slack de The Carpentries] (https://carpentries.org/connect/) (es posible que los autores de la lección puedan dirigirte a ellos).
-- publicando una entrada en nuestro blog.
+- on [local/regional community mailing lists](https://carpentries.topicbox.com/groups).
+- to any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these).
+- by publishing a post on our blog.
 
-No publiques convocatorias para instructores en el canal general o #instructors de Slack, ni en las listas de debate e instructores de TopicBox.
-Los mensajes para reclutar instructores se eliminarán de esos canales.
-Si después de seguir estos pasos, descubres que necesitas ayuda para encontrar instructores para tu lección piloto, puedes [contactar a incubator@carpentries.org] (mailto:incubator@carpentries.org) para obtener ayuda.
+Please do not post calls for Instructors to the general or #instructors channel on Slack, or the discuss and Instructors lists on TopicBox.
+Any messages to recruit instructors will be removed from those channels.
+If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org) for assistance.
 
-### Creación de una página web para un taller piloto
+### Creating a Pilot Workshop Webpage
 
-[La plantilla de página web del taller de carpintería] (https://github.com/carpentries/workshop-template) apoya la creación de páginas web para talleres piloto.
-Consulte [la página de personalización de la documentación de la plantilla] (https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml) para obtener instrucciones sobre cómo configurar la página web para un taller piloto.
+[The Carpentries workshop webpage template](https://github.com/carpentries/workshop-template) supports the creation of webpages for pilot workshops.
+See [the Customisation page of the template documentation](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml) for instructions on how to configure the webpage for a pilot workshop.
 
-Si estás probando una nueva lección oficial de Carpentries (
-, una lección desarrollada en base a un acuerdo previo con The Carpentries y que pretende convertirse en otra lección/plan de estudios que se ofrezca en talleres organizados de forma centralizada)
-, [registre su piloto como taller autoorganizado] (https://amy.carpentries.org/forms/self-organised/).
-Si no ve la lección o el plan de estudios que se está probando entre las opciones de ese formulario, póngase en contacto con [The Carpentries Core Team] (mailto:team@carpentries.org).
+If you are piloting a new official Carpentries lesson -
+a lesson developed based on prior agreement with The Carpentries, and which is intended to become another lesson/curriculum offered in Centrally-Organised Workshops -
+please [register your pilot as a Self-Organised Workshop](https://amy.carpentries.org/forms/self-organised/).
+If you do not see the lesson/curriculum being piloted listed as one of the choices on that form, please contact [The Carpentries Core Team](mailto:team@carpentries.org).
 
-Para los talleres que impartan clases en The Carpentries Incubator, debes crear una página web del taller, pero no debes enviar los detalles del taller al equipo principal de The Carpentries a través del formulario vinculado arriba.
-En su lugar, si quieres informar a la comunidad sobre tu evento, puedes hacerlo rellenando el formulario bajo _Workshops_ en [Página de inicio de The Incubator] (https://carpentries-incubator.org/).
-Los talleres que se envíen allí serán procesados por el equipo del plan de estudios y se enumerarán en la tabla de esa página.
+For workshops teaching lessons in The Carpentries Incubator, you should create a workshop webpage but should not submit the workshop details to The Carpentries Core Team via the form linked above.
+Instead, if you want to tell the community about your event you can do so by filling in the form under _Workshops_ on [The Incubator homepage](https://carpentries-incubator.org/).
+Workshops submitted there will be processed by the Curriculum Team and will be listed in the table on that page.
