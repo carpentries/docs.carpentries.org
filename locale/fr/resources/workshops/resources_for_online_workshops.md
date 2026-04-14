@@ -1,97 +1,97 @@
-# Resources for Online Workshops
+# Ressources pour les ateliers en ligne
 
-In the wake of COVID-19 in early 2020, The Carpentries community came together to share experiences, tips, and best practices for teaching online. This page lists all the resources developed and links to ongoing conversations by The Carpentries Core Team and community on different platforms.
+À la suite de la COVID-19 au début de 2020, la communauté The Carpentries s'est réunie pour partager ses expériences, ses conseils et ses meilleures pratiques en matière d'enseignement en ligne. Cette page répertorie toutes les ressources développées et contient des liens vers les conversations en cours entre l'équipe principale de The Carpentries et la communauté sur différentes plateformes.
 
-## Resources by The Carpentries
+## Ressources proposées par The Carpentries
 
-The Carpentries convened a [Task Force to address the urgent demand for online Carpentries workshops](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) as communities have shifted to distance work across the globe. The Task Force concluded its work on 1 April 2020, with an initial set of guidelines for teaching, supporting, and communicating about fully online versions of all Data Carpentry, Library Carpentry, and Software Carpentry workshops.
+The Carpentries a réuni un [groupe de travail pour répondre à la demande urgente d'ateliers de menuiserie en ligne] (https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) alors que les communautés sont passées au travail à distance dans le monde entier. Le groupe de travail a achevé ses travaux le 1er avril 2020, avec un premier ensemble de directives pour l'enseignement, le soutien et la communication concernant les versions entièrement en ligne de tous les ateliers de menuiserie de données, de menuiserie de bibliothèque et de menuiserie logicielle.
 
-- 24 April, [blog post with information about cloud instances that are now available as backup for learners in Carpentries workshops with installation issues](https://carpentries.org/blog/2020/04/scaffolds/)
-- 28 April, [blog post with information to guide Carpentries Instructors as they teach workshops remotely](https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/).
-- FAQ for online workshop coordination [can be found on The Carpentries website](https://carpentries.org/workshops/workshops-faq/#online-workshops).
-- 20 May, [blog post announcing a new series of online workshop themed discussions](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/).
-- Carpentries Handbook: [How to use Zoom](/resources/communications/zoom_rooms.md).
+- 24 avril, [billet de blog contenant des informations sur les instances cloud désormais disponibles en tant que sauvegarde pour les apprenants des ateliers Carpentries ayant des problèmes d'installation] (https://carpentries.org/blog/2020/04/scaffolds/)
+- 28 avril, [billet de blog contenant des informations pour aider les professeurs de menuiserie à animer des ateliers à distance] (https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/).
+- FAQ pour la coordination des ateliers en ligne [disponible sur le site web de The Carpentries] (https://carpentries.org/workshops/workshops-faq/#online-workshops).
+- 20 mai, [billet de blog annonçant une nouvelle série de discussions sur le thème des ateliers en ligne] (https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/).
+- Manuel de menuiserie : [Comment utiliser Zoom] (/resources/communications/zoom_rooms.md).
 
-## Resources by Community
+## Ressources par communauté
 
-Carpentries community members have written many blog posts and facilitated several webinars on this topic and they are listed below. If you are looking to write a blog post on your experiences from online workshops, check out the [blog post prompts](#blog-post-prompts) section.
+Les membres de la communauté Carpentries ont écrit de nombreux articles de blog et animé plusieurs webinaires sur ce sujet. Ils sont listés ci-dessous. Si vous souhaitez rédiger un article de blog sur vos expériences lors d'ateliers en ligne, consultez la section [invite à publier un article de blog] (#blog-post-prompts).
 
-### Blog posts
+### Articles de blog
 
-- Elizabeth Wickes on 12 March, [Tips for Live Teaching Tech Online, Deeply Informed by The Carpentries](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/).
-- Collaborative blog posts by Carpentries community in March 2020 as a result of this [call for contributions]:(https://twitter.com/thecarpentries/status/1238479488037593088)
-  - 19 March, [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/).
-  - 30 March, [More Community-Contributed Tips for Teaching Online](https://carpentries.org/blog/2020/03/more-tips-teaching-online/).
-- Radovan Bast et al on 20 April, [Lessons Learned from Running Code Refinery's First Online Workshop](https://carpentries.org/blog/2020/04/coderefinery-first-online-workshop/).
-- David Perez-Suarez on 21 April, [Running University College London's First Online Git Workshop](https://carpentries.org/blog/2020/04/ucl-first-online-git-workshop/).
-- Darya Vanichkina on 23 April, [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/).
-- Darya Vanichkina on 24 April, [Having a Great Online Learning Experience: A Guide for Students](https://carpentries.org/blog/2020/04/great-online-learning-student/).
-- Radovan Bast, Flavio Calvo, Richard Darst, Anne Fouilloux, Pavlin Mitev, Hasti Narimanzadeh, Pedro Ojeda May, João M. da Silva and Thor Wikfeldt on 14 April, [Lessons learned from running our first online workshop](https://coderefinery.org/blog/2020/04/14/first-online-workshop/).
-- Sarah Stevens on 12 May, [Running a Virtual Social Carpentries Meetup in UW-Madison](https://carpentries.org/blog/2020/05/virtual-carpentries-social-meetup/).
-- Charles Guan, Rachel Lombardi, Akshay Paropkari, Donny Winston on 14 May, [Learnings from the First Centrally-Organised Online Workshop of 2020](https://carpentries.org/blog/2020/05/centrally-organised-workshop-learnings/).
-- Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer, Angelique van Rensburg on 28 May, [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/).
-- Jane Koh on 15 June, [Outlining a Successful Virtual Software Carpentry Workshop on Zoom](https://carpentries.org/blog/2020/06/virtual-software-carpentry-workshop/).
-- Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/).
-- Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/).
-- Rosa Lönneborg, Omar Khan, and Serah Rono on 2 July, [Lessons Learned - Teaching Carpentries Workshops Online in Sweden, May 2020](https://carpentries.org/blog/2020/07/stockholm-online-workshop/).
-- Shoaib Sufi, Aleksandra Nenadic, Rachael Ainsworth, Lucia Michielin, Steve Crouch, Mario Antonioletti, Giacomo Peru on 10 July, [The Software Sustainability Institute's Guidance for Running Online Training](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/).
-- Richard Darst and Naoe Tatara on 26 August, [Report from the Mega-CodeRefinery Workshop](https://carpentries.org/blog/2020/08/report-from-the-mega-coderefinery-workshop/).
-- Jannetta Steyn on 24 September, [Running Newcastle University's First Online Software Carpentries Workshop](https://carpentries.org/blog/2020/09/newcastle-first-online-swc-workshop/).
-- Jannetta Steyn, Benson Muite, Marissa Griesel, Maggi Mars, Lactatia Motsuku, Varshita Sher, Marissa Griesel, SamuelLe Lelièvre, Angelique van Rensburg on 7 October, [Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)](https://carpentries.org/blog/2020/10/lessons-learned-dcw-for-sadilar-august/).
-- Selorm Tamakloe on 13 October, [Reflections on my First Data Carpentry Workshop](https://carpentries.org/blog/2020/10/reflections-on-my-first-data-carpentry-workshop/).
-- Ariel Deardorff, Reid Otsuji, Stephanie Labou, Tim Dennis, Khue Duong, Elizabeth McAulay, Leigh Phan on 22 October, [Teaching a Library Carpentry Workshop in Southern California (and the Virtual Yonder)](https://carpentries.org/blog/2020/10/teaching-a-library-carpentry-workshop-in-southern-california/).
+- Elizabeth Wickes le 12 mars, [Conseils pour enseigner la technologie en direct en ligne, profondément informée par The Carpentries] (https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/).
+- Articles de blog collaboratifs publiés par la communauté de Carpentries en mars 2020 à la suite de cet [appel à contributions] : (https://twitter.com/thecarpentries/status/1238479488037593088)
+  - 19 mars, [Conseils pour enseigner en ligne de la part de The Carpentries Community] (https://carpentries.org/blog/2020/03/tips-for-teaching-online/).
+  - 30 mars, [Plus de conseils fournis par la communauté pour enseigner en ligne] (https://carpentries.org/blog/2020/03/more-tips-teaching-online/).
+- Radovan Bast et al. le 20 avril, [Leçons tirées du premier atelier en ligne de Running Code Refinery] (https://carpentries.org/blog/2020/04/coderefinery-first-online-workshop/).
+- David Perez-Suarez le 21 avril, [Animant le premier atelier Git en ligne de l'University College London] (https://carpentries.org/blog/2020/04/ucl-first-online-git-workshop/).
+- Darya Vanichkina le 23 avril, [Cartographie et planification d'un atelier de codage en direct pour la diffusion numérique] (https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/).
+- Darya Vanichkina le 24 avril, [Une excellente expérience d'apprentissage en ligne : un guide pour les étudiants] (https://carpentries.org/blog/2020/04/great-online-learning-student/).
+- Radovan Bast, Flavio Calvo, Richard Darst, Anne Fouilloux, Pavlin Mitev, Hasti Narimanzadeh, Pedro Ojeda May, João M. da Silva et Thor Wikfeldt le 14 avril, [Leçons tirées de notre premier atelier en ligne] (https://coderefinery.org/blog/2020/04/14/first-online-workshop/).
+- Sarah Stevens le 12 mai, [Organiser une rencontre virtuelle sur les menuiseries sociales à UW-Madison] (https://carpentries.org/blog/2020/05/virtual-carpentries-social-meetup/).
+- Charles Guan, Rachel Lombardi, Akshay Paropkari, Donny Winston le 14 mai, [Les enseignements du premier atelier en ligne organisé centralement en 2020] (https://carpentries.org/blog/2020/05/centrally-organised-workshop-learnings/).
+- Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer, Angelique van Rensburg le 28 mai, [Expériences des apprenants lors de l'atelier en ligne en Afrique du Sud] (https://carpentries.org/blog/2020/05/south-africa-online-workshop/).
+- Jane Koh le 15 juin, [Présentation d'un atelier virtuel de menuiserie logicielle réussi sur Zoom] (https://carpentries.org/blog/2020/06/virtual-software-carpentry-workshop/).
+- Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan et Tim Dennis le 16 juin, [Leçons apprises - Atelier d'enseignement de la menuiserie en ligne UCLA Spring 2020] (https://carpentries.org/blog/2020/06/ucla-online-workshop/).
+- Daniel Chen le 26 juin, [Logistique des ateliers en ligne et mises en page des écrans] (https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/).
+- Rosa Lönneborg, Omar Khan et Serah Rono le 2 juillet, [Leçons apprises - Enseignement d'ateliers de menuiserie en ligne en Suède, mai 2020] (https://carpentries.org/blog/2020/07/stockholm-online-workshop/).
+- Shoaib Sufi, Aleksandra Nenadic, Rachael Ainsworth, Lucia Michielin, Steve Crouch, Mario Antonioletti, Giacomo Peru le 10 juillet, [Guide du Software Sustainability Institute pour l'organisation de formations en ligne] (https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/).
+- Richard Darst et Naoe Tatara le 26 août, [Rapport de l'atelier Mega-CodeRefinery] (https://carpentries.org/blog/2020/08/report-from-the-mega-coderefinery-workshop/).
+- Jannetta Steyn le 24 septembre, [Animant le premier atelier de menuiserie logicielle en ligne de l'université de Newcastle] (https://carpentries.org/blog/2020/09/newcastle-first-online-swc-workshop/).
+- Jannetta Steyn, Benson Muite, Marissa Griesel, Maggi Mars, Lactatia Motsuku, Varshita Sher, Marissa Griesel, Samuelle Lelièvre, Angelique van Rensburg le 7 octobre, [Leçons apprises - Atelier de menuiserie de données pour SADiLar (31 août 2020)] (https://carpentries.org/blog/2020/10/lessons-learned-dcw-for-sadilar-august/).
+- Selorm Tamakloe le 13 octobre, [Réflexions sur mon premier atelier de menuiserie de données] (https://carpentries.org/blog/2020/10/reflections-on-my-first-data-carpentry-workshop/).
+- Ariel Deardorff, Reid Otsuji, Stephanie Labou, Tim Dennis, Khue Duong, Elizabeth McAulay, Leigh Phan le 22 octobre, [Enseignement d'un atelier de menuiserie dans une bibliothèque dans le sud de la Californie (et le Virtual Yonder)] (https://carpentries.org/blog/2020/10/teaching-a-library-carpentry-workshop-in-southern-california/).
 
-#### Blog post prompts
+#### Invitations pour les articles de blog
 
-Review these if you are looking to write about your teaching experiences:
+Passez en revue ces articles si vous souhaitez écrire sur vos expériences d'enseignement :
 
-1. How many learners were in the workshop and were they distributed locally (if locally, where?) or globally?
-2. What other important contextual information can you give about the workshop?
-   - When was it held, over what period of time?
-   - Which lessons were taught?
-   - Were there asynchronous portions or was it all live?
-     - If there was an asynchronous element to your workshop, did you create any resources that you can link to / share with the broader Carpentries community?
-   - How many Instructors and helpers were there? What were the roles?
-3. What worked well for this workshop? Were there specific technologies or tools that you used that you would recommend? Please describe how the tools were used and what you would recommend in terms of their usage.
-4. What challenges came up during the workshop? These can be challenges in teaching online or general challenges. (It is important to know what aspects of the workshop experience remain the same regardless of online or in-person.)
-5. In migrating the content of the workshop online, what did you learn? Were there portions of the curriculum that were easier to modify for hosting online?
-6. What do you wish you had known or considered before the workshop? What preparation would have been helpful in delivering the workshop?
-7. Which resources (e.g. blog posts, Carpentries recommendations) did you use prior to the workshop?
-   - Were they helpful?
-   - How would you adapt the resources post workshop?
-8. Would you be willing to share your experience briefly in a Themed Discussion session around running online workshops in the future? If yes, we would afford you a 5-15 minute slot to share your experiences. How much time would you need?
+1. Combien d'apprenants ont participé à l'atelier et ont-ils été répartis localement (si localement, où ?) ou dans le monde entier ?
+2. Quelles autres informations contextuelles importantes pouvez-vous donner à propos de l'atelier ?
+   - Quand s'est-il tenu, pendant quelle période ?
+   - Quelles leçons ont été enseignées ?
+   - Y avait-il des parties asynchrones ou étaient-elles toutes en ligne ?
+     - Si votre atelier comportait un élément asynchrone, avez-vous créé des ressources que vous pouvez mettre en lien ou partager avec l'ensemble de la communauté Carpentries ?
+   - Combien d'instructeurs et d'assistants y avait-il ? Quels étaient les rôles ?
+3. Qu'est-ce qui a bien fonctionné pour cet atelier ? Avez-vous utilisé des technologies ou des outils spécifiques que vous recommanderiez ? Veuillez décrire comment les outils ont été utilisés et ce que vous recommanderiez en termes d'utilisation.
+4. Quels défis ont été relevés au cours de l'atelier ? Il peut s'agir de défis liés à l'enseignement en ligne ou de défis généraux. (Il est important de savoir quels aspects de l'expérience de l'atelier restent les mêmes, que ce soit en ligne ou en personne.)
+5. Qu'avez-vous appris en transférant le contenu de l'atelier en ligne ? Certaines parties du programme étaient-elles plus faciles à modifier pour l'hébergement en ligne ?
+6. Qu'aurais-tu aimé savoir ou avoir envisagé avant l'atelier ? Quelle préparation aurait été utile pour animer l'atelier ?
+7. Quelles ressources (articles de blog, recommandations sur la menuiserie, par exemple) avez-vous utilisées avant l'atelier ?
+   - Ont-ils été utiles ?
+   - Comment adapteriez-vous les ressources après l'atelier ?
+8. Seriez-vous prêt à partager brièvement votre expérience lors d'une session de discussion thématique sur l'organisation d'ateliers en ligne à l'avenir ? Dans l'affirmative, nous vous accorderons un créneau de 5 à 15 minutes pour partager vos expériences. De combien de temps auriez-vous besoin ?
 
-### Webinars and Community Calls
+### Webinaires et appels communautaires
 
-- Jason Bell on 27 February, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8).
-- Darya Vanichkina on 7 April, [Jumping into digital: Lessons learned while moving live-coding workshops online](https://youtu.be/w0DHye2M1IM).
-- Themed Discussions: Online Workshop Series:
-  - Session One, 1 June 2020
-    - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5).
-    - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929).
-    - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461).
-- CarpentryCon @ Home sessions
-  - on 15 July by Angelique van Rensburg and Serah Rono - [Carpentries Instructors' Experiences from Teaching Online - Session One](https://youtu.be/vNIyz__WiM8)
-  - on 23 July by Kelly Barnes and Sher! Hurt - [Carpentries Instructors' Experiences from Teaching Online - Session Two](https://youtu.be/STA9DQF5J3E)
+- Jason Bell le 27 février, [Ateliers virtuels de menuiserie logicielle : principaux enseignements pour en faire un succès] (https://youtu.be/MzsJyOkxqv8).
+- Darya Vanichkina le 7 avril, [Passage au numérique : leçons apprises lors de la diffusion d'ateliers de codage en direct en ligne] (https://youtu.be/w0DHye2M1IM).
+- Discussions thématiques : Série d'ateliers en ligne :
+  - Première session, 1er juin 2020
+    - Planification/inscription de votre atelier en ligne - Dirigé par la directrice adjointe des ateliers et des réunions, Sher ! Blessé : [Lien vers l'enregistrement] (https://youtu.be/Ml1AGYD0x1o?t=5).
+    - Comment remplir le modèle d'atelier pour configurer correctement votre site Web pour les ateliers en ligne - Dirigé par Zhian Kamvar, développeur de la technologie de l'infrastructure des leçons, PhD : [Lien vers l'enregistrement] (https://youtu.be/Ml1AGYD0x1o?t=929).
+    - Comment utiliser Zoom pour les ateliers en ligne - Dirigés par Maneesha Sane, responsable de l'assurance qualité : [Lien vers l'enregistrement] (https://youtu.be/Ml1AGYD0x1o?t=1461).
+- Séances CarpentryCon @ Home
+  - le 15 juillet par Angelique van Rensburg et Serah Rono - [Les expériences des professeurs de menuiserie grâce à l'enseignement en ligne - Première session] (https://youtu.be/vNIyz__WiM8)
+  - le 23 juillet par Kelly Barnes et Sher ! Hurt - [Les expériences des professeurs de menuiserie grâce à l'enseignement en ligne - Deuxième session] (https://youtu.be/STA9DQF5J3E)
 
-## Other Relevant Resources
+## Autres ressources pertinentes
 
-- UK Software Sustainability Institute's [guidance for running online training events](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/).
-- Greg Wilson on 24 March, [Teaching Online at Short Notice](https://resources.rstudio.com/webinars/teaching-online-at-short-notice).
-- [Strategies for addressing unequal technological access from the University of Cape Town](https://docs.google.com/document/d/1541zKh3UCtVKAkdITkYHWu4GXVW1lGWEdWFE-I8PeXk/edit?usp=sharing).
-- Lex Nederbragt on 2 April, [Scaling participatory live coding in an undergraduate computational biology course](https://lexnederbragt.com/blog/2020-04-02-scaling-live-coding).
-- [Detailed guide from the University of Cape Town on low-tech online teaching resources](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit).
-- Daniel Stanford on 16 March, [Videoconferencing Alternatives: How Low-Bandwidth Teaching Will Save Us All](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/).
-- [CodeRefinery's](https://coderefinery.org) manual on [using Zoom for online teaching](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md).
+- [conseils pour l'organisation d'événements de formation en ligne] du UK Software Sustainability Institute (https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/).
+- Greg Wilson le 24 mars, [Enseignement en ligne à court terme] (https://resources.rstudio.com/webinars/teaching-online-at-short-notice).
+- [Stratégies pour remédier à l'inégalité d'accès technologique proposées par l'Université du Cap] (https://docs.google.com/document/d/1541zKh3UCtVKAkdITkYHWu4GXVW1lGWEdWFE-I8PeXk/edit?usp=sharing).
+- Lex Nederbragt le 2 avril, [Mise à l'échelle du codage participatif en direct dans un cours de biologie computationnelle de premier cycle] (https://lexnederbragt.com/blog/2020-04-02-scaling-live-coding).
+- [Guide détaillé de l'Université du Cap sur les ressources pédagogiques en ligne low-tech] (https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit).
+- Daniel Stanford le 16 mars, [Alternatives à la visioconférence : comment l'enseignement à faible bande passante nous sauvera tous] (https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/).
+- Manuel de [CodeRefinery] (https://coderefinery.org) sur [l'utilisation de Zoom pour l'enseignement en ligne] (https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md).
 
-## Discussions in Carpentries Socials
+## Discussions dans Carpentries Socials
 
-- 17 March, [Is COVID-19 virus demanding alternative software carpentry workshop delivery options?](https://carpentries.topicbox.com/groups/discuss/Tbc9cd93eb778c88f-M2d6f00dfbc11c39d45c4f734/discuss-re-is-covid-19-virus-demanding-alternative-software-carpentry-workshop-delivery-options) discussion on TopicBox.
-- 6 April, [Post-workshop eval questions related to online delivery?](https://carpentries.topicbox.com/groups/discuss/Te89ac5e6b2f4c3b6-M79691c07b99dc8a455597c88/post-workshop-eval-questions-related-to-online-delivery) discussion on TopicBox.
-- 16 April, [Discussion under David Perez-Suarez' post](https://carpentries.slack.com/archives/C03LE48AY/p1587034437098200) in the #general Slack on his experiences from running an online workshop.
-- 22 April, [Discussion under Lex Nederbragt's post](https://carpentries.slack.com/archives/C08BVNU00/p1587540700017100) in the #instructors Slack channel over tips for participatory live coding online.
-- 14 May, [Discussion on using online sticky notes for feedback](https://carpentries.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) in the #general Slack channel.
-- 25 May, [Discussion on using HackMD when teaching online workshops](https://carpentries.slack.com/archives/C08BVNU00/p1590393408057100).
-- 28 May, [Discussion on using Zoom Breakout Rooms during online workshops](https://carpentries.slack.com/archives/C08BVNU00/p1590647888066700).
+- 17 mars, [Le virus COVID-19 exige-t-il des logiciels alternatifs pour la livraison des ateliers de menuiserie ?] (https://carpentries.topicbox.com/groups/discuss/Tbc9cd93eb778c88f-M2d6f00dfbc11c39d45c4f734/discuss-re-is-covid-19-virus-demanding-alternative-software-carpentry-workshop-delivery-options) discussion sur TopicBox.
+- 6 avril, [Questions d'évaluation après l'atelier concernant la livraison en ligne ?] (https://carpentries.topicbox.com/groups/discuss/Te89ac5e6b2f4c3b6-M79691c07b99dc8a455597c88/post-workshop-eval-questions-related-to-online-delivery) discussion sur TopicBox.
+- 16 avril, [Discussion dans le cadre du billet de David Perez-Suarez] (https://carpentries.slack.com/archives/C03LE48AY/p1587034437098200) dans le Slack #general sur ses expériences en animant un atelier en ligne.
+- 22 avril, [Discussion sous le billet de Lex Nederbragt] (https://carpentries.slack.com/archives/C08BVNU00/p1587540700017100) sur la chaîne #instructors Slack à propos de conseils pour le codage participatif en direct en ligne.
+- 14 mai, [Discussion sur l'utilisation de notes autocollantes en ligne pour les commentaires] (https://carpentries.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) sur la chaîne Slack #general.
+- 25 mai, [Discussion sur l'utilisation de HackMD lors de l'enseignement d'ateliers en ligne] (https://carpentries.slack.com/archives/C08BVNU00/p1590393408057100).
+- 28 mai, [Discussion sur l'utilisation de Zoom Breakout Rooms lors d'ateliers en ligne] (https://carpentries.slack.com/archives/C08BVNU00/p1590647888066700).
 
 
