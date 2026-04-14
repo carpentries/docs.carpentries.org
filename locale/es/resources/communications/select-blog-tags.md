@@ -1,311 +1,311 @@
-# Selección de etiquetas para tu blog de carpintería
+# Selecting Tags for your Carpentries Blog
 
-Cuando escribas o colabores en una entrada de blog para [El blog de The Carpentries] (https://carpentries.org/blog/), selecciona una entrada de la lista que se describe en este documento.
+When writing or collaborating on a blog post for [The Carpentries blog](https://carpentries.org/blog/), please select from the list outlined in this document.
 
-Cada una de las etiquetas del blog tiene una definición que te ayuda a seleccionar qué etiquetas son relevantes para tu publicación.
+Each of the blog tags has a definition to help you select which tags are relevant to your post.
 
-Si tienes dudas sobre qué etiquetas debes adjuntar a tu publicación, envía un correo electrónico a {{'[{}] (mailto:{}) '.format (community_email, community_email)}} y te ayudaremos a elegir una.
+If in doubt over what tags to attach to your post, email {{'[{}](mailto:{})'.format(community_email, community_email)}} and we will help you pick one.
 
-Además, si crees que hay una etiqueta que se ajusta a tu publicación y no está en la lista siguiente, ponte en contacto con nosotros.
+Additionally, if you feel there is a tag that fits your post, that is not in the list below, please reach out to us.
 
 <hr>
 
-## Etiquetas de publicaciones de blog
+## Blog post tags
 
-### Accesibilidad
+### Accessibility
 
-Para publicaciones de blog relacionadas con el trabajo de The Carpentries sobre accesibilidad y apoyo a la accesibilidad, incluidos, entre otros, el diseño y la implementación de programas y procesos, que ofrecen múltiples vías de acceso y participación.
+For blog posts related to The Carpentries' work on accessibility and accessbility support, including but not limited to program/process design and implementation that offers multiple avenues for access and participation.
 
-### África
+### Africa
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en África.
+For blog posts related to Carpentries' work in Africa.
 
-### EJÉRCITO
+### AMY
 
-Para publicaciones de blog relacionadas con las actualizaciones de AMY, el software de gestión de datos comunitarios de The Carpentries.
+For blog posts related to updates on AMY, the community data management software of The Carpentries.
 
-### Inteligencia artificial
+### Artificial Intelligence
 
-Para publicaciones de blog sobre inteligencia artificial (IA) y sus herramientas, incluidos, entre otros, los modelos lingüísticos grandes (LLM).
+For blog posts about artificial intelligence (AI) and its tools, including but not limited to large language models (LLMs).
 
-### Evaluación
+### Assessment
 
-Esfuerzos para analizar y evaluar los comentarios sobre el trabajo de The Carpentries en relación con los talleres, la capacitación de instructores y otras operaciones.
+Efforts to analyse and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
 
 ### Australasia
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en Australasia.
+For blog posts related to Carpentries' work in Australasia.
 
-### Consejo de Administración
+### Board of Directors
 
-Para publicaciones de blog sobre actualizaciones y anuncios de la junta directiva de The Carpentries, el máximo órgano de gobierno de la organización sin fines de lucro The Carpentries.
+For blog posts about updates and announcements from The Carpentries Board of Directors, the highest governing body of The Carpentries non-profit organisation.
 
-### Libros
+### Books
 
-Para usar en publicaciones de blog sobre libros publicados directamente sobre o escritos por miembros de la comunidad de The Carpentries.
+For use in blog posts about published books directly about or written by members of The Carpentries community.
 
-### Equipo principal de Carpentries (anteriormente, «Equipo de Carpentries»)
+### Carpentries Core Team (previously, "Carpentries Team")
 
-Para publicaciones de blog relacionadas con la contratación y otras actividades del equipo principal de The Carpentries.
+For blog posts related to hiring and other activities of The Carpentries Core Team.
 
-### Laboratorio de carpintería
+### Carpentries Lab
 
-Describir los anuncios relacionados con el [Laboratorio de carpintería] (https://carpentries-lab.org). El laboratorio de carpintería es un lugar para clases estables y de alta calidad. Proporciona un espacio y procesos para la revisión abierta por pares de las lecciones, y alberga una colección de lecciones revisadas para que los miembros de la comunidad de The Carpentries las enseñen en sus propios talleres.
+Describing announcements related to the [Carpentries Lab](https://carpentries-lab.org). The Carpentries Lab is a place for high-quality, stable lessons. It provides a space and processes for open peer review of lessons, and hosts a collection of reviewed lessons for members of The Carpentries community to teach in their own workshops.
 
-### Banco de trabajo de carpintería
+### Carpentries Workbench
 
-Para publicaciones de blog sobre la infraestructura de lecciones de The Carpentries, The Carpentries Workbench.
+For blog posts on The Carpentries' lesson infrastructure, The Carpentries Workbench.
 
-### Icono de carpintería
+### CarpentryCon
 
-Para publicaciones de blog relacionadas con CarpentryCon, la conferencia bianual de The Carpentries.
+For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
 
-### Carpentry Connect
+### CarpentryConnect
 
-Para publicaciones de blog relacionadas con los eventos de CarpentryConnect, eventos locales y regionales dirigidos por miembros de la comunidad.
+For blog posts related to CarpentryConnect events, local and regional events led by community members.
 
 ### CLDT
 
-Para publicaciones de blog sobre el programa de capacitación colaborativa para el desarrollo de lecciones de The Carpentries.
+For blog posts about The Carpentries' Collaborative Lesson Development Training program.
 
-### Código de conducta
+### Code of Conduct
 
-Para publicaciones de blog relacionadas con el acuerdo de política que guía la forma en que interactuamos entre nosotros y con la comunidad en general, y publicaciones de blog relacionadas con el Comité del Código de Conducta que hace cumplir esa política.
+For blog posts related to the policy agreement that guides how we interact with each other and the greater community, and blog posts related to the Code of Conduct Committee that enforces that policy.
 
-### Comunicaciones
+### Communications
 
-Para publicaciones de blog relacionadas con las actividades y estrategias de comunicación de The Carpentries.
+For blog posts related to the communications activities and strategies of The Carpentries.
 
-### Comunidad
+### Community
 
-Para publicaciones de blog relacionadas con las actividades de la comunidad más amplia de Carpentries.
+For blog posts related to activities of the broader Carpentries community.
 
-### Debates comunitarios
+### Community Discussions
 
-Para publicaciones de blog relacionadas con los debates de la comunidad, incluidos los debates previos y posteriores al taller, las sesiones de debate temáticas y las conversaciones sobre carpintería.
+For blog posts related to Community Discussions, including Pre- and Post-Workshop Discussions, Themed Discussion Sessions, and Carpentries Conversations.
 
-### Valores fundamentales
+### Core Values
 
-Para publicaciones de blog que elucidan, promueven y/o defienden [los valores fundamentales de The Carpentries] (https://carpentries.org/about-us/#our-values).
+For blog posts that elucidate, advance, and/or advocate for [The Carpentries core values](https://carpentries.org/about-us/#our-values).
 
-### Currículo
+### Curriculum
 
-Relacionado con las lecciones incluidas en la pila de lecciones oficial de The Carpentries, o en The Carpentries Incubator or Lab.
+Related to lessons included in The Carpentries official lesson stack, or The Carpentries Incubator or Lab.
 
-### Desarrollo curricular
+### Curriculum Development
 
-Relacionado con la creación de nuevas lecciones o actualizaciones significativas de las lecciones existentes.
+Related to creation of new lessons or significant updates of existing lessons.
 
-### Carpintería de datos
+### Data Carpentry
 
-Para publicaciones relacionadas con el programa de lecciones de carpintería de datos de The Carpentries.
+For posts related to the Data Carpentry lesson program of The Carpentries.
 
-### Equidad e inclusión
+### Equity and Inclusion
 
-Recursos e información sobre nuestra hoja de ruta de equidad, inclusión y accesibilidad. Nuestro objetivo es atraer, retener y promover una comunidad diversa de instructores y alumnos y fomentar un entorno de inclusión.
+Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
 
-### Eventos
+### Events
 
-Relacionado con eventos patrocinados o relacionados con Carpentries. Los ejemplos incluyen CarpentryConnects, simposios en línea y más.
+Related to Carpentries sponsored or related events. Examples include CarpentryConnects, online symposiums and more.
 
-### Retroalimentación
+### Feedback
 
-Comentarios sobre la experiencia de instructores, anfitriones, socios y otros miembros de la comunidad.
+Comments on experience from Instructors, hosts, Partners, and other community members.
 
-### Cretino
+### Git
 
-Para publicaciones de blog que destaquen las recomendaciones de enseñanza sobre Git o el uso de Git en nuestras actividades, incluidas las referencias a GitHub.
+For blog posts highlighting teaching recommendations on Git, or the use of Git in our activities, including references to GitHub.
 
 ### Glosario
 
-Para publicaciones de blog relacionadas con [Glosorio] (https://glosario.carpentries.org/), el glosario multilingüe de términos de ciencia de datos de The Carpentries.
+For blog posts related to [Glosorio](https://glosario.carpentries.org/), The Carpentries' multilingual glossary of data science terms.
 
-### Gobernanza
+### Governance
 
-Para publicaciones de blog relacionadas con la gobernanza organizacional, incluido el liderazgo de la junta directiva, el desarrollo de políticas y las decisiones que afectan a la organización.
+For blog posts related to organisational governance, including board leadership, policy development, and decisions impacting the organisation.
 
-### Subsidios
+### Grants
 
-Anuncios de subvenciones para financiar las actividades de carpintería.
+Announcements for grants funding Carpentries activities.
 
-### Pegatinas verdes
+### Green Stickies
 
-Publicaciones de blog relacionadas con comentarios positivos de la comunidad o para la comunidad.
+Blog posts related to positive feedback from the community or for the community.
 
-### Agradecimientos
+### Gratitudes
 
-Para publicaciones de blog para mostrar aprecio por las actividades o los miembros de la comunidad.
+For blog posts to show appreciation for the activities or members of the community.
 
-### Carpintería HPC
+### HPC Carpentry
 
-Para publicaciones relacionadas con el programa de lecciones de carpintería HPC de The Carpentries.
+For posts related to the HPC Carpentry lesson program of The Carpentries.
 
-### Incubadora
+### Incubator
 
-Describir los anuncios relacionados con la [Incubadora de carpinterías] (https://carpentries-incubator.org/). La incubadora Carpentries es un lugar para el desarrollo colaborativo de nuevas lecciones. Proporciona un espacio para que la comunidad de The Carpentries cree, pruebe y mejore las lecciones, con el apoyo de sistemas, procesos y capacitación para fomentar la colaboración y promover un mejor diseño de las lecciones.
+Describing announcements related to the [Carpentries Incubator](https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
 
-### Infraestructura
+### Infrastructure
 
-Publicaciones de blog relacionadas con la tecnología que utilizamos para respaldar nuestras operaciones (por ejemplo, AMY, Helpscout, etc.).
+Blog posts related to technology we use to support our operations (e.g. AMY, Helpscout, etc).
 
-### Desarrollo de instructores
+### Instructor Development
 
-Acerca de las actividades organizadas o promovidas por el Comité de Desarrollo de Instructores.
+About activities hosted or promoted by the Instructor Development Committee.
 
-### Formadores de instructores
+### Instructor Trainers
 
-Para publicaciones de blog sobre formadores de instructores (la comunidad de personas que imparten formación de instructores) o sobre tener a los formadores de instructores como audiencia principal.
+For blog posts about Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience.
 
-### Comité de liderazgo de instructores y formadores
+### Instructor Trainers Leadership Committee
 
-Para publicaciones de blog sobre el Comité de Liderazgo de Formadores de Instructores (ITLC), un comité que brinda apoyo en materia de gobernanza y desarrollo a los formadores de instructores y toma decisiones en nombre de esa comunidad que afectan al programa de capacitación de instructores y a las políticas relacionadas.
+For blog posts about the Instructor Trainers Leadership Committee (ITLC), a committee that provides governance and development support of Instructor Trainers, and makes decisions on behalf of that community that affect the Instructor Training program and related policies.
 
-### Instructores
+### Instructors
 
-Para publicaciones de blog sobre instructores (la comunidad de personas que imparten talleres de carpintería de software, carpintería de datos o carpintería de bibliotecas) o sobre los instructores como público principal.
+For blog posts about Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
 
-### Internacionalización
+### Internationalisation
 
-Para publicaciones de blog que destaquen los esfuerzos de traducción e internacionalización en The Carpentries.
+For blog posts highlighting translation and internationalisation efforts in The Carpentries.
 
-### Japón
+### Japan
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en Japón.
+For blog posts related to Carpentries' work in Japan.
 
 ### Jekyll
 
-Un generador de sitios estáticos utilizado en nuestras lecciones de 2016 a 2022.
+A static site generator used in our lessons from 2016 to 2022.
 
-### América Latina
+### Latin America
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en América Latina (México, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panamá, Colombia, Venezuela, Ecuador, Perú, Bolivia, Brasil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haití, Puerto Rico).
+For blog posts related to Carpentries' work in Latin America (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haiti, Puerto Rico).
 
-### Infraestructura de lecciones
+### Lesson Infrastructure
 
-Para publicaciones de blog relacionadas con The Carpentries Lesson Infrastructure (por ejemplo, actualizaciones o cambios futuros en el estilo y los flujos de trabajo), que no sean Carpentries Workbench. Esto interesa en gran medida a la comunidad de mantenedores, pero también tiene un interés tangencial a la comunidad de instructores.
+For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows), other than the Carpentries Workbench. This is largely of interest to the Maintainer community with some tangential interest in the Instructor community.
 
-### Lecciones
+### Lessons
 
-Relacionado con el trabajo y el desarrollo de las clases de carpintería.
+Related to work and development of Carpentries Lessons.
 
-### Carpintería de biblioteca
+### Library Carpentry
 
-Para publicaciones relacionadas con el programa de lecciones de carpintería de la biblioteca de The Carpentries.
+For posts related to the Library Carpentry lesson program of The Carpentries.
 
-### Mantenedores
+### Maintainers
 
-Miembros de la comunidad que trabajan para mantener nuestras lecciones estables y funcionales.
+Community members working on keeping our lessons stable and functional.
 
-### Fusión
+### Merger
 
-Para publicaciones de blog relacionadas con la fusión de diferentes programas de lecciones (por ejemplo, carpintería de datos, carpintería HPC, carpintería de bibliotecas, carpintería de software, etc.) en The Carpentries.
+For blog posts relating to the merging of different lesson programs (e.g., Data Carpentry, HPC Carpentry, Library Carpentry, Software Carpentry, etc.) into The Carpentries.
 
-### Países nórdicos
+### Nordic Countries
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en los países nórdicos (Dinamarca, Estonia, Finlandia, Islandia, Noruega y Suecia).
+For blog posts related to Carpentries' work in Nordic countries (Denmark, Estonia, Finland, Iceland, Norway, Sweden).
 
-### Norteamérica
+### North America
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en Norteamérica (Canadá, México, Estados Unidos).
+For blog posts related to Carpentries' work in North America (Canada, Mexico, United States).
 
-### Talleres en línea
+### Online Workshops
 
-Los talleres que son exclusivamente en línea, ofrecen la experiencia de enseñar un taller en línea y compartir ideas para talleres en línea.
+Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops.
 
-### Abrir Refine
+### OpenRefine
 
-Para publicaciones de blog que destaquen las recomendaciones de enseñanza de OpenRefine o el uso de OpenRefine en nuestras actividades.
+For blog posts highlighting teaching recommendations of OpenRefine, or the use of OpenRefine in our activities.
 
-### Colaboración
+### Partnership
 
-Para actualizaciones de la organización asociada o cambios en el Programa de asociación.
+For Partner Organisation updates, or changes to the Partnership Program.
 
-### Talleres piloto
+### Pilot Workshops
 
-Publicaciones de blog relacionadas con la puesta a prueba de nuevas lecciones.
+Blog posts related to piloting of new lessons.
 
-### Política
+### Policy
 
-Para publicaciones de blog que anuncian la adopción o modificación de los términos de las políticas constitucionales o programáticas de Carpenter.
+For blog posts announcing the adoption of, or alteration of terms to, Carpentries constitutional or programmatic policies.
 
-### Publicación
+### Publishing
 
-Para publicaciones de blog sobre o relacionadas con los resultados de publicaciones de investigación, o citas de investigaciones relacionadas con The Carpentries y sus programas.
+For blog posts about or related to research publication outputs, or research citations pertaining to The Carpentries and its programmes.
 
-### Pitón
+### Python
 
-Para publicaciones de blog que destaquen las recomendaciones de enseñanza del lenguaje de programación Python o el uso del lenguaje de programación Python en nuestras actividades.
+For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
 
 ### R
 
-Para publicaciones de blog que destaquen las recomendaciones de enseñanza del lenguaje de programación R o el uso del lenguaje de programación R en nuestras actividades.
+For blog posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities.
 
-### Informes
+### Reports
 
-Para publicaciones de blog relacionadas con los informes publicados por el equipo principal de The Carpentries. Esto incluye los informes anuales y presupuestarios.
+For blog posts related to reports released by The Carpentries Core Team. This includes annual and budget reports.
 
-### Hoja de ruta
+### Roadmap
 
-Un plan que define una meta o un resultado deseado e incluye los principales pasos o hitos necesarios para alcanzarlo.
+A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
 
-### Concha
+### Shell
 
-Para publicaciones de blog que destaquen las recomendaciones de enseñanza sobre las conchas o el uso de las conchas en nuestras actividades, incluidas las referencias a Bash.
+For blog posts highlighting teaching recommendations on shells, or the use of shells in our activities, including references to Bash.
 
-### Competencias compartidas
+### Skillshare
 
-Publicaciones que destacan consejos.
+Posts highlighting tips.
 
-### Carpintería de software
+### Software Carpentry
 
-Para publicaciones de blog relacionadas con Software Carpentry, que forma parte de The Carpentries, que enseña habilidades básicas de laboratorio para la informática de investigación.
+For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
 
-### Patrocinio (anteriormente, «Filantropía»)
+### Sponsorship (previously, "Philanthropy")
 
-Publicaciones de blog relacionadas con donaciones, patrocinios y otras actividades filantrópicas que apoyan a The Carpentries.
+Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
 
-### Plan estratégico
+### Strategic Plan
 
-Publicaciones relacionadas con el Plan Estratégico de Carpentries, el documento utilizado para comunicar las metas, los objetivos y las acciones emprendidas de la organización para lograr esas metas dentro de un período específico.
+Posts related to The Carpentries Strategic Plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals within a specified period.
 
-### Grupo de trabajo
+### Task Force
 
-The Carpentries utiliza grupos de trabajo para explorar ideas y actualizar las políticas, los procedimientos y las directrices. Los grupos de trabajo reúnen a un pequeño grupo de personas que se centran en un tema en particular durante un período de tiempo determinado.
+The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. Task forces bring together a small group of people focused on a particular topic for a set period of time.
 
-### Enseñanza
+### Teaching
 
-Experiencia dirigiendo un taller de carpintería o una formación de carpintería.
+Experience leading a Carpentries Workshop or Carpentries Training.
 
-### Sitio web
+### Website
 
-Para publicaciones de blog relacionadas con las actualizaciones de los sitios web de The Carpentries.
+For blog posts related to updates to The Carpentries websites.
 
-### Talleres
+### Workshops
 
-Un evento impartido por instructores de carpintería que enseña el plan de estudios de carpintería de datos, carpintería de bibliotecas y carpintería de software. Estos blogs comparten experiencias del evento.
+An event that is taught by Carpentries Instructors that teaches the curriculum of Data Carpentry, Library Carpentry and Software Carpentry. These blogs share experiences from the event.
 
-## Etiquetas archivadas
+## Archived Tags
 
-### Campeonas
+### Champions
 
-Una subcomunidad inactiva de The Carpentries que ayudó a apoyar el crecimiento y el desarrollo de The Carpentries defendiendo y llegando a las comunidades locales.
+An inactive subcommunity of The Carpentries that helped support the growth and development of The Carpentries by advocating and reaching out to local communities.
 
-### Facilitadores comunitarios
+### Community Facilitators
 
-Para publicaciones de blog relacionadas con el programa de facilitadores comunitarios. El Programa de Facilitadores Comunitarios es una iniciativa de The Carpentries que busca crear nuevas vías para que más miembros de la comunidad participen activamente en las actividades comunitarias cotidianas.
+For blog posts related to the Community Facilitators program. The Community Facilitators Program is an initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members.
 
-### Consejo Ejecutivo
+### Executive Council
 
-Actualizaciones y anuncios del Consejo Ejecutivo de The Carpentries, el máximo órgano de liderazgo del proyecto The Carpentries.
+Updates and announcements from The Carpentries Executive Council, the highest leadership body of The Carpentries project.
 
-### Lección destacada sobre incubadora
+### Incubator Lesson Spotlight
 
-Destacando las lecciones que se encuentran actualmente en la incubadora de carpinterías. Estas publicaciones se crean a partir de un formulario completado por los desarrolladores de las lecciones de Incubator.
+Highlighting lessons currently in the Carpentries Incubator. These posts are created from a form completed by Incubator lesson developers.
 
-### Mentoría
+### Mentoring
 
-Para blogs sobre la creación de sistemas de apoyo para nuevas organizaciones con miembros experimentados de la comunidad
+For blogs around creating support systems for new orgs using seasoned community members
 
-### Coordinadores regionales
+### Regional Coordinators
 
-Para publicaciones de blog relacionadas con los coordinadores regionales, que gestionan la logística de los talleres, se comunican con los anfitriones y los instructores y responden a las consultas generales.
+For blog posts related to Regional coordinators, who manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries.
