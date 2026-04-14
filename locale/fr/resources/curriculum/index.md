@@ -1,17 +1,17 @@
-# Curriculum Resources
+# Ressources pédagogiques
 
-- [Carpentries Curriculum Structure](curriculum-structure.md): An overview of how lessons and curricula are organised in The Carpentries.
-- [Choosing a Narrative and Dataset for a Lesson](narrative-example-data.md): Advice for lesson developers when considering a narrative and example data to use in a new lesson.
-- [Curriculum Overview Pages](workshop-overview-lessons.md): Learn about how and why to create a lesson site as a "front page" to a curriculum that combines multiple lessons.
-- [The Life Cycle of Lessons](lesson-life-cycle.md): A description of the "life cycle" model we use to describe the maturity of lessons under development, and a list of resources and activities that can be helpful at each stage of the process.
-- [Forking a Lesson Repository](lesson-forks.md): Guidance on how to set up your own fork of a Carpentries Workbench lesson repository.
-- [GitHub Issue Labels](issue-labels.md): A list of the issue labels used in Carpentries lesson repository.
-- [Building on Somebody Else's Existing Branch](fetch-existing-branch.md): Guidance for how to start working on a branch that somebody else created (e.g. for an unfinished pull request).
-- [Releasing a Lesson](lesson-release.md): A description of how to prepare a lesson release and publish it to Zenodo.
-- [Lesson Development Roles](lesson-development-roles.md): Learn about the different roles that people can take up during the lesson development process, why they are important, and what resources are available to support them.
-- [Lesson Pilot Workshops](lesson-pilots.md): Information about why and how we test new lessons in workshops, including guidance and templates for hosts and instructors of pilot workshops to use.
-- [Lesson Sprint Recommendations](lesson-sprint-recommendations.md): A collection of recommendations for community members who want to organise events dedicated to the development and improvement of a lesson. Includes lists of things to consider doing before, during, and after a development sprint, and tools and other resources to support its success.
-- [Curriculum Onboarding Materials](/resources/curriculum/curriculum_onboarding.md): Guidance for developing materials that will help instructors prepare to teach your new lesson or curriculum.
-- [Lesson Programs](lesson-programs.md): Information about the role Lesson Programs take within The Carpentries, how these projects are hosted by the organisation, and the process a project can go through to join The Carpentries as a new Lesson Program.
-- [Lesson Program Policy](lesson-program-governance.md): Information about how The Carpentries Lesson Programs should be governed.
+- [Structure du programme de menuiserie] (curriculum-structure.md) : Un aperçu de la façon dont les leçons et les programmes sont organisés dans The Carpentries.
+- [Choisir un récit et un ensemble de données pour une leçon] (narrative-example-data.md) : conseils aux développeurs de leçons lorsqu'ils envisagent un récit et des exemples de données à utiliser dans une nouvelle leçon.
+- [Pages de présentation du programme] (workshop-overview-lessons.md) : Découvrez comment et pourquoi créer un site de cours en tant que « première page » d'un programme combinant plusieurs leçons.
+- [Le cycle de vie des leçons] (lesson-life-cycle.md) : une description du modèle de « cycle de vie » que nous utilisons pour décrire la maturité des leçons en cours d'élaboration, et une liste de ressources et d'activités qui peuvent être utiles à chaque étape du processus.
+- [Forking a Lesson Repository] (lesson-forks.md) : Conseils sur la façon de configurer votre propre fork d'un référentiel de leçons Carpentries Workbench.
+- [Étiquettes de problèmes GitHub] (issue-labels.md) : liste des étiquettes de problèmes utilisées dans le référentiel de leçons Carpentries.
+- [S'appuyer sur la branche existante de quelqu'un d'autre] (fetch-existing-branch.md) : conseils pour commencer à travailler sur une branche créée par quelqu'un d'autre (par exemple pour une pull request inachevée).
+- [Publication d'une leçon] (lesson-release.md) : description de la façon de préparer un communiqué de leçon et de le publier sur Zenodo.
+- [Rôles liés à l'élaboration des leçons] (lesson-development-roles.md) : Découvrez les différents rôles que les personnes peuvent assumer au cours du processus d'élaboration des leçons, pourquoi ils sont importants et quelles ressources sont disponibles pour les aider.
+- [Ateliers pilotes de leçons] (lesson-pilots.md) : informations expliquant pourquoi et comment nous testons de nouvelles leçons dans le cadre d'ateliers, y compris des conseils et des modèles à utiliser pour les animateurs et les instructeurs des ateliers pilotes.
+- [Lesson Sprint Recommendations] (lesson-sprint-recommendations.md) : Une collection de recommandations pour les membres de la communauté qui souhaitent organiser des événements dédiés au développement et à l'amélioration d'une leçon. Comprend des listes de choses à envisager avant, pendant et après un sprint de développement, ainsi que des outils et d'autres ressources pour favoriser sa réussite.
+- [Matériel d'intégration au programme] (/resources/curriculum/curriculum_onboarding.md) : conseils pour développer du matériel qui aidera les professeurs à se préparer à enseigner votre nouvelle leçon ou votre nouveau programme.
+- [Programmes de leçons] (lesson-programs.md) : Informations sur le rôle que jouent les programmes de cours au sein de The Carpentries, sur la manière dont ces projets sont hébergés par l'organisation et sur le processus qu'un projet peut suivre pour rejoindre The Carpentries en tant que nouveau programme de cours.
+- [Politique du programme de leçons] (lesson-program-governance.md) : Informations sur la manière dont les programmes de cours The Carpentries devraient être régis.
 
