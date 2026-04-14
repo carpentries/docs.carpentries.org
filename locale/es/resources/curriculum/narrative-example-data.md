@@ -1,153 +1,153 @@
-# Choosing a Narrative and Dataset for a Lesson
+# Elegir una narración y un conjunto de datos para una lección
 
-Writing your lesson as a story helps learners stay motivated and engaged, and can prevent you from making leaps from one topic to the next without covering a step that learners will find to be important later.
-The narrative you create can also help learners more easily connect how the skills they are learning now could be useful after the workshop.
-You can enable learners to make connections between what they learn in your lesson and their own work, by creating a narrative that resembles a situation the learners might encounter there.
+Escribir la lección como una historia ayuda a los alumnos a mantenerse motivados y comprometidos, y puede evitar que saltes de un tema a otro sin abordar un paso que los alumnos considerarán importante más adelante.
+La narrativa que crees también puede ayudar a los alumnos a entender más fácilmente cómo las habilidades que están aprendiendo ahora podrían ser útiles después del taller.
+Puedes permitir que los alumnos establezcan conexiones entre lo que aprenden en tu lección y su propio trabajo, creando una narración que se asemeje a una situación que los alumnos podrían encontrar allí.
 
-For a lot of lessons developed in The Carpentries community, the narrative is closely tied to the example data used in the lesson.
-A good example dataset makes it easier to teach the relevant skills, helps learners manage their cognitive load by focusing on what is most important.
-Just like the narrative, finding the right dataset involves striking a balance between authenticity and clarity.
+En muchas lecciones desarrolladas en la comunidad de The Carpentries, la narración está estrechamente vinculada a los datos de ejemplo utilizados en la lección.
+Un buen ejemplo de conjunto de datos facilita la enseñanza de las habilidades pertinentes y ayuda a los alumnos a gestionar su carga cognitiva al centrarse en lo que es más importante.
+Al igual que la narración, encontrar el conjunto de datos correcto implica lograr un equilibrio entre la autenticidad y la claridad.
 
-## Top Tips: Lesson Narrative
+## Los mejores consejos: narración de la lección
 
-1. When choosing a narrative, consider:
-   - Complexity: how easy will it be for learners to follow the narrative of the lesson?
-   - Order: when should you introduce each of the key concepts to manage cognitive load most effectively?
-     Could you sacrifice some realism to keep things simple at the beginning?
-     How can you position [the most important things as early as possible](https://www.youtube.com/watch?v=fQ4t7p6ZXDg) in the lesson?
-   - Authenticity: will learners be able to relate to the story being told and the examples being used?
-   - Efficiency: can you avoid or remove tangents and "side quests" that might distract learners (and instructors) from the lesson's objectives?
-2. Devote time at the beginning of the lesson for a short introduction to the narrative.
-   An effective introduction should help learners understand how the story relates to their work, the problems they encounter, and the things they want to do with the skills they will learn.
-3. Make use of images and figures to enhance your narrative.
-   [Consider the licensing and terms of reuse on those images](#finding-images), and respect the intellectual property rights of image creators.
-   Images can be distracting when they appear in the wrong place or are irrelevant or contradictory to the lesson content they accompany.
-4. A single narrative throughout the lesson is often preferable but can be difficult to achieve.
-   Use multiple, mini narratives for individual or groups of episodes if you need to.
-   Where you wish for learners to develop understanding of more abstract concepts, [provide a variety of examples with a common theme](https://neverworkintheory.org/2022/05/25/brown-mind-learns.html).
-   This could be achieved by providing multiple opportunities to recognise and apply the concept in taught examples, activities, and exercises.
-5. Look for example data that will support your chosen narrative (see below).
+1. Al elegir una narración, ten en cuenta lo siguiente:
+   - Complejidad: ¿qué tan fácil será para los alumnos seguir la narración de la lección?
+   - Orden: ¿cuándo debes introducir cada uno de los conceptos clave para gestionar la carga cognitiva de la forma más eficaz?
+     ¿Podrías sacrificar un poco de realismo para mantener las cosas simples al principio?
+     ¿Cómo puedes posicionar [las cosas más importantes lo antes posible] (https://www.youtube.com/watch?v=fQ4t7p6ZXDg) en la lección?
+   - Autenticidad: ¿podrán los alumnos identificarse con la historia que se cuenta y los ejemplos que se utilizan?
+   - Eficiencia: ¿puedes evitar o eliminar las tangentes y las «misiones secundarias» que podrían distraer a los alumnos (y a los profesores) de los objetivos de la lección?
+2. Al principio de la lección, dedique tiempo a hacer una breve introducción a la narración.
+   Una introducción eficaz debería ayudar a los alumnos a entender cómo la historia se relaciona con su trabajo, los problemas que encuentran y las cosas que quieren hacer con las habilidades que aprenderán.
+3. Utiliza imágenes y figuras para mejorar tu narración.
+   [Considera las licencias y las condiciones de reutilización de esas imágenes] (#finding-images) y respeta los derechos de propiedad intelectual de los creadores de imágenes.
+   Las imágenes pueden distraer cuando aparecen en el lugar equivocado o son irrelevantes o contradictorias con el contenido de la lección que acompañan.
+4. Con frecuencia es preferible contar una sola narración a lo largo de la lección, pero puede ser difícil de lograr.
+   Usa múltiples mininarrativas para episodios individuales o para grupos de episodios si es necesario.
+   Si desea que los alumnos desarrollen su comprensión de conceptos más abstractos, [proporcione una variedad de ejemplos con un tema común] (https://neverworkintheory.org/2022/05/25/brown-mind-learns.html).
+   Esto podría lograrse proporcionando múltiples oportunidades para reconocer y aplicar el concepto en los ejemplos, actividades y ejercicios enseñados.
+5. Busque, por ejemplo, datos que respalden la narrativa que eligió (consulte a continuación).
 
-### Examples of Lesson Narratives
+### Ejemplos de narrativas de lecciones
 
-- [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of Alfredo, a chef working with his team to create a repository of his favorite recipes.
-- [Data Carpentry for Ecologists](https://datacarpentry.github.io/ecology-workshop/) uses a narrative of working through a data analysis project from data organization to data cleaning to data manipulations and visualizations.
-- [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/) uses the narrative of a poorly designed software project
-  (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
+- [Lección de Git de carpintería de software] (https://swcarpentry.github.io/git-novice/index.html) usa la historia de Alfredo, un chef que trabaja con su equipo para crear un repositorio de sus recetas favoritas.
+- [Data Carpentry for Ecologists] (https://datacarpentry.github.io/ecology-workshop/) utiliza una narrativa sobre el trabajo en un proyecto de análisis de datos, desde la organización de datos hasta la limpieza de datos y la manipulación y visualización de datos.
+- [Building Better Research Software] (https://carpentries-incubator.github.io/better-research-software/) utiliza la narrativa de un proyecto de software
+  mal diseñado (que analiza [los datos abiertos de la NASA sobre las caminatas espaciales] (https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d) realizado por astronautas entre 1965 y 2013) que, a lo largo de la lección, mejora en términos de accesibilidad, legibilidad, corrección y reutilización del código.
 
-### Finding Images
+### Búsqueda de imágenes
 
-Copying an image from a website is technologically simple but can be legally and ethically complex.
-Images are intellectual property and are subject to intellectual property laws including, but not limited to, copyright and trademark laws.
-These laws differ by country but are consistent in theme: do not use intellectual property that does not belong to you without permission.
+Copiar una imagen de un sitio web es tecnológicamente simple, pero puede ser legal y éticamente complejo.
+Las imágenes son propiedad intelectual y están sujetas a las leyes de propiedad intelectual, incluidas, entre otras, las leyes de derechos de autor y marcas comerciales.
+Estas leyes varían según el país, pero son consistentes en su tema: no utilice propiedad intelectual que no le pertenezca sin permiso.
 
-When looking for images that illustrate the narrative of your lesson, avoid copying images that do not include a reuse license.
-Assume that you cannot reuse these images unless you seek written permission from the image creator or owner.
-Instead, look for images that indicate that they are in the public domain or carry a permissive reuse license such as CC0 or CC-BY.
-Public domain images can be freely reused and adapted.
-Images carrying a reuse license can be used and adapted in accordance with their license terms.
+Cuando busque imágenes que ilustren la narración de su lección, evite copiar imágenes que no incluyan una licencia de reutilización.
+Suponga que no puede reutilizar estas imágenes a menos que solicite el permiso por escrito del creador o propietario de la imagen.
+En su lugar, busca imágenes que indiquen que son de dominio público o que tengan una licencia de reutilización permisiva, como CC0 o CC-BY.
+Las imágenes de dominio público se pueden reutilizar y adaptar libremente.
+Las imágenes que llevan una licencia de reutilización se pueden usar y adaptar de acuerdo con los términos de la licencia.
 
-If you cannot find reusable images that match your narrative, you can create your own images or seek help from others in the Carpentries community.
-When incorporating original images into your lesson, be sure to license these images to be [compatible with the license](#compatible-licenses) on the rest of your lesson materials.
+Si no puedes encontrar imágenes reutilizables que coincidan con tu historia, puedes crear tus propias imágenes o pedir ayuda a otros miembros de la comunidad de Carpentries.
+Al incorporar imágenes originales en su lección, asegúrese de licenciar estas imágenes para que sean [compatibles con la licencia] (#compatible-licenses) en el resto de los materiales de la lección.
 
-The guidance in this section is not a substitute for legal advice.
+La guía de esta sección no sustituye el asesoramiento legal.
 
-#### Compatible Licenses
+#### Licencias compatibles
 
-Creative Commons offers a chart that identifies which CC licenses are compatible with each other for adaptation ("remix") purposes:
-[Creative Commons license comparison chart](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
+Creative Commons ofrece una tabla que identifica qué licencias CC son compatibles entre sí para fines de adaptación («remezcla»):
+[Tabla comparativa de licencias de Creative Commons] (https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
 
-GNU offers commentary about a variety of licenses for free software; this resource may be valuable when considering a license for code:
-[GNU: Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html).
+GNU ofrece comentarios sobre diversas licencias de software libre; este recurso puede resultar valioso a la hora de considerar una licencia de código:
+[GNU: Various Licenses and Comments about Them] (https://www.gnu.org/licenses/license-list.en.html).
 
-#### Catalogues of Open Images
+#### Catálogos de imágenes abiertas
 
-The following repositories are good places to start looking for openly-licensed images to use in your lesson.
+Los siguientes repositorios son buenos lugares para empezar a buscar imágenes con licencia abierta para usarlas en la lección.
 
-- [Unsplash](https://unsplash.com/)
-- [Undraw](https://undraw.co/)
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- [Unsplash] (https://unsplash.com/)
+- [Desdibujar] (https://undraw.co/)
+- [Wikimedia Commons] (https://commons.wikimedia.org/wiki/Main_Page)
 
 ::::::::::::::::::
 
-## Top Tips: Example Datasets
+## Consejos principales: ejemplos de conjuntos de datos
 
-1. Consider:
-   - Authenticity: will your learners feel that the example data is representative of the kind of data they are/will be working with?
-   - Size: data sets are often (very) large in modern data science and research.
-     Large example data sets may feel more authentic to learners, and help you illustrate important concepts and skills in your lesson.
-     But larger datasets typically take longer to process, which may mean more time waiting for things to run during a workshop.
-     They also place higher demands on learners' time and equipment, for downloading, storing, and processing files.
-   - Complexity: keeping example data too simple may not prepare learners for what they will encounter after the workshop.
-     However, data that is too complex will make it more difficult to manage cognitive load during the workshop.
-   - Messiness: real data is often messy, and using example data that has been extensively sanitised or synthesised wholesale may not prepare learners for this.
-     However, data cleaning can be time-consuming, reducing the space available for learners to explore other skills and concepts in the workshop.
-2. Many of the points above are in contradiction to each other, and choosing the right dataset usually involves finding an acceptable balance between them.
-   Some lesson developers choose to create their own example data: generating or synthesising your own example data provides a degree of control that is unavailable when reusing existing, real data, but may come at the cost of reduced authenticity.
-   Others modify existing data, e.g. by subsampling or selecting a subset of variables and tables from the full, published dataset.
-   If you do this, make sure to document the changes made to ensure reproducibility.
-3. Also consider licensing: has the data provider granted permission for you to freely use it in your lesson and workshops?
-   The best option is a dataset with a CC0 (Public Domain Dedication) license, as other licenses may have ambiguity around data reuse.
-   If you'd like to learn more about CC0 and CC-BY licensing in relation to data, refer to Katie Fortney's excellent [blog post on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
-   Lessons included in [The Carpentries Incubator][carpentries-incubator] are encouraged to use CC0 licensed data, and may be required to do so to qualify for peer review in [The Carpentries Lab][carpentries-lab].
-   Even with data in the public domain, please follow best practice and give attribution to the data provider or collecting agency.
-4. Look for example data in public repositories.
-   Data is often uploaded and published to [domain-specific or generalist repositories](#examples-of-public-repositories).
-   If you create or modify your own data to use an example in your lesson, consider uploading and publishing it (with a CC0 license) for others to re-use.
-5. It is also essential to think about data privacy: is there any potentially identifiable information included in the data?
-   If so, how could you remove it?
-6. Data is commonly misused from historically excluded and exploited groups.
-   When choosing a dataset, ensure that the data was collected with permission from the groups or individuals included.
-   Consider whether the data could be upsetting to learners in a workshop.
-   The [CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point for thinking about data sovereignty and considering the ethics of data collected about an individual or groups of people.
-7. Provide a "data dictionary" in your lesson, giving an overview of the data, where it came from, and how it was generated.
-   Include a short description of each variable, a key for the column names in data tables, encoding of values, etc.
-   For inspiration, see [the data dictionary from the Data Carpentry: Social Sciences curriculum](https://datacarpentry.org/socialsci-workshop/data.html).
+1. Considera:
+   - Autenticidad: ¿sentirán sus alumnos que los datos del ejemplo son representativos del tipo de datos con los que están trabajando o trabajarán?
+   - Tamaño: los conjuntos de datos suelen ser (muy) grandes en la ciencia de datos y la investigación modernas.
+     Los conjuntos de datos de ejemplo grandes pueden parecer más auténticos para los alumnos y ayudarlo a ilustrar conceptos y habilidades importantes en la lección.
+     Sin embargo, los conjuntos de datos más grandes suelen tardar más en procesarse, lo que puede significar más tiempo esperando a que las cosas se ejecuten durante un taller.
+     También exigen más tiempo y equipo a los alumnos para descargar, almacenar y procesar archivos.
+   - Complejidad: mantener los datos de ejemplo demasiado simples puede no preparar a los alumnos para lo que encontrarán después del taller.
+     Sin embargo, los datos demasiado complejos dificultarán la gestión de la carga cognitiva durante el taller.
+   - Desorden: los datos reales suelen ser confusos, y el uso de datos de ejemplo que hayan sido exhaustivamente saneados o sintetizados al por mayor puede no preparar a los alumnos para ello.
+     Sin embargo, la limpieza de datos puede llevar mucho tiempo y reducir el espacio disponible para que los alumnos exploren otras habilidades y conceptos en el taller.
+2. Muchos de los puntos anteriores se contradicen entre sí, y la elección del conjunto de datos correcto generalmente implica encontrar un equilibrio aceptable entre ellos.
+   Algunos desarrolladores de lecciones optan por crear sus propios datos de ejemplo: generar o sintetizar sus propios datos de ejemplo proporciona un grado de control que no está disponible cuando se reutilizan datos reales existentes, pero puede conllevar una reducción de la autenticidad.
+   Otros modifican los datos existentes, por ejemplo, submuestreando o seleccionando un subconjunto de variables y tablas del conjunto de datos completo publicado.
+   Si lo hace, asegúrese de documentar los cambios realizados para garantizar la reproducibilidad.
+3. Considera también la posibilidad de conceder licencias: ¿el proveedor de datos te ha otorgado permiso para que puedas usarlos libremente en tus clases y talleres?
+   La mejor opción es un conjunto de datos con una licencia CC0 (dedicación al dominio público), ya que otras licencias pueden ser ambiguas en cuanto a la reutilización de los datos.
+   Si desea obtener más información sobre las licencias CC0 y CC-BY en relación con los datos, consulte la excelente \[entrada de blog de Katie Fortney sobre por qué CC-BY no siempre es una buena opción] (https\://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
+   Se recomienda a las lecciones incluidas en \[The Carpentries Incubator] [Carpentries-incubator] que utilicen datos con licencia CC0, y es posible que se les exija hacerlo para calificar para la revisión por pares en \[The Carpentries Lab] [Carpentries-lab].
+   Incluso con datos de dominio público, siga las mejores prácticas y asigne la atribución al proveedor de datos o a la agencia de recopilación.
+4. Busque, por ejemplo, datos en repositorios públicos.
+   Los datos suelen cargarse y publicarse en [repositorios generalistas o específicos de un dominio] (#examples-of-public-repositories).
+   Si creas o modificas tus propios datos para usar un ejemplo en la lección, considera subirlos y publicarlos (con una licencia CC0) para que otros los reutilicen.
+5. También es esencial pensar en la privacidad de los datos: ¿hay alguna información potencialmente identificable incluida en los datos?
+   Si es así, ¿cómo podría eliminarlo?
+6. Los datos de grupos históricamente excluidos y explotados suelen ser mal utilizados.
+   Al elegir un conjunto de datos, asegúrese de que los datos se recopilaron con el permiso de los grupos o individuos incluidos.
+   Considere si los datos podrían molestar a los alumnos de un taller.
+   Los [Principios de CARE para la gobernanza de datos indígenas] (https://datascience.codata.org/articles/10.5334/dsj-2020-043) (Beneficio colectivo, autoridad de control, responsabilidad y ética) son un buen punto de partida para pensar en la soberanía de los datos y considerar la ética de los datos recopilados sobre un individuo o grupos de personas.
+7. Proporcione un «diccionario de datos» en la lección, con una descripción general de los datos, de dónde provienen y cómo se generaron.
+   Incluye una breve descripción de cada variable, una clave para los nombres de las columnas de las tablas de datos, la codificación de los valores, etc.
+   Para inspirarte, consulta [el diccionario de datos del plan de estudios de Carpintería de datos: ciencias sociales] (https://datacarpentry.org/socialsci-workshop/data.html).
 
-#### Examples of Example Datasets
+#### Ejemplos de conjuntos de datos de ejemplo
 
-- The [Ecology Data Carpentry curriculum's](https://datacarpentry.org/lessons/#ecology) dataset comes from the Portal
-  Project Teaching Database.
-  This dataset is an actual ecological research project's data that was simplified for teaching.
-  The reuse of this dataset throughout the Data Carpentry Ecology lessons helps stitch together the process of data analysis throughout the workshop, from data entry and cleaning to analysis and visualisation.
-- The [Social Sciences Data Carpentry curriculum's](https://datacarpentry.org/lessons/#social-science) dataset is the
-  [teaching version](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) of the full Studying African Farmer-Led Irrigation (SAFI) dataset.
-  The SAFI dataset represents interviews of farmers in Mozambique and Tanzania, conducted between November 2016 and June 2017.
-  The interviews surveyed household features (e.g. construction materials used for dwellings, number of household members), agricultural practices (e.g. water usage) and assets (e.g. number and types of livestock).
-  The teaching version of the SAFI dataset has been simplified and intentionally "messed up"" to enable demonstrating common data cleaning issues often found in real-life data.
-- [Patient inflammation dataset](https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) - from the Software Carpentry Python [novice](https://swcarpentry.github.io/python-novice-inflammation/index.html) and the [incubating intermediate](https://carpentries-incubator.github.io/python-intermediate-development/index.html) lessons - is used to study the effect of a new treatment for arthritis by analysing the inflammation levels in patients who have been given this treatment.
-- A [river catchment dataset](https://github.com/carpentries-incubator/python-intermediate-rivercatchment/tree/main/data) from the [Lowland Catchment Research (LOCAR) Datasets](https://catalogue.ceh.ac.uk/documents/db9f6ef9-9512-4f39-aca3-3c55f51a7487) is used in the [Earth and Environmental Sciences Intermediate Python lesson](https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/index.html) to analyse hydrological, hydrogeological, geomorphological and ecological interactions within permeable catchment systems.
-- Data Carpentry's [Astronomical Data Science with Python](https://datacarpentry.org/astronomy-python/) lesson uses two astronomical datasets, from the Gaia satellite and the Pan-STARRS photometric survey, to reproduce part of an analysis described in a published article.
+- El conjunto de datos [Ecology Data Carpentry curriculum] (https://datacarpentry.org/lessons/#ecology) proviene de la [Base de datos de enseñanza del proyecto Portal
+  ] (https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
+  Este conjunto de datos son datos reales de un proyecto de investigación ecológica que se simplificaron para la enseñanza.
+  La reutilización de este conjunto de datos a lo largo de las lecciones de ecología de la carpintería de datos ayuda a unir el proceso de análisis de datos a lo largo del taller, desde la entrada y limpieza de datos hasta el análisis y la visualización.
+- El conjunto de datos [del plan de estudios de carpintería de datos de ciencias sociales] (https://datacarpentry.org/lessons/#social-science) es la
+  [versión didáctica] (https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) del conjunto de datos completo sobre el estudio del riego dirigido por agricultores africanos (SAFI).
+  El conjunto de datos SAFI representa entrevistas a agricultores de Mozambique y Tanzania, realizadas entre noviembre de 2016 y junio de 2017.
+  En las entrevistas se analizaron las características del hogar (por ejemplo, los materiales de construcción utilizados para las viviendas, el número de miembros del hogar), las prácticas agrícolas (por ejemplo, el uso del agua) y los activos (por ejemplo, el número y los tipos de ganado).
+  La versión didáctica del conjunto de datos SAFI se ha simplificado y se ha «estropeado» intencionalmente para permitir demostrar los problemas comunes de limpieza de datos que a menudo se encuentran en los datos de la vida real.
+- El [conjunto de datos sobre la inflamación de los pacientes] (https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip), extraído de las lecciones Software Carpentry Python [novato] (https://swcarpentry.github.io/python-novice-inflammation/index.html) y [fase intermedia de incubación] (https://carpentries-incubator.github.io/python-intermediate-development/index.html), se utiliza para estudiar el efecto de un nuevo tratamiento para la artritis mediante el análisis de los niveles de inflamación en los pacientes a los que se les ha administrado este tratamiento.
+- En la [lección intermedia de Python de Ciencias de la Tierra y el Medio Ambiente] (https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/index.html) se utiliza un [conjunto de datos sobre cuencas fluviales] (https://github.com/carpentries-incubator/python-intermediate-rivercatchment/tree/main/data) de los conjuntos de datos [Lowland Catchment Research (LOCAR)] (https://catalogue.ceh.ac.uk/documents/db9f6ef9-9512-4f39-aca3-3c55f51a7487) para analizar las interacciones hidrológicas, hidrogeológicas, geomorfológicas y ecológicas dentro de los sistemas de cuencas permeables.
+- La lección [Ciencia de datos astronómicos con Python] (https://datacarpentry.org/astronomy-python/) de Data Carpentry utiliza dos conjuntos de datos astronómicos, del satélite Gaia y del estudio fotométrico Pan-STARRS, para reproducir parte de un análisis descrito en un artículo publicado.
 
-#### Public Repositories for Data
+#### Repositorios públicos de datos
 
-The following repositories are good places to start looking for example data to use in your lesson, and/or to deposit the example data you produce.
+Los siguientes repositorios son buenos lugares para empezar a buscar datos de ejemplo para usarlos en la lección o para depositar los datos de ejemplo que usted produce.
 
-- [Dryad](https://datadryad.org/)
-- [The Open Science Framework](https://osf.io/)
-- [The Official Portal for European Data](https://data.europa.eu/)
-- [Harvard Dataverse](https://dataverse.harvard.edu/)
-- [DataONE](https://www.dataone.org/)
-- [The Data Curation Network's datasets](https://datacuration.network/datasets/)
-- [The Official Portal for Argentina Data](https://www.datos.gob.ar/) (in Spanish)
-- [LANFRICA](https://lanfrica.com/)
+- [Dríada] (https://datadryad.org/)
+- [El marco científico abierto] (https://osf.io/)
+- [El portal oficial de datos europeos] (https://data.europa.eu/)
+- [Verso de datos de Harvard] (https://dataverse.harvard.edu/)
+- [DataOne] (https://www.dataone.org/)
+- [Los conjuntos de datos de la Red de Curación de Datos] (https://datacuration.network/datasets/)
+- [El portal oficial de datos de Argentina] (https://www.datos.gob.ar/) (en español)
+- [ÁFRICA] (https://lanfrica.com/)
 
-GitHub is not a good place to store data, especially when it is large and/or does not consist of text files.
-Instead, we recommend that you publish your example data elsewhere and link to it from your lesson website.
-This has the added advantages that you can publish the data under its own license (ideally CC0, as discussed above), obtain a separate DOI for it, and create another backup of your data.
-[Dryad](https://datadryad.org/), [Figshare](https://figshare.com/), the [Open Science Framework](https://osf.io/), and [Zenodo](https://zenodo.org/) are good general platforms for publishing data.
-However, if your lesson covers a particular domain with its own established standard for publishing data, we recommend that you use that.
-The [Generalist Repositories Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) includes several more general options, and provides a [decision tree to help you choose the most appropriate location for your data](https://zenodo.org/records/11105430).
+GitHub no es un buen lugar para almacenar datos, especialmente cuando son grandes o no constan de archivos de texto.
+En su lugar, le recomendamos que publique sus datos de ejemplo en otro lugar y los enlace desde el sitio web de la lección.
+Esto tiene la ventaja adicional de que puede publicar los datos bajo su propia licencia (idealmente CC0, como se mencionó anteriormente), obtener un DOI independiente para ellos y crear otra copia de seguridad de sus datos.
+[Dryad] (https://datadryad.org/), [Figshare] (https://figshare.com/), [Open Science Framework] (https://osf.io/) y [Zenodo] (https://zenodo.org/) son buenas plataformas generales para publicar datos.
+Sin embargo, si su lección cubre un dominio en particular con su propio estándar establecido para la publicación de datos, le recomendamos que lo utilice.
+La [Iniciativa del ecosistema de repositorios generalistas (GREI)] (https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) incluye varias opciones más generales y proporciona un [árbol de decisiones para ayudarlo a elegir la ubicación más adecuada para sus datos] (https://zenodo.org/records/11105430).
 
-When you publish the data for your lesson, make sure to include:
+Cuando publiques los datos de tu lección, asegúrate de incluir:
 
-- a description of each of the files included.
-- information about the provenance of those files.
-- the lesson in which those files are used.
-- the license terms.
-- anything else you think people need to know about the data.
+- una descripción de cada uno de los archivos incluidos.
+- información sobre la procedencia de esos archivos.
+- la lección en la que se utilizan esos archivos.
+- los términos de la licencia.
+- cualquier otra cosa que crea que la gente necesita saber sobre los datos.
 
-See [the Figshare entry of data used in Data Carpentry Image Processing workshops](https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677) for an example.
+Consulte [la entrada de datos de Figshare utilizada en los talleres de procesamiento de imágenes de Data Carpentry] (https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677) para ver un ejemplo.
 
 [carpentries-incubator]: https://carpentries-incubator.org/
 [carpentries-lab]: https://carpentries-lab.org/
