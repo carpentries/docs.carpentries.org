@@ -1,5 +1,5 @@
-# The Carpentries Tip Sheets
+# Les fiches-conseils sur la menuiserie
 
-- [Welcome Tip Sheet](https://zenodo.org/records/10785524)
-- [Instructor Tip Sheet](https://zenodo.org/doi/10.5281/zenodo.8125137)
-- [Partnership Tip Sheet](https://zenodo.org/records/19382656)
+- [Fiche de conseils de bienvenue] (https://zenodo.org/records/10785524)
+- [Fiche de conseils pour les instructeurs] (https://zenodo.org/doi/10.5281/zenodo.8125137)
+- [Fiche de conseils sur les partenariats] (https://zenodo.org/records/19382656)
