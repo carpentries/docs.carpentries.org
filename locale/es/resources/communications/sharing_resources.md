@@ -1,53 +1,53 @@
-# A Guide to Sharing Communications with The Carpentries
+# Una guía para compartir la comunicación con los carpinteros
 
-The Carpentries welcomes blog posts, newsletter announcements, social media posts, and other communications requests from our Partner Organisations and community members, including learners.
+The Carpentries agradece las publicaciones de blog, los anuncios de boletines informativos, las publicaciones en las redes sociales y otras solicitudes de comunicación de nuestras organizaciones asociadas y miembros de la comunidad, incluidos los estudiantes.
 
-## Sharing a blog post
+## Compartir una entrada de blog
 
-### Writing and Formatting Your Blog Post
+### Escribir y dar formato a tu entrada de blog
 
-Please draft your blog post using [The Carpentries Blog Post Template](https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0).
+Redacta tu entrada de blog con [Plantilla de publicación de blog de The Carpentries] (https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0).
 
-Please follow the [Carpentries Style Guide](https://docs.carpentries.org/resources/communications/style-guide.html) when writing your blog post. Pay special attention to guidelines regarding abbreviations, acronyms, capitalisation, and use of inclusive language (e.g., remove ableist language). In addition,
+Siga la [Guía de estilo de carpintería] (https://docs.carpentries.org/resources/communications/style-guide.html) cuando escriba su entrada de blog. Presta especial atención a las directrices sobre las abreviaturas, las siglas, las mayúsculas y el uso de un lenguaje inclusivo (por ejemplo, eliminar el lenguaje para personas con discapacidad). Además,
 
-- Add descriptive alt text to all images included in your post.
-- Avoid excessive use of italics, underlines, or all caps.
-- For images that are not photos, use an online contrast checker (example) to check that the text and background colours have sufficient contrast to comply with accessibility standards.
-- If your communication includes videos, provide accurate captions and transcripts for the content.
-- Make sure that links and buttons are clearly labelled and distinguishable. Avoid using generic phrases like "click here" instead of descriptive text.
+- Añade texto alternativo descriptivo a todas las imágenes incluidas en tu publicación.
+- Evite el uso excesivo de cursivas, subrayados o mayúsculas.
+- En el caso de las imágenes que no sean fotografías, utilice un comprobador de contraste en línea (por ejemplo) para comprobar que los colores del texto y del fondo tienen suficiente contraste para cumplir con las normas de accesibilidad.
+- Si tu comunicación incluye vídeos, proporciona subtítulos y transcripciones precisos para el contenido.
+- Asegúrese de que los enlaces y botones estén claramente etiquetados y se distingan. Evita usar frases genéricas como «haz clic aquí» en lugar de texto descriptivo.
 
-When defining terminology popular with The Carpentries community, please use the definitions in our {{'[Community Glossary of Terms]({})'.format(glossary)}}.
+Al definir la terminología popular entre la comunidad de The Carpentries, utiliza las definiciones de nuestro {{'[Glosario de términos de la comunidad] ({}) '.format (glossary)}}.
 
-### Single-Authored Blog Post Writing
+### Redacción de publicaciones de blog de un solo autor
 
-Do you have an idea you would like to develop and publish as a blog post?
+¿Tienes una idea que te gustaría desarrollar y publicar como entrada de blog?
 
-- Email [community@carpentries.org](mailto:community@carpentries.org) with your idea, and one of the Core Team members will discuss it with you and also guide you through submitting it to our blog.
+- Envía un correo electrónico a [community@carpentries.org] (mailto:community@carpentries.org) con tu idea y uno de los miembros del equipo central la analizará contigo y también te guiará para enviarla a nuestro blog.
 
-### Collaborative Blog Post Writing
+### Redacción colaborativa de publicaciones de blog
 
-Are you interested in collaborating with another community member to co-author and publish a post on The Carpentries blog?
+¿Está interesado en colaborar con otro miembro de la comunidad para ser coautor y publicar una publicación en el blog de The Carpentries?
 
-- Join The Carpentries Slack and share your blog post idea in the \#blog-post-ideas channel to start a discussion. Invite other community members to collaborate with you. (_**preferred**_)
-- Email [community@carpentries.org](mailto:community@carpentries.org) with your idea, and one of the Core Team members will amplify the concept in the community so others can reach out and collaborate with you. (_**optional**_)
+- Únete a The Carpentries Slack y comparte la idea de tu entrada de blog en el canal\ #blog -post-ideas para iniciar un debate. Invita a otros miembros de la comunidad a colaborar contigo. (_**preferido**_)
+- Envía un correo electrónico a [community@carpentries.org] (mailto:community@carpentries.org) con tu idea y uno de los miembros del equipo central ampliará el concepto en la comunidad para que otros puedan ponerse en contacto contigo y colaborar contigo. (_**opcional**_)
 
-## Sharing a Newsletter Update
+## Compartir una actualización del boletín
 
-Do you have an announcement you would like us to include in [_Carpentries Clippings_](https://carpentries.org/about-us/newsletter/), our monthly newsletter? Announcements could be job opportunity openings, a special update from your subcommunity, or an event that might interest the community. Accepted annoucements from our Partner Organisations will get first priority in our newsletter.
+¿Desea que incluyamos algún anuncio en [_Carpentries Clippings_] (https://carpentries.org/about-us/newsletter/), nuestro boletín mensual? Los anuncios pueden ser ofertas de empleo, una actualización especial de tu subcomunidad o un evento que pueda interesar a la comunidad. Los anuncios aceptados de nuestras organizaciones asociadas tendrán la máxima prioridad en nuestro boletín.
 
-- Email [community@carpentries.org](mailto:community@carpentries.org) with your request; we will include it in the next newsletter.
-- Please note that the **newsletter is released on the 4th (not last) Thursday of the month**. Please bear this in mind when sending time-sensitive notices.
+- Envíe un correo electrónico a [community@carpentries.org] (mailto:community@carpentries.org) con su solicitud; la incluiremos en el próximo boletín.
+- Tenga en cuenta que el **boletín se publica el cuarto (no el último) jueves del mes**. Tenga esto en cuenta a la hora de enviar avisos urgentes.
 
-## Sharing a social media post
+## Compartir una publicación en redes sociales
 
-The Carpentries is active on the following social media platforms:
+The Carpentries está activo en las siguientes plataformas de redes sociales:
 
-- [Mastodon](https://hachyderm.io/@thecarpentries)
-- [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
-- [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
+- [Mastodonte] (https://hachyderm.io/@thecarpentries)
+- [LinkedIn] (https://www.linkedin.com/company/the-carpentries/)
+- [Cielo azul] (https://bsky.app/profile/carpentries.carpentries.org)
 
-Please engage with us and tag us on any social media communication you wish for us to reshare on our platforms. Although we reshare most social media posts that tag our accounts, a reshare is not guaranteed.
+Interactúa con nosotros y etiquétanos en cualquier comunicación de redes sociales que desees que volvamos a compartir en nuestras plataformas. Aunque volvemos a compartir la mayoría de las publicaciones en las redes sociales que etiquetan nuestras cuentas, no se garantiza que se vuelva a compartir.
 
-Please also note that we do not post messages directly on our accounts promoting events in which members of our Core Team or governance are not directly involved or calls to attend Carpentries workshop events.
+Tenga en cuenta también que no publicamos mensajes directamente en nuestras cuentas promocionando eventos en los que los miembros de nuestro equipo principal o de gobierno no participen directamente ni convocatorias para asistir a los talleres de Carpentries.
 
-If you have any announcements you would like us to share on your behalf, email [community@carpentries.org](mailto:community@carpentries.org), and we will let you know if we can assist.
+Si tiene algún anuncio que quiera que compartamos en su nombre, envíe un correo electrónico a [community@carpentries.org] (mailto:community@carpentries.org) y le avisaremos si podemos ayudarlo.
