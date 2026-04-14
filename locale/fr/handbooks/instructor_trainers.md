@@ -1,289 +1,289 @@
-# Instructor Trainers Handbook
+# Manuel des instructeurs et des formateurs
 
-## About This Handbook
+## À propos de ce manuel
 
-The Instructor Trainers Handbook is designed to support members of The
-Carpentries community who are serving as an Instructor Trainer. It is maintained by The Carpentries Workshops and Instruction Team.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Workshops and Instruction Team](mailto:{})'.format(workshops_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Le manuel des formateurs d'instructeurs est conçu pour aider les membres de la communauté The
+Carpentries qui agissent en tant que formateurs d'instructeurs. Il est entretenu par les ateliers de menuiserie et l'équipe pédagogique.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[L'équipe chargée des ateliers et de l'instruction] (mailto:{}) '.format (workshops_email)}} ou ouvrez un numéro sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
-## Introduction
+## Présentation
 
-Instructor Trainers are certified to co-teach Carpentries Instructor Training events, the first step in certification for Carpentries Instructors. Instructor Trainers also support [Instructor certification](https://carpentries.github.io/instructor-training/14-checkout.html), also known as Checkout, evaluating trainees’ teaching demonstrations.
+Les formateurs sont certifiés pour co-animer les événements de formation des instructeurs de menuiserie, la première étape de la certification des moniteurs de menuiserie. Les formateurs d'instructeurs prennent également en charge la [certification d'instructeur] (https://carpentries.github.io/instructor-training/14-checkout.html), également connue sous le nom de Checkout, qui évalue les démonstrations pédagogiques des stagiaires.
 
-The Instructor Trainer community plays a leading role in The Carpentries, maintaining our flagship [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/), supporting policy development around training, and bringing Carpentries instructional practices to leadership roles across our local and global communities.
+La communauté des formateurs joue un rôle de premier plan dans The Carpentries, en maintenant notre programme phare [Curriculum de formation des instructeurs] (https://carpentries.github.io/instructor-training/), en soutenant l'élaboration de politiques en matière de formation et en intégrant les pratiques pédagogiques de Carpentries aux rôles de leadership au sein de nos communautés locales et mondiales.
 
-Instructor Trainers join a global community of skilled professionals with a passion for evidence-based teaching and a shared goal of expanding access to instructional training. Instructor Trainers build their knowledge and skills through co-instruction and monthly discussions, with additional opportunities for in-depth exploration of relevant topics throughout the year.
+Les formateurs rejoignent une communauté mondiale de professionnels qualifiés passionnés par l'enseignement fondé sur des données probantes et partageant l'objectif commun d'élargir l'accès à la formation pédagogique. Les formateurs renforcent leurs connaissances et leurs compétences grâce à la co-instruction et à des discussions mensuelles, avec des opportunités supplémentaires d'exploration approfondie de sujets pertinents tout au long de l'année.
 
-Instructor Trainers often engage in leadership roles in their home communities, mentoring local Instructors and modelling best practices. Instructor Trainers can assume leadership roles within the Instructor Trainer community as Instructor Training Curriculum Maintainers or members of the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers?tab=readme-ov-file).
+Les formateurs d'instructeurs jouent souvent des rôles de leadership dans leur communauté d'origine, en encadrant les instructeurs locaux et en modélisant les meilleures pratiques. Les formateurs d'instructeurs peuvent assumer des rôles de leadership au sein de la communauté des formateurs d'instructeurs en tant que responsables du programme de formation des instructeurs ou membres du [Comité de direction des formateurs d'instructeurs] (https://github.com/carpentries/trainers?tab=readme-ov-file).
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-Instructor Trainers teach Instructor Training events, host teaching demonstrations, and attend Instructor Trainer community meetings. [Requirements for active status are defined below](#active-status-renewal-process).
+Les formateurs d'instructeurs organisent des événements de formation des instructeurs, organisent des démonstrations pédagogiques et participent aux réunions communautaires des formateurs d'instructeurs. [Les conditions requises pour le statut actif sont définies ci-dessous] (#active-status-renewal-process).
 
-The estimated time investment for these activities is 25-30 hours per year, depending on preparation needs.
+L'investissement en temps estimé pour ces activités est de 25 à 30 heures par an, selon les besoins de préparation.
 
-Instructor Trainers whose service is included in a Partnership Agreement may have additional requirements – please refer to your Partnership Agreement for details.
+Les formateurs dont les services sont inclus dans un accord de partenariat peuvent avoir des exigences supplémentaires. Veuillez consulter votre accord de partenariat pour plus de détails.
 
-### Scheduling Training Events
+### Planification d'événements de formation
 
-Instructor Training events and teaching demos are scheduled on a quarterly basis. Four times a year, the Core Team will poll Instructor Trainers for their availability to teach Instructor Training. At the same time, Instructor Trainers will be asked to sign up to host teaching demos using Calendly.
+Des événements de formation des instructeurs et des démonstrations pédagogiques sont programmés sur une base trimestrielle. Quatre fois par an, l'équipe principale interrogera les formateurs d'instructeurs pour savoir s'ils sont disponibles pour dispenser la formation des instructeurs. Dans le même temps, les formateurs d'instructeurs seront invités à s'inscrire pour organiser des démonstrations pédagogiques à l'aide de Calendly.
 
-The Core Team creates a training calendar by matching up availability of Instructor Trainers and [posts it with our curriculum](https://carpentries.github.io/instructor-training/training_calendar). Partner sites each receive a unique registration code allowing their team members to sign up for these events.
+L'équipe principale crée un calendrier de formation en fonction de la disponibilité des formateurs d'instructeurs et [l'affiche dans notre programme] (https://carpentries.github.io/instructor-training/training_calendar). Les sites partenaires reçoivent chacun un code d'inscription unique permettant aux membres de leur équipe de s'inscrire à ces événements.
 
-Teaching demos are listed on the [teaching demo etherpad](https://pad.carpentries.org/teaching-demos).  Trainees can sign up for teaching demos at any time.
+Les démonstrations pédagogiques sont répertoriées sur le [etherpad de démonstration pédagogique] (https://pad.carpentries.org/teaching-demos).  Les stagiaires peuvent s'inscrire à tout moment à des démonstrations pédagogiques.
 
-## Onboarding
+## Intégration
 
-### Instructor Trainer Training Program
+### Programme de formation d'instructeurs et de formateurs
 
 #### Admission
 
-The Instructor Trainer community periodically accepts new members via application.
+La communauté des formateurs d'instructeurs accepte périodiquement de nouveaux membres sur demande.
 
-- Instructor Trainer Training is a **10-week program held 1-2 times per year** as needed.
-- All Instructor Trainer **candidates must apply and be approved** by a panel of current Instructor Trainers. We strongly recommend that candidates have either had
-  - **prior experience teaching Carpentries workshops** (with existing Instructor certification) or
-  - **significant prior training in teaching** (e.g. courses or a degree in education; experience teaching is also useful but is not the same as training)
-- Instructor Trainer Training seats are offered to approved applicants based on current organisational needs and training capacity. Space is limited, and qualified candidates may not be selected if we have low demand or multiple applicants in the same region.
-- Partner Organisations can reserve Instructor Trainer Training seats for a fee. In these cases, while the seat is reserved for someone from the Partner institution, individual candidates must still apply and be approved.
-- The Carpentries keeps a list of interested applicants and member contacts who would like to be notified when the next round of Instructor Trainer Training applications open. To be added to this list, please email the [Instructor Training Team](mailto:instructor.training@carpentries.org).
+- La formation des formateurs est un **programme de 10 semaines organisé 1 à 2 fois par an** selon les besoins.
+- Tous les formateurs d'instructeurs **les candidats doivent postuler et être approuvés** par un panel de formateurs d'instructeurs actuels. Nous recommandons vivement aux candidats d'avoir obtenu l'un ou l'autre
+  - **expérience antérieure dans l'enseignement d'ateliers de menuiserie** (avec certification d'instructeur existante) ou
+  - **une formation préalable significative dans le domaine de l'enseignement** (par exemple, des cours ou un diplôme en éducation ; l'expérience dans l'enseignement est également utile mais n'est pas la même chose que la formation)
+- Des places de formation d'instructeurs-formateurs sont proposées aux candidats approuvés en fonction des besoins organisationnels actuels et de la capacité de formation. Le nombre de places étant limité, il est possible que les candidats qualifiés ne soient pas sélectionnés si la demande est faible ou si plusieurs candidats sont présents dans la même région.
+- Les organisations partenaires peuvent réserver des places pour la formation des instructeurs et des formateurs moyennant des frais. Dans ces cas, bien que le siège soit réservé à une personne de l'institution partenaire, les candidats individuels doivent tout de même postuler et être approuvés.
+- The Carpentries tient une liste des candidats intéressés et des contacts des membres qui souhaiteraient être informés de l'ouverture de la prochaine série de candidatures à la formation d'instructeurs et de formateurs. Pour être ajouté à cette liste, veuillez envoyer un e-mail à [l'équipe de formation des instructeurs] (mailto:instructor.training@carpentries.org).
 
-#### Training and Initial Certification
+#### Formation et certification initiale
 
-To be certified as an Instructor Trainer, all trainees must:
+Pour obtenir la certification de formateur d'instructeurs, tous les stagiaires doivent :
 
-- Agree to abide by the {{'[Code of Conduct]({})'.format(code_of_conduct)}} in all communications and interactions with The Carpentries community.
-- Attend weekly virtual seminar meetings.
-  - Time commitment: 1 hour per week for 10 weeks; can miss up to 2 meetings.
-  - Meeting times are determined by a poll. Trainees may wait for a future cohort if their scheduling needs are unmet.
-- Review _How Learning Works_ by Susan Ambrose et al. and The Carpentries [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
-  - Time commitment: approximately 2-4 hours per week.
-  - The actual time necessary for the full benefit of preparation depends on prior familiarity with content and English language proficiency.
-- Agree to participate as an Active Instructor Instructor Trainer for at least 1 year.
+- Acceptez de respecter le {{'[Code de conduite] ({}) '.format (code_of_conduct)}} dans toutes les communications et interactions avec la communauté The Carpentries.
+- Assistez à des séminaires virtuels hebdomadaires.
+  - Temps requis : 1 heure par semaine pendant 10 semaines ; vous pouvez manquer jusqu'à 2 réunions.
+  - Les horaires des réunions sont déterminés par un sondage. Les stagiaires peuvent attendre une future cohorte si leurs besoins en matière de planification ne sont pas satisfaits.
+- Passez en revue _How Learning Works_ de Susan Ambrose et al. et The Carpentries [Instructor Training Curriculum] (https://carpentries.github.io/instructor-training/).
+  - Temps requis : environ 2 à 4 heures par semaine.
+  - Le temps réel nécessaire pour tirer pleinement parti de la préparation dépend de la familiarité préalable avec le contenu et de la maîtrise de l'anglais.
+- Acceptez de participer en tant qu'instructeur et formateur actif pendant au moins un an.
 
-Trainees who are previously certified as Carpentries Instructors must additionally:
+Les stagiaires précédemment certifiés en tant que moniteurs de menuiserie doivent en outre :
 
-- Observe a teaching demonstration session (1 hour).
-- Observe part of an online Instructor Training event (4 hours).
+- Assistez à une séance de démonstration pédagogique (1 heure).
+- Observez une partie d'un événement de formation d'instructeur en ligne (4 heures).
 
-Trainees who are \*not\* previously certified as Carpentries Instructors must concurrently pursue [Instructor certification](https://carpentries.org/become-instructor/), with all steps completed or scheduled prior to receiving the Instructor Trainer badge
+Les stagiaires qui ne sont pas auparavant certifiés en tant que moniteurs de menuiserie doivent obtenir simultanément [certification d'instructeur] (https://carpentries.org/become-instructor/), toutes les étapes étant terminées ou programmées avant de recevoir le badge de formateur d'instructeur
 
-**Total time estimate** for previously certified Instructors to become certified Instructor Trainers: 35 hours (minimum) over a 3-month period
+**Temps estimatif total** nécessaire pour que les instructeurs précédemment certifiés deviennent des formateurs d'instructeurs certifiés : 35 heures (minimum) sur une période de 3 mois
 
-For more information, see [The Carpentries Instructor Trainer Training Curriculum](https://carpentries.github.io/trainer-training/).
+Pour plus d'informations, consultez [The Carpentries Instructor Training Curriculum] (https://carpentries.github.io/trainer-training/).
 
-### Active Status Renewal Process
+### Processus de renouvellement du statut actif
 
-Version 1.0.2 – Approved 4 February, 2025
+Version 1.0.2 — Approuvée le 4 février 2025
 
-### Active status for Instructor Instructor Trainers is renewed annually.
+### Le statut actif des formateurs est renouvelé chaque année.
 
-New Instructor Trainers who have _not_ yet been certified for a full year and Instructor Trainers who have returned to Active status within the past year will automatically be renewed.
+Les nouveaux formateurs d'instructeurs qui n'ont pas encore été certifiés depuis une année complète et les formateurs d'instructeurs qui sont revenus au statut actif au cours de l'année écoulée seront automatiquement renouvelés.
 
-#### Active status may be renewed by either:
+#### Le statut actif peut être renouvelé soit par :
 
-A. participating in curriculum and community activities during the prior year, as described below OR  
-B. meet with the Director of Workshops and Training (DWIT) to catch up on curriculum and community changes and discuss plans for the coming year.
+A. participer à des programmes et à des activités communautaires au cours de l'année précédente, comme décrit ci-dessous OU  
+B. rencontrez le directeur des ateliers et de la formation (DWIT) pour faire le point sur les changements apportés aux programmes et à la communauté et discuter des plans pour l'année à venir.
 
-Instructor Trainers who do not renew their Active status before the deadline will have their status changed to Alumni. Instructions for Alumni returning to Active status are detailed below.
+Les formateurs qui ne renouvellent pas leur statut actif avant la date limite verront leur statut changé en Alumni. Les instructions pour les anciens élèves revenant au statut actif sont détaillées ci-dessous.
 
-In the case of option A above, certification will be renewed automatically when records indicate that Instructor Trainers have completed all activities expected for Active Instructor Trainers, detailed below. If records are incomplete, Instructor Trainers may self-report their activities via a form. The Instructor Trainers Leadership Committee will review form responses and recommend either renewal or a meeting (option B) based on reported activities.
+Dans le cas de l'option A ci-dessus, la certification sera renouvelée automatiquement lorsque les dossiers indiqueront que les formateurs d'instructeurs ont terminé toutes les activités attendues pour les formateurs d'instructeurs actifs, détaillées ci-dessous. Si les dossiers sont incomplets, les formateurs peuvent déclarer eux-mêmes leurs activités via un formulaire. Le comité de direction des formateurs d'instructeurs examinera les réponses aux formulaires et recommandera soit le renouvellement, soit la tenue d'une réunion (option B) sur la base des activités signalées.
 
-#### Participation Expectations for Active Instructor Trainers
+#### Attentes de participation pour les formateurs actifs
 
-To be renewed based on prior participation, an Instructor Trainer is expected to participate as follows during the 1 year period prior to renewal:
+À renouveler sur la base d'une participation antérieure, un formateur d'instructeurs devrait participer comme suit au cours de la période d'un an précédant le renouvellement :
 
-- teach 1 Instructor Training event, and
-- host 2 teaching demos, and
-- attend 4 Instructor Trainer community meetings, and
-- respond to 4 quarterly scheduling polls
+- enseigner 1 événement de formation des instructeurs, et
+- animer 2 démonstrations pédagogiques, et
+- assister à 4 réunions communautaires d'instructeurs-formateurs, et
+- répondre à 4 sondages de planification trimestriels
 
-If an Instructor Trainer does not participate in the ways listed above, during the renewal period, the Workshops and Instruction Team will provide additional ways to maintain Active Status.
+Si un formateur d'instructeurs ne participe pas de la manière indiquée ci-dessus, pendant la période de renouvellement, l'équipe chargée des ateliers et de l'enseignement proposera des moyens supplémentaires pour maintenir son statut actif.
 
-## Offboarding
+## Débarquement
 
-### Instructor Trainer Alumni Status
+### Statut d'ancien instructeur et formateur
 
-Active Instructor Trainers may elect to become inactive by requesting Instructor Trainer Alumni status at any time by contacting [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Alumni may also submit re-activation requests to the same address.
+Les formateurs d'instructeurs actifs peuvent choisir de devenir inactifs en demandant le statut d'ancien instructeur à tout moment en contactant [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org). Les anciens élèves peuvent également soumettre des demandes de réactivation à la même adresse.
 
-Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not renew their Active status during the annual renewal period.
+Les formateurs d'instructeurs actifs peuvent choisir de devenir inactifs à tout moment s'ils s'attendent à ne pas être disponibles pour participer aux rôles et responsabilités des formateurs d'instructeurs pendant un an ou plus. Les formateurs d'instructeurs actifs peuvent également voir leur rôle changé en celui d'ancien formateur d'instructeurs s'ils ne renouvellent pas leur statut actif au cours de la période de renouvellement annuelle.
 
-### Instructor Trainer Alumni will not be permitted to:
+### Les anciens instructeurs et formateurs ne seront pas autorisés à :
 
-- Teach Carpentries Instructor Training workshops.
-- Host teaching demonstrations.
-- Vote in Instructor Trainer community elections.
+- Organisez des ateliers de formation pour les instructeurs de menuiserie.
+- Organisez des démonstrations pédagogiques.
+- Votez aux élections de la communauté Instructor Trainer.
 
-Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+Des exceptions peuvent être faites à la discrétion de l'équipe principale de The Carpentries. Pour demander l'autorisation d'enseigner ou d'animer une démonstration, contactez [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org).
 
-### Instructor Trainer Alumni may select to:
+### Les anciens instructeurs et formateurs peuvent choisir de :
 
-- Continue to receive Topicbox Instructor Training emails and participate in conversations.
-- Continue to participate in the Slack private Instructor Trainers channel.
-- Receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status.
+- Continuez à recevoir les e-mails de formation des instructeurs Topicbox et participez aux conversations.
+- Continuez à participer à la chaîne privée de formateurs d'instructeurs de Slack.
+- Recevez une newsletter annuelle lors du renouvellement de l'accord contenant des mises à jour de la communauté et des informations sur la façon de revenir au statut Actif.
 
-An Instructor Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
+Un formateur qui souhaite revenir au statut Actif aura un parcours différent en fonction de la durée pendant laquelle il est resté inactif :
 
-- 0-12 months: Meet with the Director of Workshops and Training to learn about curriculum updates and discuss plans for re-activating.
-- more than 12 months: review Instructor Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with the Director of Workshops and Training to review and discuss plans, including re-introduction to the Instructor Trainer community via meetings or other arrangements.
+- 0 à 12 mois : Rencontrez le directeur des ateliers et de la formation pour en savoir plus sur les mises à jour du programme et discuter des plans de réactivation.
+- plus de 12 mois : revoir le programme de formation des formateurs, observer une partie d'un atelier de formation des instructeurs et rencontrer le directeur des ateliers et de la formation pour examiner et discuter des plans, y compris la réintroduction à la communauté des formateurs d'instructeurs par le biais de réunions ou d'autres arrangements.
 
-## Communication and Collaboration Spaces
+## Espaces de communication et de collaboration
 
-### Community Calendar
+### Calendrier communautaire
 
-All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/events/). Below is a list of Etherpads relevant to serving as an Instructor  Trainer.
+Toutes les réunions communautaires et démonstrations pédagogiques organisées régulièrement par des formateurs d'instructeurs sont répertoriées sur The Carpentries [Community Calendar] (https://carpentries.org/community/events/). Vous trouverez ci-dessous une liste des Etherpads pertinents pour servir de formateur d'instructeurs.
 
-- [Instructor Trainer Meetings](https://pad.carpentries.org/trainers): Used for monthly Instructor Trainer meetings.
-- [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, see the instructions below.
-- [Instructor Training Etherpad Template](https://pad.carpentries.org/ttt-template): Structured template that may be copied and pasted to create an Etherpad for any Instructor Training event.
-- [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of our most commonly used Etherpads and other resources.
+- [Réunions entre formateurs et instructeurs] (https://pad.carpentries.org/trainers) : utilisé pour les réunions mensuelles entre formateurs et instructeurs.
+- [Démonstrations pédagogiques] (https://pad.carpentries.org/teaching-demos) : Feuille d'inscription pour les démonstrations pédagogiques. Cela peut être utilisé pour suivre les inscriptions aux événements à venir. Pour modifier le calendrier, consultez les instructions ci-dessous.
+- [Modèle Etherpad pour la formation des instructeurs] (https://pad.carpentries.org/ttt-template) : modèle structuré qui peut être copié et collé pour créer un Etherpad pour tout événement de formation des instructeurs.
+- [Pad-of-Pads] (https://pad.carpentries.org/pad-of-pads) : liste de nos Etherpads les plus couramment utilisés et d'autres ressources.
 
-### GitHub Repositories
+### Référentiels GitHub
 
-- [carpentries/instructor-training](https://github.com/carpentries/instructor-training): the Instructor Training Curriculum. Specific suggestions or observations regarding curriculum content should be directed to issues or pull requests here for further discussion.
-- [carpentries/Instructor Trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.
-- [carpentries/instructor-training-bonus-modules](https://github.com/carpentries/instructor-training-bonus-modules): the Instructor Training Bonus Module Curriculum.
+- [menuiseries/instructor-training] (https://github.com/carpentries/instructor-training) : le programme de formation des instructeurs. Les suggestions ou observations spécifiques concernant le contenu du programme doivent être adressées aux questions ou aux demandes d'inscription ici pour une discussion plus approfondie.
+- [Carpentries/Instructor Trainers] (https://github.com/carpentries/trainers) : le référentiel communautaire des formateurs d'instructeurs. Comprend des archives des notes de réunion des formateurs d'instructeurs, des documents et des propositions sur le leadership des formateurs d'instructeurs et des discussions présentant un intérêt pour la communauté des formateurs d'instructeurs.
+- [carpentries/instructor-training-bonus-modules] (https://github.com/carpentries/instructor-training-bonus-modules) : le programme du module bonus de formation des instructeurs.
 
 ### Slack
 
-{{'[Join]({})'.format(slack_invite)}} The Carpentries Slack workspace.  To follow conversations relevant to this role, you should join the following channels:
+{{'[Join] ({}) '.format (slack_invite)}} L'espace de travail Slack de Carpentries.  Pour suivre les conversations relatives à ce rôle, vous devez rejoindre les canaux suivants :
 
-- **\#trainers**: a private channel open to only Instructor Trainers and members of The Carpentries Core Team used to discuss anything related to Instructor Training
-- **\#welcome**: new instructor trainees are often directed here to introduce themselves upon joining Slack.
+- \*\* \ #trainers \*\* : une chaîne privée réservée aux formateurs d'instructeurs et aux membres de l'équipe principale de The Carpentries, utilisée pour discuter de tout ce qui concerne la formation des instructeurs
+- \*\* \ #welcome \*\* : les nouveaux formateurs sont souvent invités ici pour se présenter lorsqu'ils rejoignent Slack.
 
-Instructor Trainers may also wish to join:
+Les formateurs d'instructeurs peuvent également souhaiter rejoindre :
 
-- **\#Instructor-training**: this low-traffic channel is open to the full community for questions or conversations related to Instructor Training
-- **\#jobs**: recruit more Carpentries folks to build your community at work, or find a new post that values Carpentries credentials
+- \*\* \ #Instructor -training\*\* : cette chaîne à faible trafic est ouverte à l'ensemble de la communauté pour des questions ou des conversations liées à la formation des instructeurs
+- \*\* \ #jobs \*\* : recrutez plus de collaborateurs de Carpentries pour développer votre communauté au travail, ou trouvez un nouveau post qui valorise les informations d'identification de Carpentries
 
-New to Slack? Check out our {{"[Slack Guide]({})".format(slack_guide)}}.
+Vous êtes nouveau sur Slack ? Consultez notre {{"[Slack Guide] ({}) » .format (slack_guide)}}.
 
-### TopicBox
+### Boîte à thème
 
-You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Vous pouvez accéder aux listes de diffusion de The Carpentries depuis [TopicBox] (https://carpentries.topicbox.com/latest). Vous trouverez ci-dessous une liste de ceux qui concernent les activités et les programmes couverts par ce manuel.  Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
 
-- [Instructor Trainers](https://carpentries.topicbox.com/groups/trainers): This is the primary communication channel for Instructor Trainers. All active Instructor Trainers are required to be on this list. It is used for community announcements and occasional discussions about issues relevant to Instructor Training or the Instructor Trainer community.
-- [Discuss](https://carpentries.topicbox.com/groups/discuss): This general community list is one of The Carpentries’ oldest channels and is a useful way for Instructor Trainers to keep up with news and events from the broader community.
+- [Instructor Trainers] (https://carpentries.topicbox.com/groups/trainers) : Il s'agit du principal canal de communication pour les formateurs d'instructeurs. Tous les formateurs d'instructeurs actifs doivent figurer sur cette liste. Il est utilisé pour les annonces communautaires et les discussions occasionnelles sur des questions relatives à la formation des instructeurs ou à la communauté des formateurs d'instructeurs.
+- [Discuter] (https://carpentries.topicbox.com/groups/discuss) : Cette liste communautaire générale est l'une des plus anciennes chaînes de The Carpentries et constitue un moyen utile pour les formateurs d'instructeurs de se tenir au courant des actualités et des événements de l'ensemble de la communauté.
 
-To join or view the archives of one or more Carpentries mailing lists, you will need to [create a login on TopicBox](https://carpentries.topicbox.com/latest). Once you have done this, you can scroll through the list of groups and select “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval).
+Pour rejoindre ou consulter les archives d'une ou plusieurs listes de diffusion de Carpentries, vous devez [créer un identifiant sur TopicBox] (https://carpentries.topicbox.com/latest). Une fois que vous avez fait cela, vous pouvez parcourir la liste des groupes et sélectionner « Rejoindre la conversation » (pour les envois ouverts) ou « Demander à participer » (pour les listes de diffusion nécessitant l'approbation de l'administrateur).
 
-### Meetings
+### Réunions
 
-Instructor Trainer meetings are scheduled at two time slots, twice monthly. Each month includes a primary, “discussion” meeting, where Instructor Trainers are invited to discuss upcoming trainings or events they have recently led, and receive updates on recent developments from the community and Core Team. The second time slot is used on an “as needed” basis, and may be used for focused discussion on a specific topic or cancelled.
+Les réunions des formateurs sont prévues à deux créneaux horaires, deux fois par mois. Chaque mois comprend une réunion principale de « discussion », au cours de laquelle les formateurs sont invités à discuter des formations à venir ou des événements qu'ils ont récemment organisés, et à recevoir des mises à jour sur les récents développements de la part de la communauté et de l'équipe principale. Le deuxième créneau horaire est utilisé « selon les besoins » et peut être utilisé pour une discussion ciblée sur un sujet spécifique ou annulé.
 
-Meetings are open to Instructor Trainers, Instructor Trainer trainees, and invited guests. Anyone else with interest in attending an Instructor Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
+Les réunions sont ouvertes aux formateurs d'instructeurs, aux stagiaires formateurs d'instructeurs et aux invités. Toute autre personne intéressée à participer à une réunion des formateurs d'instructeurs doit d'abord contacter [l'équipe de formation des instructeurs] (mailto:instructor.training@carpentries.org).
 
-Meeting notes are recorded in the [Instructor Trainers Etherpad](https://pad.carpentries.org/trainers) and [archived in the Instructor Trainers repository on GitHub](https://github.com/carpentries/trainers/tree/main/minutes).
+Les notes de réunion sont enregistrées dans [Instructor Trainers Etherpad] (https://pad.carpentries.org/trainers) et [archivées dans le référentiel Instructor Trainers sur GitHub] (https://github.com/carpentries/trainers/tree/main/minutes).
 
-## Step-by-Step Guides
+## Guides étape par étape
 
-### Quarterly Scheduling Calendar
+### Calendrier de planification trimestriel
 
-Instructor Training events and Teaching Demonstrations are scheduled on a quarterly basis. Refer to this schedule for planning and signing up to support events, using the instructions below.
+Des événements de formation des instructeurs et des démonstrations pédagogiques sont programmés sur une base trimestrielle. Consultez ce calendrier pour planifier et vous inscrire à des événements de soutien, en suivant les instructions ci-dessous.
 
-| For the period        | 1 Jan \- 31 Mar (Q1) | 1 Apr \- 30 Jun (Q2) | 1 Jul \- 30 Sep (Q3) | 1 Oct \- 31 Dec (Q4) |
-| :-------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| Signups open on       | 15 Nov                                   | 15 Feb                                   | 15 May                                   | 15 Aug                                   |
-| Responses due by      | 30 Nov                                   | 28 Feb                                   | 31 May                                   | 31 Aug                                   |
-| Calendar published by | 7 Dec                                    | 7 Mar                                    | 7 Jun                                    | 7 Sept                                   |
+| Pour la période                   | 1er janvier \ - 31 mars (premier trimestre) | 1er avril \ - 30 juin (T2) | 1er juillet \ - 30 septembre (3e trimestre) | 1er octobre \ - 31 décembre (4e trimestre) |
+| :-------------------------------- | :------------------------------------------------------------- | :-------------------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------ |
+| Les inscriptions sont ouvertes le | 15 novembre                                                    | 15 févr.                      | 15 mai                                                         | 15 août                                                       |
+| Réponses attendues avant          | 30 novembre                                                    | 28 févr.                      | 31 mai                                                         | 31 août                                                       |
+| Calendrier publié par             | 7 déc.                                         | 7 mars                                        | 7 juin                                                         | 7 septembre                                                   |
 
-### Training events
+### Événements de formation
 
-#### Sign up to Teach an Instructor Training Event
+#### Inscrivez-vous à l'événement de formation Teach an Instructor
 
-- When signups open, Instructor Trainers will receive an email via Topicbox asking them to share their availability for the upcoming quarter in a Google form based on the dates provided.
-- After the response deadline has passed, a Carpentries Core Team member will create a draft schedule and confirm events with individual Instructor Trainers.
-- We ask that Instructor Trainers keep available dates open until they have received confirmation of a training date or notification that they have not been scheduled for the quarter.
-- Once all events have been confirmed, the schedule is posted to the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar).
+- Lorsque les inscriptions seront ouvertes, les formateurs d'instructeurs recevront un e-mail via Topicbox leur demandant de partager leurs disponibilités pour le trimestre à venir dans un formulaire Google en fonction des dates fournies.
+- Une fois le délai de réponse dépassé, un membre de l'équipe principale de Carpentries créera un projet de calendrier et confirmera les événements avec les formateurs individuels.
+- Nous demandons aux formateurs de garder les dates disponibles ouvertes jusqu'à ce qu'ils aient reçu la confirmation d'une date de formation ou une notification indiquant qu'elle n'a pas été programmée pour le trimestre.
+- Une fois que tous les événements ont été confirmés, le calendrier est publié dans le [Calendrier de formation des instructeurs] (https://carpentries.github.io/instructor-training/training_calendar).
 
-In rare instances, events may be cancelled due to low enrollment. If this happens, Instructor Trainers will be notified of potential cancellation two weeks before the event.
+Dans de rares cas, les événements peuvent être annulés en raison d'un faible taux d'inscription. Dans ce cas, les formateurs d'instructeurs seront informés d'une éventuelle annulation deux semaines avant l'événement.
 
-#### Cancel a Teaching Signup
+#### Annuler une inscription à un poste de professeur
 
-Once events have been scheduled, any Instructor Trainer who needs to cancel will normally be replaced by another Instructor Trainer from the community or The Carpentries Core Team.
+Une fois les événements programmés, tout formateur d'instructeurs qui doit annuler sera normalement remplacé par un autre formateur d'instructeurs de la communauté ou de l'équipe principale de The Carpentries.
 
-If you need to cancel after signing up to teach an Instructor Training event, email the [Instructor Training Team](mailto:instructor.training@carpentries.org). If your event is less than 2 weeks away, please include “urgent” in your subject line. For last-minute emergencies (e.g. illness on the day of an event), additionally consider using Slack to the \#Instructor Trainers channel, tagging members of the [Core Team](https://carpentries.org/team/).
+Si vous devez annuler après vous être inscrit à un événement de formation des instructeurs, envoyez un e-mail à [L'équipe de formation des instructeurs] (mailto:instructor.training@carpentries.org). Si votre événement a lieu dans moins de 2 semaines, veuillez indiquer « urgent » dans la ligne d'objet de votre message. Pour les urgences de dernière minute (par exemple, maladie le jour d'un événement), pensez également à utiliser Slack sur la chaîne \ #Instructor Trainers, en taguant les membres de [l'équipe principale] (https://carpentries.org/team/).
 
-#### Teach Instructor Training
+#### Enseigner la formation des instructeurs
 
-##### Preparation and Instruction
+##### Préparation et enseignement
 
-Guidelines on preparing to teach an Instructor Training Event can be found in the  [Instructor Trainer Notes section of the Instructor Training Curriculum](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)
+Des directives sur la préparation à l'enseignement d'un événement de formation d'instructeur sont disponibles dans la section [Notes des formateurs du programme de formation des instructeurs] (https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)
 
-##### Tracking Training Event Attendance
+##### Suivi de la participation aux événements de formation
 
-During an Instructor Training event, Instructor Trainers are asked to record attendance for all trainees using [a spreadsheet similar to this](https://docs.google.com/spreadsheets/d/1RjiM8tL6CToMwGO2w7GAQwWHfYPb82RrQfuflF7hMjU/edit#gid=0). This spreadsheet will be created by the Core Team and shared with Instructor Trainers a week before their event. Attendance may be taken at the beginning of an event. In addition, Instructor Trainers are asked to observe continued attendance for all participants and annotate the attendance sheet if a trainee is absent for more than 1 hour on any day. Accurate records of time missed will allow the Core Team to determine appropriate makeup options for trainees who wish to complete checkout.
+Lors d'un événement de formation d'instructeurs, les formateurs sont invités à enregistrer la participation de tous les stagiaires à l'aide de [une feuille de calcul similaire à celle-ci] (https://docs.google.com/spreadsheets/d/1RjiM8tL6CToMwGO2w7GAQwWHfYPb82RrQfuflF7hMjU/edit#gid=0). Cette feuille de calcul sera créée par l'équipe principale et partagée avec les formateurs d'instructeurs une semaine avant leur événement. La participation peut être prise au début d'un événement. En outre, les formateurs sont invités à observer la présence continue de tous les participants et à annoter la feuille de présence si un stagiaire est absent pendant plus d'une heure par jour. Des enregistrements précis du temps manqué permettront à l'équipe principale de déterminer les options de maquillage appropriées pour les stagiaires qui souhaitent terminer le paiement.
 
-### Teaching Demonstrations
+### Démonstrations pédagogiques
 
-#### Sign up to Host a Demo
+#### Inscrivez-vous pour organiser une démonstration
 
-Signups for teaching demonstrations are normally announced with Instructor Training event signups, but may be opened at other times if there is a need for additional sessions.
+Les inscriptions aux démonstrations pédagogiques sont normalement annoncées en même temps que les inscriptions aux événements de formation des instructeurs, mais peuvent être ouvertes à d'autres moments si des sessions supplémentaires sont nécessaires.
 
-- When signups open, Instructor Trainers will receive an email via Topicbox asking them to sign up for teaching demos in the coming quarter via Calendly.
-- Calendly will automatically send an event confirmation email and calendar invitation.
-- After the response deadline has passed, a Carpentries Core Team member will create a list of events to post to the [Teaching Demonstrations Etherpad](https://pad.carpentries.org/teaching-demos).
+- Lorsque les inscriptions seront ouvertes, les formateurs d'instructeurs recevront un e-mail via Topicbox leur demandant de s'inscrire aux démonstrations pédagogiques du prochain trimestre via Calendly.
+- Calendly enverra automatiquement un e-mail de confirmation de l'événement et une invitation au calendrier.
+- Une fois le délai de réponse dépassé, un membre de l'équipe principale de Carpentries créera une liste d'événements à publier sur le [Teaching Demonstrations Etherpad] (https://pad.carpentries.org/teaching-demos).
 
-#### Prepare for a Demo
+#### Préparez-vous à une démonstration
 
-- If you would like to review an example teaching demo, there is a [recording of one here](https://www.youtube.com/watch?v=3NCpPk8jvQo).
-- Instructor Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) section of the Instructor Training Curriculum.
-- Get acquainted with using [Zoom](/resources/communications/zoom_rooms.md) for videoconferencing.
-- Check your Calendly confirmation email for the Host Key to use on Zoom, and keep this where you can find it. This will be necessary to allow trainees to screen share during your demo.
-- A day or two before the demo, send a reminder to trainees based on this [email template](/resources/instructor-training/index.md#reminder-teaching-demo). This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.
-- Trainees will select their starting point. Suggested start points are available in the [Instructor Training Curriculum (under More)](https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).
-- If a trainee has selected a lesson that is not on the list above, you may ask them to choose a different lesson or, if you are familiar with the lesson, you may choose a start point and allow them to use it anyway. Be sure the start point does not require any setup or rely on any dependencies from prior episodes.
+- Si vous souhaitez consulter un exemple de démonstration pédagogique, il y en a un [enregistrement ici] (https://www.youtube.com/watch?v=3NCpPk8jvQo).
+- Les scripts suggérés par les formateurs et d'autres conseils et astuces pour l'organisation de ces sessions sont inclus dans la section [Notes de l'instructeur] (https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) du programme de formation des instructeurs.
+- Apprenez à utiliser [Zoom] (/resources/communications/zoom_rooms.md) pour la visioconférence.
+- Vérifiez votre e-mail de confirmation Calendly pour trouver la clé d'hôte à utiliser sur Zoom, et conservez-la là où vous pouvez la trouver. Cela sera nécessaire pour permettre aux stagiaires de partager leur écran pendant votre démonstration.
+- Un jour ou deux avant la démonstration, envoyez un rappel aux stagiaires en utilisant ce [modèle d'e-mail] (/resources/instructor-training/index.md#reminder-teaching-demo). Cela suscite souvent des questions ou des annulations. Vous pouvez utiliser ce [script développé par la communauté] (https://github.com/jcoliver/auto-demo-email) pour générer vos e-mails.
+- Les stagiaires choisiront leur point de départ. Les points de départ suggérés sont disponibles dans le [Curriculum de formation des instructeurs (sous Plus)] (https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).
+- Si un stagiaire a sélectionné une leçon qui ne figure pas dans la liste ci-dessus, vous pouvez lui demander d'en choisir une autre ou, si la leçon vous est familière, vous pouvez choisir un point de départ et lui permettre de l'utiliser quand même. Assurez-vous que le point de départ ne nécessite aucune configuration et ne repose sur aucune dépendance par rapport aux épisodes précédents.
 
-#### Host a Demo
+#### Organisez une démo
 
-- Go to the Zoom room. The link is in the [Etherpad](https://pad.carpentries.org/teaching-demos).
-- Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for one episode, and if so, suggest strongly they reschedule.
-- Let trainees know that you will not tell them if they passed during the session, but instead will follow up with an email afterward. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
-- Ask those not presenting to give feedback using the same [positive-vs-areas of improvement and content-vs-presentation rubric](https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) used in training. For a full session (5 trainees), they should add feedback to the Etherpad for you to summarise. If you have fewer people, you may have them take turns sharing verbally.
-- Give each trainee a few moments to get set up and initiate screen sharing before counting down to begin. Start a timer.
-- While they present, consider feedback, and take notes privately. Use this [rubric](https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) as a guide, focusing on feedback that you think will be most necessary or helpful for the trainee as they progress toward teaching.
-- After the timer ends, trainees should wrap up and share feedback on themselves first.
-- Summarise or share other trainees’ feedback as time allows, concluding with your own comments. It is sometimes necessary to (gently) disagree with feedback from another trainee.
-- Do NOT tell a trainee whether they passed immediately after their demo.
-- After everyone has gone, if all of the trainees passed, it is ok to tell the group. Either way, tell the group you will email them afterward to follow up .
-- More tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) of the instructor training website.
+- Accédez à la salle Zoom. Le lien se trouve dans le [Etherpad] (https://pad.carpentries.org/teaching-demos).
+- Une fois que tout le monde est en communication (son et sa vidéo fonctionnent), rappelez-leur le Code de conduite, expliquez-leur la procédure de la session de démonstration et rappelez-leur que les stagiaires doivent être capables d'enseigner à partir de n'importe quel épisode de la leçon qu'ils ont choisie. Demandez à quelqu'un s'il n'a préparé qu'un seul épisode et, si c'est le cas, suggérez-lui fortement de le reprogrammer.
+- Faites savoir aux stagiaires que vous ne leur direz pas s'ils ont réussi pendant la session, mais que vous leur enverrez un e-mail par la suite. Il peut être utile de leur rappeler qu'il ne s'agit pas d'un test aux enjeux élevés, mais d'une occasion conviviale de faire part de leurs commentaires.
+- Demandez à ceux qui ne font pas de présentation de donner leur avis en utilisant la même [rubrique positive par rapport aux points à améliorer et entre le contenu et la présentation] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) que celle utilisée lors de la formation. Pour une session complète (5 stagiaires), ils doivent ajouter des commentaires à l'Etherpad pour que vous puissiez les résumer. Si vous avez moins de personnes, vous pouvez leur demander de partager verbalement à tour de rôle.
+- Donnez à chaque stagiaire quelques instants pour se préparer et lancer le partage d'écran avant de commencer le compte à rebours. Démarrez un chronomètre.
+- Pendant leur présentation, tenez compte des commentaires et prenez des notes en privé. Utilisez cette [rubrique] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) comme guide, en vous concentrant sur les commentaires qui, selon vous, seront les plus nécessaires ou les plus utiles pour le stagiaire au fur et à mesure de sa progression dans l'enseignement.
+- À la fin du temps imparti, les stagiaires doivent d'abord terminer et partager leurs commentaires sur eux-mêmes.
+- Résumez ou partagez les commentaires des autres stagiaires si le temps le permet, en concluant par vos propres commentaires. Il est parfois nécessaire d'être (gentiment) en désaccord avec les commentaires d'un autre stagiaire.
+- Ne dites PAS à un stagiaire s'il a réussi immédiatement après sa démonstration.
+- Une fois que tout le monde est parti, si tous les stagiaires ont réussi, vous pouvez en informer le groupe. Quoi qu'il en soit, dites au groupe que vous lui enverrez un e-mail par la suite pour faire le suivi.
+- Vous trouverez d'autres conseils dans les [notes de l'instructeur] (https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) du site Web de formation des instructeurs.
 
-#### After a Demo: Report and Etherpad Cleanup
+#### Après une démonstration : nettoyage du rapport et de l'Etherpad
 
-- Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.
-- Save Etherpad by selecting the “star” at the top right of the screen
-- Clear Etherpad of data from your session.
-- Send each trainee an email using our templates letting them know they [passed](/resources/instructor-training/index.md#trainee-passed-teaching-demo) or [did not pass](/resources/instructor-training/index.md#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
+- Remplissez [ce formulaire] (https://forms.gle/ZusNhyhNh4rvCmxH8) pour indiquer à The Carpentries qui a réussi et qui n'a pas réussi.
+- Enregistrez Etherpad en sélectionnant l' « étoile » en haut à droite de l'écran
+- Effacez Etherpad des données de votre session.
+- Envoyez un e-mail à chaque stagiaire à l'aide de nos modèles pour lui faire savoir qu'il a [réussi] (/resources/instructor-training/index.md#trainee-passed-teaching-demo) ou [n'a pas réussi] (/resources/instructor-training/index.md#trainee-invited-to-repeat-teaching-demo) la démonstration pédagogique. Si nécessaire, indiquez-leur la raison pour laquelle ils n'ont pas réussi et demandez-leur de réessayer.
 
-#### Cancel a Demo
+#### Annuler une démo
 
-**If no trainees have signed up:**
+**Si aucun stagiaire ne s'est inscrit :**
 
-1. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos). It is important to do this first to prevent anyone from signing up\! You have permission to remove your own demo and do not need to ask.
-2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+1. Supprimez l'événement de l' [Etherpad] (https://pad.carpentries.org/teaching-demos). Il est important de le faire d'abord pour empêcher quiconque de s'inscrire \ ! Vous êtes autorisé à supprimer votre propre démo et vous n'avez pas besoin de le demander.
+2. Avertissez [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org) pour nous informer que votre événement doit être retiré du [calendrier communautaire] (https://carpentries.org/community/#community-events).
 
-**If trainees have signed up:**
+**Si les stagiaires se sont inscrits :**
 
-1. If there is enough time, post a message in the \#Trainers Slack channel and/or send an email to [Instructor Trainers@lists.carpentries.org](mailto:trainers@lists.carpentries.org) to find someone who can take your place. (You may choose to skip this step, e.g. if there are only 1-2 people signed up.)
-   1. If someone can take your place, confirm with them and have them add their information on the Etherpad.
-   2. Ensure someone on the Core Team knows so they can be added to the calendar invitation. When in doubt, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
-   3. You are done\!
-2. If step 1 is skipped or unsuccessful, email the trainees to let them know the demo has been cancelled, and ask them to sign up for a different session.
-3. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos).
-4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+1. Si vous disposez de suffisamment de temps, publiez un message sur la chaîne \ #Trainers Slack et/ou envoyez un e-mail à [Instructor Trainers@lists.carpentries.org] (mailto:trainers@lists.carpentries.org) pour trouver quelqu'un qui peut vous remplacer. (Vous pouvez choisir d'ignorer cette étape, par exemple s'il n'y a que 1 à 2 personnes inscrites.)
+   1. Si quelqu'un peut prendre votre place, confirmez-le et demandez-lui d'ajouter ses informations sur l'Etherpad.
+   2. Assurez-vous qu'un membre de l'équipe principale soit au courant afin qu'il puisse être ajouté à l'invitation du calendrier. En cas de doute, envoyez un e-mail à [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org).
+   3. Vous avez terminé \ !
+2. Si l'étape 1 est ignorée ou échoue, envoyez un e-mail aux stagiaires pour les informer que la démonstration a été annulée et demandez-leur de s'inscrire à une autre session.
+3. Supprimez l'événement de l' [Etherpad] (https://pad.carpentries.org/teaching-demos).
+4. Avertissez [instructor.training@carpentries.org] (mailto:instructor.training@carpentries.org) pour nous informer que votre événement doit être retiré du [calendrier communautaire] (https://carpentries.org/community/#community-events).
 
-#### Share lessons learned from a Training event or Demo
+#### Partagez les leçons apprises lors d'un événement de formation ou d'une démonstration
 
-Sharing your experience after teaching or hosting a demo helps everyone to think about their practice, learn from what you have learned, and consider ways to make our program better. To make the most of this opportunity, consider sharing details about:
+Le fait de partager votre expérience après avoir enseigné ou organisé une démonstration permet à chacun de réfléchir à sa pratique, de tirer des leçons de ce que vous avez appris et de réfléchir à des moyens d'améliorer notre programme. Pour tirer le meilleur parti de cette opportunité, pensez à partager des informations sur :
 
-- **What content you spent extra time on**. This tells people what you and your trainees considered most interesting, most important, or most challenging. Sometimes there are good things to explore behind those choices.
-- **What content you skipped**. This helps newer Instructor Trainers consider how to cut when they need to. It also helps Maintainers think about areas where future cuts or adjustments should be made in the curriculum.
-- **What choices you made to manage engagement**. Every group is different\! Did you need to work harder to allow everyone to contribute? Mix up groups to break up some low energy combinations? Maybe you embraced your introverts and did more work in the Etherpad this time. Sharing choices you made in response to ‘reading the room’ (or your feedback) helps others expand their choice options and discussion can inspire new ideas for handling tough problems.
-- **Subjective details.** “It went well” is great but hard to learn from. Why do you think particular things worked for your group? In what areas do you feel uncertain about your outcomes, and why? There are no right or wrong answers to questions like this, but your opinions tell a story that helps others reflect and understand their own practice.
+- \*\*Quel contenu vous avez passé plus de temps sur \*\*. Cela indique aux participants ce que vous et vos stagiaires considérez comme le plus intéressant, le plus important ou le plus difficile. Il y a parfois de bonnes choses à explorer derrière ces choix.
+- **Quel contenu vous avez ignoré**. Cela aide les nouveaux formateurs à réfléchir à la manière de couper quand ils en ont besoin. Cela aide également les responsables de la maintenance à réfléchir aux domaines dans lesquels des coupes ou des ajustements futurs devraient être apportés au programme.
+- **Quels choix avez-vous faits pour gérer l'engagement**. Chaque groupe est différent \ ! Avez-vous dû redoubler d'efforts pour permettre à chacun de contribuer ? Mélangez les groupes pour séparer certaines combinaisons à faible consommation d'énergie ? Peut-être que vous avez embrassé vos introvertis et que vous avez fait plus de travail dans l'Etherpad cette fois-ci. Le fait de partager les choix que vous avez faits en réponse à la « lecture de la salle » (ou à vos commentaires) aide les autres à élargir leurs options de choix et les discussions peuvent susciter de nouvelles idées pour résoudre des problèmes difficiles.
+- **Détails subjectifs.** « Tout s'est bien passé », c'est bien mais difficile à apprendre. Pourquoi pensez-vous que certaines choses ont fonctionné pour votre groupe ? Dans quels domaines vous sentez-vous incertain quant à vos résultats, et pourquoi ? Il n'y a pas de bonnes ou de mauvaises réponses à de telles questions, mais vos opinions racontent une histoire qui aide les autres à réfléchir et à comprendre leur propre pratique.
 
-Don’t remember? You’ll be surprised how much you can refresh in 5 minutes\! A quick review of  your Etherpad, notes, etc. really helps to get ideas flowing before the meeting.
+Tu ne t'en souviens pas ? Vous serez surpris de voir à quel point vous pouvez vous rafraîchir en 5 minutes \ ! Un examen rapide de votre Etherpad, de vos notes, etc. aide vraiment à faire circuler les idées avant la réunion.
 
-To share these ideas, please join one of the monthly Instructor Trainer meetings. There will always be time allotted to share feedback.
+Pour partager ces idées, participez à l'une des réunions mensuelles des formateurs d'instructeurs. Il y aura toujours du temps pour partager vos commentaires.
 
-## Resources
+## Ressources
 
-Visit our [Instructor Training resources section](/resources/instructor-training/index.md) for more resources including email templates for Instructor Trainers and Partner Organisations.
+Visitez notre [section Ressources de formation des instructeurs] (/resources/instructor-training/index.md) pour plus de ressources, y compris des modèles de courrier électronique pour les formateurs d'instructeurs et les organisations partenaires.
