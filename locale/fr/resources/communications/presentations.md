@@ -1,20 +1,20 @@
-# Presentations
+# Présentations
 
-It is great for community members to give presentations on The Carpentries!
-Include your work with The Carpentries in a presentation, or you are more than welcome
-to give talks or discuss the organisation in general.
+C'est formidable pour les membres de la communauté de faire des présentations sur The Carpentries !
+Incluez votre travail avec The Carpentries dans une présentation, ou vous êtes le bienvenu
+pour donner des conférences ou discuter de l'organisation en général.
 
-There are some general Google slide decks as well as ones more tailored to
-particular topics or events. The General slide deck is CC0, so you are welcome to use it how you wish. Please just keep attributions on individual figures or photos if they are there.
+Il existe des diaporamas Google généraux ainsi que d'autres plus adaptés à des sujets ou à des événements particuliers de
+. Le diaporama général est CC0, vous pouvez donc l'utiliser comme vous le souhaitez. Veuillez simplement conserver les attributions sur les figures individuelles ou les photos si elles existent.
 
-Other slide decks are CC-BY.
+Les autres jeux de diapositives sont CC-BY.
 
-Please use the following template when you are presenting on a topic related to The Carpentries. The template can be modified and adapted as necessary. However, please ensure that you are adhering to the general visual identity including colors, blocks, and fonts.
+Veuillez utiliser le modèle suivant lorsque vous faites une présentation sur un sujet lié à The Carpentries. Le modèle peut être modifié et adapté si nécessaire. Cependant, assurez-vous de respecter l'identité visuelle générale, y compris les couleurs, les blocs et les polices.
 
-[Carpentries Presentation Template](https://docs.google.com/presentation/d/160gj2GGepxlwJb2F0mPjUQ92aYENr8R_qulkuHXe5SU/edit#slide=id.p)
+[Modèle de présentation de menuiserie] (https://docs.google.com/presentation/d/160gj2GGepxlwJb2F0mPjUQ92aYENr8R_qulkuHXe5SU/edit#slide=id.p)
 
-[About The Carpentries - General Slide Deck Presentation](https://docs.google.com/presentation/d/1PmkGMXN5-jZNugEJXYxlEBE-ecTxXFIZHMJLwQ96Haw)
+[À propos de The Carpentries - Présentation générale du diaporama] (https://docs.google.com/presentation/d/1PmkGMXN5-jZNugEJXYxlEBE-ecTxXFIZHMJLwQ96Haw)
 
-[List of past Data Carpentry presentations on Zotero](https://www.zotero.org/groups/597593/datacarpentry/items/collectionKey/WT38F37Q) including abstracts and links to slide decks.
+[Liste des précédentes présentations de Data Carpentry sur Zotero] (https://www.zotero.org/groups/597593/datacarpentry/items/collectionKey/WT38F37Q) comprenant des résumés et des liens vers des diaporamas.
 
-Updates to slide decks or contributing your slide decks is encouraged and welcomed too!
+Les mises à jour des diaporamas ou la contribution à vos diaporamas sont encouragées et bienvenues également !
