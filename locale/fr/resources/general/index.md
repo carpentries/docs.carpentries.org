@@ -1,20 +1,20 @@
-# General Resources
+# Ressources générales
 
-## Tip sheets
+## Fiches de conseils
 
-[Carpentries Tip Sheets](tip-sheets.md)
+[Fiches de conseils sur la menuiserie] (tip-sheets.md)
 
-## Committees and Task Forces
+## Comités et groupes de travail
 
-- [The Carpentries Committee Guidelines](committees.md)
-- [The Carpentries Task Force Guidelines](taskforce.md)
+- [Les directives du Comité des charpenteries] (committees.md)
+- [Les directives du groupe de travail sur les charpenteries] (taskforce.md)
 
-## Fundraising Resources
+## Ressources de collecte de fonds
 
-- [Donation Request Resources](donation-request-resources.md)
-- [Collaborating with The Carpentries on Grants](collaborating-on-grants.md)
+- [Ressources pour les demandes de dons] (donation-request-resources.md)
+- [Collaboration avec The Carpentries on Grants] (collaborating-on-grants.md)
 
-## CarpentryCon and CarpentryConnect Resources
+## Ressources CarpentryCon et CarpentryConnect
 
-- [CarpentryCon website](https://carpentrycon.org/)
-- [CarpentryConnect Planning Toolkit](https://carpentryconnect.org/)
+- [Site web de CarpentryCon] (https://carpentrycon.org/)
+- [Boîte à outils de planification CarpentryConnect] (https://carpentryconnect.org/)
