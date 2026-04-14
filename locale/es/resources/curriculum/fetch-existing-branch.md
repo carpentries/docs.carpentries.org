@@ -1,63 +1,63 @@
-# Basándose en la sucursal existente de otra persona
+# Building on somebody else's existing branch
 
-En ocasiones, es posible que desees o necesites basarte en los cambios que otra persona ya ha introducido en una sucursal de un repositorio de lecciones, por ejemplo, [si ya no puede completar el trabajo y tú quieres ayudar a terminar su pull request] (/handbooks/maintainers.md#situation-1-a-pull-request-exists-but-is-incomplete).
-En esta página, se describen dos maneras en las que puedes prepararte para construir sobre la base de los cambios que ya han realizado.
-En las instrucciones se presupone cierta familiaridad con el control de versiones, Git y GitHub.
+Sometimes, you may want or need to build on top of the changes another person has already commited to a branch of a lesson repository, e.g. [if they are no longer able to complete the work and you want to help finish their pull request](/handbooks/maintainers.md#situation-1-a-pull-request-exists-but-is-incomplete).
+This page describes two ways you can get set up to build on top of the changes they have already made.
+The instructions assume some familiarity with version control, Git, and GitHub.
 
-## 1. Bifurque su repositorio y sucursal
+## 1. Fork their repository and branch
 
-### Encuentra la bifurcación del colaborador original
+### Find the original contributor's fork
 
-Partiendo del pull request abierto en el que quieres seguir trabajando, desplázate hasta la parte superior de la pestaña _Conversación_.
-Bajo el título del pull request, encontrarás un resumen de las ramas que se combinarían si el pull request se fusionara: por lo general, la organización del programa de la lección y «principal» a la izquierda, y el nombre de usuario del colaborador original y el nombre de la sucursal que eligió a la derecha (la «rama de funciones»).
+Starting from the open pull request that you want to continue working on, scroll to the top of the _Conversation_ tab.
+Under the title of the pull request, you will find a summary of the branches that would be combined if the pull request was merged: usually the lesson program organisation and `main` on the left, and the original contributor's username and the branch name they chose on the right (the "feature branch").
 
-! [Información de sucursal para una solicitud de extracción en GitHub. Se muestran el nombre de la rama predeterminada del repositorio oficial, `datacarpentry:main`, y de la rama de funciones del colaborador, `example-user:example-branch`.] (./img/branch-info-pr.png)
+![Branch information for a pull request on GitHub. The name of the official repository default branch, datacarpentry:main, and of the contributor's feature branch, example-user:example-branch, are displayed.](./img/branch-info-pr.png)
 
-Al hacer clic en el nombre de la rama de funciones del colaborador, accederás a esa rama en su bifurcación del repositorio de lecciones.
+Clicking on the name of the contributor's feature branch will direct you to that branch on their fork of the lesson repository.
 
-### Haz tu propio tenedor con el de ellos
+### Make your own fork from theirs
 
-Desde esta página, puedes crear tu propia bifurcación de su repositorio con el botón «Bifurcación» situado en la parte superior derecha de la página.
-Se abrirá un breve formulario en el que podrá establecer un nombre y una descripción para la nueva bifurcación que va a crear.
-Lo importante aquí es \*\*desmarcar la casilla «Copiar solo la rama principal» \*\* para obtener también una copia de la rama de funciones en la que estaban trabajando para la solicitud de extracción.
+From this page, you can create your own fork of their repository with the "Fork" button near the top-right of the page.
+This will open a short form, where you can set a name and a description for the new fork you will create.
+The important thing to do here is **uncheck the "Copy the main branch only" box** so that you also get a copy of the feature branch they were working on for the pull request.
 
-! [El formulario que se presenta al bifurcar un repositorio existente en GitHub, con la casilla «Copiar solo la rama principal» sin marcar.] (./img/new-fork-all-branches.png)
+![The form presented when forking an existing repository on GitHub, with the "Copy the main branch only" box unchecked.](./img/new-fork-all-branches.png)
 
-### Editar la lección en GitHub
+### Edit the lesson on GitHub
 
-Después de crear tu bifurcación, usa el menú desplegable situado en la parte superior izquierda de la página de inicio del repositorio para elegir la rama en la que estaba trabajando el colaborador original.
-Una vez seleccionada esta rama, puedes empezar a editar los archivos en GitHub teniendo cuidado de confirmar los cambios en esta misma rama.
-Como alternativa, puedes [abrir el IDE de github.dev en tu navegador] (https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), seleccionar la rama y continuar editando y confirmando allí.
+After your fork has been created, use the dropdown near the top-left of the repository homepage to choose the branch that the original contributor was working on.
+Once this branch is selected, you can start editing the files on GitHub being careful to commit your changes to this same branch.
+Alternatively, you can [open the github.dev IDE in your browser](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#opening-the-githubdev-editor), select the branch and continue editing and commiting there.
 
-### Edita la lección localmente
+### Edit the lesson locally
 
-Siga estos pasos después de crear la bifurcación.
+Follow these steps after your fork has been created.
 
-1. Clónelo en su sistema local.
-2. En el shell, navega hasta tu clon local del proyecto, por ejemplo, `cd ~/Documents/DataCarpEntry/r-ecology-lesson`.
-3. Busca la rama en la que estaba trabajando el colaborador original (`git fetch origin <their-branch-name>`, p. ej., `git fetch origin 123-better-captions`).
-4. Cambia a él (`git switch <their-branch-name>`, por ejemplo, `git switch 123-better-captions`).
+1. Clone it to your local system.
+2. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
+3. Fetch the branch that the original contributor was working on (`git fetch origin <their-branch-name>`, e.g. `git fetch origin 123-better-captions`).
+4. Switch to it (`git switch <their-branch-name>`, e.g. `git switch 123-better-captions`).
 
-Una vez que esté trabajando en esta rama, puede editar la lección y confirmar los cambios como de costumbre.
-Cuando estés listo, agrega tu propia bifurcación del repositorio de lecciones en forma remota (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, por ejemplo, `git remote add myfork git@github.com:myusername/image-processing.git`), inserta las confirmaciones que has realizado y abre una solicitud de cambios en el repositorio oficial.
+Once you are working on this branch, you can edit the lesson and commit your changes as usual.
+When you are ready, add your own fork of the lesson repository as a remote (`git remote add <remote-name> <address-of-forked-repository-you-just-copied>`, e.g. `git remote add myfork git@github.com:myusername/image-processing.git`) push the commits you have made and open a pull request to the official repository.
 
-## 2. Agregue su bifurcación como repositorio remoto
+## 2. Add their fork as a remote repository
 
-Si ya tienes un clon local del repositorio de la lección, puedes agregar la bifurcación de la lección del colaborador original como otro repositorio remoto para el proyecto y obtener desde allí la rama en la que estaba trabajando.
+If you already have a local clone of the lesson repository, you can add the original contributor's fork of the lesson as another remote repository for the project and fetch the branch they were working on from there.
 
-1. Siga los pasos descritos anteriormente en [_Find the original's fork_] (#1-fork-their-repository-and-branch).
-2. Haga clic en el botón _Código_ y copie la dirección de este repositorio en su portapapeles.
-3. En el shell, navega hasta tu clon local del proyecto, por ejemplo, `cd ~/Documents/DataCarpEntry/r-ecology-lesson`.
-4. Añade la bifurcación del colaborador original como un nuevo repositorio remoto para este clon: `git remote add <remote-name> <address-of-forked-repository-you-just-copied>`,
-   , por ejemplo, `git remote add toby git@github.com:tobyhodges/image-processing.git`.
-5. Busca la rama en la que estaban trabajando desde su bifurcación, por ejemplo, `git fetch toby 123-better-captions`.
-6. Cambia a esta rama, por ejemplo, `git switch 123-better-captions`.
+1. Follow the steps described in [_Find the original contributor's fork_](#1-fork-their-repository-and-branch) above.
+2. Click the _Code_ button and copy the address of this repository to your clipboard.
+3. In the shell, navigate to your local clone of the project, e.g. `cd ~/Documents/DataCarpentry/R-ecology-lesson`.
+4. Add the original contributor's fork as a new remote repository for this clone: `git remote add <remote-name> <address-of-forked-repository-you-just-copied>`,
+   e.g. `git remote add toby git@github.com:tobyhodges/image-processing.git`.
+5. Fetch the branch they were working on from their fork, e.g. `git fetch toby 123-better-captions`.
+6. Switch to this branch, e.g. `git switch 123-better-captions`.
 
-Una vez que estés trabajando en esta rama, puedes editar la lección y confirmar los cambios como de costumbre, luego subirlos a tu bifurcación y abrir una solicitud de cambios cuando estés listo.
+Once you are working on this branch, you can edit the lesson and commit your changes as usual then push them to your fork and open a pull request when you are ready.
 
-## Abrir una pull request con tus actualizaciones
+## Opening a pull request with your updates
 
-Cuando estés listo para abrir una nueva solicitud de cambios que incluya tus cambios, asegúrate de hacerlo en el repositorio correcto (normalmente un repositorio de una de las organizaciones oficiales de The Carpentries, por ejemplo, `datacarpentry`): GitHub puede intentar ayudarte primero a abrir una solicitud de extracción en la bifurcación del colaborador original en lugar de en el repositorio central de Carpentries.
+When you are ready to open a new pull request that will include your changes, make sure that you do this to the correct repository (usually a repository in one of The Carpentries official organisations e.g. `datacarpentry`): GitHub may first try to help you open a pull request to the original contributor's fork instead of the central Carpentries repository.
 
-Cuando abras tu pull request, diles a los mantenedores que has creado sobre la base del trabajo anterior del otro colaborador. Etiqueta a ese colaborador original y haz referencia a su pull request por su número, por ejemplo, `Este pull request se basa en #37 y lo reemplaza por @USERNAME para cerrar el número #34 con [alguna descripción de los cambios realizados en tu pull request...] `.
-Esto ayudará a los responsables del mantenimiento de la lección a entender que pueden cerrar la otra solicitud de extracción y la relación entre los dos conjuntos de cambios.
+When opening your pull request, tell the Maintainers that you have built on top of the previous work of the other contributor. Tag that original contributor, and reference their pull request by its number, e.g. `This pull request builds on and replaces #37 by @USERNAME to close issue #34 by [some description of the changes made in your pull request...]`.
+This will help the lesson Maintainers understand that they can close the other pull request, and the relationship between the two sets of changes.
