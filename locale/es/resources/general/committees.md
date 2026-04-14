@@ -1,67 +1,67 @@
-# Directrices del Comité de Carpintería
+# The Carpentries Committee Guidelines
 
-Estas pautas proporcionan el proceso recomendado para crear comités a fin de garantizar la transparencia, la responsabilidad y la sostenibilidad de las actividades de los comités.
+These guidelines provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities.
 
-## Propuesta del comité
+## Committee Proposal
 
-Una propuesta de comité debería:
+A committee proposal should:
 
-- explicar la necesidad o el contexto del comité
-- explique por qué debería ser un comité permanente/de más largo plazo
-- enumerar las metas y objetivos del comité
+- explain the need for or the context for the committee
+- explain why it should be an ongoing/longer-term committee
+- list the aims and objectives of the committee
 
-Las propuestas de los comités se pueden enviar creando un número
-en el [_committees_ repositorio] (https://github.com/carpentries/committees/issues) de [The Carpentries GitHub] (https://github.com/carpentries/) o enviando la propuesta por correo electrónico al [Equipo principal] (mailto:team@carpentries.org).
+Committee proposals can be submitted by creating an
+issue in the [_committees_ repository](https://github.com/carpentries/committees/issues) in [The Carpentries GitHub](https://github.com/carpentries/) or by emailing the proposal to the [Core Team](mailto:team@carpentries.org).
 
-## Formación de comités
+## Committee Formation
 
-Las propuestas de los comités no requieren una aprobación formal, aunque se debe informar al [Equipo de la comunidad] (mailto:community@carpentries.org) sobre la formación del comité. Los comités activos se enumeran en [el sitio web de The Carpentries] (https://carpentries.org/committees/) con un enlace a la documentación pública.
+Committee proposals do not require formal approval, though the [Community Team should be informed](mailto:community@carpentries.org) of committee formation. Active committees are listed on [The Carpentries website](https://carpentries.org/committees/) with a link to public documentation.
 
-## Operaciones del comité
+## Committee Operations
 
-Las siguientes son las pautas recomendadas para los comités. Cada comité debe:
+The following are recommended guidelines for committees. Each committee should:
 
-- Crear un [estatuto del comité] oficial (https://github.com/carpentries/committees/blob/main/committee-charter-template.md), que incluya las [funciones y responsabilidades del comité] (https://github.com/carpentries/committees/blob/main/committee-charter-template.md#roles-and-responsibilities)
-- Nombrar al presidente del comité y, opcionalmente, a un copresidente e identificar los límites de mandato del presidente, el copresidente o los miembros
-- Solicite un enlace entre los miembros del [Equipo Central] (https://carpentries.org/team/) para que sirva como punto de contacto y (opcionalmente) asista a las reuniones del comité
-- Crear un espacio público para el comité, que incluya:
-  - El estatuto del comité
-  - Información de contacto del comité
-  - Otros materiales públicos (si están disponibles)
-  - Información sobre cuándo se celebran las reuniones del comité
-  - Notas de la reunión (si corresponde)
-  - Nombres de los miembros actuales y anteriores, incluidos sus roles
-  - Nombre del enlace del equipo central (si corresponde)
-  - Información sobre cómo unirse al comité
-- Cree [documentación para los procedimientos operativos] interna (https://github.com/carpentries/committees/blob/main/committee-charter-template.md#operational-procedures) (que también puede hacerse pública), que incluya:
-  - Proceso de reclutamiento y/o selección de nuevos miembros
-  - Proceso de incorporación de nuevos miembros
-  - Proceso para la subcontratación de miembros
-  - Plan de sucesión del presidente/copresidente
-  - Proceso de toma de decisiones
-- Mantenga la comunicación interna y de cara al público:
-  - Organice las reuniones del comité (al menos dos veces al año) y publique las notas de la reunión en un lugar uniforme (las notas de las reuniones deben ser públicas a menos que el trabajo del comité exija que permanezcan privadas)
-  - Publica las reuniones en el [calendario de la comunidad] (https://carpentries.org/community/events/). Tenga en cuenta que no es necesario que las reuniones estén abiertas al público para poder asistir a ellas, aunque se añadan al calendario; por ejemplo, las reuniones de trabajo del Comité del Código de Conducta son públicas, pero las reuniones de respuesta a incidentes no lo son.
-  - Intente organizar al menos una discusión comunitaria por año para compartir sobre las actividades del comité
-  - Utilice otras [vías de comunicación comunitaria de The Carpentries] (/resources/communications/index.md) para interactuar con la comunidad según sea necesario
+- Create an official [committee charter](https://github.com/carpentries/committees/blob/main/committee-charter-template.md), including the [committee's roles and responsibilities](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#roles-and-responsibilities)
+- Appoint a committee chair and, optionally, a co-chair and identify term limits for chair/co-chair/members
+- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings
+- Create a public space for the committee, including:
+  - The committee's charter
+  - Contact information for the committee
+  - Other public materials (if available)
+  - Information on when committee meetings are held
+  - Meeting notes (if appropriate)
+  - Names of the current and past members, including their roles
+  - Name of the Core Team liaison (if applicable)
+  - Information on how to join the committee
+- Create internal [documentation for operational procedures](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#operational-procedures) (which may also be made public), including:
+  - Process for recruiting and/or selecting new members
+  - Process for on-boarding new members
+  - Process for off-boarding members
+  - Succession plan for chair/co-chair
+  - Decision-making process
+- Maintain internal and public-facing communication:
+  - Organise committee meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of the committee requires them to remain private)
+  - Post meetings in the [community calendar](https://carpentries.org/community/events/). Note that meetings do not necessarily need to be open to public to attend even though they are added to the calendar - for example, the Code of Conduct Committee's business meetings are public, but incident response meetings are not.
+  - Aim to host at least one community discussion per year to share about the committee's activities
+  - Utilise other [The Carpentries community communication pathways](/resources/communications/index.md) to engage with the community as needed
 
-Las plantillas para crear la documentación de los comités están disponibles en el [_committees_ repository] (https://github.com/carpentries/committees).
+Templates for creating committee documentation are available from the [_committees_ repository](https://github.com/carpentries/committees).
 
-## Terminación del comité
+## Committee Termination
 
-Naturalmente, un comité puede dejar de funcionar al cumplir sus objetivos, en cuyo caso se debe notificar al equipo central.
+A committee may naturally cease to function upon fulfilling its goals, in which case the Core Team should be notified.
 
-## Comités pasados y actuales
+## Past & Current Committees
 
-- [Comité del Código de Conducta] (https://carpentries.org/coc-ctte/)
-- [Comités asesores curriculares] (https://carpentries.org/curriculum-advisors/) (CAC)
-- [Comité de infraestructura de la lección] (https://carpentries.org/lesson-infra/)
-- [Comité de desarrollo de instructores] (https://carpentries.org/inst-dev/)
-- [Comité de liderazgo de formadores] (https://github.com/carpentries/trainers/blob/main/governance.md)
-- [Comités de gobierno del programa de la lección] (https://carpentries.org/blog/2022/11/lesson-program-governance/)
+- [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
+- [Curriculum Advisory Committees](https://carpentries.org/curriculum-advisors/) (CACs)
+- [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
+- [Instructor Development Committee](https://carpentries.org/inst-dev/)
+- [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
+- [Lesson Program Governance Committees](https://carpentries.org/blog/2022/11/lesson-program-governance/)
 
-## Registro de actualizaciones
+## Update Log
 
-- 25-01-2022: Se cambió el nombre de la Política de los comités por el de Directrices de los comités, incluidas las recomendaciones y la eliminación de los requisitos para los comités.
-- [Aprobado el 2022-12-02] (https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) por el Consejo Ejecutivo.
-- [Aprobado el 23 de septiembre de 2020] (https://github.com/carpentries/executive-council-info/issues/44) por el Consejo Ejecutivo.
+- 2024-01-25: Renamed Committee Policy to Committee Guidelines, including recommendations and removing requirements for committees.
+- [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council.
+- [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council.
