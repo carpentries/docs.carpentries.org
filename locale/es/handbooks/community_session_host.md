@@ -1,414 +1,413 @@
-# Community Session Hosts Handbook
+# Manual para anfitriones de sesiones comunitarias
 
-## About This Handbook
+## Acerca de este manual
 
-The Community Session Host Handbook is designed to support members of The Carpentries community who are serving as Community Session Hosts. The Carpentries Community Engagement Team maintains it.  If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the {{'[Community Engagement Team](mailto:{})'.format(community_email)}} or open an issue on the {{'[source repository of this handbook]({})'.format(gh_repo)}}. If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+El Manual para anfitriones de sesiones comunitarias está diseñado para apoyar a los miembros de la comunidad de The Carpentries que actúan como anfitriones de sesiones comunitarias. El equipo de participación comunitaria de Carpentries lo mantiene.  Si crees que es necesario añadir o actualizar algo aquí, o si quieres enviar comentarios sobre el contenido, envía un correo electrónico al {{'[Community Engagement Team] (mailto:{}) '.format (community_email)}} o abre una edición en el {{' [repositorio fuente de este manual] ({}) '.format (gh_repo)}}. Si no está familiarizado con alguno de los términos utilizados en este manual, consulte nuestro {{'[Glosario de términos] ({}) '.format (glossary)}}.
 
-## Introduction
+## Introducción
 
-Hosting a community session is a great way to meet more people in The Carpentries community, get to know the organisation better, learn from others' experiences, and share your knowledge and expertise with an even greater number of people.
+Organizar una sesión comunitaria es una excelente manera de conocer a más personas en la comunidad de The Carpentries, conocer mejor la organización, aprender de las experiencias de otros y compartir tus conocimientos y experiencia con un número aún mayor de personas.
 
-Community sessions are also an integral part of our {{'[Instructor Training Certification Process]({}/checkout)'.format(instructor_training_curriculum)}}, also known as ‘Checkout’. As a Community Session Host, you get to welcome new Instructors into our global community and introduce them to community sessions as an ongoing resource for support and advice as they develop their teaching practices.
+Las sesiones comunitarias también son una parte integral de nuestro {{'[Proceso de certificación de formación de instructores] ({}/checkout) '.format (instructor_training_curriculum)}}, también conocido como «Checkout». Como anfitrión de una sesión comunitaria, puedes dar la bienvenida a los nuevos instructores a nuestra comunidad global y presentarlos a las sesiones comunitarias como un recurso continuo de apoyo y asesoramiento a medida que desarrollan sus prácticas docentes.
 
-Topics covered during community sessions range from teaching workshops and developing curricula to building local communities and
-assessing the impact of our workshops globally. There are four types:
+Los temas tratados durante las sesiones comunitarias van desde la enseñanza de talleres y el desarrollo de planes de estudio hasta la construcción de comunidades locales y la evaluación de
+del impacto de nuestros talleres a nivel mundial. Hay cuatro tipos:
 
-1. **Community Sessions:** Our community sessions are sessions on any topic relevant to the community that can be in any format. The Core Team also hosts various **Welcome Sessions** each month for new [community members](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) to meet Core Team members and learn how to engage with the organisation.
-2. **Regional Community Sessions:** Our local and regional subcommunities host these sessions. To view a list of local and regional communities and their activities, view our [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunity-registry).
-3. **Skill-up Sessions:** A skill-up session offers a professional development opportunity for the community where relevant skills are taught.
-4. **Collaboration Sessions:** Collaboration sessions dedicate time and space to co-develop a community resource or to co-work on any community activity.
+1. \*\*Sesiones comunitarias: \*\* Nuestras sesiones comunitarias son sesiones sobre cualquier tema relevante para la comunidad que pueden tener cualquier formato. El equipo central también organiza varias **sesiones de bienvenida** cada mes para que los nuevos [miembros de la comunidad] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) conozcan a los miembros del equipo central y aprendan a interactuar con la organización.
+2. \*\*Sesiones comunitarias regionales: \*\* Nuestras subcomunidades locales y regionales organizan estas sesiones. Para ver una lista de las comunidades locales y regionales y sus actividades, consulta nuestro [Registro de subcomunidades] (https://carpentries.org/community/get-connected/#subcommunity-registry).
+3. \*\*Sesiones de capacitación: \*\* Una sesión de capacitación ofrece una oportunidad de desarrollo profesional para la comunidad donde se enseñan las habilidades relevantes.
+4. \*\*Sesiones de colaboración: \*\* Las sesiones de colaboración dedican tiempo y espacio al desarrollo conjunto de un recurso comunitario o al trabajo conjunto en cualquier actividad comunitaria.
 
-**Note.** Any of these four types of Community Sessions can be attended to meet the requirement as part of {{'[Instructor Training Certification]({}/checkout)'.format(instructor_training_curriculum)}}.
+**Nota.** Se puede asistir a cualquiera de estos cuatro tipos de sesiones comunitarias para cumplir con el requisito como parte de la {{'[Certificación de formación de instructores] ({}/checkout) '.format (instructor_training_curriculum)}}.
 
-## Roles and Responsibilities
+## Funciones y responsabilidades
 
-A [community member](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) can serve as a Community Session Host. Specific responsibilities include:
+Un [miembro de la comunidad] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) puede actuar como anfitrión de una sesión comunitaria. Las responsabilidades específicas incluyen:
 
-- Sign up to receive relevant communications for serving in this role.
-  Instructions for signing up can be found in the Communication and
-  Collaboration Spaces section of this handbook
-- During a quarterly scheduling period, schedule one or more community
-  sessions on the date(s)/time(s) you want to host a session.
-- Facilitate community sessions that you have
-  signed up to host.
-- Check-in attendees to each session you host in Pretix. The Core
-  Team uses this information to record participation in {{'[AMY]({})'.format(amy_link)}}, The
-  Carpentries internal database. This is the primary way future Instructors get credit for completing this checkout step.
+- Inscríbase para recibir las comunicaciones pertinentes sobre su desempeño en este puesto.
+  Las instrucciones para inscribirse se encuentran en la [sección Espacios de comunicación y colaboración
+  de este manual] (#communication-and-collaboration-spaces)
+- Durante un período de programación trimestral, programa una o más sesiones de
+  de la comunidad en las fechas y horas en las que deseas organizar una sesión.
+- Facilita las sesiones comunitarias para las que
+  se ha registrado como anfitrión.
+- Registrar a los asistentes a cada sesión que organice en Pretix. El equipo principal de
+  utiliza esta información para registrar la participación en {{'[AMY] ({}) '.format (amy_link)}}, la base de datos interna de The
+  Carpentries. Esta es la forma principal en la que los futuros instructores reciben crédito por completar este paso de compra.
 
-## Onboarding
+## Incorporación
 
-Please note that, from 1 January 2026, the onboarding process for Community Session Hosts will no longer be in use. Community sessions are open to anyone in the community to host, provided that sessions adhere to The Carpentries Code of Conduct. No formal onboarding is required.
+Ten en cuenta que, a partir del 1 de enero de 2026, el proceso de incorporación de los anfitriones de las sesiones comunitarias dejará de utilizarse. Las sesiones comunitarias están abiertas a cualquier miembro de la comunidad para que las organice, siempre que las sesiones cumplan con el Código de Conducta de The Carpentries. No se requiere una incorporación formal.
 
-## Offboarding
+## Desembarque
 
-If you are no longer interested in hosting community sessions, please send an email to the Community Engagement
-Team. They will remove you from the #discussion-host Slack channel and unsubscribe you from the
-Session Host mailing list.
+Si ya no estás interesado en organizar sesiones comunitarias, envía un [correo electrónico al equipo
+de Community Engagement] (mailto:community@carpentries.org). Te eliminarán del canal de Slack #discussion -host y te cancelarán la suscripción de la lista de correo
+Session Host.
 
-## Communication and Collaboration Spaces
+## Espacios de comunicación y colaboración
 
-This section lists communication channels and collaboration spaces that support Community Session Hosts. Participants in these
-spaces are expected to follow {{"[The Carpentries Code of Conduct]({})".format(code_of_conduct)}}.  A description of the tools listed can be found in the {{'[community glossary]({})'.format(glossary)}}.
+En esta sección se enumeran los canales de comunicación y los espacios de colaboración que apoyan a los anfitriones de las sesiones comunitarias. Se espera que los participantes en estos espacios
+sigan {{"[The Carpentries Code of Conduct] ({})» .format (code_of_conduct)}}.  Puede encontrar una descripción de las herramientas enumeradas en el {{'[glossary de la comunidad] ({}) '.format (glossary)}}.
 
-### Community Calendar
+### Calendario comunitario
 
-Once you have scheduled a session, a calendar invite will be sent to the email address you used when signing up. All community
-sessions will also be listed on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}.
+Una vez que hayas programado una sesión, se enviará una invitación de calendario a la dirección de correo electrónico que utilizaste al registrarte. Todas las sesiones
+de la comunidad también aparecerán en nuestro {{'[Calendario comunitario] ({}/community/events/) '.format (carpentries_website)}}.
 
 ### Etherpad
 
-A list of Etherpads relevant to serving as a Community Session Host includes:
+La lista de Etherpads relevantes para servir como anfitrión de una sesión comunitaria incluye:
 
-- {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: This Etherpad contains a list of Etherpads available for Community Session Hosts to use. Instead of using the Etherpad as we have in the past, we will use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
+- {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}: Este Etherpad contiene una lista de Etherpads disponibles para los anfitriones de las sesiones comunitarias. En lugar de usar el Etherpad como lo hacíamos en el pasado, usaremos Pretix para las inscripciones a las sesiones comunitarias a partir del 1 de enero de 2026 para [registros de participantes] (https://pretix.carpentries.org/community-events/).
+- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: Una lista de los Etherpads y otros recursos más utilizados por The Carpentries.
 
-### Messaging and Communication
+### Mensajería y comunicación
 
-Slack is the software platform that The Carpentries uses to support synchronous and asynchronous communication. Channels support communications, collaboration and co-creation among a subset of [community members](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), depending on the channel’s purpose. You can {{'[join The Carpentries Slack workspace]({})'.format(slack_invite)}} to follow conversations on the channel relevant to this role:
+Slack es la plataforma de software que The Carpentries usa para admitir la comunicación sincrónica y asincrónica. Los canales permiten la comunicación, la colaboración y la creación conjunta entre un subconjunto de [miembros de la comunidad] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), según el propósito del canal. Puedes {{'[unirte al espacio de trabajo de Slack de The Carpentries] ({}) '.format (slack_invite)}} para seguir las conversaciones del canal relacionadas con este puesto:
 
-- \#discussion-hosts: channel for Community Session Hosts and those interested in hosting community sessions
+- \#discussion -hosts: canal para los anfitriones de sesiones comunitarias y para aquellos interesados en organizar sesiones comunitarias
 
-If Slack is new to you, our {{"[Slack Guide]({})".format(slack_guide)}} will help you set up your profile and give you an overview of how we use the platform day to day.
+Si no conoces Slack, nuestra {{"[Guía de Slack] ({})» .format (slack_guide)}} te ayudará a configurar tu perfil y te dará una visión general de cómo utilizamos la plataforma en el día a día.
 
-### Mailing List
+### Lista de correo
 
-You can access The Carpentries mailing lists from
-{{'[Topicbox]({}/latest)'.format(topicbox)}}.
-{{'[The Discussion Host mailing list]({}/discussion-hosts)'.format(topicbox)}} is used for announcements relevant to Community Session Hosts.
-To join one or more Carpentries mailing lists, you will need to {{'[create a login]({}/latest)'.format(topicbox)}}. Once
-you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for
-those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
+Puedes acceder a las listas de correo de The Carpentries desde
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}.
+{{'[The Discussion Host mailing list] ({}/discussion-hosts) '.format (topicbox)}} se usa para los anuncios relacionados con los anfitriones de las sesiones comunitarias.
+Para unirte a una o más listas de correo de Carpentries, necesitarás {{'[create a login] ({}/latest) '.format (topicbox)}}. Una vez que
+haya hecho esto, puede desplazarse por la lista de grupos y hacer clic en «Unirse a la conversación» (para abrir el correo) o «Solicitar unirse» (para
+, las listas de correo que requieren la aprobación del administrador). Si eres nuevo en Topicbox, consulta nuestra {{"[Topicbox Guide] ({})» .format (topicbox_guide)}}.
 
-## Step-by-Step Guides
+## Guías paso a paso
 
-This section includes step-by-step guides to support you in your role as a Community Session Host.
+Esta sección incluye guías paso a paso para ayudarlo en su rol de anfitrión de una sesión comunitaria.
 
-- Each quarter, communications will be shared from the Community Engagement Team via Slack and TopicBox with instructions to sign up to host a community session. Visit the [Communication Resources section of this handbook](/resources/communications/index.md) for instructions on joining one or both of these communication channels.
-- Community Session Hosts will sign up using [Calendly](https://calendly.com/thecarpentries) during the signup period. Calendly lets you select dates and times in your time zone for the sessions you plan to host. Dates and times already selected will not display.
+- Cada trimestre, el equipo de participación comunitaria compartirá las comunicaciones a través de Slack y TopicBox con instrucciones para inscribirse para organizar una sesión comunitaria. Visite la [sección Recursos de comunicación de este manual] (/resources/communications/index.md) para obtener instrucciones sobre cómo unirse a uno de estos canales de comunicación o a ambos.
+- Los anfitriones de las sesiones comunitarias se inscribirán con [Calendly] (https://calendly.com/thecarpentries) durante el período de registro. Calendly te permite seleccionar fechas y horas en tu zona horaria para las sesiones que planeas organizar. Las fechas y horas ya seleccionadas no se mostrarán.
 
-![Calendly signup animation](/images/calendly.gif)
+! [Animación de registro en Calendly] (/images/calendly.gif)
 
-- Once hosts have scheduled themselves for a Community Session via Calendly, a workflow will add each event to [Pretix](https://pretix.carpentries.org/community-events/) and the [Community Calendar](https://carpentries.org/community/events/).
-- In the rare instance that you need to schedule a session outside of the quarterly scheduling period, the Community Session Host should
-  reach out to the [Community Engagement Team](mailto:community@carpentries.com). The session is not confirmed until a Community Engagement Team member contacts the host.
+- Una vez que los anfitriones hayan programado una sesión comunitaria a través de Calendly, un flujo de trabajo añadirá cada evento a [Pretix] (https://pretix.carpentries.org/community-events/) y al [Calendario de la comunidad] (https://carpentries.org/community/events/).
+- En el raro caso de que necesites programar una sesión fuera del período de programación trimestral, el anfitrión de la sesión comunitaria debería
+  ponerse en contacto con el [Equipo de participación comunitaria] (mailto:community@carpentries.com). La sesión no se confirma hasta que un miembro del equipo de participación comunitaria contacte con el anfitrión.
 
-#### Signing Up to Host a Local or Regional Community Session
+#### Inscribirse para organizar una sesión comunitaria local o regional
 
-Subcommunity Leaders are responsible for scheduling and hosting local and regional community sessions. These sessions are currently listed on the [Community Calendar](https://carpentries.org/community/events/). If a Subcommunity Leader is interested in listing a Regional Community Session there and having it added to The Carpentries Community Calendar, they should email community@carpentries.org. If they instead want to have the session added to Pretix where individuals can sign up to attend, they can add the events using [Calendly](https://calendly.com/thecarpentries) during the signup period as described in the [Signing Up to Host a Community Session section of this handbook](#step-by-step-guides). This will automatically add the event to the Community Calendar and Pretix. To learn more about becoming a Subcommunity Leader, please visit the [FAQs section of this handbook](#faq).
+Los líderes subcomunitarios son responsables de programar y organizar las sesiones comunitarias locales y regionales. Estas sesiones figuran actualmente en el [Calendario de la comunidad] (https://carpentries.org/community/events/). Si un líder de la subcomunidad está interesado en incluir una sesión comunitaria regional allí y agregarla al calendario comunitario de The Carpentries, debe enviar un correo electrónico a community@carpentries.org. Si, por el contrario, quieren que la sesión se añada a Pretix, donde las personas puedan inscribirse para asistir, pueden añadir los eventos usando [Calendly] (https://calendly.com/thecarpentries) durante el período de registro, tal y como se describe en la sección [Registrarse para organizar una sesión comunitaria de este manual] (#step-by-step-guides). Esto añadirá automáticamente el evento al Calendario de la comunidad y a Pretix. Para obtener más información sobre cómo convertirse en líder de subcomunidad, visite la [sección de preguntas frecuentes de este manual] (#faq).
 
-### Checklist for Hosting a Community Session
+### Lista de verificación para organizar una sesión comunitaria
 
-#### Using Pretix for Community Sessions
+#### Uso de Pretix para sesiones comunitarias
 
-Starting in Q1 2026, The Carpentries will use Pretix for participants to sign up for Community Sessions. As part of The Carpentries commitment to a consolidated event-management system, we are moving registration into a secure platform to protect participant privacy, improve workflows such as time zone display and automated notifications, and strengthen our ability to track key data, including registration and no-show rates, enabling us to make more informed decisions about future work. Previously, Community Session Hosts completed a host form listing participants (and other information during the Community Session). From 1 January 2026, this will change. Community hosts will need to check-in participants via Pretix. Hosts will receive an email with instructions on setting up their Pretix account to check participants in. We recommend that Community Session Hosts log in at least 1-2 weeks before their session to troubleshoot if needed.  If you have not received this email one week before your Community Session, please email community@carpentries.org
+A partir del primer trimestre de 2026, The Carpentries utilizará Pretix para que los participantes se inscriban en las sesiones comunitarias. Como parte del compromiso de The Carpentries con un sistema de gestión de eventos consolidado, estamos trasladando el registro a una plataforma segura para proteger la privacidad de los participantes, mejorar los flujos de trabajo, como la visualización de las zonas horarias y las notificaciones automatizadas, y reforzar nuestra capacidad de rastrear los datos clave, incluidas las tasas de registro y ausencias, lo que nos permite tomar decisiones más informadas sobre el trabajo futuro. Anteriormente, los anfitriones de las sesiones comunitarias completaban un formulario de anfitriones en el que figuraban los participantes (y otra información durante la sesión comunitaria). A partir del 1 de enero de 2026, esto cambiará. Los anfitriones de la comunidad deberán registrar a los participantes a través de Pretix. Los anfitriones recibirán un correo electrónico con instrucciones sobre cómo configurar su cuenta de Pretix para registrar a los participantes. Recomendamos que los anfitriones de las sesiones de la comunidad inicien sesión al menos una o dos semanas antes de la sesión para solucionar los problemas si es necesario.  Si no ha recibido este correo electrónico una semana antes de su sesión comunitaria, envíe un correo electrónico a community@carpentries.org
 
-The public link to sign up for community sessions is <https://pretix.carpentries.org/community-events/community-sessions>
+El enlace público para inscribirse en las sesiones comunitarias es <https://pretix.carpentries.org/community-events/community-sessions>
 
-#### Before the Session
+#### Antes de la sesión
 
-##### Changes to sign up process
+##### Cambios en el proceso de registro
 
-Instead of using the Etherpad as we have been, we will be using Pretix for Community Sessions from Q1 2026 for participant registrations (<https://pretix.carpentries.org/community-events/>).  Registered participants will get an email immediately after registering and a reminder two days before the session. Community Session Hosts will get Calendly notifications (this will not change).
+En lugar de utilizar el Etherpad como hasta ahora, utilizaremos Pretix para las sesiones comunitarias del primer trimestre de 2026 para las inscripciones de los participantes (<https://pretix.carpentries.org/community-events/>).  Los participantes inscritos recibirán un correo electrónico inmediatamente después de registrarse y un recordatorio dos días antes de la sesión. Los anfitriones de las sesiones comunitarias recibirán notificaciones de Calendly (esto no cambiará).
 
-The [Etherpad](https://pad.carpentries.org/community-sessions-2026) will not list each event. Instead, it will just show standard/general information that applies to every session. Please make a copy and complete the information for your Community Session.
+El [Etherpad] (https://pad.carpentries.org/community-sessions-2026) no listará cada evento. En su lugar, solo mostrará la información estándar/general que se aplica a cada sesión. Haga una copia y complete la información para su sesión comunitaria.
 
-##### [Please copy between the lines]
-
-------------------------------------------------------------------------------------------------------------------------------
-
-[ENTER THE COMMUNITY SESSION TITLE AND DESCRIPTION]
-[Date of the Community Session]
-
-##### Participants to list their names below (ensure you have signed up on Pretix for this event, if not, you can still do it now - <https://pretix.carpentries.org/community-events/community-sessions/>):
-
--
--
--
--
--
--
--
--
--
--
--
-
-##### Notes and resources:
-
--
-
--
-
--
-
--
-
-We would appreciate hearing your thoughts about today’s Community Session.
-If you would like to share any feedback, please feel free to complete our short Community Session Feedback Form (<https://forms.gle/yyPqEjRNJM17BWj27>). Your input helps us improve and better support our community.
+##### [Por favor, copie entre líneas]
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Please review the calendar and sign up here:  <https://pretix.carpentries.org/community-events/community-sessions/>
+[INTRODUZCA EL TÍTULO Y LA DESCRIPCIÓN DE LA SESIÓN COMUNITARIA]
+[Fecha de la sesión comunitaria]
 
-Agenda Template for Community Session Host (This will be updated before each session by the Community Session Host).
+##### Los participantes deben indicar sus nombres a continuación (asegúrese de haberse registrado en Pretix para este evento; de lo contrario, aún puede hacerlo ahora: <https://pretix.carpentries.org/community-events/community-sessions/>):
 
-#### Community Session Host to review registration
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
-The Community Session Host can review registration for their session at any time. View registration here (must be signed in to Pretix): <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>
+##### Notas y recursos:
 
-##### Cancelling the session
+-
 
-You may also choose to cancel a discussion if no one has signed up two days before the session. Please contact [community@carpentries.org](mailto:community@carpentries.org) to inform them of the cancellation. They will update the community calendar and remove the session from Pretix.
+-
 
-If participants have signed up but Community Sessions hosts need to cancel, please contact [community@carpentries.org](mailto:community@carpentries.org).
+-
 
-#### Pre-Session Setup and Responsibilities
+-
 
-- Sign on at least 5 minutes before the beginning of the session.
-- It is recommended to create a waiting room. This enables the host to explicitly let people in, rather than allowing anyone to enter.
-  - [Learn about how to enable and use a waiting room as host](/resources/communications/zoom_rooms.md#using-a-waiting-room)
-- Gain host access.
-- Two days before the event, the host will receive an automated email from Calendly that includes the host key.
-- [Learn about how to use the host key to claim host access.](/resources/communications/zoom_rooms.md#gaining-host-access).
-- Enable closed captioning to improve accessibility of the event.
-  - Zoom provides automatic captioning of calls. The accuracy of captioning may be limited by factors such as sound quality, accents, dialects, and jargon.
-  - [Learn about how to enable automatic captioning](/resources/communications/zoom_rooms.md#closed-captioning).
-- Confirm that the fellow host is present (if there is one) and who will be leading/taking notes.
+Agradeceríamos su opinión sobre la sesión comunitaria de hoy.
+Si desea compartir algún comentario, no dude en completar nuestro breve formulario de comentarios sobre la sesión comunitaria (<https://forms.gle/yyPqEjRNJM17BWj27>). Sus comentarios nos ayudan a mejorar y apoyar mejor a nuestra comunidad.
 
-#### During the Session
+------------------------------------------------------------------------------------------------------------------------------
 
-- Use or adapt the Script for Starting a [Community Session](#script-for-starting-a-community-session).
+Revise el calendario e inscríbase aquí:  <https://pretix.carpentries.org/community-events/community-sessions/>
 
-- If relevant, follow the sample agendas provided at the bottom of the
-  {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}  
-  and also available in the resources section of this
-  handbook.
+Plantilla de agenda para el anfitrión de la sesión comunitaria (el anfitrión de la sesión comunitaria la actualizará antes de cada sesión).
 
-  - We recommend following the main points of the agenda, but you can
-    let the session go where people want. Not all the questions
-    need to be answered by everyone.
-  - The host should not feel like they have to answer all the
-    questions. They should draw on the other session participants
-    to answer each other’s questions.
-  - If someone is attending as part of their training checkout, prompt
-    them to ask a question.
-  - Try to leave enough time in the end for Q&A and any announcements
-    that need to be made.
+#### El anfitrión de la sesión comunitaria revisará el registro
 
-- Take notes or identify someone to take notes.
+El anfitrión de la sesión comunitaria puede revisar el registro de su sesión en cualquier momento. Puedes ver el registro aquí (debes iniciar sesión en Pretix): <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>
 
-- For pre-and post-workshop sessions: If there are more than 5
-  workshops represented by attendees, we recommend splitting
-  participants into two groups using breakout rooms to make sure
-  everyone has enough time to share. When dividing attendees into two
-  groups, try to balance the number of people who are de-briefing, who
-  are there for pre-workshop help, and who are instructor trainees.
-  [Learn more about how to set up and use breakout rooms](/resources/communications/zoom_rooms.md#creating-breakout-rooms).
+##### Cancelación de la sesión
 
-#### During/After the Session
+También puede optar por cancelar un debate si nadie se ha inscrito dos días antes de la sesión. Ponte en contacto con [community@carpentries.org] (mailto:community@carpentries.org) para informarles de la cancelación. Actualizarán el calendario de la comunidad y eliminarán la sesión de Pretix.
 
-- If used, archive the Etherpad by selecting “Save Revision” (Note: displays as
-  a star in the top right menu).
-- Clear the information from the session (date/time, attendees, notes)
-  from the Etherpad.
-- (Optional) Write a blog post about interesting points that came up in the session.
+Si los participantes se han inscrito pero los anfitriones de las sesiones comunitarias deben cancelarlas, ponte en contacto con [community@carpentries.org] (mailto:community@carpentries.org).
 
-The Community Session Host must record attendance by checking people in on Pretix. You can ask participants to list their attendance on the etherpad during the community session, then transfer this to Pretix. Please tell participants that if they have not signed up via Pretix yet, they should do so before the end of the session. Community Session Hosts will not be able to check them in if they do not do so. We recommend that you complete the check-in during a natural pause in the programme, such as a breakout discussion or a short networking break, to make sure it flows smoothly into the event. The Community Session Host will not need to complete a survey.  Participants will still need to complete a survey.
+#### Configuración y responsabilidades previas a la sesión
 
-##### How to check-in participants to Pretix
+- Inicie sesión al menos 5 minutos antes del inicio de la sesión.
+- Se recomienda crear una sala de espera. Esto permite al anfitrión dejar entrar a las personas de forma explícita, en lugar de permitir la entrada de cualquiera.
+  - [Más información sobre cómo habilitar y usar una sala de espera como anfitrión] (/resources/communications/zoom_rooms.md#using-a-waiting-room)
+- Obtenga acceso como anfitrión.
+- Dos días antes del evento, el anfitrión recibirá un correo electrónico automático de Calendly con la clave del anfitrión.
+- [Más información sobre cómo usar la clave de host para reclamar el acceso de host.] (/resources/communications/zoom_rooms.md#gaining-host-access).
+- Habilite los subtítulos para mejorar la accesibilidad del evento.
+  - Zoom proporciona subtítulos automáticos para las llamadas. La precisión de los subtítulos puede estar limitada por factores como la calidad del sonido, los acentos, los dialectos y la jerga.
+  - [Más información sobre cómo habilitar los subtítulos automáticos] (/resources/communications/zoom_rooms.md#closed-captioning).
+- Confirma que el compañero anfitrión está presente (si lo hay) y quién dirigirá o tomará notas.
 
-1. Open the following link: <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)
+#### Durante la sesión
 
-![Step 1: Open the following link: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Find the session you host and click on the name (i.e 2026-01-06T09:30:00Z)](../img/Pretix_Step_1.png)
+- Usa o adapta el script para iniciar una [sesión comunitaria] (#script-for-starting-a-community-session).
 
-2. You should now be able to see a list of participants who registered for your event.
+- Si es pertinente, siga los ejemplos de agendas que aparecen al final de
+  {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}  
+  y que también están disponibles en la [sección de recursos de este manual
+  ] (#resources).
 
-![Step 2: You should now be able to see a list of participants who registered for your event.](../img/Pretix_Step_2.png)
+  - Recomendamos seguir los puntos principales de la agenda, pero puedes
+    dejar que la sesión vaya donde la gente quiera. No es necesario que todos respondan a todas las preguntas
+    .
+  - El anfitrión no debe sentir que tiene que responder a todas las preguntas de
+    . Deberían recurrir a los demás participantes de la sesión
+    para responder a las preguntas de los demás.
+  - Si alguien asiste como parte de su proceso de finalización de la capacitación, pídele a
+    que haga una pregunta.
+  - Intenta dejar suficiente tiempo al final para las preguntas y respuestas y para cualquier anuncio
+    que sea necesario hacer.
 
-3. Select all the participants who attended the community session by checking the box to the left of the order code.
+- Tome notas o identifique a alguien para que tome notas.
 
-![Step 3: Select all the participants who attended the community session by checking the box to the left of the order code.](../img/Pretix_Step_3.png)
+- Para las sesiones previas y posteriores al taller: si hay más de 5 talleres de
+  representados por asistentes, recomendamos dividir a los participantes de
+  en dos grupos utilizando las salas para grupos pequeños para garantizar que
+  todos tengan tiempo suficiente para compartir. Al dividir a los asistentes en dos grupos de
+  , intente equilibrar la cantidad de personas que están informando, quienes
+  están allí para ayudar antes del taller y quiénes son instructores en prácticas.
+  [Obtenga más información sobre cómo configurar y usar las salas para grupos pequeños] (/resources/communications/zoom_rooms.md#creating-breakout-rooms).
 
-4. Once you have selected all the participants, you can click on “check-in selected participants”.  You will now notice the Status has changed from “Not checked in” to “Checked in”. Checked-in participants automatically get an email via Pretix reminding them to complete the survey if they have not already.
+#### Durante/después de la sesión
 
-![Step 4: Once you have selected all the participants, you can click on “check-in selected participants”.  You will now notice the Status has changed from “Not checked in” to “Checked in”. Checked-in participants automatically get an email via Pretix reminding them to complete the survey if they have not already.](../img/Pretix_Step_4.png)
+- Si se usa, archiva el Etherpad seleccionando «Guardar revisión» (Nota: muestra como
+  una estrella en el menú superior derecho).
+- Borre la información de la sesión (fecha/hora, asistentes, notas)
+  del Etherpad.
+- (Opcional) Escribe una entrada de blog sobre los puntos interesantes que surgieron en la sesión.
 
-## Resources
+El anfitrión de la sesión comunitaria debe registrar la asistencia registrando a las personas en Pretix. Puede pedir a los participantes que indiquen su asistencia en el etherpad durante la sesión comunitaria y, a continuación, transferirla a Pretix. Indique a los participantes que si aún no se han registrado a través de Pretix, deben hacerlo antes del final de la sesión. Los anfitriones de las sesiones comunitarias no podrán registrarlos si no lo hacen. Le recomendamos que complete el registro durante una pausa natural del programa, como una discusión grupal o una breve pausa para establecer contactos, para asegurarse de que el evento se desarrolle sin problemas. El anfitrión de la sesión comunitaria no necesitará completar una encuesta.  Los participantes aún deberán completar una encuesta.
 
-### Script for Starting a Community Session
+##### Cómo registrar a los participantes en Pretix
 
-_Community Session Hosts can use or adapt this script at the start of
-their community session._
+1. Abre el siguiente enlace: <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Busque la sesión que organiza y haga clic en el nombre (es decir, 2026-01-06T 09:30:00 Z)
 
-Welcome everyone! My name is [insert name], and I am [role and
-affiliation]. In just a minute, we are going to do a round of
-introductions, but I want to cover a few logistics before we get
-started.
+! [Paso 1: Abra el siguiente enlace: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T 09:30:00 Z)] (../img/Pretix_Step_1.png)
 
-- We will be using the Etherpad for collaborative note-taking. Everyone
-  is welcome to take notes during the session today, but [name] will also be serving as a designated note-taker.
-  - _Host should share the link in chat:_ {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}
-- I have enabled automated closed captioning that you can display on
-  your screen using the captioning feature.
-- If you have a question, please use the reaction to “raise hand” in
+2. Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.
+
+! [Paso 2: Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.] (../img/Pretix_Step_2.png)
+
+3. Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla situada a la izquierda del código de pedido.
+
+! [Paso 3: Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla situada a la izquierda del código de pedido.] (../img/Pretix_Step_3.png)
+
+4. Una vez que haya seleccionado a todos los participantes, puede hacer clic en «registrar participantes seleccionados».  Ahora notarás que el estado ha cambiado de «No registrado» a «Registrado». Los participantes registrados reciben automáticamente un correo electrónico a través de Pretix recordándoles que deben completar la encuesta si aún no lo han hecho.
+
+! [Paso 4: Una vez que haya seleccionado a todos los participantes, puede hacer clic en «registrar a los participantes seleccionados».  Ahora notarás que el estado ha cambiado de «No registrado» a «Registrado». Los participantes que se hayan registrado reciben automáticamente un correo electrónico a través de Pretix recordándoles que deben completar la encuesta si aún no lo han hecho.] (../img/Pretix_Step_4.png)
+
+## Recursos
+
+### Secuencia de comandos para iniciar una sesión comunitaria
+
+\*Los anfitriones de las sesiones comunitarias pueden usar o adaptar este script al comienzo de
+en su sesión comunitaria. \*
+
+¡Bienvenidos todos! Mi nombre es [insertar nombre] y soy [rol y afiliación
+]. En solo un minuto, haremos una ronda de presentaciones de
+, pero quiero abordar algunos aspectos logísticos antes de empezar con
+.
+
+- Usaremos el Etherpad para la toma de notas colaborativa. Todos los
+  son bienvenidos a tomar notas durante la sesión de hoy, pero [nombre] también actuará como tomador de notas designado.
+  - \*El anfitrión debe compartir el enlace en el chat: \* {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}
+- He habilitado los subtítulos automáticos para que puedas mostrar en
+  tu pantalla mediante la función de subtítulos.
+- Si tiene alguna pregunta, utilice la reacción «levantar la mano» en
   Zoom.
-- To make clear what is expected, everyone participating in The
-  Carpentries activities are required to abide by our Code of Conduct.
-  - _Host should share the link in the chat:_ {{'[Code of Conduct]({})'.format(code_of_conduct)}}
-  - Any form of behaviour to exclude, intimidate, or cause discomfort
-    is a violation of the Code of Conduct. To foster a
-    positive and professional learning environment, we encourage you
-    to:
-    - Use welcoming and inclusive language
-    - Be respectful of different viewpoints and experiences
-    - Gracefully accept constructive criticism
-    - Focus on what is best for the community
-    - Show courtesy and respect towards other community members
-  - If you believe someone is violating the Code of Conduct, we ask
-    that you report it to The Carpentries Code of Conduct Committee by
-    completing this form.
-    - _Host should share the link in chat:_ [The Carpentries Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2)
-- If you are attending this session as part of Instructor Training
-  Checkout, please make sure you have registered on Pretix.
-  - _Host should share the link in chat:_ [Community Sessions on Pretix](https://pretix.carpentries.org/community-events/community-sessions/)
+- Para dejar en claro lo que se espera, todos los que participen en las actividades de The
+  Carpentries deben cumplir con nuestro Código de conducta.
+  - \*El anfitrión debe compartir el enlace en el chat: \* {{'[Code of Conduct] ({}) '.format (code_of_conduct)}}
+  - Cualquier forma de comportamiento que excluya, intimide o cause molestias a
+    constituye una violación del Código de Conducta. Para fomentar un entorno de aprendizaje profesional y positivo para
+    , te animamos a
+    a:
+    - Usa un lenguaje acogedor e inclusivo
+    - Sea respetuoso con los diferentes puntos de vista y experiencias
+    - Acepta con gracia las críticas constructivas
+    - Concéntrese en lo que es mejor para la comunidad
+    - Muestre cortesía y respeto hacia otros miembros de la comunidad
+  - Si crees que alguien está infringiendo el Código de Conducta, te pedimos a
+    que lo denuncies al Comité del Código de Conducta de The Carpentries completando este formulario.
+    - \*El anfitrión debe compartir el enlace en el chat: \* [Formulario de denuncia de incidentes del Código de Conducta de Carpentries] (https://goo.gl/forms/KoUfO53Za3apOuOK2)
+- Si asiste a esta sesión como parte de Instructor Training
+  Checkout, asegúrese de haberse registrado en Pretix.
+  - \*El anfitrión debe compartir el enlace en el chat: \* [Sesiones comunitarias en Pretix] (https://pretix.carpentries.org/community-events/community-sessions/)
 
-Does anyone have any questions before we get started?
+¿Alguien tiene alguna pregunta antes de empezar?
 
-## FAQ
+## PREGUNTAS MÁS FRECUENTES
 
-**What if I do not know the answer to someone’s questions and no one in
-the room does either?**
+\*\* ¿Qué pasa si no sé la respuesta a las preguntas de alguien y nadie en
+de la sala tampoco la sabe? \*\*
 
-It is fine if you do not know all the answers. This is a great
-time to demonstrate how someone in the community can get their questions
-answered by posting the question to Slack or one of The Carpentries
-mailing list. Questions can always be sent to team@carpentries.org and a
-member of the Core Team will respond.
+Está bien si no sabes todas las respuestas. Este es un excelente momento
+para demostrar cómo alguien de la comunidad puede obtener respuestas a sus preguntas
+publicando la pregunta en Slack o en una de las listas de correo
+de The Carpentries. Las preguntas siempre se pueden enviar a team@carpentries.org y un miembro del equipo central de
+responderá.
 
-**What if the host/co-host has a poor internet connection and is unable
-to communicate? What if Zoom fails to work (e.g. your internet
-connection fails)?**
+\*\* ¿Qué pasa si el anfitrión/coanfitrión tiene una mala conexión a Internet y no puede comunicarse
+? ¿Qué pasa si Zoom no funciona (por ejemplo, su conexión a Internet
+falla)? \*\*
 
-It is very important to test your internet connection beforehand and to make sure that you as a host can communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection, you find that you do not have a good connection, contact the community via [our communication channels](/resources/communications/index.md#communication-spaces) to find out if someone could take over as host for the session.
+Es muy importante que pruebes tu conexión a Internet de antemano y que te asegures de que tú, como anfitrión, puedes comunicarte. El anfitrión es el líder de la sesión y debe tener una conexión estable. Sin embargo, si cuando pruebes tu conexión, descubres que no tienes una buena conexión, ponte en contacto con la comunidad a través de [nuestros canales de comunicación] (/resources/communications/index.md#communication-spaces) para averiguar si alguien podría ser el anfitrión de la sesión.
 
-**What if no one shows up?**
+\*\* ¿Qué pasa si no se presenta nadie? \*\*
 
-If no one joins at the start of the session, send a reminder email to the participants who signed up and wait a few minutes. If no one has joined 10 minutes after the scheduled start time, please reach out to [community@carpentries.org](mailto:community@carpentries.org) and end the call.
+Si nadie se une al inicio de la sesión, envía un correo electrónico de recordatorio a los participantes que se inscribieron y espera unos minutos. Si nadie se ha unido 10 minutos después de la hora de inicio programada, ponte en contacto con [community@carpentries.org] (mailto:community@carpentries.org) y finaliza la llamada.
 
-**What if someone talks too much?**
+\*\* ¿Qué pasa si alguien habla demasiado? \*\*
 
-Limit the amount of time that you give participants to ask and answer
-questions. You could ask for feedback from someone who has not shared
-yet to engage everyone in the conversation.
+Limita la cantidad de tiempo que les das a los participantes para hacer y responder las preguntas
+. Puedes pedir comentarios a alguien que aún no haya compartido
+para que todos participen en la conversación.
 
-**What if there is no co-host/note taker and the session is fully
-booked?**
+\*\* ¿Qué pasa si no hay un copresentador/tomador de notas y la sesión está completamente reservada para
+? \*\*
 
-As a host, you are more than welcome to take a few notes, however, there
-is no need to take down every single thing that is shared. Note down
-important points, making sure to add links to useful information.
-Encourage participants to contribute to the notes on the Community
-Session Etherpad.
+Como anfitrión, eres más que bienvenido a tomar algunas notas, sin embargo,
+no es necesario anotar todo lo que se comparte. Anota los puntos importantes de
+y asegúrate de añadir enlaces a información útil.
+Anime a los participantes a contribuir a las notas del Etherpad de la sesión
+de la comunidad.
 
-**What if someone joins in late?**
+\*\* ¿Qué pasa si alguien llega tarde? \*\*
 
-Depending on how late the person joins, you could welcome them and ask
-them to introduce themselves to the rest of the participants. If you
-have time, you can ask the individual to stay on the call for a few
-minutes after it is finished to summarise what they missed and answer
-any questions they may have.
+Dependiendo de qué tan tarde se una la persona, puedes darle la bienvenida y pedirle a
+que se presente al resto de los participantes. Si
+tienes tiempo, puedes pedirle a la persona que permanezca en la llamada durante unos
+minutos después de que haya terminado para resumir lo que pasó por alto y responder
+a cualquier pregunta que pueda tener.
 
-**What if someone does not have a headset and can’t control their
-background noise?**
+\*\* ¿Qué pasa si alguien no tiene auriculares y no puede controlar su ruido de fondo
+? \*\*
 
-As a host, you will have the privilege to mute other participants, or
-you could ask the person directly to mute their microphone. Learn more
-about how to use [host features in Zoom](/resources/communications/zoom_rooms.md).
+Como anfitrión, tendrás el privilegio de silenciar a otros participantes o,
+, puedes pedirle a la persona directamente que silencie su micrófono. Más información
+sobre cómo usar [funciones de anfitrión en Zoom] (/resources/communications/zoom_rooms.md).
 
-**What if I forget to check-in participants?**
+\*\* ¿Qué pasa si me olvido de registrar a los participantes? \*\*
 
-Do not worry, you have up to 24 hours after the session to check in participants in Pretix. You will also receive a reminder email shortly after the session with step-by-step instructions on how to complete the check-in process.
+No te preocupes, tienes hasta 24 horas después de la sesión para registrar a los participantes en Pretix. También recibirá un correo electrónico de recordatorio poco después de la sesión con instrucciones paso a paso sobre cómo completar el proceso de registro.
 
-**What if someone breaks the Code of Conduct? What if someone had a
-report of misconduct?**
+\*\* ¿Qué pasa si alguien infringe el Código de conducta? ¿Qué pasaría si alguien tuviera una denuncia de mala conducta
+? \*\*
 
-In the case that this happens, The Carpentries has a {{'[set of guidelines that can be followed]({})'.format(code_of_conduct)}}.
+En el caso de que esto suceda, The Carpentries tiene un {{'[conjunto de pautas que se pueden seguir] ({}) '.format (code_of_conduct)}}.
 
-**What if one person doesn’t contribute to the conversation?**
+\*\* ¿Qué pasa si una persona no contribuye a la conversación? \*\*
 
-Try to encourage participation. This can be done by asking participants
-a question or asking a person for their thoughts on a specific topic of
-conversation. There is also a point in the agenda that allows you as the
-host to talk to participants and ask them each for a specific question
-that they need answering.
+Intente fomentar la participación. Esto se puede hacer haciendo una pregunta a los participantes de
+o pidiéndole a una persona su opinión sobre un tema específico de la conversación de
+. También hay un punto en la agenda que te permite, como anfitrión de
+, hablar con los participantes y preguntarles a cada uno una pregunta
+específica que necesitan respuesta.
 
-**What if someone asks to join my Community Session to
-complete their Instructor checkout session and it is already full?**
+\*\* ¿Qué pasa si alguien me pide unirse a mi sesión comunitaria para que
+complete su sesión de finalización de sesión como instructor y ya está llena? \*\*
 
-Participants can add themselves to the waiting list in Pretix.
-If a seat becomes available (for example, if someone cancels), the next
-person on the waiting list will automatically receive an email inviting
-them to register for the session.
+Los participantes pueden sumarse a la lista de espera en Pretix.
+Si queda una plaza disponible (por ejemplo, si alguien cancela), la siguiente persona
+de la lista de espera recibirá automáticamente un correo electrónico invitándola a
+a inscribirse en la sesión.
 
-**What if someone is loud/obnoxious and/or talks down to other people?**
+\*\* ¿Qué pasa si alguien es ruidoso/detestable y/o habla con desprecio con otras personas? \*\*
 
-It is very important to remind everyone of the Code of Conduct at the
-beginning of each session as The Carpentries adheres to it during all
-community events, including community sessions. Such behaviour would
-be a clear violation and you could ask the person to leave.
+Es muy importante recordar a todos el Código de conducta al principio de cada sesión de
+, ya que The Carpentries se adhiere a él durante todos los eventos comunitarios de
+, incluidas las sesiones comunitarias. Tal comportamiento sería
+una violación clara y podrías pedirle a la persona que se vaya.
 
-**What if I am having trouble understanding one of the attendees?**
+\*\* ¿Qué pasa si tengo problemas para entender a uno de los asistentes? \*\*
 
-You could ask the participant to type their questions in the Community
-Session Etherpad for you to read and respond to them, which will
-also make note-taking much easier. Consider asking them to speak up as
-well if the microphone is too soft.
+Puedes pedirle al participante que escriba sus preguntas en el Etherpad de la sesión
+de la comunidad para que puedas leerlas y responderlas, lo que también hará que
+facilite mucho la toma de notas. Considera pedirles que hablen bien como
+si el micrófono es demasiado suave.
 
-**What if I need to create a separate Etherpad for note-taking?**
+\*\* ¿Qué pasa si necesito crear un Etherpad independiente para tomar notas? \*\*
 
-Notes from all sessions can be taken on the Community Session
-Etherpad and will be archived following each session. However, if you
-think another Etherpad is needed for notetaking during your session, a
-new Etherpad can be created by appending a descriptive name to the URL
-https://pad.carpentries.org/, such as
+Las notas de todas las sesiones se pueden tomar en el Etherpad de la sesión comunitaria
+y se archivarán después de cada sesión. Sin embargo, si
+piensas que necesitas otro Etherpad para tomar notas durante tu sesión, puedes crear un Etherpad nuevo
+añadiendo un nombre descriptivo a la URL
+https://pad.carpentries.org/, como
 https://pad.carpentries.org/themed-discussion-15-09-2022.
 
-**How can I become a Subcommunity Leader?**
+\*\* ¿Cómo puedo convertirme en líder de subcomunidad? \*\*
 
-A Subcommunity Leader is a member of the community who serves as the
-leader of a subcommunity within The Carpentries. This role is being
-formalised through the Community Engagement Program. If you are
-interested in learning more, please email community@carpentries.org.
+Un líder de subcomunidad es un miembro de la comunidad que actúa como el líder
+de una subcomunidad dentro de The Carpentries. Este rol se está formalizando
+a través del Programa de Participación Comunitaria. Si
+está interesado en obtener más información, envíe un correo electrónico a community@carpentries.org.
 
-**What if participants join using different names or email addresses than what appears in Pretix?**
+\*\* ¿Qué pasa si los participantes se unen con nombres o direcciones de correo electrónico diferentes a los que aparecen en Pretix? \*\*
 
-If you are confident that a participant matches a registration (for example, similar names), you may check them in. If you are unsure, you can ask the participant directly or follow up after the session.
+Si está seguro de que un participante coincide con un registro (por ejemplo, nombres similares), puede registrarlo. Si no está seguro, puede preguntar directamente al participante o hacer un seguimiento después de la sesión.
 
-**Do participants need to be registered in Pretix to receive credit?**
+\*\* ¿Los participantes deben estar registrados en Pretix para recibir crédito? \*\*
 
-Yes. While Zoom links may be publicly accessible to allow walk-ins, participants must register via Pretix to receive credit and for attendance to be counted in reporting.
+Sí. Si bien los enlaces de Zoom pueden ser de acceso público para permitir las visitas sin cita previa, los participantes deben registrarse a través de Pretix para recibir créditos y para que la asistencia se contabilice en los informes.
 
-**How should I manage check-ins if I only have one screen?**
+\*\* ¿Cómo debo gestionar los registros si solo tengo una pantalla? \*\*
 
-Several options can help:
+Hay varias opciones que pueden ayudar:
 
-- Ask participants to type their name into the Etherpad when they join, then complete check-ins after the session.
-- Use breaks or icebreakers as an opportunity to check people in.
-- If possible, have a co-host share slides while you manage Pretix.
-- Some hosts find it helpful to log into Pretix on their phone while hosting from their computer.
+- Pida a los participantes que escriban su nombre en el Etherpad cuando se unan y que completen los registros una vez finalizada la sesión.
+- Utilice los descansos o los rompehielos como una oportunidad para registrar a las personas.
+- Si es posible, pídale a un coanfitrión que comparta las diapositivas mientras administra Pretix.
+- A algunos anfitriones les resulta útil iniciar sesión en Pretix en su teléfono mientras alojan desde su ordenador.
 
-**Can I sort or search the check-in list in Pretix?**
+\*\* ¿Puedo ordenar o buscar en la lista de registro en Pretix? \*\*
 
-Yes. In Pretix, column headers (such as name or email) include arrows that allow you to sort the list alphabetically. You can access and review check-ins even after the event has ended.
+Sí. En Pretix, los encabezados de las columnas (como el nombre o el correo electrónico) incluyen flechas que permiten ordenar la lista alfabéticamente. Puedes acceder a las entradas y revisarlas incluso después de que el evento haya terminado.
 
-**What if a participant says they are on a waiting list?**
+\*\* ¿Qué pasa si un participante dice que está en lista de espera? \*\*
 
-The waiting list is automatically activated once registrations exceed the number of seats set during event setup. When a seat becomes available, the first person on the waiting list is notified and given the opportunity to register. If the host is willing to exceed the original seat limit, they may email community@carpentries.org
-with the names of individuals who attended but remain on the waiting list. We will then assist with manually checking them in for the event.
+La lista de espera se activa automáticamente una vez que las inscripciones superan la cantidad de asientos establecida durante la organización del evento. Cuando hay un asiento disponible, se notifica a la primera persona de la lista de espera y se le da la oportunidad de registrarse. Si el anfitrión está dispuesto a superar el límite de asientos original, puede enviar un correo electrónico a community@carpentries.org
+con los nombres de las personas que asistieron pero permanecen en la lista de espera. Luego, los ayudaremos a registrarlos manualmente para el evento.
 
-**What if an attendee did not register before the session started?**
+\*\* ¿Qué pasa si un asistente no se registró antes de que comenzara la sesión? \*\*
 
-The Community Session Host should ask any attendees who have not yet registered on Pretix to please do so before the end of the session. Once they have completed their registration, the Host can check them in on Pretix. This ensures that attendance is recorded accurately while still allowing participants to take part in the session.
+El anfitrión de la sesión comunitaria debe pedir a los asistentes que aún no se hayan registrado en Pretix que lo hagan antes del final de la sesión. Una vez que hayan completado su registro, el anfitrión puede registrarlos en Pretix. Esto garantiza que la asistencia se registre con precisión y, al mismo tiempo, permite a los participantes participar en la sesión.
 
 
 
