@@ -1,41 +1,41 @@
-# Recursos de comunicación
+# Communications Resources
 
-## Documentos colaborativos
+## Collaborative Documents
 
-- [Almohadillas de Ethernet] (etherpads.md)
-- [Código MD] (codimd.md)
+- [Etherpads](etherpads.md)
+- [CodiMD](codimd.md)
 
-## Espacios de comunicación
+## Communication spaces
 
-- [Guía para compartir la comunicación con The Carpentries] (sharing_resources.md)
-- [Slack] (slack-and-email.md#slack-quick-start-guide)
-- [Listas de correo (Topicbox)] (slack-and-email.md#topicbox-quick-start-guide)
-- [Zoom] (zoom_rooms.md)
-- [Mastodonte] (https://hachyderm.io/@thecarpentries)
-- [Cielo azul] (https://bsky.app/profile/carpentries.carpentries.org)
-- [LinkedIn] (https://www.linkedin.com/company/the-carpentries/)
-- [Blog] (https://carpentries.org/blog/)
-- [Boletín] (https://carpentries.org/about-us/newsletter/)
-- [YouTube] (https://www.youtube.com/thecarpentries)
+- [Guide to Sharing Communications with The Carpentries](sharing_resources.md)
+- [Slack](slack-and-email.md#slack-quick-start-guide)
+- [Mailing lists (Topicbox)](slack-and-email.md#topicbox-quick-start-guide)
+- [Zoom](zoom_rooms.md)
+- [Mastodon](https://hachyderm.io/@thecarpentries)
+- [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
+- [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
+- [Blog](https://carpentries.org/blog/)
+- [Newsletter](https://carpentries.org/about-us/newsletter/)
+- [YouTube](https://www.youtube.com/thecarpentries)
 
-## Respuesta a la situación y comunicaciones
+## Situation response and communications
 
-- [El manual de estrategias de comunicación y respuesta a la situación de Carpentries] (https://docs.google.com/document/d/1X0wH75oScgVsfLVxTIwhAdW4WRivZfxSTDFxXUsexXw/)
+- [The Carpentries Situation Response and Communications Playbook](https://docs.google.com/document/d/1X0wH75oScgVsfLVxTIwhAdW4WRivZfxSTDFxXUsexXw/)
 
-## Estilos, marcas y logotipos
+## Styles, branding, and logos
 
-- [Guía de estilo] (style-guide.md)
-- [Etiquetas de publicaciones de blog de Carpentries] (select-blog-tags.md)
-- [Marca] (brand_identity.md)
-- [Logotipos de carpintería] (logos.md)
+- [Style Guide](style-guide.md)
+- [Carpentries Blog Post Tags](select-blog-tags.md)
+- [Branding](brand_identity.md)
+- [Carpentries logos](logos.md)
 
-## Presentaciones
+## Presentations
 
-- [Presentaciones] (presentations.md)
+- [Presentations](presentations.md)
 
-## Carpentries Commons y Zenodo
+## Carpentries Commons and Zenodo
 
-- [The Carpentries Commons] (https://github.com/carpentries/commons)
-- [Zenodo] (https://zenodo.org/communities/carpentries/records?q=&l=list&p=1&s=10&sort=newest)
+- [The Carpentries Commons](https://github.com/carpentries/commons)
+- [Zenodo](https://zenodo.org/communities/carpentries/records?q=&l=list&p=1&s=10&sort=newest)
 
 
