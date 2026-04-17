@@ -1,61 +1,61 @@
-# Logotipos
+# Logos
 
-## Política de uso del logotipo y el nombre de Carpentries
+## Carpentries Logo and Name Usage Policy
 
-### Introducción
+### Introduction
 
-El objetivo de este documento es describir la política sobre el uso y la modificación de las marcas comerciales de The Carpentries.
+The goal of this document is to outline policy around the usage and modification of The Carpentries trademarks.
 
-Los nombres «The Carpentries», «Software Carpentry» y «Data Carpentry» y sus logotipos asociados son todos marcas comerciales.
-Esta política se aplica a todos los casos en los que utilice el nombre/logotipo de Carpentries.
+The names “The Carpentries”, “Software Carpentry”, and “Data Carpentry,” and their associated logos are all trademarked.
+This policy is for any cases in which you use the Carpentries name/logo.
 
-### Usos que no requieren aprobación previa
+### Uses that don’t require prior approval
 
-Siempre se permite indicar que un taller es un taller de carpintería, o que un taller está basado en material de carpintería.
+Stating that a workshop is a Carpentries workshop, or that a workshop is based on Carpentries material, is always allowed.
 
-Es aceptable usar la marca comercial para reconocer o acreditar a The Carpentries en artículos de revistas, presentaciones en conferencias, ponencias magistrales, solicitudes de subvenciones y similares. En casos de reconocimiento o atribución, puede utilizar el término «The Carpentries» o los logotipos inalterados para indicarlo, sin nuestra aprobación previa.
+It is acceptable to use the trademark in acknowledging or crediting The Carpentries in journal articles, conference presentations, keynotes, grant applications, and the like. In cases of acknowledgement or attribution, you may use the term “The Carpentries” or the unaltered logos to indicate this, without our prior approval.
 
-### Usos que requieren la aprobación de The Carpentries
+### Uses that require approval from The Carpentries
 
-Cualquier uso de una versión derivada o modificada del logotipo o la marca denominativa de The Carpentries debe contar con la aprobación previa. Esto incluye los usos comerciales y no comerciales.
+Any usage of a derived/modified version of The Carpentries logo or wordmark must have prior approval. This includes commercial and non-commercial uses.
 
-The Carpentries tiene varias comunidades locales y de dominios específicos, y alentamos el desarrollo de logotipos derivados o modificados que indiquen la ubicación o el enfoque del grupo. Para apoyar el desarrollo de logotipos específicos de dominios y regiones, a continuación describimos las modificaciones aprobadas al logotipo y la marca denominativa de The Carpentries.
+The Carpentries has a number of local and domain-specific communities, and we encourage the development of derived/modified logos that indicate the group’s location or focus. To support the development of domain and region-specific logos, we have outlined the approved modifications to The Carpentries logo and wordmark below.
 
-Los colores de la «marca de llave» se pueden modificar para que sean apropiados para su dominio o región, pero no se permiten formas ni distorsiones adicionales (incluida la orientación). El nombre de dominio o región de tu grupo debe añadirse debajo de The Carpentries en rojo (Hex: FF4955).
+The colours of the “wrench mark” can be modified to what is appropriate for your domain/region, but no added shapes or distortions (including orientation) are allowed. The domain/region name for your group should be added beneath The Carpentries in Carpentries red (Hex: FF4955).
 
 ```{image} ./images/heidelberg_logo.png
-   :alt: Mi primer logo
+   :alt: My first logo
    :width: 75%
    :align: center
 ```
 
 ```{image} ./images/north_rhine_westphalia_logo.png
-   :alt: Mi segundo logotipo
+   :alt: My second logo
    :width: 75%
    :align: center
 ```
 
-\*Ejemplos de adaptación del logotipo de The Carpentries por parte de subcomunidades que aplican esta política. De arriba a abajo: los logotipos de la subcomunidad The Carpentries de Renania del Norte-Westfalia en Alemania y de la subcomunidad de The Carpentries en Heidelberg. \*
+_Examples of adaptation of The Carpentries logo by subcommunities applying this policy. Top to bottom: The logos of The Carpentries North Rhine-Westphalia Germany subcommunity, and The Carpentries Heidelberg subcommunity._
 
-Si es miembro local de Carpentries y desea modificar el logotipo de acuerdo con estas pautas, envíe un correo electrónico a [community@carpentries.org] (mailto:carpentries.org) y aprobaremos su modificación o lo ayudaremos a crear la versión modificada.
+If you are a local Carpentries member and wish to modify the logo according to these guidelines, please email [community@carpentries.org](mailto:carpentries.org) and we will either approve your modification or assist you in creating the modified version.
 
-Esta política permite otras modificaciones del logotipo que dejen el nombre y el logotipo intactos, con la aprobación del equipo de participación comunitaria de The Carpentries.
+Other modifications of the logo that leave the name and logo intact are allowed under this policy with approval from The Carpentries Community Engagement Team.
 
-Se prohíbe el uso del nombre o el logotipo de The Carpentries junto con el nombre o el logotipo de otro grupo (por ejemplo, usar la marca con los colores de otra organización o añadir componentes del logotipo de otra organización a The Carpentries).
+Uses of The Carpentries name or logo in conjunction or combination with another group’s name or logo (EX: using the wrenchmark with the colours of another organisation, or adding components of another organisation’s logo to The Carpentries) are prohibited.
 
-Si usted o su grupo utilizan actualmente el nombre o el logotipo de The Carpentries de esta manera, envíenos un correo electrónico a [community@carpentries.org] (mailto:community@carpentries.org) y trabajaremos con usted para encontrar una alternativa.
+If you or your group is currently using The Carpentries name or logo in this manner, please email [community@carpentries.org](mailto:community@carpentries.org), and we will work with you to find an alternative.
 
-## Licencia para esta política
+## License for this Policy
 
-Esta política se ha adaptado en parte de la [Política de uso de marcas comerciales] de la Python Software Foundation (https://www.python.org/psf/trademarks/). Las partes interesadas pueden adaptar este documento de política libremente bajo la [licencia Creative Commons CC0] (https://creativecommons.org/publicdomain/zero/1.0/).
+This policy has been adapted in part from the Python Software Foundation’s [Trademark Use Policy](https://www.python.org/psf/trademarks/). Interested parties may adapt this policy document freely under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## Enlaces a archivos de logotipos
+## Links to Logo Files
 
-- [Los carpinteros] (https://github.com/carpentries/logo)
-- [Carpintería de datos] (https://github.com/datacarpentry/logos)
-- [Carpintería de biblioteca] (https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
-- [Carpintería de software] (https://github.com/swcarpentry/communications/tree/main/misc/logo)
+- [The Carpentries](https://github.com/carpentries/logo)
+- [Data Carpentry](https://github.com/datacarpentry/logos)
+- [Library Carpentry](https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
+- [Software Carpentry](https://github.com/swcarpentry/communications/tree/main/misc/logo)
 
-## Fondos virtuales
+## Virtual Backgrounds
 
-Los fondos virtuales con los logotipos de los programas de lecciones de The Carpentries están disponibles para su descarga y uso en el [repositorio GitHub de Carpentries Commons] (https://github.com/carpentries/commons/tree/main/virtual-backgrounds).
+Virtual backgrounds featuring the logos of The Carpentries lesson programs are available for download and use in the [Carpentries Commons GitHub repository](https://github.com/carpentries/commons/tree/main/virtual-backgrounds).
