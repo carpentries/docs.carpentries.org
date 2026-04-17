@@ -1,21 +1,21 @@
-# Plantillas de correo electrónico
+# Email templates
 
-## De instructores y anfitriones
+## From Instructors and Hosts
 
 The following templates can be used to email co-Instructors, Helpers, and learners for your upcoming workshop. Information in brackets is meant
 to be updated with the specifics of your workshop. Please feel free to update in other places as needed!
 
-### Para talleres autoorganizados: contratación de un coinstructor
+### For Self-Organised Workshops: Recruiting Co-instructor
 
 Subject: Recruiting co-Instructors: Carpentries Workshop at [ University/Organisation ]
 
-Hola [nombre de la persona],
+Hi [ person name ],
 
 I would love to have you teach with me at an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ], hosted [ at location/ online ].
 
-Me entusiasma impartir un taller aquí y creo que será muy útil para nuestro [público objetivo]. Si está interesado en ser coinstructor, hágamelo saber para que podamos reunirnos y planificar.
+[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am a [Certified Carpentries Instructor](https://docs.carpentries.org/handbooks/instructors.html#introduction) and I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
 
-¡Emocionado por la posibilidad de enseñar juntos!
+**Your Role as a Co-Instructor**
 
 The Carpentries provide ready-to-use lesson materials, so we would not need to develop anything from scratch. At this workshop, I plan to teach:
 
@@ -29,23 +29,23 @@ I was hoping that you would teach:
 
 This would be a [#] hour/s time commitment.
 
-Estoy organizando un taller de carpintería [de datos/biblioteca/software] el [fechas del taller]. The Carpentries es una organización sin fines de lucro 501c3. Enseñan habilidades que son inmediatamente útiles para los investigadores, utilizando lecciones y conjuntos de datos que permiten a los investigadores aplicar rápidamente lo que han aprendido a su propio trabajo.
+I am excited to teach this workshop and I would love to have you teach it with me. If you are interested, please review the materials linked above. Let me know by [date] if you are available and we can organise a time to meet and plan!
 
-Durante el taller, necesitaré que algunas personas me ayuden en caso de que los alumnos tengan problemas o se queden atascados. Los ayudantes se desplazan por la sala para responder a las preguntas y ayudar a los alumnos a resolver problemas de instalación, mensajes de error y resultados inesperados.
+If you know anyone else who might be interested and able to help out with the [ lesson/episode ] part of the workshop, let me know. It would be great to have additional Instructors.
 
-Lo mejor,
+Thank you for considering this opportunity!
 
 Sincerely,
 
-[nombre del remitente]
+[ sender name ]
 
-### Reclutamiento de ayudantes
+### Recruiting Helpers
 
-El [fechas], [nombre de la organización] organizará un taller de carpintería de [Datos/Biblioteca/Software] para [público/dominio objetivo].
+Subject: Recruiting Helpers: Carpentries Workshop at [ University/Organisation ]
 
-Hola [nombre],
+Hi [ name ],
 
-Este taller se centra en [Carpintería/dominio]. El plan de estudios incluirá:
+We would love to have you join us as a Helper for an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The workshop will be [ at location/ virtual ].
 
 [The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
 
@@ -57,9 +57,9 @@ During the workshop, I will need a few people to help out in case learners have 
 - respond to learner questions
 - help learners work through things like installation problems, error messages and unexpected output
 
-¡Esperamos que te inscribas!
+You do not need to be an expert in the tools we are covering, but should have familiarity with at least one of them and be comfortable helping people troubleshoot.
 
-Lo mejor,
+At this workshop, we are planning on covering
 
 - Lesson [link]
 - Lesson [link]
@@ -71,39 +71,42 @@ Thank you for considering this opportunity!
 
 Sincerely,
 
-[nombre del remitente]
+[ sender name ]
 
-### Anuncie su taller
+### Advertising your Workshop
 
 Subject: Learn to Code at our Beginner [Lesson Program] Workshop at [ site/organization name ]
 
-Si no puede asistir, háganoslo saber para que podamos ofrecer su asiento a alguien de la lista de espera.
+We’re excited to invite you to our [ Workshop Title ] at [ site/organisation ]!
 
 Taught by certified [Carpentries](https://carpentries.org/about-us/) Instructors, our [ Lesson Program ] workshop is an introduction to coding for those with little or no previous experience. Welcoming, hands-on and interactive, this workshop teaches the fundamentals of [ XYZ ], preparing learners to:
 
-- [habilidad 1]
-- [habilidad 2]
-- [habilidad 3]
+- [skill 1]
+- [skill 2]
+- [skill 3]
 - [skill 4]
 
-Revisa {{"[The Carpentries Code of Conduct] ({})» .format (code_of_conduct)}} para que todos sepamos cómo tratarnos unos a otros con respeto.
+**Workshop Details**
+Dates:
+Time:
+Location:
 
 **Interested in learning more?** Please use the following link to find the full details and register:
 [ Link to registration and/or workshop webpage ]
 
-Háganos saber si tiene alguna pregunta, ¡estamos encantados de tenerle en el taller [día de la semana] por la mañana!
+Please let us know what questions you have at [ contact email ].
 
-¡Emocionado de tenerte en el taller!
+We can’t wait to learn with you!
 
-Lo mejor,
+Sincerely,
 
-[nombre del remitente]
+[ sender name ]
 
-### Enviar correos electrónicos a los alumnos antes del taller
+### Email Learners before Workshop
 
 Subject: We Can't Wait to Welcome You! Upcoming Carpentries Workshop at [your university/orgaisation]
 
-Gracias por estar disponibles para ayudar con el taller de [nombre del taller] el [fecha del taller].
+We are excited for you to join us at the [ Data/Library/Software ] Carpentry workshop, hosted by [your university/orgaisation]!
 
 This email includes everything you need to prepare for the session and join the workshop each day.
 
@@ -111,7 +114,7 @@ This email includes everything you need to prepare for the session and join the 
 
 To get the most out of your experience, please complete the following before the workshop:
 
-Recuerde traer el cargador de su computadora portátil para que pueda cargar su computadora portátil. Estamos entusiasmados de que ayude a facilitar el taller.
+**1. Complete the pre-workshop survey.** Your responses help Instructors tailor the workshop to your needs and experience level: [Add pre-workshop survey link from workshop website]
 
 **2. Set up your computer for learning.** Please use a desktop or laptop with administrative privileges. This ensures you can install any needed software and fully engage in activities. Follow the instructions on the workshop webpage [Add workshop website link to instructions]
 
@@ -121,13 +124,13 @@ Recuerde traer el cargador de su computadora portátil para que pueda cargar su 
 
 **OR**
 
-Si tiene algún problema, envíenos un correo electrónico o venga un poco temprano [día de la semana] por la mañana. Alguien estará allí a las [hora] para ayudar con los problemas de instalación.
+If you have any trouble, send us an email or come a little early [ day of week ] morning. Someone will be there by [ time ] to help with installation issues.
 
 **Joining the Workshop**
 
-¡The Carpentries se complace en apoyarlo a medida que continúe desarrollando sus habilidades de análisis de datos!
+Workshop Dates:
 
-Lo mejor,
+Time:
 
 Location: The workshop will take place via [meeting platform]
 
@@ -143,21 +146,19 @@ Location: The workshop will be at [Add building name, address, directions].
 - **Need accommodations?** Let us know in advance so we can support your learning: (https://carpentries.typeform.com/to/B2OSYaD0)
 - **Visit the workshop webpage** to review the schedule and code of conduct, add the event to your calendar, and more: [Add workshop website]
 
-Nuestros mejores,  
-Tus instructores
+**If you can no longer join the workshop,** please let us know so that we can offer your seat to someone on the waitlist.
 
 We’re excited to learn with you! Let us know what questions you have in the meantime at [contact email].
 
-Hola,
+Warmly,
 
 [Sender’s Name]
 
-### Envía correos electrónicos a los ayudantes antes del taller
+### Email Helpers before Workshop
 
-Nuestros mejores,  
-Tus instructores
+Subject: Upcoming Carpentries Workshop at [your university/orgaisation]
 
-Hola [nombres de los ayudantes],
+Hi [ helper names ],
 
 Thank you for being a Helper for the [ Data/Library/Software ] Carpentry workshop at [ organisation ]! Below, I have added information to
 assist you with preparing for the upcoming workshop.
@@ -188,13 +189,13 @@ We are so excited you will be helping to facilitate the workshop! Please let us 
 
 Sincerely,
 
-[nombre del remitente]
+[ sender name ]
 
-### Enviar correos electrónicos a los alumnos después del taller
+### Email Learners after Workshop
 
 Subject: Thank you for attending the Carpentries workshop at [organisation]!
 
-Hola,
+Hello,
 
 Thank you for attending the [ Data/Library/Software ] Carpentry workshop at [ organisation ]. We hope that you had fun and the skills you learnt will be useful!
 
@@ -212,19 +213,19 @@ The Carpentries is excited to support you as you continue to develop your data a
 
 Best wishes,
 
-[nombre del remitente]
+[ sender name ]
 
-### Aliente a los alumnos a completar la encuesta previa al taller
+### Encourage Learners to Complete Pre-workshop Survey
 
 Subject: Upcoming Carpentries Workshop at [organization]: Pre-workshop Survey
 
-Hola,
+Hello,
 
 We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] with [organisation]! As a reminder, you can find the workshop schedule, installation information, and more at [ WORKSHOP WEBSITE LINK].
 
 To ensure the workshop is inclusive, and to help the Instructors tailor the content to your needs and experience level, please complete our pre-workshop survey [ INSERT LINK TO SURVEY ].
 
-No es necesario que complete esta encuesta para participar en nuestro taller, pero sus respuestas son muy valiosas para nosotros. All responses will be recorded anonymously (IP addresses will be registered; however, the responses will remain anonymous). Puedes salir de la encuesta en cualquier momento u omitir cualquier elemento que no sea el necesario para ordenar correctamente tus respuestas.
+You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. All responses will be recorded anonymously (IP addresses will be registered; however, the responses will remain anonymous). You may quit the survey at any time, or skip any item other than those required to correctly sort your responses.
 
 To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
 
@@ -233,11 +234,11 @@ We are excited to meet with you soon!
 Our best,  
 Your Instructors
 
-### Aliente a los alumnos a completar la encuesta posterior al taller
+### Encourage Learners to Complete Post-workshop Survey
 
 Subject: Carpentries Workshop at [organization]: Post-workshop Survey
 
-Hola,
+Hello,
 
 Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]! We hope you left the workshop feeling more comfortable with the tools you learned and empowered to continue learning.
 
