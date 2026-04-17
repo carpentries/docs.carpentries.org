@@ -1,101 +1,101 @@
-# Board of Directors Handbook
+# Manual de la junta directiva
 
-## About This Handbook
+## Acerca de este manual
 
-This handbook provides useful information about how The Carpentries functions in collaboration with the  Board of Directors including the mission and programs of The Carpentries, the governing documents and policies of The Carpentries and Board, and the general and specific roles and responsibilities of the Board, Core Team and community. This document will be reviewed annually by the Governance and Personnel Committee and updated as needed. To provide feedback on its content, email
-{{'[{}](mailto:{})'.format(team_email, team_email)}}.   If you are unfamiliar with any of the terms used in this handbook, please refer to our {{'[Glossary of terms]({})'.format(glossary)}}.
+Este manual proporciona información útil sobre cómo funciona The Carpentries en colaboración con la Junta Directiva, incluida la misión y los programas de The Carpentries, los documentos rectores y las políticas de The Carpentries y la Junta, y las funciones y responsabilidades generales y específicas de la Junta, el equipo central y la comunidad. Este documento será revisado anualmente por el Comité de Gobernanza y Personal y se actualizará según sea necesario. Para enviar comentarios sobre su contenido, envía un correo electrónico a
+{{'[{}] (mailto:{}) '.format (team_email, team_email)}}.   Si no está familiarizado con alguno de los términos utilizados en este manual, consulte nuestro {{'[Glosario de términos] ({}) '.format (glossary)}}.
 
-## Introduction
+## Introducción
 
-Governance of The Carpentries is undertaken by the Board of Directors to whom the Executive Director reports. The Board comprises 7-13 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least 33% of the Board members are elected by the Carpentries community.
+La gobernanza de The Carpentries es asumida por la Junta Directiva, a la que rinde cuentas el Director Ejecutivo. La Junta está compuesta por entre 7 y 13 personas, ya sean miembros de la comunidad de The Carpentries o de comunidades externas contratadas para obtener experiencia específica. Al menos el 33% de los miembros de la Junta son elegidos por la comunidad de Carpentries.
 
-## Roles and Responsibilities
+## Funciones y responsabilidades
 
-The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms.
+La Junta es responsable de la planificación estratégica y organizacional, la selección del Director Ejecutivo y la evaluación de su desempeño, la supervisión financiera, la identificación de las fuentes de ingresos y el desarrollo de recursos, la aprobación y el monitoreo de los programas y servicios de The Carpentries y la mejora de la imagen pública de The Carpentries. Los miembros de la Junta también actúan como defensores y embajadores de la organización, y aprovechan sus redes para beneficiar la reputación y la recaudación de fondos de la organización. La Junta ejecuta estas responsabilidades a través de reuniones, correspondencia regular y colaboración por correo electrónico y plataformas en línea.
 
-- In practice, each Board member is responsible for the following general tasks:
-  - Support the Mission and Vision of The Carpentries
-  - Exemplify the {{'[Code of Conduct]({})'.format(code_of_conduct)}} and {{"[Core Values]({}/about-us/#our-values)".format(carpentries_website)}}
-  - Ensure The Carpentries’ adherence to legal agreements and standards
-  - Offer expertise to help ensure the health and success of the organisation
-  - Actively participate in discussions about strategic and financial decisions
-  - Provide feedback and vote on formal motions
-  - Dedicate four to six volunteer hours per month toward Carpentries activities (including meeting attendance)
-- Each Board member is expected to serve on at least one, but no more than two standing committees. Serving on a specific standing committee allows Board members to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximise time and resources between meetings. The current standing committees are
-  - [Audit](https://docs.google.com/document/d/1ybrzsxpybIVCdupw81I_Hs6VGSHXgtthDLixsXJYenc/edit?usp=drive_link) [private document]
-  - [Finance](https://docs.google.com/document/d/1zbqrhVlPTkLhGHLLJdyv5tAqSPQ2IMY2JfYwOCC1dfg/edit?usp=drive_link)  [private document]
-  - [Governance & Personnel](https://docs.google.com/document/d/1sH6HXDO0Ffast9rJmic2rxRlbqvPNZkBBUMn0uE780E/edit?usp=drive_link)  [private document]
-  - [Program](https://docs.google.com/document/d/1JAzBMjJ3TvIPPruQMYyvaRgrTbcTJXF0xagZr1xXfGA/edit?usp=drive_link)  [private document]
-- The Board consists of four officers listed below. Learn more about the responsibilities of the officers in {{"[Article VIII of the bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}.
-  - Chair (President)
-  - Chair-Elect (Vice President)
-  - Secretary
-  - Treasurer
-- Each Board member must dedicate at least four to six volunteer hours per month toward Carpentries activities. This number includes meeting attendance.
-  - Meetings
-    - Quarterly Meetings \- Two-hour long meetings held virtually every quarter
-    - Standing Committee Meetings \- Each committee holds at least three meetings per year
-    - Board Retreat \- A once-yearly in-person or virtual meeting. The Carpentries will cover expenses for this retreat.
-    - Additional meetings as necessary
-    - It is expected that Board members will attend (in person or by phone/web-based platform) at least 75% of the meetings held each year
-  - Board membership also includes the following asynchronous commitments
-    - Suggesting agenda items for meetings
-    - Responding to email requests for opinions
-    - Formal voting on resolutions
-    - Work resulting from being on a task force or committee representing the Board.
+- En la práctica, cada miembro del Consejo es responsable de las siguientes tareas generales:
+  - Apoye la misión y la visión de The Carpentries
+  - Por ejemplo, el {{'[Código de conducta] ({}) '.format (code_of_conduct)}} y el {{"[Valores fundamentales] ({}/about-us/#our-values)» .format (carpentries_website)}}
+  - Garantizar el cumplimiento de los acuerdos y estándares legales por parte de The Carpentries
+  - Ofrecer experiencia para ayudar a garantizar la salud y el éxito de la organización
+  - Participe activamente en las discusiones sobre decisiones estratégicas y financieras
+  - Proporcione comentarios y vote sobre las mociones formales
+  - Dedique de cuatro a seis horas de voluntariado por mes a las actividades de Carpentries (incluida la asistencia a las reuniones)
+- Se espera que cada miembro de la Junta forme parte de al menos uno, pero no más de dos comités permanentes. Formar parte de un comité permanente específico permite a los miembros de la Junta aportar su experiencia en la materia a prioridades operativas y de gobernanza específicas, abordar los problemas y proyectos de manera más eficaz y eficiente y maximizar el tiempo y los recursos entre las reuniones. Las comisiones permanentes actuales son
+  - [Auditoría] (https://docs.google.com/document/d/1ybrzsxpybIVCdupw81I_Hs6VGSHXgtthDLixsXJYenc/edit?usp=drive_link) [documento privado]
+  - [Finanzas] (https://docs.google.com/document/d/1zbqrhVlPTkLhGHLLJdyv5tAqSPQ2IMY2JfYwOCC1dfg/edit?usp=drive_link) [documento privado]
+  - [Gobernanza y personal] (https://docs.google.com/document/d/1sH6HXDO0Ffast9rJmic2rxRlbqvPNZkBBUMn0uE780E/edit?usp=drive_link) [documento privado]
+  - [Programa] (https://docs.google.com/document/d/1JAzBMjJ3TvIPPruQMYyvaRgrTbcTJXF0xagZr1xXfGA/edit?usp=drive_link) [documento privado]
+- La Junta está compuesta por cuatro funcionarios que se enumeran a continuación. Obtenga más información sobre las responsabilidades de los funcionarios en {{"[Artículo VIII de los estatutos] ({}/about-us/governance/#carpentries-bylaws-and-policies)» .format (carpentries_website)}}.
+  - Presidente (presidente)
+  - Presidenta electa (vicepresidenta)
+  - Secretario
+  - Tesorero
+- Cada miembro de la Junta debe dedicar al menos de cuatro a seis horas de voluntariado por mes a las actividades de Carpentries. Este número incluye la asistencia a la reunión.
+  - Reuniones
+    - Reuniones trimestrales\ - Reuniones de dos horas de duración que se celebran prácticamente cada trimestre
+    - Reuniones del Comité Permanente\ - Cada comité celebra al menos tres reuniones al año
+    - Retiro de la junta\: una reunión virtual o presencial una vez al año. Los carpinteros cubrirán los gastos de este retiro.
+    - Reuniones adicionales según sea necesario
+    - Se espera que los miembros de la Junta asistan (en persona o por teléfono o plataforma basada en la web) al menos al 75% de las reuniones que se celebren cada año
+  - La membresía de la junta también incluye los siguientes compromisos asincrónicos
+    - Sugerir temas del orden del día para las reuniones
+    - Responder a las solicitudes de opinión por correo electrónico
+    - Votación formal sobre las resoluciones
+    - Trabajo resultante de estar en un grupo de trabajo o comité que representa a la Junta.
 
-## Onboarding
+## Incorporación
 
-- Onboarding typically occurs in January which is between the election and the first Board meeting in February. The official term of office for incoming Board members is 1 February. Onboarding is found in the [Board of Directors Onboarding Checklist](https://docs.google.com/document/d/1SosQK9hyYvYDBtGy5heLKXiAfhwGybHF8mH9P8CFhZI/edit) [private document]. This document will guide learning more about The Carpentries, the Board, and general orientation to both.
+- La incorporación suele tener lugar en enero, entre la elección y la primera reunión de la Junta en febrero. El mandato oficial de los nuevos miembros de la Junta es el 1 de febrero. La incorporación se encuentra en la [Lista de verificación de incorporación a la junta directiva] (https://docs.google.com/document/d/1SosQK9hyYvYDBtGy5heLKXiAfhwGybHF8mH9P8CFhZI/edit) [documento privado]. Este documento servirá de guía para obtener más información sobre The Carpentries, la Junta y la orientación general sobre ambos.
 
-### Nomination and Election Frequency
+### Frecuencia de nominaciones y elecciones
 
-- Community-elected (At-Large) members will be elected per the 33% Board member requirement outlined in the bylaws. These elections typically occur once every three calendar years and no later than 30 days before the new Board becomes active on February 1.
-- Board-elected members will be elected every two years. This vote will not take place until after the voting results for community-elected members are known and no later than December 15.
-- Learn more about nominations and elections in {{"[Article VI Section 6.06 of the bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}}.
+- Los miembros elegidos por la comunidad (At-Large) serán elegidos de acuerdo con el requisito del 33% de miembros de la Junta que se describe en los estatutos. Estas elecciones suelen celebrarse una vez cada tres años calendario y, a más tardar, 30 días antes de que la nueva Junta Directiva entre en funciones el 1 de febrero.
+- Los miembros elegidos por la junta serán elegidos cada dos años. Esta votación no tendrá lugar hasta que se conozcan los resultados de la votación de los miembros elegidos por la comunidad y, a más tardar, el 15 de diciembre.
+- Obtenga más información sobre las nominaciones y las elecciones en {{"[Artículo VI, sección 6.06 de los estatutos] ({}/about-us/governance/#carpentries-bylaws-and-policies)» .format (carpentries_website)}}.
 
-## Offboarding
+## Desembarque
 
-- Please refer to the [Board Member Account Access Checklist](https://docs.google.com/document/d/1ZE6mW1Sv-IGSyZxjHBv_3VqWs-n4bjy1X6Y9Si84cJk/edit#heading=h.gmdhm3dzqkqz).
+- Consulte la [Lista de verificación de acceso a las cuentas de los miembros de la junta directiva] (https://docs.google.com/document/d/1ZE6mW1Sv-IGSyZxjHBv_3VqWs-n4bjy1X6Y9Si84cJk/edit#heading=h.gmdhm3dzqkqz).
 
-## Communication and Collaboration Spaces
+## Espacios de comunicación y colaboración
 
-### Board of Directors Calendar
+### Calendario de la junta directiva
 
-Once scheduled, Quarterly, committee, and special meetings will appear on the [Carpentries Board of Directors Google calendar](https://calendar.google.com/calendar/u/0?cid=cTdqMWZ0ZGxkb2FhcHNvMm9uNDRxcmRucHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [private calendar]. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
+Una vez programadas, las reuniones trimestrales, de los comités y especiales aparecerán en el [calendario de Google de la Junta Directiva de Carpentries] (https://calendar.google.com/calendar/u/0?cid=cTdqMWZ0ZGxkb2FhcHNvMm9uNDRxcmRucHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [calendario privado]. Puedes añadir eventos relevantes a tu calendario desde allí haciendo clic en el evento al que te gustaría asistir.
 
 ### Google Drive
 
-The Board uses a private Google shared drive to store collaborative documents:
+La Junta utiliza una unidad compartida privada de Google para almacenar documentos colaborativos:
 
-- [The Carpentries, Inc. Board of Directors](https://drive.google.com/drive/folders/0AElzed8dqYAlUk9PVA) \- See its [README](https://docs.google.com/document/d/1g8ZQwbu6OD7KFgqhnnan3fnIKPe_txMM/edit) for orientation to content.
+- [La junta directiva de Carpentries, Inc.] (https://drive.google.com/drive/folders/0AElzed8dqYAlUk9PVA)\\ - Consulte su [README] (https://docs.google.com/document/d/1g8ZQwbu6OD7KFgqhnnan3fnIKPe_txMM/edit) para obtener orientación sobre el contenido.
 
-## Step-by-Step Guides
+## Guías paso a paso
 
 ### GitHub
 
-Learn more about enabling notifications and participating in discussions on GitHub by clicking on the resources provided below:
+Para obtener más información sobre cómo habilitar las notificaciones y participar en los debates en GitHub, haz clic en los recursos que se proporcionan a continuación:
 
-- [About notifications \- GitHub Docs](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)
-- [About discussions \- GitHub Docs](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- [Introduction to Using GitHub](https://rainsworth.github.io/intro-to-github/)
+- [Acerca de las notificaciones\ - GitHub Docs] (https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)
+- [Acerca de las discusiones\ - GitHub Docs] (https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+- [Introducción al uso de GitHub] (https://rainsworth.github.io/intro-to-github/)
 
-## Resources
+## Recursos
 
-- [2025 Board of Directors Work Plan](https://docs.google.com/document/d/1uRYgwFJNB050XZ6TMEh_YpphgqgXSVN5Vx_ml08G2J4/edit?tab=t.0) \- A monthly timeline of activities and focus for the Board.
-- {{"[The Carpentries Core Values]({}/about-us/#our-values)".format(carpentries_website)}} \- Values and goals of The Carpentries Community
-- {{"[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)".format(carpentries_website)}} \- Rules and guidance for the Carpentries community, Board, and Core Team members regarding how to operate as an organisation while keeping our Core Values, mission, and vision at the forefront of our work.
-- {{"[Annual Reports]({}/about-us/impact/#annual-reports)".format(carpentries_website)}}
-- {{"[Financial Statements]({}/about-us/financials/)".format(carpentries_website)}}
-- [2024 Budget](https://docs.google.com/spreadsheets/d/1t2iPylgzUf8d1Y5k19M-Vjwk_3JgXE86/edit#gid=1870417438) [private document] - The budget passed for the 2024 fiscal year.
-- [Parliamentary Procedures for Board Meetings](https://docs.google.com/document/d/1kiKg7dAE9lz30JGMlClrS5oxEeXlvkBrPd3ukeI13Ho/edit#heading=h.3gfqlv3v1whv) [private document] - Supporting document for decision-making during Board meetings and for making official motions, amending motions, and voting on motions.
-- [Election Timeline and Procedures for The Carpentries Board of Directors](https://docs.google.com/document/d/17Twk9LIPwUfdXOnal0A-ScdRfL4NhFT0UPQiP7tZnAI/edit#heading=h.97mnd6s3j6dc) [private document] - A checklist for how to administer community elections.
+- [Plan de trabajo de la Junta Directiva para 2025] (https://docs.google.com/document/d/1uRYgwFJNB050XZ6TMEh_YpphgqgXSVN5Vx_ml08G2J4/edit?tab=t.0)\\ - Un cronograma mensual de las actividades y el enfoque de la Junta Directiva.
+- {{"[The Carpentries Core Values] ({}/about-us/#our-values)» .format (carpentries_website)}}\ - Valores y objetivos de la comunidad de The Carpentries
+- {{"[The Carpentries Bylaws] ({}/about-us/governance/#carpentries-bylaws-and-policies)» .format (carpentries_website)}}\ - Reglas y directrices para la comunidad, la junta directiva y los miembros del equipo principal de Carpentries sobre cómo operar como organización, manteniendo nuestros valores fundamentales, misión y visión a la vanguardia de nuestro trabajo.
+- {{"[Informes anuales] ({}/about-us/impact/#annual-reports)» .format (carpentries_website)}}
+- {{"[Estados financieros] ({}/about-us/financials/)» .format (carpentries_website)}}
+- [Presupuesto 2024] (https://docs.google.com/spreadsheets/d/1t2iPylgzUf8d1Y5k19M-Vjwk_3JgXE86/edit#gid=1870417438) [documento privado] - El presupuesto aprobado para el año fiscal 2024.
+- [Procedimientos parlamentarios para las reuniones de la Junta] (https://docs.google.com/document/d/1kiKg7dAE9lz30JGMlClrS5oxEeXlvkBrPd3ukeI13Ho/edit#heading=h.3gfqlv3v1whv) [documento privado]: documento de respaldo para la toma de decisiones durante las reuniones de la Junta y para presentar mociones oficiales, modificar mociones y votar sobre mociones.
+- [Cronograma y procedimientos electorales para la junta directiva de The Carpentries] (https://docs.google.com/document/d/17Twk9LIPwUfdXOnal0A-ScdRfL4NhFT0UPQiP7tZnAI/edit#heading=h.97mnd6s3j6dc) [documento privado]: una lista de verificación sobre cómo administrar las elecciones comunitarias.
 
-## Glossary of Terms
+## Glosario de términos
 
-- [Fiscal Sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship): Refers to the practice of non-profit organisations offering their legal and tax-exempt status to groups—typically projects—engaged in activities related to the sponsoring organisation's mission. It typically involves a fee-based contractual arrangement between a project and an established non-profit.
-- [Non-Profit Organisation](https://en.wikipedia.org/wiki/Nonprofit_organization): A legal entity organised and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.
-- [501(c)(3) Organisation](https://en.wikipedia.org/wiki/501\\(c\\)\\(3\\)_organization): a United States corporation, trust, unincorporated association or other type of organisation exempt from federal income tax under section 501(c)(3) of Title 26 of the United States Code.
+- [Patrocinio fiscal] (https://en.wikipedia.org/wiki/Fiscal_sponsorship): se refiere a la práctica de las organizaciones sin fines de lucro que ofrecen su estatus legal y exento de impuestos a grupos (normalmente proyectos) que participan en actividades relacionadas con la misión de la organización patrocinadora. Por lo general, implica un acuerdo contractual basado en una tarifa entre un proyecto y una organización sin fines de lucro establecida.
+- [Organización sin fines de lucro] (https://en.wikipedia.org/wiki/Nonprofit_organization): una entidad legal organizada y operada para un beneficio colectivo, público o social, en contraste con una entidad que opera como una empresa con el objetivo de generar ganancias para sus propietarios.
+- [501 (c) (3) Organización] (https://en.wikipedia.org/wiki/501\\(c\\)\\ (3\) _organization): una corporación, fideicomiso, asociación sin personalidad jurídica u otro tipo de organización de los Estados Unidos exenta del impuesto federal sobre la renta en virtud de la sección 501 (c) (3) del título 26 del Código de los Estados Unidos.
 
-For a full glossary of terms for The Carpentries community, see the {{'[Glossary of terms]({})'.format(glossary)}}.
+Para ver un glosario completo de términos para la comunidad de The Carpentries, consulta el {{'[Glosario de términos] ({}) '.format (glossary)}}.
 
