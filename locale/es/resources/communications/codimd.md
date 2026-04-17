@@ -1,73 +1,73 @@
-# Código IMD
+# CodiMD
 
-## Uso general
+## General Usage
 
-The Carpentries también ofrece [codiMD] (https://codimd.carpentries.org/) como otra plataforma colaborativa para tomar notas. CodiMD reconoce la sintaxis [Markdown] (https://www.markdownguide.org/cheat-sheet/), y
-permite a los usuarios utilizar un marcado simple para formatear el contenido que añaden al documento compartido.
+The Carpentries also offers [CodiMD](https://codimd.carpentries.org/) as another collaborative note taking platform. CodiMD recognises [Markdown](https://www.markdownguide.org/cheat-sheet/) syntax,
+allowing users to utilise simple markup to format the content they add to the shared document.
 
-La interfaz CodiMD proporciona tres modos:
+The CodiMD interface provides three modes:
 
-- _Edit_: una interfaz solo para editores, que llena la ventana del navegador con un espacio para escribir texto.
-- _Both_: una interfaz mitad y mitad, que llena la mitad izquierda de la ventana con la interfaz del editor,
-  y la mitad derecha con la interfaz de visualización (no editable).
-- _View_: una interfaz formateada de solo lectura,
-  , que llena la ventana del navegador con la versión renderizada de las notas introducidas en la vista de edición.
-  Todas las marcas Markdown utilizadas en la vista de edición se aplicarán en la interfaz de visualización, y
-  aparecerá como texto formateado (encabezados, negrita, cursiva, enlaces, etc.) e imágenes.
+- _Edit_: an editor-only interface, which fills the browser window with a space for writing text.
+- _Both_: a half-and-half interface, filling the left half of the window with the editor interface,
+  and the right half with the (uneditable) viewing interface.
+- _View_: a read-only, formatted interface,
+  which fills the browser window with the rendered version of the notes entered in the Edit view.
+  Any Markdown markup used in the Edit view will be applied in the View interface,
+  appearing as formatted text (headings, bold, italics, links, etc) and images.
 
-Estos modos se pueden seleccionar con los botones situados en la parte superior izquierda de la interfaz.
+These modes can be selected with buttons to the top-left of the interface.
 
-! [Los botones del modo de visualización de un documento de CodiMD] (images/codimd_mode_buttons.png)
+![The viewing mode buttons for a CodiMD document](images/codimd_mode_buttons.png)
 
-Se puede crear un nuevo documento de codiMD añadiendo un nombre descriptivo a la URL `https://codimd.carpentries.org/`,
-, como `https://codimd.carpentries.org/committeename`,
-, o visitando <https://codimd.carpentries.org/> y haciendo clic en el botón «+ Nueva nota de invitado».
+A new CodiMD document can be created by appending a descriptive name to the url `https://codimd.carpentries.org/`,
+such as `https://codimd.carpentries.org/committeename`,
+or by visiting <https://codimd.carpentries.org/> and clicking the "+ New guest note" button.
 
-Los documentos se sincronizan a medida que escribes, de modo que todos los que ven esta página ven el mismo texto.
-Esto permite que todos colaboren en los documentos.
-Las contribuciones de diferentes usuarios están subrayadas en diferentes colores.
-Al pasar el cursor sobre el contenido, se mostrará el nombre (o el identificador de invitado) de la persona que lo escribió,
-, y la ubicación actual de los cursores de los diferentes usuarios también se muestra en el modo Edición.
+Documents are synchronised as you type, so that everyone viewing this page sees the same text.
+This allows everyone to collaborate on documents.
+Contributions from different users are underlined in different colours.
+Hovering the cursor over content will display the name (or guest identifier) of the person who wrote it,
+and the current location of different users' cursors is also displayed in Edit mode.
 
-Consulte <https://codimd.carpentries.org/features> para obtener una lista completa de las funciones disponibles en codiMD.
+See <https://codimd.carpentries.org/features> for a full list of features available on CodiMD.
 
-El uso de este servicio está restringido a los miembros de la comunidad de The Carpentries;
-no es para uso general (para eso, prueba [HackMD] (https://hackmd.io/)).
+Use of this service is restricted to members of The Carpentries community;
+this is not for general purpose use (for that, try [HackMD](https://hackmd.io/)).
 
-Se espera que los usuarios sigan nuestro [Código de conducta] (/policies/coc/index.md).
-Todo el contenido está disponible públicamente bajo la [Licencia de atribución Creative Commons] (https://creativecommons.org/licenses/by/4.0/).
+Users are expected to follow our [Code of Conduct](/policies/coc/index.md).
+All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
-## Cuentas y niveles de acceso a documentos
+## Document Access Levels & Accounts
 
-No es necesario crear una cuenta e iniciar sesión para crear y editar documentos de CodiMD.
+Account creation and login is not required to create and edit CodiMD documents.
 
-Para registrar una cuenta en la plataforma:
+To register an account on the platform:
 
-1. [Visite la página de inicio de la plataforma] (https://codimd.carpentries.org/) y
-   haga clic en el botón «Iniciar sesión» situado en la esquina superior derecha de la ventana del navegador.
-2. Cuando aparezca la ventana emergente, pidiéndole al usuario que introduzca una dirección de correo electrónico y una contraseña,
-   escriba la dirección de correo electrónico y la contraseña que desea usar para su cuenta.
-3. Haz clic en el botón «Registrarse».
+1. [Visit the platform homepage](https://codimd.carpentries.org/) and
+   click the "Sign In" button near the top-right of the browser window.
+2. When the pop-up appears, prompting the user to enter an email address and password,
+   type in the email address and password you want to use for your account.
+3. Click the "Register" button.
 
-Los titulares de cuentas tienen acceso a dos funciones:
+Account holders gain access to two features:
 
-1. Capacidad para restringir el acceso a los documentos que posee el usuario:
-   En el modo Ver, la persona que creó un documento puede seleccionar entre varias opciones
-   para controlar quién más puede ver y editar su contenido.
-   Busca un menú desplegable con un icono azul y el texto
-   cerca de la parte superior izquierda del contenido de un documento para encontrar estas opciones.
-   Algunos de estos niveles de acceso también permiten los derechos de edición y visualización
-   solo para los titulares de cuentas registradas.
-2. Un historial de los documentos creados y visitados por el usuario,
-   accesible a través de la pestaña Historial de la página de inicio de <https://codimd.carpentries.org/>.
-   Los documentos que figuran en este historial se pueden buscar, ordenar, filtrar,
-   y organizar en carpetas.
+1. Ability to restrict access to documents the user owns:
+   in View mode the person who created a document can select from several options
+   to control who else is able to view and edit its content.
+   Look for a dropdown menu with blue icon and text
+   near top-left of a document's content to find these options.
+   Some of these access levels also allow editing and viewing rights
+   only to registered account holders.
+2. A history of documents created and visited by the user,
+   accessible via the History tab of the <https://codimd.carpentries.org/> landing page.
+   The documents listed in this history can be searched, sorted, filtered,
+   and organised into folders.
 
-## Solución de problemas
+## Troubleshooting
 
-Si tienes problemas con la plataforma codiMD,
-ponte en contacto con nosotros en {{'[{}] (mailto:{}) '.format (team_email, team_email)}} y un miembro del equipo te ayudará a solucionar los problemas.
+If you encounter issues with the CodiMD platform,
+please contact us at {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will help you troubleshoot.
 
-## Ver también
+## See Also
 
-[Etherpad] (/resources/communications/etherpads.md) es otra plataforma colaborativa para tomar notas utilizada por los miembros de la comunidad.
+[Etherpad](/resources/communications/etherpads.md) is another collaborative note taking platform used by the community members.
