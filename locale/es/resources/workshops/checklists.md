@@ -1,145 +1,145 @@
-# Workshop Checklists
+# Listas de verificación para talleres
 
-## Host Checklist
+## Lista de verificación para anfitriones
 
-A workshop host contacts The Carpentries Core Team about running a workshop. They will work with The Carpentries Workshop Administration Team to plan and implement the workshop.
+El anfitrión de un taller contacta con el equipo principal de The Carpentries para organizar un taller. Trabajarán con el equipo de administración del taller de The Carpentries para planificar e implementar el taller.
 
-**Before the workshop, the host will**
+**Antes del taller, el anfitrión lo hará**
 
-1. Decide on the [Data Carpentry](http://www.datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) curriculum that would best serve your learners.
-2. Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/).
-3. Work with The Carpentries Workshops and Instruction Team to set dates and location for your workshop, unless your workshop is virtual.
-   - Be sure to account for other events and programs at your site that may affect room availability and participant availability.
-   - Ensure your location is [accessible](workshop_needs.md#accessibility).
-4. Recruit helpers to join your workshop. They do not need to be directly connected with The Carpentries. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two Instructors.
-5. Advertise your workshop. For Centrally-Organised workshops the Workshops and Instruction Team can help by creating an Eventbrite registration page.
-6. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshops and Instruction Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-7. Work with The Carpentries Operations Manager to make arrangements to pay the workshop fee (only for Centrally-Organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
-8. Make travel arrangements for visiting Instructors (or communicate process to reimburse them for expenses) if the workshop is in person.
-9. Get emergency contact information for Instructors in case of last minute changes.
-10. Arrange for [required materials and equipment](workshop_needs.md).
-11. Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
-12. Email learners to remind them of workshop location, timing, pre-workshop survey and software installation requirements.
-13. Organise a meetup with the Instructors the day before the workshop if the workshop is in person, or sooner if the workshop is virtual.  While this is not always possible, it is useful for the host and Instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
+1. Elija el plan de estudios de [Carpintería de datos] (http://www.datacarpentry.org/lessons/), [Carpintería de bibliotecas] (https://librarycarpentry.org/lessons/) o [Carpintería de software] (https://software-carpentry.org/lessons/) que mejor se adapte a sus alumnos.
+2. Rellene el [formulario de solicitud de taller] (https://amy.carpentries.org/forms/workshop/).
+3. Trabaje con el equipo de talleres e instrucción de The Carpentries para establecer las fechas y el lugar de su taller, a menos que su taller sea virtual.
+   - Asegúrese de tener en cuenta otros eventos y programas en su sitio que puedan afectar la disponibilidad de las habitaciones y la disponibilidad de los participantes.
+   - Asegúrate de que tu ubicación sea [accesible] (workshop_needs.md#accessibility).
+4. Recluta ayudantes para que se unan a tu taller. No es necesario que estén conectados directamente con The Carpentries. Necesitan un conocimiento básico de las herramientas que enseñamos y entusiasmo para ayudar a otros a aprender.  Recomendamos 1 ayudante por cada 8 a 10 estudiantes, sin contar a los dos instructores.
+5. Anuncie su taller. Para los talleres organizados de forma centralizada, el equipo de talleres e instrucción puede ayudarte creando una página de registro de Eventbrite.
+6. Decide si quieres cobrar una tarifa por el taller. Incluso una pequeña tarifa puede reducir considerablemente la tasa de ausencias. Si el equipo de talleres e instrucción crea una página de registro de Eventbrite, The Carpentries puede cobrar esta tarifa a través de Eventbrite y usarla para compensar la tarifa del taller.
+7. Trabaje con el gerente de operaciones de The Carpentries para hacer los arreglos necesarios para pagar la tarifa del taller (solo para los talleres organizados de forma centralizada). Esto incluye asegurarse de que los formularios del proveedor u otra documentación estén en su lugar. La factura real se emitirá una vez finalizado el taller.
+8. Haga los arreglos de viaje para los instructores visitantes (o comunique el proceso para reembolsarles los gastos) si el taller es presencial.
+9. Obtenga la información de contacto de emergencia de los instructores en caso de cambios de última hora.
+10. Haga arreglos para [los materiales y equipos necesarios] (workshop_needs.md).
+11. Haga arreglos para tomar café, refrigerios y/o almuerzo. ¡Todos aprendemos mejor con combustible!
+12. Envíe un correo electrónico a los alumnos para recordarles la ubicación del taller, el horario, la encuesta previa al taller y los requisitos de instalación del software.
+13. Organice una reunión con los instructores el día anterior al taller si el taller es presencial, o antes si el taller es virtual.  Si bien esto no siempre es posible, es útil que el anfitrión y los instructores se conozcan. Esto puede ser con un café, una cena o cualquier otra cosa que funcione para su equipo.
 
-**During the workshop, the host will**
+**Durante el taller, el anfitrión hará**
 
-1. Meet the Instructors and learners.
-2. Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.md).
-3. Periodically check in on the class to be sure things are running smoothly.
+1. Conozca a los instructores y alumnos.
+2. Asegúrese de que la sala esté preparada con todos los [materiales y equipos necesarios] (workshop_needs.md).
+3. Revisa periódicamente la clase para asegurarte de que todo vaya bien.
 
-**After the workshop, the host will**
+**Después del taller, el anfitrión hará**
 
-1. Collect workshop attendance.
-2. Send attendance and any other feedback to The Carpentries Workshops and Instruction Team.
-3. Pay the workshop fee (only for Centrally-Organised workshops).
-4. Reimburse the Instructors.
+1. Recopila la asistencia al taller.
+2. Envíe sus comentarios sobre la asistencia y cualquier otro comentario al equipo de talleres e instrucción de The Carpentries.
+3. Pague la tarifa del taller (solo para los talleres organizados de forma centralizada).
+4. Reembolsa a los instructores.
 
-### Billing Guidelines
+### Pautas de facturación
 
-Payment for workshops is generally due 30 days after the invoice is issued.
+El pago de los talleres generalmente vence 30 días después de la emisión de la factura.
 
-Invoices overdue four or more months may lead to the cessation of work on current activities involving the organisation to whom the overdue invoice was issued until the payment process is addressed.
+Las facturas con un retraso de cuatro meses o más pueden provocar la interrupción del trabajo en las actividades actuales que involucren a la organización a la que se emitió la factura atrasada hasta que se aborde el proceso de pago.
 
-## Instructor Checklist
+## Lista de verificación para instructores
 
-The Workshops and Instruction Team will introduce workshop hosts and Instructors.
+El equipo de talleres e instrucción presentará a los anfitriones e instructores de los talleres.
 
-**Before the workshop, Instructors will**
+**Antes del taller, los instructores harán**
 
-1. Decide on the order of the lessons and who will teach what modules.
-2. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send it to The Carpentries Workshops and Instruction Team. Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
-3. Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/)).
-4. Assist the host in recruiting helpers, if possible.
-5. Assist the host in ensuring the workshop location is accessible.
-6. Share emergency contact information with the host in case of last minute changes.
-7. Practice teaching the material.
-8. Remind the host of the [necessary equipment](workshop_needs.md).
-9. Join a [community discussion](https://pad.carpentries.org/community-discussions).
-10. Confirm criteria for reimbursement (_per diem_ or save receipts).
+1. Decida el orden de las lecciones y quién enseñará qué módulos.
+2. Configura el sitio web del taller con la [plantilla de taller] (https://github.com/carpentries/workshop-template) y envíalo al equipo de talleres e instrucción de The Carpentries. Las instrucciones detalladas se encuentran en el [README] (https://github.com/carpentries/workshop-template#workshop-template) de este repositorio.
+3. Cree un documento colaborativo para el taller (por ejemplo, un [Etherpad] (https://pad.carpentries.org/)).
+4. Ayuda al anfitrión a reclutar ayudantes, si es posible.
+5. Ayude al anfitrión a garantizar que la ubicación del taller sea accesible.
+6. Comparte la información de contacto de emergencia con el anfitrión en caso de cambios de última hora.
+7. Practica enseñando el material.
+8. Recuérdale al anfitrión el [equipo necesario] (workshop_needs.md).
+9. Únase a una [discusión de la comunidad] (https://pad.carpentries.org/community-discussions).
+10. Confirme los criterios de reembolso (\*viáticos o guarde los recibos).
 
-**During the workshop, Instructors will**
+**Durante el taller, los instructores harán**
 
-1. Review Code of Conduct with learners.
-2. Remind learners to use sticky notes to give feedback.
-3. Get feedback at lunch and end of each day using minute cards.
-4. Support the host in collecting attendee names and emails.
-5. Send out the post-workshop survey at the very end of the workshop.
+1. Revise el Código de conducta con los alumnos.
+2. Recuerde a los alumnos que usen notas adhesivas para dar su opinión.
+3. Reciba comentarios durante el almuerzo y al final de cada día con tarjetas de minutos.
+4. Ayude al anfitrión a recopilar los nombres y correos electrónicos de los asistentes.
+5. Envíe la encuesta posterior al taller al final del taller.
 
-**After the workshop, Instructors will**
+**Después del taller, los instructores harán**
 
-1. Remind the host to send workshop attendance data to The Carpentries Workshops and Instruction Team.
-2. Submit receipts for reimbursement.
-3. Send their own feedback to the Workshops and Instruction Team including any configuration problems.
-4. Take part in a [community discussion](https://pad.carpentries.org/community-discussions).
-5. Report any lesson errors or suggest improvements on GitHub or by email to The Carpentries Workshops and Instruction Team.
+1. Recuérdale al anfitrión que envíe los datos de asistencia al taller al equipo de talleres e instrucción de The Carpentries.
+2. Envía los recibos para el reembolso.
+3. Envíe sus propios comentarios al equipo de talleres e instrucción, incluyendo cualquier problema de configuración.
+4. Participe en una [discusión comunitaria] (https://pad.carpentries.org/community-discussions).
+5. Reporta cualquier error en la lección o sugiere mejoras en GitHub o por correo electrónico al equipo de talleres e instrucción de The Carpentries.
 
-## Helper Checklist
+## Lista de verificación para ayudantes
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+A menudo se reclutan ayudantes de la comunidad local en el sitio anfitrión para apoyar los talleres de carpintería. Los ayudantes ayudan a los alumnos de forma individual si están atascados instalando software, entendiendo una determinada línea de código o cualquier otra parte del proceso de aprendizaje.
 
-**Before a workshop, helpers will**
+**Antes de un taller, los ayudantes lo harán**
 
-1. Introduce themselves to the Instructors, letting them know any particular areas of expertise.
-2. Review the curriculum the Instructors will be teaching.
-3. Review the software installation instructions to be prepared to troubleshoot with learners.
-4. Make sure the Instructors have listed you on the workshop website.
+1. Preséntese a los instructores y hágales saber cualquier área de especialización en particular.
+2. Revise el plan de estudios que enseñarán los instructores.
+3. Revisa las instrucciones de instalación del software para estar preparado para solucionar problemas con los alumnos.
+4. Asegúrese de que los instructores lo hayan incluido en el sitio web del taller.
 
-**During the workshop, helpers will**
+**Durante el taller, los ayudantes harán**
 
-1. Help learners with setup problems or anywhere else they get stuck.
-2. Monitor room for anyone who may need help. Learners may put up a red sticky note or indicate in other ways that they are stuck.
-3. Monitor any questions that come up on the collaborative document and answer them or remind the Instructor about them during a break.
+1. Ayude a los alumnos con problemas de configuración o en cualquier otro lugar en el que se queden atascados.
+2. Supervise la habitación para cualquier persona que pueda necesitar ayuda. Los alumnos pueden colocar una nota adhesiva roja o indicar de otras maneras que están atascados.
+3. Supervise las preguntas que surjan en el documento colaborativo y respóndalas o recuérdelas al instructor durante un descanso.
 
-**After the workshop, helpers will**
+**Después del taller, los ayudantes lo harán**
 
-1. Send their own feedback to the Instructors and the Workshops and Instruction Team including any configuration problems.
-2. Consider applying to become a certified Carpentries Instructor.
+1. Envíe sus propios comentarios a los instructores y al equipo de talleres e instrucción, incluidos los problemas de configuración.
+2. Considere la posibilidad de postularse para convertirse en un instructor certificado de carpintería.
 
-## Teaching Rules
+## Normas de enseñanza
 
-**Rule #1: Be kind**
+**Regla #1: Sé bondadoso**
 
-This means to be inclusive, respectful, mindful and welcoming.
+Esto significa ser inclusivo, respetuoso, atento y acogedor.
 
-**Rule #2: Remember that we are all learners**
+**Regla #2: Recuerda que todos somos aprendizajes**
 
-Admitting that you do not know everything helps create a growth mindset, where we are all constantly learning.
-When you make a mistake, calmly talk about the error, how it is part of the process and necessary to make progress.
+Admitir que no lo sabes todo ayuda a crear una mentalidad de crecimiento, en la que todos estamos aprendiendo constantemente.
+Cuando cometas un error, habla con calma sobre el error, sobre cómo es parte del proceso y cómo es necesario para progresar.
 
-**Rule #3: Be aware of demotivating attitudes**
+**Regla #3: Sea consciente de las actitudes desmotivadoras**
 
-There are several things that can be demotivating or impair the learners' experience. Examples of what not to do:
+Hay varias cosas que pueden desmotivar o perjudicar la experiencia de los alumnos. Ejemplos de lo que no se debe hacer:
 
-- Take over the learner's keyboard. Instead, encourage and guide them through the solution, but let them type themselves.
-- Dive into deep discussions with more advanced learners (who might actually not need to be there). You can have those conversations during the break.
+- Toma el control del teclado del alumno. En su lugar, aliéntelos y guíelos a través de la solución, pero permítales que escriban ellos mismos.
+- Sumérjase en conversaciones profundas con estudiantes más avanzados (que tal vez no necesiten estar allí). Puedes tener esas conversaciones durante el descanso.
 
-**Rule #4: Be aware of demotivating words**
+**Regla #4: Ten cuidado con las palabras desmotivadoras**
 
-Avoid saying things like:
+Evita decir cosas como:
 
-- Just: "oh, that is easy, you just..."
-- "It is too easy..."
-- "It is too hard..."
-- "I cannot believe you do not know X ..."
-- Negative things about any applications or OS (Word, Excel, Windows, Mac, GUI): No tool is perfect, and this kind of disdain is not productive or conducive to the learning process.
+- Simplemente: «oh, eso es fácil, tú simplemente...»
+- «Es demasiado fácil...»
+- «Es demasiado difícil...»
+- «No puedo creer que no conozcas a X...»
+- Aspectos negativos de cualquier aplicación o sistema operativo (Word, Excel, Windows, Mac, GUI): ninguna herramienta es perfecta y este tipo de desdén no es productivo ni propicio para el proceso de aprendizaje.
 
-### Code of Conduct (Summary View)
+### Código de conducta (vista resumida)
 
-> We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries’ Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+> Nos dedicamos a proporcionar un entorno acogedor y de apoyo para todas las personas, independientemente de su origen o identidad. Al participar en esta comunidad, los participantes aceptan acatar el Código de Conducta de The Carpentries y los procedimientos mediante los cuales se resuelve cualquier incidente relacionado con el Código de Conducta. Cualquier forma o comportamiento que excluya, intimide o cause incomodidad constituye una violación del Código de conducta. Para fomentar un entorno de aprendizaje positivo y profesional, fomentamos los siguientes tipos de comportamientos en todas las plataformas y eventos:
 
-- Use welcoming and inclusive language.
-- Be respectful of different viewpoints and experiences.
-- Gracefully accept constructive criticism.
-- Focus on what is best for the community.
-- Show courtesy and respect towards other community members.
+- Usa un lenguaje acogedor e inclusivo.
+- Sea respetuoso con los diferentes puntos de vista y experiencias.
+- Acepta con elegancia las críticas constructivas.
+- Concéntrese en lo que es mejor para la comunidad.
+- Muestre cortesía y respeto hacia los demás miembros de la comunidad.
 
 >
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2), who will take the appropriate action to address the situation.
+Si crees que alguien está infringiendo el Código de conducta, te pedimos que lo denuncies al Comité del Código de Conducta de The Carpentries rellenando [este formulario] (https://goo.gl/forms/KoUfO53Za3apOuOK2), quien tomará las medidas adecuadas para abordar la situación.
 
-More info can be found here: {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
+Puedes encontrar más información aquí: {{'[Code of Conduct] ({}) '.format (code_of_conduct)}}.
 
-## Email Templates
+## Plantillas de correo electrónico
 
-Use [these](email_templates.md) templated emails for communicating with the learners.
+Usa [estas] (email_templates.md) plantillas de correos electrónicos para comunicarte con los alumnos.
