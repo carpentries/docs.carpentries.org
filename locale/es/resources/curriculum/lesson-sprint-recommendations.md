@@ -1,329 +1,328 @@
-# Lesson Sprint Recommendations
+# Recomendaciones de sprints de lecciones
 
-One way of making progress and encouraging collaboration on the development of a lesson is to organise a dedicated event such as a co-working session or a lesson development sprint.
-A co-working session is typically a shorter, less formal event bringing people together to work simultaneously on the lesson.
-The co-working session might include brief check-ins for the group to discuss progress and next steps, but most of the time will be spent working on the lesson independently or in small groups.
-A sprint is typically a longer, more structured event designed to welcome and bring onboard new contributors to the lesson project.
+Una forma de progresar y fomentar la colaboración en el desarrollo de una lección es organizar un evento específico, como una sesión de trabajo conjunto o un sprint de desarrollo de la lección.
+Una sesión de trabajo conjunto suele ser un evento más corto y menos formal que reúne a las personas para trabajar simultáneamente en la lección.
+La sesión de trabajo conjunto puede incluir breves reuniones para que el grupo analice el progreso y los próximos pasos, pero la mayor parte del tiempo se dedicará a trabajar en la lección de forma independiente o en grupos pequeños.
+Un sprint suele ser un evento más largo y estructurado diseñado para dar la bienvenida y atraer a nuevos colaboradores al proyecto de la lección.
 
-## Introduction
+## Introducción
 
-The following set of recommendations, written by members of The Carpentries community, is intended to guide lesson authors through the process of organising a lesson sprint.
-The recommendations are relevant to a lesson sprint consisting of a single session or in multiple sessions with breaks between, whether on one day or multiple consecutive days.
-We have tried to note where a particular recommendation is only relevant or particularly relevant to a sprint being run across multiple days/sessions.
-These recommendations were written with a particular focus on sprints taking place virtually, i.e. with participants meeting by video conference, but many of the recommendations (especially those in the [Before](#before-the-sprint) and [After](#after-the-sprint) sections) are also relevant to in-person events.
+El siguiente conjunto de recomendaciones, escrito por miembros de la comunidad de The Carpentries, tiene como objetivo guiar a los autores de las lecciones a través del proceso de organización de un sprint de lecciones.
+Las recomendaciones son relevantes para un sprint de lección que consista en una sola sesión o en varias sesiones con descansos entre ellas, ya sea en un día o en varios días consecutivos.
+Hemos intentado observar los casos en los que una recomendación en particular solo es relevante o particularmente relevante para un sprint que se ejecuta durante varios días o sesiones.
+Estas recomendaciones se redactaron con un enfoque particular en los sprints que se llevan a cabo de forma virtual, es decir, en los que los participantes se reúnen por videoconferencia, pero muchas de las recomendaciones (especialmente las de las secciones [Antes] (#before-the-sprint) y [Después] (#after-the-sprint)) también son relevantes para los eventos presenciales.
 
-### Target Audience
+### Público objetivo
 
-The target reader is one of the lead developers/Maintainers of a lesson under active development e.g. in [The Carpentries Incubator](https://github.com/carpentries-incubator/).
-They should already have a clear idea of the target audience and main learning objectives for their lesson, even if they haven't started writing the actual material yet.
-They may be planning to teach the lesson for the first time, or have recently taught it for the first time, and now want to improve the lesson material based on feedback collected when teaching.
+El lector objetivo es uno de los principales desarrolladores o mantenedores de una lección en desarrollo activo, por ejemplo, en [The Carpentries Incubator] (https://github.com/carpentries-incubator/).
+Ya deberían tener una idea clara del público objetivo y de los principales objetivos de aprendizaje para su lección, incluso si aún no han empezado a escribir el material real.
+Es posible que estén planeando enseñar la lección por primera vez, o que la hayan enseñado recientemente por primera vez, y ahora quieran mejorar el material de la lección basándose en los comentarios recopilados durante la enseñanza.
 
-If you in the stage where you are not yet clear on the target audience or the overall learning objectives for your lesson, we suggest you work through the episodes [_Identifying Your Target Audience_](https://carpentries.github.io/lesson-development-training/audience.html) and [_Defining Lesson Objectives/Outcomes_](https://carpentries.github.io/lesson-development-training/objectives.html) of [The Carpentries _Collaborative Lesson Development Training_ curriculum](https://carpentries.github.io/lesson-development-training/) before returning to this guide.
+Si te encuentras en una fase en la que aún no tienes claro cuál es el público objetivo o los objetivos de aprendizaje generales de tu lección, te sugerimos que revises los episodios [_Identificar tu público objetivo] (https://carpentries.github.io/lesson-development-training/audience.html) y [_Definir los objetivos/resultados de la lección_] (https://carpentries.github.io/lesson-development-training/objectives.html) del [plan de estudios The Carpentries _Collaborative Lesson Development Training_] (https://carpentries.github.io/lesson-development-training/) antes de volver a esta guía.
 
-### Objectives
+### Objetivos
 
-Provide practical tips and more theoretical guidance about how to:
+Proporcione consejos prácticos y más orientación teórica sobre cómo:
 
-- organise an inclusive and accessible sprint
-- make the most of a dedicated lesson sprint
-- create coherent lesson material from individual contributions made during the sprint
-- engage contributors before, during, and after the lesson sprint
+- organiza un sprint inclusivo y accesible
+- aproveche al máximo un sprint de lección dedicado
+- crear material didáctico coherente a partir de las contribuciones individuales realizadas durante el sprint
+- involucre a los colaboradores antes, durante y después del sprint de la lección
 
-## Before the Sprint
+## Antes del Sprint
 
-- **Establish an organising committee.** Organising the sprint will be much easier if there are multiple people involved in planning and running the event.
-  Aim to establish an organising committee with members from diverse backgrounds who can bring a broad perspective to create an accessible and inclusive event for your participants.
-  If you have more than 2 people, be sure to assign roles and responsibilities to avoid diffusion of responsibility.
+- **Establece un comité organizador.** Organizar el sprint será mucho más fácil si hay varias personas involucradas en la planificación y ejecución del evento.
+  Intente establecer un comité organizador con miembros de diversos orígenes que puedan aportar una perspectiva amplia para crear un evento accesible e inclusivo para sus participantes.
+  Si tiene más de 2 personas, asegúrese de asignar funciones y responsabilidades para evitar la difusión de responsabilidades.
 
-- **Select a code of conduct.** If your lesson repository already has a code of conduct, apply it to the sprint and associated events too.
-  If your lesson repository does not already have a code of conduct, add one.
-  Like licenses, we do not recommend that you write your own code of conduct from scratch.
-  Instead, re-use/adapt an existing text you find online.
-  We recommend The Carpentries [Code of Conduct](/policies/coc/index.md), which was designed with exactly these kinds of projects in mind.
-  Assign at least one person as the contact person/facilitator for matters relating to the Code of Conduct, and make sure all sprint participants are aware of who this is and how they should connect with them.
-  You can do this by including their details in the "primer" information you provide to participants before the event and by introducing them when you mention the code of conduct at the start of the sprint itself.
+- **Selecciona un código de conducta.** Si tu repositorio de lecciones ya tiene un código de conducta, aplícalo también al sprint y a los eventos asociados.
+  Si su repositorio de lecciones aún no tiene un código de conducta, añada uno.
+  Al igual que las licencias, no recomendamos que escribas tu propio código de conducta desde cero.
+  En su lugar, reutilice/adapte un texto existente que encuentre en línea.
+  Recomendamos The Carpentries [Code of Conduct] (/policies/coc/index.md), que se diseñó pensando exactamente en este tipo de proyectos.
+  Asigne al menos a una persona como persona de contacto/facilitador para los asuntos relacionados con el Código de Conducta y asegúrese de que todos los participantes del sprint sepan quién es y cómo deben conectarse con ellos.
+  Puedes hacerlo incluyendo sus detalles en la información básica que proporcionas a los participantes antes del evento y presentándolos cuando menciones el código de conducta al inicio del propio sprint.
 
-- **Set up a planning meeting/call for the committee** Use this meeting to agree on the dates, event format and the target audience in sufficient detail and high-level objectives of your sprint.
-  Document your discussions and plans in a central location so that everyone involved in the process can access them.
-  Divide responsibilities to put together resources (such as for communication and norms) that will be shared with all participants. (See below for more details.)
+- **Organiza una reunión de planificación/convocatoria para el comité** Aprovecha esta reunión para acordar las fechas, el formato del evento y el público objetivo con suficiente detalle y los objetivos de alto nivel de tu sprint.
+  Documente sus debates y planes en una ubicación central para que todos los involucrados en el proceso puedan acceder a ellos.
+  Divida las responsabilidades para reunir recursos (como los de comunicación y normas) que se compartirán con todos los participantes. (Consulte a continuación para obtener más detalles).
 
-- **Consider participants' roles and expertise.**
-  - Do you have a team with diverse skillsets and topic knowledge required to meet your high-level objectives? If not, consider finding and inviting other people.
+- \*\*Tenga en cuenta las funciones y la experiencia de los participantes. \*\*
+  - ¿Tiene un equipo con diversas habilidades y conocimientos de temas necesarios para cumplir sus objetivos de alto nivel? Si no es así, considera buscar e invitar a otras personas.
 
-- **Establish communication channels and norms.** This will set an expectation for how collaborators will communicate before, during, and after the sprint.
-  - Dedicated messaging channels have been used with success for conversations/short updates during the sprint and in-between sprint conversations.
-    See [During the Sprint](#during-the-sprint) for more details.
-  - Mailing lists for initial organisation and other important and more permanent communication, e.g. scheduling meetings.
-  - **[Online]** Video conferencing technology that is an accessible choice for everyone and suitable for the format of the sprint.
-  - Decide on the basic etiquette for participation, such as how to collect ideas, who to contact for support, how to participate in an ongoing discussion, how to contribute to content development and how to review contributions.
-  - Choose a collaborative note-taking platform for recording and communicating decisions, minutes and actions from meetings. (See [the tools section](#tools-and-resources) for details of some different note taking platforms.)
+- **Establece canales y normas de comunicación.** Esto establecerá una expectativa sobre cómo se comunicarán los colaboradores antes, durante y después del sprint.
+  - Los canales de mensajería dedicados se han utilizado con éxito para las conversaciones/actualizaciones breves durante el sprint y entre las conversaciones de sprint.
+    Consulta [Durante el sprint] (#during-the-sprint) para obtener más información.
+  - Listas de correo para la organización inicial y otras comunicaciones importantes y más permanentes, por ejemplo, la programación de reuniones.
+  - \*\* [En línea] \*\* Tecnología de videoconferencia que es una opción accesible para todos y adecuada para el formato del sprint.
+  - Decida la etiqueta básica para la participación, por ejemplo, cómo recopilar ideas, con quién ponerse en contacto para obtener apoyo, cómo participar en un debate continuo, cómo contribuir al desarrollo del contenido y cómo revisar las contribuciones.
+  - Elija una plataforma colaborativa de toma de notas para registrar y comunicar las decisiones, actas y acciones de las reuniones. (Consulte [la sección de herramientas] (#tools-and-resources) para obtener más información sobre algunas plataformas diferentes para tomar notas).
 
-- **Think about the timing of your sprint.**
-  - You can run the sprint in conjunction with an upcoming event, e.g. a conference/meeting that many in your community will already be engaged with.
-    If you would like to attract new contributors, this will make it easier to get people's attention and convince them to block time in their calendar to join in with the sprint.
-    You may also be able to tap into the promotional communications etc. for that event, and/or invite people to join the sprint, e.g. via a lightning talk or poster.
-  - Conversely, you may want to avoid clashes with another event if your team is going to be engaged elsewhere or have other commitments.
-  - Announce the dates for your sprint at least 6 weeks in advance.
+- \*\*Piensa en el tiempo de tu sprint. \*\*
+  - Puedes ejecutar el sprint junto con un evento próximo, por ejemplo, una conferencia/reunión en la que muchos miembros de tu comunidad ya participen.
+    Si quieres atraer a nuevos colaboradores, esto hará que sea más fácil captar la atención de las personas y convencerlas de que bloqueen el tiempo de su calendario para unirse al sprint.
+    También puedes acceder a las comunicaciones promocionales, etc., de ese evento o invitar a personas a unirse al sprint, por ejemplo, mediante una charla relámpago o un póster.
+  - Por el contrario, es posible que desees evitar los enfrentamientos con otro evento si tu equipo va a participar en otro lugar o va a tener otros compromisos.
+  - Anuncia las fechas de tu sprint con al menos 6 semanas de antelación.
 
-- **Add dates and time in your calendar**: In addition to the event dates, schedule a few planning meetings with the committee members _before_ the sprint and one meeting/co-working session _after_ the sprint for wrap-up/follow-up tasks.
-  - When possible, offer a pre-event onboarding call that can be used for sharing all the relevant resources and setting expectations around what to expect at the event.
+- **Añade fechas y horas a tu calendario**: Además de las fechas de los eventos, programa algunas reuniones de planificación con los miembros del comité _antes_ del sprint y una sesión de reunión/trabajo conjunto _después_ del sprint para las tareas de recapitulación y seguimiento.
+  - Cuando sea posible, ofrezca una llamada de presentación previa al evento que pueda usarse para compartir todos los recursos relevantes y establecer expectativas sobre lo que puede esperar del evento.
 
-- **Scope out what content will be worked on.**
-  Defining objectives and which sections/aspects of the lesson should be worked on during the sprint will reduce the energy/time required for contributors to begin working and help to keep efforts focused during the event.
-  This guidance might be in the form of a list on a shared document or open issues on the lesson repository and do not need to contain much detail.
-  You do not need to micromanage individual contributions, but a summary of each key objective can serve as a starting point for discussions between collaborators about the best approach to reach those goals.
+- **Determina en qué contenido se trabajará.**
+  Definir los objetivos y las secciones o aspectos de la lección en los que se deben trabajar durante el sprint reducirá la energía y el tiempo necesarios para que los colaboradores comiencen a trabajar y ayudará a mantener los esfuerzos concentrados durante el evento.
+  Esta guía puede tener la forma de una lista en un documento compartido o de temas pendientes en el repositorio de lecciones y no es necesario que contenga muchos detalles.
+  No es necesario microgestionar las contribuciones individuales, pero un resumen de cada objetivo clave puede servir como punto de partida para las discusiones entre los colaboradores sobre el mejor enfoque para alcanzar esos objetivos.
 
-- **Create a resource for good practices for lesson design.** This resource should be shared with all the participants to assist them in designing lessons to be as effective as possible.
-  Consult [the _Collaborative Lesson Development Training_ curriculum](https://carpentries.github.io/lesson-development-training/) for a process and recommendations that you and your collaborators can follow when creating the lesson material during the sprint.
-  Some of the other [_Curriculum Resources_](/resources/curriculum/index.md) provided in this handbook, as well as the [_Lesson Developer Handbook_](/handbooks/lesson_developers.md), may also be helpful.
+- **Cree un recurso de buenas prácticas para el diseño de lecciones.** Este recurso debe compartirse con todos los participantes para ayudarlos a diseñar las lecciones de manera que sean lo más eficaces posible.
+  Consulta [el plan de estudios _Collaborative Lesson Development Training_] (https://carpentries.github.io/lesson-development-training/) para ver un proceso y recomendaciones que tú y tus colaboradores podéis seguir al crear el material de la lección durante el sprint.
+  Algunos de los otros [_Curriculum Resources_] (/resources/curriculum/index.md) incluidos en este manual, así como el [_Lesson Developer Handbook_] (/handbooks/lesson_developers.md), también pueden resultar útiles.
 
-- **Prepare a video call link for all sprint sessions.**
-  **[Online]** If your sprint is taking place across multiple sessions, or will include multiple video calls between participants, try to provide a single meeting link for them all.
-  This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
+- **Prepare un enlace de videollamada para todas las sesiones de sprint.**
+  \*\* [En línea] \*\* Si su sprint se lleva a cabo en varias sesiones o incluirá varias videollamadas entre los participantes, intente proporcionar un enlace de reunión único para todos ellos.
+  Esto ahorrará tiempo a los colaboradores cuando regresen a las llamadas del sprint, por ejemplo, para una sesión de registro o después de un descanso.
 
-- **Communicate participation information and send reminders before the Sprint**
-  - Send short reminders a week and a day before the Sprint, with time and date, video conferencing URL, note docs and any prior preparation work
-  - If prior reading/preparation is required, give at least a week lead time
-  - Think of a way to let participants withdraw their participation/leave early/join late comfortably; this helps especially for folks juggling with multiple responsibilities
+- **Comunique la información de participación y envíe recordatorios antes del Sprint**
+  - Envía recordatorios breves una semana y un día antes del Sprint, con la hora y la fecha, la URL de la videoconferencia, los documentos de notas y cualquier trabajo de preparación previo
+  - Si se requiere una lectura o preparación previas, espere al menos una semana
+  - Piense en una forma de permitir que los participantes retiren su participación, se vayan temprano o se unan tarde cómodamente; esto ayuda especialmente a las personas que tienen que hacer malabares con múltiples responsabilidades
 
-- **Use time zone-converted event links for remote participants.**
-  **[Online]** For sprints running online with the potential for participants from multiple regions/time zones, it is vital to announce time(s) and date(s) for your sprint in a way that allows visitors to see the equivalent in their local time.
-  Always list event timings in UTC and use tools like [timeanddate.com](https://timeanddate.com) to provide an automatic conversion to local time.
+- **Usa enlaces de eventos convertidos por zonas horarias para los participantes remotos.**
+  \*\* [En línea] \*\* Para los sprints que se realicen en línea y puedan participar participantes de varias regiones o zonas horarias, es fundamental anunciar las horas y fechas del sprint de manera que los visitantes puedan ver el equivalente en su hora local.
+  Enumera siempre los horarios de los eventos en UTC y usa herramientas como [timeanddate.com] (https://timeanddate.com) para ofrecer una conversión automática a la hora local.
 
-- **Promote the sprint widely.** You might want to promote your upcoming sprint to attract contributors beyond your current team.
-  - You can use mailing lists, Slack channels, Newsletters, Twitter and direct invitation to reach your desired participant groups.
-  - When possible, offer financial support to people who may want to participate but may have special needs to facilitate their participation for the duration of the event (for example, childcare for in-person, high-speed internet for remote events).
-  - Consider whether you need a system to track participation for the Sprint, e.g. a Google Form/Eventbrite page
-    - You may not need this if you already have dedicated communication channels (see "establish communication channels and norms") and the Sprint is open to everyone in those channels
-    - You may want to collect additional information from participants, e.g. if there are multiple parallel discussion topics, which discussion they'd like to participate in; dietary requirements and emergency contact information for in-person events; accessibility needs and time zone for virtual events
-    - Tools like Eventbrite allow organisers to easily send emails to all attendees, e.g. reminders and follow-ups.
+- **Promociona el sprint generalmente.** Es posible que desees promocionar tu próximo sprint para atraer colaboradores más allá de tu equipo actual.
+  - Puedes usar listas de correo, canales de Slack, boletines informativos, Twitter e invitaciones directas para llegar a los grupos de participantes que desees.
+  - Siempre que sea posible, ofrezca apoyo financiero a las personas que quieran participar pero que tengan necesidades especiales para facilitar su participación durante la duración del evento (por ejemplo, cuidado de niños presencial o acceso a Internet de alta velocidad para eventos remotos).
+  - Considera si necesitas un sistema para hacer un seguimiento de la participación en el Sprint, por ejemplo, una página de Google Form/Eventbrite
+    - Es posible que no lo necesites si ya tienes canales de comunicación dedicados (consulta la sección «Establecer canales y normas de comunicación») y el Sprint está abierto a todos los usuarios de esos canales
+    - Es posible que desees recopilar información adicional de los participantes, por ejemplo, si hay varios temas de debate paralelos, en qué debate les gustaría participar; los requisitos dietéticos y la información de contacto de emergencia para los eventos presenciales; las necesidades de accesibilidad y la zona horaria para los eventos virtuales
+    - Herramientas como Eventbrite permiten a los organizadores enviar fácilmente correos electrónicos a todos los asistentes, por ejemplo, recordatorios y seguimientos.
 
-- **Prepare a "sprint primer" document and publish it.**
-  Provide participants in advance with a single document that provides all the information they need to know before joining (or deciding to join) the sprint:
-  what steps do they need to take to register, to attend/connect, to prepare?
-  What can they expect when they join?
-  What will the format be?
-  What roles will there be within the group?
-  In what different ways can participants contribute during the sprint?
-  What channels will be used for communication?
-  What is the schedule?
-  Take everything you have been preparing from the other recommendations in this list and put all that information into this document so your (potential) participants can refer to it before and during the sprint.
-  See [this primer document from the CarpentryCon@Home 2020 sprint](https://docs.google.com/document/d/1IwnClDjruY9yLmJEUjz-JvRptxqaLsiOTieUlgVbry8/edit?usp=sharing) on [the Library Carpentry FAIR Data and Software lesson](https://librarycarpentry.org/lc-fair-research/).
+- **Prepare un documento de «manual del sprint» y publíquelo.**
+  Proporcione a los participantes con antelación un documento único que contenga toda la información que necesitan saber antes de unirse (o decidir unirse) al sprint:
+  ¿qué pasos deben seguir para registrarse, asistir o conectarse y prepararse?
+  ¿Qué pueden esperar cuando se unan?
+  ¿Cuál será el formato?
+  ¿Qué funciones habrá dentro del grupo?
+  ¿De qué maneras diferentes pueden contribuir los participantes durante el sprint?
+  ¿Qué canales se utilizarán para la comunicación?
+  ¿Cuál es el horario?
+  Toma todo lo que has estado preparando de las demás recomendaciones de esta lista y coloca toda esa información en este documento para que tus (posibles) participantes puedan consultarlo antes y durante el sprint.
+  Consulte [este documento preliminar del sprint de CarpentryCon @Home 2020] (https://docs.google.com/document/d/1IwnClDjruY9yLmJEUjz-JvRptxqaLsiOTieUlgVbry8/edit?usp=sharing) sobre [la lección de datos y software de la FERIA DE CARPINTERÍA DE LA BIBLIOTECA] (https://librarycarpentry.org/lc-fair-research/).
 
-There are a number of tools that in combination could be used for running effective curriculum development sprints - we cover a good number of tried and tested technologies under [the tools section](#tools-and-resources).
+Hay una serie de herramientas que, en combinación, podrían usarse para ejecutar sprints eficaces de desarrollo curricular; cubrimos un buen número de tecnologías probadas en [la sección de herramientas] (#tools-and-resources).
 
-### Before The Sprint: Recommendations for GitHub
+### Antes del Sprint: recomendaciones para GitHub
 
-- **Review open issues on your lesson repository** before the sprint
-  and consider flagging (labelling) existing issues and opening new ones to describe tasks that could be tackled during the event.
-  [GitHub Projects](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards) can help with this, allowing you to label particular issues within scope for the sprint and even organise them further into categories to help contributors find something to work on.
-  Even if you cannot invest time into managing issues to this extent, make sure open issues include all the contextual information necessary for a new or part-time contributor to understand what needs doing and whether they can help.
+- **Revisa los problemas pendientes en tu repositorio de lecciones** antes del sprint
+  y considera marcar (etiquetar) los problemas existentes y abrir otros nuevos para describir las tareas que podrían abordarse durante el evento.
+  [GitHub Projects] (https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards) puede ayudarte con esto, ya que te permite etiquetar temas específicos dentro del alcance del sprint e incluso organizarlos en categorías para ayudar a los colaboradores a encontrar algo en lo que trabajar.
+  Incluso si no puedes invertir tiempo en gestionar los problemas de esta manera, asegúrate de que los asuntos abiertos incluyan toda la información contextual necesaria para que un colaborador nuevo o a tiempo parcial comprenda qué necesita hacer y si puede ayudar.
 
-## During the Sprint
+## Durante el Sprint
 
-- **Enable access to documents for shared note-taking.**
-  When possible store all the shareable documents in a central repository or shared drive so they are easy to find.
-  One main document should be created to share links to all the resources that will be used for the sprint.
-  This document should be kept visible to all participants and persist beyond the end of the sprint.
+- **Habilite el acceso a los documentos para tomar notas compartidas.**
+  Cuando sea posible, guarde todos los documentos que se puedan compartir en un repositorio central o en una unidad compartida para que sean fáciles de encontrar.
+  Se debe crear un documento principal para compartir los enlaces a todos los recursos que se utilizarán para el sprint.
+  Este documento debe mantenerse visible para todos los participantes y persistir más allá del final del sprint.
 
-- **Run a "sprint primer" session.** A primer session helps contributors get oriented with the structure of your lesson and its associated repository, the setup required to work on the lesson (e.g. local builds to preview lesson webpages), and the communication channels that will be used during and in-between the sprint sessions.
-  You could run this primer session a week or two days before the sprint begins.
-  This can also be the first session of the sprint event before co-working sessions begin.
+- **Organice una sesión de «introducción al sprint» .** Una sesión de introducción ayuda a los colaboradores a orientarse con respecto a la estructura de la lección y su repositorio asociado, la configuración necesaria para trabajar en la lección (por ejemplo, compilaciones locales para obtener una vista previa de las páginas web de la lección) y los canales de comunicación que se utilizarán durante las sesiones de sprint y entre ellas.
+  Puedes realizar esta primera sesión una semana o dos días antes de que comience el sprint.
+  Esta también puede ser la primera sesión del evento de sprint antes de que comiencen las sesiones de trabajo conjunto.
 
-- **Start the video conference call 10 mins ahead of official start time. [Online]** To allow newcomers and first-time participants to get familiar with tools, test audio and video set up, warm up, etc.
+- \*\*Inicie la videoconferencia 10 minutos antes de la hora oficial de inicio. [En línea] \*\* Para permitir que los recién llegados y los que participan por primera vez se familiaricen con las herramientas, prueben la configuración de audio y vídeo, hagan el calentamiento, etc.
 
-- **Record information about participants and contributions.**
-  - Start your event by asking people to sign-in to the shared document by providing names, [ORCID identifiers](https://orcid.org/), [GitHub usernames](https://github.com), and any other identifiers/handles that can be used to acknowledge their contributions.
-    You can also ask the participants to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.
-  - When working on an online repository, you can use issues to describe and assign tasks.
-    This can also be directly done on the shared notes that everyone has access to.
-    This helps to avoid duplication of effort during the sprint, and gives participants a way of coordinating additional discussions among themselves where appropriate to make progress on a task.
-  - Prompt participants to add their details to the shared notes, so you can refer to it later and ensure everyone's contributions are recorded and proper credit is given when publishing the lesson.
+- \*\*Registre la información sobre los participantes y las contribuciones. \*\*
+  - Comienza tu evento pidiéndoles a las personas que inicien sesión en el documento compartido proporcionando nombres, [identificadores ORCID] (https://orcid.org/), [nombres de usuario de GitHub] (https://github.com) y cualquier otro identificador o identificador que pueda usarse para reconocer sus contribuciones.
+    También puedes pedir a los participantes que, de forma opcional, proporcionen sus pronombres para garantizar que todos reciban sus pronombres preferidos.
+  - Cuando trabajas en un repositorio en línea, puedes usar los problemas para describir y asignar tareas.
+    Esto también se puede hacer directamente en las notas compartidas a las que todos tienen acceso.
+    Esto ayuda a evitar la duplicación de esfuerzos durante el sprint y brinda a los participantes una forma de coordinar discusiones adicionales entre ellos cuando sea apropiado para avanzar en una tarea.
+  - Pide a los participantes que agreguen sus detalles a las notas compartidas para que puedas consultarlos más adelante y asegurarte de que las contribuciones de todos estén registradas y de que se dé el crédito adecuado al publicar la lección.
 
-- **Divide co-working sessions with scheduled check-ins.**
-  Plan your sprint to have several co-working sessions that are followed by check-ins or report outs to allow contributors to reflect on their progress.
-  This will also allow them to share what they've achieved, what's blocking their progress, where they would like some feedback and what they intend to do next.
-  We recommend using a web-based shared clock such as [cuckoo.team](https://cuckoo.team/) to keep track of co-working, share-out and breaks.
+- **Divida las sesiones de trabajo conjunto con las visitas programadas.**
+  Planifica tu sprint para tener varias sesiones de trabajo conjunto seguidas de registros o informes para que los colaboradores puedan reflexionar sobre su progreso.
+  Esto también les permitirá compartir lo que han logrado, lo que bloquea su progreso, dónde desean recibir comentarios y qué piensan hacer a continuación.
+  Recomendamos usar un reloj compartido basado en la web, como [cuckoo.team] (https://cuckoo.team/) para llevar un registro del trabajo conjunto, los espacios compartidos y los descansos.
 
-- **Record the check-ins.**
-  If technically possible, and provided all participants consent, record these check-ins (video or written) so that those who could not join can catch up
-  on the latest progress when they (re-)join the sprint.
-  This is particularly important for sprints taking place across multiple sessions/days and/or a wide range of time zones.
-  These check-in discussions can end by taking extensive notes in the shared document.
-  - **Assign roles for check-ins.**
-    To ensure everyone has an equal chance to contribute to the discussion and the sprint, the lead organiser(s) should assign meeting roles for the check-in calls.
-    To further promote equity of participation, these roles should be rotated for each day of the sprint, or each separate sprint event.
-    Roles may include:
-    - a _Facilitator_ who coordinates the discussion and keeps it moving, watching out for raised hands and making sure those with something to contribute get the chance to do so;
-    - a _Timekeeper_ who monitors the time remaining for the check-in and ensures that all topics are covered in a timely fashion.
-      The Timekeeper prompts the Facilitator/speaker to move on when necessary to cover everything.
-    - an _Issue/Task Creator_, who keeps track of actions that arise from the check-in discussion and creates an issue or describes the task in the shared notes.
-    - a _Notetaker_, who takes minutes of what is discussed in the check-in.
-      In some instances, it may be possible to combine the roles of Notetaker and Task Creator.
+- **Graba las llegadas.**
+  Si es técnicamente posible y siempre que todos los participantes den su consentimiento, graba estas entradas (en vídeo o por escrito) para que quienes no hayan podido unirse puedan ponerse al día con el
+  sobre los últimos avances cuando (vuelvan a) unirse al sprint.
+  Esto es particularmente importante para los sprints que tienen lugar en varias sesiones/días y/o en una amplia gama de zonas horarias.
+  Estas discusiones de registro pueden terminar tomando notas extensas en el documento compartido.
+  - **Asigne funciones para las llegadas.**
+    Para garantizar que todos tengan las mismas oportunidades de contribuir al debate y al sprint, los organizadores principales deben asignar funciones de reunión para las llamadas de registro.
+    Para promover aún más la equidad de participación, estos roles deben rotarse para cada día del sprint o para cada evento de sprint por separado.
+    Las funciones pueden incluir:
+    - un _Facilitador_ que coordine el debate y lo mantenga en marcha, velando por que quienes tengan algo que aportar tengan la oportunidad de hacerlo;
+    - un _cronometrador_ que monitorea el tiempo restante para el registro y se asegura de que todos los temas se traten de manera oportuna.
+      El cronometrador le pide al facilitador o al orador que continúe cuando sea necesario para cubrir todo.
+    - un _creador de problemas/tareas_, que realiza un seguimiento de las acciones que surgen de la discusión de registro y crea un problema o describe la tarea en las notas compartidas.
+    - un _anotador_, que toma actas de lo que se discute en el registro.
+      En algunos casos, es posible combinar las funciones de anotador y creador de tareas.
 
-- **Consider participants' roles and expertise.**
-  - Consider the power dynamics in the group, e.g. if you have PIs and early-career PhD candidates participating, have separate breakout rooms for each of those groups so participants can comfortably discuss with peers (but report out at the end so folks can learn from other perspectives), have a moderator who keeps track how much folks are speaking and provide space and (gentle) prompts to encourage the lesser-spoken folks to speak, etc
+- \*\*Tenga en cuenta las funciones y la experiencia de los participantes. \*\*
+  - Tenga en cuenta la dinámica de poder en el grupo, por ejemplo, si participan candidatos a IP y a doctorandos que inician su carrera, tenga salas de trabajo separadas para cada uno de esos grupos para que los participantes puedan discutir cómodamente con sus compañeros (pero informar al final para que la gente pueda aprender desde otras perspectivas), tenga un moderador que lleve un registro de la cantidad de personas que hablan y dé espacio e indicaciones (suaves) para alentar a las personas que menos hablan a hablar, etc.
 
-- **Use a chat channel for communication outside check-ins.**
-  To allow participants to "unplug" from video calls/move to separate locations for the bulk of the sprint, use a text-based chat such as Slack or Gitter for discussion when not checking in.
-  If your chosen platform allows it, minimise global notifications to sprint participants by making use of threaded conversations.
-  This will allow contributors to focus on their chosen task unless involved in a conversation directly relevant to them.
+- **Usa un canal de chat para comunicarte fuera del registro de entrada.**
+  Para permitir que los participantes se «desconecten» de las videollamadas o se muden a diferentes ubicaciones durante la mayor parte del sprint, usa un chat de texto como Slack o Gitter para conversar cuando no te registres.
+  Si la plataforma elegida lo permite, minimice las notificaciones globales a los participantes del sprint haciendo uso de conversaciones en cadena.
+  Esto permitirá a los colaboradores centrarse en la tarea que han elegido, a menos que participen en una conversación directamente relevante para ellos.
 
-- **Prepare breakout rooms for small group discussion and co-working between check-ins.**
-  **[Online]** Open a small number of break out rooms for sprint participants to use during working sessions.
-  This allows the participants to self-organize if they need to discuss something they are working on or co-work on a particular task.
-  In Zoom, select the option to "Let participants choose room".
-  For **[in-person]** sprints, prepare an equivalent set of different rooms/locations for participants to gather and discuss in smaller groups without fear of
-  disturbing the whole team.
+- **Prepara salas de grupos pequeños para debatir en grupos pequeños y trabajar en equipo entre las llegadas.**
+  \*\* [En línea] \*\* Abre una pequeña cantidad de salas de descanso para que los participantes del sprint las usen durante las sesiones de trabajo.
+  Esto permite a los participantes organizarse por sí mismos si necesitan hablar sobre algo en lo que están trabajando o trabajar juntos en una tarea en particular.
+  En Zoom, seleccione la opción «Permitir a los participantes elegir habitación».
+  Para los sprints \*\* [presenciales] \*\*, prepara un conjunto equivalente de diferentes salas o lugares para que los participantes se reúnan y discutan en grupos más pequeños sin temor a que
+  moleste a todo el equipo.
 
-- **Provide a way for contributors to mark their work ready for review.**
-  If you prefer to require material is reviewed before being included in the lesson, give participants a way to signal when their contributions are ready.
-  You might consider providing guidance/assigning responsibility for reviewers of particular sections/types of contribution.
-  If your lesson is being developed on GitHub, see the section below for more specific recommendations.
+- **Proporcione una forma para que los colaboradores marquen su trabajo como listo para su revisión.**
+  Si prefiere exigir que el material se revise antes de incluirlo en la lección, dé a los participantes una forma de indicar a los participantes que sus contribuciones están listas.
+  Podrías considerar brindar orientación o asignar responsabilidades a los revisores de secciones o tipos de contribución particulares.
+  Si tu lección se está desarrollando en GitHub, consulta la sección siguiente para obtener recomendaciones más específicas.
 
-- **Reviewing contributions.**
-  Allocate 1-2 sessions in the sprint to review and approve contributions made by others.
-  If this is not planned in the event, sprints may end with an influx of new material as contributors finish up what they were working on as the event closed.
-  Make sure that each contribution is reviewed and if possible (and where appropriate), merged into the lesson.
-  This allows contributors to leave the event with a sense of accomplishment from the sprint,
-  and ties up any loose ends before new tasks are taken on to develop the material further.
-  If the participants who were originally assigned to review have had to leave before the review session,
-  the organisers should delegate the review task to those who are available and willing to help finish the review process on time.
+- **Revisar las contribuciones.**
+  Asigne de 1 a 2 sesiones en el sprint para revisar y aprobar las contribuciones hechas por otros.
+  Si esto no está previsto en el evento, los sprints pueden terminar con una afluencia de material nuevo a medida que los colaboradores terminen lo que estaban trabajando al cerrar el evento.
+  Asegúrese de revisar cada contribución y, si es posible (y cuando corresponda), de incorporarla a la lección.
+  Esto permite a los colaboradores salir del evento con la sensación de haber logrado el sprint,
+  , y atar los cabos sueltos antes de emprender nuevas tareas para seguir desarrollando el material.
+  Si los participantes a los que originalmente se les asignó la revisión tuvieron que marcharse antes de la sesión de revisión,
+  los organizadores deberían delegar la tarea de revisión en aquellos que estén disponibles y dispuestos a ayudar a terminar el proceso de revisión a tiempo.
 
-- **Ask for feedback.**
-  Allocate a short feedback session before closing the event.
-  Feedback should be kept short and recorded anonymously via a feedback form or shared document (that does not require signing in).
-  Ask your participants to reflect on the event in terms of what worked and what can be improved.
+- **Pide opiniones.**
+  Asigne una breve sesión de comentarios antes de cerrar el evento.
+  Los comentarios deben ser breves y registrarse de forma anónima mediante un formulario de comentarios o un documento compartido (que no requiere iniciar sesión).
+  Pida a sus participantes que reflexionen sobre el evento en términos de lo que funcionó y lo que se puede mejorar.
 
-### During the Sprint: Recommendations for GitHub
+### Durante el Sprint: recomendaciones para GitHub
 
-- **Consider running a skill-up session for contributors.**
-  Depending on their previous experience with the platform, contributors may benefit from learning/being reminded how to use GitHub, working on branches/forks, and the associated tools on their local system.
-  Providing a session/resources on this will also make your sprint less intimidating for newcomers to lesson development, which may increase participation.
-  [GitPod](https://gitpod.io/) may offer a way for participants to contribute to the lesson without the need for setting up a local development environment.
-  As with the "primer" session mentioned above, this skill-up may fit best at the beginning of the sprint.
-  This can also run as a separate event that takes place in the days leading up to the full sprint.
+- **Considera la posibilidad de organizar una sesión de capacitación para los contribuidores.**
+  Según su experiencia previa con la plataforma, los colaboradores pueden beneficiarse si aprenden o se les recuerda cómo usar GitHub, trabajar en sucursales o bifurcaciones y las herramientas asociadas en su sistema local.
+  Proporcionar una sesión o recursos sobre este tema también hará que tu sprint sea menos intimidante para los recién llegados al desarrollo de las lecciones, lo que puede aumentar la participación.
+  [GitPod] (https://gitpod.io/) puede ofrecer a los participantes una forma de contribuir a la lección sin la necesidad de establecer un entorno de desarrollo local.
+  Al igual que en la sesión de «introducción» mencionada anteriormente, esta habilidad puede resultar mejor al principio del sprint.
+  También se puede ejecutar como un evento independiente que se lleva a cabo en los días previos al sprint completo.
 
-- **Flag pull requests as a draft and ready for review as you work.**
-  Opening draft pull requests early, while work on a task is ongoing, can help contributors understand where progress is being made and identify tasks/issues that still need to be tackled.
-  Marking pull requests as ready for review helps maintainers prioritise their focus during the sprint and maintains momentum by ensuring that completed work is merged into the lesson as soon as possible.
-  Opening draft pull requests is particularly important at the end of a sprint, to capture progress up to that point even if a task hasn't yet been completed.
+- **Marca las solicitudes de extracción como un borrador y listas para ser revisadas mientras trabajas.**
+  Abrir los borradores de las solicitudes de extracción de manera temprana, mientras se trabaja en una tarea, puede ayudar a los colaboradores a entender dónde se está avanzando e identificar las tareas o problemas que aún deben abordarse.
+  Marcar las solicitudes de cambios como listas para su revisión ayuda a los mantenedores a priorizar su enfoque durante el sprint y mantiene el impulso al garantizar que el trabajo completado se incorpore a la lección lo antes posible.
+  Abrir borradores de solicitudes de cambios es especialmente importante al final de un sprint, para registrar el progreso hasta ese momento, incluso si la tarea aún no se ha completado.
 
-- **Plan who will review pull requests.**
-  Make a plan for who will review each pull request (PR).
-  As a group, you can create a list of reviewers by subject so the person who opens the pull request knows who is interested and capable of reviewing and can request a review accordingly.
-  Alternatively, you may decide on a circle of reviewers. E.g. Aaliyah reviews Juan's PRs, Juan reviews Alex's PRs, and Alex reviews Aaliyah's PRs.
-  Another option might be to ask for a reviewer when planning who will do the task.
-  For particularly small groups where reviewing is more likely to become a bottleneck, or in cases where the main objective of the sprint is to create quantity rather than quality, you may decide it is acceptable for contributors to merge their own pull requests.
+- \*\*Planifica quién revisará las solicitudes de extracción. \*\*
+  Planifica quién revisará cada solicitud de extracción (PR).
+  Como grupo, pueden crear una lista de revisores por tema para que la persona que abra la solicitud de extracción sepa quién está interesado y es capaz de revisar y pueda solicitar una revisión en consecuencia.
+  Como alternativa, puede elegir un círculo de revisores. Por ejemplo. Aaliyah revisa las relaciones públicas de Juan, Juan revisa las relaciones públicas de Alex y Alex revisa las relaciones públicas de Aaliyah.
+  Otra opción podría ser solicitar un revisor al planificar quién realizará la tarea.
+  En el caso de grupos especialmente pequeños, en los que es más probable que la revisión se convierta en un obstáculo, o en los casos en los que el objetivo principal del sprint sea crear cantidad en lugar de calidad, puedes decidir que es aceptable que los colaboradores combinen sus propios pull requests.
 
-- **Link pull requests to open issues.**
-  Mentioning open issues in pull requests (even when a work in progress) informs people about which issues are being worked on.
-  As mentioned in the point above, this is particularly useful to ensure progress can continue on the lesson after the sprint has finished.
+- **Vincula las solicitudes de cambios a problemas abiertos.**
+  Mencionar las cuestiones pendientes en las solicitudes de incorporación de cambios (incluso cuando hay un trabajo en curso) informa a las personas sobre las cuestiones en las que se está trabajando.
+  Como se mencionó en el punto anterior, esto es particularmente útil para garantizar que el progreso de la lección pueda continuar una vez finalizado el sprint.
 
-- **Record contributions that do not (directly) result in commits.**
-  Some participants may be more comfortable writing material on a different platform e.g. Google Docs, which is later transferred to GitHub by someone else.
-  Make use of GitHub's [commit co-author](https://github.blog/2018-01-29-commit-together-with-co-authors/) feature where possible or,
-  if the author does not have a GitHub account, make sure their name and other details are included in your README, AUTHORS, or any other listing/metadata about contributors to the project
-  (`.zenodo.json`, `.allcontributorsrc`, etc).
+- **Registra las contribuciones que no se traduzcan (directamente) en confirmaciones.**
+  Es posible que algunos participantes se sientan más cómodos escribiendo material en una plataforma diferente, por ejemplo, Google Docs, que luego otra persona transfiere a GitHub.
+  Utiliza la función [commit co-author] (https://github.blog/2018-01-29-commit-together-with-co-authors/) de GitHub siempre que sea posible o,
+  si el autor no tiene una cuenta de GitHub, asegúrate de que su nombre y otros detalles estén incluidos en tu archivo README, AUTHORS o cualquier otro listado o metadato sobre los colaboradores del proyecto
+  (`.zenodo.json`, `.allcontributorsrc`, etc.).
 
-- **Review open pull requests.**
-  At the end of the sprint, organisers should ensure that any pull requests marked as ready for review are processed and (where appropriate) merged, so that these contributions are not forgotten or left to go stale before changes can be requested.
+- **Revisa las solicitudes de extracción abiertas.**
+  Al final del sprint, los organizadores deben asegurarse de que todas las solicitudes de extracción marcadas como listas para su revisión se procesen y (cuando proceda) se fusionen, de modo que estas contribuciones no se olviden ni queden obsoletas antes de que se puedan solicitar cambios.
 
-## After the Sprint
+## Tras el Sprint
 
-- **Celebrate the progress.**
-  Though lesson development is an iterative process, every contribution counts towards the completion of a lesson.
-  It is, therefore, important to celebrate the progress you and your colleagues make at the lesson development sprint.
-  Take a break (if you can) before meeting the organising committee for a debrief call.
+- **Celebra el progreso.**
+  Aunque el desarrollo de la lección es un proceso iterativo, cada contribución cuenta para completar una lección.
+  Por lo tanto, es importante celebrar el progreso que usted y sus colegas logren en el sprint de desarrollo de la lección.
+  Tómate un descanso (si puedes) antes de reunirte con el comité organizador para una llamada informativa.
 
-- **List completed and outstanding tasks.**
-  Create GitHub issues or share a document to highlight the status of different tasks.
-  Set a deadline for the completion of outstanding tasks to share online with all the contributors.
-  These will help you and other contributors understand the next steps when working together on the lesson as well as continue working on the lesson asynchronously.
+- \*\*Enumera las tareas finalizadas y pendientes. \*\*
+  Crea problemas en GitHub o comparte un documento para resaltar el estado de las diferentes tareas.
+  Establezca una fecha límite para completar las tareas pendientes para compartirlas en línea con todos los colaboradores.
+  Esto le ayudará a usted y a otros colaboradores a comprender los pasos siguientes cuando trabajen juntos en la lección, así como a continuar trabajando en la lección de forma asincrónica.
 
-- **Plan the next steps!**
-  Review the shared documents from the sprint and highlight successes and place for improvements to include in a report.
-  Feedback and reflections from running a sprint often inform a new set of changes and updates to be made in the event format or lesson material, discuss and document those for planning the next events.
-  Plan to host a periodic co-working call to keep collaborators engaged or schedule the next sprint to ensure that momentum is maintained on the lesson.
+- \*\* ¡Planifica los próximos pasos! \*\*
+  Revisa los documentos compartidos del sprint y resalta los éxitos y las mejoras necesarias para incluirlos en un informe.
+  Los comentarios y reflexiones sobre la ejecución de un sprint suelen servir de base para una nueva serie de cambios y actualizaciones que se deben realizar en el formato del evento o en el material de la lección, y se debaten y documentan para planificar los próximos eventos.
+  Planifica organizar una llamada de trabajo conjunto periódica para mantener el interés de los colaboradores o programa el próximo sprint para asegurarte de mantener el impulso de la lección.
 
-- **Write up a report and share it with your contributors.**
-  A summary of progress made and next steps (with links to open issues/work-in-progress pull requests) will help you and your contributors appreciate the progress made during your sprint, and encourage efforts on the lesson to continue.
-  Consider turning this overview into a blog post to share your experience and achievements with the wider community!
+- **Redacta un informe y compártelo con tus contribuidores.**
+  Un resumen del progreso realizado y de los próximos pasos (con enlaces a temas pendientes o solicitudes de cambios en curso) os ayudará a ti y a tus colaboradores a apreciar el progreso realizado durante el sprint y alentará a continuar con los esfuerzos de la lección.
+  ¡Considera convertir este resumen en una entrada de blog para compartir tu experiencia y tus logros con la comunidad en general!
 
-- **Contribute to these recommendations.**
-  While organising and running your sprint, did you find any useful resources or steps not already covered in this guide?
-  Do you have any advice or guidance for others who may follow these recommendations in future?
-  If so, please contribute back to improve this resource!
-  To tell us about changes you would like to see to these recommendations,
-  please email the authors (`tobyhodges@ carpentries.org`),
-  [open an issue](https://github.com/carpentries/docs.carpentries.org/issues/new)
-  or contribute your changes directly in a [new pull request](https://github.com/carpentries/docs.carpentries.org/pulls).
+- **Contribuye a estas recomendaciones.**
+  Al organizar y ejecutar tu sprint, ¿encontraste algún recurso o paso útil que no esté incluido en esta guía?
+  ¿Tiene algún consejo u orientación para otras personas que puedan seguir estas recomendaciones en el futuro?
+  Si es así, ¡contribuya para mejorar este recurso!
+  Para informarnos sobre los cambios que te gustaría ver en estas recomendaciones,
+  envía un correo electrónico a los autores (`tobyhodges@ carpentries.org`),
+  [abrir una edición] (https://github.com/carpentries/docs.carpentries.org/issues/new)
+  o contribuye con tus cambios directamente en un [nuevo pull request] (https://github.com/carpentries/docs.carpentries.org/pulls).
 
-### After the Sprint: Recommendations for GitHub
+### Tras el sprint: recomendaciones para GitHub
 
-- **Capture outstanding tasks in new issues on the lesson repository.**
-  You may also wish to assign these to specific contributors for follow up after the sprint.
+- **Captura las tareas pendientes en los nuevos números del repositorio de lecciones.**
+  También puedes asignarlas a colaboradores específicos para que las sigan después del sprint.
 
-- **Label issues to encourage asynchronous contributions.**
-  Issue labels, such as "help-wanted" and "good-first-issue," provide valuable information to potential contributors about where their contributions could be most valuable and how they could begin to get involved with developing your lesson.
-  Issues labelled "good first issue" will appear automatically on the `/contribute` page of your repository,
-  providing a quick overview of ways to get involved that have a low barrier for entry.
-  Other labels can be used in a similar way to automatically display listings of issues to potential contributors.
-  For example, The Carpentries publishes [a Help Wanted page](https://carpentries.org/help-wanted-issues/) that provides their community with an overview of open issues with the "help-wanted" label on many of their repositories.
+- **Etiquete las cuestiones para fomentar las contribuciones asincrónicas.**
+  Las etiquetas de publicación, como «se busca ayuda» y «el primer número es bueno», proporcionan información valiosa a los posibles colaboradores sobre dónde podrían ser más valiosas sus contribuciones y cómo podrían empezar a participar en el desarrollo de la lección.
+  Las publicaciones etiquetadas como «buen primer número» aparecerán automáticamente en la página `/contribute` de tu repositorio, y
+  proporcionará una visión general rápida de las formas de participar que tienen una barrera de entrada baja.
+  Se pueden usar otras etiquetas de manera similar para mostrar automáticamente las listas de temas a los posibles colaboradores.
+  Por ejemplo, The Carpentries publica [una página de búsqueda de ayuda] (https://carpentries.org/help-wanted-issues/) que ofrece a su comunidad una descripción general de los problemas pendientes con la etiqueta «se busca ayuda» en muchos de sus repositorios.
 
-- **Clean up branches on your repository.**
-  Sprints often leave behind a large number of merged branches that can be removed from the lesson repository.
-  Minimising the number of "stale" branches reduces clutter on your repository, allows contributors to name their branches without fear of an unintentional clash
-  and helps people working with local branches.
+- **Limpia las ramas de tu repositorio.** Los sprints
+  suelen dejar una gran cantidad de ramas fusionadas que se pueden eliminar del repositorio de lecciones.
+  Minimizar el número de sucursales «obsoletas» reduce el desorden en tu repositorio, permite a los colaboradores dar nombre a sus sucursales sin temor a que se produzca un conflicto involuntario
+  y ayuda a las personas que trabajan en las sucursales locales.
 
-## Tools and Resources
+## Herramientas y recursos
 
-- [Cuckoo](https://cuckoo.team/) is a **shared countdown timer** for collaborative co-working sessions.
-  Create a page and share the URL with your contributors; everyone connected to the page will be notified when the set countdown ends.
-  Shared timers such as this can be useful to help coordinate sprint sessions between check-ins.
-- **Shared note-taking** tools:
-  - [Etherpad](https://etherpad.org/) provides a relatively simple shared note-taking interface.
-    Useful features include colouring to differentiate contributions from individual participants, an integrated chat window, and line numbering.
-  - [HedgeDoc](https://hedgedoc.org/) (formerly CodiMD) provides an interface for collaborative writing in Markdown.
-    Useful features include a split-panel view for simultaneous editing and previewing, built-in support for concept mapping with [GraphViz](http://graphviz.org/) and [Mermaid.js](https://mermaid-js.github.io/mermaid/#/), and line numbering.
-    [The Carpentries provides a CodiMD instance for use in activities and events relating to their community](https://codimd.carpentries.org/), and [HackMD](https://hackmd.io/) and [Cryptpad](https://cryptpad.fr/code/) provide similar, free services to a general audience.
-  - [Google Docs](https://docs.google.com/) provides an interface for collaborative writing similar word processing software such as Microsoft Word.
-    Useful features include threaded comments, a mode for suggesting changes instead of directly editing the document, and visual formatting without the need for text markup.
-- [timeanddate.com](https://www.timeanddate.com/) provides many **services related to conversion between time zones**.
-  Useful features include a meeting planner suggesting suitable times for events with attendees in multiple regions, an event announcement system displaying the start time and date of an event converted to the visitor's locale, and a time zone converter to check what time it is right now in another location around the world.
-- [Google Calendar](https://calendar.google.com) and other **timezone-aware calendar applications** can be used to create entries for your event that will automatically display in the local time of the person viewing the page/entry.
-  Alongside listing event times in UTC with a link to timeanddate.com (see above), timezone-aware calendar events are essential to make your sprint inclusive to an international community.
-- The episode [_Lesson Design_](https://carpentries.github.io/lesson-development-training/lesson-design.html) of [The Carpentries _Collaborative Lesson Development Training_ curriculum](https://carpentries.github.io/lesson-development-training/) provides **an overview of the backwards design approach** recommended for lesson development by The Carpentries.
-  That training curriculum includes guidance on identifying the target audience of your lesson, defining meaningful learning objectives, designing appropriate examples and exercises, and the various stages of the lesson life cycle.
-- [Slack](https://slack.com/) provides a workplace **messaging platform** for threaded text discussion.
-  Useful features include multiple open and private channels, document and image sharing, and a wide range of plugins to interface with other systems.
-  Some features require a paid subscription.
-  Members of The Carpentries community can create a channel for discussion around development of their lesson in [the organisation's Slack workspace](https://slack-invite.carpentries.org/)
-- [Gitter](https://gitter.im/) is another **instant messaging service**.
-  It lacks some of the features of Slack but does not require a paid plan to remove limits on usage and it integrates well with GitHub, e.g. by allowing references to particular repositories, issues, and pull requests.
+- [Cuckoo] (https://cuckoo.team/) es un **temporizador de cuenta regresiva compartido** para sesiones de trabajo conjunto.
+  Crea una página y comparte la URL con tus colaboradores; todos los que estén conectados a la página recibirán una notificación cuando finalice la cuenta regresiva establecida.
+  Los temporizadores compartidos como este pueden resultar útiles para ayudar a coordinar las sesiones de sprint entre los registros.
+- **Herramientas para tomar notas compartidas**:
+  - [Etherpad] (https://etherpad.org/) proporciona una interfaz de toma de notas compartida relativamente simple.
+    Las funciones útiles incluyen la coloración para diferenciar las contribuciones de los participantes individuales, una ventana de chat integrada y la numeración de líneas.
+  - [HedgeDoc] (https://hedgedoc.org/) (anteriormente CodiMD) proporciona una interfaz para la escritura colaborativa en Markdown.
+    Las funciones útiles incluyen una vista de panel dividido para editar y previsualizar simultáneamente, soporte integrado para mapeo conceptual con [GraphViz] (http://graphviz.org/) y [Mermaid.js] (https://mermaid-js.github.io/mermaid/#/) y numeración de líneas.
+    [The Carpentries proporciona una instancia de CodiMD para usarla en actividades y eventos relacionados con su comunidad] (https://codimd.carpentries.org/), y [HackMD] (https://hackmd.io/) y [Cryptpad] (https://cryptpad.fr/code/) brindan servicios gratuitos similares para el público en general.
+  - [Google Docs] (https://docs.google.com/) proporciona una interfaz para la escritura colaborativa de software de procesamiento de textos similar, como Microsoft Word.
+    Las funciones útiles incluyen comentarios encadenados, un modo para sugerir cambios en lugar de editar directamente el documento y el formato visual sin necesidad de marcar el texto.
+- [timeanddate.com] (https://www.timeanddate.com/) proporciona muchos**servicios relacionados con la conversión entre zonas horarias**.
+  Las funciones útiles incluyen un planificador de reuniones que sugiere horarios adecuados para los eventos con asistentes de varias regiones, un sistema de anuncios de eventos que muestra la hora y la fecha de inicio de un evento convertidas a la ubicación del visitante y un conversor de zonas horarias para comprobar qué hora es ahora mismo en otro lugar del mundo.
+- Puedes usar [Google Calendar] (https://calendar.google.com) y otras **aplicaciones de calendario compatibles con zonas horarias** para crear entradas para tu evento que se mostrarán automáticamente en la hora local de la persona que esté viendo la página/entrada.
+  Además de incluir los horarios de los eventos en UTC con un enlace a timeanddate.com (ver más arriba), los eventos del calendario que tengan en cuenta las zonas horarias son esenciales para que tu sprint sea inclusivo para la comunidad internacional.
+- El episodio [_Lesson Design_] (https://carpentries.github.io/lesson-development-training/lesson-design.html) del [plan de estudios The Carpentries _Collaborative Lesson Development Training_] (https://carpentries.github.io/lesson-development-training/) ofrece **una descripción general del enfoque de diseño inverso** recomendado para el desarrollo de las lecciones por The Carpentries.
+  Ese plan de estudios de capacitación incluye orientación sobre la identificación del público objetivo de la lección, la definición de objetivos de aprendizaje significativos, el diseño de ejemplos y ejercicios apropiados y las distintas etapas del ciclo de vida de la lección.
+- [Slack] (https://slack.com/) proporciona una **plataforma de mensajería** en el lugar de trabajo para discusiones de texto en cadena.
+  Las funciones útiles incluyen múltiples canales abiertos y privados, el intercambio de documentos e imágenes y una amplia gama de complementos para interactuar con otros sistemas.
+  Algunas funciones requieren una suscripción de pago.
+  Los miembros de la comunidad de The Carpentries pueden crear un canal de debate sobre el desarrollo de su lección en [el espacio de trabajo de Slack de la organización] (https://slack-invite.carpentries.org/)
+- [Gitter] (https://gitter.im/) es otro **servicio de mensajería instantánea**.
+  Carece de algunas de las funciones de Slack, pero no requiere un plan de pago para eliminar los límites de uso y se integra bien con GitHub, por ejemplo, al permitir referencias a repositorios, problemas y solicitudes de cambios específicos.
 
-These and many other tools that could be useful for organising and running your sprint are also described in [the Tools for Remote Collaboration](https://book.the-turing-way.org/collaboration/collaboration/) chapter of [The Turing Way](https://book.the-turing-way.org/).
+Estas y muchas otras herramientas que podrían ser útiles para organizar y ejecutar tu sprint también se describen en el capítulo [Herramientas para la colaboración remota] (https://book.the-turing-way.org/collaboration/collaboration/) de [El estilo de Turing] (https://book.the-turing-way.org/).
 
-## Acknowledgments
+## Agradecimientos
 
-[These recommendations were originally developed in a separate GitHub repository](https://github.com/tobyhodges/lesson-sprint-recommendations) by
+[Estas recomendaciones se desarrollaron originalmente en un repositorio de GitHub independiente] (https://github.com/tobyhodges/lesson-sprint-recommendations) por
 Steve Crouch,
 Toby Hodges,
 Zhian Kamvar,
 Aleksandra Nenadic,
 Malvika Sharan,
 Sarah Stevens,
-and Emmy Tsang.
+y Emmy Tsang.
 
-Ideas, suggestions, and guidance were provided by
-Sarah Alidoost,
-Chris Erdmann,
+Sarah Alidoost
+, Chris Erdmann,
 Kristina Hettne,
-and Liz Stokes.
+y Liz Stokes proporcionaron ideas, sugerencias y orientación.
 
-## Further Reading
+## Lectura adicional
 
-- The [Guide for Collaboration](https://book.the-turing-way.org/collaboration/collaboration/) section of The Turing Way has many more recommendations and guides to help your team collaborate effectively. [Many other sections of the book](https://book.the-turing-way.org/) are also relevant.
-- The Turing Way's [process for organising and running a Book Dash](https://book.the-turing-way.org/community-handbook/bookdash/) has many similarities to the recommendations made here for lesson sprints. We recommend that you explore this resource, which also includes checklist and schedule templates that could fit a lesson sprint with some minor adjustments.
-- Greg Wilson's [Teaching Tech Together](https://teachtogether.tech) provides a more in-depth overview of the reverse design approach to lesson development as well as many useful pointers for teaching and collaborating.
-- [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/) is another valuable source of advice for writing and teaching lessons.
+- La sección [Guía para la colaboración] (https://book.the-turing-way.org/collaboration/collaboration/) de The Turing Way contiene muchas más recomendaciones y guías para ayudar a tu equipo a colaborar de forma eficaz. [Muchas otras secciones del libro] (https://book.the-turing-way.org/) también son relevantes.
+- El [proceso para organizar y ejecutar un Book Dash] de The Turing Way (https://book.the-turing-way.org/community-handbook/bookdash/) tiene muchas similitudes con las recomendaciones que se hacen aquí para los sprints de las lecciones. Le recomendamos que explore este recurso, que también incluye plantillas de listas de verificación y cronogramas que podrían adaptarse a un sprint de lección con algunos ajustes menores.
+- [Teaching Tech Together] (https://teachtogether.tech) de Greg Wilson ofrece una descripción más detallada del enfoque de diseño inverso para el desarrollo de las lecciones, así como muchos consejos útiles para enseñar y colaborar.
+- [El plan de estudios de formación de instructores de carpintería] (https://carpentries.github.io/instructor-training/) es otra valiosa fuente de consejos para escribir y enseñar lecciones.
