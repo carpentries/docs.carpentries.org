@@ -18,7 +18,7 @@ collaborate effectively in Git and GitHub.
 
 ## Roles and Responsibilities
 
-The Carpentries teaches 400–600 workshops each year, meaning our lesson
+The Carpentries teaches hundreds of workshops each year, meaning our lesson
 materials are being used practically every day for synchronous, guided
 learning. Making sure our lessons keep working without interruptions is
 therefore our number one goal for maintenance.
@@ -38,9 +38,9 @@ are to:
 
 -  Monitor the lesson repository and make sure that pull requests (PRs) and Issues are responded to promptly (even if that response is “sorry, this is out of scope”).
 -  Not introduce new errors into the lesson.
--  Quickly fix anything that is unambiguously an error or that    negatively affects workshop learners.
+-  Quickly fix anything that is unambiguously an error or that negatively affects workshop learners.
 -  Be receptive and welcoming to suggestions for improving the lessons.
--  Evaluate all contributions given The Carpentries pedagogical model:
+-  Evaluate all contributions using The Carpentries pedagogical model:
    -  Teach what is most relevant and useful for learners.
    -  Avoid unnecessary jargon and detailed explanations. Always ask
       yourself whether it is necessary for the learner.
@@ -51,15 +51,14 @@ are to:
 Maintainers are responsible for:
 
 -  Routinely:
-   -  Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
+   -  Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within a week.
    -  Quickly addressing issues and PRs tagged as “bug”s.
    -  Submitting Issues as they arise.
    -  Adhering to the Code of Conduct and alerting the Code of Conduct Committee to any potential violations.
-   -  Identifying potential new Maintainers based on their review   activity.
+   -  Identifying potential new Maintainers based on their review activity.
 
 -  Periodically:
    -  Helping prepare lessons for publication.
-   -  Bringing in updates to the lesson template.
 
 Maintainers represent The Carpentries community and should strive to
 embody The Carpentries philosophy, by:
@@ -68,15 +67,11 @@ embody The Carpentries philosophy, by:
    all contributors.
 -  Giving feedback to contributors using The Carpentries model:
 
-   -  Find what’s good. Be specific about improvements needed. Use
-      motivational language.
+   -  Find what’s good.
+   -  Be specific about improvements needed.
+   -  Use motivating language.
 
--  Evaluating lesson contributions in light of Carpentries pedagogical model:
-
-   -  Teach what’s most relevant and useful for learners.
-   -  Avoid getting bogged down in technical details.
-   -  Keep language motivating.
-   -  Emphasise the importance of continued learning and improvement.
+-  Evaluating lesson contributions in light of The Carpentries pedagogical model described above.
 
 ## Onboarding
 
@@ -87,16 +82,14 @@ The curriculum for onboarding new Maintainers is available as a {{'[Maintainer O
 
 ## Offboarding
 
-A yearly email with a one-question survey will be sent to Maintainers in
+A yearly email with a short survey will be sent to Maintainers in
 mid-to-late January. If the Maintainer responds “yes” to this survey,
 they will remain a Maintainer for the next year. If a Maintainer replies
 “no” or does not respond within a month of receiving the survey, they
 will become an alumnus Maintainer and their permissions to their
 repository will be revoked. Active Maintainer status can be restored at
 any time by contacting the Maintainer Community Lead. 
-
-[The proposal for yearly Maintainer check-ins](https://github.com/carpentries/maintainer-RFCs/issues/19) has
-more detailed information. If a Maintainer would like to step away from
+If a Maintainer would like to step away from
 the role outside this schedule, they should inform the Maintainer
 Community Lead and the other Maintainers on their lesson(s).
 
@@ -106,7 +99,7 @@ Community Lead and the other Maintainers on their lesson(s).
 
 {{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. To follow conversations relevant to this role, you should join the following channels:
 
--  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the Maintainer Community Lead.
+-  {{'[The invite-only #maintainers channel]({}/archives/C8H5LN44V)'.format(slack)}} on The Carpentries Slack workspace is a platform for the whole community to ask questions and engage in discussions around the subject of lesson maintenance. If you are a Maintainer and do not already have access to this channel, please contact the [Curriculum Team](mailto:curriculum@carpentries.org).
 -  We recommend that Lesson Maintainers browse existing channels in the Slack workspace, for any that are relevant to the topic/domain of their lesson.
 -  It can also be helpful to create a new channel for your lesson, as a space for you to discuss the development process with collaborators, and for community members to ask questions about the lesson.
 
@@ -114,8 +107,9 @@ If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack
 
 ### Community Calendar
 
-Once scheduled, all Maintainer Community Calls are listed on our
-{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. You can add relevant events to your calendar from there by clicking on the event you would like to attend.
+Maintainer monthly calls are listed on our
+{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. If you are planning to attend an upcoming meeting, please [register in Pretix](https://pretix.carpentries.org/lesson-maintainers/lesson-maintainers-meetings/). 
+Pretix will automatically calculate the event time in your local time zone and will send you a calendar invite and event reminders. 
 
 ### Collaborative Notes
 
@@ -127,17 +121,13 @@ The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a col
 
 ### GitHub
 
--  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to record minutes from the Maintainer Community Calls and helpful tips on flight rules.
--  [Maintainer Requests for Comments (RFCs)](https://github.com/carpentries/maintainer-RFCs) Requests for comment for technology changes and other issues affecting lesson Maintainers.
-
-
+-  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to read minutes from the Maintainer Community Calls and helpful tips on flight rules.
 
 ### TopicBox
 
 You can access The Carpentries mailing lists from
 {{'[Topicbox]({}/latest)'.format(topicbox)}}. Below is a list
-of those relevant to the activities and programs covered by this
-handbook.
+of those most relevant to Maintainers.
 
 - {{'[The Maintainers mailing list]({}/groups/maintainers)'.format(topicbox)}} is used for announcements relevant to Lesson Maintainers.
 
@@ -147,26 +137,6 @@ you have done this, you can scroll through the list of groups and click
 those mailing lists requiring administrator approval).  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
 ## Step-by-Step Guides
-
-### Keeping the Lesson Infrastructure Up-to-date on Your Repository
-New versions of the lesson infrastructure are released periodically, to fix bugs and introduce new features. 
-All of The Carpentries lesson repositories are configured to receive automated pull requests soon after release. 
-These pull requests will be opened by the `carpentries-bot` account, with a title similar to “Workflows to Version x.y.z”. 
-To ensure that your lesson site builds with the latest version of the Workbench, please merge these pull requests as soon as possible after they have been opened.
-Lessons based on R Markdown source files will also receive pull requests from the `carpentries-bot` account to update the versions of the R packages used in the lesson, titled “Update NN packages” where NN is the number of packages. 
-Similarly to the workflow updates, these pull requests should be merged quickly to ensure that the lesson builds correctly.
-
-The GitHub Actions workflows that create these pull requests are configured to run once per week. 
-Sometimes you might want to trigger the process before the next scheduled run, e.g. if the new version of the workflows or packages will fix a problem that is preventing your lesson from building. 
-To trigger these workflows manually, visit the Actions tab of your repository and select the workflow from the list on the left of the screen: both workflows include ‘Maintain’ in their name.
-
-![The side menu of a lesson repository's Actions tab, annotated to highlight the location of the two Maintain workflows](../img/maintain-workflows.png)
-
-After selecting the workflow you want to run, select ‘run workflow’ near the top right corner of the history of workflow runs. You can leave the default values in the small dropdown menu unchanged, and select ‘Run Workflow’ again.
-
-![The interface to manually run a workflow, annotated to highlight the most relevant part of the interface](../img/run-workflow.png)
-
-If this process does not work, or you receive error messages from the workflow and it fails to complete, contact the [Curriculum Team](mailto:curriculum@carpentries.org) and/or ask for help in the {{'[workbench channel on Slack]({}/archives/C03DEQ5T2DA)'.format(slack)}}.
 
 ### Using Issue Labels to Promote Collaboration
 
@@ -182,8 +152,8 @@ The **“help wanted”** label should be used to highlight issues with
 which you would welcome additional help. The Carpentries website
 includes {{'[a Help Wanted page]({}/lessons/help_wanted)'.format(carpentries_website)}}, which can
 automatically list every issue labelled “help wanted” on repositories
-from The Carpentries, Software Carpentry, Data Carpentry, Library
-Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
+from The Carpentries, Data Carpentry, HPC Carpentry, Library
+Carpentry, Software Carpentry, CarpentriesLab, and The Carpentries Incubator. Find out how
 to include issues from your lesson repository on the Help Wanted page by
 reading the  {{'[information for Maintainers]({}/lessons/help_wanted#information-for-maintainers)'.format(carpentries_website)}}
 on the page itself.
@@ -202,7 +172,7 @@ URL]/contribute` (example: <https://github.com/swcarpentry/r-novice-gapminder/co
 
 If you plan to temporarily step away from the role of Maintainer,
 e.g. parental leave, exam season, etc, it can be helpful to your fellow
-lesson Maintainers and potential contributors to let them know. Here are
+Maintainers and potential contributors to let them know. Here are
 some steps you can take to notify the community about your temporary
 absence/unavailability:
 
@@ -228,7 +198,7 @@ absence/unavailability:
 
    7. Send them an email or a direct message on Slack.
    8. If you need help finding contact information for any of your
-      fellow Maintainers, contact the Maintainer Community Lead.
+      fellow Maintainers, contact the [Curriculum Team](mailto:curriculum@carpentries.org).
 
 
 ## Resources
@@ -236,13 +206,13 @@ absence/unavailability:
 ### [Maintainer Onboarding Curriculum](https://carpentries.github.io/maintainer-onboarding/)
 
 The curriculum used at Maintainer Onboarding. This resource can be a
-helpful reference for Maintainers after they have completed onboarding. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
+helpful reference for Maintainers after they have completed onboarding. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/03-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/02-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
 
 ### [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/)
 
 Documentation for The Carpentries Workbench, open source infrastructure
 for lesson websites. The documentation explains how to install the
-Workbench so that Lesson Maintainers can edit and preview their lessons
+Workbench so that Maintainers can edit and preview their lessons
 on their computer, how to initialise a new lesson and use the
 various elements of the lesson template, and how to keep up to date with
 the latest changes to the infrastructure.
@@ -265,25 +235,19 @@ A description of how to prepare a lesson release and publish it to Zenodo.
 **Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
 The Curriculum Team will coordinate this process in the coming months.
 
-
-### [Lesson Developer Handbook](/handbooks/lesson_developers.md)
-
-The handbook for community members developing new lessons includes information, guidance, and further resources that may also be interesting to Maintainers.
-
-
 ### [Collaborative Lesson Development Training Curriculum](https://carpentries.github.io/lesson-development-training/)
 
 A lesson designed to teach skills and good practices in lesson design,
 lesson website development, and collaboration via GitHub. Community
-members can apply to join this training, and/or follow the curriculum in
-their own time.
+members can follow the curriculum in their own time, or indicate interest in join a training session 
+by emailing the [Curriculum Team](mailto:curriculum@carpentries.org).
 
 
 ## FAQ
 
 ### When Should I Merge My Own Pull Request?
 In general, we recommend that Maintainers wait for an approving review before any pull request is merged.
-However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes straight away.
+However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes right away.
 
 
 #### What to Do If Other Maintainers Do Not Respond?
@@ -302,7 +266,7 @@ It is common in open source projects for community members to start work on some
 One result can be open but incomplete pull requests, e.g. marked as a draft, or with reviewer comments/suggested changes left unaddressed. 
 Another is issue threads that somebody has responded to, indicating that they plan to fix it, but that no pull request has appeared from them since.
 
-Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other would-be contributors from working on an issue or creating an equivalent pull request. 
+Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other potential contributors from working on an issue or creating an equivalent pull request. 
 Similarly, not wanting to "step on the toes" of their contributors, Maintainers are often unsure about or unwilling to "take over" an unfinished pull request e.g. by unilaterally making the changes that are required themselves before merging.
 The recommendations below are designed to address these issues, establishing a set of "social norms" for The Carpentries community that allow for progress to be made on our repositories while reflecting our [core values][values] -- especially that we _value all contributions_.
 
