@@ -59,7 +59,6 @@ Les responsables de la maintenance sont chargés de :
 
 - Périodiquement :
   - Aider à préparer les leçons en vue de leur publication.
-  - Apporter des mises à jour au modèle de leçon.
 
 Les responsables représentent la communauté The Carpentries et devraient s'efforcer de faire en sorte que
 incarne la philosophie de The Carpentries en :
@@ -69,15 +68,11 @@ incarne la philosophie de The Carpentries en :
 
 - Faire part de leurs commentaires aux contributeurs en utilisant le modèle The Carpentries :
 
-  - Trouvez ce qui est bon. Soyez précis en ce qui concerne les améliorations nécessaires. Utilisez le langage de motivation
-    .
+  - Trouvez ce qui est bon.
+  - Soyez précis en ce qui concerne les améliorations nécessaires.
+  - Use motivating language.
 
 - Évaluation des contributions aux leçons à la lumière du modèle pédagogique de Carpentries :
-
-  - Enseignez ce qui est le plus pertinent et le plus utile pour les apprenants.
-  - Évitez de vous enliser dans les détails techniques.
-  - Faites en sorte que le langage soit motivant.
-  - Soulignez l'importance de l'apprentissage et de l'amélioration continus.
 
 ## Intégration
 
@@ -95,9 +90,7 @@ ou ne répond pas dans le mois suivant la réception de l'enquête, il
 deviendra un ancien mainteneur et ses autorisations sur son référentiel
 seront révoquées. Le statut de mainteneur actif peut être rétabli à tout moment à
 en contactant le responsable de la communauté des mainteneurs.
-
-[La proposition pour les enregistrements annuels des mainteneurs] (https://github.com/carpentries/maintainer-RFCs/issues/19) contient des informations plus détaillées sur
-. Si un responsable souhaite quitter le rôle
+Si un responsable souhaite quitter le rôle
 en dehors de ce calendrier, il doit informer le responsable de la communauté
 du responsable de la communauté et les autres mainteneurs de ses leçons.
 
@@ -107,7 +100,7 @@ du responsable de la communauté et les autres mainteneurs de ses leçons.
 
 {{'[Rejoignez l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}}. Pour suivre les conversations relatives à ce rôle, vous devez rejoindre les canaux suivants :
 
-- {{'[The invite-only #maintainers channel] ({}/archives/C8H5LN44V) '.format (slack)}} sur l'espace de travail The Carpentries Slack est une plateforme permettant à l'ensemble de la communauté de poser des questions et de participer à des discussions sur le thème de la maintenance des leçons. Si vous êtes mainteneur et que vous n'avez pas encore accès à cette chaîne, veuillez contacter le responsable de la communauté des mainteneurs.
+- {{'[The invite-only #maintainers channel] ({}/archives/C8H5LN44V) '.format (slack)}} sur l'espace de travail The Carpentries Slack est une plateforme permettant à l'ensemble de la communauté de poser des questions et de participer à des discussions sur le thème de la maintenance des leçons. If you are a Maintainer and do not already have access to this channel, please contact the [Curriculum Team](mailto:curriculum@carpentries.org).
 - Nous recommandons aux responsables des leçons de parcourir les chaînes existantes dans l'espace de travail Slack pour trouver celles qui sont pertinentes pour le sujet/le domaine de leur leçon.
 - Il peut également être utile de créer une nouvelle chaîne pour votre leçon, afin de vous permettre de discuter du processus de développement avec vos collaborateurs et de permettre aux membres de la communauté de poser des questions sur la leçon.
 
@@ -115,8 +108,9 @@ Si vous utilisez Slack pour la première fois, consultez notre {{"[Slack Guide] 
 
 ### Calendrier communautaire
 
-Une fois planifiés, tous les appels à la communauté des mainteneurs sont répertoriés sur notre
-{{'[Calendrier communautaire] ({}/community/events/) '.format (carpentries_website)}}. Vous pouvez ajouter des événements pertinents à votre calendrier à partir de là en cliquant sur l'événement auquel vous souhaitez participer.
+Maintainer monthly calls are listed on our
+{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. If you are planning to attend an upcoming meeting, please [register in Pretix](https://pretix.carpentries.org/lesson-maintainers/lesson-maintainers-meetings/).
+Pretix will automatically calculate the event time in your local time zone and will send you a calendar invite and event reminders.
 
 ### Notes collaboratives
 
@@ -128,15 +122,13 @@ The Carpentries utilise [Etherpad] (/resources/communications/etherpads.md) comm
 
 ### GitHub
 
-- [Ressources pour les mainteneurs] (https://github.com/carpentries/maintainer-resources) : un endroit pour enregistrer les minutes des appels de la communauté des mainteneurs et des conseils utiles sur les règles de vol.
-- [Demandes de commentaires des responsables (RFC)] (https://github.com/carpentries/maintainer-RFCs) Demandes de commentaires concernant des changements technologiques et d'autres problèmes affectant les responsables des leçons.
+- [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to read minutes from the Maintainer Community Calls and helpful tips on flight rules.
 
 ### Boîte à thème
 
 Vous pouvez accéder aux listes de diffusion de The Carpentries depuis
-{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Vous trouverez ci-dessous une liste
-de ceux qui concernent les activités et les programmes couverts par ce manuel
-.
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Below is a list
+of those most relevant to Maintainers.
 
 - {{'[La liste de diffusion des responsables] ({}/groups/maintainers) '.format (topicbox)}} est utilisée pour les annonces concernant les responsables des leçons.
 
@@ -146,27 +138,6 @@ terminé, vous pouvez faire défiler la liste des groupes et cliquer sur
 , les listes de diffusion nécessitant l'approbation de l'administrateur).  Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
 
 ## Guides étape par étape
-
-### Maintien à jour de l'infrastructure des leçons dans votre référentiel
-
-De nouvelles versions de l'infrastructure des leçons sont publiées périodiquement pour corriger les bogues et introduire de nouvelles fonctionnalités.
-Tous les référentiels de leçons de The Carpentries sont configurés pour recevoir des demandes d'extraction automatisées peu après leur sortie.
-Ces pull requests seront ouvertes par le compte « carpentries-bot », avec un titre similaire à « Workflows to Version x.y.z ».
-Pour vous assurer que votre site de cours est construit avec la dernière version du Workbench, veuillez fusionner ces pull requests dès que possible après leur ouverture.
-Les leçons basées sur les fichiers sources de R Markdown recevront également des demandes d'extraction du compte carpentries-bot pour mettre à jour les versions des packages R utilisés dans la leçon, intitulée « Mettre à jour les packages NN » où NN est le nombre de packages.
-À l'instar des mises à jour du flux de travail, ces pull requests doivent être fusionnées rapidement pour garantir que la leçon se construit correctement.
-
-Les flux de travail GitHub Actions qui créent ces pull requests sont configurés pour être exécutés une fois par semaine.
-Parfois, vous souhaiterez peut-être déclencher le processus avant la prochaine exécution planifiée, par exemple si la nouvelle version des flux de travail ou des packages résout un problème qui empêche la création de votre leçon.
-Pour déclencher ces flux de travail manuellement, rendez-vous dans l'onglet Actions de votre référentiel et sélectionnez le flux de travail dans la liste à gauche de l'écran : les deux flux de travail incluent « Maintenir » dans leur nom.
-
-! [Le menu latéral de l'onglet Actions d'un référentiel de leçons, annoté pour mettre en évidence l'emplacement des deux flux de travail de maintenance] (../img/maintain-workflows.png)
-
-Après avoir sélectionné le flux de travail que vous souhaitez exécuter, sélectionnez « Exécuter le flux de travail » dans le coin supérieur droit de l'historique des exécutions du flux de travail. Vous pouvez laisser les valeurs par défaut inchangées dans le petit menu déroulant et sélectionner à nouveau « Exécuter le flux de travail ».
-
-! [L'interface pour exécuter manuellement un flux de travail, annotée pour mettre en évidence la partie la plus pertinente de l'interface] (../img/run-workflow.png)
-
-Si ce processus ne fonctionne pas, ou si vous recevez des messages d'erreur provenant du flux de travail et qu'il échoue, contactez [l'équipe chargée du programme] (mailto:curriculum@carpentries.org) et/ou demandez de l'aide sur le {{'[workbench channel on Slack] ({}/archives/C03DEQ5T2DA) '.format (slack)}}.
 
 ### Utiliser les libellés des numéros pour promouvoir la collaboration
 
@@ -179,11 +150,7 @@ peuvent être déployés pour augmenter la visibilité de votre leçon et encour
 à contribuer à son développement.
 
 L'étiquette \*\* « help wanted » \*\* doit être utilisée pour mettre en évidence les problèmes liés à
-pour lesquels vous souhaiteriez obtenir une aide supplémentaire. Le site web de Carpentries
-inclut {{'[a Help Wanted page] ({}/lessons/help_wanted) '.format (carpentries_website)}}, qui peut automatiquement répertorier tous les problèmes étiquetés « aide recherchée » sur les référentiels
-de The Carpentries, Software Carpentry, Data Carpentry, Library
-Carpentry, CarpentriesLab et The Carpentries Incubator.
-Découvrez comment
+pour lesquels vous souhaiteriez obtenir une aide supplémentaire. Parfois, vous souhaiterez peut-être déclencher le processus avant la prochaine exécution planifiée, par exemple si la nouvelle version des flux de travail ou des packages résout un problème qui empêche la création de votre leçon. Découvrez comment
 peut inclure les problèmes de votre référentiel de leçons sur la page Help Wanted en lisant le {{'[information pour les mainteneurs] ({}/lessons/help_wanted#information-for-maintainers) '.format (carpentries_website)}}
 sur la page elle-même.
 
@@ -198,9 +165,9 @@ URL] /contribute` (exemple : <https://github.com/swcarpentry/r-novice-gapminder
 
 ### Informer les membres de la communauté au sujet d'une période d'absence
 
-Si vous envisagez de vous retirer temporairement du rôle de mainteneur,
-, par exemple en cas de congé parental, de saison des examens, etc., il peut être utile à vos collègues responsables de la maintenance de la leçon
-et aux contributeurs potentiels de les en informer. Voici quelques étapes que vous pouvez suivre pour informer la communauté de votre absence/indisponibilité temporaire de
+If you plan to temporarily step away from the role of Maintainer,
+e.g. parental leave, exam season, etc, it can be helpful to your fellow
+Maintainers and potential contributors to let them know. Voici quelques étapes que vous pouvez suivre pour informer la communauté de votre absence/indisponibilité temporaire de
  :
 
 1. Définissez un statut et marquez-vous comme « occupé » sur GitHub :
@@ -224,24 +191,24 @@ et aux contributeurs potentiels de les en informer. Voici quelques étapes que v
 2. Informez vos co-mainteneurs :
 
    7. Envoyez-leur un e-mail ou un message direct sur Slack.
-   8. Si vous avez besoin d'aide pour trouver les coordonnées de l'un de vos collègues mainteneurs
-      , contactez le responsable de la communauté des mainteneurs.
+   8. If you need help finding contact information for any of your
+      fellow Maintainers, contact the [Curriculum Team](mailto:curriculum@carpentries.org).
 
 ## Ressources
 
 ### [Programme d'intégration des mainteneurs] (https://carpentries.github.io/maintainer-onboarding/)
 
 Le programme utilisé lors de Maintainer Onboarding. Cette ressource peut être une référence
-utile pour les mainteneurs une fois leur intégration terminée. Il comprend [des conseils pour gérer les problèmes sur un référentiel] (https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), des conseils pour [identifier l'équipe chargée du programme en cas de problèmes et de demandes d'extraction] (https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), et de nombreuses autres informations utiles auxquelles vous souhaiterez peut-être revenir après l'intégration.
+utile pour les mainteneurs une fois leur intégration terminée. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/03-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/02-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
 
 ### [Présentation de The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/)
 
 Documentation pour The Carpentries Workbench, infrastructure open source
-pour les sites Web de cours. La documentation explique comment installer le Workbench
-afin que les responsables de leçons puissent modifier et prévisualiser leurs leçons
-sur leur ordinateur, comment initialiser une nouvelle leçon et utiliser les différents éléments
-du modèle de leçon, et comment se tenir au courant avec
-des dernières modifications apportées à l'infrastructure.
+pour les sites Web de cours. The documentation explains how to install the
+Workbench so that Maintainers can edit and preview their lessons
+on their computer, how to initialise a new lesson and use the
+various elements of the lesson template, and how to keep up to date with
+the latest changes to the infrastructure.
 
 ### [Rubrique de consultation du Comité consultatif sur les programmes] (/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
 
@@ -261,23 +228,21 @@ Description de la façon de préparer un communiqué de leçon et de le publier 
 **Notez que les responsables des cours de menuiserie de données, de menuiserie de bibliothèque et de menuiserie logicielle ne devraient pas publier de leçons pour l'instant.**
 L'équipe chargée du programme coordonnera ce processus dans les mois à venir.
 
-### [Manuel du développeur de leçons] (/handbooks/lesson_developers.md)
-
-Le manuel destiné aux membres de la communauté qui élaborent de nouvelles leçons comprend des informations, des conseils et d'autres ressources qui peuvent également intéresser les mainteneurs.
-
 ### [Programme de formation pour l'élaboration de leçons en collaboration] (https://carpentries.github.io/lesson-development-training/)
 
 Une leçon conçue pour enseigner les compétences et les bonnes pratiques en matière de conception de leçons, de développement de sites Web de leçons
-et de collaboration via GitHub. Les membres de la communauté
-peuvent s'inscrire pour participer à cette formation et/ou suivre le programme en
-à leur rythme.
+et de collaboration via GitHub. La documentation explique comment installer le Workbench
+afin que les responsables de leçons puissent modifier et prévisualiser leurs leçons
+sur leur ordinateur, comment initialiser une nouvelle leçon et utiliser les différents éléments
+du modèle de leçon, et comment se tenir au courant avec
+des dernières modifications apportées à l'infrastructure.
 
 ## FAQ
 
 ### Quand dois-je fusionner ma propre pull request ?
 
 En général, nous recommandons aux responsables d'attendre un examen d'approbation avant de fusionner une pull request.
-Cependant, si les modifications sont minimes et corrigent quelque chose qui est incontestablement cassé dans la leçon, par exemple un lien cassé, une syntaxe incorrecte ou similaire, vous pouvez fusionner vos propres modifications immédiatement.
+However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes right away.
 
 #### Que faire si les autres responsables ne répondent pas ?
 
@@ -297,7 +262,7 @@ Dans les projets open source, il est courant que les membres de la communauté c
 L'un des résultats peut être des pull requests ouvertes mais incomplètes, par exemple marquées comme brouillon, ou dont les commentaires des évaluateurs ou les modifications suggérées ne sont pas pris en compte.
 Une autre concerne les fils de discussion auxquels quelqu'un a répondu, indiquant qu'il prévoyait de le résoudre, mais qu'aucune pull request n'est apparue de sa part depuis.
 
-Bien qu'ils soient motivés par de bonnes intentions, ces comportements peuvent avoir pour effet regrettable de décourager d'autres contributeurs potentiels de travailler sur un problème ou de créer une pull request équivalente.
+Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other potential contributors from working on an issue or creating an equivalent pull request.
 De même, ne voulant pas « marcher sur les pieds » de leurs contributeurs, les responsables ne sont souvent pas certains ou peu disposés à « prendre en charge » une pull request inachevée, par exemple en apportant unilatéralement les modifications nécessaires eux-mêmes avant la fusion.
 Les recommandations ci-dessous visent à résoudre ces problèmes, en établissant un ensemble de « normes sociales » pour la communauté The Carpentries qui permettent de progresser sur nos référentiels tout en reflétant nos \[valeurs fondamentales] \[valeurs], en particulier le fait que nous _valorisons toutes les contributions_.
 
