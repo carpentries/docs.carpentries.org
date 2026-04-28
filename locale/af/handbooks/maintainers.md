@@ -59,7 +59,6 @@ Onderhouders is verantwoordelik vir:
 
 - Periodiek:
   - Help om lesse voor te berei vir publikasie.
-  - Bring opdaterings na die lessjabloon in.
 
 Onderhouders verteenwoordig The Carpentries -gemeenskap en moet daarna streef om
 die Carpentries-filosofie te beliggaam deur:
@@ -69,15 +68,11 @@ die Carpentries-filosofie te beliggaam deur:
 
 - Gee terugvoer aan bydraers met behulp van The Carpentries-model:
 
-  - Vind wat goed is. Wees spesifiek oor verbeterings wat nodig is. Gebruik
-    motiveringstaal.
+  - Vind wat goed is.
+  - Wees spesifiek oor verbeterings wat nodig is.
+  - Use motivating language.
 
 - Evaluering van lesbydraes in die lig van Carpentries -pedagogiese model:
-
-  - Leer wat die belangrikste en nuttigste is vir leerders.
-  - Vermy om in tegniese besonderhede vasgevang te raak.
-  - Hou taal motiverend.
-  - Beklemtoon die belangrikheid van voortgesette leer en verbetering.
 
 ## Onboord
 
@@ -95,9 +90,7 @@ sal hulle 'n Onderhouder vir die volgende jaar bly. As 'n Onderhouder
 'n alumnus Onderhouder word en hul toestemmings vir hul
 -bewaarplek sal herroep word. Aktiewe Onderhouderstatus kan enige tyd by
 herstel word deur die Maintainer Community Lead te kontak.
-
-[Die voorstel vir jaarlikse onderhouder-inskrywings] (https://github.com/carpentries/maintainer-RFCs/issues/19) bevat
-meer gedetailleerde inligting. As 'n Onderhouder van
+As 'n Onderhouder van
 die rol buite hierdie skedule wil wegstap, moet hulle die Onderhouder
 Community Lead en die ander Onderhouders oor hul les (s) in kennis stel.
 
@@ -107,7 +100,7 @@ Community Lead en die ander Onderhouders oor hul les (s) in kennis stel.
 
 {{'[Sluit aan by die Carpentries Slack werkruimte] ({}) '.format (slack_invite)}}. Om gesprekke wat relevant is vir hierdie rol te volg, moet u by die volgende kanale aansluit:
 
-- {{'[Die uitnodigings-slegs #maintainers -kanaal] ({}/archives/C8H5LN44V) '.format (slack)}} op The Carpentries Slack werkruimte is 'n platform vir die hele gemeenskap om vrae te stel en in besprekings oor die onderwerp van lesinstandhouding deel te neem. As u 'n Onderhouder is en nie reeds toegang tot hierdie kanaal het nie, kontak asseblief die Maintainer Community Lead.
+- {{'[Die uitnodigings-slegs #maintainers -kanaal] ({}/archives/C8H5LN44V) '.format (slack)}} op The Carpentries Slack werkruimte is 'n platform vir die hele gemeenskap om vrae te stel en in besprekings oor die onderwerp van lesinstandhouding deel te neem. If you are a Maintainer and do not already have access to this channel, please contact the [Curriculum Team](mailto:curriculum@carpentries.org).
 - Ons beveel aan dat Lesonderhouders deur bestaande kanale in die Slack-werkruimte blaai, vir enige wat relevant is vir die onderwerp/domein van hul les.
 - Dit kan ook nuttig wees om 'n nuwe kanaal vir u les te skep, as 'n ruimte vir u om die ontwikkelingsproses met medewerkers te bespreek, en vir gemeenskapslede om vrae oor die les te stel.
 
@@ -115,8 +108,9 @@ As jy nuut is by Slack, kyk asseblief na ons {{"[Slack Guide] ({})” .format (s
 
 ### Gemeenskapskalender
 
-Sodra dit geskeduleer is, word alle Maintainer Community Oproepe op ons
-{{'[Gemeenskapskalender] ({}/community/events/) '.format (carpentries_website)}} gelys. U kan van daar vanaf relevante geleenthede by u kalender voeg deur op die geleentheid te klik wat u wil bywoon.
+Maintainer monthly calls are listed on our
+{{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. If you are planning to attend an upcoming meeting, please [register in Pretix](https://pretix.carpentries.org/lesson-maintainers/lesson-maintainers-meetings/).
+Pretix will automatically calculate the event time in your local time zone and will send you a calendar invite and event reminders.
 
 ### Samewerkende notas
 
@@ -128,15 +122,13 @@ Die Carpentries gebruik [Etherpad] (/resources/communications/etherpads.md) as '
 
 ### GitHub
 
-- [Onderhoudbronne] (https://github.com/carpentries/maintainer-resources): 'n plek om minute op te teken vanaf die Maintainer Community Oproepe en nuttige wenke oor vlugreëls.
-- [Onderhoudersoeke vir kommentaar (RFC's)] (https://github.com/carpentries/maintainer-RFCs) Versoeke om kommentaar vir tegnologieveranderinge en ander kwessies wat lesonderhouders beïnvloed.
+- [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to read minutes from the Maintainer Community Calls and helpful tips on flight rules.
 
 ### Onderwerpaksie
 
 U kan toegang tot The Carpentries -poslyste verkry vanaf
-{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Hieronder is 'n lys
-van diegene wat relevant is vir die aktiwiteite en programme wat deur hierdie
-handboek gedek word.
+{{'[Topicbox] ({}/latest) '.format (topicbox)}}. Below is a list
+of those most relevant to Maintainers.
 
 - {{'[The Maintainers -poslys] ({}/groups/maintainers) '.format (topicbox)}} word gebruik vir aankondigings wat relevant is vir lesonderhouders.
 
@@ -146,27 +138,6 @@ klik “Sluit aan by die gesprek” (vir oop pos) of “Versoek om aan te sluit�
 die poslyste wat administrateur goedkeuring vereis).  As jy nuut is by Topicbox, kyk asseblief na ons {{"[Topicbox Guide] ({})” .format (topicbox_guide)}}.
 
 ## Stap-vir-stap
-
-### Hou die lesinfrastruktuur op hoogte op u bewaarplek
-
-Nuwe weergawes van die lesinfrastruktuur word gereeld vrygestel om foute op te los en nuwe funksies bekend te stel.
-Al die Carpentries-lesbewaarplekke is ingestel om outomatiese trekversoeke kort na vrystelling te ontvang.
-Hierdie trekversoeke sal deur die `carpentries-bot` -rekening oopgemaak word, met 'n titel soortgelyk aan “Workflows to Version x.y.z”.
-Om te verseker dat u leswebwerf bou met die nuutste weergawe van die Workbench, voeg asseblief hierdie trekversoeke so gou as moontlik saam nadat dit oopgemaak is.
-Lesse gebaseer op R Markdown-bronlêers sal ook trekversoeke van die `carpentries-bot` -rekening ontvang om die weergawes van die R-pakkette wat in die les gebruik word, op te dateer, getiteld “Update NN-pakkette” waar NN die aantal pakkette is.
-Net soos die werkvloeiopdaterings moet hierdie trekversoeke vinnig saamgesmelt word om te verseker dat die les korrek bou.
-
-Die GitHub Actions -werkvloei wat hierdie trekversoeke skep, is gekonfigureer om een keer per week uit te voer.
-Soms wil u dalk die proses aktiveer voor die volgende geskeduleerde uitloop, bv. as die nuwe weergawe van die werkstrome of pakkette 'n probleem oplos wat verhoed dat u les bou.
-Om hierdie werkstrome handmatig te aktiveer, besoek die oortjie Aksies van u bewaarplek en kies die werkvloei uit die lys aan die linkerkant van die skerm: beide werkvloei sluit 'Handhaaf' in hul naam in.
-
-! [Die symenu van 'n lesbewaarplek se oortjie Aksies, geannoteer om die ligging van die twee Handhaaf werkvloei uit te lig] (../img/maintain-workflows.png)
-
-Nadat u die werkvloei gekies het wat u wil uitvoer, kies 'voer werkvloei' naby die regter boonste hoek van die geskiedenis van werkvloei. U kan die standaardwaardes in die klein aftreppelmenu onveranderd laat en weer 'Begin werkvloei' kies.
-
-! [Die koppelvlak om 'n werkvloei handmatig uit te voer, geannoteer om die mees relevante deel van die koppelvlak uit te lig] (../img/run-workflow.png)
-
-As hierdie proses nie werk nie, of u foutboodskappe van die werkvloei ontvang en dit nie voltooi nie, kontak die [Kurrikulumspan] (mailto:curriculum@carpentries.org) en/of vra hulp in die {{'[werkbankkanaal op Slack] ({}/archives/C03DEQ5T2DA) '.format (slack)}}.
 
 ### Gebruik uitgawe-etikette om samewerking te
 
@@ -179,11 +150,7 @@ ontplooi word om die sigbaarheid van u les te verhoog en
 -gemeenskapslede aan te moedig om by te dra tot die ontwikkeling daarvan.
 
 Die \*\* “help wou” \*\* etiket moet gebruik word om probleme met
-uit te lig wat u bykomende hulp sal verwelkom. Die Carpentries webwerf
-bevat {{'[a Help Wanted page] ({}/lessons/help_wanted) '.format (carpentries_website)}}, wat
-outomaties elke uitgawe met “help want” kan lys op bewaarplekke
-van The Carpentries, Software Carpentries, Data Masperry, Library
-Timmerry, CarpentriesLab en The Carpentries Incubator. Vind uit hoe
+uit te lig wat u bykomende hulp sal verwelkom. Soms wil u dalk die proses aktiveer voor die volgende geskeduleerde uitloop, bv. as die nuwe weergawe van die werkstrome of pakkette 'n probleem oplos wat verhoed dat u les bou. Vind uit hoe
 kwessies uit u lesbewaarplek op die Help Wanted -bladsy kan insluit deur
 die {{'[inligting vir onderhouders] ({}/lessons/help_wanted#information-for-maintainers) '.format (carpentries_website)}}
 op die bladsy self te lees.
@@ -199,9 +166,9 @@ URL] /bydrae` (voorbeeld: <https://github.com/swcarpentry/r-novice-gapminder/con
 
 ### Inlig gemeenskapslede oor 'n tydperk van afwesigheid
 
-As jy van plan is om tydelik weg te stap van die rol van Onderhouer,
-bv. Ouerverlof, eksamenseisoen, ens., kan dit nuttig wees vir jou mede
-lesOnderhouders en potensiële bydraers om hulle te laat weet. Hier is
+If you plan to temporarily step away from the role of Maintainer,
+e.g. parental leave, exam season, etc, it can be helpful to your fellow
+Maintainers and potential contributors to let them know. Hier is
 'n paar stappe wat u kan neem om die gemeenskap in kennis te stel oor u tydelike
 afwesigheid/onbeskikbaarheid:
 
@@ -226,24 +193,24 @@ afwesigheid/onbeskikbaarheid:
 2. Stel jou mede-onderhouders in:
 
    7. Stuur vir hulle 'n e-pos of 'n direkte boodskap op Slack.
-   8. As u hulp nodig het om kontakinligting vir enige van u
-      mede-onderhouders te vind, kontak die Maintainer Community Lead.
+   8. If you need help finding contact information for any of your
+      fellow Maintainers, contact the [Curriculum Team](mailto:curriculum@carpentries.org).
 
 ## Hulpbronne
 
 ### [Onderhouderhouderingskurrikulum] (https://carpentries.github.io/maintainer-onboarding/)
 
 Die kurrikulum wat by Maintainer Onboarding gebruik word. Hierdie hulpbron kan 'n
-nuttige verwysing wees vir Onderhouders nadat hulle die aansluiting voltooi het. Dit bevat [wenke vir die bestuur van probleme op 'n bewaarplek] (https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), leiding vir [die merking van die kurrikulumspan oor kwessies en terugversoeke] (https://carpentries.github.io/maintainer-onboarding/03-communicate-maintainers.html#github), en baie ander nuttige inligting waarna u dalk wil terugkeer nadat u aansluit.
+nuttige verwysing wees vir Onderhouders nadat hulle die aansluiting voltooi het. It includes [tips for managing issues on a repository](https://carpentries.github.io/maintainer-onboarding/03-communicate-contributors#top-ten-tips-for-managing-issues-and-prs), guidance for [tagging the Curriculum Team on issues and pull requests](https://carpentries.github.io/maintainer-onboarding/02-communicate-maintainers.html#github), and plenty of other useful information you might want to return to after onboarding.
 
 ### [Inleiding tot The Carpentries Workbench] (https://carpentries.github.io/sandpaper-docs/)
 
 Dokumentasie vir The Carpentries Workbench, oopbroninfrastruktuur
-vir leswebwerwe. Die dokumentasie verduidelik hoe om die
-Workbench te installeer sodat lesonderhouders hul lesse
-op hul rekenaar kan wysig en voorskou, hoe om 'n nuwe les te inisialiseer en die
-verskillende elemente van die lessjabloon te gebruik, en hoe om op hoogte te bly van
-die nuutste veranderinge aan die infrastruktuur.
+vir leswebwerwe. The documentation explains how to install the
+Workbench so that Maintainers can edit and preview their lessons
+on their computer, how to initialise a new lesson and use the
+various elements of the lesson template, and how to keep up to date with
+the latest changes to the infrastructure.
 
 ### [Konsultasierubriek vir kurrikulumadvieskomitee] (/handbooks/curriculum_advisors.md#curriculum-advisory-committee-consultation-rubric)
 
@@ -263,23 +230,21 @@ hul les.
 **Let daarop dat onderhouders van datammerwerk-, biblioteektimmerwerk- en sagtewarestuurlesse vir nou nie lesvrystellings moet maak nie.**
 Die kurrikulumspan sal hierdie proses in die komende maande koördineer.
 
-### [Lesontwikkelaarhandboek] (/handbooks/lesson_developers.md)
-
-Die handboek vir gemeenskapslede wat nuwe lesse ontwikkel, bevat inligting, leiding en verdere hulpbronne wat ook interessant kan wees vir Onderhouders.
-
 ### [Samewerkende lesontwikkelingsopleidingskurrikulum] (https://carpentries.github.io/lesson-development-training/)
 
 'N Les wat ontwerp is om vaardighede en goeie praktyke in lesontwerp,
-leswebwerf-ontwikkeling en samewerking via GitHub te leer. Gemeenskap
--lede kan aansoek doen om by hierdie opleiding aan te sluit, en/of die kurrikulum in
-hul eie tyd volg.
+leswebwerf-ontwikkeling en samewerking via GitHub te leer. Die dokumentasie verduidelik hoe om die
+Workbench te installeer sodat lesonderhouders hul lesse
+op hul rekenaar kan wysig en voorskou, hoe om 'n nuwe les te inisialiseer en die
+verskillende elemente van die lessjabloon te gebruik, en hoe om op hoogte te bly van
+die nuutste veranderinge aan die infrastruktuur.
 
 ## FAQ
 
 ### Wanneer moet ek my eie trekversoek saamvoeg?
 
 Oor die algemeen beveel ons aan dat Onderhouders wag vir 'n goedkeurende hersiening voordat enige trekversoek saamgesmelt word.
-As die veranderinge egter klein is en iets regstel wat ongetwyfeld in die les gebreek is - bv. 'n gebreekte skakel, 'n misvormige sintaksis of soortgelyke - dan kan u u eie veranderinge dadelik saamvoeg.
+However, if the changes are small and fix something that is unquestionably broken in the lesson -- e.g. a broken link, some malformed syntax, or similar -- then you can merge your own changes right away.
 
 #### Wat om te doen as ander onderhouders nie reageer nie?
 
@@ -299,7 +264,7 @@ Dit is algemeen in oopbronprojekte dat gemeenskapslede aan iets begin werk, maar
 Een resultaat kan oop, maar onvolledige trekversoeke wees, bv. gemerk as 'n konsep, of met beoordelaarkommentaar/voorgestelde veranderinge wat onaangespreek gelaat word.
 'N Ander is probleemdrade waarop iemand gereageer het, wat aandui dat hulle van plan is om dit reg te stel, maar dat sedertdien geen trekversoek van hulle verskyn het nie.
 
-Alhoewel dit afkomstig is van 'n plek van goeie bedoelings, kan hierdie gedrag die ongelukkige uitwerking hê om ander moontlike bydraers af te moedig om aan 'n probleem te werk of 'n gelykwaardige trekversoek te skep.
+Although originating from a place of good intentions, these behaviours can have the unfortunate effect of discouraging other potential contributors from working on an issue or creating an equivalent pull request.
 Net so, wat nie op die tone van hul bydraers wil “stap” nie, is Onderhouders dikwels onseker oor of nie bereid om 'n onvoltooide trekversoek te “oor te neem”, bv. deur eensydig die veranderinge aan te bring wat self vereis word voordat hulle saamsmelt.
 Die aanbevelings hieronder is ontwerp om hierdie kwessies aan te spreek en 'n stel “sosiale norme” vir die Carpentries-gemeenskap vas te stel wat moontlik maak dat vordering gemaak kan word op ons bewaarplekke terwyl ons \[kernwaardes] \[waardes] weerspieël - veral dat ons alle bydraes waardeer.
 
