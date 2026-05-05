@@ -198,9 +198,6 @@ Posts highlighting tips.
 ### Software Carpentry
 For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
 
-### Sponsorship (previously, "Philanthropy") 	
-Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
-
 ### Strategic Plan
 Posts related to The Carpentries Strategic Plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals within a specified period.
 
@@ -235,3 +232,6 @@ For blogs around creating support systems for new orgs using seasoned community 
 
 ### Regional Coordinators
 For blog posts related to Regional coordinators, who manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries.
+
+### Sponsorship (previously, "Philanthropy") 	
+Blog posts related to donations, sponsorship and other philanthropic activities that support The Carpentries.
