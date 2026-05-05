@@ -15,7 +15,7 @@ This guide was developed for potential collaborators interested in involving The
 We invite you to include The Carpentries in your grant to support workshops, Partnership, and Instructor Training whether you apply as an individual institution or a consortium. We are also happy to collaborate on grant proposals supporting our mission, [core values](https://carpentries.org/values/), and priorities. This guide should be used as a resource in advance of proposal development.
 
 ## How is The Carpentries Funded?
-Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Partner Organisations](https://carpentries.org/support/partnership/partner-list/) and [Sponsors](https://carpentries.org/sponsorship/), charitable foundations. The Carpentries is currently funded by grants and sponsorships (~16%), Partnerships (~68%), programmatic fees (~15%), and other sources including donations. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our {{'[strategic plan]({}/about-us/strategic-plan/)'.format(carpentries_website)}}.
+Funders who help The Carpentries fulfill our mission and vision _**financially**_ include [Partner Organisations](https://carpentries.org/support/partnership/partner-list/) and charitable foundations. The Carpentries is currently funded by grants (~16%), Partnerships (~68%), programmatic fees (~15%), and other sources including donations. We aim to be transparent in our sources of revenue and how they align with our vision and values and seek funding to support existing priorities and future goals in alignment with our {{'[strategic plan]({}/about-us/strategic-plan/)'.format(carpentries_website)}}.
 
 
 
@@ -40,8 +40,6 @@ For more information about grants we have received from these sources, please re
 - [Biotech Partners](http://www.biotechpartners.org/)
 - [Jump Recruits, LLC](https://jumprecruits.com/)
 - [Posit PBC](https://rstudio.com/)
-
-For more information about sponsorship opportunities, visit our [Sponsorship Program page](https://carpentries.org/sponsorship/).
 
 ## Minimum Requirements for Co-Writing a Grant with The Carpentries
 The Carpentries has identified deliverables ideal for in-kind support and/or grant funding in curriculum development, community development, workshops, instructor training, and infrastructure. These projects typically require that a percentage of The Carpentries Core Team time be written into the grant budget to support program development, administration, and infrastructure. Below are examples of minimum requirements for co-writing a grant with The Carpentries.
