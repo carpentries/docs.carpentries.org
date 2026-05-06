@@ -237,7 +237,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 #### Host a Demo
 
 * Go to the Zoom room. The link is in the [Etherpad](https://pad.carpentries.org/teaching-demos).  
-* Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for one episode, and if so, suggest strongly they reschedule.  
+* Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, and explain the procedure for the demo session based on the [checkout guidelines](https://carpentries.github.io/instructor-training/checkout#demonstration).  
 * Let trainees know that you will not tell them if they passed during the session, but instead will follow up with an email afterward. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.  
 * Ask those not presenting to give feedback using the same [positive-vs-areas of improvement and content-vs-presentation rubric](https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) used in training. For a full session (5 trainees), they should add feedback to the Etherpad for you to summarise. If you have fewer people, you may have them take turns sharing verbally.  
 * Give each trainee a few moments to get set up and initiate screen sharing before counting down to begin. Start a timer.  
