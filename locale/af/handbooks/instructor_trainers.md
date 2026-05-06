@@ -236,7 +236,7 @@ Inskrywings vir onderrigdemonstrasies word gewoonlik aangekondig met inskrywings
 #### Bestuur 'n Demo
 
 - Gaan na die Zoom-kamer. Die skakel is in die [Etherpad] (https://pad.carpentries.org/teaching-demos).
-- Sodra almal op die oproep is (met hul klank- en video werk), herinner hulle aan die gedragskode, verduidelik die prosedure vir die demo-sessie en herinner hulle daaraan dat leeringers uit enige episode uit hul gekose les moet leer. Vra of iemand net vir een episode voorberei het, en indien wel, stel sterk voor dat hulle herskeduleer.
+- Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, and explain the procedure for the demo session based on the [checkout guidelines](https://carpentries.github.io/instructor-training/checkout#demonstration).
 - Laat leeringers weet dat u hulle nie sal vertel of hulle tydens die sessie geslaag het nie, maar eerder daarna met 'n e-pos sal opvolg. Dit kan help om hulle te herinner dat dit nie 'n hoë standtoets is nie, maar 'n vriendelike geleentheid vir terugvoer.
 - Vra diegene wat nie aanbied nie, om terugvoer te gee deur dieselfde [positive-vs-areas van verbetering en inhoud-vs-aanbieding rubriek] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) wat tydens opleiding gebruik word. Vir 'n volledige sessie (5 leerlinge) moet hulle terugvoer by die Etherpad voeg sodat u kan opsomming gee. As u minder mense het, kan u hulle moet beurt mondelings deel.
 - Gee elke leerling 'n paar oomblikke om op te stel en skermdeel te begin voordat u aftel om te begin. Begin 'n timer.
