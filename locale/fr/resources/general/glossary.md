@@ -595,6 +595,12 @@ Team
 Themed Discussion Session
     community discussion centred around a particular topic (e.g., teaching your first workshop, community building strategies); now broadly referred to as a Community Discussion Session.
 
+Sponsor
+    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to {term}`Sponsorship Program <sponsorship program>`. 
+
+Sponsorship Program
+    program that allows a company, firm, or other entity to contribute financially to The Carpentries. 
+
 ```
 
 
