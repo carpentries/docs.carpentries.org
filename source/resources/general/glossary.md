@@ -386,12 +386,6 @@ Skill-Up Session
 Slack
     software platform used by The Carpentries to support synchronous and asynchronous communications; channels support communications, collaboration and co-creation among a subset of community members, depending on the channel’s purpose.
 
-Sponsor
-    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to {term}`Sponsorship Program <sponsorship program>`. 
-
-Sponsorship Program
-    program that allows a company, firm, or other entity to contribute financially to The Carpentries. 
-
 Strategic Plan
     document used to communicate The Carpentries' goals, objectives, and actions taken to achieve those goals over a three to five-year period.
 
@@ -595,6 +589,12 @@ Team
 
 Themed Discussion Session
     community discussion centred around a particular topic (e.g., teaching your first workshop, community building strategies); now broadly referred to as a Community Discussion Session.
+
+Sponsor
+    an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to {term}`Sponsorship Program <sponsorship program>`. 
+
+Sponsorship Program
+    program that allows a company, firm, or other entity to contribute financially to The Carpentries. 
 
 ```
 
