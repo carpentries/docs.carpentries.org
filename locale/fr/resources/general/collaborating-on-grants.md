@@ -44,8 +44,6 @@ Pour plus d'informations sur les subventions que nous avons reçues de ces sourc
 - [Jump Recruits, LLC] (https://jumprecruits.com/)
 - [Poste PBC] (https://rstudio.com/)
 
-Pour plus d'informations sur les opportunités de parrainage, visitez notre [page du programme de parrainage] (https://carpentries.org/sponsorship/).
-
 ## Exigences minimales pour co-rédiger une subvention avec The Carpentries
 
 The Carpentries a identifié des produits livrables idéaux pour un soutien en nature et/ou un financement sous forme de subventions pour l'élaboration de programmes, le développement communautaire, les ateliers, la formation des instructeurs et les infrastructures. Ces projets nécessitent généralement qu'un pourcentage du temps de l'équipe principale de The Carpentries soit inscrit dans le budget de la subvention pour soutenir le développement, l'administration et l'infrastructure du programme. Vous trouverez ci-dessous des exemples d'exigences minimales pour co-rédiger une subvention avec The Carpentries.
