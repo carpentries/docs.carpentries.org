@@ -260,10 +260,6 @@ Blykke wat wenke uitlig.
 
 Vir blogplasings wat verband hou met sagtewarestuurwerk, wat deel uitmaak van The Carpentries, onderrig basiese laboratoriumvaardighede vir navorsingsrekenaars.
 
-### Borgskap (voorheen “Filantropie”)
-
-Blogplasings wat verband hou met skenkings, borgskap en ander filantropiese aktiwiteite wat The Carpentries ondersteun.
-
 ### Strategiese plan
 
 Poste wat verband hou met The Carpentries Strategic Plan, die dokument wat gebruik word om die organisasie se doelwitte, doelwitte en die aksies wat geneem is om daardie doelwitte binne 'n bepaalde tydperk te kommunikeer.
@@ -309,3 +305,7 @@ Vir blogs oor die skep van ondersteuningstelsels vir nuwe org's met behulp van e
 ### Streekkoördineerders
 
 Vir blogplasings wat verband hou met streekskoördineerders, wat werkswinkellogistiek bestuur, met gashere en instrukteurs kommunikeer en op algemene navrae reageer.
+
+### Borgskap (voorheen “Filantropie”)
+
+Blogplasings wat verband hou met skenkings, borgskap en ander filantropiese aktiwiteite wat The Carpentries ondersteun.
