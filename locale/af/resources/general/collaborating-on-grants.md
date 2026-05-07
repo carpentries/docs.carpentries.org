@@ -44,8 +44,6 @@ Vir meer inligting oor toelaes wat ons uit hierdie bronne ontvang het, lees asse
 - [Jump Recruits, LLC] (https://jumprecruits.com/)
 - [PBC Position] (https://rstudio.com/)
 
-Vir meer inligting oor borgingsgeleenthede, besoek ons [Borgingsprogrambladsy] (https://carpentries.org/sponsorship/).
-
 ## Minimum vereistes vir mede-skryf van 'n toekenning met The Carpentries
 
 Die Carpentries het aflewerings geïdentifiseer wat ideaal is vir ondersteuning en/of toekenningsbefondsing in kurrikulumontwikkeling, gemeenskapsontwikkeling, werkswinkels, instrukteeropleiding en infrastruktuur. Hierdie projekte vereis gewoonlik dat 'n persentasie van The Carpentries Core Team -tyd in die toekenningsbegroting ingeskryf word om programontwikkeling, administrasie en infrastruktuur te ondersteun. Hieronder is voorbeelde van minimum vereistes vir die skryf van 'n toekenning met The Carpentries.
