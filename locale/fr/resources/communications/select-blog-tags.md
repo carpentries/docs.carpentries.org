@@ -260,10 +260,6 @@ Articles mettant en avant des conseils.
 
 Pour les articles de blog relatifs à Software Carpentry, qui fait partie de The Carpentries, qui enseigne les compétences de base en laboratoire pour l'informatique de recherche.
 
-### Parrainage (auparavant, « Philanthropie »)
-
-Articles de blog liés aux dons, au parrainage et à d'autres activités philanthropiques qui soutiennent The Carpentries.
-
 ### Plan stratégique
 
 Articles liés au plan stratégique de The Carpentries, le document utilisé pour communiquer les buts et objectifs de l'organisation et les mesures prises pour atteindre ces objectifs dans un délai spécifié.
@@ -309,3 +305,7 @@ Pour les blogs sur la création de systèmes de soutien pour les nouvelles organ
 ### Coordinateurs régionaux
 
 Pour les articles de blog relatifs aux coordinateurs régionaux, qui gèrent la logistique des ateliers, communiquent avec les hôtes et les instructeurs et répondent aux demandes générales.
+
+### Parrainage (auparavant, « Philanthropie »)
+
+Articles de blog liés aux dons, au parrainage et à d'autres activités philanthropiques qui soutiennent The Carpentries.
