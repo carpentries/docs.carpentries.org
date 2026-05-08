@@ -222,7 +222,7 @@ The Community Session Host must record attendance by checking people in on Preti
 
 ![Step 2: You should now be able to see a list of participants who registered for your event.](../img/Pretix_Step_2.png)
 
-3. Select all the participants who attended the community session by checking the box to the left of the order code.
+3. Select all the participants who attended the community session by checking the box to the left of the order code. Please note there might be multiple pages of registered participants. 
 
 ![Step 3: Select all the participants who attended the community session by checking the box to the left of the order code.](../img/Pretix_Step_3.png)
 
