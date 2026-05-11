@@ -55,7 +55,7 @@ spaces are expected to follow {{"[The Carpentries Code of Conduct]({})".format(c
 Once you have scheduled a session, a calendar invite will be sent to the email address you used when signing up. All community
 sessions will also be listed on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}.
 
-### Etherpad
+### Collaborative Notetaking
 
 A list of Etherpads relevant to serving as a Community Session Host includes:
 
