@@ -6,10 +6,10 @@ Die Carpentries leer fundamentele kodering- en datawetenskapvaardighede aan
 -navorsers wêreldwyd. Ons is 'n 501 (c) (3) nie-winsgewende organisasie. Die Carpentries is 'n uiteenlopende,
 wêreldwye gemeenskap wat
 [Instrukteurs] (https://carpentries.org/instructors/), helpers,
-[Trainers] (https://carpentries.org/trainers),
+[Instruktoropleiers] (https://carpentries.org/trainers),
 [Onderhouders] (https://carpentries.org/maintainers),
-[Mentors] (https://carpentries.org/mentors), gemeenskapskampioene, [lid
-organisasies] insluit (https://carpentries.org/members), ondersteuners en werkswinkel
+[Mentors] (https://carpentries.org/mentors), gemeenskapskampioene, [Vennoot
+Organisasies] insluit (https://carpentries.org/support/partnership/partner-list/), ondersteuners en werkswinkel
 organiseerders. Ons vra dat u deelname aan die Carpentries -gemeenskap
 ons [Code of
 Gedrag] (/policies/coc/index.md) volg.
