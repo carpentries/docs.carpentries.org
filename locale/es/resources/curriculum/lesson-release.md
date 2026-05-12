@@ -1,36 +1,36 @@
-# Releasing a Lesson
+# Publicar una lección
 
-**Note that Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons should not make lesson releases for now.**
-The Curriculum Team will coordinate this process in the coming months.
+**Tenga en cuenta que los mantenedores de clases de carpintería de datos, carpintería de bibliotecas y carpintería de software no deberían publicar las lecciones por el momento.**
+El equipo curricular coordinará este proceso en los próximos meses.
 
-Making regular releases of your lesson gives you and your contributors an opportunity to celebrate the improvements that have been made, and make it easier for them to receive credit and recognition for the work they have put in.
-It is particularly important to release the lesson when it reaches key milestones in its development, e.g. before [beta pilot workshops](lesson-pilots.md) or when it reaches [a stable state](./lesson-life-cycle.md).
+Publicar la lección con regularidad les brinda a usted y a sus colaboradores la oportunidad de celebrar las mejoras que se han realizado y les facilita recibir crédito y reconocimiento por el trabajo que han realizado.
+Es particularmente importante publicar la lección cuando alcance los hitos clave de su desarrollo, por ejemplo, antes de [los talleres piloto beta] (lesson-pilots.md) o cuando alcance [un estado estable] (./lesson-life-cycle.md).
 
-If you [publish the lesson on Zenodo](#publishing-the-lesson-on-zenodo) when you release it, you will receive a Digital Object Identifier that you and others can use to refer to the lesson and/or a particular version.
-Publishing the lesson makes it more findable by other people, and -- if you include your [ORCID iD](https://info.orcid.org/what-is-orcid/) identifier in the information about its authors -- helps you list the project on your public profile.
+Si [publicas la lección en Zenodo] (#publishing-the-lesson-on-zenodo) cuando la publiques, recibirás un identificador de objeto digital que tú y otras personas podrán usar para hacer referencia a la lección o a una versión en particular.
+Publicar la lección hace que otras personas puedan encontrarla más fácilmente y, si incluyes tu identificador [ORCID iD] (https://info.orcid.org/what-is-orcid/) en la información sobre sus autores, te ayuda a incluir el proyecto en tu perfil público.
 
-## Preparing for a release
+## Preparándose para un lanzamiento
 
-### Updating citation information
+### Actualización de la información de citas
 
-Lesson repositories can contain citation information in [Citation File Format](https://citation-file-format.github.io/).
-The Collaborative Lesson Development Training curriculum includes [some discussion of why you should include this file in your lesson repository](https://carpentries.github.io/lesson-development-training/collaborating-newcomers.html#helping-people-cite-your-lesson).
-The Carpentries Workbench documentation describes in more detail [how the file can be included in the repository](https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable) and gives an example.
+Los repositorios de lecciones pueden contener información de citas en [Formato de archivo de citas] (https://citation-file-format.github.io/).
+El plan de estudios de la capacitación para el desarrollo colaborativo de lecciones incluye [algunas explicaciones sobre por qué deberías incluir este archivo en tu repositorio de lecciones] (https://carpentries.github.io/lesson-development-training/collaborating-newcomers.html#helping-people-cite-your-lesson).
+La documentación de Carpentries Workbench describe con más detalle [cómo se puede incluir el archivo en el repositorio] (https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable) y ofrece un ejemplo.
 
-We recommend that you keep citation information updated as you progress with lesson development and maintenance.
-At the very least, you should ensure that the information in your `CITATION.cff` is current before releasing a new version of your lesson because this will simplify the process of releasing it to Zenodo.
+Le recomendamos que mantenga actualizada la información de las citas a medida que avance en el desarrollo y el mantenimiento de la lección.
+Como mínimo, debes asegurarte de que la información de tu `Citation.cff` esté actualizada antes de publicar una nueva versión de la lección, ya que esto simplificará el proceso de publicación en Zenodo.
 
-## Publishing the lesson on Zenodo
+## Publicar la lección en Zenodo
 
-- First, create a [Zenodo](https://zenodo.org/) account if you do not already have one, linked to your GitHub credentials.
-- Log into Zenodo and select 'GitHub' from the dropdown menu at the top-right.
-- On that page, find the name of your lesson repository in the listing and turn the switch 'On' to activate the Zenodo/GitHub integration.
-- [Make a release of your lesson](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#creating-a-release) from its GitHub repository. This will create a Zenodo record from that release. Zenodo will update this record with a new version every time you make another release from your lesson repository.
-- Edit the Zenodo entry to adjust anything that is not right.
-  For example, the presence of a `CITATION.cff` file in your repository will make Zenodo think this is a record describing software.
-  You can correct this to 'Lesson' in the _Resource Type_ field.
-- Add the DOI for your record to the `README.md` and `CITATION.cff` files in your lesson repository.
-  The record created from your release will include two DOIs: one for the specific version released this time, and a second 'top level' DOI that will always resolve to the latest version of the lesson released.
-  We recommend that you add the 'top-level' DOI to the files in your lesson repository. Zenodo gives you Markdown code to display a 'badge' icon e.g. ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415001.svg) on your repository README.
-  Look for the DOI field in the _Details_ box on the right of the record page to find your badge.
+- Primero, crea una cuenta [Zenodo] (https://zenodo.org/) si aún no tienes una, vinculada a tus credenciales de GitHub.
+- Inicia sesión en Zenodo y selecciona «GitHub» en el menú desplegable de la esquina superior derecha.
+- En esa página, busca el nombre de tu repositorio de lecciones en la lista y activa el interruptor para activar la integración entre Zenodo/GitHub.
+- [Publica tu lección] (https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#creating-a-release) desde su repositorio de GitHub. Esto creará un registro de Zenodo a partir de esa versión. Zenodo actualizará este registro con una nueva versión cada vez que publiques otro lanzamiento desde tu repositorio de lecciones.
+- Edita la entrada de Zenodo para ajustar cualquier cosa que no esté bien.
+  Por ejemplo, la presencia de un archivo `Citation.cff` en su repositorio hará que Zenodo piense que se trata de un registro que describe el software.
+  Puede corregir esto a «Lección» en el campo _Tipo de recurso_.
+- Agregue el DOI de su registro a los archivos `README.md` y `Citation.cff` del repositorio de lecciones.
+  El registro creado a partir de tu publicación incluirá dos DOI: uno para la versión específica publicada esta vez y un segundo DOI de «nivel superior» que siempre se resolverá con la última versión de la lección publicada.
+  Le recomendamos que añada el DOI de «nivel superior» a los archivos de su repositorio de lecciones. Zenodo te da un código Markdown para mostrar un icono de «insignia», por ejemplo! [DOI] (https://zenodo.org/badge/DOI/10.5281/zenodo.8415001.svg) en tu repositorio README.
+  Busca el campo DOI en el cuadro _Detalles_ situado a la derecha de la página de registro para encontrar tu insignia.
 
