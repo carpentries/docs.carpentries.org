@@ -1,59 +1,59 @@
-# Slack and Mailing Lists
+# Slack y las listas de correo
 
-## Topicbox Quick Start Guide
+## Guía de inicio rápido de Topicbox
 
-The Carpentries uses Topicbox to manage email lists. Refer to the {{"[Topicbox Guide]({})".format(topicbox_guide)}} for more information.
+The Carpentries usa Topicbox para administrar las listas de correo electrónico. Consulta la {{"[Topicbox Guide] ({})» .format (topicbox_guide)}} para obtener más información.
 
-### Regional Communities Mailing Lists
+### Listas de correo de comunidades regionales
 
-All [mailing lists for The Carpentries](https://carpentries.topicbox.com/groups) are hosted on Topicbox.  This includes a number of mailing lists specific to local or regional communities.
+Todas las [listas de correo de The Carpentries] (https://carpentries.topicbox.com/groups) están alojadas en Topicbox.  Esto incluye una serie de listas de correo específicas para las comunidades locales o regionales.
 
-### Africa
+### África
 
-- [Africa](https://carpentries.topicbox.com/groups/local-africa)
-- [Middle-East and North Africa](https://carpentries.topicbox.com/groups/local-middle-east)
+- [África] (https://carpentries.topicbox.com/groups/local-africa)
+- [Medio Oriente y Norte de África] (https://carpentries.topicbox.com/groups/local-middle-east)
 
 ### Asia
 
-- [Bangladesh](https://carpentries.topicbox.com/groups/local-bangladesh)
-- [India](https://carpentries.topicbox.com/groups/local-india)
+- [Bangladés] (https://carpentries.topicbox.com/groups/local-bangladesh)
+- [India] (https://carpentries.topicbox.com/groups/local-india)
 
-### Australia/New Zealand
+### Australia/Nueva Zelanda
 
-- [Australia and New Zealand](https://carpentries.topicbox.com/groups/local-aunz)
+- [Australia y Nueva Zelanda] (https://carpentries.topicbox.com/groups/local-aunz)
 
-### Canada
+### Canadá
 
-- [Vancouver](https://carpentries.topicbox.com/groups/local-vancouver)
+- [Vancouver] (https://carpentries.topicbox.com/groups/local-vancouver)
 
-### Europe
+### Europa
 
-- [Germany](https://carpentries.topicbox.com/groups/local-germany)
-- [Heidelberg](https://carpentries.topicbox.com/groups/local-heidelberg)
-- [United Kingdom](https://carpentries.topicbox.com/groups/local-uk)
-- [Nordic countries](https://carpentries.topicbox.com/groups/local-nordic)
-- [North Rhine-Westphalia, Germany](https://carpentries.topicbox.com/groups/local-nrw)
+- [Alemania] (https://carpentries.topicbox.com/groups/local-germany)
+- [Heidelberg] (https://carpentries.topicbox.com/groups/local-heidelberg)
+- [Reino Unido] (https://carpentries.topicbox.com/groups/local-uk)
+- [Países nórdicos] (https://carpentries.topicbox.com/groups/local-nordic)
+- [Renania del Norte-Westfalia, Alemania] (https://carpentries.topicbox.com/groups/local-nrw)
 
-### Latin America
+### América Latina
 
-- [Latin America](https://carpentries.topicbox.com/groups/local-latinoamerica)
-- [Puerto Rico](https://carpentries.topicbox.com/groups/local-puertorico)
+- [Latinoamérica] (https://carpentries.topicbox.com/groups/local-latinoamerica)
+- [Puerto Rico] (https://carpentries.topicbox.com/groups/local-puertorico)
 
-### United States
+### Estados Unidos
 
-- [Bay Area](https://carpentries.topicbox.com/groups/local-bayarea)
-- [Boston](https://carpentries.topicbox.com/groups/local-boston)
-- [Colorado](https://carpentries.topicbox.com/groups/local-colorado)
-- [Davis, CA](https://carpentries.topicbox.com/groups/local-davis)
-- [Lansing, MI](https://carpentries.topicbox.com/groups/local-lansing)
-- [Merced, CA](https://carpentries.topicbox.com/groups/local-merced)
-- [Seattle, WA](https://carpentries.topicbox.com/groups/local-seattle)
-- [Southeast US Library Carpentry](https://carpentries.topicbox.com/groups/local-libcarpentry-southeast-u)
-- [Southern California](https://carpentries.topicbox.com/groups/local-socal)
-- [Southwest United States](https://carpentries.topicbox.com/groups/local-swusa)
-- [University of California](https://carpentries.topicbox.com/groups/local-uc)
-- [Washington DC Area](https://carpentries.topicbox.com/groups/local-dc)
+- [Área de la Bahía] (https://carpentries.topicbox.com/groups/local-bayarea)
+- [Boston] (https://carpentries.topicbox.com/groups/local-boston)
+- [Colorado] (https://carpentries.topicbox.com/groups/local-colorado)
+- [Davis, California] (https://carpentries.topicbox.com/groups/local-davis)
+- [Lansing, Michigan] (https://carpentries.topicbox.com/groups/local-lansing)
+- [Merced, California] (https://carpentries.topicbox.com/groups/local-merced)
+- [Seattle, Washington] (https://carpentries.topicbox.com/groups/local-seattle)
+- [Carpintería de la biblioteca del sudeste de EE. UU.] (https://carpentries.topicbox.com/groups/local-libcarpentry-southeast-u)
+- [Sur de California] (https://carpentries.topicbox.com/groups/local-socal)
+- [Sudoeste de los Estados Unidos] (https://carpentries.topicbox.com/groups/local-swusa)
+- [Universidad de California] (https://carpentries.topicbox.com/groups/local-uc)
+- [Área de Washington DC] (https://carpentries.topicbox.com/groups/local-dc)
 
-## Slack Quick Start Guide
+## Guía de inicio rápido de Slack
 
-The Carpentries uses Topicbox as a place for members to ask questions, share resources, opportunities and more. Refer to the {{"[Slack Guide]({})".format(slack_guide)}} for more information.
+The Carpentries usa Topicbox como un lugar para que los miembros hagan preguntas, compartan recursos, oportunidades y más. Consulta la {{"[Guía de Slack] ({})» .format (slack_guide)}} para obtener más información.
