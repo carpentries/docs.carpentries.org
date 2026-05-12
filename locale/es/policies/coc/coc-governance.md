@@ -1,133 +1,133 @@
-# Code of Conduct Committee Governance
+# Gobernanza del Comité de Código de Conducta
 
-## Membership
+## Membresía
 
-Any voting member of the Carpentries community, as defined in The Carpentries bylaws, is eligible to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/).
+Cualquier miembro con derecho a voto de la comunidad de Carpentries, tal como se define en los estatutos de The Carpentries, puede ofrecerse como voluntario para formar parte del [Comité del Código de Conducta (CoCC)] (https://carpentries.org/coc-ctte/).
 
-The Committee will onboard its members on a regular basis (for example, annually) through open calls and from available volunteers.
-New members will undergo an application, selection and onboarding process before they are officially seated on the Committee.
+El Comité incorporará a sus miembros de forma regular (por ejemplo, anualmente) mediante convocatorias abiertas y con voluntarios disponibles.
+Los nuevos miembros se someterán a un proceso de solicitud, selección e incorporación antes de ocupar un puesto oficial en el Comité.
 
-The Executive Council (EC) will be notified about any new members.
-The EC has oversight of the governance of the Code of Conduct Committee but will have no influence over potential incidents and their resolutions.
+Se notificará al Consejo Ejecutivo (CE) sobre cualquier nuevo miembro.
+La CE supervisa la gobernanza del Comité del Código de Conducta, pero no tendrá ninguna influencia sobre los posibles incidentes y sus resoluciones.
 
-## Onboarding
+## Incorporación
 
-The onboarding process is determined by the Committee, and the EC will be kept informed about this process.
-New members, including the Staff and EC Liaison, are not immediately seated on the Committee and thus not included in issue resolution until after onboarding is completed.
+El proceso de incorporación lo determina el Comité y se mantendrá informada a la CE sobre este proceso.
+Los nuevos miembros, incluidos el personal de enlace con la CE, no forman parte inmediatamente del Comité y, por lo tanto, no se les incluye en la resolución de problemas hasta que se complete la incorporación.
 
-The current onboarding process is described in the [onboarding procedure document](/policies/coc/coc-onboarding.md). Additionally, incident response training will be organised for the new and existing members to ensure they can confidently serve on the committee.
+El proceso de incorporación actual se describe en el [documento de procedimiento de incorporación] (/policies/coc/coc-onboarding.md). Además, se organizará una capacitación en respuesta a incidentes para los miembros nuevos y existentes a fin de garantizar que puedan formar parte del comité con confianza.
 
-## Administration
+## Administración
 
-The Committee consists of a minimum of five members; approximately 10 is recommended.
-The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC.
+El Comité se compone de un mínimo de cinco miembros; se recomiendan aproximadamente 10.
+El Comité, además, cuenta con un enlace del equipo central de Carpentries y un enlace de la CE.
 
-The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups.
-They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee.
+Los enlaces tienen la responsabilidad de informar al CoCC de todo lo que sea relevante de sus respectivos grupos.
+También son responsables de transmitir a sus respectivos grupos las cuestiones y actualizaciones del CoCC que sean relevantes para ellos, respetando al mismo tiempo los requisitos de confidencialidad del Comité.
 
-The Committee will have upto two chairs who will oversee the activities of the committee - these positions are taken for one year by the current CoCc members. The election is based on self-nomination and committee voting by CoC members who have already worked with the CoC committee for at least 6 months, and preferably through at least one report handling procedure.
+El Comité tendrá hasta dos presidentes que supervisarán las actividades del comité; estos cargos los ocupan los miembros actuales del CoCC durante un año. La elección se basa en la autonominación y la votación del comité por parte de los miembros del CoC que ya han trabajado con el comité del CoC durante al menos 6 meses, y preferiblemente mediante al menos un procedimiento de tramitación de informes.
 
-These individuals are responsible for holding regular business meetings and guiding the Committee’s work.
+Estas personas son responsables de celebrar reuniones de negocios periódicas y de guiar el trabajo del Comité.
 
-The committee members will select specific areas of CoC work and assume the roles of “area leads” after a committee vote/confirmation. Some areas of work identified by the current CoCc are: incident response, training, onboarding/offboarding and themed discussion.
+Los miembros del comité seleccionarán áreas específicas de trabajo del CoC y asumirán las funciones de «líderes de área» después de una votación/confirmación del comité. Algunas áreas de trabajo identificadas por el CoCC actual son: la respuesta a los incidentes, la formación, la incorporación y la baja y el debate temático.
 
-Based on these areas of work, all area leads along with the Core Team and EC Liaisons will seek to improve the CoC policies and procedures.
+Sobre la base de estas áreas de trabajo, todos los líderes de área, junto con el equipo central y los enlaces de la CE, tratarán de mejorar las políticas y procedimientos del CoC.
 
-## Voting
+## Votación
 
-The CoCc participates in two types of voting - votes about incidents and those not about incidents (e.g. business, policy, administrative matters).
+El CoCC participa en dos tipos de votación: votaciones sobre incidentes y votaciones no relacionadas con incidentes (por ejemplo, asuntos comerciales, políticos o administrativos).
 
-### Non-incident voting
+### Votación sin incidentes
 
-For non-incident-related matters, the Committee passes votes with a simple majority of the non-liaison members, with the chairs breaking any ties.
-The Carpentries Staff(Core Team) and Executive Council (EC) liaisons can vote on matters such as election of chairs and area leads.
-Members not attending can provide feedback and insights.
-Quorum in meetings is more than 50% of the non-liaison CoCc members.
+Para asuntos no relacionados con incidentes, el Comité aprueba las votaciones por mayoría simple de los miembros que no son de enlace, y los presidentes rompen cualquier empate.
+Los enlaces entre el personal de Carpentries (equipo central) y el Consejo Ejecutivo (CE) pueden votar sobre asuntos como la elección de presidentes y líderes de área.
+Los miembros que no asistan pueden proporcionar comentarios e ideas.
+El quórum en las reuniones es de más del 50% de los miembros del CoCC que no son de enlace.
 
-### Incident voting
+### Votación por incidentes
 
-For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer to [Incident Response Guidelines](/policies/coc/incident-response.md).)
+Para asuntos relacionados con incidentes, cualquier miembro del Grupo de Respuesta a Incidentes (IRG) votará y el presidente romperá cualquier empate (consulte [Pautas de respuesta a incidentes] (/policies/coc/incident-response.md)).
 
-The Incident Response Lead of the [Incident Response Group](/policies/coc/enforcement-guidelines.md) will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the [guidelines for responding](/policies/coc/enforcement-guidelines.md).
+El líder de respuesta a incidentes del [Grupo de respuesta a incidentes] (/policies/coc/enforcement-guidelines.md) tomará esta decisión e indicará que el voto del líder de respuesta a incidentes será necesario para resolver el incidente según las [pautas para responder] (/policies/coc/enforcement-guidelines.md).
 
-Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
+Si el enlace del Consejo Ejecutivo participa en una votación del CoCC y esa resolución es apelada ante el Consejo Ejecutivo, el miembro de enlace se abstendrá de votar en esa apelación.
 
-## Terms of office
+## Términos de mandato
 
-The expected term of office for each Committee member is a minimum one year, however, members may remain longer if they are able to offer their continued service or continuity of certain committee work is a concern.
-During their time on the Committee, members may temporarily withdraw from Committee work for up to 3 months provided they inform the Governance Chair in writing.
-If the members are unavailable for longer than 3 months, they will be asked to take a leave from the Committee.
-They may volunteer to rejoin when they are available again following the onboarding procedure described earlier in the document.
-This will allow us to maintain privacy for the reports handled in their absence and create an opportunity for new members to join the Committee.
+El mandato previsto para cada miembro del Comité es de un año como mínimo; sin embargo, los miembros pueden permanecer más tiempo si pueden ofrecer su servicio continuo o si la continuidad de ciertos trabajos del comité es motivo de preocupación.
+Durante su tiempo en el Comité, los miembros pueden retirarse temporalmente del trabajo del Comité durante un máximo de 3 meses, siempre que informen por escrito al presidente de la junta directiva.
+Si los miembros no están disponibles durante más de 3 meses, se les pedirá que se ausenten del Comité.
+Pueden ofrecerse como voluntarios para volver a unirse cuando vuelvan a estar disponibles siguiendo el procedimiento de incorporación descrito anteriormente en el documento.
+Esto nos permitirá mantener la privacidad de los informes tramitados en su ausencia y crear una oportunidad para que nuevos miembros se unan al Comité.
 
-The Chairs are expected to sit for a minimum of six months. Before stepping down, chairs will invite nominations and chair a meeting to elect a new chair.
-New Chairs are selected from among those who have been on the Committee for at least six months. One of the available members can volunteer to be elected to take on the role of a Chair.
+Se espera que los presidentes se reúnan durante un mínimo de seis meses. Antes de renunciar, los presidentes invitarán a las nominaciones y presidirán una reunión para elegir un nuevo presidente.
+Los nuevos presidentes se seleccionan entre aquellos que han estado en el Comité durante al menos seis meses. Uno de los miembros disponibles puede ofrecerse como voluntario para ser elegido para asumir el papel de presidente.
 
-## Main duties of the position holders
+## Principales funciones de los titulares de los puestos
 
-All members of the CoCc must read, understand and abide by the [membership agreement](/policies/coc/coc-membership-agreement.md).
+Todos los miembros del CoCC deben leer, entender y acatar el [acuerdo de membresía] (/policies/coc/coc-membership-agreement.md).
 
-In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below.
+Además de las funciones y responsabilidades descritas en el acuerdo de membresía (por ejemplo, participar en los problemas de GitHub y revisar los informes de transparencia), los funcionarios del comité tienen las funciones que se describen a continuación.
 
-### Chairs’ roles
+### Funciones de los presidentes
 
-The CoCc will share the following responsibilities:
+El CoCC compartirá las siguientes responsabilidades:
 
-- Keep an overview of the ongoing work in the Committee
-- Collect agenda points from Committee members for the business meetings
-- Assign Committee-related tasks to the CoCc members fairly
-- Communicate CoCc activities via the Carpentries communications channels
-- Before they step down, invite nominations for and chair a meeting to elect a new chair.
+- Mantenga una visión general del trabajo en curso en el Comité
+- Recopile los puntos de la agenda de los miembros del Comité para las reuniones de negocios
+- Asigne las tareas relacionadas con el comité a los miembros del CoCC de manera justa
+- Comunique las actividades del CoCC a través de los canales de comunicación de Carpentries
+- Antes de que renuncien, invite a las nominaciones y presida una reunión para elegir un nuevo presidente.
 
-### Core Team/Staff Liaison
+### Enlace entre el equipo central y el personal
 
-- Represent the CoCc in any relevant communication with the Core Team
-- Liaise with the CoCc to schedule the business meetings quarterly
-- Relay information to the Core Team members when required
-- Intervene in any communication or potential incident in Carpentries online spaces that may lead to a CoC incident
-- Notify and request a review from the Carpentries Executive Director regarding any public communication from the CoCc, when needed
+- Representar al CoCC en cualquier comunicación relevante con el equipo central
+- Servir de enlace con el CoCC para programar las reuniones de negocios trimestrales
+- Transmita información a los miembros del equipo central cuando sea necesario
+- Intervenga en cualquier comunicación o posible incidente en los espacios en línea de Carpentries que pueda provocar un incidente de CoC
+- Notificar y solicitar una revisión del Director Ejecutivo de Carpentries con respecto a cualquier comunicación pública del CoCC, cuando sea necesario
 
-### EC Liaison
+### Enlace con la CE
 
-- Represent the CoCc in any relevant communication with the EC
-- Liaise with the CoCc to co-edit and co-release [transparency reports](https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports)
-- Relay information to the EC members when required
-- Co-edit and co-release transparency reports with the Incident Response Chair
-- Notify, and request a review if needed, from EC regarding any public communication from CoC committee
+- Representar al CoCC en cualquier comunicación relevante con la CE
+- Colaborar con el CoCC para coeditar y publicar [informes de transparencia] (https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports)
+- Transmitir información a los miembros de la CE cuando sea necesario
+- Coedite y publique informes de transparencia con el presidente de respuesta a incidentes
+- Notificar y solicitar una revisión, si es necesario, de la CE con respecto a cualquier comunicación pública del comité del CoC
 
-### Specific roles for all area leads
+### Funciones específicas para todos los líderes de área
 
-- Coordinate with co-leads to define action points, roadmaps and outcomes from their areas of work
-- Help and support other members in using tools and approaches from their areas of work to make CoCc process effective
-- Communicate activities from other areas of work to the CoCc via private Slack channels as well as the CoCc documents and business meetings
-- Write, update, and maintain the business meeting minutes and other official documents for the committee
-- Identify gaps in the current Code of Conduct, specific to their areas of work, and raise them to the CoCc
-- Create drafts for and review new policies with other members of the CoCc based on to their areas of work
+- Coordine con los colíderes para definir los puntos de acción, las hojas de ruta y los resultados de sus áreas de trabajo
+- Ayudar y apoyar a otros miembros en el uso de herramientas y enfoques de sus áreas de trabajo para hacer que el proceso de CoCC sea efectivo
+- Comunique las actividades de otras áreas de trabajo al CoCC a través de los canales privados de Slack, así como a través de los documentos y reuniones de negocios del CoCC.
+- Redactar, actualizar y mantener las actas de las reuniones de negocios y otros documentos oficiales para el comité
+- Identifique las brechas en el Código de Conducta actual, específicas de sus áreas de trabajo, y llévelas al CoCC
+- Cree borradores y revise nuevas políticas con otros miembros del CoCC en función de sus áreas de trabajo
 
-#### Specific roles of Incident Response Leads
+#### Funciones específicas de los líderes de respuesta a incidentes
 
-- Monitor channels where the CoCc receives incident reports
-- Organise incident response meetings for any new CoC incident report, and establish the Incident Response Group
-- Support the Incident Response Group in documenting the incident-handling process, and in coordination with the Governance Chair, assist the Incident Response Group in communicating with the reporter and reportee
+- Supervise los canales en los que el CoCC recibe informes de incidentes
+- Organice reuniones de respuesta a incidentes para cualquier nuevo informe de incidente del CoC y establezca el grupo de respuesta a incidentes
+- Apoye al Grupo de Respuesta a Incidentes a documentar el proceso de manejo de incidentes y, en coordinación con el presidente de gobierno, ayude al Grupo de Respuesta a Incidentes a comunicarse con el denunciante y el denunciado
 
-### Incident Response Group’s roles and responsibilities
+### Funciones y responsabilidades del Grupo de Respuesta a Incidentes
 
-- An Incident Response Group of a minimum of 3 or 5 people is convened for any reported incident. An odd number of people is needed to avoid ties during voting.
-- An Incident Response Group must contain at least one member who has handled a live incident as part of a previous Incident Response Group within The Carpentries CoCc or have attended a CoC training organised by CoCc/Staff
-- An Incident Response Lead is selected in the Incident Response Group to ensure accountability of the report handling and completion of all report-handling and enforcement process
-- The Incident Response Leads will create a collaborative document for each case and share with the Incident Response Group
-- A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
-- A time-keeper will notify the Incident Response Group of the various deadlines
-- The liaisons and other members of the committee can fully participate in the Incident Response Group with voting rights provided there is no conflict of interest.
+- Se convoca un grupo de respuesta a incidentes de un mínimo de 3 o 5 personas para cualquier incidente denunciado. Se necesita un número impar de personas para evitar empates durante la votación.
+- Un grupo de respuesta a incidentes debe estar compuesto por al menos un miembro que haya gestionado un incidente real como parte de un grupo de respuesta a incidentes anterior dentro del CoCC de The Carpentries o que haya asistido a una formación sobre el CoC organizada por el COCC/el personal
+- Se selecciona un líder de respuesta a incidentes en el grupo de respuesta a incidentes para garantizar la responsabilidad de la gestión de los informes y la finalización de todos los procesos de gestión y cumplimiento de los informes
+- Los líderes de respuesta a incidentes crearán un documento colaborativo para cada caso y lo compartirán con el grupo de respuesta a incidentes.
+- La persona que tome notas se asegurará de que las notas se mantengan para el Grupo de Respuesta a Incidentes y se compartan con el comité del Código de Conducta
+- Un cronometrador notificará al Grupo de Respuesta a Incidentes los distintos plazos
+- Los enlaces y otros miembros del comité pueden participar plenamente en el Grupo de Respuesta a Incidentes con derecho a voto, siempre que no haya conflicto de intereses.
 
-## Communication and collaboration spaces
+## Espacios de comunicación y colaboración
 
-CoCc communication happens primarily in the #coc-discussion private channel of The Carpentries Slack workspace. Incident report discussions happen initially in the #coc-2023 private channel (as of 2023) and then move to separate, private documents shared among members of the [Incidence Response Group for each case](/policies/coc/enforcement-guidelines.md).
+La comunicación del CoCC tiene lugar principalmente en el canal privado #coc -discussion del espacio de trabajo de Slack de The Carpentries. Los debates sobre los informes de incidentes tienen lugar inicialmente en el canal privado #coc -2023 (a partir de 2023) y, a partir de 2023, se trasladan a documentos privados separados que se comparten entre los miembros del [Grupo de respuesta a la incidencia para cada caso] (/policies/coc/enforcement-guidelines.md).
 
-The #coc-year channel is archived every year to avoid giving access to past discussions to new members. Members of the committee are expected to set their notifications to be alerted for all new messages posted to either channel.
+El canal #coc year se archiva todos los años para evitar dar acceso a los debates anteriores a los nuevos miembros. Se espera que los miembros del comité configuren sus notificaciones para recibir alertas de todos los mensajes nuevos publicados en cualquiera de los canales.
 
-Members are not expected to be present on Slack perpetually, but should check the channels with some regularity. Subteam communications and other general discussions will happen in written form on Slack, and each member’s input is valued with asynchronous participation encouraged.
+No se espera que los miembros estén presentes en Slack de forma permanente, pero deberían comprobar los canales con cierta regularidad. Las comunicaciones de los subequipos y otros debates generales se llevarán a cabo por escrito en Slack, y se valorará la opinión de cada miembro y se fomentará la participación asincrónica.
 
-For incident responses, each member will provide a preferred way to receive urgent notifications.
+Para las respuestas a los incidentes, cada miembro proporcionará su forma preferida de recibir notificaciones urgentes.
 
-The CoCc leverages a shared Google Folder to manage documents that are not on GitHub, such as meeting notes, a membership roster, and incident reports.
+El CoCC aprovecha una carpeta de Google compartida para administrar los documentos que no están en GitHub, como las notas de las reuniones, la lista de miembros y los informes de incidentes.
