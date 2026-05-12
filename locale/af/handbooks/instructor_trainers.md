@@ -21,13 +21,13 @@ Instruktoropleiers leer instruktoropleidingsgeleenthede, bied onderrigdemonstras
 
 Die geskatte tydsbelegging vir hierdie aktiwiteite is 25-30 uur per jaar, afhangende van voorbereidingsbehoeftes.
 
-Instruktoropleiers wie se diens in 'n lidsooreenkoms ingesluit is, kan addisionele vereistes hê - verwys asseblief na u lidsooreenkoms vir besonderhede.
+Instruktoropleiers wie se diens in 'n vennootskapsooreenkoms ingesluit is, kan addisionele vereistes hê - verwys asseblief na u Vennootskapsooreenkoms vir besonder
 
 ### Skedulerende opleidingsgeleenthede
 
-Instruktoropleidingsgeleenthede, bonusmodules en onderrigdemo's word kwartaallikse geskeduleer. Vier keer per jaar sal die kernspan opleiers ondersoek vir hul beskikbaarheid om instrukteeropleiding te leer. Terselfdertyd sal opleiers gevra word om aan te meld om onderrigdemo's aan te bied met behulp van Calendly.
+Instruktoropleidingsgeleenthede en onderrigdemo's word kwartaallikse geskeduleer. Vier keer per jaar sal die kernspan instrukteur-afrigters ondersoek vir hul beskikbaarheid om instrukteeropleiding te leer. Terselfdertyd sal instruktoropleiers gevra word om aan te meld om onderrigdemo's aan te bied met behulp van Calendly.
 
-Die kernspan skep 'n opleidingskalender deur die beskikbaarheid van opleiers op te pas en [plaas dit met ons kurrikulum] (https://carpentries.github.io/instructor-training/training_calendar). Lidwebwerwe ontvang elkeen 'n unieke registrasiekode wat hul spanlede toelaat om vir hierdie geleenthede aan te meld.
+Die kernspan skep 'n opleidingskalender deur die beskikbaarheid van instrukteur-afrigters op te pas en [plaas dit met ons kurrikulum] (https://carpentries.github.io/instructor-training/training_calendar). Vennootwebwerwe ontvang elkeen 'n unieke registrasiekode wat hul spanlede toelaat om vir hierdie geleenthede aan te meld.
 
 Onderrigdemo's word op die [onderrig demo-etherpad] gelys (https://pad.carpentries.org/teaching-demos).  Leerlinge kan te eniger tyd aanmeld vir onderrig demo's.
 
@@ -44,7 +44,7 @@ Die Instructor Trainer -gemeenskap aanvaar gereeld nuwe lede via aansoek.
   - **vorige ervaring met die onderrig van Carpentries-werkswinkel** (met bestaande instrukteur sertifisering) of
   - **beduidende voorafopleiding in onderwys** (bv. kursusse of 'n graad in onderwys; ervaringsonderrig is ook nuttig, maar is nie dieselfde as opleiding nie)
 - Instrukteur Trainer Opleidingsitplekke word aangebied aan goedgekeurde aansoekers gebaseer op huidige organisatoriese behoeftes Die ruimte is beperk, en gekwalifiseerde kandidate kan nie gekies word as ons lae vraag of verskeie aansoekers in dieselfde streek het nie.
-- Lede kan instrukteur Trainer Trainer Trainer sitplekke teen 'n fooi bespreek. In hierdie gevalle, terwyl die setel vir iemand van die lidinstelling gereserveer is, moet individuele kandidate steeds aansoek doen en goedgekeur word.
+- Vennootorganisasies kan instrukteur Trainer Trainer Trainer sitplekke teen 'n fooi bespreek. In hierdie gevalle, terwyl die setel vir iemand van die Vennootinstelling gereserveer is, moet individuele kandidate steeds aansoek doen en goedgekeur word.
 - Die Carpentries hou 'n lys van belangstellende aansoekers en lidkontakte wat in kennis gestel wil word wanneer die volgende ronde van Instructor Trainer Trainer Trainer -aansoeke oopgaan. Om by hierdie lys gevoeg te word, stuur asseblief 'n e-pos aan die [Instruktoropleidingspan] (mailto:instructor.training@carpentries.org).
 
 #### opleiding en aanvanklike sertifisering
@@ -236,7 +236,7 @@ Inskrywings vir onderrigdemonstrasies word gewoonlik aangekondig met inskrywings
 #### Bestuur 'n Demo
 
 - Gaan na die Zoom-kamer. Die skakel is in die [Etherpad] (https://pad.carpentries.org/teaching-demos).
-- Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, and explain the procedure for the demo session based on the [checkout guidelines](https://carpentries.github.io/instructor-training/checkout#demonstration).
+- Sodra almal op die oproep is (met hul klank- en video werk), herinner hulle aan die gedragskode en verduidelik die prosedure vir die demosessie op grond van die [betaalriglyne] (https://carpentries.github.io/instructor-training/checkout#demonstration).
 - Laat leeringers weet dat u hulle nie sal vertel of hulle tydens die sessie geslaag het nie, maar eerder daarna met 'n e-pos sal opvolg. Dit kan help om hulle te herinner dat dit nie 'n hoë standtoets is nie, maar 'n vriendelike geleentheid vir terugvoer.
 - Vra diegene wat nie aanbied nie, om terugvoer te gee deur dieselfde [positive-vs-areas van verbetering en inhoud-vs-aanbieding rubriek] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) wat tydens opleiding gebruik word. Vir 'n volledige sessie (5 leerlinge) moet hulle terugvoer by die Etherpad voeg sodat u kan opsomming gee. As u minder mense het, kan u hulle moet beurt mondelings deel.
 - Gee elke leerling 'n paar oomblikke om op te stel en skermdeel te begin voordat u aftel om te begin. Begin 'n timer.
@@ -286,4 +286,4 @@ Om hierdie idees te deel, sluit asseblief aan by een van die maandelikse vergade
 
 ## Hulpbronne
 
-Besoek ons [Instruktoropleidingshulpbronne afdeling] (/resources/instructor-training/index.md) vir meer hulpbronne, insluitend e-possjablone vir opleiers en lidorganisasies.
+Besoek ons [Instruktoropleidingshulpbronne afdeling] (/resources/instructor-training/index.md) vir meer hulpbronne, insluitend e-possjablone vir instruktoropleiders en vennootorganisasies
