@@ -45,9 +45,9 @@ Hierdie bladsy bevat:
 - Die werwing- en behoustrategieë vir Carpentries Instructor Training sal insluit die bou van gemeenskappe van instrukteurs in domeine en gemeenskappe wat deur die lesprogram bedien word.
 - Die Carpentries sal die lesprogram insluit in alle gemeenskapspogings, insluitend maar nie beperk tot die aktiwiteite van die Instruktorontwikkelingskomitee, Mentorskapsprogram en BugBBQ's nie.
 - Die Carpentries programmatiese en assesseringsverslae sal lesprogramaktiwiteite insluit. Die lesprogram sal ook toegang hê tot data wat spesifiek is vir sy aktiwiteite.
-- Die Carpentries-lidorganisasie-program sal die lesprogram insluit.
+- Die Carpentries-vennootorganisasie-program sal die lesprogram insluit.
 - Die Carpentries sal 'n jaarlikse finansiële verslag aan die Lesprogramkomitee verskaf, insluitend 'n assessering van die finansiële stabiliteit en volhoubaarheid van The Carpentries.
-- Die algemene inkomste van die Carpentries deur lidmaatskap, werkswinkelkoördinasiegeld en algemene toelaes of skenkings, sal die deurlopende werk van die lesprogram ondersteun - werkswinkels, diversiteit en insluitingspogings, instrukteeropleiding, lesinstandhouding en gemeenskapsbetrokkenheid.
+- Die algemene inkomste van die Carpentries deur vennootskappe, werkswinkelkoördinasiegeld en algemene toelaes of skenkings, sal die deurlopende werk van die lesprogram ondersteun - werkswinkels, diversiteit en insluitingspogings, instrukteeropleiding, lesinstandhouding en gemeenskapbetrokkenheid
 - Die Carpentries handhaaf en dokumenteer 'n administratiewe en finansiële bestuurstruktuur wat die lesprogram ondersteun.
 
 ## Lesprogram inkubasiepadkaart
@@ -114,7 +114,7 @@ _Doel: om te verseker dat die nakoming van bestaande Carpentries -beleid en pros
 2. Stem saam om ten minste een opgeleide instrukteur vir elke werkswinkel te hê.
 3. Stem saam met die fooistruktuur van The Carpentries werkswinkel.
 4. Definieer ten minste een kurrikulum wat by The Carpentries tweedaagse werkswinkelstruktuur pas.
-5. Stem saam dat die lesprojek in lidorganisasie-ooreenkomste ingesluit moet word.
+5. Stem saam dat die lesprojek in vennootorganisasie-ooreenkomste ingesluit moet word.
 
 #### 2) Bestuur
 
@@ -155,7 +155,7 @@ _Doel: om kwaliteit van kurrikulum en vraag na werkswinkels te verseker. _
 - Briewe van belang van organisasies wat werkswinkels wil aanbied.
   Hierdie briewe van belang kan aandui dat die organisasie
   1. sal belangstel om 'n sentraal georganiseerde werkswinkel uit die lesprogram aan te vra.
-  2. sou organisatoriese lidmaatskap ondersoek om hul eie kapasiteit op te bou vir die onderrig van die lesprogram se werkswinkels.
+  2. sou organisatoriese vennootskap ondersoek om hul eie kapasiteit op te bou vir die onderrig van die lesprogram se werkswinkels.
   3. sou selfgeorganiseerde werkswinkels vir die lesprogram aanbied.
 - Opsomming van waar befondsingsondersteuning vir hierdie werk gesoek is, of aansoeke suksesvol was of nie.
 - Opsomming van hoe persoonlike tyd aan hierdie projek
