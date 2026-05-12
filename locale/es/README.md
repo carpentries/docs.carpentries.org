@@ -1,68 +1,68 @@
-# The Carpentries Handbook
+# El manual de carpintería
 
-This is the repo that builds [The Carpentries Handbook](https://docs.carpentries.org).
+Este es el repositorio que crea [The Carpentries Handbook] (https://docs.carpentries.org).
 
-## Site Organization
+## Organización del sitio
 
-This handbook has three main sections:
+Este manual tiene tres secciones principales:
 
-- **Handbooks**.  This contains handbooks for each community role (Community Session Host, Instructor, etc.).  Each community role has the same following sections, to ensure users have a consisent experience as they explore each role.
-  - Roles and Responsibilities
-  - Onboarding
-  - Offboarding
-  - Communication and Collaboration Spaces
-  - Step by step guides
-  - Resources
-  - FAQ
-- **Resources**.  This is a listing of general resources available to The Carpentries community (Style guide, Communication resources, etc.).
-- **Policies**.  This is a listing of all Carpentries policies (Code of Conduct, Privacy, etc.)
+- **Manuales**.  Contiene manuales para cada función en la comunidad (anfitrión de la sesión comunitaria, instructor, etc.).  Cada rol de la comunidad tiene las mismas secciones siguientes, para garantizar que los usuarios tengan una experiencia uniforme mientras exploran cada rol.
+  - Funciones y responsabilidades
+  - Incorporación
+  - Desembarque
+  - Espacios de comunicación y colaboración
+  - Guías paso a paso
+  - Recursos
+  - PREGUNTAS MÁS FRECUENTES
+- **Recursos**.  Esta es una lista de los recursos generales disponibles para la comunidad de The Carpentries (guía de estilo, recursos de comunicación, etc.).
+- **Políticas**.  Esta es una lista de todas las políticas de Carpentries (código de conducta, privacidad, etc.)
 
-## File structure
+## Estructura de archivos
 
-- `/build/` Used to build local website. In `.gitignore` so this will not show up in the repo.  Do not edit these files.
-- `/source/` Contains all the files needed to build the site.  Includes:
-  - css files and page templates that override styles and templates in the theme
-  - folders for handbooks, resources, and policies, with `md` files with content for each page.
-  - `/_includes/` - text blocks and other content to be included in other pages
-  - `/_templates/` - templates for specialized content such as the table of contents in the sidebar
-  - `/_static/` - contains custom css styles
-  - `conf.py` - site settings
-  - `index.rst` - sets structure for home page
-- `.gitignore` Standard gitignore file
-- `Makefile` - includes custom Make commands and inherits general Sphinx Make commands.
+- `/build/` Se usa para crear un sitio web local. En `.gitignore`, por lo que esto no aparecerá en el repositorio.  No edite estos archivos.
+- `/source/` Contiene todos los archivos necesarios para crear el sitio.  Incluye:
+  - archivos css y plantillas de página que anulan los estilos y plantillas del tema
+  - carpetas para manuales, recursos y políticas, con archivos «md\` con el contenido de cada página.
+  - `/_includes/`: bloques de texto y otro contenido que se incluirá en otras páginas
+  - `/_templates/`: plantillas para contenido especializado, como la tabla de contenido de la barra lateral
+  - `/_static/` - contiene estilos css personalizados
+  - `conf.py` - configuración del sitio
+  - `index.rst` - establece la estructura de la página de inicio
+- `.gitignore` Archivo gitignore estándar
+- `Makefile`: incluye comandos Make personalizados y hereda los comandos generales de Sphinx Make.
 
-## Editing content
+## Edición de contenido
 
-Content is organized in the `source` directory.  Edits to content should be made to these files.  Do not edit files in the `build` folder.
+El contenido se organiza en el directorio `source`.  Se deben realizar modificaciones en el contenido de estos archivos.  No edite los archivos de la carpeta `build`.
 
-## Editing styles
+## Edición de estilos
 
-Most styling comes from the `pydata_sphinx_theme` template.  Custom styles are implemented in `/source/_static/css`.  This includes the font files for the Mulish Google font and a custom css file.
+La mayoría de los estilos provienen de la plantilla `pydata_sphinx_theme`.  Los estilos personalizados se implementan en `/source/_static/css`.  Esto incluye los archivos de fuentes de la fuente Mulish de Google y un archivo css personalizado.
 
-## Editing templates and layouts
+## Edición de plantillas y diseños
 
-Most templates and layouts come from the `pydata_sphinx_theme` template.  Custom page templates are implemented in `/source/_templates/`.  For example, the standard theme includes Python functions to build templates for the table of contents in the sidebar and top navigation bar. Instead, we use custom and hard coded templates.  These are then called in `html_theme_options` in `conf.py`.
+La mayoría de las plantillas y diseños provienen de la plantilla `pydata_sphinx_theme`.  Las plantillas de página personalizadas se implementan en `/source/_templates/`.  Por ejemplo, el tema estándar incluye funciones de Python para crear plantillas para la tabla de contenido de la barra lateral y la barra de navegación superior. En su lugar, utilizamos plantillas personalizadas y codificadas.  Luego se llaman en `html_theme_options` en `conf.py`.
 
-## Building the handbook locally
+## Creación del manual a nivel local
 
-The handbook is built using Sphinx and the `pydata_sphinx_theme`.
+El manual está construido con Sphinx y el `pydata_sphinx_theme`.
 
-- `make clean` Removes all files in the `build` directory
-- `make html` Builds the site and publishes html content to the build directory. Run a Python server with `python -m http.server -d build/html/` to preview the site. The site will need to be re-built with each change.
+- `make clean` Elimina todos los archivos del directorio `build`
+- `make html` Crea el sitio y publica el contenido HTML en el directorio de compilación. Ejecute un servidor Python con `python -m http.server -d build/html/` para obtener una vista previa del sitio. Será necesario reconstruir el sitio con cada cambio.
 
-Alternatively, use `sphinx-autobuild` to rebuild the site and reload the browser anytime changes are made with `sphinx-autobuild source/ build/html/`
+También puedes usar `sphinx-autobuild` para reconstruir el sitio y volver a cargar el navegador cada vez que se realicen cambios con `sphinx-autobuild source/ build/html/`
 
-## Changes to `conf.py`
+## Cambios en `conf.py`
 
-After setting the theme, the additional following changes were needed to `conf.py`.  Note this list does not include changes that only reflect The Carpentries identity (setting the name, social media handles, etc.).  The list includes changes that affect the site functionality.
+Tras configurar el tema, se necesitaron los siguientes cambios adicionales en `conf.py`.  Tenga en cuenta que esta lista no incluye cambios que solo reflejen la identidad de The Carpentries (configuración del nombre, identificadores de redes sociales, etc.).  La lista incluye los cambios que afectan a la funcionalidad del sitio.
 
-- To make the template render markdown files properly, add `.md` to the `source_suffix` list and add `myst_parser` to the `extensions` list
-- To use a custon style sheet, set `html_static_path = ['_static']` and `html_css_files = ['css/custom.css']`
-- Add navbar and sidebar settings to `html_context`
-- To use headers as anchor links, add `myst_heading_anchors = 6`
-- To suppress warnings about duplicate headers across documents, add `suppress_warnings = ['autosectionlabel.*']`
+- Para que la plantilla represente correctamente los archivos de marcado, añada `.md` a la lista `source_suffix` y añada `myst_parser` a la lista de `extensions`
+- Para usar una hoja de estilos personalizada, defina `html_static_path = ['_static'] `y `html_css_files = ['css/custom.css']`
+- Añade la configuración de la barra de navegación y la barra lateral a `html_context`
+- Para usar encabezados como enlaces de anclaje, agrega `myst_heading_anchors = 6`
+- Para eliminar las advertencias sobre la duplicación de encabezados en los documentos, agrega `suppress_warnings = ['autosectionlabel.*'] `
 
-## Useful links
+## Enlaces útiles
 
-- [Pydata Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
-- [General Sphinx Documentation](https://www.sphinx-doc.org/en/master/usage/configuration.html)
+- [Tema Pydata Sphinx] (https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html)
+- [Documentación general sobre Sphinx] (https://www.sphinx-doc.org/en/master/usage/configuration.html)
