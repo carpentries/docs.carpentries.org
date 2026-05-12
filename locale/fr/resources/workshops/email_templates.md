@@ -2,252 +2,253 @@
 
 ## De la part des instructeurs et des hôtes
 
-The following templates can be used to email co-Instructors, Helpers, and learners for your upcoming workshop. Information in brackets is meant
-to be updated with the specifics of your workshop. Please feel free to update in other places as needed!
+Les modèles suivants peuvent être utilisés pour envoyer des e-mails aux co-formateurs, aux assistants et aux apprenants pour votre prochain atelier. Les informations entre parenthèses sont destinées à être mises à jour en fonction des spécificités de votre atelier.
+N'hésitez pas à les mettre à jour ailleurs si nécessaire !
 
 ### Pour les ateliers auto-organisés : recrutement d'un co-instructeur
 
-Subject: Recruiting co-Instructors: Carpentries Workshop at [ University/Organisation ]
+Objet : Recrutement de co-instructeurs : atelier de menuiserie à [Université/Organisation]
 
 Bonjour [nom de la personne],
 
-I would love to have you teach with me at an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ], hosted [ at location/ online ].
+J'adorerais que vous enseigniez avec moi lors d'un prochain atelier de menuiserie [données/bibliothèque/logiciel] le [dates de l'atelier], organisé [sur lieu/en ligne].
 
-Je suis ravie de donner un atelier ici et je pense qu'il sera très utile à notre [public cible]. Si vous souhaitez devenir co-instructeur, faites-le moi savoir et nous pourrons nous réunir et planifier.
+[The Carpentries] (https://carpentries.org/about-us/) est une organisation à but non lucratif enregistrée 501 (c) (3) qui développe des leçons en partenariat avec sa communauté mondiale afin d'enseigner aux apprenants les compétences de base nécessaires pour travailler de manière efficace et reproductible avec les données et le code. Je suis [professeur de menuiserie certifié] (https://docs.carpentries.org/handbooks/instructors.html#introduction) et je suis vraiment enthousiaste à l'idée d'utiliser le programme de menuiserie [Données/Bibliothèque/Logiciel] de [organisation] pour aider notre [public cible] à devenir plus efficace dans ses recherches.
 
-Enchanté à l'idée de co-enseigner avec vous !
+**Votre rôle en tant que co-instructeur**
 
-The Carpentries provide ready-to-use lesson materials, so we would not need to develop anything from scratch. At this workshop, I plan to teach:
+The Carpentries fournit du matériel pédagogique prêt à l'emploi, nous n'aurions donc pas besoin de développer quoi que ce soit à partir de zéro. Dans le cadre de cet atelier, j'ai l'intention d'enseigner :
 
-- Lesson [link]
-- Lesson [link]
+- Leçon [lien]
+- Leçon [lien]
 
-I was hoping that you would teach:
+J'espérais que tu enseignerais :
 
-- Lesson [link]
-- Lesson [link]
+- Leçon [lien]
+- Leçon [lien]
 
-This would be a [#] hour/s time commitment.
+Il s'agirait d'un engagement de [#] heures/heure.
 
-Je suis en train de mettre en place un atelier de menuiserie [Données/Bibliothèque/Logiciel] le [dates de l'atelier]. The Carpentries est une organisation à but non lucratif 501c3. Ils enseignent des compétences qui sont immédiatement utiles aux chercheurs, en utilisant des leçons et des ensembles de données qui permettent aux chercheurs d'appliquer rapidement ce qu'ils ont appris à leurs propres travaux.
+Je suis heureuse d'enseigner cet atelier et j'adorerais que vous l'enseigniez avec moi. Si vous êtes intéressé, veuillez consulter les documents liés ci-dessus. Faites-moi savoir avant le [date] si vous êtes disponible et nous pourrons organiser un rendez-vous et planifier !
 
-Pendant l'atelier, j'aurai besoin de quelques personnes pour m'aider au cas où les apprenants auraient des problèmes ou seraient bloqués. Les assistants se déplacent dans la salle pour répondre aux questions et aider les apprenants à résoudre des problèmes tels que les problèmes d'installation, les messages d'erreur et les résultats inattendus.
+Si vous connaissez quelqu'un d'autre qui pourrait être intéressé et capable de vous aider dans la partie [leçon/épisode] de l'atelier, faites-le moi savoir. Ce serait formidable d'avoir des instructeurs supplémentaires.
 
-Meilleur,
+Merci d'avoir envisagé cette opportunité !
 
-Sincerely,
+Cordialement
 
 [nom de l'expéditeur]
 
 ### Aides au recrutement
 
-Le [dates], [nom de l'organisation] organise un atelier de menuiserie [Données/Bibliothèque/Logiciel] pour [public cible/domaine].
+Objet : Assistants au recrutement : atelier de menuiserie à [Université/Organisation]
 
 Bonjour [nom],
 
-Cet atelier est axé sur [Menuiserie/domaine]. Le programme comprendra :
+Nous serions ravis que vous vous joigniez à nous en tant qu'assistant pour un prochain atelier de menuiserie [Données/Bibliothèque/Logiciel] le [dates de l'atelier]. L'atelier aura lieu [sur place/virtuel].
 
-[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
+[The Carpentries] (https://carpentries.org/about-us/) est une organisation à but non lucratif enregistrée 501 (c) (3) qui développe des leçons en partenariat avec sa communauté mondiale afin d'enseigner aux apprenants les compétences de base nécessaires pour travailler de manière efficace et reproductible avec les données et le code. Je suis vraiment enthousiaste à l'idée d'utiliser le programme de menuiserie [données/bibliothèques/logiciels] de [organisation] pour aider notre [public cible] à devenir plus efficace dans ses recherches.
 
-**Your Role as a Helper**
+**Votre rôle en tant qu'aide**
 
-During the workshop, I will need a few people to help out in case learners have problems or get stuck. Helpers:
+Pendant l'atelier, j'aurai besoin de quelques personnes pour m'aider au cas où les apprenants auraient des problèmes ou seraient bloqués. Assistants :
 
-- monitor the room to identify learners who are stuck
-- respond to learner questions
-- help learners work through things like installation problems, error messages and unexpected output
+- surveiller la salle pour identifier les apprenants bloqués
+- répondre aux questions des apprenants
+- aider les apprenants à résoudre des problèmes tels que les problèmes d'installation, les messages d'erreur et les résultats inattendus
 
-Nous espérons que vous allez vous inscrire !
+Vous n'avez pas besoin d'être un expert des outils que nous couvrons, mais vous devez être familiarisé avec au moins l'un d'entre eux et être à l'aise pour aider les gens à résoudre les problèmes.
 
-Meilleur,
+Lors de cet atelier, nous prévoyons de couvrir
 
-- Lesson [link]
-- Lesson [link]
-- Lesson [link]
+- Leçon [lien]
+- Leçon [lien]
+- Leçon [lien]
 
-You would be great at helping with [ topic ], because [reason]. If you are interested, please review the materials linked above and let me know your availability. Additionally, if you know anyone else who might be interested and willing to help out, I’d love to connect with them.
+Vous seriez formidable pour nous aider avec [sujet], parce que [raison]. Si vous êtes intéressé, veuillez consulter les documents liés ci-dessus et me faire part de vos disponibilités. De plus, si vous connaissez quelqu'un d'autre qui pourrait être intéressé et prêt à m'aider, j'aimerais communiquer avec eux.
 
-Thank you for considering this opportunity!
+Merci d'avoir envisagé cette opportunité !
 
-Sincerely,
+Cordialement
 
 [nom de l'expéditeur]
 
 ### Faire de la publicité pour votre atelier
 
-Subject: Learn to Code at our Beginner [Lesson Program] Workshop at [ site/organization name ]
+Sujet : Apprenez à coder lors de notre atelier [Programme de leçons] pour débutants à [nom du site/de l'organisation]
 
-Si vous ne pouvez pas y assister, veuillez nous en informer afin que nous puissions offrir votre place à une personne figurant sur la liste d'attente.
+Nous sommes ravis de vous inviter à notre [Titre de l'atelier] sur [site/organisation] !
 
-Taught by certified [Carpentries](https://carpentries.org/about-us/) Instructors, our [ Lesson Program ] workshop is an introduction to coding for those with little or no previous experience. Welcoming, hands-on and interactive, this workshop teaches the fundamentals of [ XYZ ], preparing learners to:
+Animé par des instructeurs certifiés [Carpentries] (https://carpentries.org/about-us/), notre atelier [Programme de leçons] est une introduction au codage pour ceux qui n'ont que peu ou pas d'expérience préalable. Accueillant, pratique et interactif, cet atelier enseigne les principes fondamentaux de [XYZ] et prépare les apprenants à :
 
 - [compétence 1]
 - [compétence 2]
 - [compétence 3]
-- [skill 4]
+- [compétence 4]
 
-Veuillez consulter {{"[The Carpentries Code of Conduct] ({}) » .format (code_of_conduct)}} afin que nous sachions tous comment nous devons nous traiter les uns les autres avec respect.
+**Détails de l'atelier**
+Dates :
+Heure :
+Lieu :
 
-**Interested in learning more?** Please use the following link to find the full details and register:
-[ Link to registration and/or workshop webpage ]
+\*\*Vous souhaitez en savoir plus ? \*\* Veuillez utiliser le lien suivant pour trouver tous les détails et vous inscrire :
+[Lien vers la page d'inscription et/ou la page web de l'atelier]
 
-Faites-nous savoir si vous avez des questions, nous sommes ravis de vous accueillir à l'atelier [jour de la semaine] le matin !
+N'hésitez pas à nous faire part de vos questions à l'adresse [email de contact].
 
-Je suis ravie de vous accueillir dans cet atelier !
+Nous sommes impatients d'apprendre avec vous !
 
-Meilleur,
+Cordialement
 
 [nom de l'expéditeur]
 
 ### Envoyer un e-mail aux apprenants avant l'atelier
 
-Subject: We Can't Wait to Welcome You! Upcoming Carpentries Workshop at [your university/orgaisation]
+Objet : Nous sommes impatients de vous accueillir ! Prochain atelier de menuiserie dans [votre université/organisation]
 
-Merci de vous être rendus disponibles pour participer à l'atelier [nom de l'atelier] le [date de l'atelier].
+Nous sommes ravis que vous vous joigniez à nous à l'atelier de menuiserie [Données/Bibliothèque/Logiciel], organisé par [votre université/organisation] !
 
-This email includes everything you need to prepare for the session and join the workshop each day.
+Cet e-mail contient tout ce dont vous avez besoin pour vous préparer à la session et participer à l'atelier chaque jour.
 
-**Prepare for the Workshop**
+**Préparez-vous pour l'atelier**
 
-To get the most out of your experience, please complete the following before the workshop:
+Pour tirer le meilleur parti de votre expérience, veuillez compléter les informations suivantes avant l'atelier :
 
-N'oubliez pas d'apporter le chargeur de votre ordinateur portable afin de pouvoir alimenter votre ordinateur portable. Nous sommes ravis que vous participiez à l'animation de cet atelier.
+**1. Répondez à l'enquête pré-atelier.** Vos réponses aident les professeurs à adapter l'atelier à vos besoins et à votre niveau d'expérience : [Ajouter un lien vers le sondage préalable à l'atelier depuis le site Web de l'atelier]
 
-**2. Set up your computer for learning.** Please use a desktop or laptop with administrative privileges. This ensures you can install any needed software and fully engage in activities. Follow the instructions on the workshop webpage [Add workshop website link to instructions]
+**2. Configurez votre ordinateur pour l'apprentissage.** Veuillez utiliser un ordinateur de bureau ou un ordinateur portable doté de privilèges administratifs. Cela vous permet d'installer tous les logiciels nécessaires et de participer pleinement aux activités. Suivez les instructions sur la page Web de l'atelier [Ajouter le lien du site Web de l'atelier aux instructions]
 
-**Need help with computer setup?** Join our Support Session on:
+\*\*Vous avez besoin d'aide pour configurer votre ordinateur ? \*\* Participez à notre session d'assistance sur :
 
-[Add support session information]
+[Ajouter des informations sur la session d'assistance]
 
-**OR**
+**OU**
 
 Si vous rencontrez des problèmes, envoyez-nous un e-mail ou venez un peu tôt [jour de la semaine] le matin. Quelqu'un sera là d'ici [heure] pour vous aider à résoudre les problèmes d'installation.
 
-**Joining the Workshop**
+**Rejoindre l'atelier**
 
-The Carpentries est heureuse de vous aider à développer vos compétences en analyse de données !
+Dates des ateliers :
 
-Meilleur,
+Heure :
 
-Location: The workshop will take place via [meeting platform]
+Lieu : L'atelier aura lieu via [plateforme de réunion]
 
-[Add meeting link and password]
+[Ajouter le lien et le mot de passe de la réunion]
 
-**OR**
+**OU**
 
-Location: The workshop will be at [Add building name, address, directions].
+Lieu : L'atelier aura lieu à [Ajouter le nom du bâtiment, l'adresse et l'itinéraire].
 
-**Special Notes**
+**Remarques spéciales**
 
-- **The workshop will not be recorded** - please plan to join the sessions live.
-- **Need accommodations?** Let us know in advance so we can support your learning: (https://carpentries.typeform.com/to/B2OSYaD0)
-- **Visit the workshop webpage** to review the schedule and code of conduct, add the event to your calendar, and more: [Add workshop website]
+- **L'atelier ne sera pas enregistré** - veuillez prévoir de participer aux sessions en direct.
+- \*\*Vous avez besoin d'un hébergement ? \*\* Prévenez-nous à l'avance afin que nous puissions vous aider dans votre apprentissage : (https://carpentries.typeform.com/to/B2OSYaD0)
+- **Visitez la page Web de l'atelier** pour consulter le calendrier et le code de conduite, ajouter l'événement à votre calendrier, et plus encore : [Ajouter le site Web de l'atelier]
 
-Nos meilleurs professeurs,  
-Vos professeurs
+\*\*Si vous ne pouvez plus participer à l'atelier, \*\* veuillez nous en informer afin que nous puissions offrir votre place à une personne figurant sur la liste d'attente.
 
-We’re excited to learn with you! Let us know what questions you have in the meantime at [contact email].
+Nous sommes impatients d'apprendre avec vous ! Entre-temps, faites-nous part de vos questions à l'adresse [email de contact].
 
-Bonjour,
+Chaleureusement,
 
-[Sender’s Name]
+[Nom de l'expéditeur]
 
 ### Assistants par e-mail avant l'atelier
 
-Nos meilleurs professeurs,  
-Vos professeurs
+Objet : Prochain atelier de menuiserie dans [votre université/organisation]
 
 Bonjour [noms des assistants],
 
-Thank you for being a Helper for the [ Data/Library/Software ] Carpentry workshop at [ organisation ]! Below, I have added information to
-assist you with preparing for the upcoming workshop.
+Merci d'avoir aidé l'atelier de menuiserie [Données/Bibliothèque/Logiciel] de [organisation] ! Ci-dessous, j'ai ajouté des informations pour que
+vous aide à vous préparer pour le prochain atelier.
 
-**Logistics**
+**Logistique**
 
-Location:
-[ Address / Meeting Platform ]
-[ Directions / Meeting Platform Link]
+Lieu :
+[Adresse/Plateforme de réunion]
+[Directions/Lien vers la plateforme de réunion]
 
-The workshop will be from [ start to finish time ] with lunch at [ time ]. [**In-person** Include whether or not you will be providing coffee, snacks, and/or lunch.]
+L'atelier se déroulera du [heure de début à la fin] avec un déjeuner à [heure]. [**En personne** Indiquez si vous fournirez du café, des collations et/ou un déjeuner.]
 
-Please [ arrive at the venue/ join the meeting ] at [ briefing time ] for a briefing. We will go through the schedule and make sure we all have an understanding of the goals for the day.
+Veuillez [arriver sur le lieu/participer à la réunion] à [heure de la réunion] pour une séance d'information. Nous allons passer en revue le calendrier et nous assurer que nous avons tous bien compris les objectifs de la journée.
 
-**Preparation**
+**Préparation**
 
-Please take some time before the workshop to review the following:
+Veuillez prendre le temps de passer en revue les points suivants avant l'atelier :
 
-- The  lessons we will be teaching. You can find the lessons on the (workshop webpage)[ link webpage ] within the schedule.
-- [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/). The code of conduct helps set expectations and encourages a welcoming and supportive environment for all.
+- Les leçons que nous allons enseigner. Vous pouvez trouver les leçons sur la (page web de l'atelier) [lien page web] dans le calendrier.
+- [Le code de conduite des charpenteries] (https://docs.carpentries.org/policies/coc/). Le code de conduite aide à définir les attentes et encourage un environnement accueillant et favorable pour tous.
 
-**What to Bring**
+**Ce qu'il faut apporter**
 
-- A drink bottle and/or a reusable cup so we can reduce waste.
-- Your laptop and charger (to power your laptop).
+- Une bouteille et/ou un gobelet réutilisable afin de réduire les déchets.
+- Votre ordinateur portable et son chargeur (pour alimenter votre ordinateur portable).
 
-We are so excited you will be helping to facilitate the workshop! Please let us know your questions in the meantime.
+Nous sommes ravis que vous participiez à l'animation de cet atelier ! Veuillez nous faire part de vos questions en attendant.
 
-Sincerely,
+Cordialement
 
 [nom de l'expéditeur]
 
 ### Envoyer un e-mail aux apprenants après l'atelier
 
-Subject: Thank you for attending the Carpentries workshop at [organisation]!
+Objet : Merci d'avoir participé à l'atelier de menuiserie de [organisation] !
 
 Bonjour,
 
-Thank you for attending the [ Data/Library/Software ] Carpentry workshop at [ organisation ]. We hope that you had fun and the skills you learnt will be useful!
+Merci d'avoir participé à l'atelier de menuiserie [Données/Bibliothèques/Logiciels] organisé par [organisation]. Nous espérons que vous vous êtes bien amusés et que les compétences que vous avez acquises vous seront utiles !
 
-Please take a moment to complete the post-workshop survey at [ link to survey ]. Your answers are essential to the continued improvement of our workshops for future learners.
+Veuillez prendre un moment pour répondre à l'enquête post-atelier à l'adresse [lien vers l'enquête]. Vos réponses sont essentielles à l'amélioration continue de nos ateliers pour les futurs apprenants.
 
-If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please email team@carpentries.org.
+Si vous avez d'autres commentaires à propos de l'atelier, ou si vous souhaitez vous impliquer dans la communauté The Carpentries, veuillez envoyer un e-mail à team@carpentries.org.
 
-More ways to connect with The Carpentries:
+Autres moyens de communiquer avec The Carpentries :
 
-- join The Carpentries [Discussion mailing list] (https://carpentries.topicbox.com/groups/discuss)
-- follow on [Mastodon](hachyderm.io/@thecarpentries), [BlueSky](bsky.app/profile/carpentries.carpentries.org), or [LinkedIn](linkedin.com/company/the-carpentries/)
-- get involved with lesson development on [GitHub]( https://github.com/datacarpentry and https://github.com/swcarpentry/ )
+- inscrivez-vous à The Carpentries [liste de discussion] (https://carpentries.topicbox.com/groups/discuss)
+- suivez-nous sur [Mastodon] (hachyderm.io/@thecarpentries), [BlueSky] (bsky.app/profile/carpentries.carpentries.org) ou [LinkedIn] (linkedin.com/company/the-carpentries/)
+- participez à l'élaboration des leçons sur [GitHub] (https://github.com/datacarpentry et https://github.com/swcarpentry/)
 
-The Carpentries is excited to support you as you continue to develop your data analysis skills!
+The Carpentries est heureuse de vous aider à développer vos compétences en analyse de données !
 
-Best wishes,
+Meilleurs voeux,
 
 [nom de l'expéditeur]
 
 ### Encouragez les apprenants à répondre à un sondage préalable à l'atelier
 
-Subject: Upcoming Carpentries Workshop at [organization]: Pre-workshop Survey
+Objet : Prochain atelier de menuiserie à [organisation] : enquête préalable à l'atelier
 
 Bonjour,
 
-We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] with [organisation]! As a reminder, you can find the workshop schedule, installation information, and more at [ WORKSHOP WEBSITE LINK].
+Nous sommes ravis de vous rencontrer lors du prochain [atelier de menuiserie de données/logiciels/bibliothèques] avec [organisation] ! Pour rappel, vous pouvez trouver le calendrier de l'atelier, les informations d'installation et plus encore sur [LIEN VERS LE SITE WEB DE L'ATELIER].
 
-To ensure the workshop is inclusive, and to help the Instructors tailor the content to your needs and experience level, please complete our pre-workshop survey [ INSERT LINK TO SURVEY ].
+Pour garantir l'inclusion de l'atelier et aider les formateurs à adapter le contenu à vos besoins et à votre niveau d'expérience, veuillez répondre à notre enquête préalable à l'atelier [INSÉRER LE LIEN VERS LE SONDAGE].
 
-Vous n'êtes pas obligé de répondre à cette enquête pour participer à notre atelier, mais vos réponses sont très précieuses pour nous. All responses will be recorded anonymously (IP addresses will be registered; however, the responses will remain anonymous). Vous pouvez quitter le sondage à tout moment ou ignorer tout élément autre que ceux requis pour trier correctement vos réponses.
+Vous n'êtes pas obligé de répondre à cette enquête pour participer à notre atelier, mais vos réponses sont très précieuses pour nous. Toutes les réponses seront enregistrées de manière anonyme (les adresses IP seront enregistrées, mais les réponses resteront anonymes). Vous pouvez quitter le sondage à tout moment ou ignorer tout élément autre que ceux requis pour trier correctement vos réponses.
 
-To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
+Pour en savoir plus sur l'évaluation de Carpentries, veuillez consulter la [page Impact] (https://carpentries.org/about-us/impact/) sur le site Web de The Carpentries.
 
-We are excited to meet with you soon!
+Nous sommes impatients de vous rencontrer bientôt !
 
-Our best,  
+Nos meilleurs professeurs,  
 Your Instructors
 
 ### Encouragez les apprenants à répondre à un sondage après l'atelier
 
-Subject: Carpentries Workshop at [organization]: Post-workshop Survey
+Sujet : Atelier de menuiserie à [organisation] : Enquête post-atelier
 
 Bonjour,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]! We hope you left the workshop feeling more comfortable with the tools you learned and empowered to continue learning.
+Merci d'avoir participé au récent [atelier sur la menuiserie des données, des bibliothèques et des logiciels] ! Nous espérons que vous avez quitté l'atelier en vous sentant plus à l'aise avec les outils que vous avez appris et qui vous ont permis de continuer à apprendre.
 
-We would love to learn about your workshop experience. Please take a few minutes to complete the post-workshop survey at [ INSERT LINK TO SURVEY ]. Not only will the survey help us understand your outcome from the workshop, but it will also help The Carpentries understand their programmatic efforts and the organisation’s  long-term impact on learners.
+Nous aimerions en savoir plus sur votre expérience en atelier. Veuillez prendre quelques minutes pour répondre au sondage effectué après l'atelier à l'adresse [INSÉRER LE LIEN VERS LE SONDAGE]. L'enquête nous aidera non seulement à comprendre les résultats de l'atelier, mais elle aidera également The Carpentries à comprendre ses efforts programmatiques et l'impact à long terme de l'organisation sur les apprenants.
 
-To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
+Pour en savoir plus sur l'évaluation de Carpentries, veuillez consulter la [page Impact] (https://carpentries.org/about-us/impact/) sur le site Web de The Carpentries.
 
-We are excited about your continued involvement with our community!
+Nous sommes ravis de votre engagement continu au sein de notre communauté !
 
-Our best,  
+Nos meilleurs professeurs,  
 Your Instructors
 
 
