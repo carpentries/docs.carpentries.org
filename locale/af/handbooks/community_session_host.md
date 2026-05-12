@@ -59,7 +59,7 @@ Sodra u 'n sessie geskeduleer het, sal 'n kalenderuitnodiging gestuur word na di
 
 'N Lys van Etherpads wat relevant is om as gemeenskapsessiegasheer te dien, sluit in:
 
-- {{'[Gemeenskapsessie Etherpad] ({}/community-discussions) '.format (etherpad)}}: Hierdie Etherpad bevat 'n lys van Etherpads wat beskikbaar is vir gemeenskapsessie-gasheers om te gebruik. In plaas daarvan om die Etherpad te gebruik soos ons in die verlede, sal ons Pretix vir Community Sessions -aanmeldings vanaf 1 Januarie 2026 gebruik vir [deelnemersregistrasies] (https://pretix.carpentries.org/community-events/).
+- {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: Instead of using the Etherpad as we have in the past (to list of upcoming Community Sessions), we use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
 - {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: 'n Lys van The Carpentries se mees gebruikte Etherpads en ander hulpbronne.
 
 ### Boodskappe en kommunikasie
