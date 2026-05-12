@@ -10,9 +10,18 @@ Subcommunity Leaders are community champions who promote The Carpentries and con
 
 ## Roles and Responsibilities
 
-Subcommunity Leaders contribute to advancing the mission of The Carpentries by promoting its work and supporting partnership outreach within their regions or areas of focus. They coordinate subcommunity calls, organise meetups such as CarpentryConnects, and coordinate self-organised workshops that respond to local priorities and strengthen community engagement. Through these activities, they create inclusive spaces for dialogue, shared learning, and collaboration.
+Subcommunity Leaders (SCLs) are community champions who promote the work of The Carpentries and connect members within a region, language group, or area of interest. They play an important role in strengthening local and global community engagement by creating inclusive spaces for collaboration, shared learning, and participation. SCLs are not workshop administrators or Regional Coordinators, and they do not need to be certified Instructors or Trainers.
 
-Subcommunity Leaders also encourage participation across the broader Carpentries community by supporting engagement in Instructor Training, Maintainer roles, and Collaborative Lesson Development. They represent and advocate for their registered subcommunities, ensuring that local perspectives are recognised and connected to the wider global community. 
+Anyone passionate about building local Carpentries communities and fostering collaboration can become a Subcommunity Leader. SCLs embody the mission of The Carpentries by supporting a diverse global community with essential data and computational skills, promoting open and reproducible research practices, and encouraging collaborative lesson development and research-informed teaching methods.
+
+### Responsibilities of Subcommunity Leaders
+
+- Promote The Carpentries and support Partnership outreach activities.
+- Host subcommunity calls, meetups such as CarpentryConnects, and self-organised workshops.
+- Encourage participation in Instructor Training, Maintainer roles, lesson development, and other community activities.
+- Represent and support registered subcommunities within the broader Carpentries network.
+- Facilitate local engagement, collaboration, and community-driven initiatives.
+
 
 ### Who Can Be a Subcommunity Leader?
 
@@ -23,7 +32,7 @@ Anyone passionate about building local Carpentries communities and fostering col
 
 The onboarding programme for Subcommunity Leaders offers a structured introduction to The Carpentries, with particular attention to multilingual communication, subcommunity coordination, and the organisation’s mission and pedagogy. Delivered across four one-hour sessions, the programme combines presentations, facilitated discussion, practical activities, and reflection to prepare leaders to steward their subcommunities effectively and inclusively.
 
-Participants engage with The Carpentries’ programmatic offerings, partnership model, and research-informed teaching practices, while gaining clarity on the Subcommunity Leader role and its scope of work. The programme provides space to explore approaches to hosting community calls, meetups, and self-organised workshops, and to strengthen engagement within regional contexts. 
+Participants engage with The Carpentries’ programmatic offerings, Partnership model, and research-informed teaching practices, while gaining clarity on the Subcommunity Leader role and its scope of work. The programme provides space to explore approaches to hosting community calls, meetups, and self-organised workshops, and to strengthen engagement within regional contexts. 
 
 
 ## Offboarding
