@@ -130,7 +130,11 @@ An Instructor Trainer who wishes to return to Active status will have a differen
 
 ### Community Calendar
 
-All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/events/). Below is a list of Etherpads relevant to serving as an Instructor  Trainer. 
+All regularly scheduled Instructor Trainer community meetings and teaching demonstrations hosted by Instructor Trainers are listed on The Carpentries [Community Calendar](https://carpentries.org/community/events/). 
+
+### Collaborative Notetaking
+
+Below is a list of Etherpads relevant to serving as an Instructor Trainer. 
 
 * [Instructor Trainer Meetings](https://pad.carpentries.org/trainers): Used for monthly Instructor Trainer meetings.   
 * [Teaching Demonstrations](https://pad.carpentries.org/teaching-demos): Signup sheet for teaching demos. This may be used to monitor registration for upcoming events. For making changes to the schedule, see the instructions below. 
@@ -158,7 +162,7 @@ Instructor Trainers may also wish to join:
 
 New to Slack? Check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
-### TopicBox
+### Mailing List
 
 You can access The Carpentries mailing lists from [TopicBox](https://carpentries.topicbox.com/latest). Below is a list of those relevant to the activities and programs covered by this handbook.  If you are new to Topicbox, please check out our {{"[Topicbox Guide]({})".format(topicbox_guide)}}.
 
