@@ -2,252 +2,253 @@
 
 ## Van instrukteurs en gashere
 
-The following templates can be used to email co-Instructors, Helpers, and learners for your upcoming workshop. Information in brackets is meant
-to be updated with the specifics of your workshop. Please feel free to update in other places as needed!
+Die volgende sjablone kan gebruik word om mede-instrukteurs, helpers en leerders te e-pos vir u komende werkswinkel. Inligting in hakies is bedoel om
+opgedateer te word met die besonderhede van u werkswinkel. Opdateer asseblief gerus op ander plekke indien nodig!
 
 ### Vir selforganiseerde werkswinkels: Werwing van mede-instrukteur
 
-Subject: Recruiting co-Instructors: Carpentries Workshop at [ University/Organisation ]
+Onderwerp: Werwing van mede-instrukteurs: Carpentries Workshop by [Universiteit/Organisasie]
 
 Hallo persoonnaam,
 
-I would love to have you teach with me at an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ], hosted [ at location/ online ].
+Ek wil jou graag saam met my laat leer by 'n komende [Data/Biblioteek/Sagteware] timmerwerkswinkel op [datums van werkswinkel], aangebied [op plek/aanlyn].
 
-Ek is opgewonde om hier 'n werkswinkel te leer en dink dit sal baie nuttig wees vir ons [teikengehoor]. As jy belangstel om 'n mede-instrukteur te wees, laat weet my asseblief en ons kan bymekaarkom en beplan.
+[The Carpentries] (https://carpentries.org/about-us/) is 'n geregistreerde 501 (c) (3) nie-winsgewende winsgewende wat lesse ontwikkel in vennootskap met hul wêreldwye gemeenskap om leerders die grondsvaardighede te leer wat nodig is om effektief en reproduceerbaar met data en kode te werk. Ek is 'n [Certified Carpentries Instructor] (https://docs.carpentries.org/handbooks/instructors.html#introduction) en ek is baie opgewonde oor die gebruik van die [Data/Biblioteek/Sagteware] Timmerkurrikulum by [organisasie] om ons [teikengehoor] te help om meer doeltreffend te word in hul navorsing.
 
-Opgewonde oor die vooruitsig om saam met jou saam te onderrig!
+**Jou rol as mede-instruktor**
 
-The Carpentries provide ready-to-use lesson materials, so we would not need to develop anything from scratch. At this workshop, I plan to teach:
+Die Carpentries verskaf lesmateriaal wat gereed is om te gebruik, so ons hoef niks van nuuts af te ontwikkel nie. By hierdie werkswinkel beplan ek om te leer:
 
-- Lesson [link]
-- Lesson [link]
+- Les [skakel]
+- Les [skakel]
 
-I was hoping that you would teach:
+Ek het gehoop dat jy sal leer:
 
-- Lesson [link]
-- Lesson [link]
+- Les [skakel]
+- Les [skakel]
 
-This would be a [#] hour/s time commitment.
+Dit sou 'n tydsverbintenis [#] uur/s wees.
 
-Ek stel 'n [Data/Biblioteek/Sagteware] timmerwerkswinkel op [datums van werkswinkel] op. The Carpentries is 'n 501c3 nie-winsgewende organisasie. Hulle leer vaardighede wat onmiddellik nuttig is vir navorsers, met behulp van lesse en datastelle wat navorsers in staat stel om vinnig wat hulle geleer het op hul eie werk toe te pas.
+Ek is opgewonde om hierdie werkswinkel te leer en ek sal graag wil u dit saam met my laat leer. As u belangstel, hersien asseblief die materiaal wat hierbo gekoppel is. Laat my weet teen [datum] as u beskikbaar is en ons kan 'n tyd organiseer om te ontmoet en te beplan!
 
-Tydens die werkswinkel sal ek 'n paar mense nodig hê om te help as leerders probleme ondervind of vas raak. Helpers beweeg deur die kamer om vrae te beantwoord en leerders te help om dinge soos installasieprobleme, foutboodskappe en onverwagte uitset deur te werk.
+As u iemand anders ken wat dalk belangstel en kan help met die deel van die [les/episode] van die werkswinkel, laat weet my. Dit sal wonderlik wees om addisionele instrukteurs te hê.
 
-Beste,
+Dankie dat u hierdie geleentheid oorweeg het!
 
-Sincerely,
+Opregte,
 
 [sender naam]
 
 ### Werwing van Helpers
 
-Op [datums] bied [organisasienaam] 'n [Data/Biblioteek/Sagteware] timmerwerkswinkel vir [teikengehoor/domein] aan.
+Onderwerp: Werwing van Helpers: Carpentries Workshop by [Universiteit/Organisasie]
 
 Hallo [naam],
 
-Hierdie werkswinkel is gefokus op [Carpentry/domain]. Die kurrikulum sal die volgende insluit:
+Ons wil graag hê dat u by ons aansluit as 'n Helper vir 'n komende [Data/Biblioteek/Sagteware] timmerwerkswinkel op [datums van werkswinkel]. Die werkswinkel sal [op plek/virtueel] wees.
 
-[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
+[The Carpentries] (https://carpentries.org/about-us/) is 'n geregistreerde 501 (c) (3) nie-winsgewende winsgewende wat lesse ontwikkel in vennootskap met hul wêreldwye gemeenskap om leerders die grondsvaardighede te leer wat nodig is om effektief en reproduceerbaar met data en kode te werk. Ek is baie opgewonde oor die gebruik van die [Data/Biblioteek/Sagteware] Timmerkurrikulum by [organisasie] om ons [teikengehoor] te help om doeltreffender te word in hul navorsing.
 
-**Your Role as a Helper**
+**Jou rol as helper**
 
-During the workshop, I will need a few people to help out in case learners have problems or get stuck. Helpers:
+Tydens die werkswinkel sal ek 'n paar mense nodig hê om te help as leerders probleme ondervind of vas raak. Helpers:
 
-- monitor the room to identify learners who are stuck
-- respond to learner questions
-- help learners work through things like installation problems, error messages and unexpected output
+- monitor die kamer om leerders te identifiseer wat vas is
+- reageer op leerdervrae
+- help leerders om dinge soos installasieprobleme, foutboodskappe en onverwagte uitset te werk
 
-Ons hoop jy sal aanmeld!
+U hoef nie 'n kundige te wees in die gereedskap wat ons dek nie, maar moet ten minste een daarvan vertroud hê en gemaklik wees om mense probleme op te los.
 
-Beste,
+By hierdie werkswinkel beplan ons om te dek
 
-- Lesson [link]
-- Lesson [link]
-- Lesson [link]
+- Les [skakel]
+- Les [skakel]
+- Les [skakel]
 
-You would be great at helping with [ topic ], because [reason]. If you are interested, please review the materials linked above and let me know your availability. Additionally, if you know anyone else who might be interested and willing to help out, I’d love to connect with them.
+Jy sal goed wees om te help met [onderwerp], want [rede]. As u belangstel, hersien asseblief die materiaal wat hierbo gekoppel is en laat my weet u beskikbaarheid. Daarbenewens, as u iemand anders ken wat dalk belangstel en bereid is om te help, wil ek graag met hulle kontak maak.
 
-Thank you for considering this opportunity!
+Dankie dat u hierdie geleentheid oorweeg het!
 
-Sincerely,
+Opregte,
 
 [sender naam]
 
 ### Adverteer jou werkswinkel
 
-Subject: Learn to Code at our Beginner [Lesson Program] Workshop at [ site/organization name ]
+Onderwerp: Leer om te kodeer by ons beginnersprogram [lesprogram] werkswinkel by [webwerf/organisasie naam]
 
-As jy nie kan bywoon nie, laat weet ons asseblief sodat ons jou sitplek aan iemand op die waglys kan bied.
+Ons is opgewonde om u uit te nooi na ons [Werkswinkel Titel] by [webwerf/organisasie]!
 
-Taught by certified [Carpentries](https://carpentries.org/about-us/) Instructors, our [ Lesson Program ] workshop is an introduction to coding for those with little or no previous experience. Welcoming, hands-on and interactive, this workshop teaches the fundamentals of [ XYZ ], preparing learners to:
+Ons [Lesprogram] werkswinkel, aangebied deur gesertifiseerde [Carpentries] (https://carpentries.org/about-us/) instrukteurs, is 'n inleiding tot kodering vir diegene met min of geen vorige ervaring nie. Hierdie werkswinkel verwelkomend, praktiese en interaktief leer die grondbeginsels van [XYZ] en voorberei leerders voor om:
 
 - [vaardigheid 1]
 - [vaardigheid 2]
 - [vaardigheid 3]
-- [skill 4]
+- [vaardigheid 4]
 
-Hersien asseblief {{"[The Carpentries Conduct Code] ({})” .format (code_of_duct)}} sodat ons almal bewus is van hoe om mekaar respek te behandel.
+**Werkswinkel besonderhede**
+Datums:
+Tyd:
+Plek:
 
-**Interested in learning more?** Please use the following link to find the full details and register:
-[ Link to registration and/or workshop webpage ]
+\*\*Stel jy belang om meer te leer? \*\* Gebruik asseblief die volgende skakel om die volledige besonderhede te vind en te registreer:
+[Skakel na registrasie en/of werkswinkelwebblad]
 
-Laat weet ons as u enige vrae het, ons is opgewonde om u oggend by die werkswinkel [dag van die week] te hê!
+Laat ons asseblief weet watter vrae u het by [kontak e-pos].
 
-Opgewonde om jou in die werkswinkel te hê!
+Ons kan nie wag om saam met jou te leer nie!
 
-Beste,
+Opregte,
 
 [sender naam]
 
 ### E-pos leerders voor werkswinkel
 
-Subject: We Can't Wait to Welcome You! Upcoming Carpentries Workshop at [your university/orgaisation]
+Onderwerp: Ons kan nie wag om jou te verwelkom nie! Komende Carpentries Workshop by [jou universiteit/orgaisation]
 
-Dankie dat u jouself beskikbaar gestel het om te help met die [werkswinkel naam] werkswinkel op [werkswinkel datum].
+Ons is opgewonde vir u om by ons aan te sluit by die [Data/Biblioteek/Sagteware] timmerwerkswinkel, aangebied deur [jou universiteit/orgaisation]!
 
-This email includes everything you need to prepare for the session and join the workshop each day.
+Hierdie e-pos bevat alles wat u nodig het om voor te berei vir die sessie en elke dag by die werkswinkel aan te sluit.
 
-**Prepare for the Workshop**
+**Berei voor vir die werkswinkel**
 
-To get the most out of your experience, please complete the following before the workshop:
+Om die meeste uit u ervaring te haal, voltooi asseblief die volgende voor die werkswinkel:
 
-Onthou asseblief om jou skootrekenaarlaaier saam te bring sodat jy jou skootrekenaar kan aankrag. Ons is opgewonde dat jy sal help om die werkswinkel te vergemaklik.
+**1. Voltooi die opname voor werkswinkel.** Jou antwoorde help instrukteurs om die werkswinkel aan te pas by u behoeftes en ervaringsvlak: [Voeg opname-skakel voor die werkswinkel by vanaf werkswinkel by]
 
-**2. Set up your computer for learning.** Please use a desktop or laptop with administrative privileges. This ensures you can install any needed software and fully engage in activities. Follow the instructions on the workshop webpage [Add workshop website link to instructions]
+**2. Stel jou rekenaar op vir leer.** Gebruik asseblief 'n lessenaar of skootrekenaar met administratiewe voorregte. Dit verseker dat u enige nodige sagteware kan installeer en ten volle betrokke raak by aktiwiteite. Volg die instruksies op die werkswinkelwebblad [Voeg werkswinkelwebwerf skakel na instruksies by]
 
-**Need help with computer setup?** Join our Support Session on:
+\*\* Het u hulp nodig met die opstelling van rekenaar? \*\* Sluit aan by ons ondersteuningsessie op:
 
-[Add support session information]
+[Voeg ondersteuningsessie-inligting by]
 
-**OR**
+**Ó**
 
 As u probleme ondervind, stuur vir ons 'n e-pos of kom 'n bietjie vroeg [dag van die week] oggend. Iemand sal [tyd] daar wees om te help met installasieprobleme.
 
-**Joining the Workshop**
+**Aansluit by die werkswinkel**
 
-Die Carpentries is opgewonde om jou te ondersteun terwyl jy voortgaan om jou data-analise vaardighede te ontwikkel!
+Werkswinkeldatums:
 
-Beste,
+Tyd:
 
-Location: The workshop will take place via [meeting platform]
+Plek: Die werkswinkel sal plaasvind via [vergaderingsplatform]
 
-[Add meeting link and password]
+[Voeg vergaderingskakel en wagwoord by]
 
-**OR**
+**Ó**
 
-Location: The workshop will be at [Add building name, address, directions].
+Plek: Die werkswinkel sal wees by [Voeg gebounaam, adres, aanwysings by].
 
-**Special Notes**
+**Spesiale opmerkings**
 
-- **The workshop will not be recorded** - please plan to join the sessions live.
-- **Need accommodations?** Let us know in advance so we can support your learning: (https://carpentries.typeform.com/to/B2OSYaD0)
-- **Visit the workshop webpage** to review the schedule and code of conduct, add the event to your calendar, and more: [Add workshop website]
+- **Die werkswinkel sal nie opgeneem word nie** - beplan asseblief om regstreeks by die sessies aan te sluit.
+- \*\* Benodig u akkommodasie? \*\* Laat ons vooraf weet sodat ons u leer kan ondersteun: (https://carpentries.typeform.com/to/B2OSYaD0)
+- \*\* Besoek die werkswinkelwebblyd\*\* om die skedule en gedragskode te hersien, die geleentheid by u kalender te voeg en meer: [Voeg werkswinkel webwerf by]
 
-Ons beste,  
-Jou instrukteurs
+\*\* As u nie meer by die werkswinkel kan aansluit nie, \*\* laat weet ons asseblief sodat ons u sitplek aan iemand op die waglys kan bied.
 
-We’re excited to learn with you! Let us know what questions you have in the meantime at [contact email].
+Ons is opgewonde om saam met jou te leer! Laat weet ons watter vrae u intussen het by [kontak e-pos].
 
-Hallo,
+Warm,
 
-[Sender’s Name]
+[Sender se naam]
 
 ### E-pos helpers voor werkswinkel
 
-Ons beste,  
-Jou instrukteurs
+Onderwerp: Komende Carpentries Workshop by [jou universiteit/orgaisation]
 
 Hallo [helpername],
 
-Thank you for being a Helper for the [ Data/Library/Software ] Carpentry workshop at [ organisation ]! Below, I have added information to
-assist you with preparing for the upcoming workshop.
+Dankie dat u 'n Helper was vir die [Data/Biblioteek/Sagteware] Timmerwerkswinkel by [organisasie]! Hieronder het ek inligting bygevoeg tot
+wat u help met die voorbereiding vir die komende werkswinkel.
 
-**Logistics**
+\*\*Logistieke
 
-Location:
-[ Address / Meeting Platform ]
-[ Directions / Meeting Platform Link]
+Plek:
+[Adres/Vergaderingsplatform]
+[Aanwysings/Vergaderingsplatform skakel]
 
-The workshop will be from [ start to finish time ] with lunch at [ time ]. [**In-person** Include whether or not you will be providing coffee, snacks, and/or lunch.]
+Die werkswinkel sal van [begin tot einde tyd] wees met middagete om [tyd]. [**Persoonlik** Sluit in of u koffie, versnaperinge en/of middagete sal verskaf of nie.]
 
-Please [ arrive at the venue/ join the meeting ] at [ briefing time ] for a briefing. We will go through the schedule and make sure we all have an understanding of the goals for the day.
+[aankom asseblief by die venue/ sluit aan by die vergadering] op [inligtingstyd] vir 'n inligtingsessie. Ons sal deur die skedule gaan en seker maak dat ons almal die doelwitte vir die dag begrip het.
 
-**Preparation**
+**Voorbereiding**
 
-Please take some time before the workshop to review the following:
+Neem asseblief tyd voor die werkswinkel om die volgende te hersien:
 
-- The  lessons we will be teaching. You can find the lessons on the (workshop webpage)[ link webpage ] within the schedule.
-- [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/). The code of conduct helps set expectations and encourages a welcoming and supportive environment for all.
+- Die lesse wat ons sal leer. U kan die lesse op die (werkswinkelwebblad) [skakelwebblad] binne die skedule vind.
+- [Die Carpentries Gedragskode] (https://docs.carpentries.org/policies/coc/). Die gedragskode help om verwagtinge te stel en moedig 'n verwelkomende en ondersteunende omgewing vir almal aan.
 
-**What to Bring**
+**Wat om te bring**
 
-- A drink bottle and/or a reusable cup so we can reduce waste.
-- Your laptop and charger (to power your laptop).
+- 'N Drankbottel en/of 'n herbruikbare koppie sodat ons afval kan verminder.
+- Jou skootrekenaar en laaier (om jou skootrekenaar aan te dryf).
 
-We are so excited you will be helping to facilitate the workshop! Please let us know your questions in the meantime.
+Ons is so opgewonde dat jy sal help om die werkswinkel te vergemaklik! Laat ons intussen jou vrae weet.
 
-Sincerely,
+Opregte,
 
 [sender naam]
 
 ### E-pos leerders na werkswinkel
 
-Subject: Thank you for attending the Carpentries workshop at [organisation]!
+Onderwerp: Dankie dat u die Carpentries-werkswinkel by [organisasie] bygewoon het!
 
 Hallo,
 
-Thank you for attending the [ Data/Library/Software ] Carpentry workshop at [ organisation ]. We hope that you had fun and the skills you learnt will be useful!
+Dankie dat u die [Data/Biblioteek/Sagteware] Timmerwerkswinkel by [organisasie] bygewoon het. Ons hoop dat u pret gehad het en die vaardighede wat u geleer het, nuttig sal wees!
 
-Please take a moment to complete the post-workshop survey at [ link to survey ]. Your answers are essential to the continued improvement of our workshops for future learners.
+Neem asseblief 'n oomblik om die opname na die werkswinkel te voltooi by [skakel na opname]. U antwoorde is noodsaaklik vir die voortgesette verbetering van ons werkswinkels vir toekomstige leer
 
-If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please email team@carpentries.org.
+As u enige ander terugvoer oor die werkswinkel het, of wil betrokke raak by die Carpentries-gemeenskap, stuur asseblief e-pos aan team@carpentries.org.
 
-More ways to connect with The Carpentries:
+Meer maniere om met The Carpentries kontak te maak:
 
-- join The Carpentries [Discussion mailing list] (https://carpentries.topicbox.com/groups/discuss)
-- follow on [Mastodon](hachyderm.io/@thecarpentries), [BlueSky](bsky.app/profile/carpentries.carpentries.org), or [LinkedIn](linkedin.com/company/the-carpentries/)
-- get involved with lesson development on [GitHub]( https://github.com/datacarpentry and https://github.com/swcarpentry/ )
+- sluit aan by The Carpentries [Besprekings-poslys] (https://carpentries.topicbox.com/groups/discuss)
+- volg op [Mastodon] (hachyderm.io/@thecarpentries), [BlueSky] (bsky.app/profile/carpentries.carpentries.org), of [LinkedIn] (linkedin.com/company/the-carpentries/)
+- raak betrokke by lesontwikkeling op [GitHub] (https://github.com/datacarpentry en https://github.com/swcarpentry/)
 
-The Carpentries is excited to support you as you continue to develop your data analysis skills!
+Die Carpentries is opgewonde om jou te ondersteun terwyl jy voortgaan om jou data-analise vaardighede te ontwikkel!
 
-Best wishes,
+Beste wense,
 
 [sender naam]
 
 ### Moedig leerders aan om opname voor werkswinkel te voltooi
 
-Subject: Upcoming Carpentries Workshop at [organization]: Pre-workshop Survey
+Onderwerp: Komende Carpentries Workshop by [organisasie]: Pre-werkswinkel Opname
 
 Hallo,
 
-We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] with [organisation]! As a reminder, you can find the workshop schedule, installation information, and more at [ WORKSHOP WEBSITE LINK].
+Ons is opgewonde om u te ontmoet by die komende [Data/Software/Library Timmerwerkswinkel] met [organisasie]! Ter herinnering kan u die werkswinkelskedule, installasie-inligting en meer vind by [WORKSHOP WEBSITE LINK].
 
-To ensure the workshop is inclusive, and to help the Instructors tailor the content to your needs and experience level, please complete our pre-workshop survey [ INSERT LINK TO SURVEY ].
+Om te verseker dat die werkswinkel inklusief is, en om die instrukteurs te help om die inhoud aan te pas by u behoeftes en ervaringsvlak, voltooi asseblief ons opname voor die werkswinkel [VOEG SKAKEL NA OPNAME].
 
-U moet nie hierdie opname neem om aan ons werkswinkel deel te neem nie, maar u antwoorde is vir ons baie waardevol. All responses will be recorded anonymously (IP addresses will be registered; however, the responses will remain anonymous). U kan te eniger tyd die opname verlaat of enige ander item oorslaan as dié wat nodig is om u antwoorde korrek te sorteer.
+U moet nie hierdie opname neem om aan ons werkswinkel deel te neem nie, maar u antwoorde is vir ons baie waardevol. Alle antwoorde sal anoniem aangeteken word (IP-adresse sal geregistreer word; die antwoorde sal egter anoniem bly). U kan te eniger tyd die opname verlaat of enige ander item oorslaan as dié wat nodig is om u antwoorde korrek te sorteer.
 
-To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
+Om meer te wete te kom oor Carpentries-assessering, besoek asseblief die [Impak-bladsy] (https://carpentries.org/about-us/impact/) op The Carpentries -webwerf.
 
-We are excited to meet with you soon!
+Ons is opgewonde om jou binnekort te ontmoet!
 
-Our best,  
-Your Instructors
+Ons beste,  
+Jou instrukteurs
 
 ### Moedig leerders aan om na-werkswinkel opname te voltooi
 
-Subject: Carpentries Workshop at [organization]: Post-workshop Survey
+Onderwerp: Carpentries Workshop by [organisasie]: Opname na werkswinkel
 
 Hallo,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]! We hope you left the workshop feeling more comfortable with the tools you learned and empowered to continue learning.
+Dankie dat u die onlangse [Data/Library/Software Timmerwerkswinkel] bygewoon het! Ons hoop jy het die werkswinkel verlaat en gemakliker voel met die gereedskap wat jy geleer het en bemagtig het om voort te gaan met leer.
 
-We would love to learn about your workshop experience. Please take a few minutes to complete the post-workshop survey at [ INSERT LINK TO SURVEY ]. Not only will the survey help us understand your outcome from the workshop, but it will also help The Carpentries understand their programmatic efforts and the organisation’s  long-term impact on learners.
+Ons sal graag leer oor u werkswinkelervaring. Neem asseblief 'n paar minute om die opname na die werkswinkel te voltooi by [VOEG SKAKEL NA OPNAME IN]. Die opname sal ons nie net help om jou uitkoms uit die werkswinkel te verstaan nie, maar dit sal ook The Carpentries help om hul programmatiese pogings en die organisasie se langtermynimpak op leerders te verstaan.
 
-To learn more about Carpentries assessment, please visit the [Impact page](https://carpentries.org/about-us/impact/) on The Carpentries website.
+Om meer te wete te kom oor Carpentries-assessering, besoek asseblief die [Impak-bladsy] (https://carpentries.org/about-us/impact/) op The Carpentries -webwerf.
 
-We are excited about your continued involvement with our community!
+Ons is opgewonde oor jou voortgesette betrokkenheid by ons gemeenskap!
 
-Our best,  
-Your Instructors
+Ons beste,  
+Jou instrukteurs
 
 
