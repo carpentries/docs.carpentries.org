@@ -59,7 +59,7 @@ sessions will also be listed on our {{'[Community Calendar]({}/community/events/
 
 A list of Etherpads relevant to serving as a Community Session Host includes:
 
--  {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: This Etherpad contains a list of Etherpads available for Community Session Hosts to use. Instead of using the Etherpad as we have in the past, we will use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).  
+-  {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: Instead of using the Etherpad as we have in the past (to list of upcoming Community Sessions), we use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).  
 -  {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: A list of The Carpentries' most commonly used Etherpads and other resources.
 
 ### Messaging and Communication
