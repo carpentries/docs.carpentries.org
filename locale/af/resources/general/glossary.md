@@ -385,12 +385,6 @@ Skill-Up Session
 Slack
     sagtewareplatform wat deur The Carpentries gebruik word om sinchrone en asynchrone kommunikasie te ondersteun; kanale ondersteun kommunikasie, samewerking en mede-skepping tussen 'n subset gemeenskapslede, afhangende van die kanaal se doel.
 
-Sponsor
-    'n organisasie wat daartoe verbind het om The Carpentries finansieel te ondersteun deur die Carpentries Borgingsprogram; verwys na {term}`Borgingsprogram <sponsorship program>`. 
-
-Borgingsprogram
-    -program wat 'n maatskappy, firma of ander entiteit toelaat om finansieel by te dra tot The Carpentries. 
-
 Strategiese Plan
     -dokument wat gebruik word om The Carpentries se doelwitte, doelwitte en aksies wat geneem is om daardie doelwitte oor 'n tydperk van drie tot vyf jaar te kommunikeer.
 
