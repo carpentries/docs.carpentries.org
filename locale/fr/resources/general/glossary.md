@@ -383,13 +383,7 @@ Skill-Up Session
     Session communautaire offrant des opportunités de développement professionnel à la communauté où l'animateur de la session communautaire enseigne des compétences pertinentes. Plateforme logicielle
 
 Slack
-    utilisée par The Carpentries pour prendre en charge les communications synchrones et asynchrones ; les canaux prennent en charge les communications, la collaboration et la co-création entre un sous-ensemble de membres de la communauté, en fonction de l'objectif de la chaîne.
-
-Sponsor
-    une organisation qui s'est engagée à soutenir financièrement The Carpentries par le biais du programme de parrainage Carpentries ; reportez-vous à {term}« Programme de parrainage <sponsorship program> ». Programme de parrainage 
-
-Programme
-    qui permet à une entreprise, une entreprise ou une autre entité de contribuer financièrement à The Carpentries. Document du plan stratégique 
+    utilisée par The Carpentries pour prendre en charge les communications synchrones et asynchrones ; les canaux prennent en charge les communications, la collaboration et la co-création entre un sous-ensemble de membres de la communauté, en fonction de l'objectif de la chaîne. Document du plan stratégique
 
 
     utilisé pour communiquer les buts, les objectifs et les mesures prises par The Carpentries pour atteindre ces objectifs sur une période de trois à cinq ans.
@@ -398,7 +392,7 @@ Sous-communauté
     un sous-ensemble de l'ensemble de la communauté Carpentries ; elle peut être locale, régionale, spécifique à un domaine ou un groupe de membres de la communauté partageant une langue ou des intérêts communs ; reportez-vous à {term}« Communauté locale <local community> » et {term}« Communauté régionale <regional community> ». Coordinateur de sous-communauté
 
 
-    membre de la communauté qui agit en tant que leader d'une sous-communauté. Registre sous-communautaire
+    membre de la communauté qui dirige une sous-communauté. Registre sous-communautaire
 
 
     [un registre de toutes les sous-communautés de The Carpentries] (https://carpentries.org/community/get-connected/#subcommunity-registry) qui se sont officiellement enregistrées auprès de l'organisation.
