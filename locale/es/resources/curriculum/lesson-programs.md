@@ -1,200 +1,200 @@
-# Lesson Programs
+# Programas de lecciones
 
-The Carpentries supports and maintains Lesson Programs. Lesson Programs are collections of lessons comprising one or more Carpentries workshops, serving distinct goals and audience, and the leadership guiding their development and implementation.
+The Carpentries apoya y mantiene los programas de lecciones. Los programas de lecciones son colecciones de lecciones que comprenden uno o más talleres de carpintería, que sirven a distintos objetivos y audiencias, y al liderazgo que guía su desarrollo e implementación.
 
-From {{'[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)'.format(carpentries_website)}}:  
-A Lesson Program within The Carpentries possesses the following characteristics:
+De {{'[The Carpentries Bylaws] ({}/about-us/governance/#carpentries-bylaws-and-policies) '.format (carpentries_website)}}:  
+Un programa de lecciones dentro de The Carpentries posee las siguientes características:
 
-- Intention and purpose for lessons that align with The Carpentries mission and vision.
-- Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs.
-- Service to a particular audience of learners.
-- Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development.
+- Intención y propósito de las lecciones que se alinean con la misión y la visión de The Carpentries.
+- Metas y objetivos de las lecciones y/o talleres que son distintos de otros programas de lecciones.
+- Servicio a una audiencia particular de estudiantes.
+- Evidencia del compromiso de los miembros de la comunidad con la gobernanza del programa de lecciones (ver más abajo), el mantenimiento de las lecciones y el desarrollo curricular.
 
-Adoption as an official The Carpentries Lesson Program is the last step of Lesson Program incubation as outlined in the [Lesson Program Incubation Roadmap](#lesson-program-incubation-roadmap).
+Adopción como oficial El programa de lecciones de Carpentries es el último paso de la incubación del programa de lecciones, tal como se describe en la [Hoja de ruta de incubación del programa de lecciones] (#lesson-program-incubation-roadmap).
 
-This page contains:
+Esta página contiene:
 
-- Lesson Program Governance Policy
-- Roles and responsibilities of Lesson Programs
-- Roles and responsibilities of The Carpentries in relation to Lesson Programs
-- Lesson Program incubation roadmap
+- Política de gobierno del programa de lecciones
+- Funciones y responsabilidades de los programas de lecciones
+- Funciones y responsabilidades de The Carpentries en relación con los programas de lecciones
+- Hoja de ruta de incubación del programa de lecciones
 
-## Roles and Responsibilities of Lesson Programs
+## Funciones y responsabilidades de los programas de lecciones
 
-- The Lesson Program follows all general policies as outlined by The Carpentries, including, but not limited to, the Code of Conduct.
-- The Lesson Program workshops are conducted and administered as outlined in The Carpentries Handbook, including tracking activities and using at least one certified Instructor per workshop.
-- Assessment of Lesson Program workshops and activities are conducted through, and in coordination with, The Carpentries assessment efforts.
-- Lesson Program workshops follow The Carpentries Instructor training procedures and guidelines as outlined in the Instructor Training curriculum.
-- The Lesson Program has at least one articulated, established core curriculum for a workshop and guidelines on what is required for it to be called a Lesson Program workshop.
-- The Lesson Program maintains documentation with information about its goals, workshops and curriculum.
-- The Lesson Program develops all content collaboratively and openly with a Carpentries approved open license.
-- The Lesson Program uses Carpentries templates and curricular guidelines for workshops and lessons.
-- The Lesson Program has a workshop fee structure consistent with The Carpentries.
-- The Lesson Program will follow the procedures and guidelines of The Carpentries administrative and financial management structure.
+- El programa de lecciones sigue todas las políticas generales descritas por The Carpentries, incluido, entre otros, el Código de conducta.
+- Los talleres del Programa de Lecciones se llevan a cabo y administran según lo descrito en el Manual de Carpintería, incluido el seguimiento de las actividades y el uso de al menos un instructor certificado por taller.
+- Los talleres y actividades de evaluación del programa de lecciones se llevan a cabo a través de los esfuerzos de evaluación de The Carpentries y en coordinación con ellos.
+- Los talleres del programa de lecciones siguen los procedimientos y pautas de capacitación de instructores de The Carpentries tal como se describe en el plan de estudios de capacitación de instructores.
+- El Programa de Lecciones tiene al menos un plan de estudios básico articulado y establecido para un taller y pautas sobre lo que se requiere para que se llame taller del Programa de Lecciones.
+- El Programa de Lecciones mantiene documentación con información sobre sus objetivos, talleres y plan de estudios.
+- El programa de lecciones desarrolla todo el contenido de forma colaborativa y abierta con una licencia abierta aprobada por Carpentries.
+- El programa de lecciones utiliza plantillas de carpintería y pautas curriculares para talleres y lecciones.
+- El programa de lecciones tiene una estructura de tarifas de taller consistente con The Carpentries.
+- El programa de lecciones seguirá los procedimientos y pautas de la estructura de gestión administrativa y financiera de The Carpentries.
 
-## Roles and Responsibilities of The Carpentries
+## Funciones y responsabilidades de los carpinteros
 
-- The Carpentries Core Team and affiliates will coordinate Lesson Program workshops in accordance with standard workshop coordination practices as outlined in The Carpentries Handbook.
-- The Carpentries will enable the Lesson Programs to make use of all The Carpentries infrastructure, including workshop coordination tools and database.
-- The Carpentries will provide the Lesson Programs access to all lesson and workshop templates. The Carpentries will include representatives from the Lesson Program on task forces or committees tasked with updating and maintaining these templates.
-- The Carpentries will support development opportunities for the Lesson Program, including grants, donations and other revenue opportunities. Funds brought in for Lesson Program activities will go to support that work.
-- The Carpentries will include Lesson Programs in the regular lesson release and publication cycle, coordinating between the Lesson Program Maintainers and The Carpentries Core Team and affiliates.
-- The Carpentries will include the Lesson Programs in assessment efforts, including survey development and data analysis.
-- The Carpentries will ensure the Instructor Training program addresses the training needs of the Lesson Program, incorporating examples and exercises targeted towards the communities served by the Lesson Program.
-- The Carpentries will prepare Instructor Trainers to work with trainees from the Lesson Program.
-- The Carpentries Instructor Training recruitment and retention strategies will include building communities of Instructors in domains and communities served by the Lesson Program.
-- The Carpentries will include the Lesson Program in all community efforts, including but not limited to the activities of the Instructor Development committee, Mentorship program and BugBBQs.
-- The Carpentries programmatic and assessment reports will include Lesson Program activities. The Lesson Program will also have access to data specific to its activities.
-- The Carpentries Partner Organisations program will include The Lesson Program.
-- The Carpentries will provide an annual financial report to the Lesson Program Committee, including an assessment of the financial stability and sustainability of The Carpentries.
-- The Carpentries general revenue through Partnerhips, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.
-- The Carpentries maintains and documents an administrative and financial management structure that supports the Lesson Program.
+- El equipo central de Carpentries y sus afiliados coordinarán los talleres del Programa de Lecciones de acuerdo con las prácticas estándar de coordinación de talleres, tal como se describe en el Manual de Carpentries.
+- The Carpentries permitirá que los programas de lecciones utilicen toda la infraestructura de The Carpentries, incluidas las herramientas de coordinación de talleres y la base de datos.
+- The Carpentries proporcionará a los programas de lecciones acceso a todas las plantillas de lecciones y talleres. The Carpentries incluirá representantes del Programa de Lecciones en grupos de trabajo o comités encargados de actualizar y mantener estas plantillas.
+- The Carpentries apoyará las oportunidades de desarrollo para el Programa de Lecciones, incluidas subvenciones, donaciones y otras oportunidades de ingresos. Los fondos recaudados para las actividades del Programa de Lecciones se destinarán a apoyar ese trabajo.
+- The Carpentries incluirá los programas de lecciones en el ciclo regular de publicación y publicación de las lecciones, coordinándose entre los mantenedores del programa de lecciones y el equipo central de The Carpentries y sus afiliados.
+- The Carpentries incluirá los programas de lecciones en las iniciativas de evaluación, incluido el desarrollo de encuestas y el análisis de datos.
+- The Carpentries se asegurará de que el programa de capacitación de instructores aborde las necesidades de capacitación del programa de lecciones, incorporando ejemplos y ejercicios dirigidos a las comunidades atendidas por el programa de lecciones.
+- The Carpentries preparará a los formadores de instructores para trabajar con los alumnos del programa de lecciones.
+- Las estrategias de contratación y retención de instructores de Carpentries incluirán la creación de comunidades de instructores en los dominios y comunidades atendidos por el programa de lecciones.
+- The Carpentries incluirá el programa de lecciones en todos los esfuerzos de la comunidad, incluidas, entre otras, las actividades del comité de desarrollo de instructores, el programa de tutoría y las BugBBQs.
+- Los informes programáticos y de evaluación de Carpentries incluirán las actividades del programa de lecciones. El programa de lecciones también tendrá acceso a datos específicos de sus actividades.
+- El programa de organizaciones asociadas de Carpentries incluirá el programa The Lesson.
+- The Carpentries proporcionará un informe financiero anual al Comité del Programa de Lecciones, que incluirá una evaluación de la estabilidad financiera y la sostenibilidad de The Carpentries.
+- Los ingresos generales de los Carpentries, a través de asociaciones, cuotas de coordinación de talleres y subvenciones o donaciones generales, apoyarán el trabajo continuo del Programa de Lecciones: la organización de talleres, las iniciativas de diversidad e inclusión, la capacitación de instructores, el mantenimiento de las lecciones y la participación de la comunidad.
+- The Carpentries mantiene y documenta una estructura de gestión administrativa y financiera que respalda el programa de lecciones.
 
-## Lesson Program Incubation Roadmap
+## Hoja de ruta de incubación del programa de lecciones
 
-The Roadmap describes the three phases of a Carpentries Lesson Program: Pre-incubation, Incubation as a Lesson Project, and Adoption as a Lesson Program. Advancement from one phase to the next requires a proposal and approval process involving both Core Team and the Board of Directors. Approval of a new Lesson Program requires substantial investment from both the applicants and The Carpentries. In the case of the previous applicant for Lesson Program (Library Carpentry), the process was aided by a grant supporting a full-time Core Team member, and took about a year (though the community existed for several years prior). Details for each phase are described below.
+La hoja de ruta describe las tres fases de un programa de lecciones de carpintería: la preincubación, la incubación como proyecto de lección y la adopción como programa de lección. El avance de una fase a la siguiente requiere un proceso de propuesta y aprobación que involucre tanto al equipo central como a la junta directiva. La aprobación de un nuevo programa de lecciones requiere una inversión sustancial tanto por parte de los solicitantes como de The Carpentries. En el caso del candidato anterior al Programa de Lecciones (Carpintería de bibliotecas), el proceso contó con la ayuda de una subvención que apoyaba a un miembro del equipo central a tiempo completo y duró aproximadamente un año (aunque la comunidad existía varios años antes). Los detalles de cada fase se describen a continuación.
 
-### Phase 1: Pre-incubation
+### Fase 1: Preincubación
 
-Pre-incubation is the initial phase of development of a Lesson Program during which a group of individuals come together to develop a new curriculum or Lesson Project to teach a specific set of skills to a targeted audience of learners. Groups that are developing Lesson Projects often come together organically for discussions regarding audience, need, learning objectives, and content. This phase is often quite long, possibly years.
+La preincubación es la fase inicial del desarrollo de un programa de lecciones durante la cual un grupo de personas se reúne para desarrollar un nuevo plan de estudios o proyecto de lección para enseñar un conjunto específico de habilidades a un público objetivo de estudiantes. Los grupos que están desarrollando proyectos de lecciones a menudo se reúnen de manera orgánica para debatir sobre la audiencia, las necesidades, los objetivos de aprendizaje y el contenido. Esta fase suele ser bastante larga, posiblemente años.
 
-Not all Lesson Projects will achieve the level of development or community commitment necessary for consideration for Incubation as a Lesson Program. Some groups may not consider this a goal and may prefer to consider the development of lessons within the Carpentries Labs or Carpentries Incubator programs as an alternative to becoming a full-fledged Lesson Program, as the latter requires significantly more overhead and commitment from their community. If the Lesson Project intends for their work to eventually lead to an application for Incubation as a Lesson Program, they should keep in mind that the goals and objectives of their lesson and/or workshops should be different from those of existing Lesson Programs and should have a distinct audience. If this is not the case, they may want to consider whether it is more appropriate to include the new lessons as options within the curriculum of an existing Lesson Program.
+No todos los proyectos de lecciones alcanzarán el nivel de desarrollo o compromiso con la comunidad necesario para considerar la incubación como un programa de lecciones. Es posible que algunos grupos no consideren que este sea un objetivo y prefieran considerar el desarrollo de lecciones dentro de los programas Carpentries Labs o Carpentries Incubator como una alternativa a convertirse en un programa de lecciones completo, ya que este último requiere muchos más gastos generales y compromiso por parte de la comunidad. Si el proyecto de lección tiene la intención de que su trabajo conduzca eventualmente a una solicitud de incubación como programa de lección, deben tener en cuenta que las metas y los objetivos de su lección y/o talleres deben ser diferentes de los de los programas de lecciones existentes y deben tener un público distinto. Si este no es el caso, tal vez quieran considerar si es más apropiado incluir las nuevas lecciones como opciones dentro del plan de estudios de un programa de lecciones existente.
 
-Outside funding or other external support may be required for the Lesson Project to develop their materials and community to the point where they would qualify for Incubation as a Lesson Program and to allow them to complete the steps required during the Incubation phase in order to gain full approval as a Carpentries Lesson Program.
+Es posible que se necesite financiación externa u otro tipo de apoyo externo para que el proyecto de lección desarrolle sus materiales y su comunidad hasta el punto en que reúnan los requisitos para la incubación como programa de lecciones y les permita completar los pasos necesarios durante la fase de incubación a fin de obtener la aprobación total como programa de lecciones de carpintería.
 
-During the Pre-incubation phase, activities by the Lesson Project will likely include most of the following:
+Durante la fase previa a la incubación, es probable que las actividades del proyecto de lección incluyan la mayoría de lo siguiente:
 
-- Development of a community interested in developing and teaching the lessons.
-- Identification of a distinct audience that will be served by the lessons/workshops. If they intend to eventually apply for application as a Lesson Program, the target audience should not currently be served by another Carpentries Lesson Program.
-- Statement of the goals of the Lesson Project, similar to a mission or vision statement.
-- Definition of the scope of the lessons.
-- Completion of draft versions of lesson content, including learning objectives.
-- Early test runs of the lesson material at workshops with actual learners.
-- Results from Carpentries short-term surveys if appropriate and possible.
+- Desarrollo de una comunidad interesada en desarrollar y enseñar las lecciones.
+- Identificación de un público distinto al que servirán las lecciones/talleres. Si tienen la intención de postularse eventualmente como un programa de lecciones, el público objetivo no debería estar actualmente atendido por otro programa de lecciones de carpintería.
+- Declaración de los objetivos del proyecto de lección, similar a una declaración de misión o visión.
+- Definición del alcance de las lecciones.
+- Finalización de las versiones preliminares del contenido de la lección, incluidos los objetivos de aprendizaje.
+- Pruebas tempranas del material de la lección en talleres con alumnos reales.
+- Resultados de las encuestas a corto plazo de Carpentries, si es apropiado y posible.
 
-**Application and Approval for Incubation Phase**
+**Solicitud y aprobación para la fase de incubación**
 
-As the Lesson Project develops and undertakes the activities listed above in the Pre-incubation Phase, it may consider applying for Incubation as an official Carpentries Lesson Program. Application for Incubation requires the submission of a report from the Lesson Project that must include:
+A medida que el proyecto lectivo desarrolle y lleve a cabo las actividades enumeradas anteriormente en la fase previa a la incubación, podría considerar la posibilidad de solicitar la incubación como un programa oficial de lecciones de carpintería. La solicitud de incubación requiere la presentación de un informe del proyecto de lección que debe incluir:
 
-- Description of the community that is working on the Lesson Project.
-- Description of domain knowledge required for instructors to teach the material, so that we can determine to what extent our existing Instructor pool may possess these skills and be able to teach these workshops.
-- Description of the community that the Lesson Project serves with their workshops.
-- Goals of the Lesson Project.
-- List of the lessons developed or under development and what a two-day workshop would include, along with access to the materials for The Carpentries to review.
-- Information about when and where at least some of the materials have been taught, even if as smaller modules and not yet a full-fledged 2-day workshop.
-- Assessment information from the teaching events regarding number of attendees and learner feedback about the workshop(s), either using The Carpentries standard surveys or custom survey questions.
-- How the Lesson Project feels that becoming an official Carpentries Lesson Program will benefit the Lesson Project, The Carpentries, and the broader learning community.
+- Descripción de la comunidad que está trabajando en el proyecto de lección.
+- Descripción del conocimiento del dominio requerido para que los instructores enseñen el material, de modo que podamos determinar en qué medida nuestro grupo de instructores actual puede poseer estas habilidades y poder impartir estos talleres.
+- Descripción de la comunidad a la que el Proyecto Lección sirve con sus talleres.
+- Objetivos del proyecto de lección.
+- Lista de las lecciones desarrolladas o en desarrollo y lo que incluiría un taller de dos días, junto con el acceso a los materiales para que The Carpentries los revise.
+- Información sobre cuándo y dónde se enseñaron al menos algunos de los materiales, incluso si se trataba de módulos más pequeños y aún no se trataba de un taller completo de 2 días.
+- Información de evaluación de los eventos de enseñanza sobre el número de asistentes y los comentarios de los alumnos sobre los talleres, ya sea mediante encuestas estándar de The Carpentries o preguntas personalizadas.
+- La opinión de The Lesson Project de que convertirse en un programa oficial de lecciones de carpintería beneficiará a Lesson Project, The Carpentries y a la comunidad de aprendizaje en general.
 
-The Carpentries Board of Directors will then review these materials to determine whether the Lesson Project has met the core criteria for Incubation:
+Luego, la junta directiva de Carpentries revisará estos materiales para determinar si el proyecto de lección ha cumplido con los criterios básicos para la incubación:
 
-- Intention and purpose for lessons that align with The Carpentries mission, vision, and values.
-- Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs.
-- Service to a particular audience of learners.
-- Evidence of Instructors with the relevant skills and knowledge to support the development of the program.
-- Evidence of community member commitment to Lesson Program governance, lesson maintenance, and curriculum development.
+- Intención y propósito de las lecciones que se alinean con la misión, la visión y los valores de The Carpentries.
+- Metas y objetivos de las lecciones y/o talleres que son distintos de otros programas de lecciones.
+- Servicio a una audiencia particular de estudiantes.
+- Evidencia de instructores con las habilidades y conocimientos pertinentes para apoyar el desarrollo del programa.
+- Evidencia del compromiso de los miembros de la comunidad con la gobernanza del programa de lecciones, el mantenimiento de las lecciones y el desarrollo curricular.
 
-The Board of Directors will decide on one of the options below:
+La Junta Directiva decidirá sobre una de las siguientes opciones:
 
-- Approve the application and recommend the Lesson Project for the Incubation phase.
-- Recommend revisions to the application or work that needs to be undertaken before the application can be approved or before it can be resubmitted for consideration, whichever the Board of Directors specifies.
-- Reject the application for Incubation, providing reason(s) for rejection if appropriate.
+- Apruebe la solicitud y recomiende el proyecto de lección para la fase de incubación.
+- Recomiende las revisiones de la solicitud o el trabajo que deba realizarse antes de que la solicitud pueda aprobarse o antes de que pueda volver a presentarse para su consideración, según lo que especifique la Junta Directiva.
+- Rechazar la solicitud de incubación, indicando los motivos del rechazo, si procede.
 
-### Phase 2: Incubation
+### Fase 2: Incubación
 
-Once approved for Incubation, the Lesson Project must accomplish specific requirements within a defined time frame (maximum 18 months) to be agreed upon between the Lesson Project and The Carpentries.
-The Carpentries will also have specific responsibilities toward the Lesson Project during this time (see Role of The Carpentries During Incubation).
+Una vez aprobado para la incubación, el proyecto de lección debe cumplir con los requisitos específicos dentro de un período de tiempo definido (máximo 18 meses) que será acordado entre el proyecto de lección y The Carpentries.
+Los carpinteros también tendrán responsabilidades específicas con respecto al proyecto de la lección durante este tiempo (consulte El papel de los carpinteros durante la incubación).
 
-During the Incubation phase, the Lesson Project will complete the following tasks:
+Durante la fase de incubación, el proyecto de lección completará las siguientes tareas:
 
-#### 1. Policies and Processes
+#### 1. Políticas y procesos
 
-_Goal: to ensure compliance with existing Carpentries policies and processes._
+_Objetivo: garantizar el cumplimiento de las políticas y procesos de Carpentries existentes. _
 
-1. Agree to abide by The Carpentries Code of Conduct (CoC).
-2. Agree to have at least one trained instructor for each workshop.
-3. Agree to The Carpentries workshop fee structure.
-4. Define at least one curriculum that fits The Carpentries two-day workshop structure.
-5. Agree for the Lesson Project to be included in Partner Organisation Agreements.
+1. Acepta cumplir con el Código de Conducta (CoC) de The Carpentries.
+2. Acuerde tener al menos un instructor capacitado para cada taller.
+3. Acepta la estructura de tarifas del taller de The Carpentries.
+4. Defina al menos un plan de estudios que se ajuste a la estructura del taller de dos días de The Carpentries.
+5. Acepte que el proyecto de lección se incluya en los acuerdos de las organizaciones asociadas.
 
-#### 2) Governance
+#### 2) Gobernanza
 
-_Goal: to ensure consistency with existing Lesson Program governance, and accountability for leading the work during Incubation._
+_Objetivo: garantizar la coherencia con la gobernanza actual del Programa de Lecciones y la responsabilidad por liderar el trabajo durante la incubación. _
 
-1. Establish a culturally and linguistically diverse Lesson Program Committee (LPC) of at least three people to serve as a governance body and point of contact with The Carpentries.
-2. The LPC should create a document describing this group’s roles and responsibilities.
-3. The LPC should meet at least quarterly to oversee Lesson Project activities.
-4. The LPC must demonstrate experience having discussions and making decisions by providing The Carpentries Core Team and Board of Directors with access to meeting minutes.
+1. Establezca un Comité del Programa de Lecciones (LPC) con diversidad cultural y lingüística compuesto por al menos tres personas para que sirva como órgano de gobierno y punto de contacto con The Carpentries.
+2. La LPC debe crear un documento que describa las funciones y responsabilidades de este grupo.
+3. El LPC debe reunirse al menos trimestralmente para supervisar las actividades del proyecto de lección.
+4. El LPC debe demostrar experiencia en discusiones y toma de decisiones al proporcionar al equipo central y a la junta directiva de The Carpentries acceso a las actas de las reuniones.
 
-#### 3) Contributions
+#### 3) Contribuciones
 
-_Goal: to ensure a community of sufficient size and health exists to support the new Lesson Program after adoption._
+_Objetivo: garantizar que exista una comunidad de tamaño y salud suficientes para apoyar el nuevo programa de lecciones después de su adopción. _
 
-1. Assign at least three Maintainers to maintain each of the lessons, without unreasonable overlap between the Maintainer teams of each lesson
-   (i.e. the same people maintaining multiple lessons).
-2. Create an onboarding document and process for existing Carpentries Instructors so that they can determine whether or not they should consider teaching these lessons.
-3. Create a plan to recruit additional Instructors for the program.
-4. Create a plan to recruit new contributors to the program’s lessons.
-5. Demonstrate community support for the lessons
-   (for example by providing metrics on GitHub activity, attendance at collaboration sessions, feedback from Instructors, or similar metrics).
+1. Asigne al menos tres mantenedores para mantener cada una de las lecciones, sin una superposición irrazonable entre los equipos de mantenedores de cada lección
+   (es decir, las mismas personas que mantienen varias lecciones).
+2. Cree un documento y un proceso de incorporación para los instructores de Carpentries actuales para que puedan determinar si deben o no considerar la posibilidad de impartir estas lecciones.
+3. Crea un plan para reclutar más instructores para el programa.
+4. Cree un plan para reclutar nuevos colaboradores para las lecciones del programa.
+5. Demuestre el apoyo de la comunidad a las lecciones
+   (por ejemplo, proporcionando métricas sobre la actividad de GitHub, la asistencia a las sesiones de colaboración, los comentarios de los instructores o métricas similares).
 
-#### 4) Teaching
+#### 4) Enseñanza
 
-_Goal: to ensure quality of curriculum, and demand for workshops._
+_Objetivo: garantizar la calidad del plan de estudios y la demanda de talleres. _
 
-1. Run pilot workshops to gather feedback on the curriculum and confirm that it is ready for teaching by the Instructor community.
-2. Collect and analyse post-workshop feedback.
-3. Complete and refine core curriculum, incorporating relevant workshop feedback.
-4. Assign one or two leads for workshop coordination and communications work.
-5. A list of workshops run during the Incubation Phase, or in the past year (whichever is the longer period of time).
-6. A list of organisations which have expressed interest in hosting Centrally-Organised workshops using the Lesson Project’s curriculum.
-7. A list of people who are able to teach the Lesson Project’s curriculum/curricula, whether or not they are already certified Carpentries Instructors.
-8. Provide details of any special requirements for the Lesson Project’s workshops, for example resources or infrastructure that The Carpentries would need to provide for workshops to succeed.
+1. Organice talleres piloto para recopilar comentarios sobre el plan de estudios y confirmar que está listo para que la comunidad de instructores lo enseñe.
+2. Recopile y analice los comentarios posteriores al taller.
+3. Complete y perfeccione el plan de estudios básico, incorporando los comentarios relevantes del taller.
+4. Asigne uno o dos líderes para la coordinación del taller y el trabajo de comunicación.
+5. Una lista de los talleres realizados durante la fase de incubación o en el último año (el que sea más largo).
+6. Una lista de organizaciones que han expresado su interés en organizar talleres organizados de forma centralizada utilizando el plan de estudios del Lesson Project.
+7. Una lista de las personas que pueden enseñar el currículo o los planes de estudio del Proyecto de lección, independientemente de que ya sean instructores de carpintería certificados o no.
+8. Proporcione detalles sobre cualquier requisito especial para los talleres del Proyecto Lección, por ejemplo, los recursos o la infraestructura que The Carpentries necesitaría proporcionar para que los talleres tengan éxito.
 
-#### 5) Supplementary Materials (optional but recommended):
+#### 5) Materiales complementarios (opcionales pero recomendados):
 
-- Letters of interest from organisations wanting to host workshops.
-  These letters of interest might indicate that the organisation
-  1. would be interested in requesting a centrally-organised workshop from the Lesson Program.
-  2. would explore organisational partnership to build their own capacity for teaching the Lesson Program's workshops.
-  3. would host Self-Organised workshops for the Lesson Program.
-- Summary of where funding support has been sought for this work, whether or not applications were successful.
-- Summary of how personal time has been dedicated to this project
-  (i.e. how much has been volunteer hours and how much has been supported through employers) -
-  if supported by employers, what is the outlook for that support continuing?
-- Summary of any infrastructure needs for supporting the Lesson Project’s workshops, along with a list of community members who are able to help fulfill any special requirements described in 4.8 above, and/or a plan for onboarding other community members to support it.
+- Cartas de interés de organizaciones que desean organizar talleres.
+  Estas cartas de interés pueden indicar que la organización
+  1. estaría interesado en solicitar un taller organizado de forma centralizada del Programa de Lecciones.
+  2. explorarían la asociación organizacional para desarrollar su propia capacidad para enseñar los talleres del Programa de Lecciones.
+  3. organizaría talleres autoorganizados para el programa de lecciones.
+- Resumen de dónde se ha solicitado apoyo financiero para este trabajo, si las solicitudes tuvieron éxito o no.
+- Resumen del tiempo personal que se ha dedicado a este proyecto
+  (es decir, cuánto se han dedicado a las horas de trabajo voluntario y cuánto se ha apoyado a través de los empleadores) -
+  Si los empleadores lo apoyan, ¿qué perspectivas hay de que ese apoyo continúe?
+- Resumen de cualquier necesidad de infraestructura para apoyar los talleres del Proyecto Lección, junto con una lista de los miembros de la comunidad que pueden ayudar a cumplir con los requisitos especiales descritos en la sección 4.8 anterior, y/o un plan para incorporar a otros miembros de la comunidad para que lo apoyen.
 
-#### Role of The Carpentries During Incubation
+#### Papel de las carpinterías durante la incubación
 
-During the Incubation phase, The Carpentries will:
+Durante la fase de incubación, The Carpentries:
 
-- Allow access to pre- and post-workshop survey results through The Carpentries hosted infrastructure.
-- Post information on The Carpentries website regarding the Incubation of the Lesson Project as well as through other communication channels and at Instructor Training workshops.
-- Provide a Carpentries team member to meet with the Lesson Project for feedback or advice on a regular basis, with the frequency to be determined mutually by the Lesson Project and The Carpentries.
-- Provide templates, workflows, and advice to support the Lesson Program in running pilot workshops, attracting new contributors, and other activities listed above.
-- Assess how many current Core Team members would be able to teach the workshops of the new Lesson Program.
-- Add Lesson Project community events to The Carpentries community calendar.
+- Permita el acceso a los resultados de las encuestas previas y posteriores al taller a través de la infraestructura alojada por The Carpentries.
+- Publique información en el sitio web de The Carpentries sobre la incubación del proyecto de lección, así como a través de otros canales de comunicación y en los talleres de formación de instructores.
+- Proporcione a un miembro del equipo de Carpentries que se reúna regularmente con el Proyecto de lección para recibir comentarios o consejos, con una frecuencia que determinen mutuamente el Proyecto de lección y The Carpentries.
+- Proporcione plantillas, flujos de trabajo y consejos para ayudar al Programa de lecciones a organizar talleres piloto, atraer nuevos colaboradores y otras actividades enumeradas anteriormente.
+- Evalúe cuántos miembros actuales del equipo central podrían impartir los talleres del nuevo programa de lecciones.
+- Agrega los eventos comunitarios de Lesson Project al calendario comunitario de The Carpentries.
 
-**Application and Approval for Official Lesson Program Adoption**
+**Solicitud y aprobación para la adopción del programa de lecciones**
 
-At the end of the agreed upon Incubation time period, or prior to that if the Lesson Project feels it has completed all the listed tasks, the Lesson Project's status will be reviewed by the Board of Directors. The Lesson Project should submit a request to The Carpentries documenting how it meets the criteria listed above. The Carpentries Board of Directors will review this application and evaluate whether the criteria have been met.
+Al final del período de incubación acordado, o antes si el proyecto de lección considera que ha completado todas las tareas enumeradas, la junta directiva revisará el estado del proyecto de lección. El proyecto de lección debe enviar una solicitud a The Carpentries que documente cómo cumple con los criterios enumerados anteriormente. La junta directiva de Carpentries revisará esta solicitud y evaluará si se cumplen los criterios.
 
-The Board of Directors will decide on one of the options below:
+La Junta Directiva decidirá sobre una de las siguientes opciones:
 
-- Approve the application and adopt the Lesson Project as an official Carpentries Lesson Program
-- Recommend revisions to the application or work that needs to be undertaken before the application can be approved, or before it can be resubmitted for consideration, whichever the Board of Directors specifies.
-- Reject the application for Incubation, providing reasons for rejection if appropriate.
+- Apruebe la solicitud y adopte el proyecto de lección como un programa oficial de lecciones de carpintería
+- Recomiende las revisiones de la solicitud o el trabajo que deba realizarse antes de que la solicitud pueda aprobarse o antes de que pueda volver a presentarse para su consideración, según lo que especifique la Junta Directiva.
+- Rechazar la solicitud de incubación, indicando los motivos del rechazo, si procede.
 
-### Phase 3: Adoption
+### Fase 3: Adopción
 
-Once the Board of Directors has approved Adoption, the new Lesson Program will be listed as such on The Carpentries website and will be included as part of the standard workshop offerings. The Lesson Program should be committed at this point to maintaining their lesson materials and their community and to working with The Carpentries on long-term sustainability and the fulfillment of its roles and responsibilities in accordance with the Lesson Program Policy.
+Una vez que la junta directiva haya aprobado la adopción, el nuevo programa de lecciones aparecerá como tal en el sitio web de The Carpentries y se incluirá como parte de la oferta estándar de talleres. El programa de lecciones debe comprometerse en este momento a mantener sus materiales didácticos y su comunidad, y a trabajar con The Carpentries en la sostenibilidad a largo plazo y el cumplimiento de sus funciones y responsabilidades de acuerdo con la Política del programa de lecciones.
 
-Once adopted, The Carpentries will update operations and documentation across the organisation to reflect the addition of the new Lesson Program. The Carpentries will also fulfill its roles and responsibilities in accordance with the [Lesson Program Policy](lesson-program-governance.md).
+Una vez adoptado, The Carpentries actualizará las operaciones y la documentación en toda la organización para reflejar la incorporación del nuevo programa de lecciones. The Carpentries también cumplirá sus funciones y responsabilidades de acuerdo con la [Política del programa de lecciones] (lesson-program-governance.md).
 
 ---
 
-Update log:
+Registro de actualizaciones:
 
-- [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/5) by the Executive Council. (The Executive Council was replaced by the Board of Directors on 1 February 2025.)
-- Updated 2019-12-29 to include Lesson Program Incubation Roadmap.
-- Updated 2021-12-21 to include the Lesson Program Governance Policy.
-- Updated 2024-05-23 to expand and clarify the Lesson Program Incubation Roadmap.
+- [Aprobado el 1 de noviembre de 2018] (https://github.com/carpentries/executive-council-info/issues/5) por el Consejo Ejecutivo. (El Consejo Ejecutivo fue reemplazado por el Consejo de Administración el 1 de febrero de 2025).
+- Actualizado el 29 de diciembre de 2019 para incluir la hoja de ruta de incubación del programa de lecciones.
+- Actualizado el 21 de diciembre de 2021 para incluir la política de gobierno del programa de lecciones.
+- Actualizado el 23 de mayo de 2022 para ampliar y aclarar la hoja de ruta de incubación del programa de lecciones.
