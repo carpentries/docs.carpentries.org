@@ -12,7 +12,7 @@ Let daarop dat die [Trainers Leadership Committee] (https://github.com/carpentri
   - Besluit of een of meer kurrikulumadvieskomitees nodig is vir hul kurrikulums en hoe dit gestruktureer is.
   - Besluit hoe en hoe gereeld hulle die lesprogramgemeenskap/gemeenskappe betrek.
   - Besluit tussen:
-    - om goedkeuring van die Uitvoerende Raad te soek om lede tot die Lesprogrambestuurskomitee te kies.
+    - om goedkeuring van die Raad van Direkteure te soek om lede tot die Lesprogrambestuurskomitee te kies.
     - aanstelling van lede op grond van 'n aansoekproses.
   - Besluit die termynlengte van die komitee.
   - Besluit oor die aansoek van addisionele rolle en verantwoordelikhede buite dié wat in hierdie beleid beskryf word, van die Raad van Direk
