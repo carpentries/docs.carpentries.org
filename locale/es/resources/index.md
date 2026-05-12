@@ -1,8 +1,8 @@
-# Recursos de carpintería
+# Carpentries Resources
 
-- [Recursos generales] (/resources/general/index.md)
-- [Recursos de comunicación] (/resources/communications/index.md)
-- [Recursos curriculares] (/resources/curriculum/index.md)
-- [Recursos de formación de instructores] (/resources/instructor-training/index.md)
-- [Recursos del taller] (/resources/workshops/index.md)
-- [Hojas de consejos] (/resources/general/tip-sheets.md)
+- [General Resources](/resources/general/index.md)
+- [Communications Resources](/resources/communications/index.md)
+- [Curriculum Resources](/resources/curriculum/index.md)
+- [Instructor Training Resources](/resources/instructor-training/index.md)
+- [Workshop Resources](/resources/workshops/index.md)
+- [Tip sheets](/resources/general/tip-sheets.md)
