@@ -225,7 +225,7 @@ L'hôte de la session communautaire doit enregistrer la participation en enregis
 
 ! [Étape 2 : Vous devriez maintenant voir la liste des participants qui se sont inscrits à votre événement.] (../img/Pretix_Step_2.png)
 
-3. Select all the participants who attended the community session by checking the box to the left of the order code. Please note there might be multiple pages of registered participants.
+3. Sélectionnez tous les participants qui ont participé à la session communautaire en cochant la case à gauche du code de commande. Veuillez noter qu'il peut y avoir plusieurs pages de participants inscrits.
 
 ! [Étape 3 : Sélectionnez tous les participants qui ont participé à la session communautaire en cochant la case à gauche du code de commande.] (../img/Pretix_Step_3.png)
 
