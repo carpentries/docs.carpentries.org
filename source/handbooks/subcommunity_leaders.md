@@ -61,6 +61,14 @@ This section lists communication channels and collaboration spaces that support 
 
 ### Messaging and Communication
 
+Slack is the software platform that The Carpentries uses to support synchronous and asynchronous communication. Channels support communications, collaboration and co-creation among a [subset of community members](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), depending on the channel’s purpose. You can [join The Carpentries Slack workspace](https://slack-invite.carpentries.org/) to follow conversations on the channel relevant to this role:
+
+- #discussion-hosts: channel for Community Session Hosts and those interested in hosting community sessions
+- #subcommunity: channel for Connecting Carpentries Subcommunity Leaders worldwide
+
+If Slack is new to you, our [Slack Quick Start Guide](https://zenodo.org/records/15401712) will help you set up your profile and give you an overview of how we use the platform day to day.
+
+
 ### Mailing List
 
 You can access The Carpentries mailing lists from [Topicbox](https://carpentries.topicbox.com/groups/latest). The [Subcommunity Leaders list](https://carpentries.topicbox.com/groups/carpentries-subcommunity-leade) is used for announcements relevant to Subcommunity Leaders. To join one or more Carpentries mailing lists, you will need to [create a login](https://carpentries.topicbox.com/groups/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our [Topicbox Quick Start Guide](https://doi.org/10.5281/zenodo.14235643).
