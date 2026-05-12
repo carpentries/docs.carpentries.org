@@ -1,35 +1,35 @@
-# Workshop Needs
+# Necesidades del taller
 
-Participants are expected to come with their own laptops.  Setting up a computer lab space is not necessary. Before the workshop, participants will receive instructions on what software they need to install and set up on their laptops.
+Se espera que los participantes vengan con sus propias computadoras portátiles.  No es necesario configurar un espacio de laboratorio de computación. Antes del taller, los participantes recibirán instrucciones sobre el software que deben instalar y configurar en sus ordenadores portátiles.
 
-## Venue
+## Sede
 
-A good venue is crucial to establishing a positive learning environment.  Some things to consider include:
+Un buen lugar es crucial para establecer un entorno de aprendizaje positivo.  Algunas cosas a tener en cuenta son las siguientes:
 
-- Tables arranged so participants can watch the instructor, use their laptops, and talk with their peers.  Fold up desks are usually not a good choice.
-- Tables should also be arranged so helpers and instructors can easily mingle around the room.
-- The room should have a projector and screen that everyone can see, with HDMI, VGA, and Mac adapters to allow anyone to plug in their laptop.
-- High speed Wi-Fi internet access that can withstand everyone using it together. This may include securing guest access codes.
-- Power outlets for all participants. This may include setting up extension cords or power strips.
-- High table or podium that instructor can stand at while teaching.  A flat podium is important; it is difficult to use a laptop on a slanted podium.
-- Refreshments. People learn better when they are well fed.  They also will not lose as much instructional time if they do not have to leave to get coffee.
+- Las mesas están dispuestas de manera que los participantes puedan observar al instructor, usar sus computadoras portátiles y hablar con sus compañeros.  Los escritorios plegables no suelen ser una buena opción.
+- Las mesas también deben estar dispuestas de manera que los ayudantes y los instructores puedan reunirse fácilmente en la sala.
+- La sala debe tener un proyector y una pantalla que todos puedan ver, con adaptadores HDMI, VGA y Mac para que cualquiera pueda conectar su portátil.
+- Acceso a Internet Wi-Fi de alta velocidad que puede soportar que todos lo usen juntos. Esto puede incluir la seguridad de los códigos de acceso de los huéspedes.
+- Tomas de corriente para todos los participantes. Esto puede incluir la instalación de cables de extensión o tomas de corriente.
+- Mesa alta o podio en el que el instructor puede pararse mientras enseña.  Un podio plano es importante; es difícil usar una computadora portátil en un podio inclinado.
+- Refrescos. Las personas aprenden mejor cuando están bien alimentadas.  Tampoco perderán tanto tiempo de instrucción si no tienen que salir a tomar un café.
 
-## Equipment and Materials
+## Equipos y materiales
 
-- Power strips, as noted above, to ensure everyone's laptop stays charged
-- Sticky notes in two contrasting colors. These are an important part of how we get feedback during a lesson.  We should have enough for each person to have about 8 of each color. Note that colorblindness can be an issue with differently-colored stickies (say red/green or blue/yellow), so alternate methods for feedback include offering sticky notes in two distinct shapes, or using a heavy marker to draw symbols on the sticky notes to convey meaning.
-- Name tags to help people get to know each other.
-- Extra pens and paper in case people want to take notes by hand
-- Sign in sheets
-- Flipchart or whiteboard with felt-tip pen (ideally several in different colors) for the instructor to visualise concepts or note important details.
+- Tomacorrientes, como se indicó anteriormente, para garantizar que el portátil de todos se mantenga cargado
+- Notas adhesivas en dos colores contrastantes. Estas son una parte importante de la forma en que recibimos comentarios durante una lección.  Deberíamos tener suficiente para que cada persona tenga alrededor de 8 de cada color. Tenga en cuenta que el daltonismo puede ser un problema con las pegatinas de diferentes colores (por ejemplo, rojo/verde o azul/amarillo), por lo que los métodos alternativos de retroalimentación incluyen ofrecer notas adhesivas en dos formas distintas o usar un rotulador grueso para dibujar símbolos en las notas adhesivas para transmitir un significado.
+- Etiquetas de nombre para ayudar a las personas a conocerse.
+- Lápices y papel adicionales en caso de que la gente quiera tomar notas a mano
+- Hojas de registro
+- Rotafolio o pizarra blanca con rotulador (idealmente varios colores diferentes) para que el instructor visualice los conceptos o anote detalles importantes.
 
-## Accessibility
+## Accesibilidad
 
-It is important to make sure the workshop space is accessible to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not:
+Es importante asegurarse de que el espacio del taller sea accesible para todas las personas. El formulario de registro debe preguntar si los instructores, los ayudantes y los alumnos necesitan algún arreglo por adelantado para garantizar que puedan participar en el evento. Esto puede incluir considerar si:
 
-- Building and room are accessible to those who can not use stairs (ramps, elevators, etc.)
-- Restrooms are accessible
-- There is a working microphone for instructors ([Our feedback](https://zenodo.org/record/1325464#.YVJIWS-B0ea) notes inability to hear at the back of the room as a common concern)
-- The screen is large enough and bright enough to be easily read
-- The building and room can accommodate service animals
-- Lactation space is provided
+- El edificio y la habitación son accesibles para quienes no pueden usar las escaleras (rampas, ascensores, etc.)
+- Los baños son accesibles
+- Hay un micrófono que funciona para los instructores ([Nuestros comentarios] (https://zenodo.org/record/1325464#.YVJIWS-B0ea) señalan que la incapacidad de escuchar al final de la sala es una preocupación común)
+- La pantalla es lo suficientemente grande y brillante como para leerla fácilmente
+- El edificio y la habitación tienen capacidad para animales de servicio
+- Se proporciona espacio para la lactancia
