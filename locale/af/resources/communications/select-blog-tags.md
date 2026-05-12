@@ -70,7 +70,7 @@ Vir blogplasings oor die Carpentries se samewerkende lesontwikkelingsopleidingsp
 
 ### Gedragskode
 
-Beleidsooreenkoms wat lei hoe ons met mekaar en die groter gemeenskap kommunikeer.
+Vir blogplasings wat verband hou met die beleidsooreenkoms wat lei hoe ons met mekaar en die groter gemeenskap kommunikeer, en blogplasings wat verband hou met die gedragskomitee wat die beleid afdwing.
 
 ### Kommunikasie
 
@@ -110,7 +110,7 @@ Verwant aan Carpentries geborgde of verwante geleenthede. Voorbeelde sluit Carpe
 
 ### Terugvoer
 
-Kommentaar op ervaring van instrukteurs, gashere, lede en ander gemeenskapslede.
+Kommentaar op ervaring van instrukteurs, gashere, vennote en ander gemeenskapslede.
 
 ### Git
 
@@ -216,9 +216,9 @@ Werkswinkels wat slegs aanlyn is, ervaar om 'n aanlynwerkswinkel te onderrig, id
 
 Vir blogplasings wat onderrigaanbevelings van OpenRefine beklemtoon, of die gebruik van OpenRefine in ons aktiwiteite.
 
-### Lidmaatskap
+### Vennootskap
 
-Vir lidorganisasie-opdaterings, groot veranderinge of aankondigings.
+Vir vennootorganisasie-opdaterings of veranderinge aan die Vennootskapsprogram.
 
 ### Vlieënierwerks
 
