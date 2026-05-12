@@ -42,7 +42,7 @@ Subcommunities within The Carpentries can formally [register](https://carpentrie
 
 ## Onboarding
 
-The onboarding programme for Subcommunity Leaders offers a structured introduction to The Carpentries, with particular attention to multilingual communication, subcommunity coordination, and the organisation’s mission and pedagogy. Delivered across four one-hour sessions, the programme combines presentations, facilitated discussion, practical activities, and reflection to prepare leaders to steward their subcommunities effectively and inclusively.
+The onboarding programme for Subcommunity Leaders offers a structured introduction to The Carpentries, with particular attention to multilingual communication, subcommunity coordination, and the organisation’s mission and pedagogy. Delivered across four one-hour sessions, the programme combines [presentations](https://docs.google.com/presentation/d/1qgGaB2aCd6FBhcgC96I-l4eBuxiLGhNvKSRnLium1S8/edit?slide=id.p#slide=id.p), facilitated discussion, practical activities, and reflection to prepare leaders to steward their subcommunities effectively and inclusively.
 
 Participants engage with The Carpentries’ programmatic offerings, Partnership model, and research-informed teaching practices, while gaining clarity on the Subcommunity Leader role and its scope of work. The programme provides space to explore approaches to hosting community calls, meetups, and self-organised workshops, and to strengthen engagement within regional contexts. 
 
