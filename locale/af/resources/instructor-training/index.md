@@ -131,17 +131,17 @@ Ek weet dit is moeilik om tyd te maak vir hierdie sessies, en ek vra om verskoni
 Opregte,  
 \ [Naam\]
 
-## E-pos sjablone vir lede
+## E-pos sjablone vir vennote
 
-### E-pos vir werwing van leerlinge (van lidkontak)
+### E-pos vir werwing van leerlinge (van vennootkontak)
 
 Liewe [naam],
 
-Ons is opgewonde om aan te kondig dat [webwerfnaam] 'n lid van The Carpentries geword het!
+Ons is opgewonde om aan te kondig dat [webwerfnaam] 'n vennoot van The Carpentries geword het!
 
 [The Carpentries] (https://carpentries.org) is 'n wêreldwye gemeenskap van vrywilligers wat interaktiewe, praktiese werkswinkels oor rekenaar- en data-vaardighede ontwikkel en onderrig, wat basiese opleidingsbehoeftes aan wat in die meeste dissiplines nie voldoen word nie.
 
-As deel van ons Carpentries-lidmaatskap kan ons [aantal] mense van [werfnaam] laat voltooi [The Carpentries se Instructor Training Program] (https://carpentries.github.io/instructor-training/) en gesertifiseerde Carpentries-instrukteurs word.
+As deel van ons Carpentries-vennootskap kan ons [aantal] mense van [werfnaam] laat voltooi [The Carpentries se Instructor Training Program] (https://carpentries.github.io/instructor-training/) en gesertifiseerde Carpentries-instrukteurs word.
 
 Gesertifiseerde instrukteurs kan [Carpentries-werkswinkels] (https://carpentries.org/workshops/) hier by [werfnaam] saam leer, wat ons help om meer mense te bereik en hierdie vaardighede regoor ons gemeenskap op te bou. Daarbenewens het Carpentries-instrukteurs ook die geleentheid om as deel van 'n span by ander instellings in The Carpentries-netwerk te onderrig en ander met soortgelyke vaardighede te ontmoet wat dit geniet om dit te deel. Gasheerinstellings dek reis en uitgawes vir vrywillige instrukteur wat werkswinkels persoonlik onderrig
 
@@ -153,13 +153,13 @@ As u belangstel om opgelei en gesertifiseer te word as 'n Carpentries -instrukte
 
 Kontak asseblief met vrae!
 
-### Geselekteerde leeringsinligtinge-pos (van lidkontak vir saamgevoegde opleidingsgeleenthede)
+### Geselekteerde leeringinligtings-e-pos (van vennootkontak vir saamgevoegde opleidingsgeleen
 
 ONDERWERP: Uitnodiging om 'n gesertifiseerde Carpentries Instrukteur te word
 
 Liewe [naam],
 
-Dankie vir u belangstelling in Carpentries Instructor Training! Ek is bly om u 'n geleentheid te kan bied om deur middel van ons Carpentries-lidmaatskap opgelei te word.
+Dankie vir u belangstelling in Carpentries Instructor Training! Ek is bly om jou 'n geleentheid te kan bied om opgelei te word deur ons Carpentries-vennootskap.
 
 Instruktoropleidingsgeleenthede word aanlyn via videokonferensie gehou, met skedule opsies wat twee volle dae of vier halwe dae insluitend. Daar is twee stappe om te registreer:
 
