@@ -1,109 +1,109 @@
-# El código de conducta de Carpentries
+# The Carpentries Code of Conduct
 
-## Código de conducta (vista resumida)
+## Code of Conduct (Summary View)
 
-A continuación se muestra un resumen del Código de Conducta de The Carpentries. Continúe leyendo para obtener una [descripción más detallada del CoC] (#code-of-conduct-detailed-view).
+Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view).
 
-Para obtener más información, consulte nuestro:
+For more information please review our:
 
-- [Pautas de respuesta a incidentes] (incident-response.md)
-- [Pautas para la notificación de incidentes] (incident-reporting.md)
-- [Procedimiento de respuesta a incidentes] (enforcement-guidelines.md)
-- [Denominadas directrices de suspensión] (termed-suspension.md)
+- [Incident Response Guidelines](incident-response.md)
+- [Incident Reporting Guidelines](incident-reporting.md)
+- [Incident Response Procedure](enforcement-guidelines.md)
+- [Termed Suspension Guidelines](termed-suspension.md)
 
-Nos dedicamos a proporcionar un entorno acogedor y de apoyo para todas las personas, independientemente de su origen o identidad. Al participar en esta comunidad, los participantes aceptan acatar el Código de Conducta de The Carpentries y los procedimientos mediante los cuales se resuelve cualquier incidente relacionado con el Código de Conducta. Cualquier forma de comportamiento que excluya, intimide o cause incomodidad constituye una violación del Código de conducta. Para fomentar un entorno de aprendizaje positivo y profesional, fomentamos los siguientes tipos de comportamientos en todas las plataformas y eventos:
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
-- Usa un lenguaje acogedor e inclusivo
-- Sea respetuoso con los diferentes puntos de vista y experiencias
-- Acepta con gracia las críticas constructivas
-- Concéntrese en lo que es mejor para la comunidad
-- Muestre cortesía y respeto hacia otros miembros de la comunidad
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
 
-Si crees que alguien está infringiendo el Código de conducta, te pedimos que lo denuncies al Comité del Código de Conducta de The Carpentries \[completando este formulario] \[formulario de denuncia], quien tomará las medidas adecuadas para abordar la situación.
+If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee by [completing this form][reporting-form], who will take the appropriate action to address the situation.
 
-## Código de conducta (vista detallada)
+## Code of Conduct (Detailed View)
 
-### Parte 1. Introducción
+### Part 1. Introduction
 
-The Carpentries es un proyecto dirigido por la comunidad. Valoramos la participación de todos los miembros de la comunidad. Nos comprometemos a crear un lugar amigable y respetuoso para aprender, enseñar y contribuir. Se espera que todos los participantes en nuestros eventos y comunicaciones muestren respeto y cortesía hacia los demás.
+The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 
-Para dejar en claro lo que se espera, todas las personas que participen en las actividades de The Carpentries deben cumplir con el Código de conducta. Este Código de conducta se aplica a todos los espacios gestionados por The Carpentries, incluidos, entre otros, los talleres, las listas de correo electrónico y los foros en línea como GitHub, Slack y las redes sociales (por ejemplo, LinkedIn, Bluesky, Mastodon). Se espera que los anfitriones de los talleres ayuden a hacer cumplir el Código de Conducta.
+To make clear what is expected, everyone participating in The Carpentries activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and social media (e.g., LinkedIn, Bluesky, Mastodon). Workshop hosts are expected to assist with the enforcement of the Code of Conduct.
 
-El [Comité del Código de Conducta] de Carpentries (https://carpentries.org/coc-ctte/) es responsable de hacer cumplir el Código de Conducta. Puede ponerse en contacto con él enviando un correo electrónico a [coc@carpentries.org] (mailto:coc@carpentries.org).
-Todos los informes serán revisados por el Comité del Código de Conducta y se mantendrán confidenciales.
+The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org).
+All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
-### Parte 2. El código de conducta de Carpentries
+### Part 2. The Carpentries Code of Conduct
 
-The Carpentries se dedica a proporcionar un entorno acogedor y de apoyo para todas las personas, independientemente de su origen o identidad. Por lo tanto, no toleramos el comportamiento que sea irrespetuoso con nuestros profesores o alumnos o que excluya, intimide o cause incomodidad a los demás. No toleramos la discriminación ni el acoso basados en características que incluyen, entre otras, la identidad y expresión de género, la orientación sexual, la discapacidad, la apariencia física, el tamaño corporal, la ciudadanía, la nacionalidad, el origen étnico o social, el embarazo, el estado familiar, la condición de veterano, la información genética, la religión o las creencias (o la falta de ellas), la pertenencia a una minoría nacional, la propiedad, la edad, la educación, el estado socioeconómico, las opciones técnicas y el nivel de experiencia.
+The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
 
-Todas las personas que participen en las actividades de Carpentries deben cumplir con este Código de conducta. Se aplica a todos los espacios gestionados por The Carpentries, incluidos, entre otros, los talleres, las listas de correo electrónico y los foros en línea como GitHub, Slack y las redes sociales (por ejemplo, LinkedIn, Bluesky, Mastodon). Se espera que los anfitriones de los talleres ayuden a hacer cumplir el Código de Conducta. Al participar, los participantes indican que aceptan los procedimientos mediante los cuales The Carpentries resuelve cualquier incidente relacionado con el Código de Conducta, que puede incluir el almacenamiento y el procesamiento de su información personal.
+Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and social media (e.g., LinkedIn, Bluesky, Mastodon). Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which The Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
 
-#### Parte 2.1 Comportamiento esperado
+#### Part 2.1 Expected behaviour
 
-Se espera que todos los participantes en nuestros eventos y comunicaciones muestren respeto y cortesía hacia los demás. Todas las interacciones deben ser profesionales independientemente de la plataforma: ya sea en línea o en persona. Para fomentar un entorno de aprendizaje positivo y profesional, fomentamos los siguientes tipos de comportamientos en todos los eventos y plataformas de Carpentries:
+All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
-- Usa un lenguaje acogedor e inclusivo
-- Sea respetuoso con los diferentes puntos de vista y experiencias
-- Acepta con gracia las críticas constructivas
-- Concéntrese en lo que es mejor para la comunidad
-- Muestre cortesía y respeto hacia otros miembros de la comunidad
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
 
-Nota: Consulta las [cuatro reglas sociales] (https://www.recurse.com/manual#sub-sec-social-rules) para obtener más recomendaciones.
+Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
-#### Parte 2.2 Comportamiento inaceptable
+#### Part 2.2 Unacceptable behaviour
 
-Algunos ejemplos de comportamiento inaceptable por parte de los participantes en cualquier evento o plataforma de Carpentries incluyen:
+Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
 
-- comentarios escritos o verbales que tienen el efecto de excluir a las personas por su pertenencia a un grupo específico
-- hacer que alguien tema por su seguridad, por ejemplo, mediante el acecho, el seguimiento o la intimidación
-- amenazas violentas o lenguaje dirigido contra otra persona
-- la exhibición de imágenes sexuales o violentas
-- atención sexual no deseada
-- contacto físico no consentido o no deseado
-- interrupción sostenida de conversaciones, eventos o comunicaciones
-- insultos o humillaciones
-- chistes sexistas, racistas, homofóbicos, transfóbicos, sobre personas con discapacidades o excluyentes
-- palabrotas excesivas
-- incitación a la violencia, el suicidio o la autolesión
-- continuar iniciando la interacción (incluida la fotografía o la grabación) con alguien después de que se le pida que deje de hacerlo
-- publicación de una comunicación privada sin consentimiento
+- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
+- causing someone to fear for their safety, such as through stalking, following, or intimidation
+- violent threats or language directed against another person
+- the display of sexual or violent images
+- unwelcome sexual attention
+- nonconsensual or unwelcome physical contact
+- sustained disruption of talks, events or communications
+- insults or put downs
+- sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+- excessive swearing
+- incitement to violence, suicide, or self-harm
+- continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+- publication of private communication without consent
 
-#### Parte 2.3 Consecuencias de un comportamiento inaceptable
+#### Part 2.3 Consequences of Unacceptable behaviour
 
-Se espera que los participantes a los que se les pida que detengan cualquier comportamiento inapropiado cumplan de inmediato. Esto se aplica a cualquier evento y plataforma de Carpentries, ya sea en línea o en persona. Si un participante tiene un comportamiento que infringe este código de conducta, los organizadores pueden advertir al infractor, pedirle que abandone el evento o la plataforma (sin reembolso) o solicitar al Comité del Código de Conducta de The Carpentries que investigue la infracción del Código de conducta e imponga las sanciones adecuadas.
+Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
-## Diagrama de flujo del proceso
+## Process Flow Diagram
 
-El siguiente diagrama ilustra los pasos siguientes para seguir un informe del Código de Conducta.
+The diagram below illustrates the following steps in following a Code of Conduct report.
 
-- Primer informe -> evalúe si hay un informe del CoC y aclare la infracción
-  - Sin denuncia o infracción -> responder con una explicación al denunciante
-  - Infracción identificada -> organice una primera reunión con el CoCC (lea sobre el grupo de respuesta a incidentes en la gobernanza del CoCC) para identificar colectivamente problemas e infracciones específicos
-- Si no se identificó una infracción o problema específico -> responder al denunciante
-- Si se identificó una infracción o un problema específico -> envíe un correo electrónico al denunciante/denunciado como se explica en el proceso de tramitación y cumplimiento de las denuncias del CoC
-- Si no se ha decidido que se ha producido una infracción o un problema -> celebre una reunión con el denunciante/denunciado como se explica en el proceso de tramitación y cumplimiento de las denuncias del CoC -> Celebre una segunda reunión con el CoCC para identificar las consecuencias y los próximos pasos, tal como se explica en el proceso de tramitación y cumplimiento de las denuncias del CoC
+- First report -> assess if there is a CoC report and clear breach
+  - No report or breach -> respond with an explanation to the reporter
+  - Breach identified -> set up a first meeting with the CoCc (Read about Incident Response Group in CoCc Governance) to collectively identify specific issues and breaches
+- If a specific breach/issue was not identified -> reply to the reporter
+- If a specific breach/issue was identified -> email the reporter/reportee as explained in CoC report handling and enforcement process
+- If it was undecided that a breach/issue occurred -> hold a meeting with the reporter/reportee as explained in CoC report handling and enforcement process -> Hold a second meeting with the CoCc to identify consequence/next steps as explained in CoC report handling and enforcement process
 
-! [Diagrama del proceso del código de conducta] (images/coc_process_diagram.png)
+![Code of Conduct process diagram](images/coc_process_diagram.png)
 
-## Registros de actualización
+## Update Logs
 
-- 2023-01-11 Se agregó el diagrama de flujo del proceso proporcionado por [Malvika Sharan en este número] (https://github.com/carpentries/docs.carpentries.org/issues/619)
+- 2023-01-11 Added the process flow diagram as provided by [Malvika Sharan in this issue](https://github.com/carpentries/docs.carpentries.org/issues/619)
 
-- 2020-09-23 El documento de gobernanza del CoCC se agregó al manual. Este documento está aprobado por los miembros del comité del Código de Conducta, la directora ejecutiva, Kari L. Jordan, y el comité ejecutivo. Colaboradores: redactados por Karin Lagesen, Malvika Sharan y Karen Cranston (2019) y revisados y actualizados exhaustivamente por los miembros del comité del Código de Conducta: Karin Lagesen, Malvika Sharan, Karen Cranston, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau y Konrad Förstner (2019-2020).
+- 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Cranston (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Cranston, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020).
 
-- 17-07-2019 El documento del acuerdo de membresía del CoCC se agregó al manual. Este documento está aprobado por los miembros del comité del Código de Conducta, la directora ejecutiva, Tracy Teal y la comunidad de formadores. Colaboradores: redactados por Malvika Sharan (enero de 2019) y revisados y actualizados intensamente por los miembros del comité Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern y Simon Waldman (febrero-abril de 2019).
+- 2019-07-17 The CoCc membership agreement document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Tracy Teal and trainers community. Contributors: drafted by Malvika Sharan (January 2019) and intensively reviewed and updated by the committee members Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman (February-April 2019).
 
-- 28-02-2019 Se agregaron el proceso de apelación, el procedimiento para hacer el seguimiento de una persona denunciada, la terminología, el procedimiento de respuesta a los incidentes del CoC, la denominada lista de verificación de suspensiones y cláusulas ampliadas para conflictos de intereses. Colaboradores: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern y Simon Waldman.
+- 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, and expanded clauses for conflicts of interest. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
-- 11/09/2018 Se revisó el Código de Conducta para ofrecer ejemplos claros de comportamiento beneficioso y no deseado. También incluye cambios relacionados con la evaluación de la intención. Colaboradores: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern y Simon Waldman.
+- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
-- 11/09/2018 Se revisaron las directrices de presentación de informes para incluir puntos de contacto alternativos. Colaboradores: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern y Simon Waldman.
+- 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
-- 21-11-2016 Publicación del código de conducta, las pautas de presentación de informes y el manual de cumplimiento. Los documentos se adaptaron a partir de las directrices redactadas por el [Proyecto Django] (https://www.djangoproject.com/conduct/enforcement-manual/), que a su vez se basaba en la plantilla [Iniciativa Ada] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) y en el [Procedimiento PyCon 2013 para gestionar los incidentes de acoso] (https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Colaboradores: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman y Tracy Teal.
+- 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
-## Acerca de este documento
+## About this Document
 
-Este documento está adaptado de las directrices escritas por el [Proyecto Django] (https://www.djangoproject.com/conduct/enforcement-manual/), que a su vez se basaba en la plantilla [Iniciativa Ada] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) y en el [Procedimiento PyCon 2013 para gestionar los incidentes de acoso] (https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Los colaboradores del documento inicial son Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman y Tracy Teal. [Otter Tech] (https://otter.technology) de [PyCon U.S. Código de conducta de 2018] (https://us.pycon.org/2018/about/code-of-conduct/) ([licenciado CC BY 3.0] (http://creativecommons.org/licenses/by/3.0/))
-En 2018, el Código de conducta se revisó para añadir ejemplos resumidos y sencillos de comportamientos beneficiosos y no deseados, y para evaluar la intención. También se revisaron las directrices de presentación de informes para incluir puntos de contacto alternativos y se añadió un formulario de presentación de informes con el procedimiento. En 2019, se incluyeron un proceso de apelación, el procedimiento para hacer un seguimiento con una persona denunciada, la terminología, el procedimiento de respuesta a los incidentes del CoC, la denominada lista de verificación de suspensiones, cláusulas ampliadas para conflictos de intereses y un acuerdo de membresía del comité. Los colaboradores de estos documentos revisados son Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern y Simon Waldman.
+This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to the the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))
+In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. In 2019, an appeal process, the procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, expanded clauses for conflicts of interest, and committee membership agreement were included. Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
