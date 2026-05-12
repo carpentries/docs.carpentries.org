@@ -59,7 +59,7 @@ seront également répertoriées sur notre {{'[Calendrier communautaire] ({}/com
 
 Une liste d'Etherpads pertinents pour servir d'hôte de session communautaire comprend :
 
-- {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}} : Cet Etherpad contient une liste des Etherpads que les hôtes de sessions communautaires peuvent utiliser. Au lieu d'utiliser l'Etherpad comme par le passé, nous utiliserons Pretix pour les inscriptions aux sessions communautaires à compter du 1er janvier 2026 pour [les inscriptions des participants] (https://pretix.carpentries.org/community-events/).
+- {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: Instead of using the Etherpad as we have in the past (to list of upcoming Community Sessions), we use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
 - {{'[Pad-of-Pads] ({}/pad-of-pads) '.format (etherpad)}} : une liste des Etherpads les plus couramment utilisés par The Carpentries et d'autres ressources.
 
 ### Messagerie et communication
