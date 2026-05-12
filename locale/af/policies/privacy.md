@@ -42,11 +42,11 @@ U kan ons inligting gee deur:
 - aansoek om 'n instrukteur, 'n onderhoud, 'n afrigter te word
 - vrywillig om in een van ons komitees of taakkragte te dien
 - dien as streekskoördineerder
-- aansoek inligting oor werkswinkels of lidmaatskap
+- aansoek inligting oor werkswinkels of vennootskappe
 - deelname aan enige kapasiteit aan 'n werkswinkel, opleiding of geleentheid
 - invoer inligting deur ons aanlyn samewerkende nootnemingsinstrumente
 - indiening van vorms of opnames
-- 'n lidmaatskap-ooreenkoms aansluit
+- 'n Vennootskapsooreenkoms aansluit
 - maak 'n skenking
 - verskaffing van borgskap
 - kontak ons per telefoon of e-pos vir inligting of dienste
@@ -58,7 +58,7 @@ Die kategorieë van inligting sluit in:
   en sosiale media-rekeninghanterings
 - Kontakinligting, soos adres, ligging, e-pos en telefoonnommer
 - Finansiële inligting, soos bankrekeningnommer, kredietkaartnommer of
-  debietkaartnommer, vir borgings, skenkings en lidmaatskapfooie
+  debietkaartnommer, vir borgings, skenkings en vennootskapsfooie
 - As u kies om vir navorsingsdoeleindes kenmerke van
   beskermde klassifikasies te identifiseer, soos ras, kleur, nasionale oorsprong, godsdiens,
   verhouding tot vrywilligersorganisasies, geslag, gestremdheid, ouderdom, afkoms,
@@ -93,7 +93,7 @@ jou te kontak oor addisionele opt-in-geleenthede vir opleiding, onderrig,
 -opnames en/of gemeenskapsbetrokkenheid. Ons verskaf nie persoonlik identifiseerbare
 -inligting aan enige derde party nie. Ons kan egter gede-geïdentifiseerde totale
 of opsomminginligting rakende deelnemers in die openbaar of met vrywilligers,
-lidwebwerwe of derde partye deel, insluitend maar nie beperk tot befondsingsentiteite nie.
+Vennootwebwerwe of derde partye deel, insluitend maar nie beperk tot befondsingsentiteite nie.
 
 Werkswinkelgashere is gebind aan die bepalings vir data gebruik en privaatheid binne die
 Workshop-ooreenkoms, en die Carpentries Gedragskode (CoC) ten opsigte van enige
@@ -122,10 +122,10 @@ Met jou toestemming kan ons vrywilligersinligting gebruik om jou te kontak oor
 addisionele opt-in-geleenthede vir assessering, opleiding, onderrig, vrywilligerswerk
 en/of gemeenskapsbetrokkenheid. Ons verskaf nie persoonlik identifiseerbare inligting
 aan enige derde party nie. Ons kan egter gede-geïdentifiseerde totale of opsommige
--inligting rakende instrukteurs in die openbaar of met vrywilligers, lidwebwerwe of
+-inligting rakende instrukteurs in die openbaar of met vrywilligers, vennootwebwerwe of
 derde partye deel, insluitend maar nie beperk tot befondsingsentiteite nie.
 
-### Opleiers
+### Instrukteur Opleiers
 
 “Trainers” sluit opleiers, afrigtingleerleerders en afrigteraansoekers
 
@@ -149,7 +149,7 @@ Met jou toestemming kan ons vrywilligersinligting gebruik om jou te kontak oor
 addisionele opt-in-geleenthede vir assessering, opleiding, onderrig, vrywilligerswerk
 en/of gemeenskapsbetrokkenheid. Ons verskaf nie persoonlik identifiseerbare inligting
 aan enige derde party nie. Ons kan egter gede-geïdentifiseerde totale of
-opsommingsinligting oor opleiers in die openbaar of met vrywilligers, vennote
+-opsommingsinligting oor Instruktoropleiers in die openbaar of met vrywilligers, vennote
 of derde partye deel, insluitend maar nie beperk tot befondsingsentiteite nie.
 
 ### Kurrikulumonderhouers en bydraers
@@ -195,7 +195,7 @@ kalendergeleenthede, om jou direk te kontak oor les (s) wat jy onderhou het of
 bygedra het, en ons gebruik jou GitHub-handvatsel om GitHub-spanne
 binne ons organisasies te skep of op te dateer, sodat jy as toepaslik in kwessies/PRS gemerk kan word.
 
-### Vrywilligers vir subkomitees, skakelaars en Uitvoerende Raad
+### Vrywilligers vir subkomitees, skakelaars en Raad van Direkteure
 
 \*\*Watter inligting versamel ons? \*\*
 
@@ -208,12 +208,12 @@ geslag, naaste lughaweligging, organisatoriese affiliasie, beroep, loopbaan
 \*\*Hoe word hierdie inligting gebruik? \*\*
 
 Ons gebruik hierdie inligting om met ander vrywilligers te kommunikeer, insluitend kommunikasie
-oor die organisasie en jou rol (s) daarin. Vir komitees- en Uitvoerende Raadslede,
+oor die organisasie en jou rol (s) daarin. Vir komitees- en raadslede,
 noem ons jou naam en komiteelidmaatskap op ons webwerf. Ons kan vrywilligers
 -inligting gebruik om u te kontak oor addisionele opt-in-geleenthede vir assessering, opleiding,
 onderrig, vrywilligerswerk en/of gemeenskapbetrokkenheid. Ons verskaf nie persoonlik
 -identifiseerbare inligting aan enige derde party nie. Ons kan egter gede-geïdentifiseerde totale
-of opsomminginligting rakende vrywilligers in die openbaar of met ander vrywilligers, lid
+of opsomminginligting rakende vrywilligers in die openbaar of met ander vrywilligers, Partner
 -webwerwe of derde partye deel, insluitend maar nie beperk tot befondsingsentiteite nie.
 
 ### Vorm- en opname-respondente
@@ -270,7 +270,7 @@ afhang van die beleide en u rekeninginstellings met die derdeparty-diens.
 
 Daarbenewens kan ons tekstuele insette (bv. Etherpad-inskrywings) van
 u versamel wat moontlik met u naam, affiliasie en/of sosiale media-handvatsels geassosieer word.
-As u finansiële inligting verskaf om vir 'n werkswinkel of lidmaatskap te betaal of
+As u finansiële inligting verskaf om vir 'n werkswinkel of vennootskap te betaal of
 'n skenking te maak, sal die transaksie-inligting deur 'n derdeparty-
 -veiligde webwerf verwerk word. Hierdie inligting sal slegs toeganklik wees vir ons personeel of
 gemagtigde administrateurs. Ons werk saam met derde partye om
@@ -335,9 +335,9 @@ volgende maniere deel:
 
 - As u “Vooraf goedgekeurde registrasie” gekies het: u aansoek
   -materiaal en inligting oor u vordering met die Carpentries Instructor
-  -sertifisering kan met ons kontakte by u lidinstelling gedeel word.
+  -sertifisering kan met ons kontakte by u Vennootinstelling gedeel word.
 - As jy “Open opleidingsaansoek” gekies het: jou aansoek
-  -materiaal kan met The Carpentries Trainers gedeel word om jou aansoek te hersien en
+  -materiaal kan met The Carpentries Instructor Trainners gedeel word om jou aansoek te hersien en
   te aanvaar.
 
 ### Affiliate en diensverskaffers
@@ -377,7 +377,7 @@ beskerming.
 
 Ons behou die reg voor om saamgestelde of gede-geïdentifiseerde inligting oor u
 met ons vrywilligers, werkswinkelvennote en befondsvennote te deel om
-te ontleed en ons programme te verbeter, ons lidmaatskapprogram te bemark en aansoek te doen vir befondsing.
+te ontleed en ons programme te verbeter, ons Vennootskapsprogram te bemark en aansoek te doen vir befondsing.
 Ons gebruik hierdie inligting om programme te help evalueer en te verbeter, rapporteer oor impak
 en uitkomste en die behoeftes en belange van ons gemeenskap te verstaan. Waar ons
 oop antwoorde of getuigskrifte deel, doen ons dit altyd anoniem of vra
