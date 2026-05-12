@@ -39,7 +39,6 @@ Quick Links
     Self-Organised Workshop Notification Form <https://amy.carpentries.org/forms/self-organised/>
     Toolkit of IDEAS  <https://doi.org/10.5281/zenodo.7041934>
     Workshop Website Template <https://github.com/carpentries/workshop-template>
-    Training Website Template <https://github.com/carpentries/training-template>
 
 .. toctree::
     :hidden:
