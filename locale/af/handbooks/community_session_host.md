@@ -225,7 +225,7 @@ Die gemeenskapsessiegasheer moet bywoning aanteken deur mense op Pretix na te ga
 
 ! [Stap 2: U moet nou 'n lys van deelnemers wat vir u geleentheid geregistreer het, kan sien.] (../img/Pretix_Step_2.png)
 
-3. Select all the participants who attended the community session by checking the box to the left of the order code. Please note there might be multiple pages of registered participants.
+3. Kies al die deelnemers wat die gemeenskapsessie bygewoon het deur die blokkie links van die bestellingskode te merk. Let daarop dat daar verskeie bladsye van geregistreerde deelnemers kan wees.
 
 ! [Stap 3: Kies al die deelnemers wat die gemeenskapsessie bygewoon het deur die blokkie links van die bestellingskode te merk.] (../img/Pretix_Step_3.png)
 
