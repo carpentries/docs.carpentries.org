@@ -236,7 +236,7 @@ Les inscriptions aux démonstrations pédagogiques sont normalement annoncées e
 #### Organisez une démo
 
 - Accédez à la salle Zoom. Le lien se trouve dans le [Etherpad] (https://pad.carpentries.org/teaching-demos).
-- Once everyone is on the call (with their audio and video working), remind them of the Code of Conduct, and explain the procedure for the demo session based on the [checkout guidelines](https://carpentries.github.io/instructor-training/checkout#demonstration).
+- Une fois que tout le monde est en communication (son et sa vidéo fonctionnent), rappelez-leur le Code de conduite et expliquez la procédure de la session de démonstration en vous basant sur les [directives de paiement] (https://carpentries.github.io/instructor-training/checkout#demonstration).
 - Faites savoir aux stagiaires que vous ne leur direz pas s'ils ont réussi pendant la session, mais que vous leur enverrez un e-mail par la suite. Il peut être utile de leur rappeler qu'il ne s'agit pas d'un test aux enjeux élevés, mais d'une occasion conviviale de faire part de leurs commentaires.
 - Demandez à ceux qui ne font pas de présentation de donner leur avis en utilisant la même [rubrique positive par rapport aux points à améliorer et entre le contenu et la présentation] (https://carpentries.github.io/instructor-training/instructor/demos_rubric.html) que celle utilisée lors de la formation. Pour une session complète (5 stagiaires), ils doivent ajouter des commentaires à l'Etherpad pour que vous puissiez les résumer. Si vous avez moins de personnes, vous pouvez leur demander de partager verbalement à tour de rôle.
 - Donnez à chaque stagiaire quelques instants pour se préparer et lancer le partage d'écran avant de commencer le compte à rebours. Démarrez un chronomètre.
