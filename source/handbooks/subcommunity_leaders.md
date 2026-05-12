@@ -28,6 +28,18 @@ Anyone passionate about building local Carpentries communities and fostering col
 Anyone passionate about building local Carpentries communities and fostering collaboration.
 
 
+## Subcommunity Registry
+
+The [Subcommunity Registry](https://carpentries.org/community/get-connected/) is designed to:
+
+- Highlight subcommunities and their activities to increase visibility.
+- Connect members with subcommunities that align with their interests and offer engagement opportunities.
+- Support recruitment efforts by helping subcommunities attract new members.
+- To get started, visit the Subcommunity Registry page.
+
+Subcommunities within The Carpentries can formally [register](https://carpentries.org/community/get-connected/#subcommunity-registry) their activities through an online form and, if needed, seek guidance from the [Community Engagement Team](mailto:community@carpenries.org), including support for creating a customised [subcommunity logo](https://docs.carpentries.org/resources/communications/logos.html#links-to-logo-files) that follows approved branding guidelines. These subcommunities are organised into regional, local, and special interest groups depending on their geographic or thematic focus, and they stay connected through [mailing lists hosted on TopicBox](https://carpentries.org/community/get-connected/#regional-communities-mailing-lists), with additional guidance provided via the [TopicBox Quick Start Guide](https://docs.carpentries.org/resources/communications/slack-and-email.html#topicbox).
+
+
 ## Onboarding
 
 The onboarding programme for Subcommunity Leaders offers a structured introduction to The Carpentries, with particular attention to multilingual communication, subcommunity coordination, and the organisation’s mission and pedagogy. Delivered across four one-hour sessions, the programme combines presentations, facilitated discussion, practical activities, and reflection to prepare leaders to steward their subcommunities effectively and inclusively.
@@ -41,7 +53,7 @@ If you are no longer interested in serving as a Subcommunity Leader, please emai
 
 ## Communication and Collaboration Spaces
 
-Links to communication and colloboration resources for Subcommunity Leaders.  Possibly includes subsections for Community Calendar, Etherpad, messaging and communication, mailing lists.
+This section lists communication channels and collaboration spaces that support Subcommunity Leaders. Participants in these spaces are expected to follow The [Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/). A description of the tools listed can be found in the [community glossary](https://docs.carpentries.org/resources/general/glossary.html).
 
 ### Community Calendar
 
@@ -50,6 +62,9 @@ Links to communication and colloboration resources for Subcommunity Leaders.  Po
 ### Messaging and Communication
 
 ### Mailing List
+
+You can access The Carpentries mailing lists from [Topicbox](https://carpentries.topicbox.com/groups/latest). The [Subcommunity Leaders list](https://carpentries.topicbox.com/groups/carpentries-subcommunity-leade) is used for announcements relevant to Subcommunity Leaders. To join one or more Carpentries mailing lists, you will need to [create a login](https://carpentries.topicbox.com/groups/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our [Topicbox Quick Start Guide](https://doi.org/10.5281/zenodo.14235643).
+
 
 ## Step-by-Step Guides
 
