@@ -1,27 +1,27 @@
-# Lesson Program Governance Policy
+# Política de gobierno del programa de lecciones
 
-Note that the [Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) will also follow this policy.
+Ten en cuenta que el [Comité de Liderazgo de Entrenadores] (https://github.com/carpentries/trainers/blob/main/governance.md) también seguirá esta política.
 
-- Each Lesson Program will have a Lesson Program Governance Committee.
-- Each Lesson Program Governance Committee will comply with the general [committee policy as described in the Carpentries Handbook](/resources/general/committees.md).
-- In addition, each Lesson Program Governance Committee:
-  - Maintains a minimum of 3 members to serve on the committee and act as a point of contact with The Carpentries Board of Directors and Core Team.
-  - Follows all general policies as outlined by The Carpentries, including, but not limited to, the {{'[Code of Conduct]({})'.format(code_of_conduct)}}.
-  - Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding [Curriculum Advisory Committee](/handbooks/curriculum_advisors.md) or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee.
-  - Decides if and when new lessons are added to or removed from the Lesson Program or delegate the decision of adding or removing a lesson to the corresponding Curriculum Advisory Committee.
-  - Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured.
-  - Decides how and how often they engage the Lesson Program community/communities.
-  - Decides between:
-    - seeking approval from the Board of Directors to elect members to the Lesson Program Governance Committee.
-    - appointing members based on an application process.
-  - Decides committee members term lengths.
-  - Decides on requesting additional Roles and Responsibilities beyond those described in this policy from the Board of Directors.
-  - Works with The Carpentries Core Team to maintain documentation (including the Lesson Program website) with information about its goals, workshops and curricula.
-  - Coordinates with The Carpentries to release and publish lessons with permanent identifiers on a regular basis or delegates this responsibility to the corresponding Curriculum Advisory Committee.
-  - Maintains and develops lessons in accordance with Carpentries guidelines as outlined in The Carpentries Curriculum Development Handbook.
-- The Board of Directors:
-  - Decides if a new Lesson Program can join The Carpentries as regulated by the {{'[The Carpentries Bylaws]({}/about-us/governance/#carpentries-bylaws-and-policies)'.format(carpentries_website)}} and the [Lesson Program Policy](lesson-program-governance.md).
-  - Decides if a Lesson Program Governance Committee’s policies do not align with the Code of Conduct or other Carpentries policies.
-  - Decides whether to approve a Lesson Program Governance Committee’s request to elect committee members by its subcommunity, instead of being appointed through an application process.
-  - Decides whether to approve a request from a Lesson Program Governance Committee for additional Roles and Responsibilities beyond those described in this policy.
-- Each Lesson Program Governance Committee has a Core Team Liaison assigned to it.
+- Cada programa de lecciones tendrá un comité de gobierno del programa de lecciones.
+- Cada comité de gobierno del programa de lecciones cumplirá con la [política del comité tal como se describe en el Manual de carpintería] (/resources/general/committees.md).
+- Además, cada comité de gobierno del programa de lecciones:
+  - Mantiene un mínimo de 3 miembros para formar parte del comité y actuar como punto de contacto con la junta directiva y el equipo central de The Carpentries.
+  - Sigue todas las políticas generales descritas por The Carpentries, que incluyen, entre otras, el {{'[Código de conducta] ({}) '.format (code_of_conduct)}}.
+  - Determina el plan de estudios y el plan de estudios básico para (cada uno de) los talleres del programa de lecciones, junto con el [Comité Asesor Curricular] correspondiente (/handbooks/curriculum_advisors.md) o delegando las decisiones curriculares al Comité Asesor Curricular correspondiente.
+  - Decide si se agregan o eliminan nuevas lecciones del Programa de Lecciones y cuándo, o delega la decisión de agregar o eliminar una lección al Comité Asesor Curricular correspondiente.
+  - Decide si se necesitan uno o más comités asesores curriculares para sus planes de estudio y cómo están estructurados.
+  - Decide cómo y con qué frecuencia involucran a la comunidad o comunidades del Programa de Lecciones.
+  - Decide entre:
+    - solicitar la aprobación de la Junta Directiva para elegir a los miembros del Comité de Gobierno del Programa de Lecciones.
+    - nombrar a los miembros sobre la base de un proceso de solicitud.
+  - Decide la duración de los mandatos de los miembros del comité.
+  - Decide solicitar al Consejo de Administración funciones y responsabilidades adicionales además de las descritas en esta política.
+  - Trabaja con el equipo principal de The Carpentries para mantener la documentación (incluido el sitio web del Programa de Lecciones) con información sobre sus objetivos, talleres y planes de estudio.
+  - Coordina con The Carpentries para publicar y publicar lecciones con identificadores permanentes de forma regular o delega esta responsabilidad en el Comité Asesor Curricular correspondiente.
+  - Mantiene y desarrolla las lecciones de acuerdo con las pautas de Carpentries, tal como se describe en el Manual de desarrollo curricular de Carpentries.
+- La junta directiva:
+  - Decide si un nuevo programa de lecciones puede unirse a The Carpentries según lo estipulado en los {{'[Estatutos de The Carpentries] ({}/about-us/governance/#carpentries-bylaws-and-policies) '.format (carpentries_website)}} y la [Política del programa de lecciones] (lesson-program-governance.md).
+  - Decide si las políticas del Comité de Gobernanza del Programa de Lecciones no se alinean con el Código de Conducta u otras políticas de Carpentries.
+  - Decide si aprueba la solicitud de un comité de gobierno del programa de lecciones para elegir a los miembros del comité por parte de su subcomunidad, en lugar de ser nombrados mediante un proceso de solicitud.
+  - Decide si se aprueba una solicitud de un comité de gobierno del programa de lecciones para funciones y responsabilidades adicionales a las descritas en esta política.
+- Cada comité de gobierno del programa de lecciones tiene asignado un enlace de equipo central.
