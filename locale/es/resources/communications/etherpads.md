@@ -2,7 +2,7 @@
 
 ## Uso general
 
-The Carpentries ofrece el uso de nuestros [Etherpads] (https://pad.carpensstries.org/) como herramienta colaborativa para tomar notas durante talleres, eventos de capacitación y otros eventos relacionados con Carpentries.  En nuestro [pad-of-pads] (https://pad.carpentries.org/pad-of-pads) encontrará una lista de nuestros blocs más utilizados y otros recursos. Esta lista se crea manualmente y, por lo general, solo incluye los paneles de interés para la comunidad en general.  No incluirá libretas específicas para eventos individuales o grupos.
+The Carpentries ofrece el uso de nuestros [Etherpads] (https://pad.carpentries.org/) como herramienta colaborativa para tomar notas durante talleres, eventos de capacitación y otros eventos relacionados con Carpentries.  En nuestro [pad-of-pads] (https://pad.carpentries.org/pad-of-pads) encontrará una lista de nuestros blocs más utilizados y otros recursos. Esta lista se crea manualmente y, por lo general, solo incluye los paneles de interés para la comunidad en general.  No incluirá libretas específicas para eventos individuales o grupos.
 
 Se puede crear un nuevo Etherpad añadiendo un nombre descriptivo a la URL `https://pad.carpentries.org/`, como `https://pad.carpentries.org/committeename`.
 
