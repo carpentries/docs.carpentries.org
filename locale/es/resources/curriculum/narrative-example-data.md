@@ -129,6 +129,7 @@ Los siguientes repositorios son buenos lugares para empezar a buscar datos de ej
 - [Verso de datos de Harvard] (https://dataverse.harvard.edu/)
 - [DataOne] (https://www.dataone.org/)
 - [Los conjuntos de datos de la Red de Curación de Datos] (https://datacuration.network/datasets/)
+- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [El portal oficial de datos de Argentina] (https://www.datos.gob.ar/) (en español)
 - [ÁFRICA] (https://lanfrica.com/)
 
