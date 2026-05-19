@@ -129,6 +129,7 @@ Die volgende bewaarplekke is goeie plekke om na voorbeelddata te begin soek om i
 - [Harvard Dataverse] (https://dataverse.harvard.edu/)
 - [DataEen] (https://www.dataone.org/)
 - [Die datastelle van die Data Curation Network] (https://datacuration.network/datasets/)
+- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [Die amptelike portaal vir Argentinië data] (https://www.datos.gob.ar/) (in Spaans)
 - [AFRIKA] (https://lanfrica.com/)
 
