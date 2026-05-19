@@ -125,6 +125,7 @@ The following repositories are good places to start looking for example data to 
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [DataONE](https://www.dataone.org/)
 - [The Data Curation Network's datasets](https://datacuration.network/datasets/)
+- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [The Official Portal for Argentina Data](https://www.datos.gob.ar/) (in Spanish)
 - [LANFRICA](https://lanfrica.com/)
 
