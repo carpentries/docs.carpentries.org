@@ -129,6 +129,7 @@ Les référentiels suivants sont de bons points de départ pour rechercher des e
 - [Dataverse de Harvard] (https://dataverse.harvard.edu/)
 - [Première donnée] (https://www.dataone.org/)
 - [Ensembles de données du Data Curation Network] (https://datacuration.network/datasets/)
+- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [Le portail officiel des données sur l'Argentine] (https://www.datos.gob.ar/) (en espagnol)
 - [AFRIQUE] (https://lanfrica.com/)
 
