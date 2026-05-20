@@ -57,7 +57,11 @@ This section lists communication channels and collaboration spaces that support 
 
 ### Community Calendar
 
+Copy over the verbiage from this link: https://docs.carpentries.org/handbooks/community_session_host.html#community-calendar
+
 ### Etherpad 
+
+Copy over the verbiage from this link: https://docs.carpentries.org/handbooks/community_session_host.html#etherpad
 
 ### Messaging and Communication
 
@@ -74,17 +78,106 @@ If Slack is new to you, our [Slack Quick Start Guide](https://zenodo.org/records
 You can access The Carpentries mailing lists from [Topicbox](https://carpentries.topicbox.com/groups/latest). The [Subcommunity Leaders list](https://carpentries.topicbox.com/groups/carpentries-subcommunity-leade) is used for announcements relevant to Subcommunity Leaders. To join one or more Carpentries mailing lists, you will need to [create a login](https://carpentries.topicbox.com/groups/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our [Topicbox Quick Start Guide](https://doi.org/10.5281/zenodo.14235643).
 
 
+
 ## Step-by-Step Guides
 
-This section includes step-by-step guides to support you in your role as a Subcommunity Leader. Possibly includes subsections for checklists, other guides, etc.
 
-### Checklists
+### Subcommunity Registry
 
-### Additional Guides 
+The registry is designed to:
+
+- Highlight subcommunities and their activities to increase visibility
+- Connect members with subcommunities that align with their interests and offer engagement opportunities.
+- Support recruitment efforts by helping subcommunities attract new members.
+
+To get started, visit the [Subcommunity Registry](https://carpentries.org/community/get-connected/) page. 
+
+
+### Signing Up to Host a Local or Regional Community Session
+
+Copy over verbiage from https://docs.carpentries.org/handbooks/community_session_host.html#step-by-step-guides
+
+https://docs.carpentries.org/handbooks/community_session_host.html#script-for-starting-a-community-session
+
 
 ## Resources 
 
-Includes additional resources like slide decks and other documents.
+### General overview of The Carpentries
+
+Below you will find resources describing our mission, vision, values, and CoC as well as where to find information about subcommunities on the Carpentries website.
+
+- [About The Carpentries](https://carpentries.org/about-us/) 
+- [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/) 
+- [Connect with The Carpentries](https://carpentries.org/community/get-connected/)
+
+
+#### Programmatic offerings of The Carpentries
+
+In what follows you will find resources to Identify Carpentries lesson programs and related pathways of engagement.
+
+- [Data Carpentry](https://datacarpentry.org/)
+- [Library Carpentry](https://librarycarpentry.org/)
+- [Software Carpentry](https://software-carpentry.org/)
+- [Instructor Training](https://carpentries.org/instructor-training/)
+- [Learner-centered Teaching](https://carpentries.org/learner-centered-teaching/)
+- [Instructor Trainer Training](https://carpentries.org/instructor-trainer-training/)
+- [Collaborative Lesson Development](https://carpentries.org/lesson-development/)
+- [Professional Development Courses](https://carpentries.org/professional-development/)
+- [Our Community](https://carpentries.org/community/)
+
+### Engaging your Subcommunity
+
+Below we list resources to support Subcommunity Leaders in keeping their subcommunities engaged, navigate Slack, TopicBox, Social Platforms and the Community Events Calendar. We also share information about blog posts, subscribing to newsletters and other subcommunity communications channels. 
+
+- [Community Session Host Handbook](https://docs.carpentries.org/handbooks/community_session_host.html) 
+- [Carpentries Genearl Resource](https://docs.carpentries.org/resources/general/) 
+- [Carpentries Communications Resources](https://docs.carpentries.org/resources/communications/)
+- [Carpentries Blog Posts](https://carpentries.org/blog/)
+- [Carpentries Clippings](https://carpentries.org/about-us/newsletter/)
+- [Carpentries Events](]https://carpentries.org/community/events/) 
+- [Get involved with The Carpentries](https://carpentries.org/community/get-involved/) 
+- [Carpentries Glossary(]https://docs.carpentries.org/resources/general/glossary.html)
+
+
+### Hosting Self-Organised Workshops
+
+In this section of the handbook, we will share resources and guidance on preparing for self-organised workshops within The Carpentries. 
+
+- [Carpentries Workshops](https://docs.carpentries.org/resources/workshops/)
+- [Hosting a Carpentries Workshop](https://carpentries.org/workshops/host-workshop/)
+
+
+### Additional Opportunities for Involvement
+
+This part of the handbook highlights additional roles and opportunities for contributing within The Carpentries, including participation as Board members, Lesson Developers, Lesson Program Governors, Maintainers, and Curriculum Advisors. It also shares resources and guidance on accessing training, understanding governance structures, and engaging with the wider community
+
+- [Board of Directors](https://docs.carpentries.org/handbooks/board_of_directors.html)
+- [Lesson Developers](https://docs.carpentries.org/handbooks/lesson_developers.html)
+- [Lesson Program Governors](https://docs.carpentries.org/handbooks/lesson_program_governors.html)
+- [Maintainers](https://docs.carpentries.org/handbooks/maintainers.html)
+- [Curriculum Advisors](https://docs.carpentries.org/handbooks/curriculum_advisors.html)
+- [Carpentries Governance](https://carpentries.org/about-us/governance/)
+- [Code of Conduct Committee](https://carpentries.org/community/coc_ctte/)
+
+#### The Carpentries Partnership Program
+
+This part of the handbook explains the Partnership Model of The Carpentries, including its workflow, structure, and benefits for communities and organisations. It also provides guidance on accessing partnership resources and FAQs, while highlighting additional ways communities can support The Carpentries through partnerships, donations and broader community engagement initiatives.
+
+- [The Carpentries Partnership Program](https://carpentries.org/support/partnership/) 
+- [The Carpentries Partnership FAQ](https://carpentries.org/support/partnership/partnership-faq/)
+- [Donate to The Carpentries](https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website)
+
+### Ongoing Support and The Way Forward
+
+
+
+
+
+
+ 
+
+
+
 
 
 
