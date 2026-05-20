@@ -6,7 +6,7 @@ The Subcommunity Leaders Handbook is designed to support the Carpentries communi
 
 ## Introduction
 
-Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators and do not need to be certified Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
+Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified, Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
 
 ## Roles and Responsibilities
 
@@ -37,7 +37,7 @@ The [Subcommunity Registry](https://carpentries.org/community/get-connected/) is
 - Support recruitment efforts by helping subcommunities attract new members.
 - To get started, visit the Subcommunity Registry page.
 
-Subcommunities within The Carpentries can formally [register](https://carpentries.org/community/get-connected/#subcommunity-registry) their activities through an online form and, if needed, seek guidance from the [Community Engagement Team](mailto:community@carpenries.org), including support for creating a customised [subcommunity logo](https://docs.carpentries.org/resources/communications/logos.html#links-to-logo-files) that follows approved branding guidelines. These subcommunities are organised into regional, local, and special interest groups depending on their geographic or thematic focus, and they stay connected through [mailing lists hosted on TopicBox](https://carpentries.org/community/get-connected/#regional-communities-mailing-lists), with additional guidance provided via the [TopicBox Quick Start Guide](https://docs.carpentries.org/resources/communications/slack-and-email.html#topicbox).
+Subcommunities within The Carpentries can formally [register](https://carpentries.org/community/get-connected/#subcommunity-registry) their activities through an online form and, if needed, seek guidance from the [Community Engagement Team](mailto:community@carpenries.org), including support for creating a customised [subcommunity logo](https://docs.carpentries.org/resources/communications/logos.html#links-to-logo-files) that follows approved branding guidelines. These subcommunities are organised into regional, local, and special-interest groups based on their geographic or thematic focus, and they stay connected through [mailing lists hosted on TopicBox](https://carpentries.org/community/get-connected/#regional-communities-mailing-lists), with additional guidance provided in the [TopicBox Quick Start Guide](https://docs.carpentries.org/resources/communications/slack-and-email.html#topicbox).
 
 
 ## Onboarding
@@ -75,7 +75,7 @@ If Slack is new to you, our [Slack Quick Start Guide](https://zenodo.org/records
 
 ### Mailing List
 
-You can access The Carpentries mailing lists from [Topicbox](https://carpentries.topicbox.com/groups/latest). The [Subcommunity Leaders list](https://carpentries.topicbox.com/groups/carpentries-subcommunity-leade) is used for announcements relevant to Subcommunity Leaders. To join one or more Carpentries mailing lists, you will need to [create a login](https://carpentries.topicbox.com/groups/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing) or “Request to Join” (for those mailing lists requiring administrator approval). If you are new to Topicbox, please check out our [Topicbox Quick Start Guide](https://doi.org/10.5281/zenodo.14235643).
+You can access The Carpentries mailing lists from [Topicbox](https://carpentries.topicbox.com/groups/latest). The [Subcommunity Leaders list](https://carpentries.topicbox.com/groups/carpentries-subcommunity-leade) is used for announcements relevant to Subcommunity Leaders. To join one or more Carpentries mailing lists, you will need to [create a login](https://carpentries.topicbox.com/groups/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing lists) or “Request to Join” (for mailing lists requiring administrator approval). If you are new to Topicbox, please check out our [Topicbox Quick Start Guide](https://doi.org/10.5281/zenodo.14235643).
 
 
 
@@ -104,7 +104,7 @@ https://docs.carpentries.org/handbooks/community_session_host.html#script-for-st
 
 ### General overview of The Carpentries
 
-Below you will find resources describing our mission, vision, values, and CoC as well as where to find information about subcommunities on the Carpentries website.
+Below you will find resources describing our mission, vision, values, and CoC, as well as where to find information about subcommunities on the Carpentries website.
 
 - [About The Carpentries](https://carpentries.org/about-us/) 
 - [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/) 
@@ -113,13 +113,13 @@ Below you will find resources describing our mission, vision, values, and CoC as
 
 #### Programmatic offerings of The Carpentries
 
-In what follows you will find resources to Identify Carpentries lesson programs and related pathways of engagement.
+In what follows, you will find resources to identify Carpentries lesson programs and related pathways of engagement.
 
 - [Data Carpentry](https://datacarpentry.org/)
 - [Library Carpentry](https://librarycarpentry.org/)
 - [Software Carpentry](https://software-carpentry.org/)
 - [Instructor Training](https://carpentries.org/instructor-training/)
-- [Learner-centered Teaching](https://carpentries.org/learner-centered-teaching/)
+- [Learner-centred Teaching](https://carpentries.org/learner-centered-teaching/)
 - [Instructor Trainer Training](https://carpentries.org/instructor-trainer-training/)
 - [Collaborative Lesson Development](https://carpentries.org/lesson-development/)
 - [Professional Development Courses](https://carpentries.org/professional-development/)
@@ -127,16 +127,16 @@ In what follows you will find resources to Identify Carpentries lesson programs 
 
 ### Engaging your Subcommunity
 
-Below we list resources to support Subcommunity Leaders in keeping their subcommunities engaged, navigate Slack, TopicBox, Social Platforms and the Community Events Calendar. We also share information about blog posts, subscribing to newsletters and other subcommunity communications channels. 
+Below we list resources to support Subcommunity Leaders in keeping their subcommunities engaged, navigating Slack, TopicBox, Social Platforms and the Community Events Calendar. We also share information about blog posts, newsletter subscriptions, and other subcommunity communication channels. 
 
 - [Community Session Host Handbook](https://docs.carpentries.org/handbooks/community_session_host.html) 
-- [Carpentries Genearl Resource](https://docs.carpentries.org/resources/general/) 
+- [Carpentries General Resource](https://docs.carpentries.org/resources/general/) 
 - [Carpentries Communications Resources](https://docs.carpentries.org/resources/communications/)
 - [Carpentries Blog Posts](https://carpentries.org/blog/)
 - [Carpentries Clippings](https://carpentries.org/about-us/newsletter/)
 - [Carpentries Events](]https://carpentries.org/community/events/) 
 - [Get involved with The Carpentries](https://carpentries.org/community/get-involved/) 
-- [Carpentries Glossary(]https://docs.carpentries.org/resources/general/glossary.html)
+- [Carpentries Glossary)]https://docs.carpentries.org/resources/general/glossary.html)
 
 
 ### Hosting Self-Organised Workshops
@@ -149,7 +149,7 @@ In this section of the handbook, we will share resources and guidance on prepari
 
 ### Additional Opportunities for Involvement
 
-This part of the handbook highlights additional roles and opportunities for contributing within The Carpentries, including participation as Board members, Lesson Developers, Lesson Program Governors, Maintainers, and Curriculum Advisors. It also shares resources and guidance on accessing training, understanding governance structures, and engaging with the wider community
+This part of the handbook highlights additional roles and opportunities to contribute within The Carpentries, including participation as a Board member, Lesson Developer, Lesson Program Governor, Maintainer, or Curriculum Advisor. It also shares resources and guidance on accessing training, understanding governance structures, and engaging with the wider community
 
 - [Board of Directors](https://docs.carpentries.org/handbooks/board_of_directors.html)
 - [Lesson Developers](https://docs.carpentries.org/handbooks/lesson_developers.html)
