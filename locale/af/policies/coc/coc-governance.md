@@ -92,8 +92,6 @@ Die CoCC sal die volgende verantwoordelikhede deel:
 - Verteenwoordig die CoCC in enige relevante kommunikasie met die EC
 - Skakel met die CoCC om [deursigtigheidsverslae] saam te wysig en mede-vry te stel (https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports)
 - Oordra inligting aan die EG-lede indien nodig
-- Meedigeer en stel deursigtigheidsverslae saam met die voorsitter van reaksie-voorsitter
-- Stel in kennis, en versoek 'n hersiening indien nodig, van EC oor enige openbare kommunikasie van die CoC-komitee
 
 ### Spesifieke rolle vir alle gebied leidings
 
