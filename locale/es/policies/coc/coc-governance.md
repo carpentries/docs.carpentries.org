@@ -92,8 +92,6 @@ El CoCC compartirá las siguientes responsabilidades:
 - Representar al CoCC en cualquier comunicación relevante con la CE
 - Colaborar con el CoCC para coeditar y publicar [informes de transparencia] (https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports)
 - Transmitir información a los miembros de la CE cuando sea necesario
-- Coedite y publique informes de transparencia con el presidente de respuesta a incidentes
-- Notificar y solicitar una revisión, si es necesario, de la CE con respecto a cualquier comunicación pública del comité del CoC
 
 ### Funciones específicas para todos los líderes de área
 
