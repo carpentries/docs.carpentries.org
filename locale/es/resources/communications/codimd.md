@@ -1,31 +1,31 @@
-# Código IMD
+# CodiMD
 
 ## Uso general
 
-The Carpentries también ofrece [codiMD] (https://codimd.carpentries.org/) como otra plataforma colaborativa para tomar notas. CodiMD reconoce la sintaxis [Markdown] (https://www.markdownguide.org/cheat-sheet/), y
-permite a los usuarios utilizar un marcado simple para formatear el contenido que añaden al documento compartido.
+The Carpentries también ofrece [CodiMD] (https://codimd.carpentries.org/) como otra plataforma de colaboración para tomar notas. CodiMD reconoce la sintaxis [Markdown] (https://www.markdownguide.org/cheat-sheet/) y
+permite a los usuarios utilizar un marcado simple para darle formato al contenido que agregan al documento compartido.
 
-La interfaz CodiMD proporciona tres modos:
+La interfaz de CodiMD tiene tres modos:
 
-- _Edit_: una interfaz solo para editores, que llena la ventana del navegador con un espacio para escribir texto.
-- _Both_: una interfaz mitad y mitad, que llena la mitad izquierda de la ventana con la interfaz del editor,
+- _Edit_: una interfaz exclusiva para editores, que llena la ventana del navegador con un espacio para escribir texto.
+- _Both_: una interfaz combinada que llena la mitad izquierda de la ventana con la interfaz para editores
   y la mitad derecha con la interfaz de visualización (no editable).
-- _View_: una interfaz formateada de solo lectura,
-  , que llena la ventana del navegador con la versión renderizada de las notas introducidas en la vista de edición.
-  Todas las marcas Markdown utilizadas en la vista de edición se aplicarán en la interfaz de visualización, y
-  aparecerá como texto formateado (encabezados, negrita, cursiva, enlaces, etc.) e imágenes.
+- _View_: una interfaz de solo lectura con formato
+  que llena la ventana del navegador con la versión representada de las notas introducidas en la vista de “Edit”.
+  Todas las marcas de Markdown utilizadas en la vista “Edit” se aplicarán en la interfaz “View” y
+  se verán como texto con formato (encabezados, negrita, cursiva, enlaces, etc.) e imágenes.
 
-Estos modos se pueden seleccionar con los botones situados en la parte superior izquierda de la interfaz.
+Estos modos se pueden seleccionar con los botones que están en la parte superior izquierda de la interfaz.
 
-! [Los botones del modo de visualización de un documento de CodiMD] (images/codimd_mode_buttons.png)
+! [Los botones de los modos de visualización de un documento de CodiMD] (images/codimd_mode_buttons.png)
 
-Se puede crear un nuevo documento de codiMD añadiendo un nombre descriptivo a la URL `https://codimd.carpentries.org/`,
-, como `https://codimd.carpentries.org/committeename`,
-, o visitando <https://codimd.carpentries.org/> y haciendo clic en el botón «+ Nueva nota de invitado».
+Para crear un nuevo documento de CodiMD, agrega un nombre descriptivo a la URL `https://codimd.carpentries.org/`,
+como `https://codimd.carpentries.org/committeename`,
+o visita <https://codimd.carpentries.org/> y haz clic en el botón “+ Nueva nota como invitado”.
 
 Los documentos se sincronizan a medida que escribes, de modo que todos los que ven esta página ven el mismo texto.
 Esto permite que todos colaboren en los documentos.
-Las contribuciones de diferentes usuarios están subrayadas en diferentes colores.
+Las contribuciones de diferentes usuarios se subrayan en diferentes colores.
 Al pasar el cursor sobre el contenido, se mostrará el nombre (o el identificador de invitado) de la persona que lo escribió,
 , y la ubicación actual de los cursores de los diferentes usuarios también se muestra en el modo Edición.
 
