@@ -20,4 +20,4 @@ Si tienes otros problemas con Etherpad, escríbenos a {{'[{}] (mailto:{}) '.form
 
 ## Consulta también
 
-[Codimd] (/resources/communications/codimd.md) es otra plataforma de colaboración para tomar notas que usan los miembros de la comunidad.
+[CodiMD] (/resources/communications/codimd.md) es otra plataforma de colaboración para tomar notas que usan los miembros de la comunidad.
