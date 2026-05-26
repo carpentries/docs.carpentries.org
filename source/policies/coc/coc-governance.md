@@ -86,13 +86,11 @@ The CoCc will share the following responsibilities:
 - Intervene in any communication or potential incident in Carpentries online spaces that may lead to a CoC incident.
 - Notify and request a review from the Carpentries Executive Director regarding any public communication from the CoCc, when needed.
 
-### EC Liaison
+### Board of Directors Liaison
 
-- Represent the CoCc in any relevant communication with the EC.
-- Liaise with the CoCc to co-edit and co-release [transparency reports](https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports).
-- Relay information to the EC members when required.
-- Co-edit and co-release transparency reports with the Incident Response Chair.
-- Notify, and request a review if needed, from EC regarding any public communication from CoC committee.
+- Serve as the liaison between the CoCc and the Board of Directors, including communicating relevant updates and information as needed.
+- Liaise with the CoCc to co-edit and co-release [transparency reports](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) with the Incident Response Chair.
+- Notify the Board of Directors of significant public communications from the CoCc and facilitate Board review when appropriate or requested.
 
 ### Specific roles for all area leads
 
