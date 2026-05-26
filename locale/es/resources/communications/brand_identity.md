@@ -65,4 +65,4 @@
 
 ## Fuentes de The Carpentries
 
-La fuente utilizada en los encabezados y el cuerpo del {{'[sitio web de The Carpentries] ({}) '.format (carpentries_website)}} y en los sitios web de sus programas de lecciones es [Mulish] (https://fonts.google.com/specimen/Mulish).
+La fuente utilizada en los encabezados y el cuerpo del {{'[sitio web de The Carpentries]({})'.format(carpentries_website)}} y en los sitios web de sus programas de lecciones es [Mulish](https://fonts.google.com/specimen/Mulish).
