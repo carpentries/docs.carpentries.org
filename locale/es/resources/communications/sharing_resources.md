@@ -1,14 +1,14 @@
-# Una guía para compartir la comunicación con los carpinteros
+# Guía para compartir comunicados con The Carpentries
 
-The Carpentries agradece las publicaciones de blog, los anuncios de boletines informativos, las publicaciones en las redes sociales y otras solicitudes de comunicación de nuestras organizaciones asociadas y miembros de la comunidad, incluidos los estudiantes.
+The Carpentries agradece las publicaciones del blog, los anuncios en el boletín, las publicaciones en redes sociales y otras solicitudes de comunicación de nuestras organizaciones colaboradoras y miembros de la comunidad, incluidos los alumnos.
 
-## Compartir una entrada de blog
+## Cómo compartir una publicación del blog
 
-### Escribir y dar formato a tu entrada de blog
+### Cómo escribir y dar formato a tu publicación del blog
 
-Redacta tu entrada de blog con [Plantilla de publicación de blog de The Carpentries] (https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0).
+Redacta tu publicación del blog usando la [Plantilla para publicaciones del blog de The Carpentries](https://docs.google.com/document/d/1iUUOHkpGm1H7OPYLtYRSeTFw08ctMbak4k1j6Xp5C-U/edit?tab=t.0).
 
-Siga la [Guía de estilo de carpintería] (https://docs.carpentries.org/resources/communications/style-guide.html) cuando escriba su entrada de blog. Presta especial atención a las directrices sobre las abreviaturas, las siglas, las mayúsculas y el uso de un lenguaje inclusivo (por ejemplo, eliminar el lenguaje para personas con discapacidad). Además,
+Sigue la [Guía de estilo de The Carpentries](https://docs.carpentries.org/resources/communications/style-guide.html) cuando escribas tu publicación del blog. Presta especial atención a las directrices sobre las abreviaturas, las siglas, las mayúsculas y el uso de un lenguaje inclusivo (por ejemplo, eliminar el lenguaje para personas con discapacidad). Además,
 
 - Añade texto alternativo descriptivo a todas las imágenes incluidas en tu publicación.
 - Evite el uso excesivo de cursivas, subrayados o mayúsculas.
