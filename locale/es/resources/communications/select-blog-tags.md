@@ -1,68 +1,68 @@
-# Selección de etiquetas para tu blog de carpintería
+# Selección de etiquetas para tu blog de The Carpentries
 
-Cuando escribas o colabores en una entrada de blog para [El blog de The Carpentries] (https://carpentries.org/blog/), selecciona una entrada de la lista que se describe en este documento.
+Cuando escribas o colabores en una publicación del [blog de The Carpentries](https://carpentries.org/blog/), selecciona una etiqueta de la lista incluida en este documento.
 
-Cada una de las etiquetas del blog tiene una definición que te ayuda a seleccionar qué etiquetas son relevantes para tu publicación.
+Cada una de las etiquetas para el blog tiene una definición que te ayudará a seleccionar las etiquetas que sean relevantes para tu publicación.
 
-Si tienes dudas sobre qué etiquetas debes adjuntar a tu publicación, envía un correo electrónico a {{'[{}] (mailto:{}) '.format (community_email, community_email)}} y te ayudaremos a elegir una.
+Si tienes dudas sobre qué etiquetas debes adjuntar a tu publicación, envía un correo electrónico a {{'[{}](mailto:{})'.format(community_email, community_email)}} y te ayudaremos a elegir una.
 
-Además, si crees que hay una etiqueta que se ajusta a tu publicación y no está en la lista siguiente, ponte en contacto con nosotros.
+Además, si consideras que hay una etiqueta que se ajusta a tu publicación, pero no está en la lista de abajo, comunícate con nosotros.
 
 <hr>
 
-## Etiquetas de publicaciones de blog
+## Etiquetas para publicaciones del blog
 
-### Accesibilidad
+### Accessibility
 
-Para publicaciones de blog relacionadas con el trabajo de The Carpentries sobre accesibilidad y apoyo a la accesibilidad, incluidos, entre otros, el diseño y la implementación de programas y procesos, que ofrecen múltiples vías de acceso y participación.
+Para publicaciones del blog relacionadas con el trabajo de The Carpentries sobre accesibilidad y apoyo a la accesibilidad, incluidos, entre otros, el diseño y la implementación de programas y procesos que ofrecen múltiples vías de acceso y participación.
 
-### África
+### Africa
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en África.
+Para publicaciones del blog relacionadas con el trabajo de The Carpentries en África.
 
-### EJÉRCITO
+### AMY
 
-Para publicaciones de blog relacionadas con las actualizaciones de AMY, el software de gestión de datos comunitarios de The Carpentries.
+Para publicaciones del blog relacionadas con las actualizaciones de AMY, el software de gestión de datos comunitarios de The Carpentries.
 
-### Inteligencia artificial
+### Artificial Intelligence
 
-Para publicaciones de blog sobre inteligencia artificial (IA) y sus herramientas, incluidos, entre otros, los modelos lingüísticos grandes (LLM).
+Para publicaciones del blog sobre inteligencia artificial (IA) y sus herramientas, incluidos, entre otros, los modelos grandes de lenguaje (Large Language Models, LLM).
 
-### Evaluación
+### Assessment
 
-Esfuerzos para analizar y evaluar los comentarios sobre el trabajo de The Carpentries en relación con los talleres, la capacitación de instructores y otras operaciones.
+Iniciativas para analizar y evaluar los comentarios sobre el trabajo de The Carpentries en relación con los talleres, la capacitación de instructores y otras operaciones.
 
 ### Australasia
 
-Para publicaciones de blog relacionadas con el trabajo de Carpentries en Australasia.
+Para publicaciones del blog relacionadas con el trabajo de The Carpentries en Australasia.
 
-### Consejo de Administración
+### Board of Directors
 
-Para publicaciones de blog sobre actualizaciones y anuncios de la junta directiva de The Carpentries, el máximo órgano de gobierno de la organización sin fines de lucro The Carpentries.
+Para publicaciones del blog sobre actualizaciones y anuncios de la junta directiva de The Carpentries, el máximo órgano rector de la organización sin fines de lucro The Carpentries.
 
-### Libros
+### Books
 
-Para usar en publicaciones de blog sobre libros publicados directamente sobre o escritos por miembros de la comunidad de The Carpentries.
+Para usar en publicaciones del blog sobre libros publicados directamente sobre los miembros de la comunidad de The Carpentries o escritos por ellos.
 
-### Equipo principal de Carpentries (anteriormente, «Equipo de Carpentries»)
+### Carpentries Core Team (anteriormente, “Carpentries Team”)
 
-Para publicaciones de blog relacionadas con la contratación y otras actividades del equipo principal de The Carpentries.
+Para publicaciones del blog relacionadas con la contratación y otras actividades del equipo principal de The Carpentries.
 
-### Laboratorio de carpintería
+### Carpentries Lab
 
-Describir los anuncios relacionados con el [Laboratorio de carpintería] (https://carpentries-lab.org). El laboratorio de carpintería es un lugar para clases estables y de alta calidad. Proporciona un espacio y procesos para la revisión abierta por pares de las lecciones, y alberga una colección de lecciones revisadas para que los miembros de la comunidad de The Carpentries las enseñen en sus propios talleres.
+Para describir anuncios relacionados con [The Carpentries Lab](https://carpentries-lab.org). The Carpentries Lab es un lugar para clases estables y de alta calidad. Brinda un espacio y procesos para la revisión abierta entre pares de las lecciones y alberga una colección de lecciones revisadas para que los miembros de la comunidad de The Carpentries las enseñen en sus propios talleres.
 
-### Banco de trabajo de carpintería
+### Carpentries Workbench
 
-Para publicaciones de blog sobre la infraestructura de lecciones de The Carpentries, The Carpentries Workbench.
+Para publicaciones del blog sobre la infraestructura de las lecciones de The Carpentries, The Carpentries Workbench.
 
-### Icono de carpintería
+### CarpentryCon
 
-Para publicaciones de blog relacionadas con CarpentryCon, la conferencia bianual de The Carpentries.
+Para publicaciones del blog relacionadas con CarpentryCon, la conferencia bienal de The Carpentries.
 
-### Carpentry Connect
+### CarpentryConnect
 
-Para publicaciones de blog relacionadas con los eventos de CarpentryConnect, eventos locales y regionales dirigidos por miembros de la comunidad.
+Para publicaciones del blog relacionadas con los eventos de CarpentryConnect, eventos locales y regionales dirigidos por miembros de la comunidad.
 
 ### CLDT
 
