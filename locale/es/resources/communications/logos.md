@@ -1,10 +1,10 @@
 # Logotipos
 
-## Política de uso del logotipo y el nombre de Carpentries
+## Política de uso de los logotipos y los nombres de The Carpentries
 
 ### Introducción
 
-El objetivo de este documento es describir la política sobre el uso y la modificación de las marcas comerciales de The Carpentries.
+El objetivo de este documento es explicar a grandes rasgos la política sobre el uso y la modificación de las marcas comerciales de The Carpentries.
 
 Los nombres «The Carpentries», «Software Carpentry» y «Data Carpentry» y sus logotipos asociados son todos marcas comerciales.
 Esta política se aplica a todos los casos en los que utilice el nombre/logotipo de Carpentries.
