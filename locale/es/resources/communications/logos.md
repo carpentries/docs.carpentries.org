@@ -47,15 +47,15 @@ Si tú o tu grupo usan actualmente el nombre o el logotipo de The Carpentries de
 
 ## Licencia para esta política
 
-Esta política se adaptó, en parte, a partir de la [Política de uso de marcas comerciales](https://www.python.org/psf/trademarks/) de Python Software Foundation. Las partes interesadas pueden adaptar este documento de política libremente bajo la [licencia Creative Commons CC0] (https://creativecommons.org/publicdomain/zero/1.0/).
+Esta política se adaptó, en parte, a partir de la [Política de uso de marcas comerciales](https://www.python.org/psf/trademarks/) de Python Software Foundation. Las partes interesadas tienen la libertad de adaptar esta política en virtud de la [licencia CC0 de Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## Enlaces a archivos de logotipos
+## Enlaces a los archivos de logotipos
 
-- [Los carpinteros] (https://github.com/carpentries/logo)
-- [Carpintería de datos] (https://github.com/datacarpentry/logos)
-- [Carpintería de biblioteca] (https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
-- [Carpintería de software] (https://github.com/swcarpentry/communications/tree/main/misc/logo)
+- [The Carpentries](https://github.com/carpentries/logo)
+- [Data Carpentry](https://github.com/datacarpentry/logos)
+- [Library Carpentry](https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
+- [Software Carpentry](https://github.com/swcarpentry/communications/tree/main/misc/logo)
 
 ## Fondos virtuales
 
-Los fondos virtuales con los logotipos de los programas de lecciones de The Carpentries están disponibles para su descarga y uso en el [repositorio GitHub de Carpentries Commons] (https://github.com/carpentries/commons/tree/main/virtual-backgrounds).
+Los fondos virtuales con los logotipos de los programas de lecciones de The Carpentries están disponibles para su descarga y uso en el [repositorio de GitHub de The Carpentries Commons](https://github.com/carpentries/commons/tree/main/virtual-backgrounds).
