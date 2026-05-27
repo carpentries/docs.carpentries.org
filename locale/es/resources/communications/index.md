@@ -33,9 +33,9 @@
 
 - [Presentaciones](presentations.md)
 
-## Espacio compartido de The Carpentries y Zenodo
+## The Carpentries Commons y Zenodo
 
-- [Espacio compartido de The Carpentries](https://github.com/carpentries/commons)
+- [The Carpentries Commons](https://github.com/carpentries/commons)
 - [Zenodo](https://zenodo.org/communities/carpentries/records?q=&l=list&p=1&s=10&sort=newest)
 
 
