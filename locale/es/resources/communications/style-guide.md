@@ -1,4 +1,4 @@
-# La guía de estilo de Carpentries
+# Guía de estilo de The Carpentries
 
 Esta guía tiene como objetivo proporcionar un punto de referencia estándar cuando surjan dudas sobre el estilo de The Carpentries: cómo preferimos que la gente nos haga referencia, cuál es la mejor manera de representar las fechas y horas para una comunidad global, cuándo usar qué mayúsculas y otras cuestiones de estilo.
 
