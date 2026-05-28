@@ -14,13 +14,13 @@ Ten en cuenta que, como se indica en la [sección C](#c), The Carpentries, si bi
 
 ### Abreviaturas y siglas
 
-En general, usa todas mayúsculas para las siglas, _por ejemplo, _ NSF, CEO, BIDS. Cuando escribas sobre una organización o un evento en un texto, escribe la sigla entre paréntesis la primera vez que lo uses y, después, usa la sigla para hacer referencia a la organización o al evento. Por ejemplo, “Fue presidenta de la Fundación Nacional de Ciencias (NSF)... La NSF… ”
+En general, usa todas mayúsculas para las siglas, _por ejemplo, _ NSF, CEO, BIDS. Cuando escribas sobre una organización o un evento en un texto, escribe la sigla entre paréntesis la primera vez que lo uses y, después, usa la sigla para hacer referencia a la organización o al evento. Por ejemplo, “She was the chair of the National Science Foundation (NSF)... The NSF… ”
 
 Si una organización se menciona solo una vez en un texto, por ejemplo, en una publicación del blog, no es necesario incluir la sigla. No uses siglas sin antes definir su significado, ya que los miembros de nuestra comunidad pueden no estar familiarizados con las siglas específicas de un país.
 
 ### Acentos
 
-Úsalo en palabras que no estén en inglés cuando las sepas. Los nombres de personas, en cualquier idioma, también deben tener sus acentos correspondientes cuando se sepan, por ejemplo, _ “Arsène Lupin era un ladrón de joyas que nunca llegó a Bogotá o Angoulême”.
+Úsalo en palabras que no estén en inglés cuando las sepas. Los nombres de personas, en cualquier idioma, también deben tener sus acentos correspondientes cuando se sepan, por ejemplo, _ “Arsène Lupin was a jewel thief who never got to Bogotá or Angoulême”.
 
 ### Adverbios
 
@@ -69,90 +69,90 @@ Sin embargo: <br>
 **Cargos**<br>
 Escríbelos con mayúsculas iniciales, _por ejemplo, _ “President Abraham Lincoln”, “Facebook’s CEO”, “Pope John Paul II”, “the Secretary-General Ban-Ki Moon”.
 
-**Departamentos gubernamentales**: mayúsculas iniciales, _por ejemplo, _ “Department of Industry”, “Department of Health”. Use minúsculas cuando no se refiera a un departamento por su nombre propio, _por ejemplo, _
-«El senador Carr dirigió por primera vez el Departamento de Industria. El departamento ahora está dirigido por … '
+**Departamentos gubernamentales**: mayúsculas iniciales, _por ejemplo, _ “Department of Industry”, “Department of Health”. Usa minúsculas cuando no te refieras a un departamento por su nombre propio, _por ejemplo, _
+“Senator Carr first led the Department of Industry. The department is now led by… ”
 
-**agencias gubernamentales, organismos públicos, quangos** <br>
-Míndelos con iniciales en mayúsculas, _por ejemplo, _ Oficina del Fiscal de Distrito, Comisión de Derechos Humanos de la Universidad de Florida. Use minúsculas cuando no se refiera a una organización por su nombre propio, _por ejemplo, _ «Trabajó para la Sociedad Nacional de Codificadores. La sociedad se fundó … '
+**Agencias gubernamentales, organismos públicos, organizaciones no gubernamentales cuasiautónomas** <br>
+Escríbelos con mayúsculas iniciales, _por ejemplo, _ “District Attorney’s Office”, “Human Rights Commission”, “the University of Florida”. Usa minúsculas cuando no te refieras a una organización por su nombre propio, _por ejemplo, _ “She worked for the National Society of Coders. The society was founded… ”
 
-**títulos de las lecciones y nombres de los episodios** <br>
-Los títulos de las lecciones y los episodios de las lecciones deben escribirse en mayúsculas, es decir, todas las palabras principales en mayúscula, _por ejemplo, _ Introducción a los datos; Organización y gestión de proyectos para la genómica.
+**Títulos de lecciones y nombres de episodios** <br>
+Los títulos de las lecciones y los episodios de las lecciones se deben escribir con mayúscula inicial en todas las palabras importantes, _por ejemplo, _ “Introductio to Data”, “Project Organisation and Management for Genomics”.
 
-**nombres de instituciones** <br>
-Renderízalos con iniciales en mayúscula, _por ejemplo, _ Fundación Gordon y Betty Moore, Instituto Smithsoniano, Naciones Unidas, Unión Europea.
+**Nombres de instituciones** <br>
+Escríbelos con mayúsculas iniciales, _por ejemplo, _ “Gordon and Betty Moore Foundation”, “Smithsonian Institute”, “the United Nations”, “the European Union”.
 
-**roles** <br>
-Los roles de The Carpentries siempre están en mayúscula. Por lo tanto, utilizamos Instructor, Instructor Trainer, Maintainer y Curriculum Advisor. Los roles de ayudante y anfitrión no se escriben con mayúscula, ya que no son funciones oficiales.
+**Roles** <br>
+Los roles de The Carpentries siempre se escriben con mayúscula. Por lo tanto, usamos “Instructor”, “Instructor Trainer”, “Maintainer” y “Curriculum Advisor”. Los roles de ayudante y anfitrión no se escriben con mayúscula, ya que no son oficiales.
 
-### Carpinterías
+### Carpentries
 
-The Carpentries, aunque suene en plural, es una entidad singular. Por lo tanto, cuando se hace referencia a The Carpentries, los verbos también deben estar en singular, _e.g., _ 'The Carpentries is …'. El título completo y correcto de la organización fusionada es The Carpentries. Sin embargo, se aceptan términos como «Un taller de carpintería …».
+The Carpentries, aunque se escriba en plural, es una entidad singular. Por lo tanto, cuando hagas referencia a The Carpentries, los verbos también deben estar en singular, _p. ej. _ “The Carpentries es…”. El título completo y correcto de la organización fusionada es The Carpentries. Sin embargo, se aceptan términos como «Un taller de carpintería …».
 
-### color
+### Color
 
-Utilice un contraste adecuado para garantizar la mejor legibilidad. El color no debe ser el único medio de transmitir información (indicar una acción, provocar una respuesta o distinguir un elemento visual). Evite usar las combinaciones de colores rojo/verde, verde/marrón, verde/azul, azul/gris. Usa formas, patrones, texturas y etiquetas para ayudar a distinguir las diferencias. [Comprobador de contraste de WebAIM] (https://webaim.org/resources/contrastchecker).
+Usa un contraste adecuado para garantizar la mejor legibilidad. El color no debe ser el único medio de transmitir información (indicar una acción, provocar una respuesta o distinguir un elemento visual). Evita usar las combinaciones de colores rojo/verde, verde/marrón, verde/azul, azul/gris. Usa formas, patrones, texturas y etiquetas para ayudar a distinguir las diferencias. [Comprobador de contraste de WebAIM](https://webaim.org/resources/contrastchecker).
 
-### comas
+### Comas
 
-Usa comas para separar las cláusulas de las oraciones largas. «Si los jueces reflexionaran realmente sobre sus decisiones sobre la no concesión de premios en 2010, no les resultaría difícil entender por qué la gente se opuso a sus elecciones».
+Usa comas para separar cláusulas en las oraciones largas. “If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices”.
 
-Las comas se pueden usar definitivamente. Por ejemplo, en esta frase: «La desarrolladora, Sue Miller, es una programadora entusiasta», el uso de comas indica que solo hay un desarrollador.
+Las comas se pueden usar de manera definitiva. Por ejemplo, en la frase “The developer, Sue Miller, is a keen coder”, el uso de comas indica que hay solamente una desarrolladora.
 
-Cuando no se necesita tal definición, _por ejemplo, _ «Mary Clough, oradora de PyCon, ganó el premio», no se necesitan comas, ya que hay muchos oradores en PyCon, no solo uno.
+Cuando tal definición no es necesaria, _por ejemplo, _ “PyCon speaker Mary Clough won the award”, no se necesitan comas, ya que hay muchos oradores en PyCon, no solo uno.
 
-La coma también es crucial para evitar la ambigüedad en ejemplos como este: «El informe critica a los jueces que han sido acusados de favoritismo». Una coma después de «jueces» habría dejado claro que todos los jueces han sido acusados de favoritismo. Sin la coma, la oración implica que solo se ha criticado a algunos jueces.
+La coma también es crucial para evitar la ambigüedad en ejemplos como este: “The report criticises the judges who have been accused of favouritism”. Una coma después de “judges” habría dejado claro que todos los jueces fueron acusados de favoritismo. Sin la coma, la oración implica que solo se ha criticado a algunos jueces.
 
-_Véase también [coma de Oxford] (#oxford-comma) . _
+_Consulta también [coma de Oxford](#oxford-comma)._
 
-### nombres de empresas
+### Nombres de empresas
 
-Los nombres de las empresas siempre están en singular, _p. ej., _ 'Mastodon es …', 'Amazon Web Services es …'
+Los nombres de las empresas siempre están en singular, _p. ej., _ “Mastodon es…”, “Amazon Web Services es…”.
 
 ---
 
 ## D
 
-### marcos de datos
+### Marcos de datos
 
-Al hacer referencia a los marcos de datos en el texto, utilice dos palabras, entre mayúsculas y minúsculas, que es [la convención en el lenguaje R] (https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si escribes para Python, entonces usar DataFrame (una palabra, mayúsculas) es apropiado de acuerdo con [la convención del lenguaje Python] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+Cuando menciones los marcos de datos en el texto, usa dos palabras y mayúscula en la primera letra de la frase, que es [la convención en el lenguaje R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si escribes para Python, entonces debes usar DataFrame (una palabra y mayúscula en todos los componentes, sin espacio) de acuerdo con [la convención del lenguaje Python](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html).
 
-### fechas
+### Fechas
 
-Nuestro estilo es el 21 de julio de 2011 (día, mes, año).
+Nuestro estilo es 21 July, 2011 (día, mes, año).
 
-_Otras representaciones: _
-«En el siglo XXI» pero «ciencia del siglo XXI».
+_Otras escrituras: _
+“In the 21st century’ but ‘21st-century science”.
 
-Utilice cifras de décadas, por ejemplo, la década de 1990, la década radical de los 60, etc. No añada un apóstrofe a las décadas, es decir, a los 90, no a los 90; a los 70, no a los 70.
+Usa cifras para las décadas, por ejemplo, “the 1990s”, “the radical 60”, etc. No agregues un apóstrofo a las décadas, es decir, 1990s, no 1990’s; 70s, no 70’s.
 
-_Véase también [times] (#times) ._<br>
-_Véase también [seasons] (#seasons) . _
+_Consulta también [horas](#times)._<br>
+_Consulta también [estaciones](#seasons)._
 
-### signos diacríticos
+### Signos diacríticos
 
-Si es posible, utilice los signos diacríticos correctos en los nombres de las personas en cualquier idioma, _por ejemplo, _ Sven-Göran Eriksson (sueco), Béla Bartók (húngaro), Phơng Nguyøn (vietnamita).
+Si es posible, usa los signos diacríticos correctos en los nombres de personas en cualquier idioma, _por ejemplo, _ Sven-Göran Eriksson (sueco), Béla Bartók (húngaro), Phượng Nguyễn (vietnamita).
 
 ---
 
 ## E
 
-### por ejemplo
+### P. ej.
 
-incluya puntos y siga siempre con una coma, ya sea que utilice la forma abreviada, _por ejemplo, _, _ o la versión escrita, por ejemplo.
+Incluye los puntos y siempre escriba una coma detrás, ya sea que uses la forma abreviada, _p. ej.,_ o la versión completa, “por ejemplo”.
 
-### etc.
+### Etc.
 
-Incluye punto final.
+Incluye el punto final.
 
 ---
 
 ## F
 
-### figuras
+### Cifras
 
-Deletrea siempre por escrito los números del uno al nueve. Usa números para los números del 10 al 999.999 y, después, vuelve a escribir los números completos, _por ejemplo, _ un millón de lectores, ocho mil millones de personas, pero cuando el primer número esté por encima de nueve, puedes volver a las cifras de esa primera parte, _por ejemplo, _ 20 millones de líneas. Deletrea los ordinales del primero al noveno, por ejemplo, tercero, quinto, y luego usa 10, 31, etc.
+Siempre escribe con letras los números del uno al nueve. Usa cifras para los números del 10 al 999,999. Después, vuelve a escribir los números completos, _p. ej.,_ un millón de lectores, ocho mil millones de personas. Cuando el primer número sea superior a nueve, puedes volver a las cifras de esa primera parte, _p. ej.,_ 20 millones de líneas. Escribe con letras los ordinales del primero al noveno, p. ej., tercero, quinto. Después, usa 10.º, 31.º, etc.
 
-### fracciones
+### Fracciones
 
 Renderiza como dos tercios, tres cuartos, etc., pero dos y medio no necesitan guiones.<br>
 _Véase también [figuras] (#figures) . _
