@@ -136,7 +136,7 @@ Below we list resources to support Subcommunity Leaders in keeping their subcomm
 - [Carpentries Clippings](https://carpentries.org/about-us/newsletter/)
 - [Carpentries Events](]https://carpentries.org/community/events/) 
 - [Get involved with The Carpentries](https://carpentries.org/community/get-involved/) 
-- [Carpentries Glossary)]https://docs.carpentries.org/resources/general/glossary.html)
+- [Carpentries Glossary](https://docs.carpentries.org/resources/general/glossary.html)
 
 
 ### Hosting Self-Organised Workshops
