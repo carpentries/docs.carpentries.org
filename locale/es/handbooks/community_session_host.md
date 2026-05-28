@@ -2,99 +2,99 @@
 
 ## Acerca de este manual
 
-El Manual para anfitriones de sesiones comunitarias está diseñado para apoyar a los miembros de la comunidad de The Carpentries que actúan como anfitriones de sesiones comunitarias. El equipo de participación comunitaria de Carpentries lo mantiene.  Si crees que es necesario añadir o actualizar algo aquí, o si quieres enviar comentarios sobre el contenido, envía un correo electrónico al {{'[Community Engagement Team] (mailto:{}) '.format (community_email)}} o abre una edición en el {{' [repositorio fuente de este manual] ({}) '.format (gh_repo)}}. Si no está familiarizado con alguno de los términos utilizados en este manual, consulte nuestro {{'[Glosario de términos] ({}) '.format (glossary)}}.
+El Manual para organizadores de sesiones comunitarias está diseñado para ayudar a los miembros de la comunidad de The Carpentries que organizan sesiones comunitarias. El equipo de participación comunitaria de The Carpentries es el encargado de su mantenimiento.  Si consideras que es necesario agregar o actualizar algo, o si quieres enviar comentarios sobre el contenido, envía un correo electrónico al {{'[equipo de participación comunitaria](mailto:{})'.format(community_email)}} o abre una incidencia en el {{'[repositorio fuente de este manual]({})'.format(gh_repo)}}. Si no conoces alguno de los términos que se usan en este manual, consulta nuestro {{'[Glosario de términos]({})'.format(glossary)}}.
 
 ## Introducción
 
-Organizar una sesión comunitaria es una excelente manera de conocer a más personas en la comunidad de The Carpentries, conocer mejor la organización, aprender de las experiencias de otros y compartir tus conocimientos y experiencia con un número aún mayor de personas.
+Organizar una sesión comunitaria es una excelente manera de conocer a más miembros de la comunidad de The Carpentries, conocer mejor la organización, aprender de las experiencias de otros y compartir tus conocimientos y experiencia con muchas más personas.
 
-Las sesiones comunitarias también son una parte integral de nuestro {{'[Proceso de certificación de formación de instructores] ({}/checkout) '.format (instructor_training_curriculum)}}, también conocido como «Checkout». Como anfitrión de una sesión comunitaria, puedes dar la bienvenida a los nuevos instructores a nuestra comunidad global y presentarlos a las sesiones comunitarias como un recurso continuo de apoyo y asesoramiento a medida que desarrollan sus prácticas docentes.
+Las sesiones comunitarias también son una parte integral de nuestro {{'[Proceso de certificación de capacitación para instructores]({}/checkout)'.format(instructor_training_curriculum)}}, también conocido como “Validación”. Como organizador de sesiones comunitarias, puedes dar la bienvenida a los nuevos instructores a nuestra comunidad global y presentarlos en las sesiones comunitarias como un recurso continuo de apoyo y asesoramiento a medida que desarrollan sus prácticas de enseñanza.
 
-Los temas tratados durante las sesiones comunitarias van desde la enseñanza de talleres y el desarrollo de planes de estudio hasta la construcción de comunidades locales y la evaluación de
+Los temas tratados durante las sesiones comunitarias van desde la enseñanza de talleres y la creación de planes de estudio hasta la construcción de comunidades locales y la evaluación
 del impacto de nuestros talleres a nivel mundial. Hay cuatro tipos:
 
-1. \*\*Sesiones comunitarias: \*\* Nuestras sesiones comunitarias son sesiones sobre cualquier tema relevante para la comunidad que pueden tener cualquier formato. El equipo central también organiza varias **sesiones de bienvenida** cada mes para que los nuevos [miembros de la comunidad] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) conozcan a los miembros del equipo central y aprendan a interactuar con la organización.
-2. \*\*Sesiones comunitarias regionales: \*\* Nuestras subcomunidades locales y regionales organizan estas sesiones. Para ver una lista de las comunidades locales y regionales y sus actividades, consulta nuestro [Registro de subcomunidades] (https://carpentries.org/community/get-connected/#subcommunity-registry).
-3. \*\*Sesiones de capacitación: \*\* Una sesión de capacitación ofrece una oportunidad de desarrollo profesional para la comunidad donde se enseñan las habilidades relevantes.
-4. \*\*Sesiones de colaboración: \*\* Las sesiones de colaboración dedican tiempo y espacio al desarrollo conjunto de un recurso comunitario o al trabajo conjunto en cualquier actividad comunitaria.
+1. **Sesiones comunitarias:** Nuestras sesiones comunitarias son sesiones sobre cualquier tema relevante para la comunidad y pueden tener cualquier formato. El equipo principal también organiza varias **sesiones de bienvenida** cada mes para que los nuevos [miembros de la comunidad](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) conozcan a los miembros del equipo principal y aprendan a interactuar con la organización.
+2. **Sesiones comunitarias regionales:** Nuestras subcomunidades locales y regionales organizan estas sesiones. Para ver una lista de las comunidades locales y regionales y sus actividades, consulta nuestro [Registro de subcomunidades](https://carpentries.org/community/get-connected/#subcommunity-registry).
+3. **Sesiones de formación:** Una sesión de formación brinda una oportunidad de desarrollo profesional para la comunidad donde se enseñan habilidades pertinentes.
+4. **Sesiones de colaboración:** Las sesiones de colaboración dedican tiempo y espacio a la creación conjunta de un recurso comunitario o al trabajo conjunto en cualquier actividad comunitaria.
 
-**Nota.** Se puede asistir a cualquiera de estos cuatro tipos de sesiones comunitarias para cumplir con el requisito como parte de la {{'[Certificación de formación de instructores] ({}/checkout) '.format (instructor_training_curriculum)}}.
+**Nota.** Se puede asistir a cualquiera de estos cuatro tipos de sesiones comunitarias para cumplir con el requisito de la {{'[certificación de capacitación para instructores]({}/checkout)'.format(instructor_training_curriculum)}}.
 
-## Funciones y responsabilidades
+## Roles y responsabilidades
 
-Un [miembro de la comunidad] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) puede actuar como anfitrión de una sesión comunitaria. Las responsabilidades específicas incluyen:
+Un [miembro de la comunidad](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) puede ser organizador de una sesión comunitaria. Las responsabilidades específicas incluyen:
 
-- Inscríbase para recibir las comunicaciones pertinentes sobre su desempeño en este puesto.
-  Las instrucciones para inscribirse se encuentran en la [sección Espacios de comunicación y colaboración
-  de este manual] (#communication-and-collaboration-spaces)
-- Durante un período de programación trimestral, programa una o más sesiones de
-  de la comunidad en las fechas y horas en las que deseas organizar una sesión.
-- Facilita las sesiones comunitarias para las que
-  se ha registrado como anfitrión.
-- Registrar a los asistentes a cada sesión que organice en Pretix. El equipo principal de
-  utiliza esta información para registrar la participación en {{'[AMY] ({}) '.format (amy_link)}}, la base de datos interna de The
-  Carpentries. Esta es la forma principal en la que los futuros instructores reciben crédito por completar este paso de compra.
+- Registrarse para recibir los comunicados pertinentes para desempeñar este rol.
+  Las instrucciones para registrarse están en la sección Espacios de comunicación y colaboración
+  de este manual.
+- Durante un período de programación trimestral, programar una o más sesiones
+  comunitarias en las fechas y horas en las que quieras organizar una sesión.
+- Facilitar las sesiones comunitarias para las que
+  te registraste como organizador.
+- Registrar a los asistentes de cada sesión que organices en Pretix. El equipo principal
+  usa esta información para registrar la participación en {{'[AMY]({})'.format(amy_link)}}, la base de datos interna de
+  The Carpentries. Esta es la forma principal en la que los futuros instructores reciben crédito por completar este paso de validación.
 
 ## Incorporación
 
-Ten en cuenta que, a partir del 1 de enero de 2026, el proceso de incorporación de los anfitriones de las sesiones comunitarias dejará de utilizarse. Las sesiones comunitarias están abiertas a cualquier miembro de la comunidad para que las organice, siempre que las sesiones cumplan con el Código de Conducta de The Carpentries. No se requiere una incorporación formal.
+Ten en cuenta que, a partir del 1 de enero de 2026, se dejará de usar el proceso de incorporación de organizadores de sesiones comunitarias. Las sesiones comunitarias las puede organizar cualquier miembro de la comunidad, siempre que cumplan con el Código de conducta de The Carpentries. No se requiere una incorporación formal.
 
-## Desembarque
+## Desvinculación
 
-Si ya no estás interesado en organizar sesiones comunitarias, envía un [correo electrónico al equipo
-de Community Engagement] (mailto:community@carpentries.org). Te eliminarán del canal de Slack #discussion -host y te cancelarán la suscripción de la lista de correo
-Session Host.
+Si ya no te interesa organizar sesiones comunitarias, envía un correo electrónico al equipo
+de participación comunitaria. Te quitarán del canal de Slack #discussion-host y te darán de baja de la lista de correo
+“Session Host” (Organizadores de sesiones).
 
 ## Espacios de comunicación y colaboración
 
-En esta sección se enumeran los canales de comunicación y los espacios de colaboración que apoyan a los anfitriones de las sesiones comunitarias. Se espera que los participantes en estos espacios
-sigan {{"[The Carpentries Code of Conduct] ({})» .format (code_of_conduct)}}.  Puede encontrar una descripción de las herramientas enumeradas en el {{'[glossary de la comunidad] ({}) '.format (glossary)}}.
+En esta sección, se enumeran los canales de comunicación y los espacios de colaboración que apoyan a los organizadores de sesiones comunitarias. Se espera que los participantes de estos espacios
+sigan {{"[el Código de conducta de The Carpentries]({})".format(code_of_conduct)}}.  Puedes encontrar una descripción de las herramientas enumeradas en el {{'[glosario de la comunidad]({})'.format(glossary)}}.
 
 ### Calendario comunitario
 
-Una vez que hayas programado una sesión, se enviará una invitación de calendario a la dirección de correo electrónico que utilizaste al registrarte. Todas las sesiones
-de la comunidad también aparecerán en nuestro {{'[Calendario comunitario] ({}/community/events/) '.format (carpentries_website)}}.
+Una vez que hayas programado una sesión, se enviará una invitación de calendario a la dirección de correo electrónico que usaste al registrarte. Todas las sesiones
+comunitarias también aparecerán en nuestro {{'[calendario comunitario]({}/community/events/)'.format(carpentries_website)}}.
 
 ### Etherpad
 
-La lista de Etherpads relevantes para servir como anfitrión de una sesión comunitaria incluye:
+La lista de Etherpads relevantes para ser organizador de una sesión comunitaria incluye:
 
-- {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: Instead of using the Etherpad as we have in the past (to list of upcoming Community Sessions), we use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
-- {{'[Pad-of-pads] ({}/pad-of-pads) '.format (etherpad)}}: Una lista de los Etherpads y otros recursos más utilizados por The Carpentries.
+- {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}: En lugar de usar Etherpad como lo hacíamos en el pasado (para enumerar las próximas sesiones comunitarias), a partir del 1 de enero de 2026, usamos Pretix para [registrar a los participantes](https://pretix.carpentries.org/community-events/) de las sesiones comunitarias.
+- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: Una lista de los Etherpads y otros recursos más utilizados de The Carpentries.
 
 ### Mensajería y comunicación
 
-Slack es la plataforma de software que The Carpentries usa para admitir la comunicación sincrónica y asincrónica. Los canales permiten la comunicación, la colaboración y la creación conjunta entre un subconjunto de [miembros de la comunidad] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), según el propósito del canal. Puedes {{'[unirte al espacio de trabajo de Slack de The Carpentries] ({}) '.format (slack_invite)}} para seguir las conversaciones del canal relacionadas con este puesto:
+Slack es la plataforma de software que The Carpentries usa para mantener una comunicación sincrónica y asincrónica. Los canales permiten la comunicación, la colaboración y la creación conjunta entre un subconjunto de [miembros de la comunidad](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), según el propósito del canal. Puedes {{'[unirte al espacio de trabajo de Slack de The Carpentries]({})'.format(slack_invite)}} para seguir las conversaciones del canal relacionadas con este rol:
 
-- \#discussion -hosts: canal para los anfitriones de sesiones comunitarias y para aquellos interesados en organizar sesiones comunitarias
+- \#discussion-hosts: canal para los organizadores de sesiones comunitarias y para aquellos interesados en organizar sesiones comunitarias.
 
-Si no conoces Slack, nuestra {{"[Guía de Slack] ({})» .format (slack_guide)}} te ayudará a configurar tu perfil y te dará una visión general de cómo utilizamos la plataforma en el día a día.
+Si no conoces Slack, nuestra {{"[Guía de Slack]({})".format(slack_guide)}} te ayudará a configurar tu perfil y te dará un resumen de cómo usamos la plataforma en el día a día.
 
 ### Lista de correo
 
-Puedes acceder a las listas de correo de The Carpentries desde
-{{'[Topicbox] ({}/latest) '.format (topicbox)}}.
-{{'[The Discussion Host mailing list] ({}/discussion-hosts) '.format (topicbox)}} se usa para los anuncios relacionados con los anfitriones de las sesiones comunitarias.
-Para unirte a una o más listas de correo de Carpentries, necesitarás {{'[create a login] ({}/latest) '.format (topicbox)}}. Una vez que
-haya hecho esto, puede desplazarse por la lista de grupos y hacer clic en «Unirse a la conversación» (para abrir el correo) o «Solicitar unirse» (para
-, las listas de correo que requieren la aprobación del administrador). Si eres nuevo en Topicbox, consulta nuestra {{"[Topicbox Guide] ({})» .format (topicbox_guide)}}.
+Puedes acceder a las listas de correo de The Carpentries en
+{{'[Topicbox]({}/latest)'.format(topicbox)}}.
+{{'[La lista de correo Discussion Host (Organizadores de análisis)]({}/discussion-hosts)'.format(topicbox)}} se usa para los anuncios relacionados con los organizadores de sesiones comunitarias.
+Para unirte a una o más listas de correo de The Carpentries, deberás {{'[iniciar sesión]({}/latest)'.format(topicbox)}}. Una vez que
+lo hayas hecho, puedes desplazarte por la lista de grupos y hacer clic en “Join the Conversation” (Unirte a la conversación) (para abrir el correo) o “Request to Join” (Solicitar unirte) (para
+las listas de correo que requieren la aprobación del administrador). Si nunca habías usado Topicbox, consulta nuestra {{"[Guía de Topicbox]({})".format(topicbox_guide)}}.
 
 ## Guías paso a paso
 
-Esta sección incluye guías paso a paso para ayudarlo en su rol de anfitrión de una sesión comunitaria.
+Esta sección incluye guías paso a paso para ayudarte en tu rol de organizador de sesiones comunitarias.
 
-- Cada trimestre, el equipo de participación comunitaria compartirá las comunicaciones a través de Slack y TopicBox con instrucciones para inscribirse para organizar una sesión comunitaria. Visite la [sección Recursos de comunicación de este manual] (/resources/communications/index.md) para obtener instrucciones sobre cómo unirse a uno de estos canales de comunicación o a ambos.
-- Los anfitriones de las sesiones comunitarias se inscribirán con [Calendly] (https://calendly.com/thecarpentries) durante el período de registro. Calendly te permite seleccionar fechas y horas en tu zona horaria para las sesiones que planeas organizar. Las fechas y horas ya seleccionadas no se mostrarán.
+- Cada trimestre, el equipo de participación comunitaria compartirá comunicados por Slack y Topicbox con instrucciones para registrarse para organizar una sesión comunitaria. Visita la [sección Recursos de comunicación de este manual](/resources/communications/index.md) para obtener instrucciones sobre cómo unirte a uno de estos canales de comunicación o a ambos.
+- Los organizadores de sesiones comunitarias se registrarán con [Calendly](https://calendly.com/thecarpentries) durante el período de registro. Calendly te permite seleccionar las fechas y horas en tu zona horaria para las sesiones que planeas organizar. Las fechas y horas ya seleccionadas no se mostrarán.
 
-! [Animación de registro en Calendly] (/images/calendly.gif)
+![Animación del registro en Calendly](/images/calendly.gif)
 
-- Una vez que los anfitriones hayan programado una sesión comunitaria a través de Calendly, un flujo de trabajo añadirá cada evento a [Pretix] (https://pretix.carpentries.org/community-events/) y al [Calendario de la comunidad] (https://carpentries.org/community/events/).
-- En el raro caso de que necesites programar una sesión fuera del período de programación trimestral, el anfitrión de la sesión comunitaria debería
-  ponerse en contacto con el [Equipo de participación comunitaria] (mailto:community@carpentries.com). La sesión no se confirma hasta que un miembro del equipo de participación comunitaria contacte con el anfitrión.
+- Una vez que los organizadores hayan programado una sesión comunitaria a través de Calendly, un flujo de trabajo agregará cada evento a [Pretix](https://pretix.carpentries.org/community-events/) y al [calendario comunitario](https://carpentries.org/community/events/).
+- En el caso excepcional de que necesites programar una sesión fuera del período de programación trimestral, el organizador de la sesión comunitaria debe
+  comunicarse con el [equipo de participación comunitaria](mailto:community@carpentries.com). La sesión no se confirmará hasta que un miembro del equipo de participación comunitaria se comunique con el organizador.
 
-#### Inscribirse para organizar una sesión comunitaria local o regional
+#### Cómo registrarte para organizar una sesión comunitaria local o regional
 
-Los líderes subcomunitarios son responsables de programar y organizar las sesiones comunitarias locales y regionales. Estas sesiones figuran actualmente en el [Calendario de la comunidad] (https://carpentries.org/community/events/). Si un líder de la subcomunidad está interesado en incluir una sesión comunitaria regional allí y agregarla al calendario comunitario de The Carpentries, debe enviar un correo electrónico a community@carpentries.org. Si, por el contrario, quieren que la sesión se añada a Pretix, donde las personas puedan inscribirse para asistir, pueden añadir los eventos usando [Calendly] (https://calendly.com/thecarpentries) durante el período de registro, tal y como se describe en la sección [Registrarse para organizar una sesión comunitaria de este manual] (#step-by-step-guides). Esto añadirá automáticamente el evento al Calendario de la comunidad y a Pretix. Para obtener más información sobre cómo convertirse en líder de subcomunidad, visite la [sección de preguntas frecuentes de este manual] (#faq).
+Los líderes de las subcomunidades son responsables de programar y organizar las sesiones comunitarias locales y regionales. Estas sesiones figuran actualmente en el [calendario comunitario](https://carpentries.org/community/events/). Si el líder de una subcomunidad está interesado en incluir una sesión comunitaria regional allí y agregarla al calendario comunitario de The Carpentries, debe enviar un correo electrónico a community@carpentries.org. Si, en cambio, quiere que la sesión se agregue a Pretix, donde las personas pueden inscribirse para asistir, puede agregar los eventos usando [Calendly](https://calendly.com/thecarpentries) durante el período de registro, tal y como se describe en la [sección Cómo registrarte para organizar una sesión comunitaria de este manual](#step-by-step-guides). Esto agregará automáticamente el evento al calendario comunitario y a Pretix. Para obtener más información sobre cómo ser líder de una subcomunidad, visita la [sección de preguntas frecuentes de este manual] (#faq).
 
 ### Lista de verificación para organizar una sesión comunitaria
 
