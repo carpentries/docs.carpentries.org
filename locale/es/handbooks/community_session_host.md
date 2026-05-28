@@ -235,166 +235,167 @@ El organizador de la sesión comunitaria debe registrar la asistencia de las per
 
 ## Recursos
 
-### Secuencia de comandos para iniciar una sesión comunitaria
+### Guion para iniciar una sesión comunitaria
 
-\*Los anfitriones de las sesiones comunitarias pueden usar o adaptar este script al comienzo de
-en su sesión comunitaria. \*
+_Los organizadores de sesiones comunitarias pueden usar o adaptar este guion al comienzo de
+su sesión comunitaria._
 
-¡Bienvenidos todos! Mi nombre es [insertar nombre] y soy [rol y afiliación
-]. En solo un minuto, haremos una ronda de presentaciones de
-, pero quiero abordar algunos aspectos logísticos antes de empezar con
-.
+¡Les doy la bienvenida! Mi nombre es [insertar nombre] y soy [rol y
+afiliación]. En solo un minuto, haremos una ronda de
+presentaciones, pero quiero abordar algunos aspectos logísticos antes
+comenzar.
 
-- Usaremos el Etherpad para la toma de notas colaborativa. Todos los
-  son bienvenidos a tomar notas durante la sesión de hoy, pero [nombre] también actuará como tomador de notas designado.
-  - \*El anfitrión debe compartir el enlace en el chat: \* {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}
-- He habilitado los subtítulos automáticos para que puedas mostrar en
-  tu pantalla mediante la función de subtítulos.
-- Si tiene alguna pregunta, utilice la reacción «levantar la mano» en
+- Usaremos el Etherpad para tomar notas en colaboración. Todos
+  son bienvenidos a tomar notas durante la sesión de hoy, pero [nombre] también será la persona designada para tomar notas.
+  - _El organizador debe compartir el enlace en el chat:_ {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}
+- Habilité los subtítulos automáticos, que pueden visualizar
+  en sus pantallas mediante la función de subtítulos.
+- Si tienen alguna pregunta, usen la reacción “levantar la mano” en
   Zoom.
 - Para dejar en claro lo que se espera, todos los que participen en las actividades de The
   Carpentries deben cumplir con nuestro Código de conducta.
-  - \*El anfitrión debe compartir el enlace en el chat: \* {{'[Code of Conduct] ({}) '.format (code_of_conduct)}}
-  - Cualquier forma de comportamiento que excluya, intimide o cause molestias a
-    constituye una violación del Código de Conducta. Para fomentar un entorno de aprendizaje profesional y positivo para
-    , te animamos a
-    a:
-    - Usa un lenguaje acogedor e inclusivo
-    - Sea respetuoso con los diferentes puntos de vista y experiencias
-    - Acepta con gracia las críticas constructivas
-    - Concéntrese en lo que es mejor para la comunidad
-    - Muestre cortesía y respeto hacia otros miembros de la comunidad
-  - Si crees que alguien está infringiendo el Código de Conducta, te pedimos a
-    que lo denuncies al Comité del Código de Conducta de The Carpentries completando este formulario.
-    - \*El anfitrión debe compartir el enlace en el chat: \* [Formulario de denuncia de incidentes del Código de Conducta de Carpentries] (https://goo.gl/forms/KoUfO53Za3apOuOK2)
-- Si asiste a esta sesión como parte de Instructor Training
-  Checkout, asegúrese de haberse registrado en Pretix.
-  - \*El anfitrión debe compartir el enlace en el chat: \* [Sesiones comunitarias en Pretix] (https://pretix.carpentries.org/community-events/community-sessions/)
+  - _El organizador debe compartir el enlace en el chat:_ {{'[Código de conducta]({})'.format(code_of_conduct)}}
+  - Cualquier forma de comportamiento que excluya, intimide o cause molestias
+    constituye una violación del Código de conducta. Para fomentar
+    un entorno de aprendizaje positivo y profesional, los alentamos
+    a lo siguiente:
+    - Usar un lenguaje acogedor e inclusivo.
+    - Ser respetuosos con los diferentes puntos de vista y experiencias.
+    - Aceptar con dignidad las críticas constructivas.
+    - Concentrarse en lo que es mejor para la comunidad.
+    - Mostrar cortesía y respeto hacia otros miembros de la comunidad.
+  - Si consideran que alguien está violando el Código de conducta, les pedimos
+    que lo denuncien al Comité del Código de Conducta de The Carpentries
+    completando este formulario.
+    - _El organizador debe compartir el enlace en el chat:_ [Formulario de denuncia de incidentes relacionados con el Código de conducta de The Carpentries](https://goo.gl/forms/KoUfO53Za3apOuOK2)
+- Si asisten a esta sesión como parte de la validación
+  de la capacitación para instructores, asegúrense de haberse inscrito en Pretix.
+  - _El organizador debe compartir el enlace en el chat:_ [Sesiones comunitarias en Pretix](https://pretix.carpentries.org/community-events/community-sessions/)
 
 ¿Alguien tiene alguna pregunta antes de empezar?
 
-## PREGUNTAS MÁS FRECUENTES
+## PREGUNTAS FRECUENTES
 
-\*\* ¿Qué pasa si no sé la respuesta a las preguntas de alguien y nadie en
-de la sala tampoco la sabe? \*\*
+**¿Qué sucede si no sé la respuesta a las preguntas de alguien y tampoco la saben
+los demás asistentes?**
 
-Está bien si no sabes todas las respuestas. Este es un excelente momento
-para demostrar cómo alguien de la comunidad puede obtener respuestas a sus preguntas
+Si no sabes todas las respuestas, no hay problema. Este es un excelente momento
+para demostrar cómo un miembro de la comunidad puede obtener respuestas a sus preguntas
 publicando la pregunta en Slack o en una de las listas de correo
-de The Carpentries. Las preguntas siempre se pueden enviar a team@carpentries.org y un miembro del equipo central de
-responderá.
+de The Carpentries. Las preguntas también se pueden enviar a team@carpentries.org y un miembro
+del equipo principal las responderá.
 
-\*\* ¿Qué pasa si el anfitrión/coanfitrión tiene una mala conexión a Internet y no puede comunicarse
-? ¿Qué pasa si Zoom no funciona (por ejemplo, su conexión a Internet
-falla)? \*\*
+**¿Qué sucede si el organizador o el coorganizador tiene una mala conexión a Internet
+y no puede comunicarse? ¿Qué sucede si Zoom no funciona (por ejemplo, tu
+conexión a Internet falla)?**
 
-Es muy importante que pruebes tu conexión a Internet de antemano y que te asegures de que tú, como anfitrión, puedes comunicarte. El anfitrión es el líder de la sesión y debe tener una conexión estable. Sin embargo, si cuando pruebes tu conexión, descubres que no tienes una buena conexión, ponte en contacto con la comunidad a través de [nuestros canales de comunicación] (/resources/communications/index.md#communication-spaces) para averiguar si alguien podría ser el anfitrión de la sesión.
+Es muy importante que pruebes tu conexión a Internet de antemano y que te asegures de que, como organizador, puedas comunicarte. El organizador es el líder de la sesión y debe tener una conexión estable. Sin embargo, si cuando pruebas tu conexión, descubres que no es buena, comunícate con la comunidad a través de [nuestros canales de comunicación](/resources/communications/index.md#communication-spaces) para averiguar si alguien puede ser el organizador de la sesión.
 
-\*\* ¿Qué pasa si no se presenta nadie? \*\*
+**¿Qué sucede si nadie asiste?**
 
-Si nadie se une al inicio de la sesión, envía un correo electrónico de recordatorio a los participantes que se inscribieron y espera unos minutos. Si nadie se ha unido 10 minutos después de la hora de inicio programada, ponte en contacto con [community@carpentries.org] (mailto:community@carpentries.org) y finaliza la llamada.
+Si nadie se une al inicio de la sesión, envía un recordatorio por correo electrónico a los participantes que se inscribieron y espera unos minutos. Si 10 minutos después de la hora de inicio programada no se unió nadie, comunícate con [community@carpentries.org](mailto:community@carpentries.org) y finaliza la llamada.
 
-\*\* ¿Qué pasa si alguien habla demasiado? \*\*
+**¿Qué sucede si alguien habla demasiado?**
 
-Limita la cantidad de tiempo que les das a los participantes para hacer y responder las preguntas
-. Puedes pedir comentarios a alguien que aún no haya compartido
+Limita la cantidad de tiempo que les des a los participantes para hacer y responder
+preguntas. Puedes pedir comentarios a alguien que aún no haya compartido nada
 para que todos participen en la conversación.
 
-\*\* ¿Qué pasa si no hay un copresentador/tomador de notas y la sesión está completamente reservada para
-? \*\*
+**¿Qué sucede si no hay un coorganizador ni nadie que tome notas y la sesión está
+llena?**
 
-Como anfitrión, eres más que bienvenido a tomar algunas notas, sin embargo,
-no es necesario anotar todo lo que se comparte. Anota los puntos importantes de
-y asegúrate de añadir enlaces a información útil.
-Anime a los participantes a contribuir a las notas del Etherpad de la sesión
-de la comunidad.
+Como organizador, eres más que bienvenido a tomar algunas notas, sin embargo,
+no es necesario anotar todo lo que se comparta. Anota los puntos importantes
+y asegúrate de agregar enlaces a la información útil.
+Anima a los participantes a contribuir a las notas del Etherpad
+de sesión comunitaria.
 
-\*\* ¿Qué pasa si alguien llega tarde? \*\*
+**¿Qué sucede si alguien llega tarde?**
 
-Dependiendo de qué tan tarde se una la persona, puedes darle la bienvenida y pedirle a
+Según qué tan tarde llegue la persona, puedes darle la bienvenida y pedirle
 que se presente al resto de los participantes. Si
 tienes tiempo, puedes pedirle a la persona que permanezca en la llamada durante unos
-minutos después de que haya terminado para resumir lo que pasó por alto y responder
-a cualquier pregunta que pueda tener.
+minutos después de que haya terminado para resumir lo que se perdió y responder
+las preguntas que pueda tener.
 
-\*\* ¿Qué pasa si alguien no tiene auriculares y no puede controlar su ruido de fondo
-? \*\*
+**¿Qué sucede si alguien no tiene auriculares y no puede controlar
+el ruido de fondo?**
 
-Como anfitrión, tendrás el privilegio de silenciar a otros participantes o,
-, puedes pedirle a la persona directamente que silencie su micrófono. Más información
-sobre cómo usar [funciones de anfitrión en Zoom] (/resources/communications/zoom_rooms.md).
+Como organizador, tendrás el privilegio de desactivar el micrófono de otros participantes, o
+puedes pedirle directamente a la persona que desactive su micrófono. Obtén más información
+sobre cómo usar [las funciones de organizador de Zoom](/resources/communications/zoom_rooms.md).
 
-\*\* ¿Qué pasa si me olvido de registrar a los participantes? \*\*
+**¿Qué sucede si olvido registrar a los participantes?**
 
-No te preocupes, tienes hasta 24 horas después de la sesión para registrar a los participantes en Pretix. También recibirá un correo electrónico de recordatorio poco después de la sesión con instrucciones paso a paso sobre cómo completar el proceso de registro.
+No te preocupes, tienes hasta 24 horas después de la sesión para registrar a los participantes en Pretix. También recibirás un recordatorio por correo electrónico poco después de la sesión con instrucciones paso a paso sobre cómo completar el proceso de registro.
 
-\*\* ¿Qué pasa si alguien infringe el Código de conducta? ¿Qué pasaría si alguien tuviera una denuncia de mala conducta
-? \*\*
+**¿Qué sucede si alguien viola el Código de conducta? ¿Qué sucedería si alguien tuviera
+una denuncia por mala conducta?**
 
-En el caso de que esto suceda, The Carpentries tiene un {{'[conjunto de pautas que se pueden seguir] ({}) '.format (code_of_conduct)}}.
+Si esto sucediera, The Carpentries tiene un {{'[conjunto de pautas que se pueden seguir]({})'.format(code_of_conduct)}}.
 
-\*\* ¿Qué pasa si una persona no contribuye a la conversación? \*\*
+**¿Qué sucede si una persona no contribuye a la conversación?**
 
-Intente fomentar la participación. Esto se puede hacer haciendo una pregunta a los participantes de
-o pidiéndole a una persona su opinión sobre un tema específico de la conversación de
-. También hay un punto en la agenda que te permite, como anfitrión de
-, hablar con los participantes y preguntarles a cada uno una pregunta
-específica que necesitan respuesta.
+Intenta fomentar la participación. Para ello, puedes hacer una pregunta a los participantes
+o puedes pedirle a una persona su opinión sobre un tema específico
+de la conversación. También hay un punto en la agenda que te permite, como organizador,
+hablar con los participantes y pedirles a cada uno una pregunta específica
+para la que necesiten una respuesta.
 
-\*\* ¿Qué pasa si alguien me pide unirse a mi sesión comunitaria para que
-complete su sesión de finalización de sesión como instructor y ya está llena? \*\*
+**¿Qué sucede si alguien me pide unirse a mi sesión comunitaria para completar
+su sesión de validación como instructor y ya está llena?**
 
-Los participantes pueden sumarse a la lista de espera en Pretix.
-Si queda una plaza disponible (por ejemplo, si alguien cancela), la siguiente persona
-de la lista de espera recibirá automáticamente un correo electrónico invitándola a
-a inscribirse en la sesión.
+Los participantes pueden sumarse ellos mismos a la lista de espera en Pretix.
+Si queda un lugar disponible (por ejemplo, si alguien cancela), la siguiente persona
+de la lista de espera recibirá automáticamente un correo electrónico con una invitación
+para inscribirse en la sesión.
 
-\*\* ¿Qué pasa si alguien es ruidoso/detestable y/o habla con desprecio con otras personas? \*\*
+**¿Qué sucede si alguien es ruidoso o detestable o humilla a otras personas?**
 
-Es muy importante recordar a todos el Código de conducta al principio de cada sesión de
-, ya que The Carpentries se adhiere a él durante todos los eventos comunitarios de
-, incluidas las sesiones comunitarias. Tal comportamiento sería
-una violación clara y podrías pedirle a la persona que se vaya.
+Es muy importante recordar a todos el Código de conducta al
+principio de cada sesión, ya que The Carpentries lo respeta en todos los eventos comunitarios,
+incluidas las sesiones comunitarias. Tal comportamiento sería
+una violación clara, y podrías pedirle a la persona que se retire.
 
-\*\* ¿Qué pasa si tengo problemas para entender a uno de los asistentes? \*\*
+**¿Qué sucede si tengo dificultades para entender a uno de los asistentes?**
 
-Puedes pedirle al participante que escriba sus preguntas en el Etherpad de la sesión
-de la comunidad para que puedas leerlas y responderlas, lo que también hará que
-facilite mucho la toma de notas. Considera pedirles que hablen bien como
-si el micrófono es demasiado suave.
+Puedes pedirle al participante que escriba sus preguntas en el Etherpad de sesión
+comunitaria para que puedas leerlas y responderlas, lo que también te permitirá
+tomar notas con mucha más facilidad. Considera, además, la posibilidad de pedirle que hable más fuerte
+si el micrófono está demasiado bajo.
 
-\*\* ¿Qué pasa si necesito crear un Etherpad independiente para tomar notas? \*\*
+**¿Qué sucede si necesito crear un Etherpad aparte para tomar notas?**
 
-Las notas de todas las sesiones se pueden tomar en el Etherpad de la sesión comunitaria
+Las notas de todas las sesiones se pueden tomar en el Etherpad de sesión comunitaria
 y se archivarán después de cada sesión. Sin embargo, si
-piensas que necesitas otro Etherpad para tomar notas durante tu sesión, puedes crear un Etherpad nuevo
-añadiendo un nombre descriptivo a la URL
+consideras que necesitas otro Etherpad para tomar notas durante tu sesión, puedes
+crear un Etherpad nuevo agregando un nombre descriptivo a la URL
 https://pad.carpentries.org/, como
 https://pad.carpentries.org/themed-discussion-15-09-2022.
 
-\*\* ¿Cómo puedo convertirme en líder de subcomunidad? \*\*
+**¿Cómo puedo ser líder de una subcomunidad?**
 
-Un líder de subcomunidad es un miembro de la comunidad que actúa como el líder
-de una subcomunidad dentro de The Carpentries. Este rol se está formalizando
-a través del Programa de Participación Comunitaria. Si
-está interesado en obtener más información, envíe un correo electrónico a community@carpentries.org.
+El líder de una subcomunidad es un miembro de la comunidad que actúa como líder
+de una subcomunidad de The Carpentries. Este rol se formalizará
+mediante el Programa de participación comunitaria. Si quieres
+obtener más información, envía un correo electrónico a community@carpentries.org.
 
-\*\* ¿Qué pasa si los participantes se unen con nombres o direcciones de correo electrónico diferentes a los que aparecen en Pretix? \*\*
+**¿Qué sucede si los participantes se unen con nombres o direcciones de correo electrónico diferentes a los que aparecen en Pretix?**
 
-Si está seguro de que un participante coincide con un registro (por ejemplo, nombres similares), puede registrarlo. Si no está seguro, puede preguntar directamente al participante o hacer un seguimiento después de la sesión.
+Si estás seguro de que un participante coincide con una inscripción (por ejemplo, nombres similares), puedes registrarlo. Si no estás seguro, puedes preguntar directamente al participante o hacer un seguimiento después de la sesión.
 
-\*\* ¿Los participantes deben estar registrados en Pretix para recibir crédito? \*\*
+**¿Los participantes deben estar inscritos en Pretix para recibir crédito?**
 
-Sí. Si bien los enlaces de Zoom pueden ser de acceso público para permitir las visitas sin cita previa, los participantes deben registrarse a través de Pretix para recibir créditos y para que la asistencia se contabilice en los informes.
+Sí. Si bien los enlaces de Zoom pueden ser de acceso público para permitir los ingresos sin inscripción, los participantes deben inscribirse a través de Pretix para recibir créditos y para que la asistencia se tenga en cuenta en los informes.
 
-\*\* ¿Cómo debo gestionar los registros si solo tengo una pantalla? \*\*
+**¿Cómo debo gestionar los registros si solo tengo una pantalla?**
 
 Hay varias opciones que pueden ayudar:
 
-- Pida a los participantes que escriban su nombre en el Etherpad cuando se unan y que completen los registros una vez finalizada la sesión.
-- Utilice los descansos o los rompehielos como una oportunidad para registrar a las personas.
-- Si es posible, pídale a un coanfitrión que comparta las diapositivas mientras administra Pretix.
-- A algunos anfitriones les resulta útil iniciar sesión en Pretix en su teléfono mientras alojan desde su ordenador.
+- Pide a los participantes que escriban su nombre en el Etherpad cuando se unan y que completen los registros después de la sesión.
+- Usa las pausas o las charlas para romper el hielo como una oportunidad para registrar a las personas.
+- Si es posible, pídele a un coorganizador que comparta las diapositivas mientras tú gestionas Pretix.
+- Para algunos organizadores, es útil iniciar sesión en Pretix en su teléfono mientras organizan la sesión en su computadora.
 
 \*\* ¿Puedo ordenar o buscar en la lista de registro en Pretix? \*\*
 
