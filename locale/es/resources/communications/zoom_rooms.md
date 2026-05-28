@@ -1,38 +1,38 @@
-# Habitaciones Zoom
+# Salas de Zoom
 
-The Carpentries ofrece tres salas Zoom para eventos comunitarios públicos.  Hay salas Zoom disponibles para los eventos de The Carpentries, como capacitaciones de instructores, sesiones de debate, demostraciones de enseñanza y reuniones de comités. La siguiente información presupone que está utilizando la [versión más reciente del cliente de Zoom] (https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-).
+The Carpentries ofrece tres salas de Zoom para eventos comunitarios públicos.  Hay salas Zoom disponibles para los eventos de The Carpentries, como capacitaciones para instructores, sesiones de análisis, demostraciones de enseñanza y reuniones de comités. La siguiente información supone que estás usando la [versión más reciente de Zoom](https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-).
 
-## Uso general de la habitación y enlaces
+## Uso general de las salas y enlaces
 
-Las habitaciones se utilizan generalmente de la siguiente manera. Sin embargo, cualquier habitación se puede utilizar para otros fines si está disponible.
+Las salas se usan generalmente de la siguiente manera. Sin embargo, cualquier sala se puede usar para otros fines si está disponible.
 
-- Sala 1: Formación de instructores
-- Sala 2: Eventos comunitarios (demostraciones de enseñanza, sesiones de debate, reuniones de comités, etc.)
-- Sala 3: Otros eventos según sea necesario
+- Sala 1: Capacitación para instructores
+- Sala 2: Eventos comunitarios (demostraciones de enseñanza, sesiones de análisis, reuniones de comités, etc.)
+- Sala 3: Otros eventos, según sea necesario
 
-Los eventos están programados para cada habitación por el equipo principal de The Carpentries. Cada evento tendrá una URL con el formato `https://carpentries.zoom.us/my/**room_name **`.
+El equipo principal de The Carpentries programa los eventos para cada sala. Cada evento tendrá una URL con el formato `https://carpentries.zoom.us/my/**room_name **`.
 
-En el caso de los eventos de formación de instructores, este enlace se compartirá con los formadores de instructores y los alumnos en prácticas de ese evento.  Para las sesiones de debate comunitario y las demostraciones de enseñanza, el enlace estará en el Etherpad correspondiente y en la descripción de ese evento en nuestro calendario comunitario.  Como exige Zoom, todas las habitaciones tienen una contraseña.  La contraseña está disponible para todos los participantes a través del etherpad del evento, la lista de calendarios o el organizador del evento la comparte directamente.
+En el caso de los eventos de capacitación para instructores, el enlace se compartirá con los capacitadores de instructores y con los alumnos de ese evento.  Para las sesiones de análisis comunitario y las demostraciones de enseñanza, el enlace estará en el Etherpad correspondiente y en la descripción de ese evento en nuestro calendario comunitario.  Como exige Zoom, todas las salas tienen una contraseña.  La contraseña está disponible para todos los participantes en el etherpad del evento o la lista del calendario, o el organizador del evento la compartirá directamente.
 
-## Información para los anfitriones de eventos
+## Información para los organizadores de eventos
 
-Lea a continuación si está impartiendo un taller de formación de instructores o organizando una demostración de enseñanza o un debate comunitario.
+Si impartirás un taller de capacitación para instructores u organizarás una demostración de enseñanza o un análisis comunitario, lee a continuación.
 
-### Obtener acceso al host
+### Cómo obtener acceso de organizador
 
-Si está impartiendo un taller de formación de instructores, aproximadamente una semana antes del evento, recibirá un correo electrónico con las credenciales del anfitrión y otra información logística.
+Si impartirás un taller de capacitación para instructores, aproximadamente una semana antes del evento recibirás un correo electrónico con las credenciales de organizador y otra información logística.
 
-Si está organizando un debate comunitario o una demostración docente, debería haberse registrado para hacerlo a través de Calendly. Dos días antes del evento, recibirás un correo electrónico automático de Calendly que incluye la clave de anfitrión del evento.
+Si organizarás un análisis comunitario o una demostración de enseñanza, debes registrarte a través de Calendly. Dos días antes del evento, recibirás un correo electrónico automático de Calendly que incluye la clave de organizador del evento.
 
-[Lea acerca de cómo usar la clave de host para reclamar el acceso de host.] (https://support.zoom.us/hc/en-us/articles/115001315866)
+[Obtén más información sobre cómo usar la clave de organizador para pedir este tipo de acceso.](https://support.zoom.us/hc/en-us/articles/115001315866)
 
-### Uso de una sala de espera
+### Cómo usar la sala de espera
 
-Una vez que hayas ingresado y solicitado el acceso de anfitrión, te recomendamos que crees una sala de espera.  Esto le permite dejar entrar a las personas de forma explícita, en lugar de permitir que cualquiera simplemente entre.  Ayuda a prevenir el «bombardeo con zoom» o la entrada de huéspedes no deseados.  Luego, el anfitrión puede admitir o rechazar a las personas en la sala de espera, enviar a los participantes existentes a la sala de espera y enviar mensajes a la sala de espera.  Los participantes de la sala de espera no pueden enviar mensajes al anfitrión.
+Una vez que hayas ingresado y solicitado acceso de organizador, te recomendamos que crees una sala de espera.  De este modo, puedes autorizar el ingreso de las personas, en lugar de que las personas ingresen sin más.  Ayuda a prevenir la “instrusión” o el ingreso de personas no invitadas.  El organizador puede aceptar o rechazar el ingreso de las personas en la sala de espera, enviar a participantes existentes a la sala de espera y enviar mensajes a la sala de espera.  Los participantes que están en la sala de espera no pueden enviar mensajes al organizador.
 
-[Lea acerca de cómo habilitar y usar una sala de espera como anfitrión.] (https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
+[Obtén más información sobre cómo habilitar y usar una sala de espera como organizador.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
 
-### Transferir los privilegios de anfitrión o asignar un coanfitrión
+### Cómo transferir los privilegios de organizador o asignar un coorganizador
 
 Un anfitrión puede transferir los privilegios de anfitrión o asignar un coanfitrión. Se recomienda encarecidamente que el anfitrión siempre asigne de 1 a 2 coanfitriones. Los coanfitriones pueden ser quienes faciliten la sesión contigo o, según tu criterio, un participante de confianza si diriges una sesión solo. Los coanfitriones pueden ayudar a moderar la habitación, incluso a asegurarse de que las personas estén silenciadas. Esto también garantiza que, si el anfitrión es expulsado accidentalmente de la llamada, el acceso del anfitrión recaerá en un coanfitrión. De lo contrario, Zoom asignará el estado de anfitrión a un participante aleatorio, lo que dificultará volver a reclamar el acceso de anfitrión.
 
