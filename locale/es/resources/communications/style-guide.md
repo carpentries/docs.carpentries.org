@@ -1,75 +1,75 @@
 # Guía de estilo de The Carpentries
 
-Esta guía tiene como objetivo proporcionar un punto de referencia estándar cuando surjan dudas sobre el estilo de The Carpentries: cómo preferimos que la gente nos haga referencia, cuál es la mejor manera de representar las fechas y horas para una comunidad global, cuándo usar qué mayúsculas y otras cuestiones de estilo.
+Esta guía tiene como objetivo proporcionar un punto de referencia estándar cuando surjan dudas sobre el estilo de The Carpentries: cómo preferimos que la gente nos mencione, cuál es la mejor manera de escribir las fechas y horas para una comunidad global, cuándo usar mayúsculas o minúsculas y otras cuestiones de estilo.
 
-Se debe seguir la guía al preparar los materiales para su circulación en la comunidad de The Carpentries y en sus plataformas públicas (sitios web, redes sociales, repositorios, etc.). Materiales sobre The Carpentries que se envían a otros foros (conferencias, revistas, solicitudes de subvenciones, blogs y sitios web de otras organizaciones, etc.) no es necesario seguir esta guía de estilo hasta que también se publiquen y distribuyan en cualquiera de las plataformas públicas de The Carpentries.
+Se debe seguir la guía al preparar materiales que circulen en la comunidad de The Carpentries y en sus plataformas públicas (sitios web, redes sociales, repositorios, etc.). Los materiales sobre The Carpentries que se envíen a otros foros (conferencias, revistas, solicitudes de becas, blogs y sitios web de otras organizaciones, etc.) no tienen la obligación de seguir esta guía de estilo, a menos que también se publiquen y distribuyan en cualquiera de las plataformas públicas de The Carpentries.
 
-Los colaboradores y mantenedores de las lecciones deben aspirar a adherirse a este estilo, pero pueden priorizar la disponibilidad del material por encima de las consideraciones de estilo. Para garantizar que la guía de estilo se aplique lo más ampliamente posible, la ortografía y el uso del inglés del Reino Unido se utilizarán en favor de la ortografía estadounidense.
+Los colaboradores de las lecciones y los encargados de mantenimiento deben aspirar a respetar este estilo, pero pueden priorizar la disponibilidad del material por encima de las consideraciones de estilo. Para garantizar que la guía de estilo se pueda aplicar lo más ampliamente posible, se preferirán la ortografía y el uso del inglés del Reino Unido en lugar de la ortografía estadounidense.
 
-Tenga en cuenta que, como se describe en la [sección C] (#c): The Carpentries, si bien suena en plural, es una entidad singular. Por lo tanto, cuando se hace referencia a The Carpentries, los verbos también deben estar en singular, _e.g., _ 'The Carpentries is …'. El título completo y correcto de la organización fusionada es The Carpentries. Sin embargo, se aceptan términos como «Un taller de carpintería …».
+Ten en cuenta que, como se indica en la [sección C](#c), The Carpentries, si bien se escribe en plural, es una entidad singular. Por lo tanto, cuando hagas referencia a The Carpentries, los verbos también deben estar en singular; _p. ej., _ “The Carpentries es…”. El título completo y correcto de la organización fusionada es The Carpentries. Sin embargo, se aceptan términos como “Un taller de Carpentries…”.
 
 ---
 
-## UN
+## A
 
-### abreviaturas y acrónimos
+### Abreviaturas y siglas
 
-Por lo general, utilice todas las mayúsculas para las iniciales, _por ejemplo, _ NSF, CEO, BIDS. Cuando escribas sobre una organización o un evento en un texto, escribe el acrónimo entre corchetes la primera vez que lo utilices y utiliza el acrónimo para hacer referencia a la organización o el evento a partir de ese momento. Por ejemplo, «Fue presidenta de la Fundación Nacional de Ciencias (NSF)... La NSF … '
+En general, usa todas mayúsculas para las siglas, _por ejemplo, _ NSF, CEO, BIDS. Cuando escribas sobre una organización o un evento en un texto, escribe la sigla entre paréntesis la primera vez que lo uses y, después, usa la sigla para hacer referencia a la organización o al evento. Por ejemplo, “Fue presidenta de la Fundación Nacional de Ciencias (NSF)... La NSF… ”
 
-Si una organización se menciona solo una vez en un texto, por ejemplo, en una entrada de blog, no es necesario proporcionar sus siglas. No utilice acrónimos sin deletrearlos primero, ya que los miembros de nuestra comunidad pueden no estar familiarizados con los acrónimos específicos de un país.
+Si una organización se menciona solo una vez en un texto, por ejemplo, en una publicación del blog, no es necesario incluir la sigla. No uses siglas sin antes definir su significado, ya que los miembros de nuestra comunidad pueden no estar familiarizados con las siglas específicas de un país.
 
-### acentos
+### Acentos
 
-Úselo en palabras que no estén en inglés cuando las conozca. Los nombres de las personas, en cualquier idioma, también deben tener los acentos apropiados cuando se conozcan, por ejemplo, _ «Arsène Lupin era un ladrón de joyas que nunca llegó a Bogotá o Angulema».
+Úsalo en palabras que no estén en inglés cuando las sepas. Los nombres de personas, en cualquier idioma, también deben tener sus acentos correspondientes cuando se sepan, por ejemplo, _ “Arsène Lupin era un ladrón de joyas que nunca llegó a Bogotá o Angoulême”.
 
-### adverbios
+### Adverbios
 
-Los guiones no son necesarios después de los adverbios que terminan en _-ly_, _por ejemplo, un tema muy discutido, una carrera en constante evolución, un programa publicado recientemente, etc. Se necesitan guiones con adverbios cortos y comunes, _por ejemplo, _ un seguidor siempre fiel, un guion mal escrito, un discurso muy citado.
+Los guiones no son necesarios después de los adverbios que terminan en _-ly_, _por ejemplo, “a hotly argued topic”, “a constantly evolving career”, “a recently published program”, etc. Los guiones son necesarios con adverbios cortos y comunes, _por ejemplo, _ “ever-faithful follower”, “ill-written script”, “much-quoted speech”.
 
-### alfabetizacion
+### Alfabetizacion
 
-Los programas de lecciones de The Carpentries, cuando se enumeran juntos, deben aparecer en orden alfabético: Carpintería de datos, carpintería HPC, carpintería de bibliotecas y carpintería de software.
+Los programas de lecciones de The Carpentries, cuando se enumeran juntos, deben aparecer en orden alfabético: Data Carpentry, HPC Carpentry, Library Carpentry y Software Carpentry.
 
-### texto alternativo
+### Texto alternativo
 
-Mantenga el texto alternativo lo más breve posible, pero proporcione tantos detalles como sea necesario para que el lector comprenda lo que hay en la imagen. Es posible que se necesite un texto alternativo más detallado para [imágenes complejas] (https://webaim.org/techniques/alttext/#complex), a menos que el detalle de la imagen esté incluido en el cuerpo del texto, el texto alternativo de la imagen compleja puede ser bastante corto. Proporcione enlaces a los datos si la imagen es una presentación de un conjunto de datos, para que el lector pueda explorar los datos por sí mismo.
+Mantén el texto alternativo lo más breve posible, pero incluye todos los detalles necesarios para que el lector entienda lo que hay en la imagen. Es posible que se necesite un texto alternativo más detallado para [imágenes complejas](https://webaim.org/techniques/alttext/#complex), a menos que los detalles de la imagen se incluyan en el cuerpo del texto. En ese caso, el texto alternativo de la imagen compleja puede ser bastante corto. Incluye enlaces a los datos si la imagen es una presentación de un conjunto de datos para que el lector pueda explorar los datos por sí mismo.
 
-### signo et
+### Signo “&”
 
-En las publicaciones de texto y de blog, usa el signo y en los nombres de las organizaciones cuando lo hagan, _p. ej., _ P&O, AT&T.
+En las publicaciones de texto y del blog, usa el signo “&” en los nombres de organizaciones cuando estas lo hagan, _p. ej., _ P&O, AT&T.
 
-### apóstrofes
+### Apóstrofos
 
-Indica si faltan una o varias letras (no podemos, no tendríamos) o un carácter posesivo (el guion de Siobhan). El uso correcto del apóstrofe es importante, ya que una mala ubicación u omisión puede alterar el significado de una oración. No se necesitan apóstrofes en las fechas. La forma preferida es la década de 1990, no la de 1990; la de los 70, no la de los 70.
+Indican si faltan una o varias letras (“can’t”, “we’d”, “hadn’t”) o un carácter posesivo (“Siobhan’s script”). El uso correcto del apóstrofo es importante, ya que una mala ubicación u omisión puede alterar el significado de una oración. No se necesitan apóstrofos en las fechas. La forma preferida es 1990s, no 1990’s; 70s, no 70’s.
 
 ---
 
 ## B
 
-### viñetas
+### Viñetas
 
-Lo ideal sería incluir un punto después de cada uno si no se trata solo de una lista de términos, por ejemplo: <br>
+Idealmente, se debería incluir un punto después de cada viñeta si no se trata solo de una lista de términos, por ejemplo: <br>
 
-- Este es el primer punto que abarca una serie de ideas.
-- Este es el segundo que también varía bastante.
-- Y este es el tercero y estos son solo ejemplos.
+- Esta es la primera viñeta que abarca una serie de ideas.
+- Esta es la segunda y también es bastante amplia.
+- Esta es la tercera y solo incluye ejemplos.
 
-Pero <br>
+Sin embargo: <br>
 
 - Instructores
-- Formadores de instructores
-- Mantenedores
+- Capacitadores de instructores
+- Encargados de mantenimiento
 
 ---
 
 ## C
 
-### mayúsculas y mayúsculas
+### Mayúsculas y su uso
 
-**títulos**<br>
-Renderízalos con mayúsculas iniciales, _por ejemplo, _ el presidente Abraham Lincoln, el director ejecutivo de Facebook, el Papa Juan Pablo II, el secretario general Ban-Ki Moon.
+**Cargos**<br>
+Escríbelos con mayúsculas iniciales, _por ejemplo, _ “President Abraham Lincoln”, “Facebook’s CEO”, “Pope John Paul II”, “the Secretary-General Ban-Ki Moon”.
 
-**departamentos del gobierno** capitales iniciales, _por ejemplo, _ Departamento de Industria, Departamento de Salud. Use minúsculas cuando no se refiera a un departamento por su nombre propio, _por ejemplo, _
+**Departamentos gubernamentales**: mayúsculas iniciales, _por ejemplo, _ “Department of Industry”, “Department of Health”. Use minúsculas cuando no se refiera a un departamento por su nombre propio, _por ejemplo, _
 «El senador Carr dirigió por primera vez el Departamento de Industria. El departamento ahora está dirigido por … '
 
 **agencias gubernamentales, organismos públicos, quangos** <br>
