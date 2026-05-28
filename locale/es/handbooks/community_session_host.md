@@ -397,18 +397,18 @@ Hay varias opciones que pueden ayudar:
 - Si es posible, pídele a un coorganizador que comparta las diapositivas mientras tú gestionas Pretix.
 - Para algunos organizadores, es útil iniciar sesión en Pretix en su teléfono mientras organizan la sesión en su computadora.
 
-\*\* ¿Puedo ordenar o buscar en la lista de registro en Pretix? \*\*
+**¿Puedo ordenar la lista de registros en Pretix o hacer búsquedas en ella?**
 
-Sí. En Pretix, los encabezados de las columnas (como el nombre o el correo electrónico) incluyen flechas que permiten ordenar la lista alfabéticamente. Puedes acceder a las entradas y revisarlas incluso después de que el evento haya terminado.
+Sí. En Pretix, los encabezados de las columnas (como el nombre o el correo electrónico) incluyen flechas que permiten ordenar la lista alfabéticamente. Puedes acceder a los registros y revisarlos incluso después de que el evento haya terminado.
 
-\*\* ¿Qué pasa si un participante dice que está en lista de espera? \*\*
+**¿Qué sucede si un participante dice que está en la lista de espera?**
 
-La lista de espera se activa automáticamente una vez que las inscripciones superan la cantidad de asientos establecida durante la organización del evento. Cuando hay un asiento disponible, se notifica a la primera persona de la lista de espera y se le da la oportunidad de registrarse. Si el anfitrión está dispuesto a superar el límite de asientos original, puede enviar un correo electrónico a community@carpentries.org
-con los nombres de las personas que asistieron pero permanecen en la lista de espera. Luego, los ayudaremos a registrarlos manualmente para el evento.
+La lista de espera se activa automáticamente una vez que las inscripciones superan la cantidad de lugares establecida durante la organización del evento. Cuando hay un lugar disponible, se notifica a la primera persona de la lista de espera y se le da la oportunidad de inscribirse. Si el organizador está dispuesto a superar el límite original de lugares, puede enviar un correo electrónico a community@carpentries.org
+con los nombres de las personas que asistieron pero permanecen en la lista de espera. Después, lo ayudaremos a registrarlas manualmente en el evento.
 
-\*\* ¿Qué pasa si un asistente no se registró antes de que comenzara la sesión? \*\*
+**¿Qué sucede si un asistente no se inscribió antes de que comenzara la sesión?**
 
-El anfitrión de la sesión comunitaria debe pedir a los asistentes que aún no se hayan registrado en Pretix que lo hagan antes del final de la sesión. Una vez que hayan completado su registro, el anfitrión puede registrarlos en Pretix. Esto garantiza que la asistencia se registre con precisión y, al mismo tiempo, permite a los participantes participar en la sesión.
+El organizador de la sesión comunitaria debe pedir a los asistentes que aún no se hayan inscrito en Pretix que lo hagan antes de que termine la sesión. Una vez que hayan completado su inscripción, el organizador podrá registrarlos en Pretix. Esto garantiza que la asistencia se registre con precisión y, al mismo tiempo, permite a los participantes formar parte de la sesión.
 
 
 
