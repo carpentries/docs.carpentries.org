@@ -24,8 +24,8 @@ del impacto de nuestros talleres a nivel mundial. Hay cuatro tipos:
 
 Un [miembro de la comunidad](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) puede ser organizador de una sesión comunitaria. Las responsabilidades específicas incluyen:
 
-- Registrarse para recibir los comunicados pertinentes para desempeñar este rol.
-  Las instrucciones para registrarse están en la sección Espacios de comunicación y colaboración
+- Registrarte para recibir los comunicados pertinentes para desempeñar este rol.
+  Las instrucciones para registrarte están en la sección Espacios de comunicación y colaboración
   de este manual.
 - Durante un período de programación trimestral, programar una o más sesiones
   comunitarias en las fechas y horas en las que quieras organizar una sesión.
@@ -59,7 +59,7 @@ comunitarias también aparecerán en nuestro {{'[calendario comunitario]({}/comm
 
 La lista de Etherpads relevantes para ser organizador de una sesión comunitaria incluye:
 
-- {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}: En lugar de usar Etherpad como lo hacíamos en el pasado (para enumerar las próximas sesiones comunitarias), a partir del 1 de enero de 2026, usamos Pretix para [registrar a los participantes](https://pretix.carpentries.org/community-events/) de las sesiones comunitarias.
+- {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}: En lugar de usar Etherpad como lo hacíamos en el pasado (para enumerar las próximas sesiones comunitarias), a partir del 1 de enero de 2026, usamos Pretix para [inscribir a los participantes](https://pretix.carpentries.org/community-events/) en las sesiones comunitarias.
 - {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: Una lista de los Etherpads y otros recursos más utilizados de The Carpentries.
 
 ### Mensajería y comunicación
@@ -98,9 +98,9 @@ Los líderes de las subcomunidades son responsables de programar y organizar las
 
 ### Lista de verificación para organizar una sesión comunitaria
 
-#### Uso de Pretix para sesiones comunitarias
+#### Cómo usar Pretix para sesiones comunitarias
 
-A partir del primer trimestre de 2026, The Carpentries utilizará Pretix para que los participantes se inscriban en las sesiones comunitarias. Como parte del compromiso de The Carpentries con un sistema de gestión de eventos consolidado, estamos trasladando el registro a una plataforma segura para proteger la privacidad de los participantes, mejorar los flujos de trabajo, como la visualización de las zonas horarias y las notificaciones automatizadas, y reforzar nuestra capacidad de rastrear los datos clave, incluidas las tasas de registro y ausencias, lo que nos permite tomar decisiones más informadas sobre el trabajo futuro. Anteriormente, los anfitriones de las sesiones comunitarias completaban un formulario de anfitriones en el que figuraban los participantes (y otra información durante la sesión comunitaria). A partir del 1 de enero de 2026, esto cambiará. Los anfitriones de la comunidad deberán registrar a los participantes a través de Pretix. Los anfitriones recibirán un correo electrónico con instrucciones sobre cómo configurar su cuenta de Pretix para registrar a los participantes. Recomendamos que los anfitriones de las sesiones de la comunidad inicien sesión al menos una o dos semanas antes de la sesión para solucionar los problemas si es necesario.  Si no ha recibido este correo electrónico una semana antes de su sesión comunitaria, envíe un correo electrónico a community@carpentries.org
+A partir del primer trimestre de 2026, The Carpentries usará Pretix para que los participantes se inscriban en las sesiones comunitarias. Como parte del compromiso de The Carpentries con un sistema de gestión de eventos consolidado, estamos trasladando el registro a una plataforma segura para proteger la privacidad de los participantes; mejorar los flujos de trabajo, como la visualización de las zonas horarias y las notificaciones automatizadas; y reforzar nuestra capacidad de rastrear datos clave, incluidas las tasas de registro y ausencias, lo que nos permite tomar decisiones más informadas sobre el trabajo futuro. Antes, los organizadores de sesiones comunitarias completaban un formulario de organizador en el que figuraban los participantes (y otra información durante la sesión comunitaria). A partir del 1 de enero de 2026, esto cambiará. Los organizadores comunitarios deberán registrar a los participantes en Pretix. Los organizadores recibirán un correo electrónico con instrucciones sobre cómo configurar su cuenta de Pretix para registrar a los participantes. Recomendamos que los organizadores de sesiones comunitarias inicien sesión al menos 1 o 2 semanas antes de la sesión para solucionar problemas, si fuera necesario.  Si no recibiste este correo electrónico una semana antes de tu sesión comunitaria, escribe a community@carpentries.org.
 
 El enlace público para inscribirse en las sesiones comunitarias es <https://pretix.carpentries.org/community-events/community-sessions>
 
@@ -108,18 +108,18 @@ El enlace público para inscribirse en las sesiones comunitarias es <https://pre
 
 ##### Cambios en el proceso de registro
 
-En lugar de utilizar el Etherpad como hasta ahora, utilizaremos Pretix para las sesiones comunitarias del primer trimestre de 2026 para las inscripciones de los participantes (<https://pretix.carpentries.org/community-events/>).  Los participantes inscritos recibirán un correo electrónico inmediatamente después de registrarse y un recordatorio dos días antes de la sesión. Los anfitriones de las sesiones comunitarias recibirán notificaciones de Calendly (esto no cambiará).
+En lugar de usar Etherpad como hasta ahora, a partir del primer trimestre de 2026, usaremos Pretix para inscribir a los participantes en las sesiones comunitarias (<https://pretix.carpentries.org/community-events/>).  Los participantes inscritos recibirán un correo electrónico inmediatamente después de inscribirse y un recordatorio dos días antes de la sesión. Los organizadores de sesiones comunitarias recibirán notificaciones de Calendly (esto no cambiará).
 
-El [Etherpad] (https://pad.carpentries.org/community-sessions-2026) no listará cada evento. En su lugar, solo mostrará la información estándar/general que se aplica a cada sesión. Haga una copia y complete la información para su sesión comunitaria.
+El [Etherpad](https://pad.carpentries.org/community-sessions-2026) no incluirá cada evento. En su lugar, solo mostrará información estándar y general de cada sesión. Haz una copia y completa la información para tu sesión comunitaria.
 
-##### [Por favor, copie entre líneas]
+##### [Copia entre las líneas]
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-[INTRODUZCA EL TÍTULO Y LA DESCRIPCIÓN DE LA SESIÓN COMUNITARIA]
+[INTRODUCE EL TÍTULO Y LA DESCRIPCIÓN DE LA SESIÓN COMUNITARIA]
 [Fecha de la sesión comunitaria]
 
-##### Los participantes deben indicar sus nombres a continuación (asegúrese de haberse registrado en Pretix para este evento; de lo contrario, aún puede hacerlo ahora: <https://pretix.carpentries.org/community-events/community-sessions/>):
+##### Los participantes deben indicar sus nombres a continuación (asegúrate de haberte registrado en Pretix para este evento; de lo contrario, hazlo ahora: <https://pretix.carpentries.org/community-events/community-sessions/>):
 
 -
 -
@@ -143,95 +143,95 @@ El [Etherpad] (https://pad.carpentries.org/community-sessions-2026) no listará 
 
 -
 
-Agradeceríamos su opinión sobre la sesión comunitaria de hoy.
-Si desea compartir algún comentario, no dude en completar nuestro breve formulario de comentarios sobre la sesión comunitaria (<https://forms.gle/yyPqEjRNJM17BWj27>). Sus comentarios nos ayudan a mejorar y apoyar mejor a nuestra comunidad.
+Agradeceríamos conocer tu opinión sobre la sesión comunitaria de hoy.
+Si quieres compartir algún comentario, no dudes en completar nuestro breve formulario de comentarios sobre la sesión comunitaria (<https://forms.gle/yyPqEjRNJM17BWj27>). Tus comentarios nos ayudan a mejorar y apoyar mejor a nuestra comunidad.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Revise el calendario e inscríbase aquí:  <https://pretix.carpentries.org/community-events/community-sessions/>
+Revisa el calendario e inscríbete aquí: <https://pretix.carpentries.org/community-events/community-sessions/>
 
-Plantilla de agenda para el anfitrión de la sesión comunitaria (el anfitrión de la sesión comunitaria la actualizará antes de cada sesión).
+Plantilla de agenda para el organizador de la sesión comunitaria (el organizador de la sesión comunitaria la actualizará antes de cada sesión).
 
-#### El anfitrión de la sesión comunitaria revisará el registro
+#### El organizador de la sesión comunitaria revisará la inscripción
 
-El anfitrión de la sesión comunitaria puede revisar el registro de su sesión en cualquier momento. Puedes ver el registro aquí (debes iniciar sesión en Pretix): <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>
+El organizador de la sesión comunitaria puede revisar la inscripción en su sesión en cualquier momento. Puedes ver la inscripción aquí (debes iniciar sesión en Pretix): <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>
 
-##### Cancelación de la sesión
+##### Cómo cancelar la sesión
 
-También puede optar por cancelar un debate si nadie se ha inscrito dos días antes de la sesión. Ponte en contacto con [community@carpentries.org] (mailto:community@carpentries.org) para informarles de la cancelación. Actualizarán el calendario de la comunidad y eliminarán la sesión de Pretix.
+También puedes optar por cancelar un análisis si nadie se ha inscrito dos días antes de la sesión. Escribe a [community@carpentries.org](mailto:community@carpentries.org) para informar la cancelación. El equipo actualizará el calendario comunitario y quitará la sesión de Pretix.
 
-Si los participantes se han inscrito pero los anfitriones de las sesiones comunitarias deben cancelarlas, ponte en contacto con [community@carpentries.org] (mailto:community@carpentries.org).
+Si los participantes se inscribieron, pero los organizadores de las sesiones comunitarias deben cancelar las sesiones, comunícate con [community@carpentries.org](mailto:community@carpentries.org).
 
-#### Configuración y responsabilidades previas a la sesión
+#### Configuración y responsabilidades antes de la sesión
 
-- Inicie sesión al menos 5 minutos antes del inicio de la sesión.
-- Se recomienda crear una sala de espera. Esto permite al anfitrión dejar entrar a las personas de forma explícita, en lugar de permitir la entrada de cualquiera.
-  - [Más información sobre cómo habilitar y usar una sala de espera como anfitrión] (/resources/communications/zoom_rooms.md#using-a-waiting-room)
-- Obtenga acceso como anfitrión.
-- Dos días antes del evento, el anfitrión recibirá un correo electrónico automático de Calendly con la clave del anfitrión.
-- [Más información sobre cómo usar la clave de host para reclamar el acceso de host.] (/resources/communications/zoom_rooms.md#gaining-host-access).
-- Habilite los subtítulos para mejorar la accesibilidad del evento.
-  - Zoom proporciona subtítulos automáticos para las llamadas. La precisión de los subtítulos puede estar limitada por factores como la calidad del sonido, los acentos, los dialectos y la jerga.
-  - [Más información sobre cómo habilitar los subtítulos automáticos] (/resources/communications/zoom_rooms.md#closed-captioning).
-- Confirma que el compañero anfitrión está presente (si lo hay) y quién dirigirá o tomará notas.
+- Inicia sesión al menos 5 minutos antes del inicio de la sesión.
+- Te recomendamos crear una sala de espera. Esto le permite al organizador autorizar el ingreso de las personas, en lugar de que ingrese cualquier persona.
+  - [Obtén más información sobre cómo habilitar y usar una sala de espera como organizador](/resources/communications/zoom_rooms.md#using-a-waiting-room)
+- Obtén acceso de organizador.
+- Dos días antes del evento, el organizador recibirá un correo electrónico automático de Calendly con la clave de organizador.
+- [Obtén más información sobre cómo usar la clave de organizador para pedir este tipo de acceso.](/resources/communications/zoom_rooms.md#gaining-host-access).
+- Habilita los subtítulos para mejorar la accesibilidad del evento.
+  - Zoom proporciona subtítulos automáticos en las llamadas. La precisión de los subtítulos puede estar limitada por factores como la calidad del sonido, los acentos, los dialectos y la jerga.
+  - [Obtén más información sobre cómo habilitar los subtítulos automáticos](/resources/communications/zoom_rooms.md#closed-captioning).
+- Confirma que el coorganizador esté presente (si lo hay) y quién dirigirá o tomará notas.
 
 #### Durante la sesión
 
-- Usa o adapta el script para iniciar una [sesión comunitaria] (#script-for-starting-a-community-session).
+- Usa o adapta el guion para iniciar una [sesión comunitaria](#script-for-starting-a-community-session).
 
-- Si es pertinente, siga los ejemplos de agendas que aparecen al final de
-  {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}  
-  y que también están disponibles en la [sección de recursos de este manual
-  ] (#resources).
+- Si corresponde, sigue los ejemplos de agenda que aparecen al final del
+  {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}  
+  y que también están disponibles en la sección de recursos de este
+  manual.
 
   - Recomendamos seguir los puntos principales de la agenda, pero puedes
-    dejar que la sesión vaya donde la gente quiera. No es necesario que todos respondan a todas las preguntas
-    .
-  - El anfitrión no debe sentir que tiene que responder a todas las preguntas de
-    . Deberían recurrir a los demás participantes de la sesión
-    para responder a las preguntas de los demás.
-  - Si alguien asiste como parte de su proceso de finalización de la capacitación, pídele a
+    dejar que la sesión vaya donde la gente quiera. No es necesario que todos
+    respondan todas las preguntas.
+  - El organizador no debe sentir que tiene que responder todas las
+    preguntas. Debe recurrir a los demás participantes de la sesión
+    para que respondan las preguntas de los demás.
+  - Si alguien asiste como parte de su proceso de validación de la capacitación, pídele
     que haga una pregunta.
-  - Intenta dejar suficiente tiempo al final para las preguntas y respuestas y para cualquier anuncio
+  - Intenta dejar suficiente tiempo al final para preguntas y respuestas y para cualquier anuncio
     que sea necesario hacer.
 
-- Tome notas o identifique a alguien para que tome notas.
+- Toma notas o identifica a alguien para que tome notas.
 
-- Para las sesiones previas y posteriores al taller: si hay más de 5 talleres de
-  representados por asistentes, recomendamos dividir a los participantes de
-  en dos grupos utilizando las salas para grupos pequeños para garantizar que
-  todos tengan tiempo suficiente para compartir. Al dividir a los asistentes en dos grupos de
-  , intente equilibrar la cantidad de personas que están informando, quienes
-  están allí para ayudar antes del taller y quiénes son instructores en prácticas.
-  [Obtenga más información sobre cómo configurar y usar las salas para grupos pequeños] (/resources/communications/zoom_rooms.md#creating-breakout-rooms).
+- Para las sesiones previas y posteriores al taller: si hay más de 5 talleres
+  representados por los asistentes, recomendamos dividir
+  a los participantes en dos grupos usando las salas para grupos pequeños a fin de garantizar que
+  todos tengan tiempo suficiente para compartir. Al dividir a los asistentes en dos
+  grupos, intenta equilibrar la cantidad de personas que están informando, que
+  están allí para ayudar antes del taller y que son alumnos de la capacitación para instructores.
+  [Obtén más información sobre cómo configurar y usar las salas para grupos pequeños](/resources/communications/zoom_rooms.md#creating-breakout-rooms).
 
-#### Durante/después de la sesión
+#### Durante la sesión y después de ella
 
-- Si se usa, archiva el Etherpad seleccionando «Guardar revisión» (Nota: muestra como
+- Si se usa, archiva el Etherpad seleccionando “Save Revision” (Guardar revisión). (Nota: Aparece como
   una estrella en el menú superior derecho).
-- Borre la información de la sesión (fecha/hora, asistentes, notas)
+- Borra la información de la sesión (fecha/hora, asistentes, notas)
   del Etherpad.
-- (Opcional) Escribe una entrada de blog sobre los puntos interesantes que surgieron en la sesión.
+- (Opcional) Escribe una publicación del blog sobre los puntos interesantes que surgieron en la sesión.
 
-El anfitrión de la sesión comunitaria debe registrar la asistencia registrando a las personas en Pretix. Puede pedir a los participantes que indiquen su asistencia en el etherpad durante la sesión comunitaria y, a continuación, transferirla a Pretix. Indique a los participantes que si aún no se han registrado a través de Pretix, deben hacerlo antes del final de la sesión. Los anfitriones de las sesiones comunitarias no podrán registrarlos si no lo hacen. Le recomendamos que complete el registro durante una pausa natural del programa, como una discusión grupal o una breve pausa para establecer contactos, para asegurarse de que el evento se desarrolle sin problemas. El anfitrión de la sesión comunitaria no necesitará completar una encuesta.  Los participantes aún deberán completar una encuesta.
+El organizador de la sesión comunitaria debe registrar la asistencia de las personas en Pretix. Puedes pedir a los participantes que indiquen su asistencia en el Etherpad durante la sesión comunitaria y, a continuación, transferirla a Pretix. Indica a los participantes que si aún no se inscribieron a través de Pretix, deben hacerlo antes del final de la sesión. Los organizadores de sesiones comunitarias no podrán registrarlos si no lo hacen. Te recomendamos que completes el registro durante una pausa natural del programa, como un análisis en grupos pequeños o una breve pausa para establecer contactos, para asegurarte de hacerlo sin interrumpir el evento. El organizador de la sesión comunitaria no tendrá que completar una encuesta.  Los participantes sí tendrán que completarla.
 
 ##### Cómo registrar a los participantes en Pretix
 
-1. Abre el siguiente enlace: <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Busque la sesión que organiza y haga clic en el nombre (es decir, 2026-01-06T 09:30:00 Z)
+1. Abre el siguiente enlace: <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T09:30:00Z).
 
-! [Paso 1: Abra el siguiente enlace: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T 09:30:00 Z)] (../img/Pretix_Step_1.png)
+![Paso 1: Abre el siguiente enlace: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T09:30:00Z)](../img/Pretix_Step_1.png)
 
 2. Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.
 
-! [Paso 2: Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.] (../img/Pretix_Step_2.png)
+![Paso 2: Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.](../img/Pretix_Step_2.png)
 
-3. Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla situada a la izquierda del código de pedido. Tenga en cuenta que puede haber varias páginas de participantes registrados.
+3. Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla que está a la izquierda del código de pedido. Ten en cuenta que puede haber varias páginas de participantes inscritos.
 
-! [Paso 3: Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla situada a la izquierda del código de pedido.] (../img/Pretix_Step_3.png)
+![Paso 3: Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla que está a la izquierda del código de pedido.](../img/Pretix_Step_3.png)
 
-4. Una vez que haya seleccionado a todos los participantes, puede hacer clic en «registrar participantes seleccionados».  Ahora notarás que el estado ha cambiado de «No registrado» a «Registrado». Los participantes registrados reciben automáticamente un correo electrónico a través de Pretix recordándoles que deben completar la encuesta si aún no lo han hecho.
+4. Una vez que hayas seleccionado a todos los participantes, puedes hacer clic en “check-in selected participants” (registrar a los participantes seleccionados).  Ahora verás que el estado cambió de “Not checked in” (No registrado) a “Checked in” (Registrado). Los participantes registrados recibirán automáticamente un correo electrónico a través de Pretix en el que se les recordará que deben completar la encuesta si todavía no lo hicieron.
 
-! [Paso 4: Una vez que haya seleccionado a todos los participantes, puede hacer clic en «registrar a los participantes seleccionados».  Ahora notarás que el estado ha cambiado de «No registrado» a «Registrado». Los participantes que se hayan registrado reciben automáticamente un correo electrónico a través de Pretix recordándoles que deben completar la encuesta si aún no lo han hecho.] (../img/Pretix_Step_4.png)
+![Paso 4: Una vez que hayas seleccionado a todos los participantes, puedes hacer clic en “check-in selected participants” (registrar a los participantes seleccionados).  Ahora verás que el estado cambió de “Not checked in” (No registrado) a “Checked in” (Registrado). Los participantes registrados recibirán automáticamente un correo electrónico a través de Pretix en el que se les recordará que deben completar la encuesta si todavía no lo hicieron.](../img/Pretix_Step_4.png)
 
 ## Recursos
 
