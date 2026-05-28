@@ -1,4 +1,4 @@
-# Manual para anfitriones de sesiones comunitarias
+# Manual para organizadores de sesiones comunitarias
 
 ## Acerca de este manual
 
