@@ -2,7 +2,7 @@
 
 ## À propos de ce manuel
 
-Le manuel pour les organisateurs de sessions communautaires est conçu pour aider les membres de la communauté The Carpentries qui organisent des sessions communautaires. L'équipe d'engagement communautaire de The Carpentries en assure la maintenance.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[l'équipe d'engagement communautaire] (mailto:{}) '.format (community_email)}} ou ouvrez un problème sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si certains termes utilisés dans ce manuel ne vous sont pas familiers, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
+Le manuel pour les organisateurs de sessions communautaires est conçu pour aider les membres de la communauté The Carpentries qui organisent des sessions communautaires. L'équipe d'engagement communautaire de The Carpentries en assure la maintenance.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[l'équipe d'engagement communautaire] (mailto:{}) '.format (community_email)}} ou ouvrez un problème sur le {{'[référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
 ## Présentation
 
@@ -29,7 +29,7 @@ Un [membre de la communauté] (https://docs.carpentries.org/resources/general/gl
 - Au cours d'une période de planification trimestrielle, planifiez une ou plusieurs sessions communautaires
   aux horaires auxquels vous souhaitez organiser une session.
 - Animer les sessions communautaires pour lesquelles vous vous êtes inscrit comme organisateur.
-- Enregistrez les participants à chaque session que vous organisez sur Pretix. L'équipe principale utilise ces informations pour enregistrer la participation sur {{'[AMY] ({}) '.format (amy_link)}}, la base de données interne de The Carpentries. C'est le principal moyen pour les futurs instructeurs d'obtenir des crédits pour avoir effectué cette étape du Checkout.
+- Enregistrer les participants à chaque session que vous organisez sur Pretix. L'équipe principale utilise ces informations pour enregistrer la participation sur {{'[AMY] ({}) '.format (amy_link)}}, la base de données interne de The Carpentries. C'est le principal moyen pour les futurs instructeurs d'obtenir des crédits pour avoir effectué cette étape du Checkout.
 
 ## Intégration
 
@@ -44,11 +44,11 @@ Session Host.
 ## Espaces de communication et de collaboration
 
 Cette section répertorie les canaux de communication et les espaces de collaboration apportant leur aide aux organisateurs de sessions communautaires. Les participants à ces espaces
-sont tenus de suivre {{"[le code de conduite de The Carpentries] ({}) » .format (code_of_conduct)}}.  Vous trouverez une description des outils répertoriés dans le {{'[glossaire de la communauté] ({}) '.format (glossary)}}.
+sont tenus de suivre {{'[le code de conduite de The Carpentries] ({})'.format (code_of_conduct)}}.  Vous trouverez une description des outils répertoriés dans le {{'[glossaire de la communauté] ({}) '.format (glossary)}}.
 
 ### Calendrier communautaire
 
-Une fois que vous avez planifié une session, une invitation au calendrier sera envoyée à l'adresse e-mail que vous avez utilisée au moment de de votre inscription. Toutes les sessions communautaires
+Une fois que vous avez planifié une session, une invitation au calendrier sera envoyée à l'adresse e-mail que vous avez utilisée au moment de votre inscription. Toutes les sessions communautaires
 seront également répertoriées sur notre {{'[Calendrier communautaire] ({}/community/events/) '.format (carpentries_website)}}.
 
 ### Etherpad
@@ -60,7 +60,7 @@ Une liste d'Etherpads pertinents pour l'organisation de sessions communautaires 
 
 ### Messagerie et communication
 
-The Carpentries utilise la plateforme logicielle slack pour prendre en charge les communications synchrones et asynchrones. Les chaînes favorisent les communications, la collaboration et la co-création entre un sous-ensemble de [membres de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), selon l'objectif de la chaîne. Vous pouvez {{'[rejoindre l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}} afin de suivre les conversations sur la chaîne en rapport avec ce rôle :
+The Carpentries utilise la plateforme logicielle Slack pour prendre en charge les communications synchrones et asynchrones. Les chaînes favorisent les communications, la collaboration et la co-création entre un sous-ensemble de [membres de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), selon l'objectif de la chaîne. Vous pouvez {{'[rejoindre l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}} afin de suivre les conversations sur la chaîne en rapport avec ce rôle :
 
 - \#discussion -hosts : chaîne pour les organisateurs de sessions communautaires et les personnes intéressées par l'organisation de ces sessions
 
@@ -78,18 +78,17 @@ terminé, vous pouvez faire défiler la liste des groupes et cliquer sur « Joi
 
 Cette section comprend des guides détaillés pour vous aider dans votre rôle d'organisateur de sessions communautaires.
 
-- Chaque trimestre, les communications de l'équipe d'engagement communautaire seront partagées via Slack et TopicBox avec des instructions pour s'inscrire afin d'organiser une session communautaire. Consultez la [section Ressources de communication de ce manuel] (/resources/communications/index.md) afin de savoir comment rejoindre l'un de ces canaux de communication ou les deux.
+- Chaque trimestre, les communications de l'équipe d'engagement communautaire seront partagées via Slack et Topicbox avec des instructions pour s'inscrire afin d'organiser une session communautaire. Consultez la [section Ressources de communication de ce manuel] (/resources/communications/index.md) afin de savoir comment rejoindre l'un de ces canaux de communication ou les deux.
 - Les organisateurs des sessions communautaires s'inscriront en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription. Calendly vous permet de sélectionner les dates et heures dans votre fuseau horaire pour les sessions que vous prévoyez d'organiser. Les dates et heures déjà sélectionnées ne seront pas affichées.
 
 ! [Inscription pour l'organisation sur Calendly] (/images/calendly.gif)
 
 - Une fois que les organisateurs ont planifié eux-mêmes une session communautaire via Calendly, un flux de travail ajoutera chaque événement à [Pretix] (https://pretix.carpentries.org/community-events/) et au [Calendrier communautaire] (https://carpentries.org/community/events/).
-- Dans les rares cas où une session doit être planifiée en dehors de la période de planification trimestrielle, l'organisateur de la session communautaire doit contacter l' [équipe d'engagement communautaire] (mailto:community@carpentries.com).
-  . La session n'est pas confirmée avant qu'un membre de l'équipe d'engagement communautaire ne contacte l'organisateur.
+- Dans les rares cas où une session doit être planifiée en dehors de la période de planification trimestrielle, l'organisateur de la session communautaire doit contacter l' [équipe d'engagement communautaire] (mailto:community@carpentries.com). La session n'est pas confirmée avant qu'un membre de l'équipe d'engagement communautaire ne contacte l'organisateur.
 
 #### S'inscrire pour organiser une session communautaire locale ou régionale
 
-Les dirigeants des sous-communautés sont chargés de planifier et d'organiser les sessions communautaires locales et régionales. Ces sessions sont actuellement répertoriées dans le [Calendrier communautaire] (https://carpentries.org/community/events/). Si un responsable de sous-communauté souhaite y inscrire une session communautaire régionale et l'ajouter au calendrier communautaire de The Carpentries, il doit envoyer un e-mail à community@carpentries.org. S'ils souhaitent plutôt ajouter à Pretix la session à laquelle les utilisateurs peuvent s'inscrire pour y participer, ils peuvent ajouter les événements en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription, comme décrit dans la section [S'inscrire pour animer une session communautaire] (#step-by-step-guides). L'événement sera automatiquement ajouté au calendrier communautaire et à Pretix. Pour en savoir plus sur la façon de devenir un leader de sous-communauté, veuillez consulter la [section FAQ de ce manuel] (#faq).
+Les dirigeants des sous-communautés sont chargés de planifier et d'organiser les sessions communautaires locales et régionales. Ces sessions sont actuellement répertoriées dans le [Calendrier communautaire] (https://carpentries.org/community/events/). Si un responsable de sous-communauté souhaite y inscrire une session communautaire régionale et l'ajouter au calendrier communautaire de The Carpentries, il doit envoyer un e-mail à community@carpentries.org. S'ils souhaitent plutôt ajouter à Pretix la session à laquelle les utilisateurs peuvent s'inscrire pour y participer, ils peuvent ajouter les événements en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription, comme décrit dans la section [S'inscrire pour organiser une session communautaire] (#step-by-step-guides). L'événement sera automatiquement ajouté au calendrier communautaire et à Pretix. Pour en savoir plus sur la façon de devenir un leader de sous-communauté, veuillez consulter la [section FAQ de ce manuel] (#faq).
 
 ### Check-list pour l'organisation d'une session communautaire
 
@@ -163,7 +162,7 @@ Si des participants se sont inscrits mais que les organisateurs des sessions com
 - Il est recommandé de créer une salle d'attente. Cela permet à l'organisateur d'autoriser explicitement les personnes à entrer, plutôt que d'autoriser n'importe qui.
   - [Découvrez comment activer et utiliser une salle d'attente en tant qu'organisateur] (/resources/communications/zoom_rooms.md#using-a-waiting-room)
 - Obtenez votre accès organisateur.
-- Deux jours avant l'événement, l'organisateur recevra un e-mail automatique de Calendly contenant la clé de l'organisateur.
+- Deux jours avant l'événement, l'organisateur recevra un e-mail automatique de Calendly contenant la clé d'organisateur.
 - [Découvrez comment utiliser la clé d'organisateur pour obtenir l'accès organisateur.] (/resources/communications/zoom_rooms.md#gaining-host-access).
 - Activez le sous-titrage pour améliorer l'accessibilité de l'événement.
   - Zoom offre un sous-titrage automatique des appels. La précision du sous-titrage peut être limitée par des facteurs tels que la qualité sonore, les accents, les dialectes et le jargon.
@@ -174,41 +173,25 @@ Si des participants se sont inscrits mais que les organisateurs des sessions com
 
 - Utilisez ou adaptez le script pour démarrer une [session communautaire] (#script-for-starting-a-community-session).
 
-- Le cas échéant, suivez les exemples d'ordres du jour fournis au bas du
-  {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}  
-  et également disponibles dans la section [ressources de ce manuel
-  ] (#resources).
+- Le cas échéant, suivez les exemples d'ordres du jour fournis au bas de l'{{'[Etherpad de la section communautaire] ({}/community-discussions) '.format (etherpad)}}, également disponibles dans la section [ressources de ce manuel] (#resources).
 
-  - Nous vous recommandons de suivre les principaux points de l'ordre du jour, mais vous pouvez
-    laisser la session se dérouler où les gens le souhaitent. Il n'est pas nécessaire que tout le monde réponde à toutes les questions
-    .
-  - L'animateur ne doit pas avoir l'impression de devoir répondre à toutes les questions
-    . Ils devraient s'appuyer sur le hashtag
-    des autres participants à la session pour répondre aux questions des uns et des autres.
-  - Si quelqu'un y participe dans le cadre de sa commande de formation, demandez-lui de poser une question à
-    .
-  - Essayez de prévoir suffisamment de temps à la fin pour les questions et réponses et pour toute annonce
-    qui doit être faite.
+  - Nous vous recommandons de suivre les principaux points de l'ordre du jour, mais vous pouvez laisser la session se dérouler où les gens le souhaitent. Il n'est pas nécessaire que tout le monde réponde à toutes les questions.
+  - L'organisateur ne devrait pas avoir l'impression de devoir répondre à toutes les questions. Ils devraient s'appuyer sur les autres participants à la session pour répondre aux questions des uns et des autres.
+  - Si quelqu'un y participe dans le cadre de sa formation Checkout, demandez-lui de poser une question.
+  - Essayez de prévoir suffisamment de temps à la fin pour des questions et réponses, mais aussi pour toute annonce prévue.
 
-- Prenez des notes ou identifiez quelqu'un pour prendre des notes.
+- Prenez des notes ou désignez quelqu'un pour prendre des notes.
 
-- Pour les sessions avant et après les ateliers : si plus de 5 ateliers
-  sont représentés par des participants, nous vous recommandons de diviser les participants
-  en deux groupes en utilisant des salles de sous-groupes pour vous assurer que
-  tout le monde a suffisamment de temps pour partager. Lorsque vous divisez les participants en deux groupes
-  , essayez de trouver un équilibre entre le nombre de personnes qui font le débriefing, les
-  qui sont là pour vous aider avant l'atelier et les formateurs stagiaires.
+- Pour les sessions avant et après les ateliers : si plus de cinq ateliers sont représentés par des participants, nous vous recommandons de diviser les participants en deux groupes en utilisant des salles de sous-groupes pour vous assurer que tout le monde a suffisamment de temps pour partager. Lorsque vous divisez les participants en deux groupes, essayez de trouver un équilibre entre le nombre de personnes qui font le débriefing, celles qui sont là pour l'aide avant l'atelier et celles qui sont des instructeurs stagiaires.
   [En savoir plus sur la configuration et l'utilisation des salles de sous-groupes] (/resources/communications/zoom_rooms.md#creating-breakout-rooms).
 
 #### Pendant et après la session
 
-- Si vous l'utilisez, archivez l'Etherpad en sélectionnant « Enregistrer la révision » (Remarque : affiche une étoile sous la forme
-  dans le menu en haut à droite).
-- Effacez les informations de la session (date/heure, participants, notes)
-  depuis l'Etherpad.
+- Si vous l'utilisez, archivez l'Etherpad en sélectionnant « Enregistrer la révision » (Remarque : affiche une étoile dans le menu en haut à droite).
+- Effacez les informations de la session (date/heure, participants, notes) dans l'Etherpad.
 - (Facultatif) Rédigez un article de blog sur les points intéressants abordés au cours de la session.
 
-L'hôte de la session communautaire doit enregistrer la participation en enregistrant les personnes sur Pretix. Vous pouvez demander aux participants d'indiquer leur présence sur l'Etherpad pendant la session communautaire, puis les transférer à Pretix. Veuillez informer les participants que s'ils ne se sont pas encore inscrits via Pretix, ils doivent le faire avant la fin de la session. Les organisateurs de sessions communautaires ne pourront pas les enregistrer s'ils ne le font pas. Nous vous recommandons d'effectuer l'enregistrement pendant une pause naturelle du programme, telle qu'une discussion en petits groupes ou une courte pause de réseautage, afin de vous assurer que cette étape s'intègre avec fluidité à l'événement. L'organisateur de la session communautaire n'aura pas besoin de répondre à un sondage.  Les participants devront, eux, répondre à un sondage.
+L'organisateur de la session communautaire doit noter la participation en enregistrant les personnes sur Pretix. Vous pouvez demander aux participants d'indiquer leur présence sur l'Etherpad pendant la session communautaire, puis les transférer à Pretix. Veuillez informer les participants que s'ils ne se sont pas encore inscrits via Pretix, ils doivent le faire avant la fin de la session. Les organisateurs de sessions communautaires ne pourront pas les enregistrer s'ils ne le font pas. Nous vous recommandons d'effectuer l'enregistrement pendant une pause naturelle du programme, telle qu'une discussion en petits groupes ou une courte pause de réseautage, afin de vous assurer que cette étape s'intègre avec fluidité à l'événement. L'organisateur de la session communautaire n'aura pas besoin de répondre à un sondage.  Les participants devront, eux, répondre à un sondage.
 
 ##### Comment enregistrer les participants sur Pretix
 
@@ -264,24 +247,21 @@ Quelqu'un a-t-il des questions avant de commencer ?
 ne le sait non plus ? \*\*
 
 Ce n'est pas grave si vous ne connaissez pas toutes les réponses. C'est le moment
-idéal pour montrer comment un membre de la communauté peut obtenir des réponses à ses questions
-en publiant la question sur Slack ou sur l'une des listes de diffusion
+idéal pour montrer comment un membre de la communauté peut obtenir des réponses à ses questions en publiant la question sur Slack ou sur l'une des listes de diffusion
 de The Carpentries. Les questions peuvent toujours être envoyées à team@carpentries.org et un membre de l'équipe principale
 y répondra.
 
-\*\*Que se passe-t-il si l'hôte/co-hôte dispose d'une mauvaise connexion Internet et n'arrive pas à communiquer avec
- ? Et si Zoom ne fonctionne pas (par exemple, votre connexion Internet
-échoue) ? \*\*
+**Que se passe-t-il si l'organisateur/co-organisateur a une mauvaise connexion Internet et ne peut pas communiquer ? Et si Zoom ne fonctionne pas (par exemple, votre connexion Internet plante) ?**
 
-Il est très important de tester votre connexion Internet au préalable et de vous assurer que vous pouvez communiquer en tant qu'hôte. L'hôte est l'animateur de la session et doit disposer d'une connexion stable. Si, toutefois, lorsque vous testez votre connexion, vous constatez que vous n'avez pas une bonne connexion, contactez la communauté via [nos canaux de communication] (/resources/communications/index.md#communication-spaces) pour savoir si quelqu'un pourrait prendre la relève en tant qu'hôte de la session.
+Il est très important de tester votre connexion Internet au préalable et de vous assurer que vous pouvez communiquer en tant qu'organisateur. L'organisateur est l'animateur de la session et doit disposer d'une connexion stable. Si, toutefois, lorsque vous testez votre connexion, vous constatez que vous n'avez pas une bonne connexion, contactez la communauté via [nos canaux de communication] (/resources/communications/index.md#communication-spaces) pour savoir si quelqu'un pourrait prendre la relève en tant qu'organisateur de la session.
 
-\*\*Et si personne ne se présente ? \*\*
+**Que faire si personne ne vient ?**
 
-Si personne ne se joint au début de la session, envoyez un e-mail de rappel aux participants qui se sont inscrits et attendez quelques minutes. Si personne ne s'est inscrit 10 minutes après l'heure de début prévue, veuillez contacter [community@carpentries.org] (mailto:community@carpentries.org) et mettre fin à l'appel.
+Si personne ne vient au début de la session, envoyez un e-mail de rappel aux participants qui se sont inscrits et attendez quelques minutes. Si personne n'a rejoint la session dix minutes après l'heure de début prévue, veuillez contacter [community@carpentries.org] (mailto:community@carpentries.org) et mettre fin à l'appel.
 
-\*\*Et si quelqu'un parle trop ? \*\*
+\*\*Que faire si quelqu'un parle trop ? \*\*
 
-Limitez le temps que vous donnez aux participants pour poser les questions
+Limitez le temps que vous donnez aux participants pour poser des questions
 et y répondre. Vous pouvez demander des commentaires à quelqu'un qui n'a pas encore partagé
 pour impliquer tout le monde dans la conversation.
 
@@ -308,7 +288,7 @@ sur l'utilisation des [fonctionnalités de Zoom pour les organisateurs] (/resour
 
 Ne vous inquiétez pas, vous avez jusqu'à 24 heures après la session pour enregistrer les participants sur Pretix. Vous recevrez également un e-mail de rappel peu après la session contenant des instructions détaillées sur la manière de terminer le processus d'enregistrement.
 
-_Que faire si quelqu'un enfreint le code de conduite ? Et si quelqu'un avait reçu un signalement pour mauvaise conduite ?_\*
+_Que faire si quelqu'un enfreint le code de conduite ? Et si quelqu'un a reçu un signalement pour mauvaise conduite ?_\*
 
 Dans ce cas, The Carpentries dispose d'un {{'[ensemble de directives à suivre] ({}) '.format (code_of_conduct)}}.
 
@@ -328,7 +308,7 @@ Si une place se libère (par exemple, si quelqu'un annule), la prochaine personn
 
 Il est très important de rappeler le Code de conduite à tout le monde au début de chaque session, car The Carpentries y adhère lors de tous les événements communautaires, y compris les sessions communautaires. Un tel comportement constituerait une violation flagrante et vous pourriez demander à la personne de partir.
 
-**Que si j'ai du mal à comprendre l'un des participants ?**
+**Que faire si j'ai du mal à comprendre l'un des participants ?**
 
 Vous pouvez demander au participant de taper ses questions sur l'Etherpad de la session communautaire afin que vous puissiez les lire et y répondre, ce qui
 facilitera également la prise de notes. Vous pouvez également leur demander de parler plus fort si le micro n'est pas assez puissant.
@@ -341,42 +321,40 @@ peut être créé en ajoutant un nom descriptif à l'URL
 https://pad.carpentries.org/, par exemple
 https://pad.carpentries.org/themed-discussion-15-09-2022.
 
-\*\*Comment puis-je devenir un leader de sous-communauté ? \*\*
+**Comment puis-je devenir leader de sous-communauté ?**
 
 Un leader de sous-communauté est un membre de la communauté qui agit en tant que leader
 d'une sous-communauté au sein de The Carpentries. Ce rôle est officialisé
-par le biais du programme d'engagement communautaire. Si vous êtes
-et souhaitez en savoir plus, veuillez envoyer un e-mail à community@carpentries.org.
+par le biais du programme d'engagement communautaire. Si vous souhaitez en savoir plus, veuillez envoyer un e-mail à community@carpentries.org.
 
-\*\*Et si les participants s'inscrivaient en utilisant des noms ou des adresses e-mail différents de ceux qui apparaissent dans Pretix ? \*\*
+**Que faire si les participants rejoignent la session en utilisant des noms ou des adresses e-mail différents de ceux qui apparaissent dans Pretix ?**
 
 Si vous êtes certain qu'un participant correspond à une inscription (par exemple, des noms similaires), vous pouvez l'enregistrer. En cas de doute, vous pouvez demander directement au participant ou faire un suivi après la session.
 
-\*\*Les participants doivent-ils être enregistrés dans Pretix pour recevoir un crédit ? \*\*
+**Les participants doivent-ils être enregistrés dans Pretix pour recevoir un crédit ?**
 
-Oui Bien que les liens Zoom puissent être accessibles au public pour permettre les visites sans rendez-vous, les participants doivent s'inscrire via Pretix pour recevoir un crédit et pour que la participation soit prise en compte dans les rapports.
+Oui. Bien que les liens Zoom puissent être accessibles au public pour permettre les participations sans inscriptions, les participants doivent s'inscrire via Pretix pour recevoir un crédit et pour que la participation soit prise en compte dans les rapports.
 
 \*\*Comment gérer les enregistrements si je n'ai qu'un seul écran ? \*\*
 
-Plusieurs options peuvent vous aider :
+Vous avez plusieurs options à votre disposition :
 
-- Demandez aux participants de saisir leur nom dans l'Etherpad lors de leur inscription, puis de procéder à l'enregistrement après la session.
-- Profitez des pauses ou des brise-glaces pour enregistrer les personnes.
-- Si possible, demandez à un co-animateur de partager les diapositives pendant que vous gérez Pretix.
-- Certains hébergeurs trouvent utile de se connecter à Pretix sur leur téléphone tout en hébergeant depuis leur ordinateur.
+- Demandez aux participants de saisir leur nom dans l'Etherpad lors de leur inscription, puis procédez à l'enregistrement après la session.
+- Profitez des pauses ou des activités brise-glaces pour enregistrer les personnes.
+- Si possible, demandez à un co-organisateur de partager les diapositives pendant que vous gérez Pretix.
+- Certains organisateurs trouvent utile de se connecter à Pretix sur leur téléphone tout en organisant la session sur leur ordinateur.
 
-\*\*Puis-je trier ou rechercher la liste d'enregistrement dans Pretix ? \*\*
+**Puis-je trier ou chercher dans la liste d'enregistrement dans Pretix ?**
 
-Oui Dans Pretix, les en-têtes de colonne (tels que le nom ou l'adresse e-mail) incluent des flèches qui vous permettent de trier la liste par ordre alphabétique. Vous pouvez accéder aux enregistrements et les consulter même après la fin de l'événement.
+Oui. Dans Pretix, les en-têtes de colonne (tels que le nom ou l'adresse e-mail) incluent des flèches qui vous permettent de trier la liste par ordre alphabétique. Vous pouvez accéder aux enregistrements et les consulter même après la fin de l'événement.
 
-\*\*Et si un participant indique qu'il est sur une liste d'attente ? \*\*
+**Que faire si un participant indique qu'il est sur une liste d'attente ?**
 
-La liste d'attente est automatiquement activée lorsque le nombre d'inscriptions dépasse le nombre de places défini lors de la configuration de l'événement. Lorsqu'une place se libère, la première personne sur la liste d'attente est informée et a la possibilité de s'inscrire. Si l'hôte souhaite dépasser la limite de places initiale, il peut envoyer un e-mail à community@carpentries.org
-en indiquant les noms des personnes qui ont participé mais qui restent sur la liste d'attente. Nous vous aiderons ensuite à les enregistrer manuellement pour l'événement.
+La liste d'attente est automatiquement activée lorsque le nombre d'inscriptions dépasse le nombre de places défini au moment de la configuration de l'événement. Quand une place se libère, la première personne sur la liste d'attente est informée et a la possibilité de s'inscrire. Si l'organisateur souhaite dépasser la limite de places initiale, il peut envoyer un e-mail à community@carpentries.org en indiquant les noms des personnes qui ont participé mais qui restent sur la liste d'attente. Nous vous aiderons ensuite à les enregistrer manuellement pour l'événement.
 
-\*\*Que se passe-t-il si un participant ne s'est pas inscrit avant le début de la session ? \*\*
+**Que faire si un participant ne s'est pas inscrit avant le début de la session ?**
 
-L'hôte de la session communautaire doit demander à tous les participants qui ne sont pas encore inscrits sur Pretix de le faire avant la fin de la session. Une fois leur inscription terminée, l'hôte peut les enregistrer sur Pretix. Cela garantit que les présences sont enregistrées avec précision tout en permettant aux participants de participer à la session.
+L'organisateur de la session communautaire doit demander à tous les participants qui ne sont pas encore inscrits sur Pretix de le faire avant la fin de la session. Une fois leur inscription terminée, l'organisateur peut les enregistrer sur Pretix. Cela garantit que les présences sont enregistrées avec précision tout en permettant aux participants de prendre part à la session.
 
 
 
