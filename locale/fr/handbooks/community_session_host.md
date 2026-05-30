@@ -8,93 +8,88 @@ Le manuel pour les organisateurs de sessions communautaires est conçu pour aide
 
 Organiser une session communautaire est un excellent moyen de rencontrer d'autres membres de la communauté The Carpentries, de mieux connaître l'organisation, de tirer des leçons des expériences des autres et de partager vos connaissances et votre expertise avec un encore plus grand nombre de personnes.
 
-Les sessions communautaires font également partie intégrante de notre {{'[Processus de certification de la formation des instructeurs] ({}/checkout) '.format (instructor_training_curriculum)}}, également connu sous le nom de « Checkout ». En tant qu'hôte de sessions communautaires, vous pouvez accueillir de nouveaux professeurs dans notre communauté mondiale et leur présenter les sessions communautaires en tant que ressource permanente de soutien et de conseils au fur et à mesure qu'ils développent leurs pratiques pédagogiques.
+Les sessions communautaires font également partie intégrante de notre {{'[Processus de certification de la formation des instructeurs] ({}/checkout) '.format (instructor_training_curriculum)}}, également connu sous le nom de « Checkout ». En tant qu'organisateur de sessions communautaires, vous accueillez de nouveaux instructeurs dans notre communauté mondiale et leur présentez les sessions communautaires en tant que ressource permanente de soutien et de conseils au fur et à mesure qu'ils développent leurs pratiques pédagogiques.
 
 Les sujets abordés lors des sessions communautaires vont des ateliers d'enseignement à l'élaboration de programmes, en passant par le renforcement des communautés locales et l'évaluation
 de l'impact de nos ateliers à l'échelle mondiale. Il en existe quatre types :
 
-1. **Sessions communautaires :** Nos sessions communautaires sont des sessions sur tout sujet pertinent pour la communauté et peuvent être sous n'importe quel format. L'équipe principale organise également plusieurs **sessions de bienvenue** chaque mois pour les nouveaux [membres de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) afin de rencontrer les membres de l'équipe principale et d'apprendre comment s'engager dans l'organisation.
-2. **Sessions communautaires régionales :** Nos sous-communautés locales et régionales organisent ces sessions. Pour consulter la liste des communautés locales et régionales et de leurs activités, consultez notre [Registre des sous-communautés] (https://carpentries.org/community/get-connected/#subcommunity-registry).
-3. **Sessions de développement des compétences :** Une session de renforcement des compétences offre une opportunité de développement professionnel à la communauté où des compétences pertinentes sont enseignées.
-4. **Sessions de collaboration :** Les sessions de collaboration consacrent du temps et de l'espace au développement conjoint d'une ressource communautaire ou à une activité communautaire.
+1. **Sessions communautaires :** nos sessions communautaires sont des sessions sur tout sujet pertinent pour la communauté pouvant se présenter sous n'importe quel format. L'équipe principale organise également plusieurs **sessions de bienvenue** chaque mois pour les nouveaux [membres de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) afin de rencontrer les membres de l'équipe principale et d'apprendre comment s'engager dans l'organisation.
+2. **Sessions communautaires régionales :** nos sous-communautés locales et régionales organisent ces sessions. Afin de consulter la liste des communautés locales et régionales, ainsi que leurs activités, consultez notre [Registre des sous-communautés] (https://carpentries.org/community/get-connected/#subcommunity-registry).
+3. **Sessions de développement des compétences :** une session de développement des compétences offre une opportunité de développement professionnel à la communauté où des compétences pertinentes sont enseignées.
+4. **Sessions de collaboration :** les sessions de collaboration consacrent du temps et de l'espace au développement conjoint d'une ressource communautaire ou à une activité communautaire.
 
-**Remarque.** Il est possible de participer à l'un de ces quatre types de sessions communautaires pour répondre aux exigences dans le cadre de {{'[Instructor Training Certification] ({}/checkout) '.format (instructor_training_curriculum)}}.
+**Remarque :** il est possible de participer à l'un de ces quatre types de sessions communautaires pour répondre aux exigences dans le cadre de la {{'[certification de formation pour instructeur] ({}/checkout) '.format (instructor_training_curriculum)}}.
 
 ## Rôles et responsabilités
 
-Un [membre de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) peut être l'hôte d'une session communautaire. Les responsabilités spécifiques incluent :
+Un [membre de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member) peut être l'organisateur d'une session communautaire. Les responsabilités spécifiques incluent :
 
-- Inscrivez-vous pour recevoir des communications pertinentes concernant l'exercice de ce rôle.
-  Les instructions pour s'inscrire se trouvent dans la section [Communication et espaces de collaboration
-  de ce manuel] (#communication-and-collaboration-spaces)
+- S'inscrire afin de recevoir des communications pertinentes concernant l'exercice de ce rôle.
+  Les instructions pour s'inscrire se trouvent dans la section [Communication et espaces de collaboration       de ce manuel] (#communication-and-collaboration-spaces)
 - Au cours d'une période de planification trimestrielle, planifiez une ou plusieurs sessions communautaires
-  à la date et à l'heure auxquelles vous souhaitez organiser une session.
-- Animez les sessions communautaires que vous avez choisi d'animer avec
-  .
-- Enregistrez les participants à chaque session que vous organisez à Pretix. L'équipe Core
-  utilise ces informations pour enregistrer la participation à {{'[AMY] ({}) '.format (amy_link)}}, la base de données interne de
-  Carpentries. C'est le principal moyen pour les futurs formateurs d'obtenir des crédits pour avoir effectué cette étape de paiement.
+  aux horaires auxquels vous souhaitez organiser une session.
+- Animer les sessions communautaires pour lesquelles vous vous êtes inscrit comme organisateur.
+- Enregistrez les participants à chaque session que vous organisez sur Pretix. L'équipe principale utilise ces informations pour enregistrer la participation sur {{'[AMY] ({}) '.format (amy_link)}}, la base de données interne de The Carpentries. C'est le principal moyen pour les futurs instructeurs d'obtenir des crédits pour avoir effectué cette étape du Checkout.
 
 ## Intégration
 
-Veuillez noter qu'à partir du 1er janvier 2026, le processus d'intégration des hôtes de sessions communautaires ne sera plus utilisé. Les sessions communautaires sont ouvertes à tous les membres de la communauté, à condition que les sessions soient conformes au code de conduite de The Carpentries. Aucune intégration officielle n'est requise.
+Veuillez noter qu'à partir du 1er janvier 2026, le processus d'intégration des organisateurs de sessions communautaires ne sera plus utilisé. Tous les membres de la communauté ont la liberté d'organiser des sessions communautaires, à condition que les sessions soient conformes au code de conduite de The Carpentries. Aucune intégration officielle n'est requise.
 
-## Débarquement
+## Départ
 
-Si l'organisation de sessions communautaires ne vous intéresse plus, veuillez envoyer un [e-mail à l'équipe Community Engagement
+Si l'organisation de sessions communautaires ne vous intéresse plus, veuillez envoyer un [e-mail à l'équipe d'engagement communautaire
 ] (mailto:community@carpentries.org). Ils vous retireront de la chaîne Slack #discussion -host et vous désabonneront de la liste de diffusion
 Session Host.
 
 ## Espaces de communication et de collaboration
 
-Cette section répertorie les canaux de communication et les espaces de collaboration qui soutiennent les hôtes de sessions communautaires. Les participants à ces espaces
-sont tenus de suivre {{"[The Carpentries Code of Conduct] ({}) » .format (code_of_conduct)}}.  Une description des outils répertoriés se trouve dans le {{'[glossaire de la communauté] ({}) '.format (glossary)}}.
+Cette section répertorie les canaux de communication et les espaces de collaboration apportant leur aide aux organisateurs de sessions communautaires. Les participants à ces espaces
+sont tenus de suivre {{"[le code de conduite de The Carpentries] ({}) » .format (code_of_conduct)}}.  Vous trouverez une description des outils répertoriés dans le {{'[glossaire de la communauté] ({}) '.format (glossary)}}.
 
 ### Calendrier communautaire
 
-Une fois que vous avez planifié une session, une invitation au calendrier sera envoyée à l'adresse e-mail que vous avez utilisée lors de votre inscription. Toutes les sessions communautaires
+Une fois que vous avez planifié une session, une invitation au calendrier sera envoyée à l'adresse e-mail que vous avez utilisée au moment de de votre inscription. Toutes les sessions communautaires
 seront également répertoriées sur notre {{'[Calendrier communautaire] ({}/community/events/) '.format (carpentries_website)}}.
 
 ### Etherpad
 
-Une liste d'Etherpads pertinents pour servir d'hôte de session communautaire comprend :
+Une liste d'Etherpads pertinents pour l'organisation de sessions communautaires comprend :
 
 - {{'[Sessions communautaires : Etherpad] ({}/community-discussions) '.format (etherpad)}} : Au lieu d'utiliser l'Etherpad comme nous le faisions par le passé (pour répertorier les sessions communautaires à venir), nous utilisons Pretix pour les inscriptions aux sessions communautaires à compter du 1er janvier 2026 pour [les inscriptions des participants] (https://pretix.carpentries.org/community-events/).
 - {{'[Pad-of-Pads] ({}/pad-of-pads) '.format (etherpad)}} : une liste des Etherpads les plus couramment utilisés par The Carpentries et d'autres ressources.
 
 ### Messagerie et communication
 
-Slack est la plate-forme logicielle utilisée par The Carpentries pour prendre en charge les communications synchrones et asynchrones. Les chaînes favorisent les communications, la collaboration et la co-création entre un sous-ensemble de [membres de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), en fonction de l'objectif de la chaîne. Vous pouvez {{'[rejoindre l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}} pour suivre les conversations sur la chaîne en rapport avec ce rôle :
+The Carpentries utilise la plateforme logicielle slack pour prendre en charge les communications synchrones et asynchrones. Les chaînes favorisent les communications, la collaboration et la co-création entre un sous-ensemble de [membres de la communauté] (https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), selon l'objectif de la chaîne. Vous pouvez {{'[rejoindre l'espace de travail Slack de The Carpentries] ({}) '.format (slack_invite)}} afin de suivre les conversations sur la chaîne en rapport avec ce rôle :
 
-- \#discussion -hosts : chaîne pour les hôtes de sessions communautaires et les personnes intéressées par l'organisation de sessions communautaires
+- \#discussion -hosts : chaîne pour les organisateurs de sessions communautaires et les personnes intéressées par l'organisation de ces sessions
 
-Si vous êtes nouveau sur Slack, notre {{"[Slack Guide] ({}) » .format (slack_guide)}} vous aidera à configurer votre profil et vous donnera un aperçu de la façon dont nous utilisons la plateforme au quotidien.
+Si vous ne connaissez pas encore Slack, notre {{"[guide Slack] ({}) » .format (slack_guide)}} vous aidera à configurer votre profil et vous donnera un aperçu de la façon dont nous utilisons la plateforme au quotidien.
 
 ### Liste de diffusion
 
-Vous pouvez accéder aux listes de diffusion de The Carpentries depuis
+Vous pouvez accéder aux listes de diffusion de The Carpentries sur
 {{'[Topicbox] ({}/latest) '.format (topicbox)}}.
-{{'[La liste de diffusion des hôtes de discussion] ({}/discussion-hosts) '.format (topicbox)}} est utilisée pour les annonces concernant les hôtes de sessions communautaires.
-Pour rejoindre une ou plusieurs listes de diffusion de Carpentries, vous devez {{'[create a login] ({}/latest) '.format (topicbox)}}. Une fois
-terminé, vous pouvez faire défiler la liste des groupes et cliquer sur « Rejoindre la conversation » (pour les envois ouverts) ou sur « Demander à participer » (pour
-, les listes de diffusion nécessitant l'approbation de l'administrateur). Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}}.
+{{'[La liste de diffusion Discussion Host] ({}/discussion-hosts) '.format (topicbox)}} est utilisée pour les annonces concernant les organisateurs de sessions communautaires.
+Afin de rejoindre une ou plusieurs listes de diffusion de The Carpentries, vous devez {{'[créer un identifiant] ({}/latest) '.format (topicbox)}}. Une fois
+terminé, vous pouvez faire défiler la liste des groupes et cliquer sur « Join the Conversation/Rejoindre la conversation » (pour les listes ouvertes) ou sur « Request to Join/Demander à rejoindre » (pour les listes de diffusion nécessitant l'approbation de l'administrateur). Si vous utilisez Topicbox pour la première fois, veuillez consulter notre {{"[guide Topicbox] ({}) » .format (topicbox_guide)}}.
 
-## Guides étape par étape
+## Guides détaillés
 
-Cette section comprend des guides étape par étape pour vous aider dans votre rôle d'hôte de sessions communautaires.
+Cette section comprend des guides détaillés pour vous aider dans votre rôle d'organisateur de sessions communautaires.
 
-- Chaque trimestre, les communications de l'équipe d'engagement communautaire seront partagées via Slack et TopicBox avec des instructions pour s'inscrire pour animer une session communautaire. Consultez la [section Ressources de communication de ce manuel] (/resources/communications/index.md) pour savoir comment rejoindre l'un de ces canaux de communication ou les deux.
-- Les hôtes des sessions communautaires s'inscriront en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription. Calendly vous permet de sélectionner les dates et heures dans votre fuseau horaire pour les sessions que vous prévoyez d'organiser. Les dates et heures déjà sélectionnées ne s'afficheront pas.
+- Chaque trimestre, les communications de l'équipe d'engagement communautaire seront partagées via Slack et TopicBox avec des instructions pour s'inscrire afin d'organiser une session communautaire. Consultez la [section Ressources de communication de ce manuel] (/resources/communications/index.md) afin de savoir comment rejoindre l'un de ces canaux de communication ou les deux.
+- Les organisateurs des sessions communautaires s'inscriront en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription. Calendly vous permet de sélectionner les dates et heures dans votre fuseau horaire pour les sessions que vous prévoyez d'organiser. Les dates et heures déjà sélectionnées ne seront pas affichées.
 
-! [Animation d'inscription au calendrier] (/images/calendly.gif)
+! [Inscription pour l'organisation sur Calendly] (/images/calendly.gif)
 
-- Une fois que les hôtes ont planifié eux-mêmes une session communautaire via Calendly, un flux de travail ajoutera chaque événement à [Pretix] (https://pretix.carpentries.org/community-events/) et au [Calendrier communautaire] (https://carpentries.org/community/events/).
-- Dans les rares cas où vous devez planifier une session en dehors de la période de planification trimestrielle, l'hôte de la session communautaire doit contacter l' [équipe d'engagement communautaire] (mailto:community@carpentries.com) avec le hashtag
-  . La session n'est confirmée que lorsqu'un membre de l'équipe d'engagement communautaire contacte l'hôte.
+- Une fois que les organisateurs ont planifié eux-mêmes une session communautaire via Calendly, un flux de travail ajoutera chaque événement à [Pretix] (https://pretix.carpentries.org/community-events/) et au [Calendrier communautaire] (https://carpentries.org/community/events/).
+- Dans les rares cas où une session doit être planifiée en dehors de la période de planification trimestrielle, l'organisateur de la session communautaire doit contacter l' [équipe d'engagement communautaire] (mailto:community@carpentries.com).
+  . La session n'est pas confirmée avant qu'un membre de l'équipe d'engagement communautaire ne contacte l'organisateur.
 
 #### S'inscrire pour organiser une session communautaire locale ou régionale
 
-Les dirigeants des sous-communautés sont chargés de planifier et d'animer les sessions communautaires locales et régionales. Ces sessions sont actuellement répertoriées dans le [Calendrier communautaire] (https://carpentries.org/community/events/). Si un responsable de sous-communauté souhaite y inscrire une session communautaire régionale et l'ajouter au calendrier communautaire de The Carpentries, il doit envoyer un e-mail à community@carpentries.org. S'ils souhaitent plutôt ajouter à Pretix la session à laquelle les utilisateurs peuvent s'inscrire pour y participer, ils peuvent ajouter les événements en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription, comme décrit dans la section [S'inscrire pour animer une session communautaire] (#step-by-step-guides). L'événement sera automatiquement ajouté au calendrier communautaire et à Pretix. Pour en savoir plus sur la façon de devenir un leader de sous-communauté, veuillez consulter la [section FAQ de ce manuel] (#faq).
+Les dirigeants des sous-communautés sont chargés de planifier et d'organiser les sessions communautaires locales et régionales. Ces sessions sont actuellement répertoriées dans le [Calendrier communautaire] (https://carpentries.org/community/events/). Si un responsable de sous-communauté souhaite y inscrire une session communautaire régionale et l'ajouter au calendrier communautaire de The Carpentries, il doit envoyer un e-mail à community@carpentries.org. S'ils souhaitent plutôt ajouter à Pretix la session à laquelle les utilisateurs peuvent s'inscrire pour y participer, ils peuvent ajouter les événements en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription, comme décrit dans la section [S'inscrire pour animer une session communautaire] (#step-by-step-guides). L'événement sera automatiquement ajouté au calendrier communautaire et à Pretix. Pour en savoir plus sur la façon de devenir un leader de sous-communauté, veuillez consulter la [section FAQ de ce manuel] (#faq).
 
 ### Liste de contrôle pour l'organisation d'une session communautaire
 
