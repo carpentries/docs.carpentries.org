@@ -1,12 +1,12 @@
-# Manuel pour les hôtes de sessions communautaires
+# Manuel pour les organisateurs de sessions communautaires
 
 ## À propos de ce manuel
 
-Le manuel d'organisation de sessions communautaires est conçu pour aider les membres de la communauté The Carpentries qui organisent des sessions communautaires. L'équipe d'engagement communautaire de Carpentries en assure la maintenance.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[Community Engagement Team] (mailto:{}) '.format (community_email)}} ou ouvrez un problème sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si vous ne connaissez aucun des termes utilisés dans ce manuel, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
+Le manuel pour les organisateurs de sessions communautaires est conçu pour aider les membres de la communauté The Carpentries qui organisent des sessions communautaires. L'équipe d'engagement communautaire de The Carpentries en assure la maintenance.  Si vous pensez que quelque chose doit être ajouté ou mis à jour ici, ou si vous souhaitez faire part de vos commentaires sur le contenu, veuillez envoyer un e-mail à {{'[l'équipe d'engagement communautaire] (mailto:{}) '.format (community_email)}} ou ouvrez un problème sur le {{' [référentiel source de ce manuel] ({}) '.format (gh_repo)}}. Si certains termes utilisés dans ce manuel ne vous sont pas familiers, veuillez consulter notre {{'[Glossaire des termes] ({}) '.format (glossaire)}}.
 
 ## Présentation
 
-Organiser une session communautaire est un excellent moyen de rencontrer plus de membres de la communauté The Carpentries, de mieux connaître l'organisation, de tirer des leçons des expériences des autres et de partager vos connaissances et votre expertise avec un plus grand nombre de personnes encore.
+Organiser une session communautaire est un excellent moyen de rencontrer d'autres membres de la communauté The Carpentries, de mieux connaître l'organisation, de tirer des leçons des expériences des autres et de partager vos connaissances et votre expertise avec un encore plus grand nombre de personnes.
 
 Les sessions communautaires font également partie intégrante de notre {{'[Processus de certification de la formation des instructeurs] ({}/checkout) '.format (instructor_training_curriculum)}}, également connu sous le nom de « Checkout ». En tant qu'hôte de sessions communautaires, vous pouvez accueillir de nouveaux professeurs dans notre communauté mondiale et leur présenter les sessions communautaires en tant que ressource permanente de soutien et de conseils au fur et à mesure qu'ils développent leurs pratiques pédagogiques.
 
@@ -59,7 +59,7 @@ seront également répertoriées sur notre {{'[Calendrier communautaire] ({}/com
 
 Une liste d'Etherpads pertinents pour servir d'hôte de session communautaire comprend :
 
-- {{'[Community Session Etherpad]({}/community-discussions)'.format(etherpad)}}: Instead of using the Etherpad as we have in the past (to list of upcoming Community Sessions), we use Pretix for Community Sessions sign ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
+- {{'[Sessions communautaires : Etherpad] ({}/community-discussions) '.format (etherpad)}} : Au lieu d'utiliser l'Etherpad comme nous le faisions par le passé (pour répertorier les sessions communautaires à venir), nous utilisons Pretix pour les inscriptions aux sessions communautaires à compter du 1er janvier 2026 pour [les inscriptions des participants] (https://pretix.carpentries.org/community-events/).
 - {{'[Pad-of-Pads] ({}/pad-of-pads) '.format (etherpad)}} : une liste des Etherpads les plus couramment utilisés par The Carpentries et d'autres ressources.
 
 ### Messagerie et communication
