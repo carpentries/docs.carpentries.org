@@ -159,16 +159,16 @@ Si des participants se sont inscrits mais que les organisateurs des sessions com
 
 #### Configuration et responsabilités avant la session
 
-- Connectez-vous au moins 5 minutes avant le début de la session.
-- Il est recommandé de créer une salle d'attente. Cela permet à l'hôte d'autoriser explicitement les personnes à entrer, plutôt que d'autoriser n'importe qui à entrer.
-  - [Découvrez comment activer et utiliser une salle d'attente en tant qu'hôte] (/resources/communications/zoom_rooms.md#using-a-waiting-room)
-- Accédez à l'hôte.
-- Deux jours avant l'événement, l'hôte recevra un e-mail automatique de Calendly contenant la clé de l'hôte.
-- [Découvrez comment utiliser la clé d'hôte pour réclamer l'accès à l'hôte.] (/resources/communications/zoom_rooms.md#gaining-host-access).
-- Activez le sous-titrage codé pour améliorer l'accessibilité de l'événement.
-  - Zoom propose le sous-titrage automatique des appels. La précision du sous-titrage peut être limitée par des facteurs tels que la qualité sonore, les accents, les dialectes et le jargon.
+- Connectez-vous au moins cinq minutes avant le début de la session.
+- Il est recommandé de créer une salle d'attente. Cela permet à l'organisateur d'autoriser explicitement les personnes à entrer, plutôt que d'autoriser n'importe qui.
+  - [Découvrez comment activer et utiliser une salle d'attente en tant qu'organisateur] (/resources/communications/zoom_rooms.md#using-a-waiting-room)
+- Obtenez votre accès organisateur.
+- Deux jours avant l'événement, l'organisateur recevra un e-mail automatique de Calendly contenant la clé de l'organisateur.
+- [Découvrez comment utiliser la clé d'organisateur pour obtenir l'accès organisateur.] (/resources/communications/zoom_rooms.md#gaining-host-access).
+- Activez le sous-titrage pour améliorer l'accessibilité de l'événement.
+  - Zoom offre un sous-titrage automatique des appels. La précision du sous-titrage peut être limitée par des facteurs tels que la qualité sonore, les accents, les dialectes et le jargon.
   - [Découvrez comment activer le sous-titrage automatique] (/resources/communications/zoom_rooms.md#closed-captioning).
-- Confirmez que le collègue hôte est présent (s'il y en a un) et qu'il dirigera ou prendra des notes.
+- Confirmez que le collègue organisateur est présent (s'il y en a un) et qu'il dirigera ou prendra des notes.
 
 #### Pendant la session
 
@@ -208,73 +208,62 @@ Si des participants se sont inscrits mais que les organisateurs des sessions com
   depuis l'Etherpad.
 - (Facultatif) Rédigez un article de blog sur les points intéressants abordés au cours de la session.
 
-L'hôte de la session communautaire doit enregistrer la participation en enregistrant les personnes sur Pretix. Vous pouvez demander aux participants d'indiquer leur présence sur l'Etherpad pendant la session communautaire, puis de les transférer à Pretix. Veuillez informer les participants que s'ils ne se sont pas encore inscrits via Pretix, ils doivent le faire avant la fin de la session. Les hôtes de sessions communautaires ne pourront pas les enregistrer s'ils ne le font pas. Nous vous recommandons d'effectuer l'enregistrement pendant une pause naturelle du programme, telle qu'une discussion en petits groupes ou une courte pause de réseautage, afin de vous assurer que tout se passe bien pendant l'événement. L'hôte de la session communautaire n'aura pas besoin de répondre à un sondage.  Les participants devront tout de même répondre à un sondage.
+L'hôte de la session communautaire doit enregistrer la participation en enregistrant les personnes sur Pretix. Vous pouvez demander aux participants d'indiquer leur présence sur l'Etherpad pendant la session communautaire, puis les transférer à Pretix. Veuillez informer les participants que s'ils ne se sont pas encore inscrits via Pretix, ils doivent le faire avant la fin de la session. Les organisateurs de sessions communautaires ne pourront pas les enregistrer s'ils ne le font pas. Nous vous recommandons d'effectuer l'enregistrement pendant une pause naturelle du programme, telle qu'une discussion en petits groupes ou une courte pause de réseautage, afin de vous assurer que cette étape s'intègre avec fluidité à l'événement. L'organisateur de la session communautaire n'aura pas besoin de répondre à un sondage.  Les participants devront, eux, répondre à un sondage.
 
-##### Comment enregistrer les participants auprès de Pretix
+##### Comment enregistrer les participants sur Pretix
 
-1. Ouvrez le lien suivant : <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Trouvez la session que vous organisez et cliquez sur son nom (par exemple 2026-01-06T 09:30:00 Z)
+1. Ouvrez le lien suivant : <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Cherchez la session que vous organisez et cliquez sur son nom (par exemple 2026-01-06T 09:30:00 Z)
 
-! [Étape 1 : Ouvrez le lien suivant : https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Trouvez la session que vous organisez et cliquez sur son nom (par exemple 2026-01-06T 09:30:00 Z)] (../img/Pretix_Step_1.png)
+! [Étape 1 : ouvrez le lien https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Cherchez la session que vous organisez et cliquez sur son nom (par exemple 2026-01-06T 09:30:00 Z)] (../img/Pretix_Step_1.png)
 
-2. Vous devriez maintenant pouvoir voir la liste des participants qui se sont inscrits à votre événement.
+2. Vous devriez alors voir la liste des participants qui se sont inscrits à votre événement.
 
-! [Étape 2 : Vous devriez maintenant voir la liste des participants qui se sont inscrits à votre événement.] (../img/Pretix_Step_2.png)
+! [Étape 2 : vous devriez alors voir la liste des participants qui se sont inscrits à votre événement.] (../img/Pretix_Step_2.png)
 
 3. Sélectionnez tous les participants qui ont participé à la session communautaire en cochant la case à gauche du code de commande. Veuillez noter qu'il peut y avoir plusieurs pages de participants inscrits.
 
-! [Étape 3 : Sélectionnez tous les participants qui ont participé à la session communautaire en cochant la case à gauche du code de commande.] (../img/Pretix_Step_3.png)
+! [Étape 3 : sélectionnez tous les participants qui ont participé à la session communautaire en cochant la case à gauche du code de commande.] (../img/Pretix_Step_3.png)
 
-4. Une fois que vous avez sélectionné tous les participants, vous pouvez cliquer sur « Enregistrer les participants sélectionnés ».  Vous remarquerez maintenant que le statut est passé de « Non enregistré » à « Enregistré ». Les participants enregistrés reçoivent automatiquement un e-mail via Pretix leur rappelant de répondre à l'enquête s'ils ne l'ont pas déjà fait.
+4. Après avoir sélectionné tous les participants, vous pouvez cliquer sur « Enregistrer les participants sélectionnés ».  Vous remarquerez alors que le statut est passé de « Non enregistré » à « Enregistré ». Les participants enregistrés reçoivent automatiquement un e-mail via Pretix leur rappelant de répondre au sondage s'ils ne l'ont pas déjà fait.
 
-! [Étape 4 : Une fois que vous avez sélectionné tous les participants, vous pouvez cliquer sur « Enregistrer les participants sélectionnés ».  Vous remarquerez maintenant que le statut est passé de « Non enregistré » à « Enregistré ». Les participants enregistrés reçoivent automatiquement un e-mail via Pretix leur rappelant de répondre au sondage s'ils ne l'ont pas déjà fait.] (../img/Pretix_Step_4.png)
+! [Étape 4 : après avoir sélectionné tous les participants, vous pouvez cliquer sur « Enregistrer les participants sélectionnés ».  Vous remarquerez alors que le statut est passé de « Non enregistré » à « Enregistré ». Les participants enregistrés reçoivent automatiquement un e-mail via Pretix leur rappelant de répondre au sondage s'ils ne l'ont pas déjà fait.] (../img/Pretix_Step_4.png)
 
 ## Ressources
 
 ### Script pour démarrer une session communautaire
 
-\*Les hôtes de sessions communautaires peuvent utiliser ou adapter ce script au début de
+\*Les organisateurs de sessions communautaires peuvent utiliser ou adapter ce script au début de
 de leur session communautaire. \*
 
 Bienvenue à tous ! Je m'appelle [insérer le nom] et je suis [rôle et affiliation
-]. Dans une minute, nous allons faire une série de présentations de
-, mais je voudrais aborder quelques aspects logistiques avant de démarrer
+]. Dans une minute, nous ferons le tour des présentations, mais je voudrais aborder quelques aspects logistiques avant de démarrer
 .
 
-- Nous utiliserons l'Etherpad pour la prise de notes collaborative. Tout le monde
-  est invité à prendre des notes pendant la session d'aujourd'hui, mais [nom] agira également en tant que preneur de notes désigné.
-  - _L'hôte doit partager le lien dans le chat :_ {{'[Community Session Etherpad] ({}/community-discussions) '.format (etherpad)}}
-- J'ai activé le sous-titrage automatique que vous pouvez afficher sur
-  de votre écran à l'aide de la fonction de sous-titrage.
-- Si vous avez une question, veuillez utiliser la réaction « lever la main » dans
-  Zoom.
-- Pour clarifier ce qui est attendu, toutes les personnes participant aux activités de The
-  Carpentries sont tenues de respecter notre code de conduite.
-  - _L'hôte doit partager le lien dans le chat :_ {{'[Code de conduite] ({}) '.format (code_of_conduct)}}
-  - Toute forme de comportement visant à exclure, à intimider ou à provoquer un malaise
-    constitue une violation du Code de conduite. Pour favoriser un environnement d'apprentissage positif et professionnel
-    , nous vous encourageons
-    à :
-    - Utilisez un langage accueillant et inclusif
-    - Soyez respectueux des différents points de vue et expériences
-    - Acceptez gracieusement les critiques constructives
-    - Concentrez-vous sur ce qui est le mieux pour la communauté
-    - Faites preuve de courtoisie et de respect envers les autres membres de la communauté
-  - Si vous pensez que quelqu'un enfreint le code de conduite, nous demandons à
-    de le signaler au comité du code de conduite de The Carpentries avant que
-    ne remplisse ce formulaire.
-    - _L'hôte doit partager le lien dans le chat :_ [Formulaire de rapport d'incident lié au Code de conduite des charpenteries] (https://goo.gl/forms/KoUfO53Za3apOuOK2)
-- Si vous participez à cette session dans le cadre de la formation des instructeurs
-  Checkout, assurez-vous d'être inscrit sur Pretix.
-  - _L'hôte doit partager le lien dans le chat :_ [Sessions communautaires sur Pretix] (https://pretix.carpentries.org/community-events/community-sessions/)
+- Nous utiliserons l'Etherpad pour la prise de notes collaborative. Tout le monde est invité à prendre des notes pendant la session d'aujourd'hui, mais [nom] agira également en tant que responsable de prise de notes.
+  - _L'organisateur doit partager le lien dans le chat :_ {{'[Etherpad de la session communautaire] ({}/community-discussions) '.format (etherpad)}}
+- J'ai activé le sous-titrage automatique que vous pouvez afficher sur votre écran à l'aide de la fonction de sous-titrage.
+- Si vous avez une question, veuillez utiliser la fonction « lever la main » dans Zoom.
+- Pour clarifier ce qui est attendu, toutes les personnes participant aux activités de The Carpentries sont tenues de respecter notre code de conduite.
+  - _L'organisateur devrait partager le lien dans le chat :_ {{'[Code de conduite] ({}) '.format (code_of_conduct)}}
+  - Toute forme de comportement visant à exclure, à intimider ou à provoquer un malaise constitue une violation du Code de conduite. Pour favoriser un environnement d'apprentissage positif et professionnel, nous vous encourageons à :
+    - Utiliser un langage accueillant et inclusif
+    - Respecter les différents points de vue et expériences
+    - Accepter gracieusement les critiques constructives
+    - Se concentrer sur ce qui est le mieux pour la communauté
+    - Faire preuve de courtoisie et de respect envers les autres membres de la communauté
+  - Si vous pensez que quelqu'un enfreint le code de conduite, nous vous demandons de le signaler au comité du code de conduite de The Carpentries en remplissant ce formulaire.
+    - _L'organisateur doit partager le lien dans le chat :_ [Formulaire de rapport d'incident lié au Code de conduite The Carpentries] (https://goo.gl/forms/KoUfO53Za3apOuOK2)
+- Si vous participez à cette session dans le cadre de la formation des instructeurs Checkout, assurez-vous d'être inscrit sur Pretix.
+  - _L'organisateur devrait partager le lien dans le chat :_ [Sessions communautaires sur Pretix] (https://pretix.carpentries.org/community-events/community-sessions/)
 
 Quelqu'un a-t-il des questions avant de commencer ?
 
 ## FAQ
 
-\*\*Et si je ne connais pas la réponse aux questions de quelqu'un et que personne dans la salle
+\*\*Que faire si je ne connais pas la réponse aux questions de quelqu'un et que personne dans la salle
 ne le sait non plus ? \*\*
 
-C'est bien si vous ne connaissez pas toutes les réponses. C'est le moment
+Ce n'est pas grave si vous ne connaissez pas toutes les réponses. C'est le moment
 idéal pour montrer comment un membre de la communauté peut obtenir des réponses à ses questions
 en publiant la question sur Slack ou sur l'une des listes de diffusion
 de The Carpentries. Les questions peuvent toujours être envoyées à team@carpentries.org et un membre de l'équipe principale
@@ -296,73 +285,57 @@ Limitez le temps que vous donnez aux participants pour poser les questions
 et y répondre. Vous pouvez demander des commentaires à quelqu'un qui n'a pas encore partagé
 pour impliquer tout le monde dans la conversation.
 
-\*\*Et s'il n'y a pas de co-animateur/preneur de notes et que la session est entièrement réservée à
- ? \*\*
+\*\*Que faire s'il n'y a pas de co-organisateur/responsable de la prise de notes et que la session est pleine ? \*\*
 
-En tant qu'hôte, vous pouvez prendre quelques notes, mais
-n'a pas besoin de supprimer tout ce qui est partagé. Notez les points importants de
-, en veillant à ajouter des liens vers des informations utiles.
-Encouragez les participants à contribuer aux notes de la session Community
-Etherpad.
+En tant qu'organisateur, vous pouvez prendre quelques notes, mais
+il n'est pas nécessaire de noter absolument tout ce qui est partagé. Notez les points importants, en veillant à ajouter des liens vers des informations utiles.
+Encouragez les participants à contribuer aux notes sur l'Etherpad de la session communautaire.
 
-\*\*Et si quelqu'un arrive en retard ? \*\*
+\*\*Que faire si quelqu'un arrive en retard ? \*\*
 
 En fonction de l'heure à laquelle la personne arrive, vous pouvez lui souhaiter la bienvenue et lui demander
-de se présenter au reste des participants. Si vous avez le temps
-, vous pouvez demander à la personne de rester sur l'appel pendant quelques
-minutes après la fin de l'appel pour résumer ce qu'elle a oublié et répondre à
-à toutes ses questions.
+de se présenter au reste des participants. Si vous avez le temps, vous pouvez demander à la personne de rester en ligne pendant quelques
+minutes après la fin de l'appel pour résumer ce qu'elle a manqué et répondre à
+d'éventuelles questions.
 
-\*\*Et si quelqu'un n'a pas de casque et ne peut pas contrôler son bruit de fond
- ? \*\*
+\*\*Que faire si quelqu'un n'a pas de casque et ne peut pas contrôler son bruit de fond ? \*\*
 
-En tant qu'hôte, vous aurez le privilège de désactiver le son des autres participants, ou
-vous pourriez demander directement à la personne de désactiver son micro. En savoir plus
-sur l'utilisation des [fonctionnalités hôtes de Zoom] (/resources/communications/zoom_rooms.md).
+En tant qu'organisateur, vous avez le privilège de désactiver le son des autres participants, ou
+vous pourriez demander directement à la personne de désactiver son micro. Apprenez-en plus
+sur l'utilisation des [fonctionnalités de Zoom pour les organisateurs] (/resources/communications/zoom_rooms.md).
 
-\*\*Et si j'oublie d'enregistrer les participants ? \*\*
+\*Que faire si j'oublie d'enregistrer les participants ? \*\*
 
-Ne vous inquiétez pas, vous avez jusqu'à 24 heures après la session pour enregistrer les participants à Pretix. Vous recevrez également un e-mail de rappel peu après la session contenant des instructions détaillées sur la manière de terminer le processus d'enregistrement.
+Ne vous inquiétez pas, vous avez jusqu'à 24 heures après la session pour enregistrer les participants sur Pretix. Vous recevrez également un e-mail de rappel peu après la session contenant des instructions détaillées sur la manière de terminer le processus d'enregistrement.
 
-\*\*Et si quelqu'un enfreint le code de conduite ? Et si quelqu'un avait reçu un signalement d'inconduite
- ? \*\*
+_Que faire si quelqu'un enfreint le code de conduite ? Et si quelqu'un avait reçu un signalement pour mauvaise conduite ?_\*
 
-Dans ce cas, The Carpentries dispose d'un {{'[ensemble de directives qui peuvent être suivies] ({}) '.format (code_of_conduct)}}.
+Dans ce cas, The Carpentries dispose d'un {{'[ensemble de directives à suivre] ({}) '.format (code_of_conduct)}}.
 
-\*\*Et si une personne ne participe pas à la conversation ? \*\*
+\*\*Que faire si une personne ne participe pas à la conversation ? \*\*
 
-Essayez d'encourager la participation. Cela peut être fait en posant une question aux participants
-ou en demandant à une personne son opinion sur un sujet spécifique de la conversation
-. Il y a également un point dans l'ordre du jour qui vous permet, en tant qu'hôte
-, de parler aux participants et de leur poser à chacun une question spécifique
+Essayez d'encourager la participation. Vous pouvez le faire en posant une question aux participants
+ou en demandant à une personne son opinion sur un sujet spécifique de la conversation. Il y a également un point dans l'ordre du jour qui vous permet, en tant qu'organisateur, de parler aux participants et de leur poser à chacun une question spécifique
 à laquelle ils doivent répondre.
 
-\*\*Et si quelqu'un demande à rejoindre ma session communautaire pour
-terminer sa session de paiement en tant qu'instructeur alors que celle-ci est déjà complète ? \*\*
+**Que faire si quelqu'un demande à rejoindre ma session communautaire pour
+terminer sa session Checkout pour instructeur alors que celle-ci est déjà complète ?**
 
 Les participants peuvent s'inscrire sur la liste d'attente dans Pretix.
-Si une place se libère (par exemple, si quelqu'un annule), la prochaine personne
-sur la liste d'attente recevra automatiquement un e-mail l'invitant
-à s'inscrire à la session.
+Si une place se libère (par exemple, si quelqu'un annule), la prochaine personne sur la liste d'attente recevra automatiquement un e-mail l'invitant à s'inscrire à la session.
 
-\*\*Et si quelqu'un fait du bruit ou est odieux et/ou parle bas aux autres ? \*\*
+**Que faire si quelqu'un fait du bruit, parle fort ou prend les autres de haut ?**
 
-Il est très important de rappeler le Code de conduite à tout le monde au début de chaque session
-, car The Carpentries y adhère lors de tous les événements communautaires
-, y compris les sessions communautaires. Un tel comportement constituerait une violation flagrante du
-et vous pourriez demander à la personne de partir.
+Il est très important de rappeler le Code de conduite à tout le monde au début de chaque session, car The Carpentries y adhère lors de tous les événements communautaires, y compris les sessions communautaires. Un tel comportement constituerait une violation flagrante et vous pourriez demander à la personne de partir.
 
-\*\*Et si j'ai du mal à comprendre l'un des participants ? \*\*
+**Que si j'ai du mal à comprendre l'un des participants ?**
 
-Vous pouvez demander au participant de taper ses questions dans la session Etherpad de la communauté
-pour que vous puissiez les lire et y répondre.
-facilitera également la prise de notes. Pensez à leur demander de bien s'exprimer en tant que
-si le micro est trop faible.
+Vous pouvez demander au participant de taper ses questions sur l'Etherpad de la session communautaire afin que vous puissiez les lire et y répondre, ce qui
+facilitera également la prise de notes. Vous pouvez également leur demander de parler plus fort si le micro n'est pas assez puissant.
 
-\*\*Et si je dois créer un Etherpad distinct pour la prise de notes ? \*\*
+**Que faire si je dois créer un Etherpad séparé pour la prise de notes ?**
 
-Les notes de toutes les sessions peuvent être prises sur la session communautaire
-Etherpad et seront archivées après chaque session. Toutefois, si vous pensez
+Les notes de toutes les sessions peuvent être prises sur l'Etherpad de la session communautaire et seront archivées après chaque session. Toutefois, si vous pensez
 qu'un autre Etherpad est nécessaire pour prendre des notes pendant votre session, un nouvel Etherpad
 peut être créé en ajoutant un nom descriptif à l'URL
 https://pad.carpentries.org/, par exemple
