@@ -91,11 +91,11 @@ Cette section comprend des guides détaillés pour vous aider dans votre rôle d
 
 Les dirigeants des sous-communautés sont chargés de planifier et d'organiser les sessions communautaires locales et régionales. Ces sessions sont actuellement répertoriées dans le [Calendrier communautaire] (https://carpentries.org/community/events/). Si un responsable de sous-communauté souhaite y inscrire une session communautaire régionale et l'ajouter au calendrier communautaire de The Carpentries, il doit envoyer un e-mail à community@carpentries.org. S'ils souhaitent plutôt ajouter à Pretix la session à laquelle les utilisateurs peuvent s'inscrire pour y participer, ils peuvent ajouter les événements en utilisant [Calendly] (https://calendly.com/thecarpentries) pendant la période d'inscription, comme décrit dans la section [S'inscrire pour animer une session communautaire] (#step-by-step-guides). L'événement sera automatiquement ajouté au calendrier communautaire et à Pretix. Pour en savoir plus sur la façon de devenir un leader de sous-communauté, veuillez consulter la [section FAQ de ce manuel] (#faq).
 
-### Liste de contrôle pour l'organisation d'une session communautaire
+### Check-list pour l'organisation d'une session communautaire
 
 #### Utiliser Pretix pour les sessions communautaires
 
-À compter du premier trimestre 2026, The Carpentries utilisera Pretix pour permettre aux participants de s'inscrire aux sessions communautaires. Dans le cadre de l'engagement de The Carpentries en faveur d'un système consolidé de gestion des événements, nous transférons les inscriptions vers une plateforme sécurisée afin de protéger la confidentialité des participants, d'améliorer les flux de travail tels que l'affichage des fuseaux horaires et les notifications automatisées, et de renforcer notre capacité à suivre les données clés, notamment les taux d'inscription et de non-présentation, nous permettant de prendre des décisions plus éclairées concernant les travaux futurs. Auparavant, les hôtes des sessions communautaires remplissaient un formulaire d'hôte répertoriant les participants (et d'autres informations pendant la session communautaire). À partir du 1er janvier 2026, cela changera. Les hôtes de la communauté devront enregistrer les participants via Pretix. Les hôtes recevront un e-mail contenant des instructions pour configurer leur compte Pretix pour enregistrer les participants. Nous recommandons aux hôtes de sessions communautaires de se connecter au moins 1 à 2 semaines avant leur session pour résoudre le problème si nécessaire.  Si vous n'avez pas reçu cet e-mail une semaine avant votre session communautaire, veuillez envoyer un e-mail à community@carpentries.org
+À compter du premier trimestre 2026, The Carpentries utilisera Pretix pour permettre aux participants de s'inscrire aux sessions communautaires. Dans le cadre de l'engagement de The Carpentries en faveur d'un système consolidé de gestion des événements, nous transférons les inscriptions vers une plateforme sécurisée afin de protéger la confidentialité des participants, d'améliorer les flux de travail tels que l'affichage des fuseaux horaires et les notifications automatisées, ainsi que de renforcer notre capacité à suivre les données clés, notamment les taux d'inscription et de non-présentation, nous permettant de prendre des décisions plus éclairées concernant les travaux futurs. Auparavant, les organisateurs des sessions communautaires remplissaient un formulaire répertoriant les participants (et d'autres informations pendant la session communautaire). Cela va changer à partir du 1er janvier 2026. Les organisateurs de la communauté devront enregistrer les participants via Pretix. Les organisateurs recevront un e-mail contenant des instructions afin de configurer leur compte Pretix pour enregistrer les participants. Nous recommandons aux organisateurs de sessions communautaires de se connecter au moins une à deux semaines avant leur session pour résoudre tout problème si nécessaire.  Si vous n'avez pas reçu cet e-mail une semaine avant votre session communautaire, veuillez écrire à community@carpentries.org
 
 Le lien public pour s'inscrire aux sessions communautaires est <https://pretix.carpentries.org/community-events/community-sessions>
 
@@ -103,18 +103,18 @@ Le lien public pour s'inscrire aux sessions communautaires est <https://pretix.c
 
 ##### Modifications apportées au processus d'inscription
 
-Au lieu d'utiliser l'Etherpad comme nous l'avons fait jusqu'à présent, nous utiliserons Pretix pour les sessions communautaires à partir du premier trimestre 2026 pour les inscriptions des participants (<https://pretix.carpentries.org/community-events/>).  Les participants inscrits recevront un e-mail immédiatement après leur inscription et un rappel deux jours avant la session. Les hôtes des sessions communautaires recevront des notifications Calendly (cela ne changera pas).
+Au lieu d'utiliser l'Etherpad comme nous le faisions jusqu'à présent, nous utiliserons Pretix pour les sessions communautaires à partir du premier trimestre 2026 pour les inscriptions des participants (<https://pretix.carpentries.org/community-events/>).  Les participants inscrits recevront un e-mail immédiatement après leur inscription et un rappel deux jours avant la session. Les organisateurs des sessions communautaires recevront des notifications Calendly (cela ne changera pas).
 
-Le [Etherpad] (https://pad.carpentries.org/community-sessions-2026) ne listera pas tous les événements. Au lieu de cela, il affichera simplement des informations standard/générales qui s'appliquent à chaque session. Veuillez en faire une copie et compléter les informations pour votre session communautaire.
+L'[Etherpad] (https://pad.carpentries.org/community-sessions-2026) ne listera pas tous les événements. À la place, il affichera simplement des informations standard/générales qui s'appliquent à chaque session. Veuillez en faire une copie et compléter les informations pour votre session communautaire.
 
-##### [Veuillez recopier entre les lignes]
+##### [Veuillez copier entre les lignes]
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-[ENTREZ LE TITRE ET LA DESCRIPTION DE LA SESSION COMMUNAUTAIRE]
+[SAISISSEZ LE TITRE ET LA DESCRIPTION DE LA SESSION COMMUNAUTAIRE]
 [Date de la session communautaire]
 
-##### Les participants doivent inscrire leurs noms ci-dessous (assurez-vous d'être inscrits sur Pretix pour cet événement, sinon, vous pouvez toujours le faire maintenant - <https://pretix.carpentries.org/community-events/community-sessions/>) :
+##### Les participants doivent noter leur nom ci-dessous (assurez-vous d'être inscrit sur Pretix pour cet événement, sinon, vous pouvez toujours le faire maintenant, <https://pretix.carpentries.org/community-events/community-sessions/>) :
 
 -
 -
@@ -139,23 +139,23 @@ Le [Etherpad] (https://pad.carpentries.org/community-sessions-2026) ne listera p
 -
 
 Nous aimerions connaître votre opinion sur la session communautaire d'aujourd'hui.
-Si vous souhaitez partager vos commentaires, n'hésitez pas à remplir notre court formulaire de commentaires sur les sessions communautaires (<https://forms.gle/yyPqEjRNJM17BWj27>). Vos commentaires nous aident à améliorer et à mieux soutenir notre communauté.
+Si vous souhaitez partager vos commentaires, n'hésitez pas à remplir notre court formulaire sur les sessions communautaires (<https://forms.gle/yyPqEjRNJM17BWj27>). Vos commentaires nous aident à améliorer et à mieux soutenir notre communauté.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 Consultez le calendrier et inscrivez-vous ici :  <https://pretix.carpentries.org/community-events/community-sessions/>
 
-Modèle d'ordre du jour pour l'hôte de la session communautaire (il sera mis à jour avant chaque session par l'hôte de la session communautaire).
+Modèle d'ordre du jour pour l'organisateur de la session communautaire (il sera mis à jour avant chaque session par l'organisateur de la session communautaire).
 
-#### Animateur de la session communautaire pour vérifier l'inscription
+#### L'organisateur de la session communautaire doit vérifier l'inscription
 
-L'hôte de la session communautaire peut vérifier l'inscription à sa session à tout moment. Cliquez ici pour vous inscrire (vous devez être connecté à Pretix) : <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>
+L'organisateur de la session communautaire peut vérifier l'inscription à sa session à tout moment. Cliquez ici pour voir l'inscription (vous devez être connecté à Pretix) : <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>
 
-##### Annulation de la session
+##### Annuler la session
 
-Vous pouvez également choisir d'annuler une discussion si personne ne s'est inscrit deux jours avant la session. Veuillez contacter [community@carpentries.org] (mailto:community@carpentries.org) pour les informer de l'annulation. Ils mettront à jour le calendrier communautaire et supprimeront la session de Pretix.
+Vous pouvez également choisir d'annuler une discussion si personne ne s'est inscrit deux jours avant la session. Veuillez contacter [community@carpentries.org] (mailto:community@carpentries.org) pour les informer de l'annulation. Ils mettront à jour le calendrier communautaire et supprimeront la session sur Pretix.
 
-Si les participants se sont inscrits mais que les hôtes des sessions communautaires doivent annuler, veuillez contacter [community@carpentries.org] (mailto:community@carpentries.org).
+Si des participants se sont inscrits mais que les organisateurs des sessions communautaires doivent annuler, veuillez contacter [community@carpentries.org] (mailto:community@carpentries.org).
 
 #### Configuration et responsabilités avant la session
 
