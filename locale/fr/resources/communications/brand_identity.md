@@ -1,21 +1,21 @@
-# Identité de marque
+# Identité de la marque
 
-## Couleurs de la marque Carpentries
+## Couleurs de la marque The Carpentries
 
 ### Couleurs principales de la marque
 
-<p style="color:#383838;"><span style="font-size:50px;">&#9733;</span>Noir : #383838 ou RGB (56, 56, 56).</p>
+<p style="color:#383838;"><span style="font-size:50px;">&#9733;</span>Noir : #383838 ou RVB (56, 56, 56).</p>
 
-<p style="color:#001483;"><span style="font-size:50px;">&#9733;</span>Minuit : #001483 ou RGB (0, 20, 131,).</p>
+<p style="color:#001483;"><span style="font-size:50px;">&#9733;</span>Midnight: #001483 ou RVB (0, 20, 131,).</p>
 
-<p style="color:#FF4955;"><span style="font-size:50px;">&#9733;</span>Fire : #FF4955 ou rgb (255, 73, 85).</p>
+<p style="color:#FF4955;"><span style="font-size:50px;">&#9733;</span>Fire : #FF4955 ou RVB (255, 73, 85).</p>
 
 <div style="background-color:#383838; margin-top: -15px; padding-top: 15px">
-<p style="color:#FFC700;"><span style="font-size:50px;">&#9733;</span>Doré : #FFC700 ou RGB (255, 199, 0).</p>
-<p style="color:#FFF7F1;"><span style="font-size:50px;">&#9733;</span>Buttercup : #FFF7F1 ou rgb (255, 247, 241).</p>
+<p style="color:#FFC700;"><span style="font-size:50px;">&#9733;</span>Doré : #FFC700 ou RVB (255, 199, 0).</p>
+<p style="color:#FFF7F1;"><span style="font-size:50px;">&#9733;</span>Buttercup : #FFF7F1 ou RVB (255, 247, 241).</p>
 </div>
 
-### Couleurs et nuances de menuiserie générale secondaire
+### Couleurs et nuances générales secondaires de The Carpentries
 
 <p style="color:#081457;"><span style="font-size:50px;">&#9733;</span>Menuiseries générales : #081457 ou rgb (8, 20, 87).</p>
 
