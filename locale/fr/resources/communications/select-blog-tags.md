@@ -1,12 +1,12 @@
-# Sélection de balises pour votre blog sur les menuiseries
+# Sélection de tags pour votre blog The Carpentries
 
-Lorsque vous rédigez ou collaborez à un article de blog pour [The Carpentries blog] (https://carpentries.org/blog/), veuillez sélectionner un article dans la liste présentée dans ce document.
+Lorsque vous rédigez ou collaborez à un article de blog pour [le blog The Carpentries] (https://carpentries.org/blog/), veuillez sélectionner un élément dans la liste présentée dans ce document.
 
-Chacune des balises de blog possède une définition qui vous permet de sélectionner les balises pertinentes pour votre publication.
+Chacun tag de blog a une définition qui vous permet de sélectionner les tags pertinents pour votre publication.
 
-En cas de doute sur les balises à joindre à votre publication, envoyez un e-mail à {{'[{}] (mailto:{}) '.format (community_email, community_email)}} et nous vous aiderons à en choisir une.
+En cas de doute sur les tags à ajouter à votre publication, envoyez un e-mail à {{'[{}] (mailto:{}) '.format (community_email, community_email)}} et nous vous aiderons à en choisir un.
 
-De plus, si vous pensez qu'il existe un tag qui correspond à votre message et qui ne figure pas dans la liste ci-dessous, veuillez nous contacter.
+De plus, si vous pensez qu'il existe un tag correspondant à votre publication qui ne figure pas dans la liste ci-dessous, veuillez nous contacter.
 
 <hr>
 
@@ -18,7 +18,7 @@ Pour les articles de blog liés au travail de The Carpentries sur l'accessibilit
 
 ### Afrique
 
-Pour les articles de blog liés au travail de Menuiseries en Afrique.
+Pour les articles de blog liés au travail de The Carpentries en Afrique.
 
 ### AMY
 
@@ -34,7 +34,7 @@ Efforts visant à analyser et à évaluer les commentaires sur les travaux de Th
 
 ### Australasie
 
-Pour les articles de blog relatifs au travail de Menuiseries en Australasie.
+Pour les articles de blog relatifs au travail de The Carpentries en Australasie.
 
 ### Conseil d'administration
 
@@ -44,81 +44,81 @@ Pour les articles de blog sur les mises à jour et les annonces du conseil d'adm
 
 À utiliser dans les articles de blog concernant des livres publiés directement ou écrits par des membres de la communauté The Carpentries.
 
-### L'équipe principale des charpenteries (auparavant, « l'équipe des charpenteries »)
+### L'équipe principale de The Carpentries (auparavant, « l'équipe de The Carpentries »)
 
 Pour les articles de blog liés à l'embauche et aux autres activités de l'équipe principale de The Carpentries.
 
-### Laboratoire de menuiserie
+### Carpentries Lab
 
-Décrire les annonces relatives au [Carpentries Lab] (https://carpentries-lab.org). Le laboratoire de menuiserie est un lieu de cours stables et de haute qualité. Il fournit un espace et des processus pour l'évaluation ouverte des leçons par les pairs, et héberge une collection de leçons révisées que les membres de la communauté The Carpentries peuvent enseigner dans leurs propres ateliers.
+Décrire les annonces relatives au [Carpentries Lab] (https://carpentries-lab.org). Le Carpentries Lab est un lieu offrant des cours stables et de haute qualité. Il fournit un espace et des processus pour l'évaluation ouverte des leçons par les pairs, et comprend une collection de leçons révisées que les membres de la communauté The Carpentries peuvent enseigner dans leurs propres ateliers.
 
-### Etabli de menuiserie
+### Carpentries Workbench
 
 Pour les articles de blog sur l'infrastructure pédagogique de The Carpentries, The Carpentries Workbench.
 
-### Menuiserie Con
+### CarpentryCon
 
-Pour les articles de blog relatifs à CarpentryCon, la conférence semestrielle The Carpentries.
+Pour les articles de blog relatifs à CarpentryCon, la conférence bisannuelle The Carpentries.
 
 ### CarpentryConnect
 
-Pour les articles de blog liés aux événements CarpentryConnect, aux événements locaux et régionaux organisés par des membres de la communauté.
+Pour les articles de blog liés aux événements CarpentryConnect, des événements locaux et régionaux organisés par des membres de la communauté.
 
 ### CLDT
 
-Pour des articles de blog sur le programme de formation collaboratif pour le développement de leçons de The Carpentries.
+Pour des articles de blog sur le programme de formation collaboratif pour le développement de leçons (CLDT – Collaborative Lesson Development Training) de The Carpentries.
 
 ### Code de conduite
 
-Pour les articles de blog liés à l'accord politique qui guide la façon dont nous interagissons les uns avec les autres et avec la communauté dans son ensemble, et les articles de blog liés au comité du code de conduite qui applique cette politique.
+Pour les articles de blog liés à l'accord politique qui guide la façon dont nous interagissons les uns avec les autres et avec la communauté dans son ensemble, ainsi que les articles de blog liés au comité du code de conduite qui applique cette politique.
 
-### Télécommunications
+### Communications
 
 Pour les articles de blog liés aux activités et aux stratégies de communication de The Carpentries.
 
 ### Communauté
 
-Pour les articles de blog liés aux activités de l'ensemble de la communauté Carpentries.
+Pour les articles de blog liés aux activités de l'ensemble de la communauté The Carpentries.
 
 ### Discussions communautaires
 
-Pour les articles de blog liés aux discussions communautaires, y compris les discussions avant et après l'atelier, les sessions de discussion thématiques et les conversations sur les menuiseries.
+Pour les articles de blog liés aux discussions communautaires, y compris les discussions avant et après les ateliers, les sessions de discussion thématiques et les conversations sur The Carpentries.
 
 ### Valeurs fondamentales
 
-Pour les articles de blog qui élucident, promeuvent et/ou défendent [les valeurs fondamentales de The Carpentries] (https://carpentries.org/about-us/#our-values).
+Pour les articles de blog qui expliquent, promeuvent ou défendent [les valeurs fondamentales de The Carpentries] (https://carpentries.org/about-us/#our-values).
 
-### Curriculum
+### Programme éducatif
 
-Lié aux leçons incluses dans la pile de leçons officielle de The Carpentries, ou The Carpentries Incubator or Lab.
+Lié aux cours inclus dans la liste de cours officielle de The Carpentries, The Carpentries Incubator ou The Carpentries Lab.
 
 ### Élaboration de programmes
 
-Lié à la création de nouvelles leçons ou à des mises à jour importantes de leçons existantes.
+Lié à la création de nouveaux cours ou à des mises à jour importantes de cours existants.
 
-### Charpenterie de données
+### Data Carpentry
 
 Pour les articles liés au programme de cours Data Carpentry de The Carpentries.
 
 ### Équité et inclusion
 
-Ressources et informations concernant notre feuille de route en matière d'équité, d'inclusion et d'accessibilité. Notre objectif est d'attirer, de retenir et de promouvoir une communauté diversifiée de formateurs et d'apprenants et de favoriser un environnement d'inclusion.
+Ressources et informations concernant notre feuille de route en matière d'équité, d'inclusion et d'accessibilité. Notre objectif est d'attirer, de retenir et de promouvoir une communauté diversifiée d'instructeurs et d'apprenants , tout en favorisant un environnement inclusif.
 
 ### Évènements
 
-Lié à des événements sponsorisés ou connexes par Carpentries. Les exemples incluent CarpentryConnects, les symposiums en ligne et plus encore.
+Lié à des événements sponsorisés par The Carpentries ou en lien avec l'organisation. Les exemples incluent CarpentryConnects, les symposiums en ligne et bien plus.
 
 ### Feedback
 
-Commentaires sur l'expérience des formateurs, des hôtes, des partenaires et d'autres membres de la communauté.
+Commentaires sur l'expérience des instructeurs, organisateurs, partenaires et autres membres de la communauté.
 
-### Cadeau
+### Git
 
 Pour les articles de blog présentant des recommandations pédagogiques sur Git ou l'utilisation de Git dans nos activités, y compris des références à GitHub.
 
-### Glossaire
+### Glosario
 
-Pour les articles de blog relatifs à [Glosorio] (https://glosario.carpentries.org/), le glossaire multilingue des termes relatifs à la science des données de The Carpentries.
+Pour les articles de blog concernant [Glosorio] (https://glosario.carpentries.org/), le glossaire multilingue des termes relatifs à la science des données de The Carpentries.
 
 ### Gouvernance
 
@@ -126,9 +126,9 @@ Pour les articles de blog relatifs à la gouvernance organisationnelle, y compri
 
 ### Subventions
 
-Annonces de subventions pour financer les activités de menuiserie.
+Annonces de subventions pour financer des activités de The Carpentries.
 
-### Stickies verts
+### Stickers verts
 
 Articles de blog liés à des commentaires positifs de la communauté ou pour la communauté.
 
@@ -136,33 +136,33 @@ Articles de blog liés à des commentaires positifs de la communauté ou pour la
 
 Pour les articles de blog visant à montrer votre appréciation pour les activités ou les membres de la communauté.
 
-### Menuiserie HPC
+### HPC Carpentry
 
-Pour les articles liés au programme de cours de menuiserie HPC de The Carpentries.
+Pour les articles liés au programme de cours HPC Carpentry de The Carpentries.
 
-### Incubateur
+### Incubator
 
-Décrire les annonces relatives à l' [Incubateur de menuiseries] (https://carpentries-incubator.org/). L'incubateur de charpenteries est un lieu de développement collaboratif de nouvelles leçons. Il offre à la communauté The Carpentries un espace pour créer, tester et améliorer des leçons, en s'appuyant sur des systèmes, des processus et des formations visant à favoriser la collaboration et à promouvoir une meilleure conception des leçons.
+Décrire les annonces relatives à [Carpentries Incubator] (https://carpentries-incubator.org/). L'incubateur de The Carpentries est un lieu de développement collaboratif de nouveaux cours. Il offre à la communauté The Carpentries un espace pour créer, tester et améliorer des cours, en s'appuyant sur des systèmes, des processus et des formations visant à favoriser la collaboration et à promouvoir une meilleure conception des cours.
 
-### Infrastructures
+### Infrastructure
 
-Articles de blog relatifs à la technologie que nous utilisons pour soutenir nos opérations (par exemple AMY, Helpscout, etc.).
+Articles de blog relatifs à la technologie que nous utilisons pour soutenir nos opérations (p. ex. AMY, Helpscout, etc.).
 
 ### Développement des instructeurs
 
 À propos des activités organisées ou promues par le comité de développement des instructeurs.
 
-### Formateurs et formateurs
+### Formateurs d'instructeurs
 
-Pour les articles de blog sur les formateurs d'instructeurs (la communauté de personnes qui enseignent la formation des instructeurs) ou sur le fait que les formateurs d'instructeurs constituent le public principal.
+Pour les articles de blog sur les formateurs d'instructeurs (la communauté de personnes qui enseignent la formation des instructeurs) ou ayant des formateurs d'instructeurs constituent comme public principal.
 
-### Comité de direction des formateurs
+### Comité de direction des formateurs d'instructeurs
 
-Pour les articles de blog sur le Comité de direction des formateurs d'instructeurs (ITLC), un comité qui fournit un soutien à la gouvernance et au développement des formateurs d'instructeurs, et qui prend des décisions au nom de cette communauté qui affectent le programme de formation des instructeurs et les politiques connexes.
+Pour les articles de blog sur le comité de direction des formateurs d'instructeurs (ITLC – Instructor Trainers Leadership Committee), un comité qui fournit un soutien à la gouvernance et au développement des formateurs d'instructeurs, et qui prend des décisions au nom de cette communauté affectant le programme de formation des instructeurs et les politiques connexes.
 
 ### Instructeurs
 
-Pour les articles de blog sur les formateurs (la communauté de personnes qui enseignent des ateliers de menuiserie logicielle, de menuiserie de données ou de menuiserie de bibliothèque) ou ayant des formateurs comme public principal.
+Pour les articles de blog sur les instructeurs (la communauté de personnes qui enseignent des ateliers Software Carpentry, Data Carpentry ou Library Carpentry) ou ayant des instructeurs comme public principal.
 
 ### Internationalisation
 
@@ -170,7 +170,7 @@ Pour les articles de blog mettant en avant les efforts de traduction et d'intern
 
 ### Japon
 
-Pour les articles de blog relatifs au travail de Menuiseries au Japon.
+Pour les articles de blog relatifs au travail de The Carpentries au Japon.
 
 ### Jekyll
 
@@ -178,13 +178,13 @@ Un générateur de site statique utilisé dans nos cours de 2016 à 2022.
 
 ### Amérique latine
 
-Pour les articles de blog liés au travail de Menuiseries en Amérique latine (Mexique, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombie, Venezuela, Équateur, Pérou, Bolivie, Brésil, Paraguay, Chili, Argentine, Uruguay, Cuba, Haïti, Porto Rico).
+Pour les articles de blog liés au travail de The Carpentries en Amérique latine (Mexique, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombie, Venezuela, Équateur, Pérou, Bolivie, Brésil, Paraguay, Chili, Argentine, Uruguay, Cuba, Haïti, Porto Rico).
 
-### Infrastructure de la leçon
+### Infrastructure des cours
 
-Pour les articles de blog relatifs à The Carpentries Lesson Infrastructure (par exemple, les mises à jour ou les modifications futures du style et des flux de travail), autres que le Carpentries Workbench. Cela intéresse en grande partie la communauté des mainteneurs, mais la communauté des instructeurs ne s'y intéresse que de façon marginale.
+Pour les articles de blog relatifs à l'infrastructure des cours de The Carpentries (par exemple, les mises à jour ou les modifications futures du style et des flux de travail), autres que Carpentries Workbench. Cela intéresse en grande partie la communauté des mainteneurs, mais la communauté des instructeurs peut s'y intéresser de façon marginale.
 
-### Leçons
+### Cours
 
 Lié au travail et au développement des leçons de menuiserie.
 
