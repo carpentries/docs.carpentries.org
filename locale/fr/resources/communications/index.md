@@ -15,19 +15,19 @@
 - [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
 - [LinkedIn] (https://www.linkedin.com/company/the-carpentries/)
 - [Blog](https://carpentries.org/blog/)
-- [Bulletin] (https://carpentries.org/about-us/newsletter/)
+- [Newsletter](https://carpentries.org/about-us/newsletter/)
 - [YouTube] (https://www.youtube.com/thecarpentries)
 
-## Réponse à la situation et communications
+## Réponse aux situations et communications
 
-- [Manuel de réponse à la situation et de communication de Carpentries] (https://docs.google.com/document/d/1X0wH75oScgVsfLVxTIwhAdW4WRivZfxSTDFxXUsexXw/)
+- [Manuel de réponse aux situations et de communication de The Carpentries] (https://docs.google.com/document/d/1X0wH75oScgVsfLVxTIwhAdW4WRivZfxSTDFxXUsexXw/)
 
 ## Styles, image de marque et logos
 
-- [Guide de style] (style-guide.md)
-- [Tags des articles du blog Carpentries] (select-blog-tags.md)
+- [Guide stylistique] (style-guide.md)
+- [Tags des articles du blog de The Carpentries] (select-blog-tags.md)
 - [Image de marque] (brand_identity.md)
-- [Logos de menuiserie] (logos.md)
+- [Logos de The Carpentries] (logos.md)
 
 ## Présentations
 
@@ -35,7 +35,7 @@
 
 ## Carpentries Commons et Zenodo
 
-- [Les charpenteries Commons] (https://github.com/carpentries/commons)
-- [Zénodo] (https://zenodo.org/communities/carpentries/records?q=&l=list&p=1&s=10&sort=newest)
+- [The Carpentries Commons](https://github.com/carpentries/commons)
+- [Zenodo](https://zenodo.org/communities/carpentries/records?q=&l=list&p=1&s=10&sort=newest)
 
 
