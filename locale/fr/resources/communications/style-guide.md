@@ -1,12 +1,12 @@
-# Le guide de style des menuiseries
+# Guide stylistique The Carpentries
 
-Ce guide vise à fournir un point de référence standard lorsque des questions se posent concernant le style de The Carpentries : comment nous préférerions que les gens nous référencent, comment rendre au mieux les dates et heures pour une communauté mondiale, quand utiliser quelle majuscule, et d'autres questions de style.
+Ce guide vise à fournir un point de référence standard lorsque des questions se posent concernant le style de The Carpentries : comment nous préférons que les gens nous référencent, comment rendre au mieux les dates et heures pour une communauté mondiale, quand utiliser quelle majuscule et d'autres questions de style.
 
-Le guide doit être suivi lors de la préparation du matériel à diffuser au sein de la communauté The Carpentries et sur ses plateformes publiques (sites Web, réseaux sociaux, référentiels, etc.). Documents sur The Carpentries qui sont soumis à d'autres forums (conférences, revues, demandes de subventions, blogs et sites Web d'autres organisations, etc.) n'ont pas besoin de suivre ce guide de style, avant ou à moins qu'ils ne soient également publiés et diffusés sur l'une des plateformes publiques de The Carpentries.
+Le guide doit être suivi lors de la préparation de matériel qui sera diffusé au sein de la communauté The Carpentries et sur ses plateformes publiques (sites Web, réseaux sociaux, référentiels, etc.). Les documents concernant The Carpentries qui sont soumis à d'autres forums (conférences, revues, demandes de subventions, blogs et sites Web d'autres organisations, etc.) n'ont pas besoin de suivre ce guide srylistique, avant ou à moins qu'ils ne soient également publiés et diffusés sur l'une des plateformes publiques de The Carpentries.
 
-Les contributeurs et les responsables des leçons doivent aspirer à adhérer à ce style, mais peuvent donner la priorité à la mise à disposition du matériel plutôt qu'à des considérations de style. Pour garantir que le guide de style soit aussi largement applicable que possible, l'orthographe et l'utilisation de l'anglais britannique seront utilisées au profit de l'orthographe américaine.
+Les contributeurs et les mainteneurs des cours doivent aspirer à adhérer à ce style, mais peuvent donner la priorité à la mise à disposition du matériel plutôt qu'à des considérations de style. Pour garantir que le guide de style soit aussi largement applicable que possible, l'orthographe et l'utilisation de l'anglais britannique seront utilisées au profit de l'orthographe américaine.
 
-Veuillez noter, comme indiqué dans [section C] (#c) : The Carpentries, bien que cela sonne au pluriel, est une entité singulière. Par conséquent, lorsque vous faites référence à The Carpentries, les verbes doivent également être au singulier, _par exemple, _ 'The Carpentries is …'. Le titre complet et correct de l'organisation fusionnée est The Carpentries. Cependant, une terminologie telle que « Un atelier de menuiserie … » est acceptable.
+Veuillez noter, comme indiqué dans la [section C] (#c) : The Carpentries, bien que semblant être au pluriel, est une entité au singulier. Par conséquent, lorsque vous faites référence à The Carpentries, les verbes doivent également être au singulier, _par exemple, « The Carpentries est... ». Le titre complet et correct de l'organisation fusionnée est The Carpentries. Cependant, une terminologie telle que « Un atelier Carpentries… » est acceptable.
 
 ---
 
