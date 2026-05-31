@@ -10,43 +10,43 @@ Veuillez noter, comme indiqué dans la [section C] (#c) : The Carpentries, bien
 
 ---
 
-## UNE
+## A
 
-### abréviations et acronymes
+### Abréviations et acronymes
 
-Utilisez généralement toutes les majuscules pour les sigles, par exemple, _ NSF, CEO, BIDS. Lorsque vous écrivez à propos d'une organisation ou d'un événement dans le texte, indiquez l'acronyme entre parenthèses lors de la première utilisation, et utilisez l'acronyme pour faire référence à l'organisation ou à l'événement à partir de ce moment. Par exemple, « Elle était présidente de la National Science Foundation (NSF)... La NSF … '
+Utilisez généralement toutes les majuscules pour les sigles, par exemple, NSF, CEO, BIDS. Lorsque vous écrivez à propos d'une organisation ou d'un événement dans le texte, indiquez l'acronyme entre parenthèses lors de la première utilisation, puis utilisez l'acronyme pour faire référence à l'organisation ou à l'événement à partir de ce moment. Par exemple, « Elle était présidente de la National Science Foundation (NSF)... La NSF… »
 
 Si une organisation n'est mentionnée qu'une seule fois dans un texte, par exemple dans un article de blog, il n'est pas nécessaire de fournir son acronyme. N'utilisez pas d'acronymes sans les épeler au préalable, car les acronymes spécifiques à un pays peuvent ne pas être familiers aux membres de notre communauté.
 
-### accents
+### Accents
 
-À utiliser sur des mots non anglais lorsqu'ils sont connus. Les noms des personnes, quelle que soit la langue, doivent également porter les accents appropriés lorsqu'ils sont connus, _par exemple, _ « Arsène Lupin était un voleur de bijoux qui n'est jamais arrivé à Bogotá ou à Angoulême ».
+À utiliser sur des mots non anglais lorsqu'ils sont connus. Les noms des personnes, quelle que soit la langue, doivent également porter les accents appropriés lorsqu'ils sont connus, par exemple, « Arsène Lupin était un voleur de bijoux qui n'est jamais arrivé à Bogotá ou à Angoulême », sera en anglais : « Arsène Lupin was a jewel thief who never got to Bogotá or Angoulême ».
 
-### adverbes
+### Adverbes
 
-Les tirets ne sont pas nécessaires après les adverbes se terminant par _-ly_, _e.g._ un sujet très discuté, une carrière en constante évolution, un programme récemment publié, etc. Des traits d'union sont nécessaires avec des adverbes courts et courants, par exemple, _ un suiveur toujours fidèle, une écriture mal écrite, un discours fréquemment cité.
+En anglais, les tirets ne sont pas nécessaires après les adverbes se terminant par -ly, p. ex. « a hotly argued topic, a constantly evolving career, a recently published program, etc. » (un sujet très discuté, une carrière en constante évolution, un programme récemment publié, etc.). Des traits d'union sont nécessaires avec des adverbes courts et courants, par exemple,  « ever-faithful follower, ill-written script, much-quoted speech » (un adepte toujours fidèle, une écriture mal écrite, un discours fréquemment cité).
 
-### alphabétisation
+### Alphabétisation
 
 Les programmes de cours de The Carpentries, lorsqu'ils sont répertoriés ensemble, doivent être classés par ordre alphabétique : Data Carpentry, HPC Carpentry, Library Carpentry et Software Carpentry.
 
-### texte alternatif
+### Texte alternatif
 
-Faites en sorte que le texte alternatif soit aussi court que possible, mais fournissez autant de détails que nécessaire pour que le lecteur comprenne le contenu de l'image. Un texte alternatif plus détaillé peut être nécessaire pour [images complexes] (https://webaim.org/techniques/alttext/#complex). À moins que les détails de l'image ne soient inclus dans le corps du texte, le texte alternatif de l'image complexe peut être assez court. Fournissez des liens vers les données si l'image est une présentation d'un ensemble de données, afin de permettre au lecteur d'explorer les données lui-même.
+Faites en sorte que le texte alternatif soit aussi court que possible, mais fournissez autant de détails que nécessaire pour que le lecteur comprenne le contenu de l'image. Un texte alternatif plus détaillé peut être nécessaire pour des [images complexes] (https://webaim.org/techniques/alttext/#complex)). À moins que les détails de l'image ne soient inclus dans le corps du texte, alors, le texte alternatif de l'image complexe peut être assez court. Fournissez des liens vers les données si l'image est une présentation d'un ensemble de données, afin de permettre au lecteur d'explorer les données lui-même.
 
-### esperluète
+### Esperluète
 
-Dans le texte et les articles de blog, utilisez l'esperluette dans le nom des organisations lorsque celles-ci le font, par exemple, _ P&O, AT&T.
+Dans le texte et les articles de blog, utilisez l'esperluette dans le nom des organisations lorsque celles-ci le font, par exemple, P&O, AT&T.
 
-### apostrophes
+### Apostrophes
 
-Indique soit une ou plusieurs lettres manquantes (nous ne pouvons pas, nous ne l'aurions pas fait), soit une lettre possessive (l'écriture de Siobhan). L'utilisation correcte de l'apostrophe est importante, car un mauvais placement ou une omission peut modifier le sens d'une phrase. Les apostrophes ne sont pas nécessaires dans les dates. La forme préférée est celle des années 1990, pas celle des années 1990 ; celle des années 70, pas celle des années 70.
+Indique soit une ou plusieurs lettres manquantes (can’t, we’d, hadn’t), soit un possessif (Siobhan’s script). L'utilisation correcte de l'apostrophe est importante, car un mauvais placement ou une omission peut modifier le sens d'une phrase. Les apostrophes ne sont pas nécessaires dans les dates. La forme préférée est celle des années 1990, pas celle des années 1990 ; celle des années 70, pas celle des années 70.
 
 ---
 
 ## B
 
-### puces
+### Puces
 
 Idéalement, il faudrait inclure un point après chacun d'eux s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
 
