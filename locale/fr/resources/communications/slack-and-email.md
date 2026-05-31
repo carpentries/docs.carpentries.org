@@ -1,8 +1,8 @@
 # Slack et listes de diffusion
 
-## Guide de démarrage rapide de Topicbox
+## Guide de démarrage rapide Topicbox
 
-The Carpentries utilise Topicbox pour gérer ses listes d'e-mails. Consultez le {{"[Topicbox Guide] ({}) » .format (topicbox_guide)}} pour plus d'informations.
+The Carpentries utilise Topicbox pour gérer ses listes d'e-mails. Consultez le {{"[guide Topicbox] ({}) » .format (topicbox_guide)}} pour plus d'informations.
 
 ### Listes de diffusion des communautés régionales
 
@@ -41,19 +41,19 @@ Toutes les [listes de diffusion pour The Carpentries] (https://carpentries.topic
 
 ### États-Unis
 
-- [Région de la baie] (https://carpentries.topicbox.com/groups/local-bayarea)
+- [Bay Area](https://carpentries.topicbox.com/groups/local-bayarea)
 - [Boston] (https://carpentries.topicbox.com/groups/local-boston)
 - [Colorado] (https://carpentries.topicbox.com/groups/local-colorado)
 - [Davis, Californie] (https://carpentries.topicbox.com/groups/local-davis)
 - [Lansing, Michigan] (https://carpentries.topicbox.com/groups/local-lansing)
 - [Merced, Californie] (https://carpentries.topicbox.com/groups/local-merced)
 - [Seattle, Washington] (https://carpentries.topicbox.com/groups/local-seattle)
-- [Menuiserie de bibliothèque du sud-est des États-Unis] (https://carpentries.topicbox.com/groups/local-libcarpentry-southeast-u)
+- [Library Carpentry du sud-est des États-Unis] (https://carpentries.topicbox.com/groups/local-libcarpentry-southeast-u)
 - [Californie du Sud] (https://carpentries.topicbox.com/groups/local-socal)
 - [Sud-ouest des États-Unis] (https://carpentries.topicbox.com/groups/local-swusa)
 - [Université de Californie] (https://carpentries.topicbox.com/groups/local-uc)
 - [Région de Washington DC] (https://carpentries.topicbox.com/groups/local-dc)
 
-## Guide de démarrage rapide de Slack
+## Guide de démarrage rapide pour Slack
 
-The Carpentries utilise Topicbox pour permettre aux membres de poser des questions, de partager des ressources, des opportunités et plus encore. Consultez le {{"[Slack Guide] ({}) » .format (slack_guide)}} pour plus d'informations.
+The Carpentries utilise Topicbox pour permettre aux membres de poser des questions, de partager des ressources ainsi que des opportunités et bien plus. Consultez le {{"[guide Slack] ({}) » .format (slack_guide)}} pour plus d'informations.
