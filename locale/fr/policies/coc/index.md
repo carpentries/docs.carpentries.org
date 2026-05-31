@@ -1,42 +1,42 @@
-# Le code de conduite des charpenteries
+# Code de conduite de The Carpentries
 
-## Code de conduite (vue récapitulative)
+## Code de conduite (résumé)
 
-Vous trouverez ci-dessous un résumé du code de conduite de The Carpentries. Poursuivez votre lecture pour une [description plus détaillée du CoC] (#code-of-conduct-detailed-view).
+Vous trouverez ci-dessous un résumé du code de conduite de The Carpentries. Poursuivez votre lecture pour une [description plus détaillée du CdC] (#code-of-conduct-detailed-view).
 
-Pour plus d'informations, veuillez consulter notre page :
+Pour plus d'informations, veuillez consulter les pages suivantes :
 
-- [Directives de réponse aux incidents] (incident-response.md)
-- [Directives relatives au signalement des incidents] (incident-reporting.md)
+- [Nos directives de réponse aux incidents] (incident-response.md)
+- [Directives de signalement des incidents] (incident-reporting.md)
 - [Procédure de réponse aux incidents] (enforcement-guidelines.md)
-- [Directives dites de suspension] (termed-suspension.md)
+- [Directives de suspension temporaire] (termed-suspension.md)
 
-Nous nous engageons à fournir un environnement accueillant et favorable à toutes les personnes, quelles que soient leurs origines ou leur identité. En participant à cette communauté, les participants acceptent de respecter le Code de conduite de The Carpentries et acceptent les procédures par lesquelles tout incident lié au Code de conduite est résolu. Toute forme de comportement visant à exclure, à intimider ou à provoquer de l'inconfort constitue une violation du Code de conduite. Afin de favoriser un environnement d'apprentissage positif et professionnel, nous encourageons les types de comportements suivants sur toutes les plateformes et tous les événements :
+Nous nous engageons à fournir un environnement accueillant et favorable à toutes les personnes, quelles que soient leurs origines ou leur identité. En prenant part à cette communauté, les participants acceptent de respecter le Code de conduite de The Carpentries et acceptent les procédures par lesquelles tout incident lié au Code de conduite est résolu. Toute forme de comportement visant à exclure, à intimider ou à provoquer de l'inconfort constitue une violation du Code de conduite. Afin de favoriser un environnement d'apprentissage positif et professionnel, nous encourageons les comportements suivants sur toutes les plateformes et tous les événements :
 
-- Utilisez un langage accueillant et inclusif
-- Soyez respectueux des différents points de vue et expériences
-- Acceptez gracieusement les critiques constructives
-- Concentrez-vous sur ce qui est le mieux pour la communauté
-- Faites preuve de courtoisie et de respect envers les autres membres de la communauté
+- Utiliser un langage accueillant et inclusif
+- Respecter les différents points de vue et expériences
+- Accepter gracieusement les critiques constructives
+- Se concentrer sur ce qui est le mieux pour la communauté
+- Faire preuve de courtoisie et de respect envers les autres membres de la communauté
 
-Si vous pensez que quelqu'un enfreint le code de conduite, nous vous demandons de le signaler au comité du code de conduite de The Carpentries en \[remplissant ce formulaire] \[formulaire de signalement], qui prendra les mesures appropriées pour remédier à la situation.
+Si vous pensez que quelqu'un enfreint le code de conduite, nous vous demandons de le signaler au comité du code de conduite de The Carpentries en \[remplissant ce formulaire] \[formulaire de signalement], qui prendra les mesures appropriées afin de remédier à la situation.
 
 ## Code de conduite (vue détaillée)
 
-### Partie 1 Présentation
+### Partie 1. Présentation
 
-The Carpentries est un projet mené par la communauté. Nous valorisons l'implication de tous les membres de la communauté. Nous nous engageons à créer un lieu convivial et respectueux pour apprendre, enseigner et contribuer. Tous les participants à nos événements et à nos communications sont tenus de faire preuve de respect et de courtoisie envers les autres.
+The Carpentries est un projet mené par la communauté. Nous valorisons l'implication de tous les membres de la communauté. Nous nous engageons à créer un lieu convivial et respectueux pour apprendre, enseigner et contribuer. Tous les participants à nos événements et communications sont tenus de faire preuve de respect et de courtoisie envers les autres.
 
-Pour clarifier ce qui est attendu, toutes les personnes participant aux activités de The Carpentries sont tenues de se conformer au Code de conduite. Ce code de conduite s'applique à tous les espaces gérés par The Carpentries, y compris, mais sans s'y limiter, les ateliers, les listes de diffusion et les forums en ligne tels que GitHub, Slack et les réseaux sociaux (par exemple, LinkedIn, Bluesky, Mastodon). Les animateurs des ateliers sont censés contribuer à l'application du Code de conduite.
+Pour clarifier ce qui est attendu, toutes les personnes participant aux activités de The Carpentries sont tenues de respecter notre code de conduite. Ce code de conduite s'applique à tous les espaces gérés par The Carpentries, y compris, mais sans s'y limiter, les ateliers, les listes de diffusion et les forums en ligne, tels que GitHub, Slack et les réseaux sociaux (par exemple, LinkedIn, Bluesky, Mastodon). Il est attendu des organisateurs d'ateliers de contribuer à l'application du code de conduite.
 
-Le Carpentries [Comité du code de conduite] (https://carpentries.org/coc-ctte/) est chargé de faire appliquer le code de conduite. Il peut être contacté en envoyant un e-mail à [coc@carpentries.org] (mailto:coc@carpentries.org).
-Tous les rapports seront examinés par le Comité du code de conduite et resteront confidentiels.
+Le [comité du code de conduite] (https://carpentries.org/coc-ctte/) de The Carpentries est chargé de faire appliquer le code. Il peut être contacté en envoyant un e-mail à [coc@carpentries.org] (mailto:coc@carpentries.org).
+Tous les rapports seront examinés par le comité du code de conduite et resteront confidentiels.
 
-### Deuxième partie. Le code de conduite des charpenteries
+### Partie 2. Le code de conduite de The Carpentries
 
-The Carpentries s'engage à fournir un environnement accueillant et favorable à toutes les personnes, quelles que soient leurs origines ou leur identité. C'est pourquoi nous ne tolérons pas les comportements irrespectueux envers nos professeurs ou nos apprenants ou qui excluent, intimident ou gênent les autres. Nous ne tolérons pas la discrimination ou le harcèlement sur la base de caractéristiques telles que l'identité et l'expression de genre, l'orientation sexuelle, le handicap, l'apparence physique, la taille, la citoyenneté, la nationalité, l'origine ethnique ou sociale, la grossesse, le statut familial, le statut d'ancien combattant, les informations génétiques, la religion ou les convictions (ou l'absence de celles-ci), l'appartenance à une minorité nationale, la fortune, l'âge, l'éducation, le statut socio-économique, les choix techniques et le niveau d'expérience.
+The Carpentries s'engage à fournir un environnement accueillant et favorable à toutes les personnes, quelles que soient leurs origines ou leur identité. C'est pourquoi nous ne tolérons aucun comportement irrespectueux envers nos professeurs ou nos apprenants, ou qui excluent, intimident ou gênent les autres. Nous ne tolérons pas la discrimination ou le harcèlement sur la base de caractéristiques telles que l'identité et l'expression de genre, l'orientation sexuelle, le handicap, l'apparence physique, la taille, la citoyenneté, la nationalité, l'origine ethnique ou sociale, la grossesse, le statut familial, le statut d'ancien combattant, les informations génétiques, la religion ou les convictions (ou leur absence), l'appartenance à une minorité nationale, le patrimoine, l'âge, l'éducation, le statut socio-économique, les choix techniques et le niveau d'expérience.
 
-Toute personne participant aux activités de Menuiserie est tenue de se conformer à ce code de conduite. Elle s'applique à tous les espaces gérés par The Carpentries, y compris, mais sans s'y limiter, les ateliers, les listes de diffusion et les forums en ligne tels que GitHub, Slack et les réseaux sociaux (par exemple, LinkedIn, Bluesky, Mastodon). Les animateurs des ateliers sont censés contribuer à l'application du Code de conduite. En participant, les participants indiquent qu'ils acceptent les procédures par lesquelles The Carpentries résout tout incident lié au code de conduite, qui peuvent inclure le stockage et le traitement de leurs informations personnelles.
+Toute personne participant aux activités de The Carpentries est tenue de se conformer à ce code de conduite. Il s'applique à tous les espaces gérés par The Carpentries, y compris, mais sans s'y limiter, les ateliers, les listes de diffusion et les forums en ligne, tels que GitHub, Slack et les réseaux sociaux (par exemple, LinkedIn, Bluesky, Mastodon). Il est attendu des organisateurs d'ateliers de contribuer à l'application du code de conduite. En participant, les participants indiquent accepter les procédures par lesquelles The Carpentries résout tout incident lié au code de conduite, qui peuvent inclure le stockage et le traitement de leurs informations personnelles.
 
 #### Partie 2.1 Comportement attendu
 
