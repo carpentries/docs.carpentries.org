@@ -16,19 +16,19 @@ Veuillez suivre le [guide stylistique de The Carpentries] (https://docs.carpentr
 - Si votre communication inclut des vidéos, fournissez des transcriptions et des sous-titres exacts pour le contenu.
 - Assurez-vous que les liens et les boutons sont clairement marqués et faciles à distinguer. Évitez d'utiliser des phrases génériques telles que « cliquez ici » au lieu d'un texte descriptif.
 
-Quand vous définissez une terminologie populaire auprès de la communauté The Carpentries, veuillez utiliser les définitions figurant dans notre {{'[glossaire communautaire des termes] ({}) '.format (glossary)}}.
+Quand vous définissez une terminologie populaire auprès de la communauté The Carpentries, veuillez utiliser les définitions figurant dans notre {{'[glossaire communautaire des termes] ({})'.format (glossary)}}.
 
 ### Rédaction d'articles de blog par un seul auteur
 
 Vous avez une idée que vous aimeriez développer et publier sous forme d'article de blog ?
 
-- Envoyez votre idée par e-mail à [community@carpentries.org] (mailto:community@carpentries.org), et un des membres de l'équipe principale en discutera avec vous, puis vous guidera pour la soumettre à notre blog.
+- Envoyez votre idée par e-mail à [community@carpentries.org] (mailto:community@carpentries.org), et un membre de l'équipe principale en discutera avec vous, puis vous guidera pour la soumettre à notre blog.
 
 ### Rédaction d'articles de blog collaboratifs
 
 Vous avez envie de collaborer avec un autre membre de la communauté pour co-écrire et publier un article sur le blog The Carpentries ?
 
-- Rejoignez The Carpentries Slack et partagez votre idée de billet de blog sur la chaîne \ #blog -post-ideas pour lancer une discussion. Invitez d'autres membres de la communauté à collaborer avec vous. (_**préféré**_)
+- Rejoignez The Carpentries Slack et partagez votre idée de billet de blog sur la chaîne \#blog -post-ideas pour lancer une discussion. Invitez d'autres membres de la communauté à collaborer avec vous. (_**préféré**_)
 - Envoyez votre idée par e-mail à [community@carpentries.org] (mailto:community@carpentries.org) et un membre de l'équipe principale amplifiera le concept au sein de la communauté afin que d'autres puissent vous contacter et collaborer avec vous. (_**facultatif**_)
 
 ## Partager une mise à jour de newsletter
