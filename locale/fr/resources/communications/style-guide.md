@@ -71,102 +71,102 @@ En anglais, la première lettre de chaque mot doit être majuscule, p. ex. Presi
 
 **Départements/ministères gouvernementaux** Chaque mot commence par une majuscule, p. ex. Department of Industry, Department of Health. Utilisez une minuscule quand vous ne faites pas référence à un département/ministère avec son nom complet. Par exemple : « Senator Carr first led the Department of Industry. The department is now led by…  » (Le Sénateur Carr a d'abord mené le Département de l'Industrie. Le département est maintenant dirigé par...).
 
-**agences gouvernementales, organismes publics, quangos** <br>
-Mettez-les en majuscules, _par exemple, _ Bureau du procureur du district, Commission des droits de l'homme, Université de Floride. Utilisez des minuscules lorsque vous ne faites pas référence à une organisation par son nom propre, _par exemple, _ 'Elle a travaillé pour la National Society of Coders. La société a été fondée … '
+**Agences gouvernementales, organismes publics, organismes semi-publics** <br>
+Utilisez des majuscules pour chaque mot, p. ex. District Attorney’s Office, Human Rights Commission, the University of Florida. Utilisez des minuscules lorsque vous ne faites pas référence à une organisation par son nom propre, p. ex. « She worked for the National Society of Coders. The society was founded… » (Elle a travaillé pour la Société Nationale des Codeurs. La société a été fondé par... ».
 
-**titres des leçons et noms des épisodes** <br>
-Les titres des leçons et les épisodes des leçons doivent être écrits en majuscules, c'est-à-dire que tous les principaux mots doivent être écrits en majuscules, _par exemple, _ Introduction aux données ; Organisation et gestion du projet pour la génomique.
+**Titres des leçons et noms des épisodes** <br>
+En anglais, les titres de cours et d'épisodes dans les cours doivent avoir une majuscule pour chaque mot principal, p. ex. Introduction to Data, Project Organisation and Management for Genomics (Introduction aux données, Organisation et gestion de projet pour la génomique).
 
-**noms des institutions** <br>
-Mettez-les en majuscules, par exemple, _ Fondation Gordon et Betty Moore, Smithsonian Institute, Nations Unies, Union européenne.
+**Nom des institutions** <br>
+Chaque mot commence par une majuscule, p. ex. Gordon and Betty Moore Foundation, Smithsonian Institute, the United Nations, the European Union.
 
-**rôles** <br>
-Les rôles au sein de The Carpentries sont toujours en majuscule. C'est pourquoi nous utilisons Instructor, Instructor Trainer, Maintainer et Curriculum Advisor. Les rôles d'assistant et d'hôte ne sont pas en majuscule car il ne s'agit pas de rôles officiels.
+**Rôles** <br>
+Les rôles au sein de The Carpentries sont toujours en majuscule en anglais. C'est pourquoi nous utilisons Instructor, Instructor Trainer, Maintainer et Curriculum Advisor. Les rôles d'assistant et d'organisateur ne sont pas en majuscule car il ne s'agit pas de rôles officiels.
 
-### Menuiseries
+### Carpentries
 
-The Carpentries, bien que cela sonne au pluriel, est une entité singulière. Par conséquent, lorsque vous faites référence à The Carpentries, les verbes doivent également être au singulier, _par exemple, _ 'The Carpentries is …'. Le titre complet et correct de l'organisation fusionnée est The Carpentries. Cependant, une terminologie telle que « Un atelier de menuiserie … » est acceptable.
+The Carpentries, bien que semblant être au pluriel, est au singulier. Par conséquent, lorsque vous faites référence à The Carpentries, les verbes doivent également être au singulier, p. ex. The Carpentries is... Le titre complet et correct de l'organisation fusionnée est The Carpentries. Cependant, une terminologie telle que « A Carpentries workshop… » (Un atelier Carpentries…) est acceptable.
 
-### couleur
+### Couleur
 
-Utilisez un contraste adéquat pour garantir la meilleure lisibilité. La couleur ne doit pas être le seul moyen de transmettre des informations (indiquer une action, provoquer une réponse ou distinguer un élément visuel). Évitez d'utiliser les combinaisons de couleurs rouge/vert, vert/marron, vert/bleu, bleu/gris. Utilisez des formes, des motifs, des textures et des étiquettes pour mieux distinguer les différences. [Vérificateur de contraste de WebAIM] (https://webaim.org/resources/contrastchecker).
+Utilisez un contraste adéquat pour garantir la meilleure lisibilité possible. La couleur ne doit pas être le seul moyen de transmettre des informations (indiquer une action, provoquer une réponse ou distinguer un élément visuel). Évitez d'utiliser les combinaisons de couleurs rouge/vert, vert/marron, vert/bleu, bleu/gris. Utilisez des formes, des motifs, des textures et des étiquettes pour mieux distinguer les différences. [Vérificateur de contraste de WebAIM] (https://webaim.org/resources/contrastchecker).
 
-### des virgules
+### Virgules
 
-Utilisez des virgules pour séparer les clauses des phrases longues. « Si les juges réfléchissaient réellement à leurs décisions concernant la non-attribution de prix en 2010, ils n'auraient pas de mal à comprendre pourquoi les gens s'y sont opposés. »
+En anglais, utilisez des virgules pour séparer les clauses des phrases longues. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’ (Si les juges réfléchissaient réellement à leurs décisions concernant la non-attribution de prix en 2010, ils n'auraient pas de mal à comprendre pourquoi les gens s'y sont opposés.)
 
-Les virgules peuvent être utilisées définitivement. Par exemple, dans cette phrase : « La développeuse, Sue Miller, est une passionnée de programmation », l'utilisation de virgules indique qu'il n'y a qu'un seul développeur.
+Les virgules peuvent être utilisées de façon définitive. Prenons par exemple la phrase ‘The developer, Sue Miller, is a keen coder’ (La développeuse, Sue Miller, est une passionnée de programmation). L'utilisation de virgules indique qu'il n'y a qu'une seul développeuse.
 
-Lorsqu'aucune définition de ce type n'est nécessaire, _par exemple, _ « Mary Clough, conférencière de PyCon, a remporté le prix », aucune virgule n'est nécessaire car PyCon compte de nombreux conférenciers, et pas un seul.
+Lorsqu'aucune définition de ce type n'est nécessaire, par exemple ‘PyCon speaker Mary Clough won the award’ (Mary Clough, conférencière de PyCon, a remporté le prix), aucune virgule n'est nécessaire en anglais car PyCon compte de nombreux conférenciers, pas un seul.
 
-Une virgule est également cruciale pour éviter toute ambiguïté dans des exemples tels que celui-ci : « Le rapport critique les juges accusés de favoritisme ». Une virgule après le mot « juges » aurait clairement indiqué que tous les juges ont été accusés de favoritisme. Sans la virgule, la phrase implique que seuls certains juges ont été critiqués.
+Une virgule est également cruciale pour éviter toute ambiguïté dans des exemples tels que celui-ci : ‘The report criticises the judges who have been accused of favouritism.’ (Le rapport critique les juges accusés de favoritisme.) Une virgule après le mot « judges » aurait clairement indiqué que tous les juges ont été accusés de favoritisme. Sans la virgule, la phrase implique que seuls certains juges ont été critiqués.
 
-_Voir aussi [virgule Oxford] (#oxford-comma) . _
+Voir aussi [virgule Oxford] (#oxford-comma).
 
-### noms de sociétés
+### Noms de sociétés
 
-Les noms des entreprises sont toujours au singulier, par exemple, _ « Mastodon is … », « Amazon Web Services is … »
+Les noms des entreprises sont toujours au singulier, par exemple, ‘Mastodon is…’, ‘Amazon Web Services is…’
 
 ---
 
 ## D
 
-### trames de données
+### Cadres de données
 
-Lorsque vous faites référence à des blocs de données dans du texte, utilisez deux mots, la majuscule, qui est [la convention dans le langage R] (https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si vous écrivez pour Python, l'utilisation de DataFrame (un mot, majuscule) est appropriée conformément à [la convention du langage Python] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+Lorsque vous faites référence à des blocs de données dans du texte, utilisez deux mots, la majuscule, qui est [la convention dans le langage R] (https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si vous écrivez pour Python, l'utilisation de DataFrame (un mot, majuscule dite chameau) est appropriée, conformément à [la convention du langage Python] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
-### dates
+### Dates
 
-Notre style est le 21 juillet 2011 (jour, mois, année).
+En anglais, notre style est jour mois année (21 July, 2011).
 
-_Autres rendus :_
-« Au 21e siècle » mais « La science du 21e siècle ».
+Autres rendus :
+‘In the 21st century’ mais ‘21st-century science’.
 
-Utilisez des chiffres pour des décennies, par exemple, les années 1990, les années 1960 radicales, etc. N'ajoutez pas d'apostrophe aux décennies, c'est-à-dire aux années 1990, pas aux années 1990 ; aux années 1970, pas aux années 1970.
+Utilisez des chiffres pour des décennies, par exemple, the 1990s, the radical 60s, etc. N'ajoutez pas d'apostrophe aux décennies, c'est-à-dire 1990s, et non 1990’s ; the 70s, et non the 70’s.
 
-_Voir aussi [times] (#times) ._<br>
-_Voir aussi [saisons] (#seasons) . _
+Voir aussi [heures] (#times) .<br>
+Voir aussi [saisons] (#seasons) .
 
-### signes diacritiques
+### Signes diacritiques
 
-Dans la mesure du possible, utilisez les signes diacritiques corrects sur les noms des personnes dans n'importe quelle langue, par exemple _ Sven-Göran Eriksson (suédois), Béla Bartók (hongrois), Phnh ng Nguyṣn (vietnamien).
+Dans la mesure du possible, utilisez les signes diacritiques corrects sur les noms des personnes dans n'importe quelle langue, par exemple, Sven-Göran Eriksson (suédois), Béla Bartók (hongrois), Phượng Nguyễn (vietnamien).
 
 ---
 
 ## E
 
-### p. ex.
+### e.g.
 
-incluez des points et suivez toujours une virgule, que vous utilisiez la forme abrégée, par exemple, _ ou la version écrite, par exemple.
+Pour 'e.g.' en anglais (p. ex.), incluez des points et suivez toujours avec une virgule, que vous utilisiez la forme abrégée, e.g., ou la version écrite, 'for example'.
 
 ### etc.
 
-Incluez le dernier point complet.
+Incluez le point à la fin.
 
 ---
 
 ## F
 
-### chiffres
+### Chiffres
 
-Épelez toujours par écrit les chiffres de un à neuf. Utilisez des chiffres pour les chiffres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, un million de lecteurs, huit milliards de personnes, mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres de cette première partie, par exemple, 20 millions de lignes. Épelez les ordinaux du premier au neuvième, par exemple troisième, cinquième, puis utilisez le 10e, le 31e, etc.
+En anglais, écrivez toujours en lettres les chiffres de un à neuf. Utilisez des chiffres pour les nombres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, one million readers, eight billion people (un million de lecteurs, huit milliards de personnes), mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres pour cette première partie, par exemple, 2 0 million lines (20 millions de lignes). Écrivez en lettres les ordinaux de premier à neuvième, par exemple third, fifth (troisième, cinquième), puis utilisez 10th, 31st, etc.
 
-### fractions
+### Fractions
 
-Effectuez le rendu aux deux tiers, aux trois quarts, etc., mais deux et demi ne nécessitent pas de tiret d'union.<br>
-_Voir aussi [figures] (#figures) . _
+Écrivez two-thirds, three-quarters, etc., mais two and a half n'a pas de tiret.<br>
+Voir aussi [chiffres] (#figures) . _
 
-### points complets
+### Point final
 
-Le premier caractère après un point doit être en majuscule et être précédé d'un espace, au lieu de deux.
+Le premier caractère après un point final doit être en majuscule et être précédé d'un espace.
 
 ---
 
 ## G
 
-### prénom
+### Given name (prénom)
 
-Ce terme doit être utilisé de préférence aux termes « prénom », « prénom » et « nom chrétien ». Utilisez le prénom la première fois que quelqu'un est mentionné, mais pas par la suite, _par exemple, _ « Mary Brown est arrivée en retard dans la programmation... Brown a ensuite développé plusieurs programmes bien connus. »
+En anglais, pour le prénom, utilisez ce terme au lieu de ‘first name’, ‘forename’ et ‘Christian name’. Utilisez le prénom la première fois que quelqu'un est mentionné, mais pas par la suite, _par exemple, _ « Mary Brown est arrivée en retard dans la programmation... Brown a ensuite développé plusieurs programmes bien connus. »
 
 Évitez d'utiliser des initiales plutôt qu'un nom, sauf si c'est ainsi qu'une personne est mieux connue, par exemple _ N.K. Jémisin.
 
