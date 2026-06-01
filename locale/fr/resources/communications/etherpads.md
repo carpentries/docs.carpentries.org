@@ -10,14 +10,14 @@ Les blocs-notes sont synchronisés au fur et à mesure que vous tapez, de sorte 
 
 L'utilisation de ce service est réservée aux membres de la communauté The Carpentries. Il n'est pas destiné à un usage général (pour cela, essayez [Etherpad.Wikimedia.org] (https://Etherpad.wikimedia.org/)).
 
-Les utilisateurs sont tenus de suivre notre [code de conduite] (/policies/coc/index.md). Tout le contenu est accessible au public sous la [licence Creative Commons Attribution] (https://creativecommons.org/licenses/by/4.0/).
+Les utilisateurs sont tenus de suivre notre [code de conduite](/policies/coc/index.md). Tout le contenu est accessible au public sous la [licence Creative Commons Attribution] (https://creativecommons.org/licenses/by/4.0/).
 
 ## Résolution des problèmes
 
 Bien que les Etherpad soient généralement fiables, il se peut qu'un Etherpad ne charge pas comme prévu.  Dans ce cas, vous pouvez essayer d'ajouter /export/html à l'URL d'un Etherpad.  Par exemple, si https://pad.carpentries.org/committeename ne charge pas, il peut être possible de récupérer le texte en accédant à https://pad.carpentries.org/committeename/export/html. Ce contenu textuel peut ensuite être copié et collé dans un nouvel Etherpad. Notez que cela ne préservera pas l'historique de l'Etherpad.  Le chat sera souvent encore actif dans l'Etherpad défectueux, il est donc recommandé de créer un lien vers le nouvel Etherpad dans le chat de l'Etherpad défectueux.
 
-Si d'autres problèmes avec l'Etherpad surviennent, veuillez nous contacter à l'adresse {{'[{}] (mailto:{}) '.format (team_email, team_email)}} et un membre de l'équipe vous aidera à les résoudre.
+Si d'autres problèmes avec l'Etherpad surviennent, veuillez nous contacter à l'adresse {{'[{}] (mailto:{})'.format (team_email, team_email)}} et un membre de l'équipe vous aidera à les résoudre.
 
 ## Voir aussi
 
-[Codimd] (/resources/communications/codimd.md) est une autre plateforme de prise de notes collaborative utilisée par les membres de la communauté.
+[Codimd](/resources/communications/codimd.md) est une autre plateforme de prise de notes collaborative utilisée par les membres de la communauté.
