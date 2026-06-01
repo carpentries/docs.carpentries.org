@@ -72,7 +72,7 @@ En anglais, la première lettre de chaque mot doit être majuscule, p. ex. Presi
 **Départements/ministères gouvernementaux** Chaque mot commence par une majuscule, p. ex. Department of Industry, Department of Health. Utilisez une minuscule quand vous ne faites pas référence à un département/ministère avec son nom complet. Par exemple : « Senator Carr first led the Department of Industry. The department is now led by…  » (Le Sénateur Carr a d'abord mené le Département de l'Industrie. Le département est maintenant dirigé par...).
 
 **Agences gouvernementales, organismes publics, organismes semi-publics** <br>
-Utilisez des majuscules pour chaque mot, p. ex. District Attorney’s Office, Human Rights Commission, the University of Florida. Utilisez des minuscules lorsque vous ne faites pas référence à une organisation par son nom propre, p. ex. « She worked for the National Society of Coders. The society was founded… » (Elle a travaillé pour la Société Nationale des Codeurs. La société a été fondé par... ».
+Utilisez des majuscules pour chaque mot, p. ex. District Attorney’s Office, Human Rights Commission, the University of Florida. Utilisez des minuscules lorsque vous ne faites pas référence à une organisation par son nom propre, p. ex. « She worked for the National Society of Coders. The society was founded… » (Elle a travaillé pour la Société Nationale des Codeurs. La société a été fondé par...).
 
 **Titres des leçons et noms des épisodes** <br>
 En anglais, les titres de cours et d'épisodes dans les cours doivent avoir une majuscule pour chaque mot principal, p. ex. Introduction to Data, Project Organisation and Management for Genomics (Introduction aux données, Organisation et gestion de projet pour la génomique).
@@ -93,19 +93,19 @@ Utilisez un contraste adéquat pour garantir la meilleure lisibilité possible. 
 
 ### Virgules
 
-En anglais, utilisez des virgules pour séparer les clauses des phrases longues. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’ (Si les juges réfléchissaient réellement à leurs décisions concernant la non-attribution de prix en 2010, ils n'auraient pas de mal à comprendre pourquoi les gens s'y sont opposés.)
+En anglais, utilisez des virgules pour séparer les clauses des phrases longues. « If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices. » (Si les juges réfléchissaient réellement à leurs décisions concernant la non-attribution de prix en 2010, ils n'auraient pas de mal à comprendre pourquoi les gens s'y sont opposés.)
 
-Les virgules peuvent être utilisées de façon définitive. Prenons par exemple la phrase ‘The developer, Sue Miller, is a keen coder’ (La développeuse, Sue Miller, est une passionnée de programmation). L'utilisation de virgules indique qu'il n'y a qu'une seul développeuse.
+Les virgules peuvent être utilisées de façon définitive. Prenons par exemple la phrase « The developer, Sue Miller, is a keen coder » (La développeuse, Sue Miller, est une passionnée de programmation). L'utilisation de virgules indique qu'il n'y a qu'une seul développeuse.
 
-Lorsqu'aucune définition de ce type n'est nécessaire, par exemple ‘PyCon speaker Mary Clough won the award’ (Mary Clough, conférencière de PyCon, a remporté le prix), aucune virgule n'est nécessaire en anglais car PyCon compte de nombreux conférenciers, pas un seul.
+Lorsqu'aucune définition de ce type n'est nécessaire, par exemple « PyCon speaker Mary Clough won the award » (Mary Clough, conférencière de PyCon, a remporté le prix), aucune virgule n'est nécessaire en anglais car PyCon compte de nombreux conférenciers, pas un seul.
 
-Une virgule est également cruciale pour éviter toute ambiguïté dans des exemples tels que celui-ci : ‘The report criticises the judges who have been accused of favouritism.’ (Le rapport critique les juges accusés de favoritisme.) Une virgule après le mot « judges » aurait clairement indiqué que tous les juges ont été accusés de favoritisme. Sans la virgule, la phrase implique que seuls certains juges ont été critiqués.
+Une virgule est également cruciale pour éviter toute ambiguïté dans des exemples tels que celui-ci : « The report criticises the judges who have been accused of favouritism. » (Le rapport critique les juges accusés de favoritisme.) Une virgule après le mot « judges » aurait clairement indiqué que tous les juges ont été accusés de favoritisme. Sans la virgule, la phrase implique que seuls certains juges ont été critiqués.
 
-Voir aussi [virgule Oxford] (#oxford-comma).
+Voir aussi [Virgule Oxford](#oxford-comma).
 
 ### Noms de sociétés
 
-Les noms des entreprises sont toujours au singulier, par exemple, ‘Mastodon is…’, ‘Amazon Web Services is…’
+Les noms des sociétés sont toujours au singulier, par exemple, Mastodon is…, Amazon Web Services is…
 
 ---
 
@@ -113,14 +113,14 @@ Les noms des entreprises sont toujours au singulier, par exemple, ‘Mastodon is
 
 ### Cadres de données
 
-Lorsque vous faites référence à des blocs de données dans du texte, utilisez deux mots, la majuscule, qui est [la convention dans le langage R] (https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si vous écrivez pour Python, l'utilisation de DataFrame (un mot, majuscule dite chameau) est appropriée, conformément à [la convention du langage Python] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+Lorsque vous faites référence à des blocs de données dans du texte, utilisez deux mots, la majuscule, qui est [la convention dans le langage R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). Si vous écrivez pour Python, l'utilisation de DataFrame (un mot, majuscule dite chameau) est appropriée, conformément à [la convention du langage Python] (https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
 ### Dates
 
 En anglais, notre style est jour mois année (21 July, 2011).
 
 Autres rendus :
-‘In the 21st century’ mais ‘21st-century science’.
+« In the 21st century » mais « 21st-century science ».
 
 Utilisez des chiffres pour des décennies, par exemple, the 1990s, the radical 60s, etc. N'ajoutez pas d'apostrophe aux décennies, c'est-à-dire 1990s, et non 1990’s ; the 70s, et non the 70’s.
 
@@ -220,7 +220,7 @@ Mots et phrases dans des langues autres que l'anglais et noms scientifiques, p. 
 
 ### Texte de lien
 
-Évitez de « click here/cliquez ici », « more/en savoir plus » et « read more/pour en savoir plus » lorsque vous intégrez un lien dans du texte. Utilisez des mots qui décrivent le lien, et non l'URL complète. Créez un lien dans une phrase complète qui ne soit pas trop longue. Utilisez des indicateurs non colorés, tels qu'un soulignement persistant pour mettre le lien en évidence. Lorsque vous associez un e-mail, utilisez le prénom et le nom de famille de l'e-mail, au lieu du nom de la personne.
+Évitez « click here/cliquez ici », « more/en savoir plus » et « read more/pour en savoir plus » lorsque vous intégrez un lien dans du texte. Utilisez des mots qui décrivent le lien, et non l'URL complète. Créez un lien dans une phrase complète qui ne soit pas trop longue. Utilisez des indicateurs non colorés, tels qu'un soulignement persistant pour mettre le lien en évidence. Lorsque vous associez un e-mail, utilisez le prénom et le nom de famille de l'e-mail, au lieu du nom de la personne.
 
 ---
 
@@ -228,12 +228,12 @@ Mots et phrases dans des langues autres que l'anglais et noms scientifiques, p. 
 
 ### Noms
 
-En anglais, pour prénom, n'utilisez pas les termes « Christian name », « first name » ou « fornename ». Utilisez plutôt « given name » or « personal name ». Nous respecterons l'orthographe choisie, le choix du nom, la ponctuation, les majuscules et l'ordre des noms (lorsqu'ils sont connus ou disponibles).<br>
+En anglais, pour prénom, n'utilisez pas les termes « Christian name », « first name » ou « forename ». Utilisez plutôt « given name » ou « personal name ». Nous respecterons l'orthographe choisie, le choix du nom, la ponctuation, les majuscules et l'ordre des noms (lorsqu'ils sont connus ou disponibles).<br>
 Voir aussi [Noms non anglais] (#non-english-names).
 
 ### Noms non anglais
 
-Le français (ou origine française) de, d', des, la, les or le et le néerlandais van sont normalement en minuscules lorsque le nom est écrit en entier, p. ex. Marianne d'Alpuget, Erik van der Walden, mais en majuscule lorsqu'il est écrit sans prénoms, par exemple, D'Alpuget, Van der Walden.
+Les particules françaises de, d', des, la, les ou le et la particule néerlandaise van sont normalement en minuscules lorsque le nom est écrit en entier, p. ex. Marianne d'Alpuget, Erik van der Walden, mais en majuscule lorsqu'il est écrit sans prénoms, par exemple, D'Alpuget, Van der Walden.
 
 ### Phrases et mots non anglais
 
@@ -241,19 +241,19 @@ Les mettre en italique et ajouter des accents le cas échéant, par exemple, Če
 
 ### Nombres
 
-En anglais, écrivez toujours en lettres les chiffres de un à neuf. Utilisez des chiffres pour les nombres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, one million readers, eight billion people (un million de lecteurs, huit milliards de personnes), mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres pour cette première partie, par exemple, 2 0 million lines (20 millions de lignes). Écrivez en lettres les ordinaux de premier à neuvième, par exemple third, fifth (troisième, cinquième), puis utilisez 10th, 31st, etc.
+En anglais, écrivez toujours en lettres les chiffres de un à neuf. Utilisez des chiffres pour les nombres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, one million readers, eight billion people (un million de lecteurs, huit milliards de personnes), mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres pour cette première partie, par exemple, 20 million lines (20 millions de lignes). Écrivez en lettres les ordinaux de premier à neuvième, par exemple third, fifth (troisième, cinquième), puis utilisez 10th, 31st, etc.
 
 Lorsque vous commencez une phrase par un chiffre, celui-ci doit être écrit sous forme de mots, par exemple, « Twenty-five people attended the workshop. » (Vingt-cinq personnes ont participé à l'atelier). « Nineteen-ninety-five was not a leap year. » (L'année 1995 n'était pas une année bissextile).
 
 ### Listes numérotées
 
-Comme les puces, elles devraient idéalement inclure un point après chaque ligne, s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
+Comme les puces, elles devraient idéalement inclure un point à la fin de chaque ligne, s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
 
 1. Il s'agit du premier article numéroté qui couvre un éventail d'idées.
 2. C'est le deuxième qui varie également assez largement.
 3. Et c'est le troisième, mais ce ne sont que des exemples.
 
-Mais <br>
+Par contre : <br>
 
 1. Instructeurs
 2. Formateurs d'instructeurs
@@ -289,14 +289,14 @@ Voir [Point final](#full-stops).
 
 ## Q
 
-### guillemets
+### Guillemets
 
 Utilisez des guillemets simples au début et à la fin d'une section entre guillemets, et des guillemets doubles pour les mots entre guillemets de cette section. En anglais, placez des points et des virgules dans les guillemets pour obtenir une phrase complète entre guillemets ; sinon, le point apparaît à l'extérieur, par exemple,
 
 ‘Anna said: “Your style guide needs updating,” and I said: “I agree.”’
 ‘Anna said updating the guide was “a difficult and time-consuming task”.’
 
-Pour les parenthèses entre guillemets directs, utilisez des crochets, par exemple, The judges said, ‘We very much liked the work of Goran [Kovacs] from Croatia’.
+Pour les parenthèses dans les citations directes, utilisez des crochets, par exemple, The judges said, ‘We very much liked the work of Goran [Kovacs] from Croatia’.
 
 ### Citations
 
