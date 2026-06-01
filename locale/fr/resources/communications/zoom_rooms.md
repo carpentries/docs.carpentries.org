@@ -34,33 +34,33 @@ Une fois que vous êtes entré et que vous avez obtenu l'accès organisateur, il
 
 ### Transférer les privilèges d'organisateur ou désigner un co-organisateur
 
-Un organisateur peut transférer les privilèges d'organisateur ou désigner un co-organisateur. Il est fortement recommandé que l'hôte désigne toujours 1 à 2 co-hôtes. Les co-animateurs peuvent être la personne qui anime la session avec vous ou, à votre discrétion, un participant de confiance si vous dirigez la session seul. Les co-animateurs peuvent aider à modérer la salle, notamment en veillant à ce que le son des participants soit muet. Cela garantit également que si l'hôte est accidentellement retiré de l'appel, l'accès à l'hôte sera redirigé vers un co-hôte. Dans le cas contraire, Zoom attribuera le statut d'hôte à un participant choisi au hasard, ce qui pourrait rendre difficile la récupération de l'accès à l'hôte.
+Un organisateur peut transférer les privilèges d'organisateur ou désigner un co-organisateur. Il est fortement recommandé que l'organisateur désigne toujours un à deux co-organisateurs. Les co-organisateurs peuvent être la ou les personnes animant la session avec vous ou, à votre discrétion, un participant de confiance si vous dirigez la session seul. Les co-organisateurs peuvent aider à modérer la salle, notamment en veillant à ce que les participants soient en sourdine. Cela garantit également que si l'organisateur perd accidentellement sa connexion à l'appel, l'accès organisateur sera attribué à un co-organisateur. Dans le cas contraire, Zoom attribuera le statut d'organisateur à un participant choisi au hasard, ce qui pourrait rendre difficile la récupération de l'accès organisateur.
 
-[Découvrez comment faire d'un participant un co-animateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
+[Découvrez comment faire d'un participant un co-organisateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
-Le co-hôte bénéficie de la plupart des mêmes privilèges que l'hôte, mais pas de tous. [Découvrez les limites du co-animateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
+Le co-organisateur bénéficie de la plupart des privilèges de l'organisateur, mais pas de tous. [Découvrez les limites du co-organisateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
 
 ### Activer ou désactiver le son des participants
 
-En tant qu'hôte ou co-hôte, vous pourrez désactiver et réactiver le son des participants.  Cela peut être fait de manière sélective ou pour la pièce dans son ensemble. Par défaut, les participants peuvent se réactiver eux-mêmes. L'hôte peut également choisir de ne pas autoriser les participants à se désactiver.
+En tant qu'hôte ou co-hôte, vous pourrez désactiver et réactiver le son des participants.  Cela peut être fait de manière sélective ou pour la salle dans son ensemble. Par défaut, les participants peuvent réactiver leur son eux-mêmes. L'organisateur peut également choisir de ne pas autoriser les participants à réactiver leur son.
 
 [En savoir plus sur la gestion de la mise en sourdine des participants] (https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
 
-### Création de salles de réunion
+### Création de salles de répartition
 
-L'hôte ou le co-organisateur peuvent attribuer, démarrer et terminer les salles de réunion.  Ils peuvent également se déplacer entre les pièces et envoyer des messages à toutes les pièces.
+L'organisateur ou le co-organisateur peuvent attribuer, démarrer et fermer des salles de répartition.  Ils peuvent également se déplacer entre les salles et envoyer des messages à toutes les salles.
 
-[En savoir plus sur la création et la gestion de salles de sous-groupes] (https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  Cela inclut la configuration des options pour les salles à créer automatiquement, manuellement (attribuées par l'hôte) ou pour permettre aux participants de choisir leurs propres chambres.
+[En savoir plus sur la création et la gestion de salles de répartition] (https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  Cela inclut la configuration des options pour les salles à créer automatiquement, manuellement (attribuées par l'organisateur) ou pour permettre aux participants de choisir leurs propres salles.
 
 ### Feedback non verbal en temps réel
 
-Les participants peuvent fournir des commentaires non verbaux lors d'un appel.  Cela peut inclure l'utilisation d'émojis pour représenter les réponses par oui ou par non, une main levée, etc.  Les réactions disponibles peuvent dépendre de la plateforme de l'utilisateur.
+Les participants peuvent fournir un feedback non verbal lors d'un appel.  Cela peut inclure l'utilisation d'émojis pour représenter les réponses par oui ou par non, une main levée, etc.  Les réactions disponibles peuvent dépendre de la plateforme de l'utilisateur.
 
-[En savoir plus sur la gestion des commentaires non verbaux et en temps réel.] (https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
+[En savoir plus sur la gestion du feedback non verbal et en temps réel.] (https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
 ### Partage d'écran
 
-L'accès au partage d'écran est limité aux hôtes et aux co-hôtes. Ils peuvent choisir d'accorder l'accès aux participants.
+L'accès au partage d'écran est limité aux organisateurs et aux co-organisateurs. Ils peuvent choisir d'accorder l'accès aux participants.
 
 [En savoir plus sur le fait d'accorder ou de refuser aux participants la possibilité de partager l'écran] (https://support.zoom.us/hc/en-us/articles/115005759423).
 
@@ -68,29 +68,29 @@ Les options de partage d'écran incluent la possibilité de partager une seule f
 
 [En savoir plus sur la gestion des fonctionnalités de partage d'écran] (https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
 
-### Zoom sur le chat
+### Chat Zoom
 
-Au cours d'une réunion, les utilisateurs peuvent envoyer un message à tous les autres utilisateurs ou à des participants individuels.  Les hôtes peuvent gérer les personnes avec lesquelles les participants peuvent discuter ou désactiver complètement le chat.
+Au cours d'une réunion, les utilisateurs peuvent envoyer un message à tous les autres utilisateurs ou à des participants individuels.  Les organisateurs peuvent gérer les personnes avec lesquelles les participants peuvent discuter ou désactiver complètement le chat.
 
 [En savoir plus sur la gestion du chat pendant une réunion] (https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
-### Sous-titrage codé
+### Sous-titrage
 
 Zoom propose le sous-titrage automatique des appels.  La précision du sous-titrage peut être limitée en raison de facteurs tels que la qualité sonore, les accents, les dialectes et le jargon.
 
 [Découvrez comment activer le sous-titrage automatique] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
 
-L'hôte peut également demander à un participant de taper des sous-titres codés.
+L'organisateur peut également demander à un participant de taper des sous-titres codés.
 
-[En savoir plus sur la façon d'assigner à un participant la saisie de sous-titres codés] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
+[En savoir plus sur la façon d'assigner à un participant la saisie de sous-titres] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
 
 ### Mettre fin à un appel
 
 Lorsque l'hôte de la salle clique sur « Fin », une boîte de dialogue apparaît avec deux options : « Quitter la réunion » et « Mettre fin à la réunion pour tous ». Veillez à ne pas mettre fin à la réunion si vous quittez la salle alors que l'événement est toujours actif.
 
-Si l'hôte part alors que les participants sont encore dans la chambre, il lui sera demandé de désigner un nouvel hôte avant que ceux-ci ne puissent partir.
+Si l'organisateur part alors que des participants sont encore dans la salle, il lui sera demandé de désigner un nouvel organisateur avant que de pouvoir partir.
 
-### Vue du participant
+### Vue des participants
 
 Les participants peuvent gérer leur affichage d'écran pour afficher une vue de la galerie de tous les participants ou n'afficher que l'orateur actuel.  Les vues peuvent également être définies lors du partage d'écran.
 
