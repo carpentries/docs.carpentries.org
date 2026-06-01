@@ -4,37 +4,37 @@ The Carpentries propose trois salles Zoom pour des événements communautaires p
 
 ## Utilisation générale de la salle et liens
 
-Les chambres sont généralement utilisées comme suit. Cependant, n'importe quelle pièce peut être utilisée à d'autres fins si elle est disponible.
+Les salles sont généralement utilisées comme suit. Cependant, toute salle peut être utilisée à d'autres fins si elle est disponible.
 
 - Salle 1 : Formation des instructeurs
-- Salle 2 : événements communautaires (démonstrations pédagogiques, sessions de discussion, réunions de comités, etc.)
+- Salle 2 : Événements communautaires (démonstrations pédagogiques, sessions de discussion, réunions de comités, etc.)
 - Salle 3 : Autres événements selon les besoins
 
 Des événements sont programmés pour chaque salle par l'équipe principale de The Carpentries. Chaque événement aura une URL au format `https://carpentries.zoom.us/my/**room_name **`.
 
-Pour les événements de formation des instructeurs, ce lien sera partagé avec les formateurs d'instructeurs et les stagiaires participant à cet événement.  Pour les sessions de discussion communautaire et les démonstrations pédagogiques, le lien se trouvera sur l'Etherpad concerné et dans la description de cet événement sur notre calendrier communautaire.  Comme l'exige Zoom, toutes les salles disposent d'un mot de passe.  Le mot de passe est accessible à tous les participants via l'Etherpad de l'événement, la liste du calendrier ou partagé directement par l'hôte ou l'organisateur de l'événement.
+Pour les événements de formation des instructeurs, ce lien sera partagé avec les formateurs d'instructeurs et les stagiaires participant à cet événement.  Pour les sessions de discussion communautaire et les démonstrations pédagogiques, le lien se trouvera sur l'Etherpad concerné et dans la description de cet événement sur notre calendrier communautaire.  Comme exigé par Zoom, toutes les salles disposent d'un mot de passe.  Le mot de passe est accessible à tous les participants via l'Etherpad de l'événement, la liste du calendrier ou partagé directement par l'animateur ou l'organisateur de l'événement.
 
-## Informations pour les hôtes de l'événement
+## Informations pour les organisateurs d'événement
 
-Veuillez lire ce qui suit si vous organisez un atelier de formation d'instructeurs ou si vous organisez une démonstration pédagogique ou une discussion communautaire.
+Veuillez lire ce qui suit si vous organisez un atelier de formation d'instructeurs, une démonstration pédagogique ou une discussion communautaire.
 
-### Obtenir l'accès à l'hôte
+### Obtenir un accès organisateur
 
-Si vous animez un atelier de formation d'instructeurs, environ une semaine avant l'événement, vous recevrez un e-mail contenant les informations d'identification de l'hôte et d'autres informations logistiques.
+Si vous animez un atelier de formation d'instructeurs, environ une semaine avant l'événement, vous recevrez un e-mail contenant les informations d'identification d'organisateur et d'autres informations logistiques.
 
-Si vous organisez une discussion communautaire ou une démonstration pédagogique, vous devriez vous être inscrit via Calendly. Deux jours avant l'événement, vous recevrez un e-mail automatique de Calendly contenant la clé d'hôte de l'événement.
+Si vous organisez une discussion communautaire ou une démonstration pédagogique, vous devriez vous être inscrit via Calendly. Deux jours avant l'événement, vous recevrez un e-mail automatique de Calendly contenant la clé d'organisateur de l'événement.
 
-[Découvrez comment utiliser la clé d'hôte pour réclamer l'accès à l'hôte.] (https://support.zoom.us/hc/en-us/articles/115001315866)
+[Découvrez comment utiliser la clé d'organisateur pour obtenir l'accès organisateur.] (https://support.zoom.us/hc/en-us/articles/115001315866)
 
 ### Utilisation d'une salle d'attente
 
-Une fois que vous êtes entré et que vous avez réclamé l'accès hôte, il est recommandé de créer une salle d'attente.  Cela vous permet de laisser entrer explicitement les gens, plutôt que de simplement autoriser n'importe qui à entrer.  Il permet d'empêcher le « zoombombing » ou l'entrée d'invités indésirables.  L'hôte peut ensuite admettre ou refuser des personnes dans la salle d'attente, envoyer des participants existants dans la salle d'attente et envoyer des messages à la salle d'attente.  Les participants à la salle d'attente ne peuvent pas envoyer de message à l'hôte.
+Une fois que vous êtes entré et que vous avez obtenu l'accès organisateur, il est recommandé de créer une salle d'attente.  Cela vous permet d'autoriser explicitement les personnes à entrer, plutôt que d'autoriser n'importe qui.  Cela permet d'empêcher le « zoombombing » ou l'entrée d'invités indésirables.  L'organisateur peut alors admettre ou refuser des personnes dans la salle d'attente, envoyer des participants existants dans la salle d'attente et envoyer des messages à la salle d'attente.  Les participants dans la salle d'attente ne peuvent pas envoyer de message à l'organisateur.
 
-[Découvrez comment activer et utiliser une salle d'attente en tant qu'hôte.] (https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
+[Découvrez comment activer et utiliser une salle d'attente en tant qu'organisateur.] (https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
 
-### Transférer les privilèges d'hôte ou affecter un co-hôte
+### Transférer les privilèges d'organisateur ou désigner un co-organisateur
 
-Un hôte peut transférer les privilèges d'hôte ou affecter un co-hôte. Il est fortement recommandé que l'hôte désigne toujours 1 à 2 co-hôtes. Les co-animateurs peuvent être la personne qui anime la session avec vous ou, à votre discrétion, un participant de confiance si vous dirigez la session seul. Les co-animateurs peuvent aider à modérer la salle, notamment en veillant à ce que le son des participants soit muet. Cela garantit également que si l'hôte est accidentellement retiré de l'appel, l'accès à l'hôte sera redirigé vers un co-hôte. Dans le cas contraire, Zoom attribuera le statut d'hôte à un participant choisi au hasard, ce qui pourrait rendre difficile la récupération de l'accès à l'hôte.
+Un organisateur peut transférer les privilèges d'organisateur ou désigner un co-organisateur. Il est fortement recommandé que l'hôte désigne toujours 1 à 2 co-hôtes. Les co-animateurs peuvent être la personne qui anime la session avec vous ou, à votre discrétion, un participant de confiance si vous dirigez la session seul. Les co-animateurs peuvent aider à modérer la salle, notamment en veillant à ce que le son des participants soit muet. Cela garantit également que si l'hôte est accidentellement retiré de l'appel, l'accès à l'hôte sera redirigé vers un co-hôte. Dans le cas contraire, Zoom attribuera le statut d'hôte à un participant choisi au hasard, ce qui pourrait rendre difficile la récupération de l'accès à l'hôte.
 
 [Découvrez comment faire d'un participant un co-animateur] (https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
