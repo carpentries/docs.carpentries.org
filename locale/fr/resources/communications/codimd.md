@@ -52,7 +52,7 @@ Les titulaires de compte ont accès à deux fonctionnalités :
 
 ## Résolution des problèmes
 
-Si vous rencontrez des problèmes avec la plateforme CodiMD, veuillez nous contacter à l'adresse {{'[{}] (mailto:{}) '.format (team_email, team_email)}} et un membre de l'équipe vous aidera à résoudre les problèmes.
+Si vous rencontrez des problèmes avec la plateforme CodiMD, veuillez nous contacter à l'adresse {{'[{}] (mailto:{})'.format (team_email, team_email)}} et un membre de l'équipe vous aidera à résoudre les problèmes.
 
 ## Voir aussi
 
