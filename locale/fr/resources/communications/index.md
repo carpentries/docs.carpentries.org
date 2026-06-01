@@ -24,14 +24,14 @@
 
 ## Styles, image de marque et logos
 
-- [Guide stylistique] (style-guide.md)
-- [Tags des articles du blog de The Carpentries] (select-blog-tags.md)
-- [Image de marque] (brand_identity.md)
-- [Logos de The Carpentries] (logos.md)
+- [Guide stylistique](style-guide.md)
+- [Tags des articles du blog de The Carpentries](select-blog-tags.md)
+- [Image de marque](brand_identity.md)
+- [Logos de The Carpentries](logos.md)
 
 ## Présentations
 
-- [Présentations] (presentations.md)
+- [Présentations](presentations.md)
 
 ## Carpentries Commons et Zenodo
 
