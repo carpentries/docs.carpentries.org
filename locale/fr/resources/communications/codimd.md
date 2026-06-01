@@ -28,7 +28,7 @@ Consultez <https://codimd.carpentries.org/features> pour une liste complète des
 
 L'utilisation de ce service est réservée aux membres de la communauté The Carpentries. Il n'est pas destiné à un usage général (pour cela, essayez [HackMD] (https://hackmd.io/)).
 
-Les utilisateurs sont tenus de suivre notre [code de conduite] (/policies/coc/index.md).
+Les utilisateurs sont tenus de suivre notre [code de conduite](/policies/coc/index.md).
 Tout le contenu est accessible au public sous la [licence Creative Commons Attribution] (https://creativecommons.org/licenses/by/4.0/).
 
 ## Niveaux d'accès aux documents et comptes
