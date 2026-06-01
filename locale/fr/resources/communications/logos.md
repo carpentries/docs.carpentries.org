@@ -2,7 +2,7 @@
 
 ## Politique d'utilisation du logo et du nom de The Carpentries
 
-### Présentation
+### Introduction
 
 L'objectif de ce document est de définir la politique concernant l'utilisation et la modification des marques déposées de The Carpentries.
 
@@ -53,8 +53,8 @@ Cette politique a été adaptée en partie à partir de la [politique d'utilisat
 
 - [The Carpentries](https://github.com/carpentries/logo)
 - [Data Carpentry](https://github.com/datacarpentry/logos)
-- [Bibliothèque The Carpentries] (https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
-- [Logiciel The Carpentry] (https://github.com/swcarpentry/communications/tree/main/misc/logo)
+- [Library Carpentry](https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
+- [Software Carpentry](https://github.com/swcarpentry/communications/tree/main/misc/logo)
 
 ## Arrière-plans virtuels
 
