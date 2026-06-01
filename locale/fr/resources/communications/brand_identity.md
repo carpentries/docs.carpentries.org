@@ -65,4 +65,4 @@
 
 ## Polices de The Carpentries
 
-La police utilisée dans les en-têtes et le corps du {{'[site Web The Carpentries] ({}) '.format (carpentries_website)}} et de ses sites de programmes de cours est [Mulish] (https://fonts.google.com/specimen/Mulish).
+La police utilisée dans les en-têtes et le corps du {{'[site Web The Carpentries] ({})'.format (carpentries_website)}} et de ses sites de programmes de cours est [Mulish] (https://fonts.google.com/specimen/Mulish).
