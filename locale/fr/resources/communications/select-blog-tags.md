@@ -2,9 +2,9 @@
 
 Lorsque vous rédigez ou collaborez à un article de blog pour [le blog The Carpentries] (https://carpentries.org/blog/), veuillez sélectionner un élément dans la liste présentée dans ce document.
 
-Chacun tag de blog a une définition qui vous permet de sélectionner les tags pertinents pour votre publication.
+Chaque tag de blog a une définition qui vous permet de sélectionner les tags pertinents pour votre publication.
 
-En cas de doute sur les tags à ajouter à votre publication, envoyez un e-mail à {{'[{}] (mailto:{}) '.format (community_email, community_email)}} et nous vous aiderons à en choisir un.
+En cas de doute sur les tags à ajouter à votre publication, envoyez un e-mail à {{'[{}] (mailto:{})'.format (community_email, community_email)}} et nous vous aiderons à en choisir un.
 
 De plus, si vous pensez qu'il existe un tag correspondant à votre publication qui ne figure pas dans la liste ci-dessous, veuillez nous contacter.
 
@@ -50,7 +50,7 @@ Pour les articles de blog liés à l'embauche et aux autres activités de l'équ
 
 ### Carpentries Lab
 
-Décrire les annonces relatives au [Carpentries Lab] (https://carpentries-lab.org). Le Carpentries Lab est un lieu offrant des cours stables et de haute qualité. Il fournit un espace et des processus pour l'évaluation ouverte des leçons par les pairs, et comprend une collection de leçons révisées que les membres de la communauté The Carpentries peuvent enseigner dans leurs propres ateliers.
+Décrire les annonces relatives au [Carpentries Lab](https://carpentries-lab.org). Le Carpentries Lab est un lieu offrant des cours stables et de haute qualité. Il fournit un espace et des processus pour l'évaluation ouverte des cours par les pairs, et comprend une collection de cours révisés que les membres de la communauté The Carpentries peuvent enseigner dans leurs propres ateliers.
 
 ### Carpentries Workbench
 
@@ -66,7 +66,7 @@ Pour les articles de blog liés aux événements CarpentryConnect, des événeme
 
 ### CLDT
 
-Pour des articles de blog sur le programme de formation collaboratif pour le développement de leçons (CLDT – Collaborative Lesson Development Training) de The Carpentries.
+Pour des articles de blog sur le programme de formation collaboratif pour le développement de cours (CLDT – Collaborative Lesson Development Training) de The Carpentries.
 
 ### Code de conduite
 
@@ -194,7 +194,7 @@ Pour les articles liés au programme de cours Library Carpentry, la bibliothèqu
 
 ### Mainteneurs
 
-Les membres de la communauté travaillant à maintenir la stabilité et la fonctionnalité de nos leçons.
+Les membres de la communauté travaillant à maintenir la stabilité et la fonctionnalité de nos cours.
 
 ### Fusion
 
@@ -214,7 +214,7 @@ Les ateliers qui se déroulent uniquement en ligne, les expériences d'enseignem
 
 ### OpenRefine
 
-Pour des articles de blog mettant en avant les recommandations pédagogiques d'OpenRefine, ou l'utilisation ce cet outil dans nos activités.
+Pour des articles de blog mettant en avant les recommandations pédagogiques d'OpenRefine, ou l'utilisation cet outil dans nos activités.
 
 ### Partenariat
 
@@ -256,7 +256,7 @@ Pour des articles de blog mettant en avant des recommandations pédagogiques sur
 
 Articles mettant en avant des conseils.
 
-### Menuiserie logicielle
+### Software Carpentry
 
 Pour les articles de blog relatifs à Software Carpentry, qui fait partie de The Carpentries, qui enseigne des compétences de base en laboratoire pour l'informatique de recherche.
 
