@@ -102,9 +102,9 @@ Pour les articles liés au programme de cours Data Carpentry de The Carpentries.
 
 ### Équité et inclusion
 
-Ressources et informations concernant notre feuille de route en matière d'équité, d'inclusion et d'accessibilité. Notre objectif est d'attirer, de retenir et de promouvoir une communauté diversifiée d'instructeurs et d'apprenants , tout en favorisant un environnement inclusif.
+Ressources et informations concernant notre feuille de route en matière d'équité, d'inclusion et d'accessibilité. Notre objectif est d'attirer, de retenir et de promouvoir une communauté diversifiée d'instructeurs et d'apprenants, tout en favorisant un environnement inclusif.
 
-### Évènements
+### Événements
 
 Lié à des événements sponsorisés par The Carpentries ou en lien avec l'organisation. Les exemples incluent CarpentryConnects, les symposiums en ligne et bien plus.
 
@@ -118,7 +118,7 @@ Pour les articles de blog présentant des recommandations pédagogiques sur Git 
 
 ### Glosario
 
-Pour les articles de blog concernant [Glosorio] (https://glosario.carpentries.org/), le glossaire multilingue des termes relatifs à la science des données de The Carpentries.
+Pour les articles de blog concernant [Glosario] (https://glosario.carpentries.org/), le glossaire multilingue des termes relatifs à la science des données de The Carpentries.
 
 ### Gouvernance
 
@@ -154,7 +154,7 @@ Articles de blog relatifs à la technologie que nous utilisons pour soutenir nos
 
 ### Formateurs d'instructeurs
 
-Pour les articles de blog sur les formateurs d'instructeurs (la communauté de personnes qui enseignent la formation des instructeurs) ou ayant des formateurs d'instructeurs constituent comme public principal.
+Pour les articles de blog sur les formateurs d'instructeurs (la communauté de personnes qui enseignent la formation des instructeurs) ou ayant des formateurs d'instructeurs comme public principal.
 
 ### Comité de direction des formateurs d'instructeurs
 
