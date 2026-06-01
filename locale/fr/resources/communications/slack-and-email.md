@@ -56,4 +56,4 @@ Toutes les [listes de diffusion pour The Carpentries] (https://carpentries.topic
 
 ## Guide de démarrage rapide pour Slack
 
-The Carpentries utilise Topicbox pour permettre aux membres de poser des questions, de partager des ressources ainsi que des opportunités et bien plus. Consultez le {{"[guide Slack] ({}) » .format (slack_guide)}} pour plus d'informations.
+The Carpentries utilise Topicbox pour permettre aux membres de poser des questions, de partager des ressources ainsi que des opportunités et bien plus. Consultez le {{"[guide Slack] ({})".format (slack_guide)}} pour plus d'informations.
