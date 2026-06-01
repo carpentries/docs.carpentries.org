@@ -2,7 +2,7 @@
 
 ## Guide de démarrage rapide Topicbox
 
-The Carpentries utilise Topicbox pour gérer ses listes d'e-mails. Consultez le {{"[guide Topicbox] ({}) » .format (topicbox_guide)}} pour plus d'informations.
+The Carpentries utilise Topicbox pour gérer ses listes d'e-mails. Consultez le {{"[guide Topicbox] ({})".format (topicbox_guide)}} pour plus d'informations.
 
 ### Listes de diffusion des communautés régionales
 
