@@ -2,16 +2,16 @@
 
 ## Documents collaboratifs
 
-- [Etherpads] (etherpads.md)
-- [CodiMD] (codimd.md)
+- [Etherpads](etherpads.md)
+- [CodiMD](codimd.md)
 
 ## Espaces de communication
 
 - [Guide pour partager les communications avec The Carpentries] (sharing_resources.md)
-- [Slack] (slack-and-email.md#slack-quick-start-guide)
-- [Listes de diffusion (Topicbox)] (slack-and-email.md#topicbox-quick-start-guide)
+- [Slack](slack-and-email.md#slack-quick-start-guide)
+- [Listes de diffusion (Topicbox)](slack-and-email.md#topicbox-quick-start-guide)
 - [Zoom](zoom_rooms.md)
-- [Mastodonte] (https://hachyderm.io/@thecarpentries)
+- [Mastodon](https://hachyderm.io/@thecarpentries)
 - [Bluesky](https://bsky.app/profile/carpentries.carpentries.org)
 - [LinkedIn] (https://www.linkedin.com/company/the-carpentries/)
 - [Blog](https://carpentries.org/blog/)
