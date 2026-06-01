@@ -166,17 +166,17 @@ Le premier caractère après un point final doit être en majuscule et être pr�
 
 ### Given name (prénom)
 
-En anglais, pour le prénom, utilisez ce terme au lieu de ‘first name’, ‘forename’ et ‘Christian name’. Utilisez le prénom la première fois que quelqu'un est mentionné, mais pas par la suite, _par exemple, _ « Mary Brown est arrivée en retard dans la programmation... Brown a ensuite développé plusieurs programmes bien connus. »
+En anglais, pour le prénom, utilisez ce terme au lieu de ‘first name’, ‘forename’ et ‘Christian name’. Utilisez le prénom la première fois que quelqu'un est mentionné, mais pas par la suite, p. ex. ‘Mary Brown came late to programming... Brown later went on to develop several well-known programs.’ (Mary Brown est arrivée tard dans la programmation... Brown a ensuite développé plusieurs programmes bien connus.)
 
-Évitez d'utiliser des initiales plutôt qu'un nom, sauf si c'est ainsi qu'une personne est mieux connue, par exemple _ N.K. Jémisin.
+Évitez d'utiliser des initiales au lieu du nom, sauf si c'est ainsi qu'une personne est mieux connue, par exemple, N.K. Jemisin.
 
 ---
 
 ## H
 
-### titres honorifiques et titres
+### Titres honorifiques et titres
 
-Les titres honorifiques qui désignent des professions, par exemple, _ docteur, professeur, peuvent d'abord être utilisés dans le texte ou dans les articles de blog. Déposez les titres honorifiques et les prénoms après la première mention et utilisez uniquement le nom de famille à partir de ce moment-là, _par exemple, _ « La professeure Gillian Kramer enseigne … Kramer a passé beaucoup de temps... »
+En anglais, les titres honorifiques qui désignent des professions, par exemple,  Doctor, Professor, peuvent d'abord être utilisés dans le texte ou dans les articles de blog. Utilisez les titres honorifiques et les prénoms après la première mention et utilisez uniquement le nom de famille à partir de ce moment-là, par exemple,  « Professor Gillian Kramer teaches… Kramer has spent a lot of time... » (Professeur Gillian Kramer enseigne… Kramer a passé beaucoup de temps...)
 
 Les titres honorifiques tels que le FRCS ne devraient pas inclure de points complets.
 
@@ -184,23 +184,23 @@ Les titres honorifiques tels que le FRCS ne devraient pas inclure de points comp
 
 ## I
 
-### c'est à dire
+### i.e. (c.-à-d.)
 
-inclut des points, ne précède pas de virgule en anglais britannique
+Inclut des points, ne précède pas de virgule en anglais britannique.
 
-### inclusivité
+### Inclusivité
 
-Utilisez un langage inclusif.  Cela inclut le choix des mots qui tient compte de la complexité du sujet et respecte la diversité de tous les membres de la communauté. Utilisez des références accessibles dans le monde entier, avec un nom plus courant ou une description plus détaillée.
+Utilisez un langage inclusif.  Cela inclut le choix de mots tenant compte de la complexité du sujet et respectant la diversité de tous les membres de la communauté. Utilisez des références accessibles dans le monde entier, avec un nom plus courant ou une description plus détaillée.
 
-Choses à éviter : langage dévalorisant ou méprisant (juste, simplement, évidemment, etc.), expressions familières locales, mots sensoriels ou mots d'action (voir, entendre, lire, regarder, courir, atteindre, écouter).
+Choses à éviter : langage dévalorisant ou méprisant (just, simply, obviously, etc), expressions familières locales, mots sensoriels ou mots d'action (see, hear, read, look, run, reach, listen).
 
-### images
+### Images
 
-Incluez du texte alternatif sur toutes les images. _Voir aussi [alt-text] (#alt-text) . _
+Incluez un texte alternatif pour toutes les images. Voir aussi [Texte alternatif] (#alt-text).
 
-### initiales
+### Initiales
 
-Séparez les initiales des noms les unes des autres par des espaces et des points, par exemple, _ N.K. Jémisin.
+Séparez les initiales des noms les unes des autres par des espaces et des points, par exemple, N.K. Jémisin.
 
 ### -isation
 
@@ -208,55 +208,55 @@ pas —isation, _p.ex., _ organisation, caractérisation.
 
 ### -ise
 
-ne pas -ize à la fin d'un mot, _e.g._, caractériser, sympathiser, organiser. Une exception est le chavirement.
+N'utilisez pas -ize à la fin d'un mot, p. ex. characterise, sympathise, organise. Exception : capsize.
 
-### italique
+### Italique
 
-Mots et phrases dans des langues autres que l'anglais, et noms scientifiques, _e.g._, _Macropus rufus_, _Bufo marinus_.
+Mots et phrases dans des langues autres que l'anglais et noms scientifiques, p. ex., _Macropus rufus_, _Bufo marinus_.
 
 ---
 
 ## L
 
-### texte du lien
+### Texte de lien
 
-Évitez de « cliquer ici », « en savoir plus » et « en savoir plus » lorsque vous intégrez un lien dans du texte. Utilisez des mots qui décrivent le lien, et non l'URL complète. Créez un lien vers une phrase complète, mais évitez de l'utiliser plus longtemps. Utilisez des indicateurs non colorés, tels qu'un soulignement persistant pour surligner le lien. Lorsque vous associez un e-mail, utilisez le prénom et le nom de famille de l'e-mail, au lieu du nom de la personne.
+Évitez de « click here/cliquez ici », « more/en savoir plus » et « read more/pour en savoir plus » lorsque vous intégrez un lien dans du texte. Utilisez des mots qui décrivent le lien, et non l'URL complète. Créez un lien dans une phrase complète qui ne soit pas trop longue. Utilisez des indicateurs non colorés, tels qu'un soulignement persistant pour mettre le lien en évidence. Lorsque vous associez un e-mail, utilisez le prénom et le nom de famille de l'e-mail, au lieu du nom de la personne.
 
 ---
 
 ## N
 
-### noms
+### Noms
 
-N'utilisez pas les termes « nom chrétien », « prénom » ou « prénom ». Utilisez plutôt un prénom ou un nom personnel. Nous nous en remettrons à l'orthographe, au choix du prénom, à la ponctuation, aux majuscules et à l'ordre des noms (lorsqu'ils sont connus ou disponibles).<br>
-_Voir aussi [noms non anglais] (#non-english-names) . _
+En anglais, pour prénom, n'utilisez pas les termes « Christian name », « first name » ou « fornename ». Utilisez plutôt « given name » or « personal name ». Nous respecterons l'orthographe choisie, le choix du nom, la ponctuation, les majuscules et l'ordre des noms (lorsqu'ils sont connus ou disponibles).<br>
+Voir aussi [Noms non anglais] (#non-english-names).
 
 ### Noms non anglais
 
-Le français (ou origine française) de, d', des, la, les or le et le néerlandais van sont normalement en minuscules lorsque le nom est écrit en entier, _par exemple, _ Marianne d'Alpuget, Erik van der Walden, mais en majuscule lorsqu'il est écrit sans prénoms, _par exemple, _ D'Alpuget, Van der Walden.
+Le français (ou origine française) de, d', des, la, les or le et le néerlandais van sont normalement en minuscules lorsque le nom est écrit en entier, p. ex. Marianne d'Alpuget, Erik van der Walden, mais en majuscule lorsqu'il est écrit sans prénoms, par exemple, D'Alpuget, Van der Walden.
 
 ### Phrases et mots non anglais
 
-Les mettre en italique et ajouter des accents le cas échéant, _par exemple, _ _bête noire_. Dans le cas de termes non anglais fréquemment utilisés dans l'usage anglais accepté, _par exemple, _ avant garde, vis à vis, vice versa, vous n'avez pas besoin de les mettre en italique.
+Les mettre en italique et ajouter des accents le cas échéant, par exemple, České dráhy. Dans le cas de termes non anglais fréquemment utilisés dans l'usage anglais accepté, p. ex. avant garde, vis à vis, vice versa, vous n'avez pas besoin de les mettre en italique.
 
-### nombres
+### Nombres
 
-Épelez toujours par écrit les chiffres de un à neuf. Utilisez des chiffres pour les chiffres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, un million de lecteurs, huit milliards de personnes, mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres de cette première partie, par exemple, 20 millions de lignes. Épelez les ordinaux du premier au neuvième, par exemple, _ troisième, cinquième, puis utilisez 10, 31, etc.
+En anglais, écrivez toujours en lettres les chiffres de un à neuf. Utilisez des chiffres pour les nombres de 10 à 999 999, puis revenez à l'écriture complète des chiffres, par exemple, one million readers, eight billion people (un million de lecteurs, huit milliards de personnes), mais lorsque le premier chiffre est supérieur à neuf, vous pouvez revenir aux chiffres pour cette première partie, par exemple, 2 0 million lines (20 millions de lignes). Écrivez en lettres les ordinaux de premier à neuvième, par exemple third, fifth (troisième, cinquième), puis utilisez 10th, 31st, etc.
 
-Lorsque vous commencez une phrase par un chiffre, celui-ci doit être écrit sous forme de mots, _par exemple, _ « Vingt-cinq personnes ont participé à l'atelier ». « L'année 1995 n'était pas une année bissextile. »
+Lorsque vous commencez une phrase par un chiffre, celui-ci doit être écrit sous forme de mots, par exemple, « Twenty-five people attended the workshop. » (Vingt-cinq personnes ont participé à l'atelier). « Nineteen-ninety-five was not a leap year. » (L'année 1995 n'était pas une année bissextile).
 
-### listes numérotées
+### Listes numérotées
 
-Comme les puces, elles devraient idéalement inclure un point après chacune d'elles s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
+Comme les puces, elles devraient idéalement inclure un point après chaque ligne, s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
 
 1. Il s'agit du premier article numéroté qui couvre un éventail d'idées.
-2. C'est la seconde qui varie également assez largement.
-3. Et c'est le troisième et ce ne sont que des exemples.
+2. C'est le deuxième qui varie également assez largement.
+3. Et c'est le troisième, mais ce ne sont que des exemples.
 
 Mais <br>
 
 1. Instructeurs
-2. Formateurs et formateurs
+2. Formateurs d'instructeurs
 3. Mainteneurs
 
 ---
@@ -265,25 +265,25 @@ Mais <br>
 
 ### Virgule Oxford
 
-Une virgule avant le dernier « et » dans les listes. Les listes simples (il a écrit des livres, des nouvelles et de la poésie) n'ont pas besoin de virgule supplémentaire, mais parfois cela peut aider le lecteur à savoir quels éléments vont ensemble, par exemple, « elle a écrit dans ces genres : horreur, mystère, cape et poignard et fantaisie », et parfois c'est essentiel pour des raisons de clarté et de sens, par exemple,
+En anglais, une virgule avant le dernier « et » dans les listes. Les listes simples (he wrote books, short stories and poetry) n'ont pas besoin de virgule supplémentaire, mais parfois cela peut aider le lecteur à savoir quels éléments vont ensemble, par exemple, « eshe wrote in these genres – horror, mystery, cloak and dagger, and fantasy », et parfois c'est essentiel pour des raisons de clarté et de sens, par exemple,
 
-J'ai parlé à mes sœurs, Olga Petrova et Susanne De Vries (cela signifie que j'ai parlé à mes sœurs ET à Olga Petrova et Susanne De Vries)
+I spoke to my sisters, Olga Petrova, and Susanne De Vries (cela signifie que j'ai parlé à mes sœurs ET à Olga Petrova et Susanne De Vries).
 
-J'ai parlé à mes sœurs, Olga Petrova et Susanne De Vries (cela implique à tort qu'Olga Petrova et Susanne De Vries sont les sœurs en question.)
+I spoke to my sisters, Olga Petrova and Susanne De Vries (cela implique à tort qu'Olga Petrova et Susanne De Vries sont les sœurs en question).
 
-Le style de menuiserie consiste à préférer la virgule Oxford sauf si nécessaire.
+Le style de The Carpentries consiste à préférer la virgule Oxford sauf si nécessaire.
 
 ---
 
 ## P
 
-### pour cent
+### Per cent (pour cent)
 
-Veuillez l'épeler dans le texte, _par exemple, _ et non sous forme de %, et écrivez-le en deux mots, pas un seul.
+Écrivez en lettres dans le texte, et non sous forme de %, et écrivez-le en deux mots, pas un seul.
 
-### périodes
+### Points
 
-_Voir [points complets] (#full-stops) . _
+Voir [Point final](#full-stops).
 
 ---
 
@@ -291,63 +291,63 @@ _Voir [points complets] (#full-stops) . _
 
 ### guillemets
 
-Utilisez des guillemets simples au début et à la fin d'une section entre guillemets, et des guillemets doubles pour les mots entre guillemets de cette section. Placez des points et des virgules entre guillemets pour obtenir une phrase complète entre guillemets ; sinon, le point apparaît à l'extérieur, _par exemple, _
+Utilisez des guillemets simples au début et à la fin d'une section entre guillemets, et des guillemets doubles pour les mots entre guillemets de cette section. En anglais, placez des points et des virgules dans les guillemets pour obtenir une phrase complète entre guillemets ; sinon, le point apparaît à l'extérieur, par exemple,
 
-« Anna m'a dit : « Votre guide de style a besoin d'être mis à jour », et j'ai répondu : « Je suis d'accord. »
-« Anna a déclaré que la mise à jour du guide était « une tâche difficile et chronophage ». »
+‘Anna said: “Your style guide needs updating,” and I said: “I agree.”’
+‘Anna said updating the guide was “a difficult and time-consuming task”.’
 
-Pour les parenthèses entre guillemets directs, utilisez des crochets, par exemple, _ Les juges ont déclaré : « Nous avons beaucoup aimé le travail de Goran [Kovacs] de Croatie ».
+Pour les parenthèses entre guillemets directs, utilisez des crochets, par exemple, The judges said, ‘We very much liked the work of Goran [Kovacs] from Croatia’.
 
-### citations
+### Citations
 
-Les deux-points, plutôt que les virgules, devraient être utilisés pour introduire des citations de discours ou d'écrits qui durent plus d'une phrase. Par exemple, _ Brown a déclaré : « Gagner le prix Nobel a été un moment fort. Cela va changer ma vie. Je n'arrive pas à croire à ma chance. »
+Les deux-points, plutôt que les virgules, devraient être utilisés pour introduire des citations de discours ou d'écrits qui durent plus d'une phrase. Par exemple, Brown said: ‘Winning the Nobel Prize was a highlight. It will change my life. I can’t believe my luck.’
 
-Pour introduire des phrases ou des citations d'une seule phrase, il est préférable d'utiliser une virgule. Par exemple, _ Brown a déclaré : « Gagner le prix Nobel a été un moment fort ».
+Pour introduire des phrases ou des citations d'une seule phrase, il est préférable d'utiliser une virgule. Par exemple, Brown said, ‘Winning the Nobel Prize was a highlight.’
 
 ---
 
 ## R
 
-### rôles
+### Rôles
 
-Les rôles au sein de The Carpentries sont toujours en majuscule. C'est pourquoi nous utilisons Instructor, Instructor Trainer, Maintainer et Curriculum Advisor. Les rôles d'assistant et d'hôte ne sont pas en majuscule car il ne s'agit pas de rôles officiels.
+Les rôles au sein de The Carpentries sont toujours en majuscule. C'est pourquoi nous utilisons Instructor, Instructor Trainer, Maintainer et Curriculum Advisor. Les rôles d'assistant et d'organisateur ne sont pas en majuscule car il ne s'agit pas de rôles officiels.
 
 ---
 
 ## S
 
-### noms scientifiques
+### Noms scientifiques
 
-Les mettre en italique, avec le premier nom, qui indique le genre, avec une majuscule initiale, et le second, qui indique l'espèce, écrit en minuscules, _par exemple, _ _Aedes aegypti_ (moustique de la fièvre jaune), _Crocodylus porosus_ (crocodile d'eau salée), _Macropus rufus_ (kangourou rouge).
+Écrivez-les en italique, avec le premier nom, qui indique le genre, avec une majuscule initiale, et le second, qui indique l'espèce, écrit en minuscules, par exemple, Aedes aegypti (moustique de la fièvre jaune), Crocodylus porosus (crocodile d'eau salée), Macropus rufus (kangourou rouge).
 
-### saisons
+### Saisons
 
-Évitez d'utiliser les saisons lorsque vous discutez ou annoncez des événements, car les saisons varient d'un hémisphère à l'autre. L'automne aux États-Unis, c'est le printemps en Australie. Utilisez plutôt une plage de mois, _par exemple, _ janvier à mars, ou utilisez des moitiés ou des trimestres, _par exemple, _ « Cela s'est produit au premier trimestre de 2018 », « Cela est prévu pour le second semestre de l'année ».<br>
-_Voir aussi [dates] (#dates) _.
+Évitez d'utiliser les saisons lorsque vous discutez ou annoncez des événements, car les saisons varient d'un hémisphère à l'autre. L'automne aux États-Unis, c'est le printemps en Australie. Utilisez plutôt une plage de mois, par exemple, de janvier à mars, ou utilisez des semestres ou des trimestres (half, quarter), par exemple, « This happened in the first quarter of 2018 », « This is planned for the second half of the year. ».<br>
+Voir aussi [Dates](#dates).
 
-### singulier ou pluriel ?
+### Singulier ou pluriel ?
 
-Les entreprises prennent le singulier : _e.g., _ « La NSF a annoncé … 'Dans les références suivantes, utilisez un pronom singulier : « Cela couvrira les Jeux olympiques ». The Carpentries est toujours unique.
+Les sociétés prennent le singulier : p. ex. « The NSF has announced… » Dans les références suivantes, utilisez un pronom singulier : « It will cover the Olympics. ». The Carpentries est toujours au singulier.
 
-### crochets
+### Crochets
 
-Dans le texte, des crochets sont utilisés pour les mots interpolés entre guillemets, _par exemple, _ Olav Jonsson a déclaré : « Matthew [Brown] est allé au Cap pour prendre la parole lors d'une conférence ».
+Dans le texte, les crochets sont utilisés pour les mots interpolés entre guillemets, par exemple, Olav Jonsson said, ‘Matthew [Brown] went to CapeTown to address a conference.’
 
 ---
 
 ## T
 
-### temps
+### Heures
 
-Les heures doivent être affichées en UTC dans un format 24 heures, par exemple, _ 12 h 00 UTC, 17 h 30 UTC, 9 h 00 UTC. N'utilisez pas de zones locales, par exemple _ PDT, AEST. Si vous souhaitez donner un sens aux horaires pour les personnes situées dans différents fuseaux horaires, utilisez le [Annonceur horaire de l'événement] (https://www.timeanddate.com/worldclock/fixedform.html) (en utilisant votre heure et votre date UTC comme base pour créer l'événement) pour créer une heure pouvant être associée qui sera affichée localement pour chaque personne qui l'utilise, _par exemple, _ 20 août 2018 22:00 UTC : [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1 =%3A&ah=1] (https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
+Les heures doivent être affichées en UTC dans un format 24 heures, par exemple, 12:00 UTC, 17:30 UTC, 09:00 UTC. N'utilisez pas de zones locales, p. ex. PDT, AEST. Si vous souhaitez donner un sens aux horaires pour les personnes situées dans différents fuseaux horaires, utilisez l'[Annonceur horaire de l'événement] (https://www.timeanddate.com/worldclock/fixedform.html) (en utilisant votre heure et votre date UTC comme base pour créer l'événement) pour créer une heure pouvant être associée qui sera affichée localement pour chaque personne qui l'utilise, par exemple, 20 August, 2018 22:00 UTC: [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1 =%3A&ah=1] (https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1)
 
 ---
 
 ## V
 
-### contre et contre
+### Versus et vs
 
-Utilisez versus dans la plupart des cas écrits, mais si une abréviation est nécessaire, utilisez « vs » plutôt que « vs »
+Utilisez versus dans la plupart des cas écrits, mais si une abréviation est nécessaire, utilisez « vs » plutôt que « vs. ».
 
 ### Vidéos
 
@@ -357,7 +357,7 @@ Toutes les vidéos doivent être sous-titrées.
 
 ## W
 
-### Établi
+### Workbench
 
-Le titre complet et correct de l'infrastructure de la leçon est The Carpentries Workbench, qui peut ensuite être abrégé en Workbench.
-Conformément à la dénomination standard des packages R, les composants individuels du Workbench doivent être référencés en minuscules, par exemple papier abrasif, panneau perforé et vernis.
+Le titre complet et correct de l'infrastructure de cours est The Carpentries Workbench, qui peut ensuite être abrégé en Workbench.
+Conformément à la dénomination standard des packages R, les composants individuels du Workbench doivent être référencés en minuscules, par exemple sandpaper, pegboard, varnish (papier abrasif, panneau perforé et vernis).
