@@ -1,9 +1,9 @@
 # Présentations
 
 C'est formidable pour les membres de la communauté de faire des présentations sur The Carpentries !
-Incluez votre travail avec The Carpentries dans une présentation. Vous êtes également livre de donner des conférences ou de discuter de l'organisation en général.
+Incluez votre travail avec The Carpentries dans une présentation. Vous êtes également libre de donner des conférences ou de discuter de l'organisation en général.
 
-Il existe des diaporamas Google généraux ainsi que d'autres plus adaptés à des sujets ou à des événements particuliers. Les diapositives générales sont CC0, vous pouvez donc les utiliser comme vous le souhaitez. Veuillez simplement conserver les attributions sur les figures ou photos individuelles si elles existent.
+Il existe des diapositives Google générales ainsi que d'autres plus adaptées à des sujets ou à des événements particuliers. Les diapositives générales sont CC0, vous pouvez donc les utiliser comme vous le souhaitez. Veuillez simplement conserver les attributions sur les figures ou photos individuelles si elles existent.
 
 Les autres diapositives sont CC-BY.
 
