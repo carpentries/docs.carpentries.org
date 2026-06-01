@@ -10,7 +10,7 @@ Les salles sont généralement utilisées comme suit. Cependant, toute salle peu
 - Salle 2 : Événements communautaires (démonstrations pédagogiques, sessions de discussion, réunions de comités, etc.)
 - Salle 3 : Autres événements selon les besoins
 
-Des événements sont programmés pour chaque salle par l'équipe principale de The Carpentries. Chaque événement aura une URL au format `https://carpentries.zoom.us/my/**room_name **`.
+Des événements sont programmés pour chaque salle par l'équipe principale de The Carpentries. Chaque événement aura une URL au format https://carpentries.zoom.us/my/\*\*room_name \*\*.
 
 Pour les événements de formation des instructeurs, ce lien sera partagé avec les formateurs d'instructeurs et les stagiaires participant à cet événement.  Pour les sessions de discussion communautaire et les démonstrations pédagogiques, le lien se trouvera sur l'Etherpad concerné et dans la description de cet événement sur notre calendrier communautaire.  Comme exigé par Zoom, toutes les salles disposent d'un mot de passe.  Le mot de passe est accessible à tous les participants via l'Etherpad de l'événement, la liste du calendrier ou partagé directement par l'animateur ou l'organisateur de l'événement.
 
@@ -80,7 +80,7 @@ Zoom propose le sous-titrage automatique des appels.  La précision du sous-titr
 
 [Découvrez comment activer le sous-titrage automatique] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
 
-L'organisateur peut également demander à un participant de taper des sous-titres codés.
+L'organisateur peut également demander à un participant de taper des sous-titres.
 
 [En savoir plus sur la façon d'assigner à un participant la saisie de sous-titres] (https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
 
