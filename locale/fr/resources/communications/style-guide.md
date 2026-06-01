@@ -48,29 +48,28 @@ Indique soit une ou plusieurs lettres manquantes (can’t, we’d, hadn’t), so
 
 ### Puces
 
-Idéalement, il faudrait inclure un point après chacun d'eux s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
+Idéalement, il faudrait inclure un point après chaque puce s'il ne s'agit pas simplement d'une liste de termes, par exemple : <br>
 
-- Il s'agit du premier point qui couvre un éventail d'idées.
+- Il s'agit de la première puce qui couvre un éventail d'idées.
 - C'est la seconde qui varie également assez largement.
-- Et c'est le troisième et ce ne sont que des exemples.
+- Et c'est le troisième, mais ce ne sont que des exemples.
 
-Mais <br>
+Par contre : <br>
 
 - Instructeurs
-- Formateurs et formateurs
+- Formateurs d'instructeurs
 - Mainteneurs
 
 ---
 
 ## C
 
-### lettres majuscules et majuscules
+### Lettres majuscules
 
-**titles**<br>
-Mettez-les en majuscules initiales, _par exemple, _ le président Abraham Lincoln, le PDG de Facebook, le pape Jean-Paul II, le secrétaire général Ban-Ki Moon.
+**Titres**<br>
+En anglais, la première lettre de chaque mot doit être majuscule, p. ex. President Abraham Lincoln, Facebook’s CEO, Pope John Paul II, the Secretary-General Ban-Ki Moon.
 
-**ministères gouvernementaux** capitales initiales, _par exemple, _ ministère de l'Industrie, ministère de la Santé. Utilisez des minuscules lorsque vous ne faites pas référence à un ministère par son nom propre, _par exemple, _
-« Le sénateur Carr a d'abord dirigé le ministère de l'Industrie. Le département est désormais dirigé par … '
+**Départements/ministères gouvernementaux** Chaque mot commence par une majuscule, p. ex. Department of Industry, Department of Health. Utilisez une minuscule quand vous ne faites pas référence à un département/ministère avec son nom complet. Par exemple : « Senator Carr first led the Department of Industry. The department is now led by…  » (Le Sénateur Carr a d'abord mené le Département de l'Industrie. Le département est maintenant dirigé par...).
 
 **agences gouvernementales, organismes publics, quangos** <br>
 Mettez-les en majuscules, _par exemple, _ Bureau du procureur du district, Commission des droits de l'homme, Université de Floride. Utilisez des minuscules lorsque vous ne faites pas référence à une organisation par son nom propre, _par exemple, _ 'Elle a travaillé pour la National Society of Coders. La société a été fondée … '
