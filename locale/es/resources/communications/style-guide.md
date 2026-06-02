@@ -138,7 +138,7 @@ Si es posible, usa los signos diacríticos correctos en los nombres de personas 
 
 ### P. ej.
 
-Incluye los puntos y siempre escriba una coma detrás, ya sea que uses la forma abreviada, _p. ej.,_ o la versión completa, “por ejemplo”.
+Incluye los puntos y siempre escribe una coma detrás, ya sea que uses la forma abreviada, _p. ej.,_ o la versión completa, “por ejemplo”.
 
 ### Etc.
 
@@ -167,7 +167,7 @@ El primer carácter después de un punto debe escribirse en mayúscula y tener u
 
 ### nombre de pila
 
-Este término se utilizará con preferencia a los términos «nombre», «nombre» y «nombre cristiano». Use el nombre de pila la primera vez que se mencione a alguien, pero no después, _por ejemplo, _ «Mary Brown llegó tarde a la programación... Más tarde, Brown pasó a desarrollar varios programas conocidos».
+Este término se utilizará con preferencia a los términos «nombre», «nombre» y «nombre cristiano». Usa el nombre de pila la primera vez que se mencione a alguien, pero no después, _por ejemplo, _ «Mary Brown llegó tarde a la programación... Más tarde, Brown pasó a desarrollar varios programas conocidos».
 
 Evite usar iniciales en lugar de un nombre, a menos que sea así como se conoce mejor a una persona, _p. ej., _ N. K. Jemisin.
 
