@@ -245,7 +245,6 @@ This part of the handbook explains the Partnership Model of The Carpentries, inc
 - [The Carpentries Partnership FAQ](https://carpentries.org/support/partnership/partnership-faq/)
 - [Donate to The Carpentries](https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website)
 
-### Ongoing Support and The Way Forward
 
 
 
