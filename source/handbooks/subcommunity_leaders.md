@@ -27,6 +27,84 @@ Anyone passionate about building local Carpentries communities and fostering col
 
 Anyone passionate about building local Carpentries communities and fostering collaboration.
 
+### Support for Subcommunity Leaders
+
+This section lists resources and support for Subcommunity Leaders after completing onboarding. It serves as a reference for leaders as they grow their communities.
+
+#### Resources
+
+Subcommunity Leaders can access resources to support leadership and administration.
+
+These resources include:
+
+* The Subcommunity Leaders Handbook.
+* Onboarding materials.
+* Available translations of onboarding resources (as they are being developed).
+* Workshop-related resources, including access to pre- and post-workshop survey results.
+
+These materials help leaders plan, engage members, and support subcommunities.
+
+#### Connecting with Other Leaders
+
+Subcommunity Leaders belong to a wider network across The Carpentries.
+
+Quarterly meetings provide opportunities to:
+
+* Share successes and lessons learned.
+* Exchange ideas and good practices.
+* Discuss challenges and seek support.
+* Explore opportunities for collaboration across regions and communities.
+
+Leaders could also join Instructor and Instructor Trainer Meetings; these offer chances to learn, share, and stay informed.
+
+
+#### Operational Support
+
+The Core Team assists with subcommunity management and engagement activities.
+
+Support may include:
+
+* Scheduling quarterly community sessions.
+* Providing access to Zoom rooms for regional calls and community events.
+* Setting up Slack channels and TopicBox mailing lists.
+* Adding a subcommunity to the Subcommunity registry.
+* Supporting the registration of Self-Organised Workshops (SOWs).
+
+Leaders organising Self-Organised Workshops can request extra support, including:
+
+* Zoom rooms for online workshop delivery.
+* Promotion of workshops through The Carpentries website and communication channels.
+* Access to pre- and post-workshop survey result links.
+
+Subcommunities may request one Genomics Workshop supported by AWS.
+
+#### Leadership Development
+
+The Carpentries is dedicated to developing community leaders. Leaders may join development and capacity-building opportunities to support leadership, strengthen networks, and share knowledge. Instructor Meetings and Instructor Trainer Meetings also provide opportunities for continued learning and professional development.
+
+#### Recognition
+
+Subcommunity Leaders' contributions are recognised in several ways.
+
+These may include:
+
+* Certification opportunities.
+* Recording leadership roles in AMY.
+* Partnership-related discounts, where applicable.
+* Opportunities to share and celebrate community achievements.
+
+Recognition highlights the work leaders do to support communities.
+
+#### Feedback and Continuous Improvement
+
+Leader feedback helps shape resources and support.
+
+Leaders are encouraged to provide feedback on the programme and suggest new resources or services. Feedback helps keep support relevant.
+
+#### Getting Support
+
+The Core Team answers questions and offers guidance on all activities and processes. Leaders should reach out whenever they need support.
+
 
 ## Subcommunity Registry
 
