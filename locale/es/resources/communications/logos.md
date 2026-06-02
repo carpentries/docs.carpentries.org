@@ -24,7 +24,7 @@ The Carpentries tiene varias comunidades locales y de dominios específicos, y a
 Los colores de la “marca de llave” se pueden modificar para que sean apropiados para tu dominio o región, pero no se permite agregar formas ni distorsiones (incluida la orientación). El nombre de dominio o región de tu grupo debe agregarse debajo de The Carpentries en rojo (Hex: FF4955).
 
 ```{image} ./images/heidelberg_logo.png
-   :alt: Mi primer logo
+   :alt: Mi primer logotipo
    :width: 75 %
    :align: centrado
 ```
