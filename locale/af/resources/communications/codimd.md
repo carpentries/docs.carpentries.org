@@ -39,7 +39,7 @@ Alle inhoud is in die openbaar beskikbaar onder die [Creative Commons Attributio
 
 ## Dokumenttoegangsvlakke en -rekeninge
 
-Rekeningskepping en aanmelding is nie nodig om CodimD-dokumente te skep en te wysig nie.
+Account creation and login is required to create CodiMD documents. Document owners may allow guest users to edit existing documents.
 
 Om 'n rekening op die platform te registreer:
 
@@ -62,6 +62,10 @@ Rekeninghouers kry toegang tot twee funksies:
    toeganklik via die geskiedenis oortjie van die <https://codimd.carpentries.org/> -landing bladsy.
    Die dokumente wat in hierdie geskiedenis gelys word, kan gesorteer, gefiltreer,
    en in vouers georganiseer word.
+
+## Forgot your password?
+
+Please contact {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will reset your password.  Allow at least two business days to receive a new password.
 
 ## Problemoplossing
 
