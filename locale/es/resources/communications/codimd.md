@@ -39,7 +39,7 @@ Todo el contenido está disponible públicamente bajo la [Licencia de atribució
 
 ## Cuentas y niveles de acceso a los documentos
 
-No es necesario crear una cuenta e iniciar sesión para crear y editar documentos de CodiMD.
+Account creation and login is required to create CodiMD documents. Document owners may allow guest users to edit existing documents.
 
 Para registrar una cuenta en la plataforma:
 
@@ -62,6 +62,10 @@ Los titulares de cuentas tienen acceso a dos funciones:
    al que se puede acceder a través de la pestaña Historial de la página de inicio de <https://codimd.carpentries.org/>.
    Los documentos que figuran en este historial se pueden explorar, ordenar, filtrar
    y organizar en carpetas.
+
+## Forgot your password?
+
+Please contact {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will reset your password.  Allow at least two business days to receive a new password.
 
 ## Solución de problemas
 
