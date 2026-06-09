@@ -40,7 +40,7 @@ All content is publicly available under the [Creative Commons Attribution Licens
 
 ## Document Access Levels & Accounts
 
-Account creation and login is not required to create and edit CodiMD documents.
+Account creation and login is required to create CodiMD documents. Document owners may allow guest users to edit existing documents.
 
 To register an account on the platform:
 
@@ -49,6 +49,7 @@ To register an account on the platform:
 2. When the pop-up appears, prompting the user to enter an email address and password,
    type in the email address and password you want to use for your account.
 3. Click the "Register" button.
+
 
 Account holders gain access to two features:
 
@@ -64,6 +65,9 @@ Account holders gain access to two features:
    The documents listed in this history can be searched, sorted, filtered,
    and organised into folders.
 
+## Forgot your password? 
+
+Please contact {{'[{}](mailto:{})'.format(team_email, team_email)}} and a team member will reset your password.  Allow at least two business days to receive a new password. 
 
 ## Troubleshooting
 
