@@ -7,3 +7,4 @@
 - [Politique en matière de cookies] (cookie-policy.md)
 - [Politique DMCA] (dmca-policy.md)
 - [Termes et conditions] (terms-and-conditions.md)
+- [GenAI Contributions policy](genai-policy.md)
