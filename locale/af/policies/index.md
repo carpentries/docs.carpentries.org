@@ -7,3 +7,4 @@
 - [Koekiebeleid] (cookie-policy.md)
 - [DMCA-beleid] (dmca-policy.md)
 - [Bepalings en voorwaardes] (terms-and-conditions.md)
+- [GenAI Contributions policy](genai-policy.md)
