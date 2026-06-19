@@ -272,6 +272,10 @@ The Carpentries utiliza grupos de trabajo para explorar ideas y actualizar las p
 
 Para compartir la experiencia de impartir un taller o capacitación de The Carpentries.
 
+### UK
+
+For blog posts related to Carpentries' work in the UK.
+
 ### Website
 
 Para publicaciones del blog relacionadas con actualizaciones de los sitios web de The Carpentries.
