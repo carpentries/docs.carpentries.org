@@ -272,6 +272,10 @@ The Carpentries a recours à des groupes de travail pour explorer des idées et 
 
 Expérience de la direction d'un atelier ou d'une formation The Carpentries.
 
+### UK
+
+For blog posts related to Carpentries' work in the UK.
+
 ### Site Web
 
 Pour les articles de blog relatifs aux mises à jour des sites Web de The Carpentries.
