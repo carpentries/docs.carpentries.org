@@ -272,6 +272,10 @@ Die Carpentries gebruik taakkragte om idees te ondersoek en opdaterings in belei
 
 Ervaring om 'n Carpentries Workshop of Carpentries -opleiding te lei.
 
+### UK
+
+For blog posts related to Carpentries' work in the UK.
+
 ### webwerf
 
 Vir blogplasings wat verband hou met opdaterings van The Carpentries -webwerwe.
