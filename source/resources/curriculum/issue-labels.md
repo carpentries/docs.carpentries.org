@@ -7,6 +7,8 @@ The table below lists the labels used by The Carpentries in lesson repositories 
 
 | Label                 | Colour hex code | Description                                                             |
 |-------------------------------|--------|----------------------------------------------------------------------------------------|
+| genAI assisted | <span style="display:inline-block; width:1em; height:1em; margin-right:0.4em; vertical-align:middle; border-radius:50%; background-color:#F79237;"></span>F79237 | This contribution involved the use of genAI |
+| extractive | <span style="display:inline-block; width:1em; height:1em; margin-right:0.4em; vertical-align:middle; border-radius:50%; background-color:#860C5E;"></span>860C5E | This contribution will extract maintainer time to review |
 | help wanted | <span style="display:inline-block; width:1em; height:1em; margin-right:0.4em; vertical-align:middle; border-radius:50%; background-color:#DCECC7;"></span>DCECC7 | Looking for contributors |
 | status:in progress | <span style="display:inline-block; width:1em; height:1em; margin-right:0.4em; vertical-align:middle; border-radius:50%; background-color:#9BCC65;"></span>9BCC65 | Contributor working on issue |
 | status:waiting for response | <span style="display:inline-block; width:1em; height:1em; margin-right:0.4em; vertical-align:middle; border-radius:50%; background-color:#679F38;"></span>679F38 | Waiting for Contributor to respond to maintainers comments or update PR |
