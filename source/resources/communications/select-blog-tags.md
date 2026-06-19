@@ -207,6 +207,9 @@ The Carpentries uses Task Forces to explore ideas and make updates in policy, pr
 ### Teaching
 Experience leading a Carpentries Workshop or Carpentries Training.
 
+### UK
+For blog posts related to Carpentries' work in the UK.
+
 ### Website
 For blog posts related to updates to The Carpentries websites. 
 
