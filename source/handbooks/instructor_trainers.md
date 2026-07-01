@@ -97,8 +97,6 @@ To be renewed based on prior participation, an Instructor Trainer is expected to
 * attend 4 Instructor Trainer community meetings, and
 * respond to 4 quarterly scheduling polls
 
-If an Instructor Trainer does not participate in the ways listed above, during the renewal period, the Workshops and Instruction Team will provide additional ways to maintain Active Status. 
-
 ## Offboarding
 
 ### Instructor Trainer Alumni Status  
