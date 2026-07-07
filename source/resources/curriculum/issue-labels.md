@@ -5,6 +5,8 @@ Maintainers are encouraged to make use of these labels and to add additional lab
 ## The Carpentries Issue Labels
 The table below lists the labels used by The Carpentries in lesson repositories and their colour hex codes used on GitHub, and briefly describes the intended use/meaning of each label.
 
+The `genAI assisted` and `extractive` labels are described in the [Generative AI Contributions Policy](https://docs.carpentries.org/policies/genai-policy.html) document.
+
 | Label                 | Colour hex code | Description                                                             |
 |-------------------------------|--------|----------------------------------------------------------------------------------------|
 | genAI assisted | <span style="display:inline-block; width:1em; height:1em; margin-right:0.4em; vertical-align:middle; border-radius:50%; background-color:#F79237;"></span>F79237 | This contribution involved the use of genAI |
