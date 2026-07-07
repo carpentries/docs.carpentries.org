@@ -87,7 +87,7 @@ The diagram below illustrates the following steps in following a Code of Conduct
 
 ## Update Logs
 
-- 2023-01-11 Added the process flow diagram as provided by [Malvika Sharan in this issue](https://github.com/carpentries/docs.carpentries.org/issues/619)
+- 2023-01-11 Added the process flow diagram as provided by Malvika Sharan in this issue.
 
 - 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Cranston (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Cranston, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020).
 
