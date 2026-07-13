@@ -2,13 +2,13 @@
 
 ## Acerca de este manual
 
-El Manual para organizadores de sesiones comunitarias está diseñado para ayudar a los miembros de la comunidad de The Carpentries que organizan sesiones comunitarias. El equipo de participación comunitaria de The Carpentries es el encargado de su mantenimiento.  Si consideras que es necesario agregar o actualizar algo, o si quieres enviar comentarios sobre el contenido, envía un correo electrónico al {{'[equipo de participación comunitaria](mailto:{})'.format(community_email)}} o abre una incidencia en el {{'[repositorio fuente de este manual]({})'.format(gh_repo)}}. Si no conoces alguno de los términos que se usan en este manual, consulta nuestro {{'[Glosario de términos]({})'.format(glossary)}}.
+El Manual para organizadores de sesiones comunitarias está diseñado para ayudar a los miembros de la comunidad de The Carpentries que organizan sesiones comunitarias. El equipo de participación comunitaria de The Carpentries es el encargado de su mantenimiento.  Si consideras que es necesario agregar o actualizar algo, o si quieres enviar comentarios sobre el contenido, envía un correo electrónico al [equipo de participación comunitaria](mailto:community@carpentries.org) o abre una incidencia en el [repositorio fuente de este manual](https://github.com/carpentries/docs.carpentries.org). Si no conoces alguno de los términos que se usan en este manual, consulta nuestro [Glosario de términos](https://docs.carpentries.org/resources/general/glossary.html). 
 
 ## Introducción
 
 Organizar una sesión comunitaria es una excelente manera de conocer a más miembros de la comunidad de The Carpentries, conocer mejor la organización, aprender de las experiencias de otros y compartir tus conocimientos y experiencia con muchas más personas.
 
-Las sesiones comunitarias también son una parte integral de nuestro {{'[Proceso de certificación de capacitación para instructores]({}/checkout)'.format(instructor_training_curriculum)}}, también conocido como “Validación”. Como organizador de sesiones comunitarias, puedes dar la bienvenida a los nuevos instructores a nuestra comunidad global y presentarlos en las sesiones comunitarias como un recurso continuo de apoyo y asesoramiento a medida que desarrollan sus prácticas de enseñanza.
+Las sesiones comunitarias también son una parte integral de nuestro [Proceso de certificación de capacitación para instructores](https://carpentries.github.io/instructor-training//checkout), también conocido como “Validación”. Como organizador de sesiones comunitarias, puedes dar la bienvenida a los nuevos instructores a nuestra comunidad global y presentarlos en las sesiones comunitarias como un recurso continuo de apoyo y asesoramiento a medida que desarrollan sus prácticas de enseñanza.
 
 Los temas tratados durante las sesiones comunitarias van desde la enseñanza de talleres y la creación de planes de estudio hasta la construcción de comunidades locales y la evaluación
 del impacto de nuestros talleres a nivel mundial. Hay cuatro tipos:
@@ -18,7 +18,7 @@ del impacto de nuestros talleres a nivel mundial. Hay cuatro tipos:
 3. **Sesiones de formación:** Una sesión de formación brinda una oportunidad de desarrollo profesional para la comunidad donde se enseñan habilidades pertinentes.
 4. **Sesiones de colaboración:** Las sesiones de colaboración dedican tiempo y espacio a la creación conjunta de un recurso comunitario o al trabajo conjunto en cualquier actividad comunitaria.
 
-**Nota.** Se puede asistir a cualquiera de estos cuatro tipos de sesiones comunitarias para cumplir con el requisito de la {{'[certificación de capacitación para instructores]({}/checkout)'.format(instructor_training_curriculum)}}.
+**Nota.** Se puede asistir a cualquiera de estos cuatro tipos de sesiones comunitarias para cumplir con el requisito de la [certificación de capacitación para instructores](https://carpentries.github.io/instructor-training//checkout).
 
 ## Roles y responsabilidades
 
@@ -32,7 +32,7 @@ Un [miembro de la comunidad](https://docs.carpentries.org/resources/general/glos
 - Facilitar las sesiones comunitarias para las que
   te registraste como organizador.
 - Registrar a los asistentes de cada sesión que organices en Pretix. El equipo principal
-  usa esta información para registrar la participación en {{'[AMY]({})'.format(amy_link)}}, la base de datos interna de
+  usa esta información para registrar la participación en [AMY](https://amy.carpentries.org/dashboard/admin/), la base de datos interna de
   The Carpentries. Esta es la forma principal en la que los futuros instructores reciben crédito por completar este paso de validación.
 
 ## Incorporación
@@ -48,45 +48,45 @@ de participación comunitaria. Te quitarán del canal de Slack #discussion-host 
 ## Espacios de comunicación y colaboración
 
 En esta sección, se enumeran los canales de comunicación y los espacios de colaboración que apoyan a los organizadores de sesiones comunitarias. Se espera que los participantes de estos espacios
-sigan {{"[el Código de conducta de The Carpentries]({})".format(code_of_conduct)}}.  Puedes encontrar una descripción de las herramientas enumeradas en el {{'[glosario de la comunidad]({})'.format(glossary)}}.
+sigan [el Código de conducta de The Carpentries](UPDATE THIS LINK).  Puedes encontrar una descripción de las herramientas enumeradas en el [glosario de la comunidad](https://docs.carpentries.org/resources/general/glossary.html).
 
 ### Calendario comunitario
 
 Una vez que hayas programado una sesión, se enviará una invitación de calendario a la dirección de correo electrónico que usaste al registrarte. Todas las sesiones
-comunitarias también aparecerán en nuestro {{'[calendario comunitario]({}/community/events/)'.format(carpentries_website)}}.
+comunitarias también aparecerán en nuestro [calendario comunitario](https://carpentries.org/community/events/).
 
 ### Etherpad
 
 La lista de Etherpads relevantes para ser organizador de una sesión comunitaria incluye:
 
-- {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}: En lugar de usar Etherpad como lo hacíamos en el pasado (para enumerar las próximas sesiones comunitarias), a partir del 1 de enero de 2026, usamos Pretix para [inscribir a los participantes](https://pretix.carpentries.org/community-events/) en las sesiones comunitarias.
-- {{'[Pad-of-pads]({}/pad-of-pads)'.format(etherpad)}}: Una lista de los Etherpads y otros recursos más utilizados de The Carpentries.
+- [Etherpad de sesión comunitaria](https://pad.carpentries.org/community-discussions): En lugar de usar Etherpad como lo hacíamos en el pasado (para enumerar las próximas sesiones comunitarias), a partir del 1 de enero de 2026, usamos Pretix para [inscribir a los participantes](https://pretix.carpentries.org/community-events/) en las sesiones comunitarias.
+- [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): Una lista de los Etherpads y otros recursos más utilizados de The Carpentries.
 
 ### Mensajería y comunicación
 
-Slack es la plataforma de software que The Carpentries usa para mantener una comunicación sincrónica y asincrónica. Los canales permiten la comunicación, la colaboración y la creación conjunta entre un subconjunto de [miembros de la comunidad](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), según el propósito del canal. Puedes {{'[unirte al espacio de trabajo de Slack de The Carpentries]({})'.format(slack_invite)}} para seguir las conversaciones del canal relacionadas con este rol:
+Slack es la plataforma de software que The Carpentries usa para mantener una comunicación sincrónica y asincrónica. Los canales permiten la comunicación, la colaboración y la creación conjunta entre un subconjunto de [miembros de la comunidad](https://docs.carpentries.org/resources/general/glossary.html#term-Community-Member), según el propósito del canal. Puedes [unirte al espacio de trabajo de Slack de The Carpentries](https://slack-invite.carpentries.org/) para seguir las conversaciones del canal relacionadas con este rol:
 
 - \#discussion-hosts: canal para los organizadores de sesiones comunitarias y para aquellos interesados en organizar sesiones comunitarias.
 
-Si no conoces Slack, nuestra {{"[Guía de Slack]({})".format(slack_guide)}} te ayudará a configurar tu perfil y te dará un resumen de cómo usamos la plataforma en el día a día.
+Si no conoces Slack, nuestra [Guía de Slack](https://zenodo.org/records/15401712) te ayudará a configurar tu perfil y te dará un resumen de cómo usamos la plataforma en el día a día.
 
 ### Lista de correo
 
 Puedes acceder a las listas de correo de The Carpentries en
-{{'[Topicbox]({}/latest)'.format(topicbox)}}.
-{{'[La lista de correo Discussion Host (Organizadores de análisis)]({}/discussion-hosts)'.format(topicbox)}} se usa para los anuncios relacionados con los organizadores de sesiones comunitarias.
-Para unirte a una o más listas de correo de The Carpentries, deberás {{'[iniciar sesión]({}/latest)'.format(topicbox)}}. Una vez que
+[Topicbox](https://carpentries.topicbox.com/latest).
+[La lista de correo Discussion Host (Organizadores de análisis)](https://carpentries.topicbox.com/groups/community-session-hosts) se usa para los anuncios relacionados con los organizadores de sesiones comunitarias.
+Para unirte a una o más listas de correo de The Carpentries, deberás [iniciar sesión](https://carpentries.topicbox.com/latest). Una vez que
 lo hayas hecho, puedes desplazarte por la lista de grupos y hacer clic en “Join the Conversation” (Unirte a la conversación) (para abrir el correo) o “Request to Join” (Solicitar unirte) (para
-las listas de correo que requieren la aprobación del administrador). Si nunca habías usado Topicbox, consulta nuestra {{"[Guía de Topicbox]({})".format(topicbox_guide)}}.
+las listas de correo que requieren la aprobación del administrador). Si nunca habías usado Topicbox, consulta nuestra [Guía de Topicbox](https://zenodo.org/records/14235644).
 
 ## Guías paso a paso
 
 Esta sección incluye guías paso a paso para ayudarte en tu rol de organizador de sesiones comunitarias.
 
-- Cada trimestre, el equipo de participación comunitaria compartirá comunicados por Slack y Topicbox con instrucciones para registrarse para organizar una sesión comunitaria. Visita la [sección Recursos de comunicación de este manual](/resources/communications/index.md) para obtener instrucciones sobre cómo unirte a uno de estos canales de comunicación o a ambos.
+- Cada trimestre, el equipo de participación comunitaria compartirá comunicados por Slack y Topicbox con instrucciones para registrarse para organizar una sesión comunitaria. Visita la [sección Recursos de comunicación de este manual](https://docs.carpentries.org/resources/communications/) para obtener instrucciones sobre cómo unirte a uno de estos canales de comunicación o a ambos.
 - Los organizadores de sesiones comunitarias se registrarán con [Calendly](https://calendly.com/thecarpentries) durante el período de registro. Calendly te permite seleccionar las fechas y horas en tu zona horaria para las sesiones que planeas organizar. Las fechas y horas ya seleccionadas no se mostrarán.
 
-![Animación del registro en Calendly](/images/calendly.gif)
+![Animación del registro en Calendly](https://docs.carpentries.org/_images/calendly.gif)
 
 - Una vez que los organizadores hayan programado una sesión comunitaria a través de Calendly, un flujo de trabajo agregará cada evento a [Pretix](https://pretix.carpentries.org/community-events/) y al [calendario comunitario](https://carpentries.org/community/events/).
 - En el caso excepcional de que necesites programar una sesión fuera del período de programación trimestral, el organizador de la sesión comunitaria debe
@@ -94,7 +94,7 @@ Esta sección incluye guías paso a paso para ayudarte en tu rol de organizador 
 
 #### Cómo registrarte para organizar una sesión comunitaria local o regional
 
-Los líderes de las subcomunidades son responsables de programar y organizar las sesiones comunitarias locales y regionales. Estas sesiones figuran actualmente en el [calendario comunitario](https://carpentries.org/community/events/). Si el líder de una subcomunidad está interesado en incluir una sesión comunitaria regional allí y agregarla al calendario comunitario de The Carpentries, debe enviar un correo electrónico a community@carpentries.org. Si, en cambio, quiere que la sesión se agregue a Pretix, donde las personas pueden inscribirse para asistir, puede agregar los eventos usando [Calendly](https://calendly.com/thecarpentries) durante el período de registro, tal y como se describe en la [sección Cómo registrarte para organizar una sesión comunitaria de este manual](#step-by-step-guides). Esto agregará automáticamente el evento al calendario comunitario y a Pretix. Para obtener más información sobre cómo ser líder de una subcomunidad, visita la [sección de preguntas frecuentes de este manual] (#faq).
+Los líderes de las subcomunidades son responsables de programar y organizar las sesiones comunitarias locales y regionales. Estas sesiones figuran actualmente en el [calendario comunitario](https://carpentries.org/community/events/). Si el líder de una subcomunidad está interesado en incluir una sesión comunitaria regional allí y agregarla al calendario comunitario de The Carpentries, debe enviar un correo electrónico a community@carpentries.org. Si, en cambio, quiere que la sesión se agregue a Pretix, donde las personas pueden inscribirse para asistir, puede agregar los eventos usando [Calendly](https://calendly.com/thecarpentries) durante el período de registro, tal y como se describe en la sección Cómo registrarte para organizar una sesión comunitaria de este manual. Esto agregará automáticamente el evento al calendario comunitario y a Pretix. Para obtener más información sobre cómo ser líder de una subcomunidad, visita la sección de preguntas frecuentes de este manual.
 
 ### Lista de verificación para organizar una sesión comunitaria
 
@@ -166,21 +166,21 @@ Si los participantes se inscribieron, pero los organizadores de las sesiones com
 
 - Inicia sesión al menos 5 minutos antes del inicio de la sesión.
 - Te recomendamos crear una sala de espera. Esto le permite al organizador autorizar el ingreso de las personas, en lugar de que ingrese cualquier persona.
-  - [Obtén más información sobre cómo habilitar y usar una sala de espera como organizador](/resources/communications/zoom_rooms.md#using-a-waiting-room)
+  - [Obtén más información sobre cómo habilitar y usar una sala de espera como organizador](https://docs.carpentries.org/resources/communications/zoom_rooms.html#using-a-waiting-room)
 - Obtén acceso de organizador.
 - Dos días antes del evento, el organizador recibirá un correo electrónico automático de Calendly con la clave de organizador.
-- [Obtén más información sobre cómo usar la clave de organizador para pedir este tipo de acceso.](/resources/communications/zoom_rooms.md#gaining-host-access).
+- [Obtén más información sobre cómo usar la clave de organizador para pedir este tipo de acceso.](https://docs.carpentries.org/resources/communications/zoom_rooms.html#gaining-host-access).
 - Habilita los subtítulos para mejorar la accesibilidad del evento.
   - Zoom proporciona subtítulos automáticos en las llamadas. La precisión de los subtítulos puede estar limitada por factores como la calidad del sonido, los acentos, los dialectos y la jerga.
-  - [Obtén más información sobre cómo habilitar los subtítulos automáticos](/resources/communications/zoom_rooms.md#closed-captioning).
+  - [Obtén más información sobre cómo habilitar los subtítulos automáticos](https://docs.carpentries.org/resources/communications/zoom_rooms.html#closed-captioning).
 - Confirma que el coorganizador esté presente (si lo hay) y quién dirigirá o tomará notas.
 
 #### Durante la sesión
 
-- Usa o adapta el guion para iniciar una [sesión comunitaria](#script-for-starting-a-community-session).
+- Usa o adapta el guion para iniciar una sesión comunitaria.
 
 - Si corresponde, sigue los ejemplos de agenda que aparecen al final del
-  {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}  
+  [Etherpad de sesión comunitaria](https://pad.carpentries.org/community-discussions) 
   y que también están disponibles en la sección de recursos de este
   manual.
 
@@ -203,7 +203,7 @@ Si los participantes se inscribieron, pero los organizadores de las sesiones com
   todos tengan tiempo suficiente para compartir. Al dividir a los asistentes en dos
   grupos, intenta equilibrar la cantidad de personas que están informando, que
   están allí para ayudar antes del taller y que son alumnos de la capacitación para instructores.
-  [Obtén más información sobre cómo configurar y usar las salas para grupos pequeños](/resources/communications/zoom_rooms.md#creating-breakout-rooms).
+  [Obtén más información sobre cómo configurar y usar las salas para grupos pequeños](https://docs.carpentries.org/resources/communications/zoom_rooms.html#creating-breakout-rooms).
 
 #### Durante la sesión y después de ella
 
@@ -219,19 +219,19 @@ El organizador de la sesión comunitaria debe registrar la asistencia de las per
 
 1. Abre el siguiente enlace: <https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/>. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T09:30:00Z).
 
-![Paso 1: Abre el siguiente enlace: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T09:30:00Z)](../img/Pretix_Step_1.png)
+![Paso 1: Abre el siguiente enlace: https://pretix.carpentries.org/control/event/community-events/community-sessions/checkinlists/. Busca la sesión que organizas y haz clic en el nombre (es decir, 2026-01-06T09:30:00Z)](https://docs.carpentries.org/_images/Pretix_Step_1.png)
 
 2. Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.
 
-![Paso 2: Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.](../img/Pretix_Step_2.png)
+![Paso 2: Ahora deberías poder ver una lista de los participantes que se inscribieron en tu evento.](https://docs.carpentries.org/_images/Pretix_Step_2.png)
 
 3. Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla que está a la izquierda del código de pedido. Ten en cuenta que puede haber varias páginas de participantes inscritos.
 
-![Paso 3: Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla que está a la izquierda del código de pedido.](../img/Pretix_Step_3.png)
+![Paso 3: Selecciona a todos los participantes que asistieron a la sesión comunitaria marcando la casilla que está a la izquierda del código de pedido.](https://docs.carpentries.org/_images/Pretix_Step_3.png)
 
 4. Una vez que hayas seleccionado a todos los participantes, puedes hacer clic en “check-in selected participants” (registrar a los participantes seleccionados).  Ahora verás que el estado cambió de “Not checked in” (No registrado) a “Checked in” (Registrado). Los participantes registrados recibirán automáticamente un correo electrónico a través de Pretix en el que se les recordará que deben completar la encuesta si todavía no lo hicieron.
 
-![Paso 4: Una vez que hayas seleccionado a todos los participantes, puedes hacer clic en “check-in selected participants” (registrar a los participantes seleccionados).  Ahora verás que el estado cambió de “Not checked in” (No registrado) a “Checked in” (Registrado). Los participantes registrados recibirán automáticamente un correo electrónico a través de Pretix en el que se les recordará que deben completar la encuesta si todavía no lo hicieron.](../img/Pretix_Step_4.png)
+![Paso 4: Una vez que hayas seleccionado a todos los participantes, puedes hacer clic en “check-in selected participants” (registrar a los participantes seleccionados).  Ahora verás que el estado cambió de “Not checked in” (No registrado) a “Checked in” (Registrado). Los participantes registrados recibirán automáticamente un correo electrónico a través de Pretix en el que se les recordará que deben completar la encuesta si todavía no lo hicieron.](https://docs.carpentries.org/_images/Pretix_Step_4.png)
 
 ## Recursos
 
@@ -247,14 +247,14 @@ comenzar.
 
 - Usaremos el Etherpad para tomar notas en colaboración. Todos
   son bienvenidos a tomar notas durante la sesión de hoy, pero [nombre] también será la persona designada para tomar notas.
-  - _El organizador debe compartir el enlace en el chat:_ {{'[Etherpad de sesión comunitaria]({}/community-discussions)'.format(etherpad)}}
+  - _El organizador debe compartir el enlace en el chat:_ [Etherpad de sesión comunitaria](https://pad.carpentries.org/community-discussions)
 - Habilité los subtítulos automáticos, que pueden visualizar
   en sus pantallas mediante la función de subtítulos.
 - Si tienen alguna pregunta, usen la reacción “levantar la mano” en
   Zoom.
 - Para dejar en claro lo que se espera, todos los que participen en las actividades de The
   Carpentries deben cumplir con nuestro Código de conducta.
-  - _El organizador debe compartir el enlace en el chat:_ {{'[Código de conducta]({})'.format(code_of_conduct)}}
+  - _El organizador debe compartir el enlace en el chat:_ [Código de conducta](https://docs.carpentries.org/policies/coc/)
   - Cualquier forma de comportamiento que excluya, intimide o cause molestias
     constituye una violación del Código de conducta. Para fomentar
     un entorno de aprendizaje positivo y profesional, los alentamos
@@ -270,9 +270,9 @@ comenzar.
     - _El organizador debe compartir el enlace en el chat:_ [Formulario de denuncia de incidentes relacionados con el Código de conducta de The Carpentries](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 - Si asisten a esta sesión como parte de la validación
   de la capacitación para instructores, asegúrense de haberse inscrito en Pretix.
-  - _El organizador debe compartir el enlace en el chat:_ [Sesiones comunitarias en Pretix](https://pretix.carpentries.org/community-events/community-sessions/)
+    - _El organizador debe compartir el enlace en el chat:_ [Sesiones comunitarias en Pretix](https://pretix.carpentries.org/community-events/community-sessions/)
 
-¿Alguien tiene alguna pregunta antes de empezar?
+¿Alguien tiene alguna pregunta antes de empir?
 
 ## PREGUNTAS FRECUENTES
 
@@ -289,7 +289,7 @@ del equipo principal las responderá.
 y no puede comunicarse? ¿Qué sucede si Zoom no funciona (por ejemplo, tu
 conexión a Internet falla)?**
 
-Es muy importante que pruebes tu conexión a Internet de antemano y que te asegures de que, como organizador, puedas comunicarte. El organizador es el líder de la sesión y debe tener una conexión estable. Sin embargo, si cuando pruebas tu conexión, descubres que no es buena, comunícate con la comunidad a través de [nuestros canales de comunicación](/resources/communications/index.md#communication-spaces) para averiguar si alguien puede ser el organizador de la sesión.
+Es muy importante que pruebes tu conexión a Internet de antemano y que te asegures de que, como organizador, puedas comunicarte. El organizador es el líder de la sesión y debe tener una conexión estable. Sin embargo, si cuando pruebas tu conexión, descubres que no es buena, comunícate con la comunidad a través de [nuestros canales de comunicación](https://docs.carpentries.org/resources/communications/index.html#communication-spaces) para averiguar si alguien puede ser el organizador de la sesión.
 
 **¿Qué sucede si nadie asiste?**
 
@@ -323,7 +323,7 @@ el ruido de fondo?**
 
 Como organizador, tendrás el privilegio de desactivar el micrófono de otros participantes, o
 puedes pedirle directamente a la persona que desactive su micrófono. Obtén más información
-sobre cómo usar [las funciones de organizador de Zoom](/resources/communications/zoom_rooms.md).
+sobre cómo usar [las funciones de organizador de Zoom](https://docs.carpentries.org/resources/communications/zoom_rooms.html).
 
 **¿Qué sucede si olvido registrar a los participantes?**
 
@@ -332,7 +332,7 @@ No te preocupes, tienes hasta 24 horas después de la sesión para registrar a l
 **¿Qué sucede si alguien viola el Código de conducta? ¿Qué sucedería si alguien tuviera
 una denuncia por mala conducta?**
 
-Si esto sucediera, The Carpentries tiene un {{'[conjunto de pautas que se pueden seguir]({})'.format(code_of_conduct)}}.
+Si esto sucediera, The Carpentries tiene un [conjunto de pautas que se pueden seguir](https://docs.carpentries.org/policies/coc/).
 
 **¿Qué sucede si una persona no contribuye a la conversación?**
 
@@ -409,3 +409,6 @@ con los nombres de las personas que asistieron pero permanecen en la lista de es
 **¿Qué sucede si un asistente no se inscribió antes de que comenzara la sesión?**
 
 El organizador de la sesión comunitaria debe pedir a los asistentes que aún no se hayan inscrito en Pretix que lo hagan antes de que termine la sesión. Una vez que hayan completado su inscripción, el organizador podrá registrarlos en Pretix. Esto garantiza que la asistencia se registre con precisión y, al mismo tiempo, permite a los participantes formar parte de la sesión.
+
+
+
