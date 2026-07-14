@@ -6,7 +6,7 @@ The Subcommunity Leaders Handbook is designed to support the Carpentries communi
 
 ## Introduction
 
-Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified, Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
+Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
 
 ## Roles and Responsibilities
 
@@ -197,6 +197,7 @@ In what follows, you will find resources to identify Carpentries lesson programs
 - [Library Carpentry](https://librarycarpentry.org/)
 - [Software Carpentry](https://software-carpentry.org/)
 - [Instructor Training](https://carpentries.org/instructor-training/)
+- [Generative AI in Workshops Bonus Module](https://carpentries.org/genai/)
 - [Learner-centred Teaching](https://carpentries.org/learner-centered-teaching/)
 - [Instructor Trainer Training](https://carpentries.org/instructor-trainer-training/)
 - [Collaborative Lesson Development](https://carpentries.org/lesson-development/)
@@ -205,7 +206,7 @@ In what follows, you will find resources to identify Carpentries lesson programs
 
 ### Engaging your Subcommunity
 
-Below we list resources to support Subcommunity Leaders in keeping their subcommunities engaged, navigating Slack, TopicBox, Social Platforms and the Community Events Calendar. We also share information about blog posts, newsletter subscriptions, and other subcommunity communication channels. 
+Below, we list resources to support Subcommunity Leaders in keeping their subcommunities engaged, navigating Slack, TopicBox, Social Platforms and the Community Events Calendar. We also share information about blog posts, newsletter subscriptions, and other subcommunity communication channels. 
 
 - [Community Session Host Handbook](https://docs.carpentries.org/handbooks/community_session_host.html) 
 - [Carpentries General Resource](https://docs.carpentries.org/resources/general/) 
