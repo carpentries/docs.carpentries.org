@@ -35,6 +35,8 @@ A [community member](https://docs.carpentries.org/resources/general/glossary.htm
    Team uses this information to record participation in {{'[AMY]({})'.format(amy_link)}}, The 
    Carpentries internal database. This is the primary way future Instructors get credit for completing this checkout step.
 
+   **Note**: From 1 January 2027, all community sessions listed on the community calendar will be required to have a sign-up page in Pretix.      View our quarterly sign-up workflow below(#step-by-step-guides). 
+
 ## Onboarding
 
 Please note that, from 1 January 2026, the onboarding process for Community Session Hosts will no longer be in use. Community sessions are open to anyone in the community to host, provided that sessions adhere to The Carpentries Code of Conduct. No formal onboarding is required.
