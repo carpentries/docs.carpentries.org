@@ -105,7 +105,7 @@ Active Instructor Trainers may elect to become inactive by requesting Instructor
 
 Active Instructor Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Instructor Trainer Roles and Responsibilities for 1 year or more. Active Instructor Trainers may also have their role changed to Instructor Trainer Alumni if they do not renew their Active status during the annual renewal period.
 
-### Instructor Trainer Alumni will not be permitted to:
+### Instructor Trainer Alumni are not eligible to:
 
 * Teach Carpentries Instructor Training workshops.
 * Host teaching demonstrations.  
@@ -138,7 +138,7 @@ All regularly scheduled Instructor Trainer community meetings and teaching demon
 ### GitHub Repositories
 
 * [carpentries/instructor-training](https://github.com/carpentries/instructor-training): the Instructor Training Curriculum. Specific suggestions or observations regarding curriculum content should be directed to issues or pull requests here for further discussion.   
-* [carpentries/Instructor Trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.    
+* [carpentries/trainers](https://github.com/carpentries/trainers): the Instructor Trainer community repository. Includes archives of Instructor Trainer meeting notes, Instructor Trainers Leadership materials and proposals, and discussions of interest to the Instructor Trainer community.    
 * [carpentries/instructor-training-bonus-modules](https://github.com/carpentries/instructor-training-bonus-modules): the Instructor Training Bonus Module Curriculum.   
 
 
