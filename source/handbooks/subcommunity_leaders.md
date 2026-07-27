@@ -213,7 +213,7 @@ Below, we list resources to support Subcommunity Leaders in keeping their subcom
 - [Carpentries Communications Resources](https://docs.carpentries.org/resources/communications/)
 - [Carpentries Blog Posts](https://carpentries.org/blog/)
 - [Carpentries Clippings](https://carpentries.org/about-us/newsletter/)
-- [Carpentries Events](]https://carpentries.org/community/events/) 
+- [Carpentries Events](https://carpentries.org/community/events/) 
 - [Get involved with The Carpentries](https://carpentries.org/community/get-involved/) 
 - [Carpentries Glossary](https://docs.carpentries.org/resources/general/glossary.html)
 
