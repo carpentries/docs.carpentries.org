@@ -169,7 +169,7 @@ The registry is designed to:
 To get started, visit the [Subcommunity Registry](https://carpentries.org/community/get-connected/) page. 
 
 
-### Signing Up to Host a Local or Regional Community Session
+### Host a Local or Regional Community Session
 
 This [section](https://docs.carpentries.org/handbooks/community_session_host.html#step-by-step-guides) in the Handbook includes step-by-step guides to support you in your role as a Community Session Host
 
