@@ -6,11 +6,11 @@ The Subcommunity Leaders Handbook is designed to support the Carpentries communi
 
 ## Introduction
 
-Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
+Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among local and regional members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
 
 ## Roles and Responsibilities
 
-Subcommunity Leaders (SCLs) are community champions who promote the work of The Carpentries and connect members within a region, language group, or area of interest. They play an important role in strengthening local and global community engagement by creating inclusive spaces for collaboration, shared learning, and participation. SCLs are not workshop administrators or Regional Coordinators, and they do not need to be certified Instructors or Trainers.
+Subcommunity Leaders (SCLs) are community champions who promote the work of The Carpentries and connect members within a region, language group, or area of interest. They play an important role in strengthening local and global community engagement by creating inclusive spaces for collaboration, shared learning, and participation. 
 
 Anyone passionate about building local Carpentries communities and fostering collaboration can become a Subcommunity Leader. SCLs embody the mission of The Carpentries by supporting a diverse global community with essential data and computational skills, promoting open and reproducible research practices, and encouraging collaborative lesson development and research-informed teaching methods.
 
@@ -18,7 +18,7 @@ Anyone passionate about building local Carpentries communities and fostering col
 
 - Promote The Carpentries and support Partnership outreach activities.
 - Host subcommunity calls, meetups such as CarpentryConnects, and self-organised workshops.
-- Encourage participation in Instructor Training, Maintainer roles, lesson development, and other community activities.
+- Encourage participation in Instructor Training, Maintainer roles, lesson development, and other Carpentries community activities.
 - Represent and support registered subcommunities within the broader Carpentries network.
 - Facilitate local engagement, collaboration, and community-driven initiatives.
 
@@ -39,7 +39,7 @@ These resources include:
 
 * The Subcommunity Leaders Handbook.
 * Onboarding materials.
-* Available translations of onboarding resources (as they are being developed).
+* Available translations of resources (as they are being developed).
 * Workshop-related resources, including access to pre- and post-workshop survey results.
 
 These materials help leaders plan, engage members, and support subcommunities.
@@ -55,8 +55,7 @@ Quarterly meetings provide opportunities to:
 * Discuss challenges and seek support.
 * Explore opportunities for collaboration across regions and communities.
 
-Leaders could also join Instructor and Instructor Trainer Meetings; these offer chances to learn, share, and stay informed.
-
+Leaders could also join Instructor and Instructor Trainer Meetings (where appropriate); these offer chances to learn, share, and stay informed.
 
 #### Operational Support
 
@@ -64,7 +63,7 @@ The Core Team assists with subcommunity management and engagement activities.
 
 Support may include:
 
-* Scheduling quarterly community sessions.
+* Scheduling local and regional sessions.
 * Providing access to Zoom rooms for regional calls and community events.
 * Setting up Slack channels and TopicBox mailing lists.
 * Adding a subcommunity to the Subcommunity registry.
@@ -76,7 +75,7 @@ Leaders organising Self-Organised Workshops can request extra support, including
 * Promotion of workshops through The Carpentries website and communication channels.
 * Access to pre- and post-workshop survey result links.
 
-Subcommunities may request one Genomics Workshop supported by AWS.
+Onboarded Subcommunity Leaders may request one Genomics Workshop supported by 20 Amazon Web Services (AWS) instances.
 
 #### Leadership Development
 
@@ -97,14 +96,11 @@ Recognition highlights the work leaders do to support communities.
 
 #### Feedback and Continuous Improvement
 
-Leader feedback helps shape resources and support.
-
-Leaders are encouraged to provide feedback on the programme and suggest new resources or services. Feedback helps keep support relevant.
+Leader feedback helps shape resources and support. Leaders are encouraged to provide feedback on the programme and suggest new resources or services. Feedback helps keep support relevant.
 
 #### Getting Support
 
 The Core Team answers questions and offers guidance on all activities and processes. Leaders should reach out whenever they need support.
-
 
 ## Subcommunity Registry
 
@@ -135,11 +131,14 @@ This section lists communication channels and collaboration spaces that support 
 
 ### Community Calendar
 
-Copy over the verbiage from this link: https://docs.carpentries.org/handbooks/community_session_host.html#community-calendar
+Once you have scheduled a session, a calendar invite will be sent to the email address you used when signing up. All community sessions will also be listed on our [Community Calendar](https://carpentries.org/community/events/).
 
 ### Etherpad 
 
-Copy over the verbiage from this link: https://docs.carpentries.org/handbooks/community_session_host.html#etherpad
+A list of Etherpads relevant to serving as a Community Session Host includes:
+
+- [Community Session Etherpad](https://pad.carpentries.org/community-discussions): Instead of using the Etherpad as we have in the past (to list upcoming Community Sessions), we use Pretix for Community Session sign-ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
+- [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of The Carpentries’ most commonly used Etherpads and other resources.
 
 ### Messaging and Communication
 
@@ -154,7 +153,6 @@ If Slack is new to you, our [Slack Quick Start Guide](https://zenodo.org/records
 ### Mailing List
 
 You can access The Carpentries mailing lists from [Topicbox](https://carpentries.topicbox.com/groups/latest). The [Subcommunity Leaders list](https://carpentries.topicbox.com/groups/carpentries-subcommunity-leade) is used for announcements relevant to Subcommunity Leaders. To join one or more Carpentries mailing lists, you will need to [create a login](https://carpentries.topicbox.com/groups/latest). Once you have done this, you can scroll through the list of groups and click “Join the Conversation” (for open mailing lists) or “Request to Join” (for mailing lists requiring administrator approval). If you are new to Topicbox, please check out our [Topicbox Quick Start Guide](https://doi.org/10.5281/zenodo.14235643).
-
 
 
 ## Step-by-Step Guides
@@ -173,16 +171,14 @@ To get started, visit the [Subcommunity Registry](https://carpentries.org/commun
 
 ### Signing Up to Host a Local or Regional Community Session
 
-Copy over verbiage from https://docs.carpentries.org/handbooks/community_session_host.html#step-by-step-guides
-
-https://docs.carpentries.org/handbooks/community_session_host.html#script-for-starting-a-community-session
+This [section](https://docs.carpentries.org/handbooks/community_session_host.html#step-by-step-guides) in the Handbook includes step-by-step guides to support you in your role as a Community Session Host
 
 
 ## Resources 
 
 ### General overview of The Carpentries
 
-Below you will find resources describing our mission, vision, values, and CoC, as well as where to find information about subcommunities on the Carpentries website.
+Below you will find resources describing our mission, vision, values, and Code of Conduct, as well as where to find information about subcommunities on the Carpentries website.
 
 - [About The Carpentries](https://carpentries.org/about-us/) 
 - [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/) 
@@ -208,7 +204,8 @@ In what follows, you will find resources to identify Carpentries lesson programs
 
 Below, we list resources to support Subcommunity Leaders in keeping their subcommunities engaged, navigating Slack, TopicBox, Social Platforms and the Community Events Calendar. We also share information about blog posts, newsletter subscriptions, and other subcommunity communication channels. 
 
-- [Community Session Host Handbook](https://docs.carpentries.org/handbooks/community_session_host.html) 
+- [Community Session Host Handbook](https://docs.carpentries.org/handbooks/community_session_host.html)
+- [Script for Starting a Community Session](https://docs.carpentries.org/handbooks/community_session_host.html#script-for-starting-a-community-session) 
 - [Carpentries General Resource](https://docs.carpentries.org/resources/general/) 
 - [Carpentries Communications Resources](https://docs.carpentries.org/resources/communications/)
 - [Carpentries Blog Posts](https://carpentries.org/blog/)
