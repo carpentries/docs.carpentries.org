@@ -1,4 +1,4 @@
-# Subcommunity Leader Handbook
+ # Subcommunity Leader Handbook
 
 ## About This Handbook
 
@@ -17,7 +17,7 @@ Anyone passionate about building local Carpentries communities and fostering col
 ### Responsibilities of Subcommunity Leaders
 
 - Promote The Carpentries and support Partnership outreach activities.
-- Host subcommunity calls, meetups such as CarpentryConnects, and self-organised workshops.
+- Host subcommunity calls, meetups, and host 2 self-organised workshops per year.
 - Encourage participation in Instructor Training, Maintainer roles, lesson development, and other Carpentries community activities.
 - Represent and support registered subcommunities within the broader Carpentries network.
 - Facilitate local engagement, collaboration, and community-driven initiatives.
