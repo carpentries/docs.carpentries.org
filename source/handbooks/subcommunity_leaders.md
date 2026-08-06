@@ -2,11 +2,11 @@
 
 ## About This Handbook
 
-The Subcommunity Leaders Handbook is designed to support the Carpentries community members who serve as Subcommunity Leaders. The Carpentries Community Engagement Team maintains it. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the Community Engagement Team or open an issue on the [source repository of this handbook](https://github.com/carpentries/docs.carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our [Glossary of terms](https://docs.carpentries.org/resources/general/glossary.html). 
+The Subcommunity Leaders Handbook is designed to support the Carpentries community members who serve as Subcommunity Leaders. The Carpentries Community Engagement Team maintains it. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the Community Engagement Team at [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [source repository of this handbook](https://github.com/carpentries/docs.carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our [Glossary of terms](https://docs.carpentries.org/resources/general/glossary.html). 
 
 ## Introduction
 
-Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among local and regional members, coordinate activities that respond to local or thematic needs, and increase visibility through the Subcommunity Registry. 
+Subcommunity Leaders are community champions who promote The Carpentries and connect members within a region, language group, or area of interest. They are not workshop administrators or Regional Coordinators, and do not need to be certified Instructors or Instructor Trainers. Subcommunity Leaders strengthen connections among local and regional members, coordinate activities that respond to local or thematic needs, and increase visibility through the [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunities). 
 
 ## Roles and Responsibilities
 
@@ -17,7 +17,7 @@ Anyone passionate about building local Carpentries communities and fostering col
 ### Responsibilities of Subcommunity Leaders
 
 - Promote The Carpentries and support Partnership outreach activities.
-- Host subcommunity calls, meetups, and host 2 self-organised workshops per year.
+- Host subcommunity calls, meetups, and host 2 Self-Organised Workshops per year.
 - Encourage participation in Instructor Training, Maintainer roles, lesson development, and other Carpentries community activities.
 - Represent and support registered subcommunities within the broader Carpentries network.
 - Facilitate local engagement, collaboration, and community-driven initiatives.
@@ -66,7 +66,7 @@ Support may include:
 * Scheduling local and regional sessions.
 * Providing access to Zoom rooms for regional calls and community events.
 * Setting up Slack channels and TopicBox mailing lists.
-* Adding a subcommunity to the Subcommunity registry.
+* Adding a subcommunity to the [Subcommunity Registry](https://carpentries.org/community/get-connected/#subcommunities).
 * Supporting the registration of Self-Organised Workshops (SOWs).
 
 Leaders organising Self-Organised Workshops can request extra support, including:
@@ -118,12 +118,12 @@ Subcommunities within The Carpentries can formally [register](https://carpentrie
 
 The onboarding programme for Subcommunity Leaders offers a structured introduction to The Carpentries, with particular attention to multilingual communication, subcommunity coordination, and the organisation’s mission and pedagogy. Delivered across four one-hour sessions, the programme combines [presentations](https://docs.google.com/presentation/d/1qgGaB2aCd6FBhcgC96I-l4eBuxiLGhNvKSRnLium1S8/edit?slide=id.p#slide=id.p), facilitated discussion, practical activities, and reflection to prepare leaders to steward their subcommunities effectively and inclusively.
 
-Participants engage with The Carpentries’ programmatic offerings, Partnership model, and research-informed teaching practices, while gaining clarity on the Subcommunity Leader role and its scope of work. The programme provides space to explore approaches to hosting community calls, meetups, and self-organised workshops, and to strengthen engagement within regional contexts. 
+Participants engage with The Carpentries’ programmatic offerings, Partnership model, and research-informed teaching practices, while gaining clarity on the Subcommunity Leader role and its scope of work. The programme provides space to explore approaches to hosting community calls, meetups, and Self-Organised Workshops, and to strengthen engagement within regional contexts. 
 
 
 ## Offboarding
 
-If you are no longer interested in serving as a Subcommunity Leader, please email the [Community Engagement Team](mailto:community@carpentries.org). 
+If you are no longer interested in serving as a Subcommunity Leader, please email the Community Engagement Team at [community@carpentries.org](mailto:community@carpentries.org). 
 
 ## Communication and Collaboration Spaces
 
@@ -135,7 +135,7 @@ Once you have scheduled a session, a calendar invite will be sent to the email a
 
 ### Etherpad 
 
-A list of Etherpads relevant to serving as a Community Session Host includes:
+A list of Etherpads relevant to serving as a Subcommunity Leader and a Community Session Host includes:
 
 - [Community Session Etherpad](https://pad.carpentries.org/community-discussions): Instead of using the Etherpad as we have in the past (to list upcoming Community Sessions), we use Pretix for Community Session sign-ups starting 1 January 2026 for [participant registrations](https://pretix.carpentries.org/community-events/).
 - [Pad-of-pads](https://pad.carpentries.org/pad-of-pads): A list of The Carpentries’ most commonly used Etherpads and other resources.
@@ -162,7 +162,7 @@ You can access The Carpentries mailing lists from [Topicbox](https://carpentries
 
 The registry is designed to:
 
-- Highlight subcommunities and their activities to increase visibility
+- Highlight subcommunities and their activities to increase visibility.
 - Connect members with subcommunities that align with their interests and offer engagement opportunities.
 - Support recruitment efforts by helping subcommunities attract new members.
 
@@ -193,8 +193,8 @@ In what follows, you will find resources to identify Carpentries lesson programs
 - [Library Carpentry](https://librarycarpentry.org/)
 - [Software Carpentry](https://software-carpentry.org/)
 - [Instructor Training](https://carpentries.org/instructor-training/)
-- [Generative AI in Workshops Bonus Module](https://carpentries.org/genai/)
 - [Learner-centred Teaching](https://carpentries.org/learner-centered-teaching/)
+- [Generative AI in Workshops Bonus Module](https://carpentries.org/genai/)
 - [Instructor Trainer Training](https://carpentries.org/instructor-trainer-training/)
 - [Collaborative Lesson Development](https://carpentries.org/lesson-development/)
 - [Professional Development Courses](https://carpentries.org/professional-development/)
@@ -206,7 +206,7 @@ Below, we list resources to support Subcommunity Leaders in keeping their subcom
 
 - [Community Session Host Handbook](https://docs.carpentries.org/handbooks/community_session_host.html)
 - [Script for Starting a Community Session](https://docs.carpentries.org/handbooks/community_session_host.html#script-for-starting-a-community-session) 
-- [Carpentries General Resource](https://docs.carpentries.org/resources/general/) 
+- [Carpentries General Resources](https://docs.carpentries.org/resources/general/) 
 - [Carpentries Communications Resources](https://docs.carpentries.org/resources/communications/)
 - [Carpentries Blog Posts](https://carpentries.org/blog/)
 - [Carpentries Clippings](https://carpentries.org/about-us/newsletter/)
@@ -217,7 +217,7 @@ Below, we list resources to support Subcommunity Leaders in keeping their subcom
 
 ### Hosting Self-Organised Workshops
 
-In this section of the handbook, we will share resources and guidance on preparing for self-organised workshops within The Carpentries. 
+In this section of the handbook, we will share resources and guidance on preparing for Self-Organised Workshops within The Carpentries. 
 
 - [Carpentries Workshops](https://docs.carpentries.org/resources/workshops/)
 - [Hosting a Carpentries Workshop](https://carpentries.org/workshops/host-workshop/)
@@ -225,7 +225,7 @@ In this section of the handbook, we will share resources and guidance on prepari
 
 ### Additional Opportunities for Involvement
 
-This part of the handbook highlights additional roles and opportunities to contribute within The Carpentries, including participation as a Board member, Lesson Developer, Lesson Program Governor, Maintainer, or Curriculum Advisor. It also shares resources and guidance on accessing training, understanding governance structures, and engaging with the wider community
+This part of the handbook highlights additional roles and opportunities to contribute within The Carpentries, including participation as a Board member, Lesson Developer, Lesson Program Governor, Maintainer, or Curriculum Advisor. It also shares resources and guidance on accessing training, understanding governance structures, and engaging with the wider community.
 
 - [Board of Directors](https://docs.carpentries.org/handbooks/board_of_directors.html)
 - [Lesson Developers](https://docs.carpentries.org/handbooks/lesson_developers.html)
