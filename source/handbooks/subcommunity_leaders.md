@@ -2,7 +2,7 @@
 
 ## About This Handbook
 
-The Subcommunity Leaders Handbook is designed to support the Carpentries community members who serve as Subcommunity Leaders. The Carpentries Community Engagement Team maintains it. If you believe anything needs to be added or updated here, or if you would like to provide feedback on the content, please email the Community Engagement Team at [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [source repository of this handbook](https://github.com/carpentries/docs.carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our [Glossary of terms](https://docs.carpentries.org/resources/general/glossary.html). 
+The Subcommunity Leaders Handbook is designed to support the Carpentries community members who serve as Subcommunity Leaders. The Carpentries Community Engagement Team maintains it. If you believe anything needs to be added or updated here, please email the Community Engagement Team at community@carpentries.org or open an issue on the [source repository of this handbook](https://github.com/carpentries/docs.carpentries.org). If you are unfamiliar with any of the terms used in this handbook, please refer to our [Glossary of terms](https://docs.carpentries.org/resources/general/glossary.html). 
 
 ## Introduction
 
