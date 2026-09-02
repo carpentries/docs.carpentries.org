@@ -16,3 +16,5 @@
 
 For more resources, please visit the Additional Resources section of the [Instructor Tip Sheet](/resources/general/tip-sheets.md).
 
+[Continuing Education Resources for Learners](continued_learning.md): A collection of resources pooled together by our community for extended learning after, or adjacent to, a Carpentries workshop
+
