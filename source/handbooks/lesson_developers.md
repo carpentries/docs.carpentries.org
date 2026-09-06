@@ -88,7 +88,7 @@ Calendar](https://carpentries.org/community/events/). You
 can add relevant events to your personal calendar from there by clicking
 on the event you would like to attend.
 
-### Etherpad
+### Collaborative Notetaking
 
 The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Below is a list of Etherpads relevant to serving as a Lesson Developer.
 
