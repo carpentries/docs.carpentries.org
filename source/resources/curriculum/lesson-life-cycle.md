@@ -25,6 +25,9 @@ The Carpentries labels the development status of lessons in a similar system to 
 * **_Stable:_**: the lesson has undergone extensive testing and major changes are not expected (without significant warning).
   The content of stable lessons will still change from time to time, but the changes are usually small and do not heavily impact an instructor’s ability to teach it if they are familiar with an earlier (stable) version.
   This label is typically applied to a lesson after feedback from beta pilot workshops has been incorporated.
+* **_Retired_**: the lesson is no longer being maintained.
+  The content of the lesson will no longer be updated, and can be expected to be outdated.
+  This label is typically applied when the developers/maintainers of a lesson have no plans to develop it further, and they want to signal to any visitors to the lesson site that the resource is no longer being maintained.
 
 The life cycle stage of a lesson is prominently displayed at the top of the page on lesson websites.
 It is also visible as a 'topic' on the GitHub repository of the lesson, beneath the _About_ box on the right-hand side of the repository homepage.
@@ -59,5 +62,9 @@ However, here are some other actions that lesson developers can take at differen
 * **Stable:**
   * [Release the stable version to Zenodo](./lesson-release.md).
 	  * You might like to repeat this process regularly, e.g. make annual releases.
+* **Retired:**
+  * Add a note to the `README.md` and `index.md` of the lesson repository, warning visitors that the resource is unmaintained.
+    If somebody else is continuing to develop and maintain a fork of the project, you might consider adding a link from these notices to that fork.
+  * [Archive the GitHub lesson repository](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) to prevent the opening of any new issues or pull requests.
 
 ![The Carpentries lesson life cycle model annotated to show more details of what can happen at each stage of the process](../../img/life_cycle_annotated.svg)
