@@ -210,7 +210,8 @@ Guidelines on preparing to teach an Instructor Training Event can be found in th
 
 ##### Tracking Training Event Attendance
 
-During an Instructor Training event, Instructor Trainers are asked to record attendance for all trainees using [a spreadsheet similar to this](https://docs.google.com/spreadsheets/d/1RjiM8tL6CToMwGO2w7GAQwWHfYPb82RrQfuflF7hMjU/edit#gid=0). This spreadsheet will be created by the Core Team and shared with Instructor Trainers a week before their event. Attendance may be taken at the beginning of an event. In addition, Instructor Trainers are asked to observe continued attendance for all participants and annotate the attendance sheet if a trainee is absent for more than 1 hour on any day. Accurate records of time missed will allow the Core Team to determine appropriate makeup options for trainees who wish to complete checkout.
+[Log in to Pretix](https://pretix.carpentries.org/control/) and check participants in. All Instructor Trainers teaching an event in a given quarter will have login access during that quarter.   View the [Community Session Host handbook](/handbooks/community_session_host.md#how-to-check-in-participants-to-pretix) for guides on how to check participants in. Note that you may see 2-4 check in lists within your event, depending on the event duration. Be sure to record each day's attendance individually. Trainees should be marked absent if they miss more than one hour of any day. Accurate records of time missed will allow the Core Team to determine appropriate makeup options for trainees who wish to complete checkout.
+
 
 ### Teaching Demonstrations
 
@@ -220,7 +221,7 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 * When signups open, Instructor Trainers will receive an email via Topicbox asking them to sign up for teaching demos in the coming quarter via Calendly.   
 * Calendly will automatically send an event confirmation email and calendar invitation.   
-* After the response deadline has passed, a Carpentries Core Team member will create a list of events to post to the [Teaching Demonstrations Etherpad](https://pad.carpentries.org/teaching-demos). 
+* After the response deadline has passed, a Carpentries Core Team member will post teaching demos to the [Pretix calendar](https://pretix.carpentries.org/training/teaching-demos/).
 
 #### Prepare for a Demo
 
@@ -228,9 +229,9 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 * Instructor Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) section of the Instructor Training Curriculum.  
 * Get acquainted with using [Zoom](/resources/communications/zoom_rooms.md) for videoconferencing.  
 * Check your Calendly confirmation email for the Host Key to use on Zoom, and keep this where you can find it. This will be necessary to allow trainees to screen share during your demo.  
-* A day or two before the demo, send a reminder to trainees based on this [email template](/resources/instructor-training/index.md#reminder-teaching-demo). This often prompts questions or cancellations. You may wish to use this [community-developed script](https://github.com/jcoliver/auto-demo-email) to generate your emails.  
-* Trainees will select their starting point. Suggested start points are available in the [Instructor Training Curriculum (under More)](https://carpentries.github.io/instructor-training/instructor/demo_lessons.html).   
-* If a trainee has selected a lesson that is not on the list above, you may ask them to choose a different lesson or, if you are familiar with the lesson, you may choose a start point and allow them to use it anyway. Be sure the start point does not require any setup or rely on any dependencies from prior episodes.
+* [Log in to Pretix](https://pretix.carpentries.org/control/) to view who has registered for your demo session. All Instructor Trainers leading a demo in a given quarter will have login access during that quarter.  
+* Instructor Trainers do not need to send trainees a reminder email; this is handled by Pretix.
+* At the point of registration, trainees are asked to confirm their selected lesson is from our [approved list of lessons](https://carpentries.github.io/instructor-training/instructor/demo_lessons.html) and that they may be asked to reschedule if they choose a different lesson. Demo hosts will not see the chosen lesson in advance.
 
 #### Host a Demo
 
@@ -246,9 +247,10 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 * After everyone has gone, if all of the trainees passed, it is ok to tell the group. Either way, tell the group you will email them afterward to follow up .  
 * More tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) of the instructor training website.
 
-#### After a Demo: Report and Etherpad Cleanup
+#### After a Demo
 
-* Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.  
+* [Log in to Pretix](https://pretix.carpentries.org/control/) and check participants in. This only tracks attendance. The next step will notify The Carpentries about who passed and who did not pass.  View the [Community Session Host handbook](/handbooks/community_session_host.md#how-to-check-in-participants-to-pretix) for guides on how to check participants in. 
+* Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.
 * Save Etherpad by selecting the “star” at the top right of the screen  
 * Clear Etherpad of data from your session.  
 * Send each trainee an email using our templates letting them know they [passed](/resources/instructor-training/index.md#trainee-passed-teaching-demo) or [did not pass](/resources/instructor-training/index.md#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
@@ -257,18 +259,12 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 **If no trainees have signed up:**
 
-1. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos). It is important to do this first to prevent anyone from signing up\! You have permission to remove your own demo and do not need to ask.  
-2. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events) and the [Pretix calendar](https://pretix.carpentries.org/training/teaching-demos/).
 
 **If trainees have signed up:**
 
-1. If there is enough time, post a message in the \#Trainers Slack channel and/or send an email to [Instructor Trainers@lists.carpentries.org](mailto:trainers@lists.carpentries.org) to find someone who can take your place. (You may choose to skip this step, e.g. if there are only 1-2 people signed up.)  
-   1. If someone can take your place, confirm with them and have them add their information on the Etherpad.   
-   2. Ensure someone on the Core Team knows so they can be added to the calendar invitation. When in doubt, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).  
-   3. You are done\!  
-2. If step 1 is skipped or unsuccessful, email the trainees to let them know the demo has been cancelled, and ask them to sign up for a different session.  
-3. Remove the event from the [Etherpad](https://pad.carpentries.org/teaching-demos).  
-4. Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events).
+1. If there is enough time, post a message in the \#Trainers Slack channel and/or send an email to [Instructor Trainers@lists.carpentries.org](mailto:trainers@lists.carpentries.org) to find someone who can take your place. (You may choose to skip this step, e.g. if there are only 1-2 people signed up.)  If someone can take your place, ensure someone on the Core Team knows so they can be added to Pretix if necessary.
+2. If step 1 is skipped or unsuccessful, notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to let us know that your event needs to be removed from the [Community Calendar](https://carpentries.org/community/#community-events) and the [Pretix calendar](https://pretix.carpentries.org/training/teaching-demos/). When the Core Team member cancels it in Pretix, existing trainees will be notified.
 
 #### Share lessons learned from a Training event or Demo
 
