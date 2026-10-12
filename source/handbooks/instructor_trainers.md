@@ -251,8 +251,6 @@ Signups for teaching demonstrations are normally announced with Instructor Train
 
 * [Log in to Pretix](https://pretix.carpentries.org/control/) and check participants in. This only tracks attendance. The next step will notify The Carpentries about who passed and who did not pass.  View the [Community Session Host handbook](/handbooks/community_session_host.md#how-to-check-in-participants-to-pretix) for guides on how to check participants in. 
 * Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries of who passed and who did not pass.
-* Save Etherpad by selecting the “star” at the top right of the screen  
-* Clear Etherpad of data from your session.  
 * Send each trainee an email using our templates letting them know they [passed](/resources/instructor-training/index.md#trainee-passed-teaching-demo) or [did not pass](/resources/instructor-training/index.md#trainee-invited-to-repeat-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and ask them to retry.
 
 #### Cancel a Demo
