@@ -167,7 +167,7 @@ To join or view the archives of one or more Carpentries mailing lists, you will 
 
 ### Meetings
 
-Instructor Trainer meetings are scheduled at two time slots, twice monthly. Each month includes a primary, “discussion” meeting, where Instructor Trainers are invited to discuss upcoming trainings or events they have recently led, and receive updates on recent developments from the community and Core Team. The second time slot is used on an “as needed” basis, and may be used for focused discussion on a specific topic or cancelled.
+Instructor Trainer meetings are scheduled once monthly. Instructor Trainers are invited to discuss upcoming trainings or events they have recently led, and they receive updates on recent developments from the community and Core Team. Occasionally, a second meeting in a month may be scheduled on an “as needed” basis for focused discussion on a specific topic.
 
 Meetings are open to Instructor Trainers, Instructor Trainer trainees, and invited guests. Anyone else with interest in attending an Instructor Trainer meeting should first contact the [Instructor Training Team](mailto:instructor.training@carpentries.org).
 
