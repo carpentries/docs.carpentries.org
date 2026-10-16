@@ -59,17 +59,17 @@ _Details of frequency and format of future Lesson Program Governor selections co
 * Rounds of recruitment will be announced on The Carpentries blog.
 * Onboarding aims to provide new Lesson Program Governors with context for the role of how LPGCs fit into The Carpentries model for community governance, and what they can expect as they prepare to join their first committee meeting.
 * The first onboarding for Lesson Program Governors took place in three parts:
-  * A general onboarding for all Lesson Program Governors
-  * An optional but recommended session on [How to Run a Meeting](#how-to-run-a-meeting-presentation), led by Greg Wilson
-  * An additional onboarding for the committee officers (Roles and responsibilities above)
+  1. A general onboarding for all Lesson Program Governors
+  2. An optional but recommended session on [How to Run a Meeting](#how-to-run-a-meeting-presentation), led by Greg Wilson
+  3. An additional onboarding for the committee officers (Roles and responsibilities above)
 * Onboardings are delivered by the Curriculum Team over Zoom, with the possibility of being onboarded through a recording of the sessions available for those who cannot attend synchronously.
   * Links to onboarding slides are provided in [the Resources section](#resources).
 * After these onboarding sessions, Lesson Program Governors should complete the following steps:
-  * [Log into AMY](https://amy.carpentries.org/) with GitHub credentials and update their profile.
-  * When updating their AMY profile, it is essential that Governors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
-  * Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups).
-* Subscribe to notifications from the GitHub repository for their committee
-  * Repositories for each committee are listed in [the Communication and Collaboration Spaces section](#communication-and-collaboration-spaces).
+  1. [Log into AMY](https://amy.carpentries.org/) with GitHub credentials and update their profile.
+  2. When updating their AMY profile, it is essential that Governors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
+  3. Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups).
+  4. Subscribe to notifications from the GitHub repository for their committee
+  5. Repositories for each committee are listed in [the Communication and Collaboration Spaces section](#communication-and-collaboration-spaces).
 
 ### Term Length
 Term lengths for Lesson Program Governors are defined in the charter document of each committee. The committee charter can be found in the committee’s GitHub repository.
@@ -87,7 +87,7 @@ Lesson Program Governor offboarding includes the following steps, which will be 
 
 ## Communication and Collaboration Spaces
 
-### Etherpad
+### Collaborative Notetaking
 
 The Carpentries uses {{'[Etherpad]({})'.format(etherpad)}} as a
 collaborative note-taking tool during workshops, training, and other
@@ -108,7 +108,7 @@ The following LPGC repositories exist on GitHub, for collecting meeting minutes,
 {{'[Join The Carpentries Slack workspace]({})'.format(slack_invite)}}. Although decision-making should be done in meetings and/or publicly visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
 If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
-### TopicBox
+### Mailing Lists
 You can access The Carpentries mailing lists from
 {{'[Topicbox]({}/latest)'.format(topicbox)}}. Each LPGC has a dedicated mailing list on TopicBox:
 

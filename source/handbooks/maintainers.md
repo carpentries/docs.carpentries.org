@@ -111,7 +111,7 @@ Maintainer monthly calls are listed on our
 {{'[Community Calendar]({}/community/events/)'.format(carpentries_website)}}. If you are planning to attend an upcoming meeting, please [register in Pretix](https://pretix.carpentries.org/lesson-maintainers/lesson-maintainers-meetings/). 
 Pretix will automatically calculate the event time in your local time zone and will send you a calendar invite and event reminders. 
 
-### Collaborative Notes
+### Collaborative Notetaking
 
 The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events.  Below is a list of Etherpads relevant to serving as a Lesson Maintainer.
 
@@ -123,7 +123,7 @@ The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a col
 
 -  [Maintainer Resources](https://github.com/carpentries/maintainer-resources):  a place to read minutes from the Maintainer Community Calls and helpful tips on flight rules.
 
-### TopicBox
+### Mailing List
 
 You can access The Carpentries mailing lists from
 {{'[Topicbox]({}/latest)'.format(topicbox)}}. Below is a list

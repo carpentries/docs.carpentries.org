@@ -116,7 +116,7 @@ on our {{'[Community Calendar]({}/community/events/)'.format(carpentries_website
 add relevant events to your personal calendar from there by clicking on
 the event you would like to attend.
 
-### Etherpad
+### Collaborative Notetaking
 
 The Carpentries uses [Etherpad](/resources/communications/etherpads.md) as a collaborative note-taking tool during workshops, training, and other Carpentries-related events. Often, Etherpad is used as a method for signing up for events as well. Below is a list of Etherpads relevant to serving as an Instructor.
 
@@ -142,7 +142,7 @@ relevant to the Instructor role, please consider joining the following channels:
 
 If you are new to Slack, please check out our {{"[Slack Guide]({})".format(slack_guide)}}.
 
-### TopicBox
+### Mailing Lists
 
 You can access The Carpentries mailing lists from
 [TopicBox](https://carpentries.topicbox.com/latest). Below are
