@@ -9,9 +9,9 @@ Subject: Recruiting co-Instructors: Carpentries Workshop at [ University/Organis
 
 Hi [ person name ],
 
-I would love to have you teach with me at an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ], hosted [ at location/ online ]. 
+I would love to have you teach with me at an upcoming [ Lesson Program ] workshop on [ dates of workshop ], hosted [ at location/ online ]. 
 
-[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am a [Certified Carpentries Instructor](https://docs.carpentries.org/handbooks/instructors.html#introduction) and I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
+[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am a [Certified Carpentries Instructor](https://docs.carpentries.org/handbooks/instructors.html#introduction) and I am really excited about using the [ Lesson Program ] curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
 
 **Your Role as a Co-Instructor**
 
@@ -43,9 +43,9 @@ Subject: Recruiting Helpers: Carpentries Workshop at [ University/Organisation ]
 
 Hi [ name ], 
 
-We would love to have you join us as a Helper for an upcoming [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The workshop will be [ at location/ virtual ]. 
+We would love to have you join us as a Helper for an upcoming [ Lesson Program ] workshop on [ dates of workshop ]. The workshop will be [ at location/ virtual ]. 
 
-[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
+[The Carpentries](https://carpentries.org/about-us/) is a registered 501(c)(3) non-profit that develops lessons in partnership with their global community to teach learners the foundational skills needed to work effectively and reproducibly with data and code. I am really excited about using the [ Lesson Program ] curriculum at [ organisation ] to help our [ target audience ] become more efficient in their research.
 
 **Your Role as a Helper**
 
@@ -105,7 +105,7 @@ Sincerely,
 ### Email Learners before Workshop   
 Subject: We Can't Wait to Welcome You! Upcoming Carpentries Workshop at [your university/orgaisation]
 
-We are excited for you to join us at the [ Data/Library/Software ] Carpentry workshop, hosted by [your university/orgaisation]!
+We are excited for you to join us at the [ Lesson Program ] workshop, hosted by [your university/orgaisation]!
 
 This email includes everything you need to prepare for the session and join the workshop each day.
 
@@ -158,7 +158,7 @@ Subject: Upcoming Carpentries Workshop at [your university/orgaisation]
 
 Hi [ helper names ],
  
-Thank you for being a Helper for the [ Data/Library/Software ] Carpentry workshop at [ organisation ]! Below, I have added information to
+Thank you for being a Helper for the [ Lesson Program ] workshop at [ organisation ]! Below, I have added information to
 assist you with preparing for the upcoming workshop.
 
 **Logistics**
@@ -196,7 +196,7 @@ Subject: Thank you for attending the Carpentries workshop at [organisation]!
 
 Hello,
 
-Thank you for attending the [ Data/Library/Software ] Carpentry workshop at [ organisation ]. We hope that you had fun and the skills you learnt will be useful!
+Thank you for attending the [ Lesson Program ] workshop at [ organisation ]. We hope that you had fun and the skills you learnt will be useful!
 
 Please take a moment to complete the post-workshop survey at [ link to survey ]. Your answers are essential to the continued improvement of our workshops for future learners.
 
@@ -220,7 +220,7 @@ Subject: Upcoming Carpentries Workshop at [organization]: Pre-workshop Survey
 
 Hello,
 
-We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] with [organisation]! As a reminder, you can find the workshop schedule, installation information, and more at [ WORKSHOP WEBSITE LINK]. 
+We are excited to meet you at the upcoming [ Lesson Program ] workshop with [organisation]! As a reminder, you can find the workshop schedule, installation information, and more at [ WORKSHOP WEBSITE LINK]. 
 
 To ensure the workshop is inclusive, and to help the Instructors tailor the content to your needs and experience level, please complete our pre-workshop survey [ INSERT LINK TO SURVEY ].
 
@@ -238,7 +238,7 @@ Subject: Carpentries Workshop at [organization]: Post-workshop Survey
 
 Hello,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]! We hope you left the workshop feeling more comfortable with the tools you learned and empowered to continue learning. 
+Thank you for attending the recent [ Lesson Program ] workshop! We hope you left the workshop feeling more comfortable with the tools you learned and empowered to continue learning. 
 
 We would love to learn about your workshop experience. Please take a few minutes to complete the post-workshop survey at [ INSERT LINK TO SURVEY ]. Not only will the survey help us understand your outcome from the workshop, but it will also help The Carpentries understand their programmatic efforts and the organisation’s  long-term impact on learners.
 
